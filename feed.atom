@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T05:44:29.161Z</id>
+    <id>urn:2022-07-15T00:12:06.469Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T05:44:29.161Z</updated>
+    <updated>2022-07-15T00:12:06.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Use RegEx to Match Emoji – Including Discord Emotes]]></title>
+        <title type="html"><![CDATA[Run Python Script – How to Execute Python Shell Commands in the Terminal]]></title>
+        <id>https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/</id>
+        <link href="https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/"/>
+        <updated>2022-07-14T15:24:17.000Z</updated>
+        <summary type="html"><![CDATA[When you're starting out learning a new programming language, your very first program is likely to be one that prints "hello world!".  Let's say you want to do this in Python. There are two ways of doing it: using the Python shell or writing it as a script and]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office Spaces]]></title>
+        <id>https://css-tricks.com/?p=366905</id>
+        <link href="https://css-tricks.com/office-spaces/"/>
+        <updated>2022-07-14T14:07:01.000Z</updated>
+        <summary type="html"><![CDATA[I think it’s super timely that Jim Nielson wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …
+Office Spaces originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use React and APIs to Build a Weather App]]></title>
+        <id>https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/</id>
+        <link href="https://www.freecodecamp.org/news/use-react-and-apis-to-build-a-weather-app/"/>
+        <updated>2022-07-14T14:04:36.000Z</updated>
+        <summary type="html"><![CDATA[A weather application is a very common beginner's programming project. But you can take this basic project to the next level by incorporating multiple APIs and autocomplete of places. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your React skills by guiding you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Nothing But Docker For Projects]]></title>
+        <id>https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/</id>
+        <link href="https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/"/>
+        <updated>2022-07-14T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Raphael Amoedo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use RegEx to Match Emoji – Discord Emotes Regular Expression Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/"/>
         <updated>2022-07-13T23:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer]]></summary>
+        <summary type="html"><![CDATA[Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with regular expressions (RegEx).  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including]]></summary>
         <author>
             <name>Naomi Carrigan</name>
         </author>
@@ -86,16 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer]]></title>
-        <id>https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/"/>
-        <updated>2022-07-13T14:45:30.000Z</updated>
-        <summary type="html"><![CDATA[I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.]]></summary>
-        <author>
-            <name>Zubin Pratap</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React Hooks: The Deep Cuts]]></title>
         <id>https://css-tricks.com/?p=366770</id>
         <link href="https://css-tricks.com/react-hooks-the-deep-cuts/"/>
@@ -104,16 +135,6 @@
 React Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Blessing Ene Anyebe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use Flutter for Your Projects]]></title>
-        <id>https://www.freecodecamp.org/news/why-you-should-use-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-use-flutter/"/>
-        <updated>2022-07-12T20:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is a UI toolkit and SDK which you can use to build applications. Flutter is open source and you can use it to build highly performant mobile and desktop apps.  In this article, I'll explain in detail the various benefits of using Flutter so you can decide whether]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
         </author>
     </entry>
     <entry>
@@ -466,28 +487,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conditionally Styling Selected Elements in a Grid Container]]></title>
-        <id>https://css-tricks.com/?p=366252</id>
-        <link href="https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/"/>
-        <updated>2022-06-15T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.
-🧐…
-Conditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Guide To Windows High Contrast Mode]]></title>
-        <id>https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/</id>
-        <link href="https://smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/"/>
-        <updated>2022-06-15T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode by using a good set of practices, including the media query `forced-colors` and its toolset.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
         </author>
     </entry>
 </feed>
