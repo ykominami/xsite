@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T00:12:06.469Z</id>
+    <id>urn:2022-07-16T00:12:00.620Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T00:12:06.469Z</updated>
+    <updated>2022-07-16T00:12:00.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
+        <id>https://css-tricks.com/?p=366993</id>
+        <link href="https://css-tricks.com/how-stroke-dasharray-patterns-work/"/>
+        <updated>2022-07-15T19:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a line in SVG:
+<svg<line x1="0" y1="30" x2="500" y2="30" stroke-color="#f8a100" /</svg
+You can use the stroke-dasharray property in CSS to make dashes:
+line {
+  stroke-dasharray: 5;
+}
+That 5 value is a relative unit based …
+How stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Infrastructure as Code by Building a Custom Machine Image in AWS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/</id>
+        <link href="https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/"/>
+        <updated>2022-07-15T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[strftime() Python – Datetime Format Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/strftime-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/strftime-in-python/"/>
+        <updated>2022-07-15T16:55:14.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable and Disable Search Highlights on Windows 11]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/"/>
+        <updated>2022-07-15T16:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolving Conflicts Between Designers And Engineers]]></title>
+        <id>https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/</id>
+        <link href="https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/"/>
+        <updated>2022-07-15T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Scott Himmer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp.org Press Kit]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-press-kit/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-press-kit/"/>
+        <updated>2022-07-14T22:20:32.000Z</updated>
+        <summary type="html"><![CDATA[This is the press kit for freeCodeCamp.org. Contact information: 100% of freeCodeCamp's revenue goes toward programs.  For interview requests, speaking engagements, or social media questions, please contact our founder, Quincy Larson, at quincy@freecodecamp.org. About freeCodeCamp.org Quincy Larson founded freeCodeCamp.org in 2014 to help people transition into tech careers using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Python Script – How to Execute Python Shell Commands in the Terminal]]></title>
         <id>https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/</id>
@@ -20,7 +87,7 @@
         <id>https://css-tricks.com/?p=366905</id>
         <link href="https://css-tricks.com/office-spaces/"/>
         <updated>2022-07-14T14:07:01.000Z</updated>
-        <summary type="html"><![CDATA[I think it’s super timely that Jim Nielson wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …
+        <summary type="html"><![CDATA[I think it’s super timely that Jim Nielsen wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …
 Office Spaces originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
@@ -84,46 +151,6 @@ Office Spaces originally published on CSS-Tricks. You should get the newsletter.
         <summary type="html"><![CDATA[If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what]]></summary>
         <author>
             <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Software Framework?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-software-framework/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-software-framework/"/>
-        <updated>2022-07-13T19:28:02.000Z</updated>
-        <summary type="html"><![CDATA[These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Local Branch in Git]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/"/>
-        <updated>2022-07-13T16:41:33.000Z</updated>
-        <summary type="html"><![CDATA[When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List.append() – How to Append to a List in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/"/>
-        <updated>2022-07-13T15:10:46.000Z</updated>
-        <summary type="html"><![CDATA[How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/"/>
-        <updated>2022-07-13T14:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write]]></summary>
-        <author>
-            <name>Abdulmalik Salawu</name>
         </author>
     </entry>
     <entry>
@@ -459,17 +486,6 @@ Thank you: @cpwnd]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Single Element Loaders: The Dots]]></title>
-        <id>https://css-tricks.com/?p=366342</id>
-        <link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
-        <updated>2022-06-17T14:47:55.000Z</updated>
-        <summary type="html"><![CDATA[We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …
-Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Easily Build And Support Tables In Figma]]></title>
         <id>https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/</id>
         <link href="https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/"/>
@@ -477,16 +493,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Delightful Data Visualization Examples]]></title>
-        <id>https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/</id>
-        <link href="https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/"/>
-        <updated>2022-06-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>

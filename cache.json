@@ -33,12 +33,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366993",
+          "author": "Geoff Graham",
+          "description": "Say you have a line in SVG:\n<svg<line x1=\"0\" y1=\"30\" x2=\"500\" y2=\"30\" stroke-color=\"#f8a100\" /</svg\nYou can use the stroke-dasharray property in CSS to make dashes:\nline {\n  stroke-dasharray: 5;\n}\nThat 5 value is a relative unit based …\nHow stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-stroke-dasharray-patterns-work/",
+          "publishedOn": "2022-07-15T19:43:40.000Z",
+          "wordCount": 1020,
+          "title": "How stroke-dasharray Patterns Work",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366993"
+        },
+        {
           "id": "https://css-tricks.com/?p=366905",
           "author": "Geoff Graham",
-          "description": "I think it’s super timely that Jim Nielson wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
+          "description": "I think it’s super timely that Jim Nielsen wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/office-spaces/",
           "publishedOn": "2022-07-14T14:07:01.000Z",
-          "wordCount": 1854,
+          "wordCount": 1859,
           "title": "Office Spaces",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
         },
@@ -48,7 +58,7 @@
           "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
           "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 2584,
+          "wordCount": 2654,
           "title": "React Hooks: The Deep Cuts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         },
@@ -68,7 +78,7 @@
           "description": "HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …\nTechnical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/technical-writing-for-developers/",
           "publishedOn": "2022-07-11T12:50:13.000Z",
-          "wordCount": 5488,
+          "wordCount": 5497,
           "title": "Technical Writing for Developers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366609"
         },
@@ -171,16 +181,6 @@
           "wordCount": 2166,
           "title": "Different Ways to Write CSS in React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366342",
-          "author": "Temani Afif",
-          "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/single-element-loaders-the-dots/",
-          "publishedOn": "2022-06-17T14:47:55.000Z",
-          "wordCount": 2421,
-          "title": "Single Element Loaders: The Dots",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
         }
       ]
     },
@@ -190,12 +190,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
+          "author": "hello@smashingmagazine.com (Scott Himmer)",
+          "description": "In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.",
+          "link": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
+          "publishedOn": "2022-07-15T09:30:00.000Z",
+          "wordCount": 5300,
+          "title": "Resolving Conflicts Between Designers And Engineers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
           "author": "hello@smashingmagazine.com (Raphael Amoedo)",
           "description": "Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.",
           "link": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
           "publishedOn": "2022-07-14T07:30:00.000Z",
-          "wordCount": 3667,
+          "wordCount": 3669,
           "title": "Using Nothing But Docker For Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg",
@@ -240,7 +255,7 @@
           "description": "Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.",
           "link": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
           "publishedOn": "2022-07-11T09:00:00.000Z",
-          "wordCount": 4030,
+          "wordCount": 4031,
           "title": "A Look At Remix And The Differences With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg",
@@ -270,7 +285,7 @@
           "description": "In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.",
           "link": "https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/",
           "publishedOn": "2022-07-07T09:00:00.000Z",
-          "wordCount": 4840,
+          "wordCount": 4834,
           "title": "An Accessibility-First Approach To Chart Visual Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cd18ef2b-760e-4a64-8c24-89d871b6b1f3/accessibility-first-approach-chart-visual-design.jpg",
@@ -285,7 +300,7 @@
           "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
           "publishedOn": "2022-07-06T12:00:00.000Z",
-          "wordCount": 8857,
+          "wordCount": 8858,
           "title": "Designing A Perfect Pricing Page UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
@@ -300,7 +315,7 @@
           "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
           "link": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
           "publishedOn": "2022-07-05T09:00:00.000Z",
-          "wordCount": 7333,
+          "wordCount": 7234,
           "title": "How To Build A Localized Website With Hugo And Strapi",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg",
@@ -330,7 +345,7 @@
           "description": "Let’s welcome the new month with some inspiring desktop wallpapers. Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2022. Enjoy!",
           "link": "https://smashingmagazine.com/2022/06/desktop-wallpaper-calendars-july-2022/",
           "publishedOn": "2022-06-30T07:00:00.000Z",
-          "wordCount": 4296,
+          "wordCount": 4398,
           "title": "Jump Into July (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05736c24-15e7-4229-ae24-4c55cd60aec0/july-22-melting-july-preview-opt.png",
@@ -360,7 +375,7 @@
           "description": "Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.",
           "link": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
           "publishedOn": "2022-06-27T12:30:00.000Z",
-          "wordCount": 4465,
+          "wordCount": 4459,
           "title": "Demystifying The New Gatsby Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg",
@@ -375,7 +390,7 @@
           "description": "Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.",
           "link": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "publishedOn": "2022-06-24T09:00:00.000Z",
-          "wordCount": 4243,
+          "wordCount": 4246,
           "title": "Voice Control Usability Considerations For Partially Visually Hidden Link Names",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54545ed9-3238-4807-b56c-3c2b18e576c7/voice-control-usability-considerations-partially-visually-hidden-link-names-sharing-card.jpg",
@@ -405,7 +420,7 @@
           "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
           "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
           "publishedOn": "2022-06-22T09:00:00.000Z",
-          "wordCount": 4814,
+          "wordCount": 4715,
           "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
@@ -420,7 +435,7 @@
           "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
           "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "publishedOn": "2022-06-21T13:00:00.000Z",
-          "wordCount": 4991,
+          "wordCount": 5091,
           "title": "Things I Wish I’d Known Earlier In My Career",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
@@ -435,7 +450,7 @@
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
           "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5455,
+          "wordCount": 5458,
           "title": "Precise Timing With Web Animations API",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
@@ -450,7 +465,7 @@
           "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
           "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
           "publishedOn": "2022-06-17T09:00:00.000Z",
-          "wordCount": 4585,
+          "wordCount": 4689,
           "title": "How To Easily Build And Support Tables In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
@@ -458,21 +473,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
-          "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
-          "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 4136,
-          "title": "Web Design Done Well: Delightful Data Visualization Examples",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg"
         }
       ]
     },
@@ -481,6 +481,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
+          "author": "Destiny Erhabor",
+          "description": "Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we",
+          "link": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
+          "publishedOn": "2022-07-15T17:15:48.000Z",
+          "wordCount": 3540,
+          "title": "Learn Infrastructure as Code by Building a Custom Machine Image in AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Understand-Infrastructure-as-a-code--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/strftime-in-python/",
+          "author": "Dillion Megida",
+          "description": "In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but",
+          "link": "https://www.freecodecamp.org/news/strftime-in-python/",
+          "publishedOn": "2022-07-15T16:55:14.000Z",
+          "wordCount": 1085,
+          "title": "strftime() Python – Datetime Format Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/python-datetime-format-tutorial.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
+          "publishedOn": "2022-07-15T16:17:45.000Z",
+          "wordCount": 1119,
+          "title": "How to Enable and Disable Search Highlights on Windows 11",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Artboard.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-press-kit/",
+          "author": "freeCodeCamp.org",
+          "description": "This is the press kit for freeCodeCamp.org. Contact information: 100% of freeCodeCamp's revenue goes toward programs.  For interview requests, speaking engagements, or social media questions, please contact our founder, Quincy Larson, at quincy@freecodecamp.org. About freeCodeCamp.org Quincy Larson founded freeCodeCamp.org in 2014 to help people transition into tech careers using",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-press-kit/",
+          "publishedOn": "2022-07-14T22:20:32.000Z",
+          "wordCount": 1287,
+          "title": "freeCodeCamp.org Press Kit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/freecodecamp--1-.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/run-python-script-how-to-execute-python-shell-commands-in-terminal/",
           "author": "Suchandra Datta",
@@ -540,46 +580,6 @@
           "wordCount": 1472,
           "title": "How to Set Alarms in Flutter Using the Alarm Manager Plus Package",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sonja-langford-eIkbSc3SDtI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
-          "author": "Tiago Monteiro",
-          "description": "These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks",
-          "link": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
-          "publishedOn": "2022-07-13T19:28:02.000Z",
-          "wordCount": 2531,
-          "title": "What is a Software Framework?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/logo-freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
-          "author": "Joel Olawanle",
-          "description": "When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
-          "publishedOn": "2022-07-13T16:41:33.000Z",
-          "wordCount": 1185,
-          "title": "How to Create a Local Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
-          "author": "Dillion Megida",
-          "description": "How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same",
-          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
-          "publishedOn": "2022-07-13T15:10:46.000Z",
-          "wordCount": 1170,
-          "title": "Python List.append() – How to Append to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/append-to-a-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
-          "author": "Abdulmalik Salawu",
-          "description": "Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
-          "publishedOn": "2022-07-13T14:57:25.000Z",
-          "wordCount": 1675,
-          "title": "How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-xxss-is-back-777001.jpg"
         }
       ]
     }
