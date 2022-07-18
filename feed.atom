@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-17T00:11:55.297Z</id>
+    <id>urn:2022-07-18T00:10:15.692Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T00:11:55.297Z</updated>
+    <updated>2022-07-18T00:10:15.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Animate Your Git Commit History with git-story]]></title>
+        <id>https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/</id>
+        <link href="https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/"/>
+        <updated>2022-07-17T17:07:24.000Z</updated>
+        <summary type="html"><![CDATA[It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably]]></summary>
+        <author>
+            <name>Jacob Stopak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
         <id>https://css-tricks.com/?p=366993</id>
@@ -141,16 +151,6 @@ Office Spaces originally published on CSS-Tricks. You should get the newsletter.
         <summary type="html"><![CDATA[In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Alarms in Flutter Using the Alarm Manager Plus Package]]></title>
-        <id>https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/"/>
-        <updated>2022-07-13T20:21:04.000Z</updated>
-        <summary type="html"><![CDATA[If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
         </author>
     </entry>
     <entry>
