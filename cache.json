@@ -23,12 +23,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367064",
+          "author": "Geoff Graham",
+          "description": "Michelle Barker with my favorite sorta blog post: short, practical, and leaves you with a valuable nugget for your time. Here, she gets into logical property shorthands in CSS, particularly those that set lengths just on a single axis, …\nLogical Properties for Useful Shorthands originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/logical-properties-for-useful-shorthands/",
+          "publishedOn": "2022-07-20T16:16:34.000Z",
+          "wordCount": 925,
+          "title": "Logical Properties for Useful Shorthands",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367064"
+        },
+        {
           "id": "https://css-tricks.com/?p=366993",
           "author": "Geoff Graham",
           "description": "Say you have a line in SVG:\n<svg<line x1=\"0\" y1=\"30\" x2=\"500\" y2=\"30\" stroke-color=\"#f8a100\" /</svg\nYou can use the stroke-dasharray property in CSS to make dashes:\nline {\n  stroke-dasharray: 5;\n}\nThat 5 value is a relative unit based …\nHow stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/how-stroke-dasharray-patterns-work/",
           "publishedOn": "2022-07-15T19:43:40.000Z",
-          "wordCount": 1042,
+          "wordCount": 1009,
           "title": "How stroke-dasharray Patterns Work",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366993"
         },
@@ -38,7 +48,7 @@
           "description": "I think it’s super timely that Jim Nielsen wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/office-spaces/",
           "publishedOn": "2022-07-14T14:07:01.000Z",
-          "wordCount": 1859,
+          "wordCount": 1837,
           "title": "Office Spaces",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
         },
@@ -48,7 +58,7 @@
           "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
           "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 2691,
+          "wordCount": 2934,
           "title": "React Hooks: The Deep Cuts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         },
@@ -58,7 +68,7 @@
           "description": "Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …\nIn Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/in-praise-of-shadows/",
           "publishedOn": "2022-07-12T17:08:49.000Z",
-          "wordCount": 1061,
+          "wordCount": 1028,
           "title": "In Praise of Shadows",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366896"
         },
@@ -68,7 +78,7 @@
           "description": "HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …\nTechnical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/technical-writing-for-developers/",
           "publishedOn": "2022-07-11T12:50:13.000Z",
-          "wordCount": 5682,
+          "wordCount": 6093,
           "title": "Technical Writing for Developers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366609"
         },
@@ -78,7 +88,7 @@
           "description": "Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.\nThings …\nCollective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/collective-nouns-for-the-web/",
           "publishedOn": "2022-07-01T19:15:00.000Z",
-          "wordCount": 978,
+          "wordCount": 945,
           "title": "Collective Nouns for the Web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366689"
         },
@@ -88,7 +98,7 @@
           "description": "For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …\nSingle Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-going-3d/",
           "publishedOn": "2022-07-01T13:24:09.000Z",
-          "wordCount": 3079,
+          "wordCount": 3083,
           "title": "Single Element Loaders: Going 3D!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366544"
         },
@@ -98,7 +108,7 @@
           "description": "Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.” According to its FAQ:\nWith a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s \n…\nBunny Fonts originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/bunny-fonts/",
           "publishedOn": "2022-06-30T17:28:57.000Z",
-          "wordCount": 1429,
+          "wordCount": 1396,
           "title": "Bunny Fonts",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366605"
         },
@@ -108,7 +118,7 @@
           "description": "Eric Eggert:\nThere are a few legitimate use cases for this technique. For example, you might have a table with titles and descriptions. To preserve more space for the title, you constrain the description to one line on small \n…\nText-overflow: ellipsis considered harmful originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/text-overflow-ellipsis-considered-harmful/",
           "publishedOn": "2022-06-30T13:38:16.000Z",
-          "wordCount": 1301,
+          "wordCount": 1276,
           "title": "Text-overflow: ellipsis considered harmful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366557"
         },
@@ -118,7 +128,7 @@
           "description": "There is an abundance of both CSS and JavaScript libraries for animation libraries out there. So many, in fact, that choosing the right one for your project can seem impossible. That’s the situation I faced when I decided to build …\nHow I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/choosing-an-animation-library-for-solitaire/",
           "publishedOn": "2022-06-29T12:55:44.000Z",
-          "wordCount": 2705,
+          "wordCount": 2672,
           "title": "How I Chose an Animation Library for My Solitaire Game",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366509"
         },
@@ -128,7 +138,7 @@
           "description": "Head’s up! The survey closed on July 12, 2022. We got tons of responses — thanks to everyone for helping us out!\nHey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
           "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 1163,
+          "wordCount": 1145,
           "title": "Help Shape the Future of CSS-Tricks!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
         },
@@ -138,7 +148,7 @@
           "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
           "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 2703,
+          "wordCount": 2670,
           "title": "My Dumbest CSS Mistakes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         },
@@ -148,7 +158,7 @@
           "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
           "publishedOn": "2022-06-27T13:27:49.000Z",
-          "wordCount": 4035,
+          "wordCount": 3984,
           "title": "Great (and Free!) Web Development Books You Can Get Online",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
         },
@@ -158,19 +168,9 @@
           "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/single-element-loaders-the-bars/",
           "publishedOn": "2022-06-24T20:00:29.000Z",
-          "wordCount": 2430,
+          "wordCount": 2470,
           "title": "Single Element Loaders: The Bars",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366452",
-          "author": "Saleh Mubashar",
-          "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
-          "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 2166,
-          "title": "Different Ways to Write CSS in React",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         }
       ]
     },
@@ -180,12 +180,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
+          "author": "hello@smashingmagazine.com (Louis Lazaris)",
+          "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
+          "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
+          "publishedOn": "2022-07-20T10:00:00.000Z",
+          "wordCount": 3969,
+          "title": "Powerful Image Optimization Tools",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
           "author": "hello@smashingmagazine.com (Eric Burel)",
           "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
           "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
           "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4784,
+          "wordCount": 4781,
           "title": "A New Pattern For The Jamstack: Segmented Rendering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
@@ -200,7 +215,7 @@
           "description": "In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.",
           "link": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
           "publishedOn": "2022-07-15T09:30:00.000Z",
-          "wordCount": 5399,
+          "wordCount": 5293,
           "title": "Resolving Conflicts Between Designers And Engineers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg",
@@ -215,7 +230,7 @@
           "description": "Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.",
           "link": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
           "publishedOn": "2022-07-14T07:30:00.000Z",
-          "wordCount": 3766,
+          "wordCount": 3668,
           "title": "Using Nothing But Docker For Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg",
@@ -260,7 +275,7 @@
           "description": "Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.",
           "link": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
           "publishedOn": "2022-07-11T09:00:00.000Z",
-          "wordCount": 4032,
+          "wordCount": 4033,
           "title": "A Look At Remix And The Differences With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg",
@@ -275,7 +290,7 @@
           "description": "As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.",
           "link": "https://smashingmagazine.com/2022/07/five-step-approach-metaverse/",
           "publishedOn": "2022-07-08T10:00:00.000Z",
-          "wordCount": 4832,
+          "wordCount": 4835,
           "title": "A Five-Step Approach To The Metaverse",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1675c66-5f16-43dc-a0f7-1b30e970b897/five-step-approach-metaverse.jpg",
@@ -290,7 +305,7 @@
           "description": "In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.",
           "link": "https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/",
           "publishedOn": "2022-07-07T09:00:00.000Z",
-          "wordCount": 4838,
+          "wordCount": 4828,
           "title": "An Accessibility-First Approach To Chart Visual Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cd18ef2b-760e-4a64-8c24-89d871b6b1f3/accessibility-first-approach-chart-visual-design.jpg",
@@ -305,7 +320,7 @@
           "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
           "publishedOn": "2022-07-06T12:00:00.000Z",
-          "wordCount": 8858,
+          "wordCount": 8856,
           "title": "Designing A Perfect Pricing Page UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
@@ -320,7 +335,7 @@
           "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
           "link": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
           "publishedOn": "2022-07-05T09:00:00.000Z",
-          "wordCount": 7228,
+          "wordCount": 7238,
           "title": "How To Build A Localized Website With Hugo And Strapi",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg",
@@ -335,7 +350,7 @@
           "description": "In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.",
           "link": "https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/",
           "publishedOn": "2022-07-04T14:00:00.000Z",
-          "wordCount": 5582,
+          "wordCount": 5580,
           "title": "Accelerating UX Maturity With A Breakthrough Project",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/266042e4-990d-4e79-bdf2-ad217d6577c1/accelerating-ux-maturity-breakthrough-project.jpg",
@@ -350,7 +365,7 @@
           "description": "Let’s welcome the new month with some inspiring desktop wallpapers. Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2022. Enjoy!",
           "link": "https://smashingmagazine.com/2022/06/desktop-wallpaper-calendars-july-2022/",
           "publishedOn": "2022-06-30T07:00:00.000Z",
-          "wordCount": 4398,
+          "wordCount": 4397,
           "title": "Jump Into July (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05736c24-15e7-4229-ae24-4c55cd60aec0/july-22-melting-july-preview-opt.png",
@@ -380,7 +395,7 @@
           "description": "Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.",
           "link": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
           "publishedOn": "2022-06-27T12:30:00.000Z",
-          "wordCount": 4561,
+          "wordCount": 4461,
           "title": "Demystifying The New Gatsby Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg",
@@ -395,7 +410,7 @@
           "description": "Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.",
           "link": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "publishedOn": "2022-06-24T09:00:00.000Z",
-          "wordCount": 4244,
+          "wordCount": 4239,
           "title": "Voice Control Usability Considerations For Partially Visually Hidden Link Names",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54545ed9-3238-4807-b56c-3c2b18e576c7/voice-control-usability-considerations-partially-visually-hidden-link-names-sharing-card.jpg",
@@ -425,7 +440,7 @@
           "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
           "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
           "publishedOn": "2022-06-22T09:00:00.000Z",
-          "wordCount": 4713,
+          "wordCount": 4715,
           "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
@@ -440,7 +455,7 @@
           "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
           "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
           "publishedOn": "2022-06-21T13:00:00.000Z",
-          "wordCount": 4988,
+          "wordCount": 4991,
           "title": "Things I Wish I’d Known Earlier In My Career",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
@@ -456,6 +471,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-minimum-viable-product/",
+          "author": "Beau Carnes",
+          "description": "A minimum viable product (MVP) is a product with just enough features to be usable by early adopters. The goal is to get feedback from these early adopters and learn what features to add or remove from the product before releasing it to a wider audience. In this course, you",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-minimum-viable-product/",
+          "publishedOn": "2022-07-20T20:00:53.000Z",
+          "wordCount": 917,
+          "title": "How to Build a Minimum Viable Product",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/mvp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-think-like-a-computer-science-professor/",
+          "author": "Beau Carnes",
+          "description": "Many tutorials demonstrate how to build something that the instructor has already fully planned out beforehand. But it can be helpful to see the thought process that goes into building a project completely from scratch. We just published a course on the freeCodeCamp.org YouTube channel that will demonstrate how an",
+          "link": "https://www.freecodecamp.org/news/how-to-think-like-a-computer-science-professor/",
+          "publishedOn": "2022-07-20T19:18:54.000Z",
+          "wordCount": 867,
+          "title": "How to Think Like a Computer Science Professor",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/think.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/",
+          "author": "D.M. Oladele",
+          "description": "Declaring multiple variables to hold different values can make your program untidy and cumbersome.  For instance, if you need to store three characteristics each for 10 individuals, having 30 variables individually declared can make your program appear less organized.  So you need a way to group values with",
+          "link": "https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/",
+          "publishedOn": "2022-07-20T17:50:17.000Z",
+          "wordCount": 2948,
+          "title": "Objects in JavaScript – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/shelf4.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-basic-git-and-github-commands/",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "In my previous tutorial [/news/git-and-github-the-basics/] we talked about what version control is, how Git and GitHub work, and how to setup an account with GitHub. Today we will be looking at how to use some basic Git commands in a real project. I created a simple project that we'll be",
+          "link": "https://www.freecodecamp.org/news/how-to-use-basic-git-and-github-commands/",
+          "publishedOn": "2022-07-20T16:39:48.000Z",
+          "wordCount": 1874,
+          "title": "Basic Git Commands – How to Use Git in a Real Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/git-and-github.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-skip-to-main-content-links-to-a-website/",
+          "author": "Joseph Mawa",
+          "description": "Websites and web applications have increasingly become more complex. But it's still our responsibility, as web developers, to strive for the highest level of accessibility we possibly can.  This isn't always easy, as the range of user accessibility needs can complicate things even further.  Thankfully, various guidelines exist",
+          "link": "https://www.freecodecamp.org/news/how-to-add-skip-to-main-content-links-to-a-website/",
+          "publishedOn": "2022-07-20T16:30:05.000Z",
+          "wordCount": 1929,
+          "title": "How to Add a \"Skip to Main Content\" Link to Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/man-sitting-infront-of-conputer.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-call-a-function-in-python-def-syntax-example/",
+          "author": "Kolade Chris",
+          "description": "In Python and other programming languages, you can use functions to avoid repeting yourself and to reuse pieces of code. To make functions work, you don’t just write them and say goodbye – you have to call them too. Before you call a function, you need to write it with",
+          "link": "https://www.freecodecamp.org/news/how-to-call-a-function-in-python-def-syntax-example/",
+          "publishedOn": "2022-07-20T16:17:26.000Z",
+          "wordCount": 1402,
+          "title": "How to Call a Function in Python – Def Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/callFunction.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-truffle/",
+          "author": "Jagruti Tiwari",
+          "description": "Learning a new technology often means learning a new framework, programming language, IDE, or deployment method. And the blockchain is no different. In this tutorial, I am going to show you how to get started with Truffle [https://trufflesuite.com/docs/vscode-ext/installation-guide/], a Node.js blockchain framework, in Visual Studio Code. How to Install Truffle",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-truffle/",
+          "publishedOn": "2022-07-20T16:08:22.000Z",
+          "wordCount": 1420,
+          "title": "Learn Truffle and Ganache – How to Create and Deploy a Smart Contract",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/ff-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, when you hear the term \"loop\", you probably think of using the various loop methods like for loops [/news/javascript-for-loops/], forEach() [/news/javascript-foreach-js-array-for-each-example/], map() and others. But in the case of objects, unfortunately, these methods don't work because objects are not iterable. This doesn't mean we can't loop through an",
+          "link": "https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/",
+          "publishedOn": "2022-07-20T15:55:52.000Z",
+          "wordCount": 1600,
+          "title": "Loop Through an Object in JavaScript – How to Iterate Over an Object in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--2-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/",
           "author": "Ibrahim Abayomi Ogunbiyi",
@@ -475,86 +570,6 @@
           "wordCount": 2259,
           "title": "While Loops in Python – While True Loop Statement Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/alex-knight-j4uuKnN43_M-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/",
-          "author": "Kolade Chris",
-          "description": "I hear some of my co-workers talk about getting to inbox zero. So I started thinking of a way to clear out my over over 4000 unread messages. And after days of searching around, I found a way. I even went on to delete 20,000 email messages from the trash",
-          "link": "https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/",
-          "publishedOn": "2022-07-19T16:03:45.000Z",
-          "wordCount": 1284,
-          "title": "How to Batch Delete Emails in Gmail – Delete Multiple Email Messages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/batchDeleteGmailMessages.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/",
-          "author": "Zaira Hira",
-          "description": "When you are working with files on the command line, you might need to check their modification time and content integrity.  Linux has a powerful command line which allows you to explore multiple aspects of files and filesystems. In case you need to check if file was modified, you",
-          "link": "https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/",
-          "publishedOn": "2022-07-19T15:33:13.000Z",
-          "wordCount": 1439,
-          "title": "What is Checksum? How to Check if a File was Modified Using the cksum Command in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.gif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/",
-          "author": "Sebastian Sigl",
-          "description": "In many applications, you need random numbers. You might need to throw dice in video games, create a private cryptography key, or create a user’s temporary password.  All these applications depend on random number creation. It’s sometimes challenging to differentiate what to use when, and security is a deep",
-          "link": "https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/",
-          "publishedOn": "2022-07-19T15:09:37.000Z",
-          "wordCount": 1954,
-          "title": "Java Random Number Generator – How to Generate Numbers with Math.random() and Convert to Integers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/java-number-generators.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
-          "author": "Obumuneme Nwabude",
-          "description": "Flutter is a UI toolkit for building cross-platform applications. You can build Flutter apps using various state management techniques like the Stacked [https://pub.dev/packages/stacked] architecture.  This article will explain what Stacked architecture is and will guide you through creating a simple Todo App in Flutter with Stacked. Table of Contents",
-          "link": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
-          "publishedOn": "2022-07-18T22:03:02.000Z",
-          "wordCount": 5948,
-          "title": "How to Use Stacked Architecture to Build a Flutter Todo App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-cannot-unpack-non-iterable-nonetype-object-how-to-fix-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're working with iterable objects like Lists, Sets, and Tuples in Python, you might want to assign the items in these objects to individual variables. This is a process known as unpacking.  During the process of unpacking items in iterable objects, you may get an error that says:",
-          "link": "https://www.freecodecamp.org/news/typeerror-cannot-unpack-non-iterable-nonetype-object-how-to-fix-in-python/",
-          "publishedOn": "2022-07-18T19:50:05.000Z",
-          "wordCount": 1562,
-          "title": "Typeerror: cannot unpack non-iterable nonetype object – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/markus-spiske-iar-afB0QQw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/",
-          "author": "Keyur Paralkar",
-          "description": "At one point or another, you might need to use global state inside your React apps. This lets you have your data in one place and make sure the required components can access it.  To help you do this, you'll often use some sort of state management library like",
-          "link": "https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/",
-          "publishedOn": "2022-07-18T19:26:56.000Z",
-          "wordCount": 3077,
-          "title": "Singleton Design Pattern – How it Works in JavaScript with Example Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sven-mieke-fteR0e2BzKo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/binary-search-in-python-with-examples/",
-          "author": "Tantoluwa Heritage Alabi",
-          "description": "In our daily lives, we're constantly searching for information or trying to find solutions to problems we encounter. When going through search results on the web, we pick the most relevant articles or resources that we think will help us. Search is such a part of our lives because we",
-          "link": "https://www.freecodecamp.org/news/binary-search-in-python-with-examples/",
-          "publishedOn": "2022-07-18T16:53:41.000Z",
-          "wordCount": 3366,
-          "title": "Binary Search in Python – How to Code the Algorithm with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-277593.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/",
-          "author": "Valentine Gatwiri",
-          "description": "Puppeteer is a JavaScript library that allows you to script and interact with browser windows. In this guide, we'll explore the basics of using Puppeteer with Node.js so you can start automating your tests. Prerequisites  * Basic understanding of Node.js  * Basic understanding of Puppeteer  * A",
-          "link": "https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/",
-          "publishedOn": "2022-07-18T16:41:54.000Z",
-          "wordCount": 1573,
-          "title": "How to Use Puppeteer With Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pup.jpg"
         }
       ]
     }
