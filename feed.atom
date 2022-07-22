@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T00:11:00.397Z</id>
+    <id>urn:2022-07-22T00:12:11.950Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T00:11:00.397Z</updated>
+    <updated>2022-07-22T00:12:11.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Does // Mean in Python? Operators in Python]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/"/>
+        <updated>2022-07-21T15:30:37.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typeerror: string indices must be integers – How to Fix in Python]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/"/>
+        <updated>2022-07-21T15:18:02.000Z</updated>
+        <summary type="html"><![CDATA[In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = "Hello World!" print(greet[0]) # H To access the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roundup of Recent Document Outline Chatter]]></title>
+        <id>https://css-tricks.com/?p=367048</id>
+        <link href="https://css-tricks.com/roundup-of-recent-document-outline-chatter/"/>
+        <updated>2022-07-21T14:04:34.000Z</updated>
+        <summary type="html"><![CDATA[It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.
+First off, you should know …
+Roundup of Recent Document Outline Chatter originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Apache Cassandra, a NoSQL Database]]></title>
+        <id>https://www.freecodecamp.org/news/learn-apache-a/</id>
+        <link href="https://www.freecodecamp.org/news/learn-apache-a/"/>
+        <updated>2022-07-21T13:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Apache Cassandra is a NoSQL database used by some of the largest companies in the world, including Facebook, Netflix, eBay, and Twitter. We just published a full course on Apache Cassandra on the freeCodeCamp.org YouTube channel. Apache Cassandra is a free and open-source distributed NoSQL database management system designed to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking Back At SmashingConf SF 2022]]></title>
+        <id>https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/</id>
+        <link href="https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/"/>
+        <updated>2022-07-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jarijn Nijkamp)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center a Div with CSS – 10 Different Ways]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/"/>
+        <updated>2022-07-20T22:08:19.000Z</updated>
+        <summary type="html"><![CDATA[As a web developer, sometimes centering a div feels like one of the toughest jobs on planet Earth.  Well, not anymore. In this article, you'll learn 10 different ways to center a  div. We will explore how to center divs using the CSS position property, CSS  Flexbox,]]></summary>
+        <author>
+            <name>Soham De Roy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Minimum Viable Product]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-minimum-viable-product/</id>
@@ -30,7 +92,7 @@
         <id>https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/</id>
         <link href="https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/"/>
         <updated>2022-07-20T17:50:17.000Z</updated>
-        <summary type="html"><![CDATA[Declaring multiple variables to hold different values can make your program untidy and cumbersome.  For instance, if you need to store three characteristics each for 10 individuals, having 30 variables individually declared can make your program appear less organized.  So you need a way to group values with]]></summary>
+        <summary type="html"><![CDATA[If you declare multiple variables to hold different values, this can make your program messy and clunky.  For instance, if you need to store three characteristics each for 10 individuals, having 30 variables individually declared can make your program appear less organized.  So you need a way to]]></summary>
         <author>
             <name>D.M. Oladele</name>
         </author>
@@ -77,26 +139,6 @@ Logical Properties for Useful Shorthands originally published on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Truffle and Ganache – How to Create and Deploy a Smart Contract]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-with-truffle/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-with-truffle/"/>
-        <updated>2022-07-20T16:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Learning a new technology often means learning a new framework, programming language, IDE, or deployment method. And the blockchain is no different. In this tutorial, I am going to show you how to get started with Truffle [https://trufflesuite.com/docs/vscode-ext/installation-guide/], a Node.js blockchain framework, in Visual Studio Code. How to Install Truffle]]></summary>
-        <author>
-            <name>Jagruti Tiwari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Through an Object in JavaScript – How to Iterate Over an Object in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/"/>
-        <updated>2022-07-20T15:55:52.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, when you hear the term "loop", you probably think of using the various loop methods like for loops [/news/javascript-for-loops/], forEach() [/news/javascript-foreach-js-array-for-each-example/], map() and others. But in the case of objects, unfortunately, these methods don't work because objects are not iterable. This doesn't mean we can't loop through an]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Powerful Image Optimization Tools]]></title>
         <id>https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/</id>
         <link href="https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/"/>
@@ -104,26 +146,6 @@ Logical Properties for Useful Shorthands originally published on CSS-Tricks. You
         <summary type="html"><![CDATA[Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a String to a DateTime Object in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/"/>
-        <updated>2022-07-19T20:40:28.000Z</updated>
-        <summary type="html"><![CDATA[When you get dates from raw data, they're typically in the form of string objects. But in this form, you can't access the date's properties like the year, month, and so on.  The solution to this problem is to parse (or convert) the string object into a datetime object]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[While Loops in Python – While True Loop Statement Example]]></title>
-        <id>https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/</id>
-        <link href="https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/"/>
-        <updated>2022-07-19T16:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Python has many tools and features that can help you automate repetitive tasks. One of those features is loops. Loops are a helpful and frequently used feature in all modern programming languages. Loops are helpful when you want to automate a specific repetitive task or prevent yourself from copying and]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -422,17 +444,6 @@ Great (and Free!) Web Development Books You Can Get Online originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Single Element Loaders: The Bars]]></title>
-        <id>https://css-tricks.com/?p=366526</id>
-        <link href="https://css-tricks.com/single-element-loaders-the-bars/"/>
-        <updated>2022-06-24T20:00:29.000Z</updated>
-        <summary type="html"><![CDATA[We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …
-Single Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Voice Control Usability Considerations For Partially Visually Hidden Link Names]]></title>
         <id>https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/</id>
         <link href="https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/"/>
@@ -450,36 +461,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[In this article, we will enhance the Gantt Chart component with some interaction possibilities for editing the jobs. In doing so, we will continue to work with Vanilla JS and Web Components and look at some JavaScript libraries that can greatly simplify the effort of developing a fully functional Gantt Chart.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anna Prenzel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Test Your MVP Within 2 Weeks (Or Less)]]></title>
-        <id>https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/</id>
-        <link href="https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/"/>
-        <updated>2022-06-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sergey Krasotin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.15.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
-        <updated>2022-06-22T06:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I Wish I’d Known Earlier In My Career]]></title>
-        <id>https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/</id>
-        <link href="https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/"/>
-        <updated>2022-06-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
