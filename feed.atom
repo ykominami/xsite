@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T00:12:11.950Z</id>
+    <id>urn:2022-07-23T00:11:20.416Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T00:12:11.950Z</updated>
+    <updated>2022-07-23T00:11:20.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why I Chose Angular to Build a URL Shortener]]></title>
+        <id>https://css-tricks.com/?p=367003</id>
+        <link href="https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/"/>
+        <updated>2022-07-22T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.
+Behind the scenes, the long …
+Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Obumuneme Nwabude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcoming Imposter Syndrome By Developing Your Own Guiding Principles]]></title>
+        <id>https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/</id>
+        <link href="https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/"/>
+        <updated>2022-07-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does // Mean in Python? Operators in Python]]></title>
         <id>https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/</id>
@@ -423,17 +445,6 @@ My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the n
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Great (and Free!) Web Development Books You Can Get Online]]></title>
-        <id>https://css-tricks.com/?p=366468</id>
-        <link href="https://css-tricks.com/web-development-books-you-can-get-for-free/"/>
-        <updated>2022-06-27T13:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …
-Great (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Victor Adedokun</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Demystifying The New Gatsby Framework]]></title>
         <id>https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/</id>
         <link href="https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/"/>
@@ -451,16 +462,6 @@ Great (and Free!) Web Development Books You Can Get Online originally published 
         <summary type="html"><![CDATA[Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create A Vanilla JavaScript Gantt Chart: Adding Task Editing Features (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/</id>
-        <link href="https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/"/>
-        <updated>2022-06-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will enhance the Gantt Chart component with some interaction possibilities for editing the jobs. In doing so, we will continue to work with Vanilla JS and Web Components and look at some JavaScript libraries that can greatly simplify the effort of developing a fully functional Gantt Chart.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anna Prenzel)</name>
         </author>
     </entry>
 </feed>
