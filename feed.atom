@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T00:11:49.774Z</id>
+    <id>urn:2022-07-27T00:12:16.578Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-26T00:11:49.774Z</updated>
+    <updated>2022-07-27T00:12:16.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Software Architecture Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/</id>
+        <link href="https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"/>
+        <updated>2022-07-26T21:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to talk about a very interesting, vast, and complex topic: software architecture. This is something that used to confuse me quite a bit when I was starting to code. So in this article I'll try to give you a simple, surface-level, easy to]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Terraform by Deploying a Jenkins Server on AWS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/</id>
+        <link href="https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/"/>
+        <updated>2022-07-26T18:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Hello, everyone! Today we're going to learn about Terraform by building a project. Terraform is more than just a tool to boost the productivity of operations teams. You have the chance to transform your developers into operators by implementing Terraform. This can help increase the efficiency of your entire engineering]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications]]></title>
+        <id>https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/</id>
+        <link href="https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/"/>
+        <updated>2022-07-26T17:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Understanding test-driven development is an essential part of being a prolific software developer. Testing provides a solid platform for building reliable programs. This tutorial will show you all you need to implement test-driven development in your JavaScript and React applications. Table of Contents  1.  What Is Test-Driven Development?]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save and Exit Nano in Terminal – Nano Quit Command]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/"/>
+        <updated>2022-07-26T16:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Nano is a command line-based code editor known for its simplicity compared to other editors like Vim and Emacs. But if you are new to Nano, performing basic operations like creating files, saving the file, and exiting the editor might be confusing. So, in this article, I want to show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the flat() and flatMap() Methods to Flatten Arrays in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/</id>
+        <link href="https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/"/>
+        <updated>2022-07-26T16:47:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article I'm going to explain how to use the new array methods introduced in ES2019 (EcmaScript 2019) – flat() and flatMap(). You use these methods to flatten arrays. The methods are very useful and easy to use. It will really be cool to use these methods in your]]></summary>
+        <author>
+            <name>Kenechukwu Nwobodo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List Sorting – How to Order Lists in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/"/>
+        <updated>2022-07-26T16:31:59.000Z</updated>
+        <summary type="html"><![CDATA[There are many reasons you might want to sort lists in your Python applications. In this article, I'll show you how to order lists in ascending and descending order depending on what you need to do. What is a List in Python? A list is a data type in Python]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Using MongoDB – Database Setup for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/how-to-start-using-mongodb/</id>
@@ -57,26 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python find() – How to Search for a Substring in a String]]></title>
-        <id>https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/</id>
-        <link href="https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/"/>
-        <updated>2022-07-25T13:56:30.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with a Python program, you might need to search for and locate a specific string inside another string. This is where Python's built-in string methods come in handy. In this article, you will learn how to use Python's built-in find() string method to help you search for]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easily create a website using Elementor and WordPress]]></title>
-        <id>https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/</id>
-        <link href="https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/"/>
-        <updated>2022-07-25T12:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Elementor makes it simple to create a WordPress website using a drag and drop interface. You don't even need any code! We just published an Elementor course on the freeCodeCamp.org YouTube channel that will teach you how to easily create your own website. I created this course. I've also made]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why I Chose Angular to Build a URL Shortener]]></title>
         <id>https://css-tricks.com/?p=367003</id>
         <link href="https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/"/>
@@ -99,26 +139,6 @@ Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Does // Mean in Python? Operators in Python]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/"/>
-        <updated>2022-07-21T15:30:37.000Z</updated>
-        <summary type="html"><![CDATA[In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typeerror: string indices must be integers – How to Fix in Python]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/"/>
-        <updated>2022-07-21T15:18:02.000Z</updated>
-        <summary type="html"><![CDATA[In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = "Hello World!" print(greet[0]) # H To access the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roundup of Recent Document Outline Chatter]]></title>
         <id>https://css-tricks.com/?p=367048</id>
         <link href="https://css-tricks.com/roundup-of-recent-document-outline-chatter/"/>
@@ -131,16 +151,6 @@ Roundup of Recent Document Outline Chatter originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Apache Cassandra, a NoSQL Database]]></title>
-        <id>https://www.freecodecamp.org/news/learn-apache-a/</id>
-        <link href="https://www.freecodecamp.org/news/learn-apache-a/"/>
-        <updated>2022-07-21T13:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Apache Cassandra is a NoSQL database used by some of the largest companies in the world, including Facebook, Netflix, eBay, and Twitter. We just published a full course on Apache Cassandra on the freeCodeCamp.org YouTube channel. Apache Cassandra is a free and open-source distributed NoSQL database management system designed to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Looking Back At SmashingConf SF 2022]]></title>
         <id>https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/</id>
         <link href="https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/"/>
@@ -148,16 +158,6 @@ Roundup of Recent Document Outline Chatter originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jarijn Nijkamp)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center a Div with CSS – 10 Different Ways]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/"/>
-        <updated>2022-07-20T22:08:19.000Z</updated>
-        <summary type="html"><![CDATA[As a web developer, sometimes centering a div feels like one of the toughest jobs on planet Earth.  Well, not anymore. In this article, you'll learn 10 different ways to center a  div. We will explore how to center divs using the CSS position property, CSS  Flexbox,]]></summary>
-        <author>
-            <name>Soham De Roy</name>
         </author>
     </entry>
     <entry>
