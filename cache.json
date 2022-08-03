@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367158",
+          "author": "Geoff Graham",
+          "description": "Dave Rupert with some modern CSS magic that tackles one of those classic conundrums: what happens when the CSS for component is unable to handle the content we throw at it?\nThe specific situation is when a layout grid expects …\nImplicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/implicit-grids-repeatable-layout-patterns-and-danglers/",
+          "publishedOn": "2022-08-02T13:10:49.000Z",
+          "wordCount": 1000,
+          "title": "Implicit Grids, Repeatable Layout Patterns, and Danglers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367158"
+        },
+        {
           "id": "https://css-tricks.com/?p=367178",
           "author": "Temani Afif",
           "description": "When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…\nExploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/",
           "publishedOn": "2022-08-01T13:44:13.000Z",
-          "wordCount": 5372,
+          "wordCount": 5409,
           "title": "Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367178"
         },
@@ -134,7 +144,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4788,
+          "wordCount": 4791,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -149,7 +159,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4529,
+          "wordCount": 4533,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -164,7 +174,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4638,
+          "wordCount": 4544,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -179,7 +189,7 @@
           "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
           "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9559,
+          "wordCount": 9568,
           "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
@@ -194,7 +204,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5068,
+          "wordCount": 5073,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -209,7 +219,7 @@
           "description": "Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.",
           "link": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
           "publishedOn": "2022-07-21T13:00:00.000Z",
-          "wordCount": 3421,
+          "wordCount": 3422,
           "title": "Looking Back At SmashingConf SF 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg",
@@ -224,7 +234,7 @@
           "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
           "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
           "publishedOn": "2022-07-20T10:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": 4073,
           "title": "Powerful Image Optimization Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
@@ -239,7 +249,7 @@
           "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
           "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
           "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4882,
+          "wordCount": 4786,
           "title": "A New Pattern For The Jamstack: Segmented Rendering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
@@ -269,7 +279,7 @@
           "description": "Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.",
           "link": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
           "publishedOn": "2022-07-14T07:30:00.000Z",
-          "wordCount": 3667,
+          "wordCount": 3771,
           "title": "Using Nothing But Docker For Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg",
@@ -314,7 +324,7 @@
           "description": "Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.",
           "link": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
           "publishedOn": "2022-07-11T09:00:00.000Z",
-          "wordCount": 4030,
+          "wordCount": 4135,
           "title": "A Look At Remix And The Differences With Next.js",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg",
@@ -329,7 +339,7 @@
           "description": "As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.",
           "link": "https://smashingmagazine.com/2022/07/five-step-approach-metaverse/",
           "publishedOn": "2022-07-08T10:00:00.000Z",
-          "wordCount": 4833,
+          "wordCount": 4837,
           "title": "A Five-Step Approach To The Metaverse",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1675c66-5f16-43dc-a0f7-1b30e970b897/five-step-approach-metaverse.jpg",
@@ -344,7 +354,7 @@
           "description": "In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.",
           "link": "https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/",
           "publishedOn": "2022-07-07T09:00:00.000Z",
-          "wordCount": 4936,
+          "wordCount": 4835,
           "title": "An Accessibility-First Approach To Chart Visual Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cd18ef2b-760e-4a64-8c24-89d871b6b1f3/accessibility-first-approach-chart-visual-design.jpg",
@@ -359,7 +369,7 @@
           "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
           "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
           "publishedOn": "2022-07-06T12:00:00.000Z",
-          "wordCount": 8858,
+          "wordCount": 8861,
           "title": "Designing A Perfect Pricing Page UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
@@ -374,7 +384,7 @@
           "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
           "link": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
           "publishedOn": "2022-07-05T09:00:00.000Z",
-          "wordCount": 7235,
+          "wordCount": 7232,
           "title": "How To Build A Localized Website With Hugo And Strapi",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg",
@@ -389,7 +399,7 @@
           "description": "In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.",
           "link": "https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/",
           "publishedOn": "2022-07-04T14:00:00.000Z",
-          "wordCount": 5581,
+          "wordCount": 5585,
           "title": "Accelerating UX Maturity With A Breakthrough Project",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/266042e4-990d-4e79-bdf2-ad217d6577c1/accelerating-ux-maturity-breakthrough-project.jpg",
@@ -405,6 +415,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When fetching data from external sources or servers, you need to make sure that the data returned is in JSON format. Then you can consume the data within your application. In some situations, when you're working locally or when you upload the data file to a server, we might want",
+          "link": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
+          "publishedOn": "2022-08-02T21:35:23.000Z",
+          "wordCount": 1516,
+          "title": "How to Read a JSON File in JavaScript – Reading JSON in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--5-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/",
+          "author": "Njong Emy",
+          "description": "I love animating websites. It's so fun when you just look at a site, and there are cool animations that make everything look pretty.  Getting started with an animation library does not have to be hard. Anyone can add a bit of animation to their site regardless of whether",
+          "link": "https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/",
+          "publishedOn": "2022-08-02T16:52:13.000Z",
+          "wordCount": 2030,
+          "title": "How to Use the Rough Notation Library to Animate Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Purple-Minimal-We-Are-Hiring-Twitter-Post--7-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
           "author": "Ibrahim Abayomi Ogunbiyi",
@@ -484,26 +514,6 @@
           "wordCount": 3410,
           "title": "How to Authenticate a User with Face Recognition in React.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/FaceIO-react--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When collaborating with other developers using Git, you might encounter the  error: failed to push some refs to [remote repo] error. This error mainly occurs when you attempt to push your local changes to GitHub while the local repository (repo) has not yet been updated with any changes made",
-          "link": "https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/",
-          "publishedOn": "2022-07-28T20:04:11.000Z",
-          "wordCount": 1268,
-          "title": "Error: failed to push some refs to – How to Fix in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/roman-synkevych-wX2L8L-fGeA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-replaceall-replace-all-instances-of-a-string-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "When working with a JavaScript program, you might need to replace a character or word with another one. Specifically, you may need to replace not just one but all occurrences of that character or word with something else. There are a few ways you can achieve this with JavaScript. One",
-          "link": "https://www.freecodecamp.org/news/javascript-replaceall-replace-all-instances-of-a-string-in-js/",
-          "publishedOn": "2022-07-28T16:15:26.000Z",
-          "wordCount": 2073,
-          "title": "JavaScript replaceAll() – Replace All Instances of a String in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-christina-morillo-1181675.jpg"
         }
       ]
     }
