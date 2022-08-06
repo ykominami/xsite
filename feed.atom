@@ -1,17 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-05T00:12:50.252Z</id>
+    <id>urn:2022-08-06T00:10:40.471Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T00:12:50.252Z</updated>
+    <updated>2022-08-06T00:10:40.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews]]></title>
+        <id>https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/</id>
+        <link href="https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/"/>
+        <updated>2022-08-05T15:45:03.000Z</updated>
+        <summary type="html"><![CDATA[As developers we push regular code commits – and after a while, it's almost second nature to us.  But does this mean we're doing things right? Familiarity often leads to sloppiness and overlooking the basics. In this article, we will explore  * How to write meaningful Git commit]]></summary>
+        <author>
+            <name>Grant Weatherston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Switch Statement – Switch Case Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/"/>
+        <updated>2022-08-05T15:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Until version 3.10, Python never had a feature that implemented what the switch statement does in other programming languages. So, if you wanted to execute multiple conditional statements, you would've had to use the elif keyword like this: age = 120 if age > 90:     print("You]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Added Scroll Snapping To My Twitter Timeline]]></title>
+        <id>https://css-tricks.com/?p=367283</id>
+        <link href="https://css-tricks.com/how-i-added-scroll-snapping-to-my-twitter-timeline/"/>
+        <updated>2022-08-05T13:10:09.000Z</updated>
+        <summary type="html"><![CDATA[CSS Scroll Snap allows websites to snap the web page or any other scroll container to a specific scroll position when the user performs a scrolling operation. This feature has been supported in all modern browsers for over two years, …
+How I Added Scroll Snapping To My Twitter Timeline originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Actually, the San Francisco Typeface Does Ship as a Variable Font]]></title>
         <id>https://css-tricks.com/?p=367361</id>
         <link href="https://css-tricks.com/actually-the-san-francisco-typeface-does-ship-as-a-variable-font/"/>
         <updated>2022-08-04T20:20:28.000Z</updated>
         <summary type="html"><![CDATA[Apple unveiled an expanded version of its San Francisco system font at WWDC 2022. Then, last month, Jim Nielsen zeroed in on the font’s variations, explaining how the font provides a spectrum of variations based on the width and weight…
-Actually, the San Francisco Typeface Does Ship as a Variable Font originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Actually, the San Francisco Typeface Does Ship as a Variable Font originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -73,7 +104,7 @@ Actually, the San Francisco Typeface Does Ship as a Variable Font originally pub
         <updated>2022-08-04T12:55:39.000Z</updated>
         <summary type="html"><![CDATA[With speech interfaces becoming more of a thing, it’s worth exploring some of the things we can do with speech interactions. Like, what if we could say something and have that transcribed and pumped out as a downloadable PDF?
 Well, …
-Converting Speech to PDF with NextJS and ExpressJS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Converting Speech to PDF with NextJS and ExpressJS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Onuorah Bonaventure Chukwudi</name>
         </author>
@@ -119,26 +150,6 @@ Converting Speech to PDF with NextJS and ExpressJS originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Coding Bootcamp – Learn to Code with Class Central + freeCodeCamp]]></title>
-        <id>https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/</id>
-        <link href="https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/"/>
-        <updated>2022-08-03T16:48:08.000Z</updated>
-        <summary type="html"><![CDATA[In 2021, the Class Central team helped my friend and me teach three cohorts of free programming bootcamps based on freeCodeCamp curricula.  We’ve been joined by over 20,000 learners from around the globe and it’s just been an honor and a delight to get to learn along with so]]></summary>
-        <author>
-            <name>Jessica Rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Factorial? How to Calculate Factorials with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-factorial/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-factorial/"/>
-        <updated>2022-08-03T16:32:53.000Z</updated>
-        <summary type="html"><![CDATA[A factorial is a mathematical operation that you write like this: n!. It represents the multiplication of all numbers between 1 and n. So if you were to have 3!, for example, you'd compute 3 x 2 x 1 (which = 6). Let's see how it works with some more]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Migration From jQuery to Next.js: A Guide]]></title>
         <id>https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/</id>
         <link href="https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/"/>
@@ -155,7 +166,7 @@ Converting Speech to PDF with NextJS and ExpressJS originally published on CSS-T
         <updated>2022-08-02T13:10:49.000Z</updated>
         <summary type="html"><![CDATA[Dave Rupert with some modern CSS magic that tackles one of those classic conundrums: what happens when the CSS for component is unable to handle the content we throw at it?
 The specific situation is when a layout grid expects …
-Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -166,7 +177,7 @@ Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on
         <link href="https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/"/>
         <updated>2022-08-01T13:44:13.000Z</updated>
         <summary type="html"><![CDATA[When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…
-Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
         </author>
@@ -197,7 +208,7 @@ Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally publis
         <link href="https://css-tricks.com/scroll-shadows-pure-css-parallax-game-back-on/"/>
         <updated>2022-07-29T14:55:31.000Z</updated>
         <summary type="html"><![CDATA[Chris calls scroll shadows one his favorite CSS-Tricks of all time. Lea Verou popularized the pure CSS approach using four layered background gradients with some clever background-attachment magic. The result is a slick scrolling interaction that gives users a hint …
-Scroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Scroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -208,7 +219,7 @@ Scroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tri
         <link href="https://css-tricks.com/recreating-mdns-truncated-text-effect/"/>
         <updated>2022-07-28T17:18:46.000Z</updated>
         <summary type="html"><![CDATA[It’s no secret that MDN rolled out a new design back in March. It’s gorgeous! And there are some sweet CSS-y gems in it that are fun to look at. One of those gems is how card components handle truncated …
-Recreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Recreating MDN’s Truncated Text Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -241,7 +252,7 @@ Recreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You
         <updated>2022-07-22T14:00:19.000Z</updated>
         <summary type="html"><![CDATA[URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.
 Behind the scenes, the long …
-Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Obumuneme Nwabude</name>
         </author>
@@ -263,7 +274,7 @@ Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks.
         <updated>2022-07-21T14:04:34.000Z</updated>
         <summary type="html"><![CDATA[It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.
 First off, you should know …
-Roundup of Recent Document Outline Chatter originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Roundup of Recent Document Outline Chatter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -284,7 +295,7 @@ Roundup of Recent Document Outline Chatter originally published on CSS-Tricks. Y
         <link href="https://css-tricks.com/logical-properties-for-useful-shorthands/"/>
         <updated>2022-07-20T16:16:34.000Z</updated>
         <summary type="html"><![CDATA[Michelle Barker with my favorite sorta blog post: short, practical, and leaves you with a valuable nugget for your time. Here, she gets into logical property shorthands in CSS, particularly those that set lengths just on a single axis, …
-Logical Properties for Useful Shorthands originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Logical Properties for Useful Shorthands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -321,7 +332,7 @@ line {
   stroke-dasharray: 5;
 }
 That 5 value is a relative unit based …
-How stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+How stroke-dasharray Patterns Work originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -342,7 +353,7 @@ How stroke-dasharray Patterns Work originally published on CSS-Tricks. You shoul
         <link href="https://css-tricks.com/office-spaces/"/>
         <updated>2022-07-14T14:07:01.000Z</updated>
         <summary type="html"><![CDATA[I think it’s super timely that Jim Nielsen wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …
-Office Spaces originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Office Spaces originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -363,7 +374,7 @@ Office Spaces originally published on CSS-Tricks. You should get the newsletter.
         <link href="https://css-tricks.com/react-hooks-the-deep-cuts/"/>
         <updated>2022-07-13T13:34:08.000Z</updated>
         <summary type="html"><![CDATA[Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …
-React Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+React Hooks: The Deep Cuts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Blessing Ene Anyebe</name>
         </author>
@@ -374,7 +385,7 @@ React Hooks: The Deep Cuts originally published on CSS-Tricks. You should get th
         <link href="https://css-tricks.com/in-praise-of-shadows/"/>
         <updated>2022-07-12T17:08:49.000Z</updated>
         <summary type="html"><![CDATA[Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …
-In Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+In Praise of Shadows originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
@@ -405,7 +416,7 @@ In Praise of Shadows originally published on CSS-Tricks. You should get the news
         <link href="https://css-tricks.com/technical-writing-for-developers/"/>
         <updated>2022-07-11T12:50:13.000Z</updated>
         <summary type="html"><![CDATA[HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …
-Technical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+Technical Writing for Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Eluda</name>
         </author>
@@ -428,16 +439,6 @@ Technical Writing for Developers originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Accessibility-First Approach To Chart Visual Design]]></title>
-        <id>https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/</id>
-        <link href="https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/"/>
-        <updated>2022-07-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kent Eisenhuth &amp; Kai Chang)</name>
         </author>
     </entry>
 </feed>
