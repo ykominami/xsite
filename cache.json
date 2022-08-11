@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367370",
+          "author": "Daniel Schwarz",
+          "description": "Designing a beautiful “article” is wrought with tons of considerations. Unlike, say, a homepage, a long-form article is less about designing an interface than it is designing text in a way that creates a relaxed and comfortable reading experience.\nThat’s …\nDesigning for Long-Form Articles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/designing-for-long-form-articles/",
+          "publishedOn": "2022-08-10T14:30:01.000Z",
+          "wordCount": 3197,
+          "title": "Designing for Long-Form Articles",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367370"
+        },
+        {
           "id": "https://css-tricks.com/?p=367369",
           "author": "Bradley Kouchi",
           "description": "The time for CSS-Tricks is over. Now is the time for CSS Crimes!\nIn this current landscape of content service providers, users are often limited to expressing themselves in text, links, and images. Sanitization rules tend to strip out HTML, …\nCommitting CSS Crimes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "CSS Scroll Snap allows websites to snap the web page or any other scroll container to a specific scroll position when the user performs a scrolling operation. This feature has been supported in all modern browsers for over two years, …\nHow I Added Scroll Snapping To My Twitter Timeline originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-i-added-scroll-snapping-to-my-twitter-timeline/",
           "publishedOn": "2022-08-05T13:10:09.000Z",
-          "wordCount": 3198,
+          "wordCount": 3236,
           "title": "How I Added Scroll Snapping To My Twitter Timeline",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367283"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2101,
           "title": "Office Spaces",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366770",
-          "author": "Blessing Ene Anyebe",
-          "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
-          "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 3004,
-          "title": "React Hooks: The Deep Cuts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3776,
+          "wordCount": 3772,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -204,7 +204,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4380,
+          "wordCount": 4379,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -219,7 +219,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4333,
+          "wordCount": 4332,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -234,7 +234,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4531,
+          "wordCount": 4541,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -249,7 +249,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4791,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -264,7 +264,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4530,
+          "wordCount": 4522,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -279,7 +279,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4536,
+          "wordCount": 4537,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -294,7 +294,7 @@
           "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
           "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9572,
+          "wordCount": 9569,
           "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
@@ -309,7 +309,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5072,
+          "wordCount": 5075,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -324,7 +324,7 @@
           "description": "Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.",
           "link": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
           "publishedOn": "2022-07-21T13:00:00.000Z",
-          "wordCount": 3425,
+          "wordCount": 3424,
           "title": "Looking Back At SmashingConf SF 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg",
@@ -339,7 +339,7 @@
           "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
           "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
           "publishedOn": "2022-07-20T10:00:00.000Z",
-          "wordCount": 3964,
+          "wordCount": 3972,
           "title": "Powerful Image Optimization Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
@@ -354,7 +354,7 @@
           "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
           "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
           "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4781,
+          "wordCount": 4885,
           "title": "A New Pattern For The Jamstack: Segmented Rendering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
@@ -369,7 +369,7 @@
           "description": "In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.",
           "link": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
           "publishedOn": "2022-07-15T09:30:00.000Z",
-          "wordCount": 5296,
+          "wordCount": 5303,
           "title": "Resolving Conflicts Between Designers And Engineers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg",
@@ -384,7 +384,7 @@
           "description": "Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.",
           "link": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
           "publishedOn": "2022-07-14T07:30:00.000Z",
-          "wordCount": 3676,
+          "wordCount": 3672,
           "title": "Using Nothing But Docker For Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg",
@@ -407,21 +407,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a0e39d13-3444-4282-b28f-7ab63759664f/49-smashing-podcast-episode.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/kendo-ui-angular-data-grid-material/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this article, Zara Cooper will examine some of the features of the Kendo UI for Angular Data Grid in comparison to those offered by the Angular Material Table.",
-          "link": "https://smashingmagazine.com/2022/07/kendo-ui-angular-data-grid-material/",
-          "publishedOn": "2022-07-12T09:00:00.000Z",
-          "wordCount": 4443,
-          "title": "Kendo UI For Angular Data Grid And Angular Material: Have Your Cake And Eat It Too",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/151dc74b-3863-476a-9e04-bc93573e0bd5/kendo-ui-angular-data-grid-material.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/151dc74b-3863-476a-9e04-bc93573e0bd5/kendo-ui-angular-data-grid-material.jpg"
         }
       ]
     },
@@ -430,6 +415,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A multidimensional array is simply an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] of arrays. You can look it as a single container that stores multiple containers.  In this article, we'll talk two dimensional arrays in Java. You'll see the syntax for creating one, and how to add and access items in a two",
+          "link": "https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/",
+          "publishedOn": "2022-08-10T20:49:04.000Z",
+          "wordCount": 1507,
+          "title": "2D Array in Java – Two-Dimensional and Nested Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pawel-czerwinski-dYjFmiQb_aE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/",
+          "author": "Idorenyin Udoh",
+          "description": "In a real-time chat application, the recipient can view the sender’s message almost immediately. This can either be in a one-on-one conversation between two parties or a group conversation.  And that's what we're going to build in this tutorial. For this application, we will be using Nuxt [https://nuxtjs.org/], the",
+          "link": "https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/",
+          "publishedOn": "2022-08-10T19:39:17.000Z",
+          "wordCount": 2168,
+          "title": "How to Create a Real-time Chat Application with Nuxt",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-elevate-1267697.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
+          "author": "Beau Carnes",
+          "description": "HTML and CSS are the most important technologies when it comes to creating websites. And building projects is one of the best ways to learn them. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn HTML and CSS through building an order summary component.",
+          "link": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
+          "publishedOn": "2022-08-10T17:26:26.000Z",
+          "wordCount": 937,
+          "title": "Learn HTML and CSS by Building an Order Summary Component",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/html.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
+          "author": "Gursimar Singh",
+          "description": "This article will discuss every aspect of containers, including how they operate in the background and their various component elements. We will also discover why Docker is so lightning-fast. By the end, you'll be able to create your own custom container. We'll also examine why Kubernetes deprecated Docker and embraced",
+          "link": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
+          "publishedOn": "2022-08-10T16:45:36.000Z",
+          "wordCount": 5633,
+          "title": "How to Build a Docker Engine-like Custom Container without Any Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/image-12-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn three different ways to create multi-line strings in JavaScript. I will first explain the basics of strings in JavaScript and go over how to use template literals. Then, you will learn how to create a string that spans multiple lines with the help of",
+          "link": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
+          "publishedOn": "2022-08-10T15:54:42.000Z",
+          "wordCount": 2334,
+          "title": "JavaScript Multiline String – How to Create Multi Line Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-mateusz-dach-2811648.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
+          "author": "Ophy Boamah",
+          "description": "HTML forms consist of a body of text boxes, buttons, dropdowns and other selection widgets. Web developers use these elements to receive users' information on a website.  If you've ever searched on Google, signed up or logged into a website, made a payment, or responded to a questionnaire, you",
+          "link": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
+          "publishedOn": "2022-08-10T15:45:20.000Z",
+          "wordCount": 2988,
+          "title": "How to Create and Validate Modern Web Forms with HTML5",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-Forms-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
+          "author": "Ashutosh Biswas",
+          "description": "In JavaScript, every and some help you test if something is true for every element or some elements of an array. In this article, I'll show you how to use these helpful array methods. Table of Contents  * 1How every() and some() Work – an Overview  * 2Parameters",
+          "link": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
+          "publishedOn": "2022-08-10T15:23:43.000Z",
+          "wordCount": 2069,
+          "title": "JavaScript Array Methods – How to Use every() and some() in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-you-can-share-links-that-anchor-to-any-text-on-a-webpage/",
           "author": "Seth Falco",
@@ -446,7 +501,7 @@
           "description": "Have you ever struggled to find a dataset for your data science project? If you're like I am, the answer is yes.  Luckily, there are many free datasets available – but sometimes you want something more specific or bespoke. For that, web scraping is a good skill to have",
           "link": "https://www.freecodecamp.org/news/web-scraping-sci-fi-movies-from-imdb-with-python/",
           "publishedOn": "2022-08-09T19:50:10.000Z",
-          "wordCount": 3082,
+          "wordCount": 3107,
           "title": "Web Scraping in Python – How to Scrape Sci-Fi Movies from IMDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-270348--1-.jpg"
         },
@@ -459,76 +514,6 @@
           "wordCount": 2407,
           "title": "How to Use Recursion in React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/How-to-Build-a-Weather-Application-using-React--39-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/",
-          "author": "Kolade Chris",
-          "description": "The Windows command line is one of the most powerful utilities on a Windows PC. With it, you can interact with the OS directly and do a lot of things not available in the graphical user interface (GUI). In this article, I’ll show you 40 commands you can use on",
-          "link": "https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/",
-          "publishedOn": "2022-08-09T15:28:14.000Z",
-          "wordCount": 1931,
-          "title": "Command Line Commands – CLI Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cli.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-programming-course/",
-          "author": "Beau Carnes",
-          "description": "Python is considered one of the most popular programming languages in the world and it is only growing in popularity. It's a great first language to learn. We just released an all-new Python programming course on the freeCodeCamp.org YouTube channel. My name is Beau Carnes and I created this course.",
-          "link": "https://www.freecodecamp.org/news/python-programming-course/",
-          "publishedOn": "2022-08-09T12:54:37.000Z",
-          "wordCount": 1079,
-          "title": "Free Python Programming Course [2022]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/",
-          "author": "Ilenia Magoni",
-          "description": "In JavaScript there are higher order methods and functions that accept a function as an argument. These functions used as arguments for other functions are called callback functions. What is a callback in JavaScript? A callback is a function passed as an argument of another function. This means that the",
-          "link": "https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/",
-          "publishedOn": "2022-08-09T00:32:48.000Z",
-          "wordCount": 2684,
-          "title": "What is a Callback Function in JavaScript? JS Callbacks Example Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-39656.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
-          "author": "Zaira Hira",
-          "description": "Software development and maintenance can get complicated sometimes. And you might find yourself comparing code or configuration changes.  When you compare them manually, you might make a mistake, and it's easy to miss minute changes. Apart from that, finding changes in large files can be exhausting.  There are",
-          "link": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
-          "publishedOn": "2022-08-08T20:08:39.000Z",
-          "wordCount": 1681,
-          "title": "Linux `Vimdiff` Command – How to Compare Two Files in the Command Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/setup-git-on-mac/",
-          "author": "Joel Olawanle",
-          "description": "If you're setting up Git for the first time on a MacBook, you don't have to struggle to get it done. Maybe you just got a new laptop, or you're getting into tech for the first time with a MacBook. Either way, I've got you covered. This short article will",
-          "link": "https://www.freecodecamp.org/news/setup-git-on-mac/",
-          "publishedOn": "2022-08-08T20:07:30.000Z",
-          "wordCount": 1420,
-          "title": "How to Set Up Git for the First Time on macOS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "Style guides are important to help you deliver a consistent brand experience.  As a UI/UX designer, creating style guides is indispensable if you hope to create great user experiences and interfaces.  In this article, you will learn what a style guide is, the importance of a style guide,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
-          "publishedOn": "2022-08-08T14:35:53.000Z",
-          "wordCount": 2499,
-          "title": "How to Create a Style Guide in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/style-guide.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.",
-          "link": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "publishedOn": "2022-08-08T14:21:57.000Z",
-          "wordCount": 1205,
-          "title": "Typeerror: str object is not callable – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
         }
       ]
     }
