@@ -57,7 +57,7 @@
           "description": "CSS Scroll Snap allows websites to snap the web page or any other scroll container to a specific scroll position when the user performs a scrolling operation. This feature has been supported in all modern browsers for over two years, …\nHow I Added Scroll Snapping To My Twitter Timeline originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-i-added-scroll-snapping-to-my-twitter-timeline/",
           "publishedOn": "2022-08-05T13:10:09.000Z",
-          "wordCount": 3236,
+          "wordCount": 3313,
           "title": "How I Added Scroll Snapping To My Twitter Timeline",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367283"
         },
@@ -77,7 +77,7 @@
           "description": "With speech interfaces becoming more of a thing, it’s worth exploring some of the things we can do with speech interactions. Like, what if we could say something and have that transcribed and pumped out as a downloadable PDF?\nWell, …\nConverting Speech to PDF with NextJS and ExpressJS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/",
           "publishedOn": "2022-08-04T12:55:39.000Z",
-          "wordCount": 3257,
+          "wordCount": 3266,
           "title": "Converting Speech to PDF with NextJS and ExpressJS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367238"
         },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
+          "author": "hello@smashingmagazine.com (Chris Simmons)",
+          "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
+          "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
+          "publishedOn": "2022-08-12T08:00:00.000Z",
+          "wordCount": 4591,
+          "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3936,
+          "wordCount": 3935,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -189,7 +204,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3876,
+          "wordCount": 3778,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -219,7 +234,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4374,
+          "wordCount": 4478,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -249,7 +264,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4638,
+          "wordCount": 4536,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -264,7 +279,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4792,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -279,7 +294,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4527,
+          "wordCount": 4529,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -294,7 +309,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4540,
+          "wordCount": 4544,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -324,7 +339,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5073,
+          "wordCount": 5173,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -354,7 +369,7 @@
           "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
           "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
           "publishedOn": "2022-07-20T10:00:00.000Z",
-          "wordCount": 3973,
+          "wordCount": 3975,
           "title": "Powerful Image Optimization Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
@@ -369,7 +384,7 @@
           "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
           "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
           "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4781,
+          "wordCount": 4887,
           "title": "A New Pattern For The Jamstack: Segmented Rendering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
@@ -384,7 +399,7 @@
           "description": "In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.",
           "link": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
           "publishedOn": "2022-07-15T09:30:00.000Z",
-          "wordCount": 5297,
+          "wordCount": 5303,
           "title": "Resolving Conflicts Between Designers And Engineers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
-          "author": "hello@smashingmagazine.com (Raphael Amoedo)",
-          "description": "Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.",
-          "link": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
-          "publishedOn": "2022-07-14T07:30:00.000Z",
-          "wordCount": 3667,
-          "title": "Using Nothing But Docker For Projects",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg"
         }
       ]
     },
@@ -415,6 +415,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Java, you use a HashMap to store items in key/value pairs. You can access items stored in a HashMap using the item's key, which is unique for each item.  In this article, we'll talk about the features of a HashMap, how to create a  HashMap, and the",
+          "link": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
+          "publishedOn": "2022-08-12T20:53:24.000Z",
+          "wordCount": 1675,
+          "title": "What is a Java Hashmap?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/tyler-nix-7ukf-r-Oh-k-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
+          "author": "Divine Orji",
+          "description": "One day, while learning algorithms in JavaScript, I found this challenge: > Using a for loop, iterate from 0 to 100, and return an array of all prime numbers within that range. It seemed easy initially, but I couldn't quite figure it out. So I did a google search and",
+          "link": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
+          "publishedOn": "2022-08-12T18:25:20.000Z",
+          "wordCount": 1532,
+          "title": "How to Use the Sieve Of Eratosthenes Algorithm",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Sieve-of-Eratosthenes-min.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
+          "author": "Soham De Roy",
+          "description": "Pretty much everything is available on the internet, and Google is one of the main ways people search for information. And while you might think it's obvious, many internet users don't know how to use Google search efficiently and effectively. In truth, Googling is an art. To get the right",
+          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
+          "publishedOn": "2022-08-12T18:19:11.000Z",
+          "wordCount": 1904,
+          "title": "How to Google like a Pro – 10 Tips for More Effective Googling",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Group-61.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
+          "author": "Dillion Megida",
+          "description": "In this article, I'll explain what line breaks are and show you how to create them in HTML. What is a Line Break? A line break, as the name implies, is a break in line 😅. A line break in HTML is a point where a line ends horizontally, and",
+          "link": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
+          "publishedOn": "2022-08-12T18:00:31.000Z",
+          "wordCount": 1257,
+          "title": "HTML New Line – How to Add a Line Break with the BR Tag",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/line-break.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/",
+          "author": "Shuaib Oseni",
+          "description": "HackTheBox is an online hacking platform that allows you to test and practice your penetration testing skills.  It contains several vulnerable labs that are constantly updated. Some of them simulate real-world scenarios and some of them lean more towards a Capture The Flag (CTF) style of challenge. Note: Only",
+          "link": "https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/",
+          "publishedOn": "2022-08-12T16:09:26.000Z",
+          "wordCount": 1515,
+          "title": "Sense Walkthrough – HackTheBox",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/sense--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/",
           "author": "Kolade Chris",
@@ -464,56 +514,6 @@
           "wordCount": 2168,
           "title": "How to Create a Real-time Chat Application with Nuxt",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/chat-app-with-nuxt-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
-          "author": "Beau Carnes",
-          "description": "HTML and CSS are the most important technologies when it comes to creating websites. And building projects is one of the best ways to learn them. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn HTML and CSS through building an order summary component.",
-          "link": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
-          "publishedOn": "2022-08-10T17:26:26.000Z",
-          "wordCount": 937,
-          "title": "Learn HTML and CSS by Building an Order Summary Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/html.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
-          "author": "Gursimar Singh",
-          "description": "This article will discuss every aspect of containers, including how they operate in the background and their various component elements. We will also discover why Docker is so lightning-fast. By the end, you'll be able to create your own custom container. We'll also examine why Kubernetes deprecated Docker and embraced",
-          "link": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
-          "publishedOn": "2022-08-10T16:45:36.000Z",
-          "wordCount": 5633,
-          "title": "How to Build a Docker Engine-like Custom Container without Any Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/image-12-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn three different ways to create multi-line strings in JavaScript. I will first explain the basics of strings in JavaScript and go over how to use template literals. Then, you will learn how to create a string that spans multiple lines with the help of",
-          "link": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
-          "publishedOn": "2022-08-10T15:54:42.000Z",
-          "wordCount": 2334,
-          "title": "JavaScript Multiline String – How to Create Multi Line Strings in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-mateusz-dach-2811648.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
-          "author": "Ophy Boamah",
-          "description": "HTML forms consist of a body of text boxes, buttons, dropdowns and other selection widgets. Web developers use these elements to receive users' information on a website.  If you've ever searched on Google, signed up or logged into a website, made a payment, or responded to a questionnaire, you",
-          "link": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
-          "publishedOn": "2022-08-10T15:45:20.000Z",
-          "wordCount": 2988,
-          "title": "How to Create and Validate Modern Web Forms with HTML5",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-Forms-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
-          "author": "Ashutosh Biswas",
-          "description": "In JavaScript, every and some help you test if something is true for every element or some elements of an array. In this article, I'll show you how to use these helpful array methods. Table of Contents  * 1How every() and some() Work – an Overview  * 2Parameters",
-          "link": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
-          "publishedOn": "2022-08-10T15:23:43.000Z",
-          "wordCount": 2069,
-          "title": "JavaScript Array Methods – How to Use every() and some() in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-1.jpg"
         }
       ]
     }
