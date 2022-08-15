@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-14T00:11:04.199Z</id>
+    <id>urn:2022-08-15T00:10:55.672Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-14T00:11:04.199Z</updated>
+    <updated>2022-08-15T00:10:55.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -417,23 +417,6 @@ Logical Properties for Useful Shorthands originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Burel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
-        <id>https://css-tricks.com/?p=366993</id>
-        <link href="https://css-tricks.com/how-stroke-dasharray-patterns-work/"/>
-        <updated>2022-07-15T19:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a line in SVG:
-<svg<line x1="0" y1="30" x2="500" y2="30" stroke-color="#f8a100" /</svg
-You can use the stroke-dasharray property in CSS to make dashes:
-line {
-  stroke-dasharray: 5;
-}
-That 5 value is a relative unit based …
-How stroke-dasharray Patterns Work originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

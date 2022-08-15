@@ -150,16 +150,6 @@
           "wordCount": 925,
           "title": "Logical Properties for Useful Shorthands",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367064"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366993",
-          "author": "Geoff Graham",
-          "description": "Say you have a line in SVG:\n<svg<line x1=\"0\" y1=\"30\" x2=\"500\" y2=\"30\" stroke-color=\"#f8a100\" /</svg\nYou can use the stroke-dasharray property in CSS to make dashes:\nline {\n  stroke-dasharray: 5;\n}\nThat 5 value is a relative unit based …\nHow stroke-dasharray Patterns Work originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-stroke-dasharray-patterns-work/",
-          "publishedOn": "2022-07-15T19:43:40.000Z",
-          "wordCount": 1009,
-          "title": "How stroke-dasharray Patterns Work",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366993"
         }
       ]
     },
@@ -174,7 +164,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4591,
+          "wordCount": 4586,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -189,7 +179,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3938,
+          "wordCount": 4035,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -204,7 +194,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3771,
+          "wordCount": 3773,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -234,7 +224,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4377,
+          "wordCount": 4373,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -249,7 +239,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4332,
+          "wordCount": 4334,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -264,7 +254,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4532,
+          "wordCount": 4539,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -279,7 +269,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4792,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -294,7 +284,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4530,
+          "wordCount": 4531,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -309,7 +299,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4544,
+          "wordCount": 4547,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -324,7 +314,7 @@
           "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
           "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9561,
+          "wordCount": 9562,
           "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
@@ -339,7 +329,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5072,
+          "wordCount": 5074,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -354,7 +344,7 @@
           "description": "Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.",
           "link": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
           "publishedOn": "2022-07-21T13:00:00.000Z",
-          "wordCount": 3424,
+          "wordCount": 3421,
           "title": "Looking Back At SmashingConf SF 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg",
@@ -369,7 +359,7 @@
           "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
           "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
           "publishedOn": "2022-07-20T10:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": 3969,
           "title": "Powerful Image Optimization Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
@@ -384,7 +374,7 @@
           "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
           "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
           "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4887,
+          "wordCount": 4787,
           "title": "A New Pattern For The Jamstack: Segmented Rendering",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
