@@ -17,7 +17,7 @@
           "description": "In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…\nCSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-1/",
           "publishedOn": "2022-08-15T13:13:47.000Z",
-          "wordCount": 3405,
+          "wordCount": 3473,
           "title": "CSS Grid and Custom Shapes, Part 1",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367324"
         },
@@ -67,7 +67,7 @@
           "description": "CSS Scroll Snap allows websites to snap the web page or any other scroll container to a specific scroll position when the user performs a scrolling operation. This feature has been supported in all modern browsers for over two years, …\nHow I Added Scroll Snapping To My Twitter Timeline originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-i-added-scroll-snapping-to-my-twitter-timeline/",
           "publishedOn": "2022-08-05T13:10:09.000Z",
-          "wordCount": 3313,
+          "wordCount": 3347,
           "title": "How I Added Scroll Snapping To My Twitter Timeline",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367283"
         },
@@ -107,7 +107,7 @@
           "description": "When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…\nExploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/",
           "publishedOn": "2022-08-01T13:44:13.000Z",
-          "wordCount": 5636,
+          "wordCount": 5704,
           "title": "Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367178"
         },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
+          "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
+          "publishedOn": "2022-08-16T09:00:00.000Z",
+          "wordCount": 4330,
+          "title": "Designing A Better Back Button UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "author": "hello@smashingmagazine.com (Christine Vallaure)",
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
           "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6098,
+          "wordCount": 6099,
           "title": "Everything Developers Must Know About Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
@@ -189,7 +204,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4595,
+          "wordCount": 4592,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -204,7 +219,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3935,
+          "wordCount": 4037,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -219,7 +234,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3772,
+          "wordCount": 3778,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4380,
+          "wordCount": 4373,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -264,7 +279,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4331,
+          "wordCount": 4335,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -279,7 +294,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4540,
+          "wordCount": 4539,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -294,7 +309,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4792,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -309,7 +324,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4529,
+          "wordCount": 4524,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -324,7 +339,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4548,
+          "wordCount": 4547,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -339,7 +354,7 @@
           "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
           "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9561,
+          "wordCount": 9669,
           "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5067,
+          "wordCount": 5065,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -384,7 +399,7 @@
           "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
           "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
           "publishedOn": "2022-07-20T10:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": 3972,
           "title": "Powerful Image Optimization Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
-          "author": "hello@smashingmagazine.com (Eric Burel)",
-          "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
-          "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
-          "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4785,
-          "title": "A New Pattern For The Jamstack: Segmented Rendering",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg"
         }
       ]
     },
@@ -415,6 +415,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-open-source-software/",
+          "author": "Destiny Erhabor",
+          "description": "In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to",
+          "link": "https://www.freecodecamp.org/news/what-is-open-source-software/",
+          "publishedOn": "2022-08-16T20:23:53.000Z",
+          "wordCount": 3929,
+          "title": "What is Open Source? How to Contribute to OSS Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ben-taylor-109998.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
+          "author": "Joel Olawanle",
+          "description": "When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you",
+          "link": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
+          "publishedOn": "2022-08-16T19:32:10.000Z",
+          "wordCount": 2099,
+          "title": "CSS Image Centering – How to Center an Image in a Div",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
+          "author": "Chinwendu Enyinna",
+          "description": "Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,",
+          "link": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
+          "publishedOn": "2022-08-16T17:51:48.000Z",
+          "wordCount": 3459,
+          "title": "How to Use Regular Expressions in JavaScript – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/regex-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-vs-https/",
+          "author": "Annoh Karlgusta",
+          "description": "We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users",
+          "link": "https://www.freecodecamp.org/news/http-vs-https/",
+          "publishedOn": "2022-08-16T17:47:14.000Z",
+          "wordCount": 2955,
+          "title": "HTTP vs HTTPS – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/HTTP-VS-HTTPS.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
+          "author": "Kolade Chris",
+          "description": "When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git",
+          "link": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
+          "publishedOn": "2022-08-16T17:20:10.000Z",
+          "wordCount": 1162,
+          "title": "Git Delete Remote Branch – How to Remove a Remote Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/direction-2320124_1920.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
           "author": "Zaid Humayun",
@@ -464,56 +514,6 @@
           "wordCount": 891,
           "title": "Create Stardew Valley Using Python and Pygame",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pydew.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
-          "author": "Jessica Wilkins",
-          "description": "If you're studying to become a professional software developer, you might be wondering what a software developer does everyday on the job. In this article, I will talk about the typical day of a software developer and what to expect on the job.  Main Responsibilities of a Software Developer",
-          "link": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
-          "publishedOn": "2022-08-15T14:11:52.000Z",
-          "wordCount": 1970,
-          "title": "What Does a Software Developer Do? Software Engineer Career Overview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Java, you use a HashMap to store items in key/value pairs. You can access items stored in a HashMap using the item's key, which is unique for each item.  In this article, we'll talk about the features of a HashMap, how to create a  HashMap, and the",
-          "link": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
-          "publishedOn": "2022-08-12T20:53:24.000Z",
-          "wordCount": 1675,
-          "title": "What is a Java Hashmap?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/tyler-nix-7ukf-r-Oh-k-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
-          "author": "Divine Orji",
-          "description": "One day, while learning algorithms in JavaScript, I found this challenge: > Using a for loop, iterate from 0 to 100, and return an array of all prime numbers within that range. It seemed easy initially, but I couldn't quite figure it out. So I did a google search and",
-          "link": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
-          "publishedOn": "2022-08-12T18:25:20.000Z",
-          "wordCount": 1532,
-          "title": "How to Use the Sieve Of Eratosthenes Algorithm",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Sieve-of-Eratosthenes-min.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
-          "author": "Soham De Roy",
-          "description": "Pretty much everything is available on the internet, and Google is one of the main ways people search for information. And while you might think it's obvious, many internet users don't know how to use Google search efficiently and effectively. In truth, Googling is an art. To get the right",
-          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
-          "publishedOn": "2022-08-12T18:19:11.000Z",
-          "wordCount": 1904,
-          "title": "How to Google like a Pro – 10 Tips for More Effective Googling",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Group-61.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
-          "author": "Dillion Megida",
-          "description": "In this article, I'll explain what line breaks are and show you how to create them in HTML. What is a Line Break? A line break, as the name implies, is a break in line 😅. A line break in HTML is a point where a line ends horizontally, and",
-          "link": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
-          "publishedOn": "2022-08-12T18:00:31.000Z",
-          "wordCount": 1257,
-          "title": "HTML New Line – How to Add a Line Break with the BR Tag",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/line-break.png"
         }
       ]
     }
