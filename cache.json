@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372539",
+          "author": "Geoff Graham",
+          "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/when-do-you-use-css-columns/",
+          "publishedOn": "2022-08-18T13:24:48.000Z",
+          "wordCount": 1272,
+          "title": "When Do You Use CSS Columns?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
+        },
+        {
           "id": "https://css-tricks.com/?p=367045",
           "author": "Preethi",
           "description": "If the thought of handwriting code seems silly, it might surprise you to know that it’s inevitable. If you’re unsure, think about the last job interview you did, and remember how there was no computer around in the interview room …\nWhy (and How) I Write Code With Pencil and Paper originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…\nCSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-1/",
           "publishedOn": "2022-08-15T13:13:47.000Z",
-          "wordCount": 3484,
+          "wordCount": 3569,
           "title": "CSS Grid and Custom Shapes, Part 1",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367324"
         },
@@ -47,7 +57,7 @@
           "description": "Designing a beautiful “article” is wrought with tons of considerations. Unlike, say, a homepage, a long-form article is less about designing an interface than it is designing text in a way that creates a relaxed and comfortable reading experience.\nThat’s …\nDesigning for Long-Form Articles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/designing-for-long-form-articles/",
           "publishedOn": "2022-08-10T14:30:01.000Z",
-          "wordCount": 3223,
+          "wordCount": 3319,
           "title": "Designing for Long-Form Articles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367370"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3979,
           "title": "Why I Chose Angular to Build a URL Shortener",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367003"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367048",
-          "author": "Geoff Graham",
-          "description": "It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.\nFirst off, you should know …\nRoundup of Recent Document Outline Chatter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/roundup-of-recent-document-outline-chatter/",
-          "publishedOn": "2022-07-21T14:04:34.000Z",
-          "wordCount": 1439,
-          "title": "Roundup of Recent Document Outline Chatter",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367048"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
+          "author": "hello@smashingmagazine.com (Evyatar Alush)",
+          "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
+          "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
+          "publishedOn": "2022-08-18T09:00:00.000Z",
+          "wordCount": 4628,
+          "title": "An Introduction To Context Propagation In JavaScript",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
           "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
           "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4330,
           "title": "Designing A Better Back Button UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
@@ -189,7 +204,7 @@
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
           "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6101,
+          "wordCount": 6100,
           "title": "Everything Developers Must Know About Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
@@ -204,7 +219,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4595,
+          "wordCount": 4593,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -219,7 +234,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3934,
+          "wordCount": 3933,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -234,7 +249,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3770,
+          "wordCount": 3776,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -264,7 +279,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4376,
+          "wordCount": 4379,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -279,7 +294,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4333,
+          "wordCount": 4334,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -324,7 +339,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4525,
+          "wordCount": 4532,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -339,7 +354,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4538,
+          "wordCount": 4642,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
           "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9566,
+          "wordCount": 9568,
           "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
@@ -369,7 +384,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5169,
+          "wordCount": 5074,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -384,7 +399,7 @@
           "description": "Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.",
           "link": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
           "publishedOn": "2022-07-21T13:00:00.000Z",
-          "wordCount": 3423,
+          "wordCount": 3424,
           "title": "Looking Back At SmashingConf SF 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "Optimizing the size of images can have a bigger impact on performance than all other areas combined. In this article, Louis Lazaris covers different tools available for reducing the size of images.",
-          "link": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
-          "publishedOn": "2022-07-20T10:00:00.000Z",
-          "wordCount": 3965,
-          "title": "Powerful Image Optimization Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg"
         }
       ]
     },
@@ -415,6 +415,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-i-learned-speaking-at-vueconf-us/",
+          "author": "Austin Gil",
+          "description": "This year I had the honor of speaking at VueConf US 2022 [https://us.vuejs.org/]  and I thought I would share my experience.  Part of this article will cover my personal process, part will look at VueConf specifically, and the rest will be about the conference at large. I hope",
+          "link": "https://www.freecodecamp.org/news/what-i-learned-speaking-at-vueconf-us/",
+          "publishedOn": "2022-08-18T19:51:22.000Z",
+          "wordCount": 3291,
+          "title": "What I Learned Speaking at VueConf US 2022 – Tech Conference Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Vue-Blog-Cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-calculate-percentage-in-excel-formula-for-percentages/",
+          "author": "Ilenia Magoni",
+          "description": "A percentage is a kind of fraction saying how many parts over 100 something is. In this article you will see in detail what a percentage is, and how to calculate a percentage in Excel. First, before diving into how it works in Excel, let's take a look at the",
+          "link": "https://www.freecodecamp.org/news/how-to-calculate-percentage-in-excel-formula-for-percentages/",
+          "publishedOn": "2022-08-18T17:44:39.000Z",
+          "wordCount": 2535,
+          "title": "How to Calculate Percentage in Excel – Formula for Percentages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/victoria-strukovskaya-OhL_qEqpef4-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-revert-file-reverting-a-file-to-a-previous-commit/",
+          "author": "Joel Olawanle",
+          "description": "Git is a version control system that helps teams and individuals track and record changes made to a file or an entire project. When working with Git, you often commit your changes and then push them to a remote repository. Suppose you have made a lot of commits and later",
+          "link": "https://www.freecodecamp.org/news/git-revert-file-reverting-a-file-to-a-previous-commit/",
+          "publishedOn": "2022-08-18T15:39:20.000Z",
+          "wordCount": 1356,
+          "title": "Git Revert File – Reverting a File to a Previous Commit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/discord-update-failed-how-to-fix-the-error-on-a-windows-10-pc/",
+          "author": "Kolade Chris",
+          "description": "Discord is a popular chat app for gamers and anyone else who wants to create an online community. Despite its popularity, one major problem users report about Discord is the update failed loop. Discord has to update often because the Discord team implements new features and bug fixes regularly. In",
+          "link": "https://www.freecodecamp.org/news/discord-update-failed-how-to-fix-the-error-on-a-windows-10-pc/",
+          "publishedOn": "2022-08-18T15:31:45.000Z",
+          "wordCount": 1315,
+          "title": "Discord Update Failed – How to Fix the Error on a Windows 10 PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/discord--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/angular-structural-directive-patterns-what-they-are-and-how-to-use-them/",
+          "author": "Valentine Gatwiri",
+          "description": "There are two types of  directives in Angular. Attribute directives modify the appearance or behavior of DOM elements. Structural directives add or remove elements from the DOM. Structural directives are one of the most powerful features of Angular, and yet they’re frequently misunderstood.  If you’re interested in learning more",
+          "link": "https://www.freecodecamp.org/news/angular-structural-directive-patterns-what-they-are-and-how-to-use-them/",
+          "publishedOn": "2022-08-18T15:21:47.000Z",
+          "wordCount": 1676,
+          "title": "Angular Structural Directive Patterns – What They Are and How to Use Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pawe--l-1320737.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/best-practices-for-refactoring-code/",
+          "author": "David Fagbuyiro",
+          "description": "In this article, I will discuss what code refactoring is. We'll go over why you need to refactor your code, the advantages of code refactoring, and some best practices for code refactoring. What is Code Refactoring? Refactoring means organizing your code without modifying its original functionality. Refactoring is the process",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-refactoring-code/",
+          "publishedOn": "2022-08-18T15:15:29.000Z",
+          "wordCount": 2189,
+          "title": "Code Refactoring Best Practices – with Python Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Author-Share-ImageFREE--1-.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flatten-array-recursion/",
+          "author": "Adwaith KS",
+          "description": "In this tutorial, we'll go through a common coding problem that interviewers love to ask candidates. Hopefully this will help you understand how to think through it and solve it. Let's begin by understanding the problem. You are given an array which contains numbers and nested arrays of numbers. Your",
+          "link": "https://www.freecodecamp.org/news/flatten-array-recursion/",
+          "publishedOn": "2022-08-18T15:11:05.000Z",
+          "wordCount": 2132,
+          "title": "How to Flatten an Array in JavaScript Using Recursion",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-damon-hall-1705254.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/",
+          "author": "Beau Carnes",
+          "description": "Dennis Ritchie created the C programming language. He also co-authored the authoritative reference book on C programming with Brian Kernighan. If you want to truly understand C programming, it is a good idea to go straight to the source. We just published a C programming course on the freeCodeCamp.org YouTube",
+          "link": "https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/",
+          "publishedOn": "2022-08-18T14:34:51.000Z",
+          "wordCount": 1011,
+          "title": "Learn C Programming Using the Classic Book by Kernighan and Ritchie",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cprogramming.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/",
           "author": "Eamonn Cottrell",
@@ -434,86 +514,6 @@
           "wordCount": 2588,
           "title": "What is a Computer Scientist? What Exactly Do CS Majors Do?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-207691.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/run-android-games-on-linux/",
-          "author": "Jose Vicente Nunez",
-          "description": "In this article, you'll learn how you can use virtual machines on Linux while having fun with vintage games. If you have an Android phone, one of your guilty pleasures might be playing some very entertaining games. Or it could be that there is an application that only runs on",
-          "link": "https://www.freecodecamp.org/news/run-android-games-on-linux/",
-          "publishedOn": "2022-08-17T16:09:12.000Z",
-          "wordCount": 1638,
-          "title": "How to Run Android Games on Linux with Android-x86",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/jose-article-photo.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-open-source-software/",
-          "author": "Destiny Erhabor",
-          "description": "In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to",
-          "link": "https://www.freecodecamp.org/news/what-is-open-source-software/",
-          "publishedOn": "2022-08-16T20:23:53.000Z",
-          "wordCount": 3929,
-          "title": "What is Open Source? How to Contribute to OSS Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ben-taylor-109998.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
-          "author": "Joel Olawanle",
-          "description": "When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you",
-          "link": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
-          "publishedOn": "2022-08-16T19:32:10.000Z",
-          "wordCount": 2099,
-          "title": "CSS Image Centering – How to Center an Image in a Div",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
-          "author": "Chinwendu Enyinna",
-          "description": "Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,",
-          "link": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
-          "publishedOn": "2022-08-16T17:51:48.000Z",
-          "wordCount": 3459,
-          "title": "How to Use Regular Expressions in JavaScript – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/regex-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/http-vs-https/",
-          "author": "Annoh Karlgusta",
-          "description": "We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users",
-          "link": "https://www.freecodecamp.org/news/http-vs-https/",
-          "publishedOn": "2022-08-16T17:47:14.000Z",
-          "wordCount": 2955,
-          "title": "HTTP vs HTTPS – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/HTTP-VS-HTTPS.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
-          "author": "Kolade Chris",
-          "description": "When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git",
-          "link": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
-          "publishedOn": "2022-08-16T17:20:10.000Z",
-          "wordCount": 1162,
-          "title": "Git Delete Remote Branch – How to Remove a Remote Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/direction-2320124_1920.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
-          "author": "Zaid Humayun",
-          "description": "Identifying performance issues has always been the holy grail of engineering. You want to be known as the software engineer who's able to diagnose and rectify the performance issue that came up in production. It really adds credibility to your engineering chops. We had an issue at work recently that",
-          "link": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
-          "publishedOn": "2022-08-15T21:50:26.000Z",
-          "wordCount": 3245,
-          "title": "How to Improve AWS Performance Without Spending More Money",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-howard-adams-575835.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-upgrade-postgres-major-versions-with-near-zero-downtime/",
-          "author": "Wenbin Fang",
-          "description": "It's impossible to create zero-downtime Postgres upgrades across major versions – right? Please, correct me if I’m wrong :)  But at least we’ve found a way to get close to zero downtime.  * PostgreSQL Upgrades are hard!    [https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html]  * How Retool upgraded our 4",
-          "link": "https://www.freecodecamp.org/news/how-to-upgrade-postgres-major-versions-with-near-zero-downtime/",
-          "publishedOn": "2022-08-15T21:42:14.000Z",
-          "wordCount": 2422,
-          "title": "How to Upgrade Postgres Major Versions with Near-Zero Downtime – a Practical Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Listen-Score-loves-postgres.png"
         }
       ]
     }
