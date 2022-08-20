@@ -17,7 +17,7 @@
           "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/when-do-you-use-css-columns/",
           "publishedOn": "2022-08-18T13:24:48.000Z",
-          "wordCount": 1272,
+          "wordCount": 1436,
           "title": "When Do You Use CSS Columns?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
         },
@@ -27,7 +27,7 @@
           "description": "If the thought of handwriting code seems silly, it might surprise you to know that it’s inevitable. If you’re unsure, think about the last job interview you did, and remember how there was no computer around in the interview room …\nWhy (and How) I Write Code With Pencil and Paper originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/",
           "publishedOn": "2022-08-17T13:21:17.000Z",
-          "wordCount": 3747,
+          "wordCount": 3767,
           "title": "Why (and How) I Write Code With Pencil and Paper",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367045"
         },
@@ -37,7 +37,7 @@
           "description": "In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…\nCSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-1/",
           "publishedOn": "2022-08-15T13:13:47.000Z",
-          "wordCount": 3569,
+          "wordCount": 3620,
           "title": "CSS Grid and Custom Shapes, Part 1",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367324"
         },
@@ -57,7 +57,7 @@
           "description": "Designing a beautiful “article” is wrought with tons of considerations. Unlike, say, a homepage, a long-form article is less about designing an interface than it is designing text in a way that creates a relaxed and comfortable reading experience.\nThat’s …\nDesigning for Long-Form Articles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/designing-for-long-form-articles/",
           "publishedOn": "2022-08-10T14:30:01.000Z",
-          "wordCount": 3319,
+          "wordCount": 3413,
           "title": "Designing for Long-Form Articles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367370"
         },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
+          "author": "hello@smashingmagazine.com (Caleb Olojo)",
+          "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
+          "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
+          "publishedOn": "2022-08-19T10:00:00.000Z",
+          "wordCount": 5195,
+          "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "author": "hello@smashingmagazine.com (Evyatar Alush)",
           "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
           "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4628,
+          "wordCount": 4732,
           "title": "An Introduction To Context Propagation In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
@@ -219,7 +234,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4593,
+          "wordCount": 4592,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3933,
+          "wordCount": 4035,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -249,7 +264,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3776,
+          "wordCount": 3770,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -279,7 +294,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4379,
+          "wordCount": 4378,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -294,7 +309,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4334,
+          "wordCount": 4333,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -309,7 +324,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4535,
+          "wordCount": 4534,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -324,7 +339,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4792,
+          "wordCount": 4794,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -339,7 +354,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4532,
+          "wordCount": 4522,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -354,7 +369,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4642,
+          "wordCount": 4547,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -384,7 +399,7 @@
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
           "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "publishedOn": "2022-07-22T09:00:00.000Z",
-          "wordCount": 5074,
+          "wordCount": 5065,
           "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
@@ -415,6 +430,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
+          "author": "Saamer Mansoor",
+          "description": "In this article we will talk about why and how to implement the GameCenter's Leaderboard [https://developer.apple.com/design/human-interface-guidelines/technologies/game-center/leaderboards/]  within your app.  Why GameCenter is Making a Huge Revival You can make iPhone games without a scoreboard, but leaderboards can help make the game feel more competitive, like people are competing",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
+          "publishedOn": "2022-08-19T21:00:48.000Z",
+          "wordCount": 1898,
+          "title": "How to Implement a GameKit Leaderboard in SwiftUI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/IMG_45B142A26F90-1-copy.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/",
+          "author": "Daniel García Solla",
+          "description": "Discrete mathematics is an area of mathematical knowledge based on the study of formal structures whose nature is fundamentally separate and distinct.  This means it focuses on integers and natural sets of numbers, shapes, and other objects that can be counted finitely or distinguished from one another. It models",
+          "link": "https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/",
+          "publishedOn": "2022-08-19T20:50:13.000Z",
+          "wordCount": 5429,
+          "title": "How to Use Graph Theory to Build a More Sustainable World",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/graph-theory-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/",
+          "author": "Bertil Muth",
+          "description": "Configurable Dependency, also known as Dependency Injection, is a pattern that enables you to switch dependencies of your application. The term [https://web.archive.org/web/20170624023207/http://alistair.cockburn.us/Configurable+Dependency]  was coined by Alistair Cockburn. Say your application has a GUI. But your administrator wants to use certain functions via the console. Or your production code calls",
+          "link": "https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/",
+          "publishedOn": "2022-08-19T20:42:23.000Z",
+          "wordCount": 2460,
+          "title": "How to Refactor to Configurable Dependency in 5 Steps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/diana-polekhina-ONuLIzB0UtA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In JavaScript, timestamps are usually associated with Unix time [https://en.wikipedia.org/wiki/Unix_time]. And there are different methods for generating such timestamps. When we make use of the different JavaScript methods for generating timestamps, they return the number of milliseconds that has passed since 1 January 1970 UTC (the Unix time).  In",
+          "link": "https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/",
+          "publishedOn": "2022-08-19T17:58:01.000Z",
+          "wordCount": 1029,
+          "title": "JavaScript Timestamp – How to Use getTime() to Generate Timestamps in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/aron-visuals-BXOXnQ26B7o-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-i-learned-speaking-at-vueconf-us/",
           "author": "Austin Gil",
@@ -474,46 +529,6 @@
           "wordCount": 2189,
           "title": "Code Refactoring Best Practices – with Python Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Author-Share-ImageFREE--1-.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flatten-array-recursion/",
-          "author": "Adwaith KS",
-          "description": "In this tutorial, we'll go through a common coding problem that interviewers love to ask candidates. Hopefully this will help you understand how to think through it and solve it. Let's begin by understanding the problem. You are given an array which contains numbers and nested arrays of numbers. Your",
-          "link": "https://www.freecodecamp.org/news/flatten-array-recursion/",
-          "publishedOn": "2022-08-18T15:11:05.000Z",
-          "wordCount": 2132,
-          "title": "How to Flatten an Array in JavaScript Using Recursion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-damon-hall-1705254.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/",
-          "author": "Beau Carnes",
-          "description": "Dennis Ritchie created the C programming language. He also co-authored the authoritative reference book on C programming with Brian Kernighan. If you want to truly understand C programming, it is a good idea to go straight to the source. We just published a C programming course on the freeCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/",
-          "publishedOn": "2022-08-18T14:34:51.000Z",
-          "wordCount": 1011,
-          "title": "Learn C Programming Using the Classic Book by Kernighan and Ritchie",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cprogramming.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/",
-          "author": "Eamonn Cottrell",
-          "description": "I've recently wrapped up a freelance client website using Trello [https://trello.com/] for project management.  I've wasted hours on projects in the past due to a lack of organization, processes, and general good practices. So this time I wanted to sharpen my project management skills in a way that would",
-          "link": "https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/",
-          "publishedOn": "2022-08-17T20:51:45.000Z",
-          "wordCount": 2053,
-          "title": "Freelance Project Management – 10 Tips to Help You Work with Clients",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/trello-project-mgmt.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/",
-          "author": "Dionysia Lemonaki",
-          "description": "Computer Science is one of the most popular STEM majors. STEM stands for Science Technology Engineering and Mathematics. Computer Science is popular because it offers promising and diverse job prospects in several industries, along with job security and a generally comfortable starting salary. Now, you may be wondering what Computer",
-          "link": "https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/",
-          "publishedOn": "2022-08-17T16:49:57.000Z",
-          "wordCount": 2588,
-          "title": "What is a Computer Scientist? What Exactly Do CS Majors Do?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-207691.jpg"
         }
       ]
     }

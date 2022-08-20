@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-19T00:12:19.997Z</id>
+    <id>urn:2022-08-20T00:10:08.509Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T00:12:19.997Z</updated>
+    <updated>2022-08-20T00:10:08.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Implement a GameKit Leaderboard in SwiftUI]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/"/>
+        <updated>2022-08-19T21:00:48.000Z</updated>
+        <summary type="html"><![CDATA[In this article we will talk about why and how to implement the GameCenter's Leaderboard [https://developer.apple.com/design/human-interface-guidelines/technologies/game-center/leaderboards/]  within your app.  Why GameCenter is Making a Huge Revival You can make iPhone games without a scoreboard, but leaderboards can help make the game feel more competitive, like people are competing]]></summary>
+        <author>
+            <name>Saamer Mansoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Graph Theory to Build a More Sustainable World]]></title>
+        <id>https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/</id>
+        <link href="https://www.freecodecamp.org/news/the-value-of-graph-theory-within-sustainability/"/>
+        <updated>2022-08-19T20:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Discrete mathematics is an area of mathematical knowledge based on the study of formal structures whose nature is fundamentally separate and distinct.  This means it focuses on integers and natural sets of numbers, shapes, and other objects that can be counted finitely or distinguished from one another. It models]]></summary>
+        <author>
+            <name>Daniel García Solla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Refactor to Configurable Dependency in 5 Steps]]></title>
+        <id>https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/</id>
+        <link href="https://www.freecodecamp.org/news/refactoring-to-configurable-dependency-in-5-steps/"/>
+        <updated>2022-08-19T20:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Configurable Dependency, also known as Dependency Injection, is a pattern that enables you to switch dependencies of your application. The term [https://web.archive.org/web/20170624023207/http://alistair.cockburn.us/Configurable+Dependency]  was coined by Alistair Cockburn. Say your application has a GUI. But your administrator wants to use certain functions via the console. Or your production code calls]]></summary>
+        <author>
+            <name>Bertil Muth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Timestamp – How to Use getTime() to Generate Timestamps in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-timestamp-how-to-use-gettime-to-generate-timestamps-in-js/"/>
+        <updated>2022-08-19T17:58:01.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, timestamps are usually associated with Unix time [https://en.wikipedia.org/wiki/Unix_time]. And there are different methods for generating such timestamps. When we make use of the different JavaScript methods for generating timestamps, they return the number of milliseconds that has passed since 1 January 1970 UTC (the Unix time).  In]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing A Reset Password Feature With Next.js Dynamic Routes]]></title>
+        <id>https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/</id>
+        <link href="https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/"/>
+        <updated>2022-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I Learned Speaking at VueConf US 2022 – Tech Conference Guide]]></title>
         <id>https://www.freecodecamp.org/news/what-i-learned-speaking-at-vueconf-us/</id>
@@ -66,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Flatten an Array in JavaScript Using Recursion]]></title>
-        <id>https://www.freecodecamp.org/news/flatten-array-recursion/</id>
-        <link href="https://www.freecodecamp.org/news/flatten-array-recursion/"/>
-        <updated>2022-08-18T15:11:05.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we'll go through a common coding problem that interviewers love to ask candidates. Hopefully this will help you understand how to think through it and solve it. Let's begin by understanding the problem. You are given an array which contains numbers and nested arrays of numbers. Your]]></summary>
-        <author>
-            <name>Adwaith KS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn C Programming Using the Classic Book by Kernighan and Ritchie]]></title>
-        <id>https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/</id>
-        <link href="https://www.freecodecamp.org/news/learn-c-programming-classic-book-dr-chuck/"/>
-        <updated>2022-08-18T14:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Dennis Ritchie created the C programming language. He also co-authored the authoritative reference book on C programming with Brian Kernighan. If you want to truly understand C programming, it is a good idea to go straight to the source. We just published a C programming course on the freeCodeCamp.org YouTube]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When Do You Use CSS Columns?]]></title>
         <id>https://css-tricks.com/?p=372539</id>
         <link href="https://css-tricks.com/when-do-you-use-css-columns/"/>
@@ -105,26 +135,6 @@ When Do You Use CSS Columns? originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Evyatar Alush)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freelance Project Management – 10 Tips to Help You Work with Clients]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/"/>
-        <updated>2022-08-17T20:51:45.000Z</updated>
-        <summary type="html"><![CDATA[I've recently wrapped up a freelance client website using Trello [https://trello.com/] for project management.  I've wasted hours on projects in the past due to a lack of organization, processes, and general good practices. So this time I wanted to sharpen my project management skills in a way that would]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Computer Scientist? What Exactly Do CS Majors Do?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/"/>
-        <updated>2022-08-17T16:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Computer Science is one of the most popular STEM majors. STEM stands for Science Technology Engineering and Mathematics. Computer Science is popular because it offers promising and diverse job prospects in several industries, along with job security and a generally comfortable starting salary. Now, you may be wondering what Computer]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
