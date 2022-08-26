@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-25T00:12:18.584Z</id>
+    <id>urn:2022-08-26T00:11:59.295Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T00:12:18.584Z</updated>
+    <updated>2022-08-26T00:11:59.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Error Messages UX]]></title>
+        <id>https://smashingmagazine.com/2022/08/error-messages-ux-design/</id>
+        <link href="https://smashingmagazine.com/2022/08/error-messages-ux-design/"/>
+        <updated>2022-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Sure How to WordPress Anymore?]]></title>
+        <id>https://css-tricks.com/?p=372616</id>
+        <link href="https://css-tricks.com/not-sure-how-to-wordpress-anymore/"/>
+        <updated>2022-08-25T14:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …
+Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Games with LÖVE 2D and Lua]]></title>
+        <id>https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/</id>
+        <link href="https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/"/>
+        <updated>2022-08-25T13:28:45.000Z</updated>
+        <summary type="html"><![CDATA[The Lua programming language is becoming increasingly popular for game development. And the LÖVE 2D game engine makes it simpler to create games using Lua.  We just published a full 11-hour game development course on the freeCodeCamp.org YouTube channel that will teach you how to create games using LÖVE]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Video Streaming With imgix]]></title>
+        <id>https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/</id>
+        <link href="https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/"/>
+        <updated>2022-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Doug Sillars)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Dual Boot Windows 10 and Ubuntu – Linux Dual Booting Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/</id>
@@ -104,16 +145,6 @@ Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originall
         <summary type="html"><![CDATA[In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive]]></summary>
         <author>
             <name>Swatej Patil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Arrays.binarySearch() in Java]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/"/>
-        <updated>2022-08-23T15:31:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
         </author>
     </entry>
     <entry>
@@ -397,17 +428,6 @@ The specific situation is when a layout grid expects …
 Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers]]></title>
-        <id>https://css-tricks.com/?p=367178</id>
-        <link href="https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/"/>
-        <updated>2022-08-01T13:44:13.000Z</updated>
-        <summary type="html"><![CDATA[When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…
-Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>

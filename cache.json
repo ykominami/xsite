@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372616",
+          "author": "Geoff Graham",
+          "description": "Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …\nNot Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/not-sure-how-to-wordpress-anymore/",
+          "publishedOn": "2022-08-25T14:34:06.000Z",
+          "wordCount": 1830,
+          "title": "Not Sure How to WordPress Anymore?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
+        },
+        {
           "id": "https://css-tricks.com/?p=372576",
           "author": "Ollie Williams",
           "description": "If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …\nUsing CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/",
           "publishedOn": "2022-08-24T13:11:47.000Z",
-          "wordCount": 1690,
+          "wordCount": 1782,
           "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
         },
@@ -27,7 +37,7 @@
           "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
           "publishedOn": "2022-08-23T13:04:31.000Z",
-          "wordCount": 979,
+          "wordCount": 1169,
           "title": "Removing jQuery from GOV.UK",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1067,
           "title": "Implicit Grids, Repeatable Layout Patterns, and Danglers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367158"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367178",
-          "author": "Temani Afif",
-          "description": "When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…\nExploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/",
-          "publishedOn": "2022-08-01T13:44:13.000Z",
-          "wordCount": 5722,
-          "title": "Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367178"
         }
       ]
     },
@@ -168,6 +168,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
+          "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
+          "publishedOn": "2022-08-25T15:00:00.000Z",
+          "wordCount": 5908,
+          "title": "Designing Better Error Messages UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/",
+          "author": "hello@smashingmagazine.com (Doug Sillars)",
+          "description": "If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.",
+          "link": "https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/",
+          "publishedOn": "2022-08-25T08:00:00.000Z",
+          "wordCount": 3484,
+          "title": "Better Video Streaming With imgix",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -189,7 +219,7 @@
           "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 6003,
+          "wordCount": 6004,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
@@ -204,7 +234,7 @@
           "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
           "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 5196,
+          "wordCount": 5199,
           "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
@@ -219,7 +249,7 @@
           "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
           "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4636,
+          "wordCount": 4735,
           "title": "An Introduction To Context Propagation In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
@@ -234,7 +264,7 @@
           "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
           "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
           "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4330,
+          "wordCount": 4329,
           "title": "Designing A Better Back Button UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
@@ -249,7 +279,7 @@
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
           "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6091,
+          "wordCount": 6100,
           "title": "Everything Developers Must Know About Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
@@ -264,7 +294,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4588,
+          "wordCount": 4591,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -279,7 +309,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3935,
+          "wordCount": 3936,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -294,7 +324,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3879,
+          "wordCount": 3775,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -324,7 +354,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4374,
+          "wordCount": 4379,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -339,7 +369,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4334,
+          "wordCount": 4335,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -354,7 +384,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4538,
+          "wordCount": 4541,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -369,7 +399,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4792,
+          "wordCount": 4793,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -384,7 +414,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4529,
+          "wordCount": 4527,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -399,7 +429,7 @@
           "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
           "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
           "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4544,
+          "wordCount": 4547,
           "title": "Testable Frontend: The Good, The Bad And The Flaky",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
@@ -415,6 +445,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
+          "author": "Beau Carnes",
+          "description": "The Lua programming language is becoming increasingly popular for game development. And the LÖVE 2D game engine makes it simpler to create games using Lua.  We just published a full 11-hour game development course on the freeCodeCamp.org YouTube channel that will teach you how to create games using LÖVE",
+          "link": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
+          "publishedOn": "2022-08-25T13:28:45.000Z",
+          "wordCount": 946,
+          "title": "Create Games with LÖVE 2D and Lua",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/lua.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
           "author": "Kolade Chris",
@@ -504,16 +544,6 @@
           "wordCount": 1955,
           "title": "Chart.js Tutorial – How to Make Bar and Line Charts in Angular",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Line-Bar-4.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search",
-          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
-          "publishedOn": "2022-08-23T15:31:18.000Z",
-          "wordCount": 1762,
-          "title": "How to Use Arrays.binarySearch() in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Arrays.binarySearch---in-Java.jpg"
         }
       ]
     }
