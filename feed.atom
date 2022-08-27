@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-26T00:11:59.295Z</id>
+    <id>urn:2022-08-27T00:11:32.298Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T00:11:59.295Z</updated>
+    <updated>2022-08-27T00:11:32.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]]]></title>
+        <id>https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/</id>
+        <link href="https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/"/>
+        <updated>2022-08-26T21:01:37.000Z</updated>
+        <summary type="html"><![CDATA[There's a common error that tends to stump new Java programmers. It happens when you group together a bunch of input prompts and one of the scanner.nextLine()  method calls gets skipped – without any signs of failure or error. Take a look at the following code snippet, for example:]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python to Lowercase a String – str.lower() Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/"/>
+        <updated>2022-08-26T20:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Strings can be in different formats such as lowercase, capitalized, and uppercase. In this article, I'll show you how to convert a string to lowercase in Python. A lowercase string has all its characters in small letters. An example is python . A capitalized string has the first letter of]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML TextArea – How to Add a Text Box Input Type Tag to Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/</id>
+        <link href="https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/"/>
+        <updated>2022-08-26T16:21:53.000Z</updated>
+        <summary type="html"><![CDATA[A text box is a section of your website where users can enter text. A blinking cursor appears when you click or tap on or inside the text box, indicating that you are ready to begin typing. And an on-screen keyboard will appear if you're using a tablet or smartphone.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot]]></title>
+        <id>https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/</id>
+        <link href="https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/"/>
+        <updated>2022-08-26T15:46:39.000Z</updated>
+        <summary type="html"><![CDATA[TestContainers is a library that helps you run module-specific Docker containers to simplify Integration Testing.  These Docker containers are lightweight, and once the tests are finished the containers get destroyed. In the article we are going to understand what the TestContainers is and how it helps you write more]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Handling in Python – How to Create, Read, and Write to a File]]></title>
+        <id>https://www.freecodecamp.org/news/file-handling-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/file-handling-in-python/"/>
+        <updated>2022-08-26T15:42:16.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to open a file, write to the file, and close it. You will also learn how to read from the file using Python.  By the end of this tutorial, you should know the basics of how to use files in Python. File]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Serverless AWS by Building 7 Projects]]></title>
+        <id>https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/</id>
+        <link href="https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/"/>
+        <updated>2022-08-26T15:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Following tutorials when you start learning serverless is a good first step. But to really get better, you need to build your own projects.  The problem is that coming up with ideas that are realistic but help you grow is hard. To help you out, I’ve come up with]]></summary>
+        <author>
+            <name>Sam Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Grid Named Areas to Visualize (and Reference) Your Layout]]></title>
+        <id>https://css-tricks.com/?p=372634</id>
+        <link href="https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/"/>
+        <updated>2022-08-26T13:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …
+Using Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi Selvam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Relational Database? RDBMS Definition]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/"/>
+        <updated>2022-08-25T22:51:46.000Z</updated>
+        <summary type="html"><![CDATA[A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term "relational" is the main characteristic feature that makes relational databases unique. This]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing Better Error Messages UX]]></title>
         <id>https://smashingmagazine.com/2022/08/error-messages-ux-design/</id>
@@ -67,36 +148,6 @@ Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frontend Web Developer 21-Hour Bootcamp]]></title>
-        <id>https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/</id>
-        <link href="https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/"/>
-        <updated>2022-08-24T17:32:45.000Z</updated>
-        <summary type="html"><![CDATA[There are a lot of jobs available for frontend web developers. And you can learn all the skills you need to know without paying anything. You probably already know about freeCodeCamp's free interactive curriculum [https://freecodecamp.org] that will teach you the skills you need to become a fullstack web developer. But]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Date Format – How to Format a Date in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/"/>
-        <updated>2022-08-24T15:25:15.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is one of the three fundamental web technologies you'll use when developing websites or web applications. When creating these web pages, you will, at some point, likely need to use dates for some reason – such as displaying when something was uploaded, stored, and so on. In this article,]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an OTP Input in Vue 3]]></title>
-        <id>https://www.freecodecamp.org/news/create-otp-input-vue-3/</id>
-        <link href="https://www.freecodecamp.org/news/create-otp-input-vue-3/"/>
-        <updated>2022-08-24T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging. In this article, you’ll learn how to build an OTP input from scratch in Vue 3. By the end of]]></summary>
-        <author>
-            <name>Paul Akinyemi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project]]></title>
         <id>https://css-tricks.com/?p=372576</id>
         <link href="https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/"/>
@@ -105,46 +156,6 @@ Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is 
 Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Linux Utilities to Improve Your Programming Workflow in 2022]]></title>
-        <id>https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/</id>
-        <link href="https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/"/>
-        <updated>2022-08-24T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Working as a Software Developer, there are always new tools and frameworks coming out that can completely change your workflows – for the better (or worse?).  Either way, there is always the possibility to optimize how you do things day-to-day. This article contains some Linux utilities that have recently]]></summary>
-        <author>
-            <name>Rishabh Rawat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.gitignore File – How to Ignore Files and Folders in Git]]></title>
-        <id>https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/"/>
-        <updated>2022-08-23T16:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python in Power BI]]></title>
-        <id>https://www.freecodecamp.org/news/python-in-powerbi/</id>
-        <link href="https://www.freecodecamp.org/news/python-in-powerbi/"/>
-        <updated>2022-08-23T16:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage]]></summary>
-        <author>
-            <name>Yannawut Kimnaruk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chart.js Tutorial – How to Make Bar and Line Charts in Angular]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/"/>
-        <updated>2022-08-23T15:35:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive]]></summary>
-        <author>
-            <name>Swatej Patil</name>
         </author>
     </entry>
     <entry>
@@ -419,18 +430,6 @@ Converting Speech to PDF with NextJS and ExpressJS originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implicit Grids, Repeatable Layout Patterns, and Danglers]]></title>
-        <id>https://css-tricks.com/?p=367158</id>
-        <link href="https://css-tricks.com/implicit-grids-repeatable-layout-patterns-and-danglers/"/>
-        <updated>2022-08-02T13:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Dave Rupert with some modern CSS magic that tackles one of those classic conundrums: what happens when the CSS for component is unable to handle the content we throw at it?
-The specific situation is when a layout grid expects …
-Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluid Sizing Instead Of Multiple Media Queries?]]></title>
         <id>https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/</id>
         <link href="https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/"/>
@@ -448,16 +447,6 @@ Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testable Frontend: The Good, The Bad And The Flaky]]></title>
-        <id>https://smashingmagazine.com/2022/07/testable-frontend-architecture/</id>
-        <link href="https://smashingmagazine.com/2022/07/testable-frontend-architecture/"/>
-        <updated>2022-07-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
         </author>
     </entry>
 </feed>

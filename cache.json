@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372634",
+          "author": "Preethi Selvam",
+          "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/",
+          "publishedOn": "2022-08-26T13:44:49.000Z",
+          "wordCount": 4043,
+          "title": "Using Grid Named Areas to Visualize (and Reference) Your Layout",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372634"
+        },
+        {
           "id": "https://css-tricks.com/?p=372616",
           "author": "Geoff Graham",
           "description": "Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …\nNot Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/not-sure-how-to-wordpress-anymore/",
           "publishedOn": "2022-08-25T14:34:06.000Z",
-          "wordCount": 1830,
+          "wordCount": 2781,
           "title": "Not Sure How to WordPress Anymore?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
         },
@@ -37,7 +47,7 @@
           "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
           "publishedOn": "2022-08-23T13:04:31.000Z",
-          "wordCount": 1169,
+          "wordCount": 1286,
           "title": "Removing jQuery from GOV.UK",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
         },
@@ -57,7 +67,7 @@
           "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/when-do-you-use-css-columns/",
           "publishedOn": "2022-08-18T13:24:48.000Z",
-          "wordCount": 1564,
+          "wordCount": 1601,
           "title": "When Do You Use CSS Columns?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3266,
           "title": "Converting Speech to PDF with NextJS and ExpressJS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367238"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367158",
-          "author": "Geoff Graham",
-          "description": "Dave Rupert with some modern CSS magic that tackles one of those classic conundrums: what happens when the CSS for component is unable to handle the content we throw at it?\nThe specific situation is when a layout grid expects …\nImplicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/implicit-grids-repeatable-layout-patterns-and-danglers/",
-          "publishedOn": "2022-08-02T13:10:49.000Z",
-          "wordCount": 1067,
-          "title": "Implicit Grids, Repeatable Layout Patterns, and Danglers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367158"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
           "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5908,
+          "wordCount": 5907,
           "title": "Designing Better Error Messages UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
@@ -234,7 +234,7 @@
           "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
           "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 5199,
+          "wordCount": 5192,
           "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
@@ -249,7 +249,7 @@
           "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
           "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4735,
+          "wordCount": 4634,
           "title": "An Introduction To Context Propagation In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
@@ -264,7 +264,7 @@
           "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
           "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
           "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4329,
+          "wordCount": 4330,
           "title": "Designing A Better Back Button UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
@@ -279,7 +279,7 @@
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
           "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6100,
+          "wordCount": 6098,
           "title": "Everything Developers Must Know About Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
@@ -294,7 +294,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4591,
+          "wordCount": 4596,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -309,7 +309,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3936,
+          "wordCount": 3928,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -324,7 +324,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3775,
+          "wordCount": 3778,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -354,7 +354,7 @@
           "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
           "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
           "publishedOn": "2022-08-08T11:00:00.000Z",
-          "wordCount": 4379,
+          "wordCount": 4479,
           "title": "How Our Organization Improved Web Accessibility (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
@@ -369,7 +369,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4335,
+          "wordCount": 4332,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -384,7 +384,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4541,
+          "wordCount": 4538,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -399,7 +399,7 @@
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
           "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4792,
           "title": "Fluid Sizing Instead Of Multiple Media Queries?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
@@ -414,7 +414,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
           "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4527,
+          "wordCount": 4523,
           "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
@@ -422,21 +422,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
-          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
-          "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
-          "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
-          "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4547,
-          "title": "Testable Frontend: The Good, The Bad And The Flaky",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg"
         }
       ]
     },
@@ -445,6 +430,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "There's a common error that tends to stump new Java programmers. It happens when you group together a bunch of input prompts and one of the scanner.nextLine()  method calls gets skipped – without any signs of failure or error. Take a look at the following code snippet, for example:",
+          "link": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
+          "publishedOn": "2022-08-26T21:01:37.000Z",
+          "wordCount": 1496,
+          "title": "Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/java-scanner-nextline-call-gets-skipped-solved.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/",
+          "author": "Dillion Megida",
+          "description": "Strings can be in different formats such as lowercase, capitalized, and uppercase. In this article, I'll show you how to convert a string to lowercase in Python. A lowercase string has all its characters in small letters. An example is python . A capitalized string has the first letter of",
+          "link": "https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/",
+          "publishedOn": "2022-08-26T20:12:09.000Z",
+          "wordCount": 1147,
+          "title": "Python to Lowercase a String – str.lower() Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/string-lowercase.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/",
+          "author": "Joel Olawanle",
+          "description": "A text box is a section of your website where users can enter text. A blinking cursor appears when you click or tap on or inside the text box, indicating that you are ready to begin typing. And an on-screen keyboard will appear if you're using a tablet or smartphone.",
+          "link": "https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/",
+          "publishedOn": "2022-08-26T16:21:53.000Z",
+          "wordCount": 1294,
+          "title": "HTML TextArea – How to Add a Text Box Input Type Tag to Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/",
+          "author": "Sameer Shukla",
+          "description": "TestContainers is a library that helps you run module-specific Docker containers to simplify Integration Testing.  These Docker containers are lightweight, and once the tests are finished the containers get destroyed. In the article we are going to understand what the TestContainers is and how it helps you write more",
+          "link": "https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/",
+          "publishedOn": "2022-08-26T15:46:39.000Z",
+          "wordCount": 2202,
+          "title": "How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/testcontainers-logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-handling-in-python/",
+          "author": "David Fagbuyiro",
+          "description": "In this tutorial, you will learn how to open a file, write to the file, and close it. You will also learn how to read from the file using Python.  By the end of this tutorial, you should know the basics of how to use files in Python. File",
+          "link": "https://www.freecodecamp.org/news/file-handling-in-python/",
+          "publishedOn": "2022-08-26T15:42:16.000Z",
+          "wordCount": 2241,
+          "title": "File Handling in Python – How to Create, Read, and Write to a File",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Author-Share-ImageFREE--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/",
+          "author": "Sam Williams",
+          "description": "Following tutorials when you start learning serverless is a good first step. But to really get better, you need to build your own projects.  The problem is that coming up with ideas that are realistic but help you grow is hard. To help you out, I’ve come up with",
+          "link": "https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/",
+          "publishedOn": "2022-08-26T15:34:58.000Z",
+          "wordCount": 4024,
+          "title": "How to Learn Serverless AWS by Building 7 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-christina-morillo-1181316.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term \"relational\" is the main characteristic feature that makes relational databases unique. This",
+          "link": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
+          "publishedOn": "2022-08-25T22:51:46.000Z",
+          "wordCount": 1951,
+          "title": "What is a Relational Database? RDBMS Definition",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/guerrillabuzz-crypto-pr-IlUq1ruyv0Q-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/",
           "author": "Beau Carnes",
@@ -474,76 +529,6 @@
           "wordCount": 4778,
           "title": "Top Python Concepts to Know Before Learning Data Science",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/python-data-science-concepts.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
-          "author": "Beau Carnes",
-          "description": "There are a lot of jobs available for frontend web developers. And you can learn all the skills you need to know without paying anything. You probably already know about freeCodeCamp's free interactive curriculum [https://freecodecamp.org] that will teach you the skills you need to become a fullstack web developer. But",
-          "link": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
-          "publishedOn": "2022-08-24T17:32:45.000Z",
-          "wordCount": 969,
-          "title": "Frontend Web Developer 21-Hour Bootcamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/frontend.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
-          "author": "Joel Olawanle",
-          "description": "JavaScript is one of the three fundamental web technologies you'll use when developing websites or web applications. When creating these web pages, you will, at some point, likely need to use dates for some reason – such as displaying when something was uploaded, stored, and so on. In this article,",
-          "link": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
-          "publishedOn": "2022-08-24T15:25:15.000Z",
-          "wordCount": 1710,
-          "title": "JavaScript Date Format – How to Format a Date in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
-          "author": "Paul Akinyemi",
-          "description": "OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging. In this article, you’ll learn how to build an OTP input from scratch in Vue 3. By the end of",
-          "link": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
-          "publishedOn": "2022-08-24T15:00:18.000Z",
-          "wordCount": 2366,
-          "title": "How to Build an OTP Input in Vue 3",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/otp-article-header.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
-          "author": "Rishabh Rawat",
-          "description": "Working as a Software Developer, there are always new tools and frameworks coming out that can completely change your workflows – for the better (or worse?).  Either way, there is always the possibility to optimize how you do things day-to-day. This article contains some Linux utilities that have recently",
-          "link": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
-          "publishedOn": "2022-08-24T11:55:00.000Z",
-          "wordCount": 1624,
-          "title": "5 Linux Utilities to Improve Your Programming Workflow in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/linux-shell-utilities-cover.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a",
-          "link": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
-          "publishedOn": "2022-08-23T16:58:02.000Z",
-          "wordCount": 2714,
-          "title": ".gitignore File – How to Ignore Files and Folders in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ken-tomita-389819.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-in-powerbi/",
-          "author": "Yannawut Kimnaruk",
-          "description": "Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage",
-          "link": "https://www.freecodecamp.org/news/python-in-powerbi/",
-          "publishedOn": "2022-08-23T16:27:48.000Z",
-          "wordCount": 2186,
-          "title": "How to Use Python in Power BI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Python-Power-BI-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
-          "author": "Swatej Patil",
-          "description": "In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive",
-          "link": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
-          "publishedOn": "2022-08-23T15:35:01.000Z",
-          "wordCount": 1955,
-          "title": "Chart.js Tutorial – How to Make Bar and Line Charts in Angular",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Line-Bar-4.jpeg"
         }
       ]
     }
