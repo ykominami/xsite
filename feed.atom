@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-29T00:12:01.858Z</id>
+    <id>urn:2022-08-30T00:13:19.058Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T00:12:01.858Z</updated>
+    <updated>2022-08-30T00:13:19.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
+        <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
+        <link href="https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/"/>
+        <updated>2022-08-29T21:17:07.000Z</updated>
+        <summary type="html"><![CDATA[The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
+        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
+        <updated>2022-08-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Linear Models and Decision Trees in Julia]]></title>
+        <id>https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/</id>
+        <link href="https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/"/>
+        <updated>2022-08-29T13:46:21.000Z</updated>
+        <summary type="html"><![CDATA[As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or]]></summary>
+        <author>
+            <name>Logan Kilpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code 20 Beginner Python Projects]]></title>
+        <id>https://www.freecodecamp.org/news/20-beginner-python-projects/</id>
+        <link href="https://www.freecodecamp.org/news/20-beginner-python-projects/"/>
+        <updated>2022-08-29T12:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]]]></title>
         <id>https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/</id>
@@ -108,16 +148,6 @@ Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create Games with LÖVE 2D and Lua]]></title>
-        <id>https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/</id>
-        <link href="https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/"/>
-        <updated>2022-08-25T13:28:45.000Z</updated>
-        <summary type="html"><![CDATA[The Lua programming language is becoming increasingly popular for game development. And the LÖVE 2D game engine makes it simpler to create games using Lua.  We just published a full 11-hour game development course on the freeCodeCamp.org YouTube channel that will teach you how to create games using LÖVE]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Better Video Streaming With imgix]]></title>
         <id>https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/</id>
         <link href="https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/"/>
@@ -125,26 +155,6 @@ Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Doug Sillars)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dual Boot Windows 10 and Ubuntu – Linux Dual Booting Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/"/>
-        <updated>2022-08-24T20:09:09.000Z</updated>
-        <summary type="html"><![CDATA[You don’t have to have two different computers to use Linux and Windows 10. It's possible to have a Linux distro installed on a computer with Windows 10 preinstalled. In this article, I will show you how to dual boot Windows 10 and the popular Ubuntu Linux distro. But before]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Python Concepts to Know Before Learning Data Science]]></title>
-        <id>https://www.freecodecamp.org/news/top-python-concepts-for-data-science/</id>
-        <link href="https://www.freecodecamp.org/news/top-python-concepts-for-data-science/"/>
-        <updated>2022-08-24T17:53:30.000Z</updated>
-        <summary type="html"><![CDATA[If you're interested in learning data science, you've likely heard the buzzword  "Python,". It's a popular programming language often used in data science.  But Python is a general-purpose programming language. This means that it's not limited to data science alone. You can use it to develop web and]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
         </author>
     </entry>
     <entry>
@@ -437,16 +447,6 @@ Converting Speech to PDF with NextJS and ExpressJS originally published on CSS-T
         <summary type="html"><![CDATA[If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ruslan Yevych)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memories Of August (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/</id>
-        <link href="https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/"/>
-        <updated>2022-07-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
