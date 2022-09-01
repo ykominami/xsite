@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T00:12:24.398Z</id>
+    <id>urn:2022-09-01T00:12:35.485Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T00:12:24.398Z</updated>
+    <updated>2022-09-01T00:12:35.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Useful HTML5 Tags You Might Not Know]]></title>
+        <id>https://www.freecodecamp.org/news/html5-tags-you-might-not-know/</id>
+        <link href="https://www.freecodecamp.org/news/html5-tags-you-might-not-know/"/>
+        <updated>2022-08-31T21:47:30.000Z</updated>
+        <summary type="html"><![CDATA[One of the key factors that differentiates HTML 5 from its predecessors is the introduction of semantic tags.  Semantic tags add real meaning to the webpage and make it easy for humans, and search engines, to differentiate between different parts of the website.  To a certain extent, it]]></summary>
+        <author>
+            <name>Bhavesh Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Coding Interview Practice – Sample Interview Questions and Solutions]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-coding-interview-practice/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-coding-interview-practice/"/>
+        <updated>2022-08-31T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[David Goggins is an ultramarathon runner, a public speaker, a retired navy SEAL, and the author of the book 'Can't Hurt Me: Master Your Mind and Defy the Odds [https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287]'. He's one of my role models because of his physical strength and mental resilience.  You might say: "Wait a]]></summary>
+        <author>
+            <name>Damla Erkiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/"/>
+        <updated>2022-08-31T17:00:43.000Z</updated>
+        <summary type="html"><![CDATA[You will often need to remove an element from an array in JavaScript, whether it's for a queue data structure, or maybe from your React State. In the first half of this article you will learn all the methods that allow you to remove an element from an array without]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React from Three All-Star Instructors]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/"/>
+        <updated>2022-08-31T14:46:20.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks. If you want to be a frontend developer, you will likely need to know something about React. We just published a full React course for beginners on the freeCodeCamp.org YouTube channel. This course is unlike most of the other React]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding The Balance (September 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/</id>
+        <link href="https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/"/>
+        <updated>2022-08-31T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used]]></title>
+        <id>https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/</id>
+        <link href="https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/"/>
+        <updated>2022-08-30T23:25:47.000Z</updated>
+        <summary type="html"><![CDATA[I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/</id>
@@ -56,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use GitHub Super Linter in Your Projects]]></title>
-        <id>https://www.freecodecamp.org/news/github-super-linter/</id>
-        <link href="https://www.freecodecamp.org/news/github-super-linter/"/>
-        <updated>2022-08-30T15:25:35.000Z</updated>
-        <summary type="html"><![CDATA[When you're starting a new project, you might have to add multiple linting tools to beautify your code and prevent simple errors.  You will often use multiple linters – one of them might support an npm installation and other one might have a PyPI installation and so on. You]]></summary>
-        <author>
-            <name>Rishit Dagli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS in 11 Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-css-in-11-hours/</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-in-11-hours/"/>
-        <updated>2022-08-30T13:55:08.000Z</updated>
-        <summary type="html"><![CDATA[It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interpolating Numeric CSS Variables]]></title>
         <id>https://css-tricks.com/?p=372839</id>
         <link href="https://css-tricks.com/interpolating-numeric-css-variables/"/>
@@ -86,7 +126,7 @@
 }
 And we can declare them on any element:
 .thing {
-  transform: scale(--scale);
+  transform: scale(var(--scale));
 }
 Even better for an example like this is applying the variable on a user …
 Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
@@ -105,16 +145,6 @@ Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
-        <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
-        <link href="https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/"/>
-        <updated>2022-08-29T21:17:07.000Z</updated>
-        <summary type="html"><![CDATA[The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:]]></summary>
-        <author>
-            <name>Megan Kaczanowski</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
         <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
         <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
@@ -122,26 +152,6 @@ Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Linear Models and Decision Trees in Julia]]></title>
-        <id>https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/</id>
-        <link href="https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/"/>
-        <updated>2022-08-29T13:46:21.000Z</updated>
-        <summary type="html"><![CDATA[As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or]]></summary>
-        <author>
-            <name>Logan Kilpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code 20 Beginner Python Projects]]></title>
-        <id>https://www.freecodecamp.org/news/20-beginner-python-projects/</id>
-        <link href="https://www.freecodecamp.org/news/20-beginner-python-projects/"/>
-        <updated>2022-08-29T12:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

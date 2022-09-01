@@ -14,10 +14,10 @@
         {
           "id": "https://css-tricks.com/?p=372839",
           "author": "Geoff Graham",
-          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(--scale);\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(var(--scale));\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
           "publishedOn": "2022-08-30T13:17:25.000Z",
-          "wordCount": 963,
+          "wordCount": 1044,
           "title": "Interpolating Numeric CSS Variables",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
         },
@@ -37,7 +37,7 @@
           "description": "Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …\nNot Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/not-sure-how-to-wordpress-anymore/",
           "publishedOn": "2022-08-25T14:34:06.000Z",
-          "wordCount": 2900,
+          "wordCount": 3203,
           "title": "Not Sure How to WordPress Anymore?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
         },
@@ -169,6 +169,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
+          "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "publishedOn": "2022-08-31T08:45:00.000Z",
+          "wordCount": 4678,
+          "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
           "author": "hello@smashingmagazine.com (Shane Hudson)",
           "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
@@ -204,7 +219,7 @@
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
           "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5908,
+          "wordCount": 5906,
           "title": "Designing Better Error Messages UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
@@ -249,7 +264,7 @@
           "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 6006,
+          "wordCount": 6005,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
@@ -264,7 +279,7 @@
           "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
           "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 5199,
+          "wordCount": 5201,
           "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
@@ -279,7 +294,7 @@
           "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
           "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4735,
+          "wordCount": 4634,
           "title": "An Introduction To Context Propagation In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
@@ -309,7 +324,7 @@
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
           "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6093,
+          "wordCount": 6092,
           "title": "Everything Developers Must Know About Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
@@ -324,7 +339,7 @@
           "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
           "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
           "publishedOn": "2022-08-12T08:00:00.000Z",
-          "wordCount": 4586,
+          "wordCount": 4692,
           "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
@@ -339,7 +354,7 @@
           "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
           "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "publishedOn": "2022-08-11T08:00:00.000Z",
-          "wordCount": 3929,
+          "wordCount": 3932,
           "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
@@ -354,7 +369,7 @@
           "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
           "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
           "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 3778,
+          "wordCount": 3878,
           "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
@@ -399,7 +414,7 @@
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
           "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4333,
+          "wordCount": 4332,
           "title": "Rethinking Authentication UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
@@ -414,7 +429,7 @@
           "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
           "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4541,
+          "wordCount": 4543,
           "title": "Migration From jQuery to Next.js: A Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
@@ -430,6 +445,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
+          "author": "Bhavesh Rawat",
+          "description": "One of the key factors that differentiates HTML 5 from its predecessors is the introduction of semantic tags.  Semantic tags add real meaning to the webpage and make it easy for humans, and search engines, to differentiate between different parts of the website.  To a certain extent, it",
+          "link": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
+          "publishedOn": "2022-08-31T21:47:30.000Z",
+          "wordCount": 2224,
+          "title": "Useful HTML5 Tags You Might Not Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/five-html-tags-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
+          "author": "Damla Erkiner",
+          "description": "David Goggins is an ultramarathon runner, a public speaker, a retired navy SEAL, and the author of the book 'Can't Hurt Me: Master Your Mind and Defy the Odds [https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287]'. He's one of my role models because of his physical strength and mental resilience.  You might say: \"Wait a",
+          "link": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
+          "publishedOn": "2022-08-31T17:39:28.000Z",
+          "wordCount": 3596,
+          "title": "JavaScript Coding Interview Practice – Sample Interview Questions and Solutions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/david-goggins-quotes-about-hard-work.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
+          "author": "Ilenia Magoni",
+          "description": "You will often need to remove an element from an array in JavaScript, whether it's for a queue data structure, or maybe from your React State. In the first half of this article you will learn all the methods that allow you to remove an element from an array without",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
+          "publishedOn": "2022-08-31T17:00:43.000Z",
+          "wordCount": 2514,
+          "title": "How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/vinicius-amnx-amano-dbOV1qSiL-c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular frontend JavaScript frameworks. If you want to be a frontend developer, you will likely need to know something about React. We just published a full React course for beginners on the freeCodeCamp.org YouTube channel. This course is unlike most of the other React",
+          "link": "https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/",
+          "publishedOn": "2022-08-31T14:46:20.000Z",
+          "wordCount": 1191,
+          "title": "Learn React from Three All-Star Instructors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/react-project.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
+          "author": "Lane Wagner",
+          "description": "I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided",
+          "link": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
+          "publishedOn": "2022-08-30T23:25:47.000Z",
+          "wordCount": 1682,
+          "title": "From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/1__D5sbQUd4XwTy9yt67BCCA-1.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/",
           "author": "Njoku Samson Ebere",
@@ -479,56 +544,6 @@
           "wordCount": 1524,
           "title": "SSH Keygen Tutorial – How to Generate an SSH Public Key for RSA Login",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/article-banner.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/github-super-linter/",
-          "author": "Rishit Dagli",
-          "description": "When you're starting a new project, you might have to add multiple linting tools to beautify your code and prevent simple errors.  You will often use multiple linters – one of them might support an npm installation and other one might have a PyPI installation and so on. You",
-          "link": "https://www.freecodecamp.org/news/github-super-linter/",
-          "publishedOn": "2022-08-30T15:25:35.000Z",
-          "wordCount": 2648,
-          "title": "How to Use GitHub Super Linter in Your Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/FCC-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
-          "author": "Beau Carnes",
-          "description": "It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is",
-          "link": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
-          "publishedOn": "2022-08-30T13:55:08.000Z",
-          "wordCount": 830,
-          "title": "Learn CSS in 11 Hours",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cssdave.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "author": "Megan Kaczanowski",
-          "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
-          "link": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "publishedOn": "2022-08-29T21:17:07.000Z",
-          "wordCount": 2608,
-          "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
-          "author": "Logan Kilpatrick",
-          "description": "As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or",
-          "link": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
-          "publishedOn": "2022-08-29T13:46:21.000Z",
-          "wordCount": 2773,
-          "title": "How to Use Linear Models and Decision Trees in Julia",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/LinearModels-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials",
-          "link": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
-          "publishedOn": "2022-08-29T12:44:35.000Z",
-          "wordCount": 813,
-          "title": "How to Code 20 Beginner Python Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/20python.png"
         }
       ]
     }
