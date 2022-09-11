@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T00:12:57.753Z</id>
+    <id>urn:2022-09-11T00:12:25.675Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-10T00:12:57.753Z</updated>
+    <updated>2022-09-11T00:12:25.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[200 Universities Just Launched 850+ Free Online Courses. Here’s the Full List.]]></title>
+        <id>https://www.freecodecamp.org/news/new-online-courses/</id>
+        <link href="https://www.freecodecamp.org/news/new-online-courses/"/>
+        <updated>2022-09-10T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These courses are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years, ~1000 universities have created around tens of thousands of MOOCs. I’ve been keeping]]></summary>
+        <author>
+            <name>Dhawal Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Deno – Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/intro-to-deno/</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-deno/"/>
+        <updated>2022-09-09T22:50:17.000Z</updated>
+        <summary type="html"><![CDATA[What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git Push Local Branch to Remote – How to Publish a New Branch in Git]]></title>
         <id>https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/</id>
@@ -128,26 +148,6 @@ What’s New With Forms in 2022? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for React Interviews – Front-End Technical Interview Guide]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/"/>
-        <updated>2022-09-08T00:29:16.000Z</updated>
-        <summary type="html"><![CDATA[A front-end technical interview is an opportunity for a potential employer to assess your skills and knowledge in web development. The interviewer will ask you questions about your experience and skills in HTML, CSS, and JavaScript. They'll also likely ask you some framework specific questions about React, Angular, Vue, or]]></summary>
-        <author>
-            <name>Manu Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Geolocation API Tutorial – How to Get a User's Location in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/"/>
-        <updated>2022-09-07T18:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Some applications require you to know your user's location, like food delivery or eCommerce apps. So you'll need an efficient way to get this info. The Geolocation API, which we will look at today, is a simple solution. You can use it to determine your users' location, local currency, language,]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
         </author>
     </entry>
     <entry>
@@ -475,16 +475,6 @@ When Do You Use CSS Columns? originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Christine Vallaure)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Skeleton: Svelte + Tailwind For Reactive UIs]]></title>
-        <id>https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/</id>
-        <link href="https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/"/>
-        <updated>2022-08-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Chris Simmons)</name>
         </author>
     </entry>
 </feed>
