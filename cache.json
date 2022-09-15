@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373100",
+          "author": "Daniel Schwarz",
+          "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
+          "publishedOn": "2022-09-14T13:03:04.000Z",
+          "wordCount": 2169,
+          "title": "When is it OK to Disable Text Selection?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
+        },
+        {
           "id": "https://css-tricks.com/?p=373367",
           "author": "Geoff Graham",
           "description": "Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …\nWebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -47,7 +57,7 @@
           "description": "I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …\nHow I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/",
           "publishedOn": "2022-09-09T13:21:29.000Z",
-          "wordCount": 3641,
+          "wordCount": 3678,
           "title": "How I Made a Pure CSS Puzzle Game",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372952"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3540,
           "title": "Not Sure How to WordPress Anymore?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372576",
-          "author": "Ollie Williams",
-          "description": "If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …\nUsing CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/",
-          "publishedOn": "2022-08-24T13:11:47.000Z",
-          "wordCount": 1798,
-          "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
+          "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
+          "publishedOn": "2022-09-14T10:00:00.000Z",
+          "wordCount": 5507,
+          "title": "JavaScript APIs You Don’t Know About",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/wai-aria-guide/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich)",
@@ -204,7 +219,7 @@
           "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
           "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
           "publishedOn": "2022-09-09T08:30:00.000Z",
-          "wordCount": 5347,
+          "wordCount": 5245,
           "title": "One Formula To Rule Them All: The ROI Of A Design System",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
           "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
           "publishedOn": "2022-09-06T19:00:00.000Z",
-          "wordCount": 7457,
+          "wordCount": 7559,
           "title": "The Realities And Myths Of Contrast And Color",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
@@ -279,7 +294,7 @@
           "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
           "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
           "publishedOn": "2022-09-02T10:30:00.000Z",
-          "wordCount": 3986,
+          "wordCount": 3972,
           "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
@@ -294,7 +309,7 @@
           "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
           "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4135,
+          "wordCount": 4136,
           "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
@@ -324,7 +339,7 @@
           "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
           "publishedOn": "2022-08-31T08:45:00.000Z",
-          "wordCount": 4677,
+          "wordCount": 4575,
           "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
@@ -354,7 +369,7 @@
           "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
           "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6042,
+          "wordCount": 6043,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
@@ -369,7 +384,7 @@
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
           "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5904,
+          "wordCount": 5905,
           "title": "Designing Better Error Messages UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
@@ -414,7 +429,7 @@
           "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 6002,
+          "wordCount": 6000,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
@@ -429,7 +444,7 @@
           "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
           "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
           "publishedOn": "2022-08-19T10:00:00.000Z",
-          "wordCount": 5197,
+          "wordCount": 5195,
           "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
@@ -444,7 +459,7 @@
           "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
           "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
           "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4629,
+          "wordCount": 4632,
           "title": "An Introduction To Context Propagation In JavaScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
@@ -452,21 +467,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
-          "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
-          "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4376,
-          "title": "Designing A Better Back Button UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
         }
       ]
     },
@@ -476,6 +476,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/",
+          "author": "Salim Oyinlola",
+          "description": "Improving a Machine Learning model is an iterative process. No machine learning model is ever perfect on the first attempt at training it. It usually takes a few iterations.  But a common mistake you might make as a Machine Learning practitioner is failing to realize that you need to",
+          "link": "https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/",
+          "publishedOn": "2022-09-14T18:31:32.000Z",
+          "wordCount": 1897,
+          "title": "How to Evaluate Machine Learning Models using TensorBoard with TensorFlow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/TensorFlow_Logo_with_text.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/",
+          "author": "Beau Carnes",
+          "description": "Almost every website in the world uses HTML and CSS. So you should definitely learn them if you want to create websites. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build websites with HTML and CSS. Per Borgan created this course. Per",
+          "link": "https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/",
+          "publishedOn": "2022-09-14T18:15:01.000Z",
+          "wordCount": 915,
+          "title": "Learn HTML and CSS from the CEO of Scrimba",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/htmlcss.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
+          "author": "Gavin Lon",
+          "description": "I’ve been a professional software engineer for many years, and I can testify that there are few things worse than getting the dreaded BSOD (Blue Screen of Death). Especially when you are about to write a piece of mind bending code at 2am to meet a looming deadline.  That’s",
+          "link": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
+          "publishedOn": "2022-09-14T15:41:50.000Z",
+          "wordCount": 2480,
+          "title": "Kernel Security Check Failure – How to Restart the Kernel in Windows 10",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/ScreenShot1_BSOD_Anger.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/",
+          "author": "Kylie Ying",
+          "description": "On day 1, they barely knew what a float was. On day 14, they had programmed a game of minesweeper, a cipher decoder, or a zombie apocalypse simulation. And I helped teach them how to do it. Each summer, MIT hosts a program called WTP, or Women's Technology Program.",
+          "link": "https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/",
+          "publishedOn": "2022-09-14T14:46:14.000Z",
+          "wordCount": 1815,
+          "title": "What I Learned Teaching 20 High School Girls How to Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-207691.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/",
+          "author": "Beau Carnes",
+          "description": "When should you use a SQL database and when should you use a NoSQL database? We just published a course on the freeCodeCamp.org YouTube channel that will teach you the differences between NoSQL and SQL databases as well as when and why to use each kind of database. Ania Kubow",
+          "link": "https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/",
+          "publishedOn": "2022-09-14T03:38:22.000Z",
+          "wordCount": 874,
+          "title": "SQL vs NoSQL: When to Use Which",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/maxresdefault.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/",
           "author": "Rajdeep Singh",
           "description": "Deno is a runtime for JavaScript and TypeScript. The creator of Node.js built it, and while Node is built with C and C++, Deno is built with the Rust language. You might be wondering what some of the main differences between Node and Deno are. Well, Rust is a low-level",
@@ -483,7 +533,7 @@
           "publishedOn": "2022-09-13T16:46:28.000Z",
           "wordCount": 2550,
           "title": "How to Create a Static Markdown Blog with Deno and Deploy It",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Create-a-Static-Markdown-Blog-with-Deno.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Create-a-Static-Markdown-Blog-with-Deno--1-.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/",
@@ -524,56 +574,6 @@
           "wordCount": 2252,
           "title": "How to Read and Write Data using Azure Databricks",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/download--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/chart-js-zooom-plugin/",
-          "author": "Swatej Patil",
-          "description": "In this tutorial you will learn how to the Add Chart.js Zoom plugin to an Angular application. When you have a lot of data in a chart, you may want to zoom in and see the details. Line charts are a good way to visualise large amounts of data. You",
-          "link": "https://www.freecodecamp.org/news/chart-js-zooom-plugin/",
-          "publishedOn": "2022-09-12T18:38:17.000Z",
-          "wordCount": 1534,
-          "title": "How to Add the Chart.js Zoom Plugin to an Angular App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/chartjsZoom.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/",
-          "author": "Beau Carnes",
-          "description": "Do you have a React interview coming up? Or do you just want to test your React skills? We just published a course on the freeCodeCamp.org YouTube channel that will help you to prepare for a React interview by teaching you about 30 common React interview questions and concepts. Nishant",
-          "link": "https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/",
-          "publishedOn": "2022-09-12T17:32:35.000Z",
-          "wordCount": 828,
-          "title": "Top 30 React Interview Questions and Concepts",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/reactquestions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-background-color-change-bg-color-tutorial/",
-          "author": "Joel Olawanle",
-          "description": "When you're building web pages, you always want to create unique layouts. You want your web page to be appealing to your users and not jarring to the eye. And to help do that, you can choose background and text colors that blend well and complement each other. By default,",
-          "link": "https://www.freecodecamp.org/news/html-background-color-change-bg-color-tutorial/",
-          "publishedOn": "2022-09-12T17:30:49.000Z",
-          "wordCount": 1666,
-          "title": "HTML Background Color – Change BG Color Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/",
-          "author": "Soham De Roy",
-          "description": "Writing CSS can be really difficult. Period. And I get it – it can be frustrating to nail down your own ideas or the designs you get from your design team. I'm sure many of you have gone through the same pain at least a few times in your development",
-          "link": "https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/",
-          "publishedOn": "2022-09-12T15:38:34.000Z",
-          "wordCount": 2782,
-          "title": "What is Tailwind CSS? A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Group-69.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/container-orchestration-for-beginners/",
-          "author": "Valentine Gatwiri",
-          "description": "Container orchestration has been called the next big thing in the world of technology. And it’s easy to see why. Container orchestration helps IT professionals and programmers maximize their applications’ performance. It helps them ensure that multiple containers can work together to handle more tasks at the same time than",
-          "link": "https://www.freecodecamp.org/news/container-orchestration-for-beginners/",
-          "publishedOn": "2022-09-12T14:57:00.000Z",
-          "wordCount": 2440,
-          "title": "What is Container Orchestration? How to Manage your Containers with MicroK8s",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-163726.jpg"
         }
       ]
     }
