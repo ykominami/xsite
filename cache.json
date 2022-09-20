@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373184",
+          "author": "Brecht De Ruyte",
+          "description": "Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …\nMaking a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/",
+          "publishedOn": "2022-09-19T12:58:09.000Z",
+          "wordCount": 1949,
+          "title": "Making a Real-Time Clock With a Conic Gradient Face",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373184"
+        },
+        {
           "id": "https://css-tricks.com/?p=373372",
           "author": "Geoff Graham",
           "description": "A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …\nMore Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/more-details-on-details/",
           "publishedOn": "2022-09-15T13:12:40.000Z",
-          "wordCount": 2146,
+          "wordCount": 2276,
           "title": "More Details on `details`",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373372"
         },
@@ -27,7 +37,7 @@
           "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
           "publishedOn": "2022-09-14T13:03:04.000Z",
-          "wordCount": 2873,
+          "wordCount": 3445,
           "title": "When is it OK to Disable Text Selection?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
         },
@@ -77,7 +87,7 @@
           "description": "Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…\nrequestSubmit()\nSafari 16 will be the final browser to add support for requestSubmit.\nBefore we …\nWhat’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/whats-new-with-forms-in-2022/",
           "publishedOn": "2022-09-08T13:12:51.000Z",
-          "wordCount": 1773,
+          "wordCount": 1819,
           "title": "What’s New With Forms in 2022?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372979"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1867,
           "title": "Interpolating Numeric CSS Variables",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372634",
-          "author": "Preethi Selvam",
-          "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/",
-          "publishedOn": "2022-08-26T13:44:49.000Z",
-          "wordCount": 4222,
-          "title": "Using Grid Named Areas to Visualize (and Reference) Your Layout",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372634"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
+          "author": "hello@smashingmagazine.com (Andrico Karoulla)",
+          "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
+          "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
+          "publishedOn": "2022-09-19T18:00:00.000Z",
+          "wordCount": 7013,
+          "title": "Building A Retro Draggable Web Component With Lit",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
           "author": "hello@smashingmagazine.com (Matt Athanasiou)",
           "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
           "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 4894,
+          "wordCount": 4897,
           "title": "Rethinking Star Ratings For Readers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
@@ -204,7 +219,7 @@
           "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
           "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 5503,
+          "wordCount": 5405,
           "title": "JavaScript APIs You Don’t Know About",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
@@ -249,7 +264,7 @@
           "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
           "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
           "publishedOn": "2022-09-09T08:30:00.000Z",
-          "wordCount": 5247,
+          "wordCount": 5245,
           "title": "One Formula To Rule Them All: The ROI Of A Design System",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
@@ -264,7 +279,7 @@
           "description": "UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.",
           "link": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
           "publishedOn": "2022-09-08T13:00:00.000Z",
-          "wordCount": 3321,
+          "wordCount": 3322,
           "title": "UX Checklists For Interface Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg",
@@ -279,7 +294,7 @@
           "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
           "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
           "publishedOn": "2022-09-06T19:00:00.000Z",
-          "wordCount": 7454,
+          "wordCount": 7452,
           "title": "The Realities And Myths Of Contrast And Color",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
@@ -294,7 +309,7 @@
           "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
           "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 10056,
+          "wordCount": 10057,
           "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
@@ -324,7 +339,7 @@
           "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
           "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
           "publishedOn": "2022-09-02T10:30:00.000Z",
-          "wordCount": 3975,
+          "wordCount": 3973,
           "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
@@ -339,7 +354,7 @@
           "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
           "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4133,
+          "wordCount": 4234,
           "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
@@ -369,7 +384,7 @@
           "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
           "publishedOn": "2022-08-31T08:45:00.000Z",
-          "wordCount": 4676,
+          "wordCount": 4578,
           "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
@@ -399,7 +414,7 @@
           "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
           "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6043,
+          "wordCount": 6044,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
@@ -414,7 +429,7 @@
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
           "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5905,
+          "wordCount": 5904,
           "title": "Designing Better Error Messages UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
@@ -459,7 +474,7 @@
           "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 5998,
+          "wordCount": 6000,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
@@ -475,6 +490,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
+          "author": "Dillion Megida",
+          "description": "When you want to style an element with CSS, you first have to \"select\" it. In this article, I'll show you seven (7) ways in which you can do that. Here's the syntax for styling elements in CSS: selector {   /* styles here */ } You have the",
+          "link": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
+          "publishedOn": "2022-09-19T22:01:13.000Z",
+          "wordCount": 2121,
+          "title": "CSS Selector Types – How to Select Elements to Style in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-selector-types.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/",
+          "author": "Otavio Ehrenberger",
+          "description": "In a nutshell, there are two coexisting branches of Java: the proprietary, closed-source Oracle Java and the community-maintained open-source OpenJDK [https://github.com/openjdk/jdk]. OpenJDK is licensed under GPL-2.0 [https://github.com/openjdk/jdk/blob/master/LICENSE], and it consists of a Java Virtual Machine and a java-bytecode compiler. Since this is the easier and cheaper way, it's the one",
+          "link": "https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/",
+          "publishedOn": "2022-09-19T20:52:44.000Z",
+          "wordCount": 1565,
+          "title": "How to Install OpenJDK (Free Java) – Multi OS Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-simon-berger-1323550.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
+          "author": "Sriram Thiagarajan",
+          "description": "Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using",
+          "link": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
+          "publishedOn": "2022-09-19T17:20:38.000Z",
+          "wordCount": 3497,
+          "title": "How to Do Test-Driven Development with Svelte and Vitest – A Project-Based Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/SvelteVitestTDDPoster.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/",
           "author": "Joel Olawanle",
@@ -544,36 +589,6 @@
           "wordCount": 1952,
           "title": "How to Work with Numbers and Dates in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Frame-388--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/",
-          "author": "Beau Carnes",
-          "description": "Jenkins is an open source automation server which makes it easier to build, test, and deploy software. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you about Jenkins by showing you how to build a CI/CD pipeline for a web application.  Gwendolyn Faraday",
-          "link": "https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/",
-          "publishedOn": "2022-09-16T14:10:10.000Z",
-          "wordCount": 896,
-          "title": "Learn Jenkins by Building a CI/CD Pipeline",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/jenkins.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When handling logic with JavaScript, you might need to compare two arrays to see if they are equal or not. Really, this shouldn't be difficult, as you'd think we could easily use either the loose equality (double equals - ==) or the strict equality (triple equals -  ===). But",
-          "link": "https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/",
-          "publishedOn": "2022-09-16T00:15:56.000Z",
-          "wordCount": 1785,
-          "title": "Comparing Arrays in JavaScript – How to Compare 2 Arrays in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
-          "author": "Dionysia Lemonaki",
-          "description": "Data Science is one of the most in-demand and desirable careers of the 21st century. Even though the term was introduced in the early 1960s, its meaning has changed considerably over time. And despite its rise in popularity in recent years, many people outside the field still find the term",
-          "link": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
-          "publishedOn": "2022-09-15T20:11:02.000Z",
-          "wordCount": 3184,
-          "title": "What is Data Science? What a Data Scientist Actually Does",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-alex-knight-2599244.jpg"
         }
       ]
     }

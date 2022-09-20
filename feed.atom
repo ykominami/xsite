@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T00:12:45.597Z</id>
+    <id>urn:2022-09-20T00:17:00.378Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-19T00:12:45.597Z</updated>
+    <updated>2022-09-20T00:17:00.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Selector Types – How to Select Elements to Style in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/"/>
+        <updated>2022-09-19T22:01:13.000Z</updated>
+        <summary type="html"><![CDATA[When you want to style an element with CSS, you first have to "select" it. In this article, I'll show you seven (7) ways in which you can do that. Here's the syntax for styling elements in CSS: selector {   /* styles here */ } You have the]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install OpenJDK (Free Java) – Multi OS Guide]]></title>
+        <id>https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/</id>
+        <link href="https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/"/>
+        <updated>2022-09-19T20:52:44.000Z</updated>
+        <summary type="html"><![CDATA[In a nutshell, there are two coexisting branches of Java: the proprietary, closed-source Oracle Java and the community-maintained open-source OpenJDK [https://github.com/openjdk/jdk]. OpenJDK is licensed under GPL-2.0 [https://github.com/openjdk/jdk/blob/master/LICENSE], and it consists of a Java Virtual Machine and a java-bytecode compiler. Since this is the easier and cheaper way, it's the one]]></summary>
+        <author>
+            <name>Otavio Ehrenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Retro Draggable Web Component With Lit]]></title>
+        <id>https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/</id>
+        <link href="https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/"/>
+        <updated>2022-09-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrico Karoulla)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Do Test-Driven Development with Svelte and Vitest – A Project-Based Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/"/>
+        <updated>2022-09-19T17:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using]]></summary>
+        <author>
+            <name>Sriram Thiagarajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Real-Time Clock With a Conic Gradient Face]]></title>
+        <id>https://css-tricks.com/?p=373184</id>
+        <link href="https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/"/>
+        <updated>2022-09-19T12:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …
+Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Brecht De Ruyte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Alt Text? Image Alt Text HTML Example]]></title>
         <id>https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/</id>
@@ -76,16 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Jenkins by Building a CI/CD Pipeline]]></title>
-        <id>https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/</id>
-        <link href="https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/"/>
-        <updated>2022-09-16T14:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Jenkins is an open source automation server which makes it easier to build, test, and deploy software. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you about Jenkins by showing you how to build a CI/CD pipeline for a web application.  Gwendolyn Faraday]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking Star Ratings For Readers]]></title>
         <id>https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/</id>
         <link href="https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/"/>
@@ -93,26 +134,6 @@
         <summary type="html"><![CDATA[How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Athanasiou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Arrays in JavaScript – How to Compare 2 Arrays in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/"/>
-        <updated>2022-09-16T00:15:56.000Z</updated>
-        <summary type="html"><![CDATA[When handling logic with JavaScript, you might need to compare two arrays to see if they are equal or not. Really, this shouldn't be difficult, as you'd think we could easily use either the loose equality (double equals - ==) or the strict equality (triple equals -  ===). But]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Data Science? What a Data Scientist Actually Does]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/"/>
-        <updated>2022-09-15T20:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Data Science is one of the most in-demand and desirable careers of the 21st century. Even though the term was introduced in the early 1960s, its meaning has changed considerably over time. And despite its rise in popularity in recent years, many people outside the field still find the term]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -432,17 +453,6 @@ Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Grid Named Areas to Visualize (and Reference) Your Layout]]></title>
-        <id>https://css-tricks.com/?p=372634</id>
-        <link href="https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/"/>
-        <updated>2022-08-26T13:44:49.000Z</updated>
-        <summary type="html"><![CDATA[Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …
-Using Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi Selvam</name>
         </author>
     </entry>
     <entry>
