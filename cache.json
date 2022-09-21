@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373167",
+          "author": "Preethi",
+          "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/",
+          "publishedOn": "2022-09-20T13:19:24.000Z",
+          "wordCount": 1515,
+          "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
+        },
+        {
           "id": "https://css-tricks.com/?p=373184",
           "author": "Brecht De Ruyte",
           "description": "Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …\nMaking a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/",
           "publishedOn": "2022-09-19T12:58:09.000Z",
-          "wordCount": 1949,
+          "wordCount": 2050,
           "title": "Making a Real-Time Clock With a Conic Gradient Face",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373184"
         },
@@ -37,7 +47,7 @@
           "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
           "publishedOn": "2022-09-14T13:03:04.000Z",
-          "wordCount": 3445,
+          "wordCount": 3499,
           "title": "When is it OK to Disable Text Selection?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
         },
@@ -150,16 +160,6 @@
           "wordCount": 839,
           "title": "iShadeed’s Container Queries Lab",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373087"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372839",
-          "author": "Geoff Graham",
-          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(var(--scale));\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
-          "publishedOn": "2022-08-30T13:17:25.000Z",
-          "wordCount": 1867,
-          "title": "Interpolating Numeric CSS Variables",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
         }
       ]
     },
@@ -169,12 +169,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
+          "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
+          "publishedOn": "2022-09-20T13:00:00.000Z",
+          "wordCount": 9462,
+          "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/new-gatsby-2022/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Gatsby has evolved quite dramatically in the last two years. In this article, Paul Scanlon explains what Gatsby can do today, and how he used some of the new features when upgrading his personal website from Gatsby 2 to Gatsby 4.",
+          "link": "https://smashingmagazine.com/2022/09/new-gatsby-2022/",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 4971,
+          "title": "What’s New In Gatsby 2022?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34359e66-8433-419e-9ea1-ab4c3becac46/new-gatsby-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34359e66-8433-419e-9ea1-ab4c3becac46/new-gatsby-2022.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
           "author": "hello@smashingmagazine.com (Andrico Karoulla)",
           "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
           "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
           "publishedOn": "2022-09-19T18:00:00.000Z",
-          "wordCount": 7013,
+          "wordCount": 7014,
           "title": "Building A Retro Draggable Web Component With Lit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
@@ -189,7 +219,7 @@
           "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
           "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4898,
           "title": "Rethinking Star Ratings For Readers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
@@ -205,13 +235,13 @@
           "link": "https://smashingmagazine.com/2022/09/accessibility-times-headless/",
           "publishedOn": "2022-09-15T10:00:00.000Z",
           "wordCount": 4875,
-          "title": "Accessibility In Times Of Headless",
+          "title": "Headless In Times Of Accessibility",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32d09a45-70c2-413d-9028-58773032baab/accessibility-times-headless.jpg",
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a37e3c90-45e7-4553-b425-346edfcd48af/headless-in-times-of-accessibility.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32d09a45-70c2-413d-9028-58773032baab/accessibility-times-headless.jpg"
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a37e3c90-45e7-4553-b425-346edfcd48af/headless-in-times-of-accessibility.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
@@ -219,7 +249,7 @@
           "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
           "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 5405,
+          "wordCount": 5409,
           "title": "JavaScript APIs You Don’t Know About",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
@@ -264,7 +294,7 @@
           "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
           "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
           "publishedOn": "2022-09-09T08:30:00.000Z",
-          "wordCount": 5245,
+          "wordCount": 5242,
           "title": "One Formula To Rule Them All: The ROI Of A Design System",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
@@ -294,7 +324,7 @@
           "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
           "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
           "publishedOn": "2022-09-06T19:00:00.000Z",
-          "wordCount": 7452,
+          "wordCount": 7459,
           "title": "The Realities And Myths Of Contrast And Color",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
@@ -309,7 +339,7 @@
           "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
           "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 10057,
+          "wordCount": 10058,
           "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
@@ -339,7 +369,7 @@
           "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
           "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
           "publishedOn": "2022-09-02T10:30:00.000Z",
-          "wordCount": 3973,
+          "wordCount": 3978,
           "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
@@ -354,7 +384,7 @@
           "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
           "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4234,
+          "wordCount": 4135,
           "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
@@ -384,7 +414,7 @@
           "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
           "publishedOn": "2022-08-31T08:45:00.000Z",
-          "wordCount": 4578,
+          "wordCount": 4580,
           "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
@@ -414,7 +444,7 @@
           "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
           "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6044,
+          "wordCount": 6045,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
@@ -429,7 +459,7 @@
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
           "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5904,
+          "wordCount": 5905,
           "title": "Designing Better Error Messages UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
@@ -467,21 +497,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
-          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
-          "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 6000,
-          "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg"
         }
       ]
     },
@@ -490,6 +505,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
+          "author": "Joy O. Oluwafemi",
+          "description": "Props are an important concept to understand in React. You use props to pass data and values from one component to another to get dynamic and unique outputs.  Websites built with React like Facebook, Twitter, and Netflix use the same design patterns across many sections that just have different",
+          "link": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
+          "publishedOn": "2022-09-20T20:16:27.000Z",
+          "wordCount": 2096,
+          "title": "How to Use Props in React.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Blue-and-Black-Graphic-Dynamic-Sports-Football-Team-Flyer-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the datetime module in Python to retrieve data about date and time.  In this article, you'll learn how to use the datetime object from the datetime  module to get the current date and time properties. You'll also learn how to get the date and time",
+          "link": "https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/",
+          "publishedOn": "2022-09-20T20:12:09.000Z",
+          "wordCount": 1232,
+          "title": "Python Datetime.now() – How to Get Today's Date and Time",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/kevin-ku-aiyBwbrWWlo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/",
+          "author": "Beau Carnes",
+          "description": "It may not be possible to code a Minecraft clone in 30 seconds [https://www.youtube.com/watch?v=MAlSjtxy5ak], but you can definitely create one in under two hours. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fully-functional Minecraft clone using React, JavaScript, and Three.js.",
+          "link": "https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/",
+          "publishedOn": "2022-09-20T19:36:37.000Z",
+          "wordCount": 834,
+          "title": "Code a Minecraft Clone Using React and Three.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/minecraftclone2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/configure-metadata-in-single-page-applications/",
+          "author": "Scott Gary",
+          "description": "Why Metadata Matters Metadata is an integral part of any modern web app, because it's inherently tethered to search engine optimization (SEO).  Search engines and their respective results page (SERPS) rely on metadata to properly index and display relative information for each site. Also, meta tags are relied upon",
+          "link": "https://www.freecodecamp.org/news/configure-metadata-in-single-page-applications/",
+          "publishedOn": "2022-09-20T17:20:15.000Z",
+          "wordCount": 2238,
+          "title": "How to Configure Metadata for a Single-Page Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/meta-data-for-spa-seo.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/",
+          "author": "Avdhoot Fulsundar",
+          "description": "If you are a software developer, then you know how often you search Google to help you solve specific problems when you're coding. Every developer looks at online tutorials to solve the problems they have. To help you solve your problem, these tutorials should have a few things that make",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/",
+          "publishedOn": "2022-09-20T16:59:19.000Z",
+          "wordCount": 1456,
+          "title": "How to write a Good Technical Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Gradient-Modern-Digital-Marketing-Facebook-Cover--14-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/",
+          "author": "Nishant Kumar",
+          "description": "If you're a software developer, chances are you'll be learning constantly. There is a famous quote that says, > “Forget about the kids, fathers are still learning”. This couldn't be more true in the case of coding. You constantly need to learn, develop, and upgrade your skills. And what is",
+          "link": "https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/",
+          "publishedOn": "2022-09-20T16:14:20.000Z",
+          "wordCount": 2012,
+          "title": "Why Developers Should Have a YouTube Channel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Why-developers-should-have-a--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-passport-authentication/",
+          "author": "Reed Barger",
+          "description": "Authentication is a major part of any serious React application. You need to have a good and reliable way to authenticate your users in your developer tool belt. There are dozens of authentication solutions to choose from today, many of which come with a price tag. Which one should you",
+          "link": "https://www.freecodecamp.org/news/react-passport-authentication/",
+          "publishedOn": "2022-09-19T22:29:44.000Z",
+          "wordCount": 2453,
+          "title": "How to Authenticate Your React App with Passport.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/passport-react.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
           "author": "Dillion Megida",
@@ -516,79 +601,9 @@
           "description": "Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using",
           "link": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
           "publishedOn": "2022-09-19T17:20:38.000Z",
-          "wordCount": 3497,
+          "wordCount": 3504,
           "title": "How to Do Test-Driven Development with Svelte and Vitest – A Project-Based Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/SvelteVitestTDDPoster.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/",
-          "author": "Joel Olawanle",
-          "description": "Images play a significant role on our web pages. They help explain concepts better, make our web pages visually attractive, and lots more. In HTML, you use the  tag to embed an image into your web page. This  tag has two required attributes: src to specify the path",
-          "link": "https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/",
-          "publishedOn": "2022-09-16T20:39:17.000Z",
-          "wordCount": 2031,
-          "title": "What is Alt Text? Image Alt Text HTML Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-stripe-payments/",
-          "author": "Reed Barger",
-          "description": "Payments are an essential part of any online business. But the process of setting up those payments can be incredibly complex at times.  To accept payments, developers were traditionally required to set up code both on the client and server. This was in addition to learning complex third-party APIs",
-          "link": "https://www.freecodecamp.org/news/react-stripe-payments/",
-          "publishedOn": "2022-09-16T18:55:26.000Z",
-          "wordCount": 1907,
-          "title": "How to Accept Payments with React and Stripe",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/mugshotbot.com_customize_color-blue-image-00471e9c-mode-light-pattern-bank_note-theme-two_up-url-https___freecodecamp.org.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dictionary-comprehension-in-python-dict-comprehensions-explained/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use Dictionaries [/news/python-add-to-dictionary-adding-an-item-to-a-dict/]in Python to store data in key and value pairs.  And you can use dictionary comprehension to create a new dictionary from an already existing one.  When creating a new dictionary using dictionary comprehension, you can perform various operations using expressions to determine the",
-          "link": "https://www.freecodecamp.org/news/dictionary-comprehension-in-python-dict-comprehensions-explained/",
-          "publishedOn": "2022-09-16T18:47:35.000Z",
-          "wordCount": 1712,
-          "title": "Dictionary Comprehension in Python – Dict Comprehensions Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-python-to-scrape-app-store-reviews/",
-          "author": "Shittu Olumide",
-          "description": "Data scraping, commonly referred to as web scraping, is a technique for getting data and content from the internet.  You usually keep this information in a local file so that you can change and inspect it as needed.  Web scraping is basically just copying and pasting content from",
-          "link": "https://www.freecodecamp.org/news/how-to-use-python-to-scrape-app-store-reviews/",
-          "publishedOn": "2022-09-16T18:04:19.000Z",
-          "wordCount": 1468,
-          "title": "How to Use Python to Scrape App Store Reviews",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Shittu-Olumide-How-to-use-Python-to-scrape-App-Store-reviews-Freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/edge-cloud-microservices-with-wasmedge-and-rust/",
-          "author": "Michael Yuan",
-          "description": "The edge cloud allows developers to deploy microservices (that is, fine-grained web services) close to their users. This gives them a better user experience (and very fast response times), security, and high availability.  It also leverages local or even private data centers, CDN networks, and telecomm data centers (for",
-          "link": "https://www.freecodecamp.org/news/edge-cloud-microservices-with-wasmedge-and-rust/",
-          "publishedOn": "2022-09-16T17:43:57.000Z",
-          "wordCount": 2435,
-          "title": "Edge Cloud Microservices – How to Build High Performance & Secure Apps with WasmEdge and Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/richard-r-schunemann-DD3VNthK_Kw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/white-hat-black-hat-red-hat-hackers/",
-          "author": "Daniel Iwugo",
-          "description": "Welcome to the movies, everyone! 🍿 Have you ever heard the term white hat or black hat hacker, and wondered what it means? Well, in this article, you will learn how hackers are classified by comparing them to a Marvel or DC hero that more or less represents them and",
-          "link": "https://www.freecodecamp.org/news/white-hat-black-hat-red-hat-hackers/",
-          "publishedOn": "2022-09-16T17:07:40.000Z",
-          "wordCount": 1846,
-          "title": "What are White Hat, Black Hat, and Red Hat Hackers? Different Types of Hacking Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/hacking-hats.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/numbers-and-dates-in-javascript/",
-          "author": "Kedar Makode",
-          "description": "Numbers, dates, and timers are important parts of JavaScript. And you'll need to know how to work with them when writing your code. We often ignore these topics as many articles don't discuss them. So here, we'll dive deep into the techniques you can use and learn some interesting things",
-          "link": "https://www.freecodecamp.org/news/numbers-and-dates-in-javascript/",
-          "publishedOn": "2022-09-16T15:42:30.000Z",
-          "wordCount": 1952,
-          "title": "How to Work with Numbers and Dates in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Frame-388--1-.png"
         }
       ]
     }
