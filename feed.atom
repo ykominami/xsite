@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T00:14:35.001Z</id>
+    <id>urn:2022-09-22T00:13:49.463Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T00:14:35.001Z</updated>
+    <updated>2022-09-22T00:13:49.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
+        <id>https://css-tricks.com/?p=373639</id>
+        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
+        <updated>2022-09-21T21:53:44.000Z</updated>
+        <summary type="html"><![CDATA[The latest spec:
+A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
+Louis Lazaris:
+As the above quote from W3C indicates, it seems 
+…
+CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Remove Last Commit – How to Undo a Commit in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/"/>
+        <updated>2022-09-21T17:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generic PNP Monitor – How to Fix Windows 10 PC Device Driver]]></title>
+        <id>https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/</id>
+        <link href="https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/"/>
+        <updated>2022-09-21T16:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Software Testing? A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/software-testing-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/software-testing-beginners-guide/"/>
+        <updated>2022-09-21T16:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Building a NEAR Curriculum]]></title>
+        <id>https://www.freecodecamp.org/news/near-curriculum/</id>
+        <link href="https://www.freecodecamp.org/news/near-curriculum/"/>
+        <updated>2022-09-21T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Building a Solana Curriculum]]></title>
+        <id>https://www.freecodecamp.org/news/solana-curriculum/</id>
+        <link href="https://www.freecodecamp.org/news/solana-curriculum/"/>
+        <updated>2022-09-21T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it]]></title>
+        <id>https://www.freecodecamp.org/news/web3-curriculum-open-beta/</id>
+        <link href="https://www.freecodecamp.org/news/web3-curriculum-open-beta/"/>
+        <updated>2022-09-21T14:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Inline Validation UX]]></title>
+        <id>https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/</id>
+        <link href="https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/"/>
+        <updated>2022-09-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Props in React.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/</id>
@@ -46,26 +131,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to write a Good Technical Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/"/>
-        <updated>2022-09-20T16:59:19.000Z</updated>
-        <summary type="html"><![CDATA[If you are a software developer, then you know how often you search Google to help you solve specific problems when you're coding. Every developer looks at online tutorials to solve the problems they have. To help you solve your problem, these tutorials should have a few things that make]]></summary>
-        <author>
-            <name>Avdhoot Fulsundar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Developers Should Have a YouTube Channel]]></title>
-        <id>https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/</id>
-        <link href="https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/"/>
-        <updated>2022-09-20T16:14:20.000Z</updated>
-        <summary type="html"><![CDATA[If you're a software developer, chances are you'll be learning constantly. There is a famous quote that says, > “Forget about the kids, fathers are still learning”. This couldn't be more true in the case of coding. You constantly need to learn, develop, and upgrade your skills. And what is]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Checkerboard Background… But With Rounded Corners and Hover Styles]]></title>
         <id>https://css-tricks.com/?p=373167</id>
         <link href="https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/"/>
@@ -98,36 +163,6 @@ CSS Checkerboard Background… But With Rounded Corners and Hover Styles origina
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Authenticate Your React App with Passport.js]]></title>
-        <id>https://www.freecodecamp.org/news/react-passport-authentication/</id>
-        <link href="https://www.freecodecamp.org/news/react-passport-authentication/"/>
-        <updated>2022-09-19T22:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a major part of any serious React application. You need to have a good and reliable way to authenticate your users in your developer tool belt. There are dozens of authentication solutions to choose from today, many of which come with a price tag. Which one should you]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Selector Types – How to Select Elements to Style in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/"/>
-        <updated>2022-09-19T22:01:13.000Z</updated>
-        <summary type="html"><![CDATA[When you want to style an element with CSS, you first have to "select" it. In this article, I'll show you seven (7) ways in which you can do that. Here's the syntax for styling elements in CSS: selector {   /* styles here */ } You have the]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install OpenJDK (Free Java) – Multi OS Guide]]></title>
-        <id>https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/</id>
-        <link href="https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/"/>
-        <updated>2022-09-19T20:52:44.000Z</updated>
-        <summary type="html"><![CDATA[In a nutshell, there are two coexisting branches of Java: the proprietary, closed-source Oracle Java and the community-maintained open-source OpenJDK [https://github.com/openjdk/jdk]. OpenJDK is licensed under GPL-2.0 [https://github.com/openjdk/jdk/blob/master/LICENSE], and it consists of a Java Virtual Machine and a java-bytecode compiler. Since this is the easier and cheaper way, it's the one]]></summary>
-        <author>
-            <name>Otavio Ehrenberger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A Retro Draggable Web Component With Lit]]></title>
         <id>https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/</id>
         <link href="https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/"/>
@@ -135,16 +170,6 @@ CSS Checkerboard Background… But With Rounded Corners and Hover Styles origina
         <summary type="html"><![CDATA[In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrico Karoulla)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Do Test-Driven Development with Svelte and Vitest – A Project-Based Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/"/>
-        <updated>2022-09-19T17:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using]]></summary>
-        <author>
-            <name>Sriram Thiagarajan</name>
         </author>
     </entry>
     <entry>
@@ -407,18 +432,6 @@ A Brief Introduction to JAWS, NVDA, and VoiceOver originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iShadeed’s Container Queries Lab]]></title>
-        <id>https://css-tricks.com/?p=373087</id>
-        <link href="https://css-tricks.com/ishadeeds-container-queries-lab/"/>
-        <updated>2022-09-01T14:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.
-And, if you missed it, his latest post on container queries does a wonderful job covering how they work since …
-iShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Databases For Front-End Developers: The Concepts Under The Hood (Part 2)]]></title>
         <id>https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/</id>
         <link href="https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/"/>
@@ -486,16 +499,6 @@ iShadeed’s Container Queries Lab originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Doug Sillars)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?]]></title>
-        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/</id>
-        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/"/>
-        <updated>2022-08-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373639",
+          "author": "Geoff Graham",
+          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
+          "publishedOn": "2022-09-21T21:53:44.000Z",
+          "wordCount": 922,
+          "title": "CSS Rules vs. CSS Rulesets",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
+        },
+        {
           "id": "https://css-tricks.com/?p=373167",
           "author": "Preethi",
           "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …\nMaking a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/",
           "publishedOn": "2022-09-19T12:58:09.000Z",
-          "wordCount": 2050,
+          "wordCount": 2144,
           "title": "Making a Real-Time Clock With a Conic Gradient Face",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373184"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3894,
           "title": "A Brief Introduction to JAWS, NVDA, and VoiceOver",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372855"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373087",
-          "author": "Geoff Graham",
-          "description": "Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.\nAnd, if you missed it, his latest post on container queries does a wonderful job covering how they work since …\niShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/ishadeeds-container-queries-lab/",
-          "publishedOn": "2022-09-01T14:29:27.000Z",
-          "wordCount": 839,
-          "title": "iShadeed’s Container Queries Lab",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373087"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
+          "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "publishedOn": "2022-09-21T11:30:00.000Z",
+          "wordCount": 6436,
+          "title": "Designing Better Inline Validation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "publishedOn": "2022-09-20T13:00:00.000Z",
-          "wordCount": 9462,
+          "wordCount": 9460,
           "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
@@ -219,7 +234,7 @@
           "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
           "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
           "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 4898,
+          "wordCount": 4897,
           "title": "Rethinking Star Ratings For Readers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
           "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
           "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 5409,
+          "wordCount": 5400,
           "title": "JavaScript APIs You Don’t Know About",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
@@ -294,7 +309,7 @@
           "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
           "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
           "publishedOn": "2022-09-09T08:30:00.000Z",
-          "wordCount": 5242,
+          "wordCount": 5347,
           "title": "One Formula To Rule Them All: The ROI Of A Design System",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
@@ -309,7 +324,7 @@
           "description": "UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.",
           "link": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
           "publishedOn": "2022-09-08T13:00:00.000Z",
-          "wordCount": 3322,
+          "wordCount": 3326,
           "title": "UX Checklists For Interface Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg",
@@ -324,7 +339,7 @@
           "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
           "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
           "publishedOn": "2022-09-06T19:00:00.000Z",
-          "wordCount": 7459,
+          "wordCount": 7450,
           "title": "The Realities And Myths Of Contrast And Color",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
@@ -339,7 +354,7 @@
           "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
           "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 10058,
+          "wordCount": 10059,
           "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
@@ -369,7 +384,7 @@
           "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
           "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
           "publishedOn": "2022-09-02T10:30:00.000Z",
-          "wordCount": 3978,
+          "wordCount": 3979,
           "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
@@ -384,7 +399,7 @@
           "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
           "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4135,
+          "wordCount": 4137,
           "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
@@ -414,7 +429,7 @@
           "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
           "publishedOn": "2022-08-31T08:45:00.000Z",
-          "wordCount": 4580,
+          "wordCount": 4577,
           "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
@@ -444,7 +459,7 @@
           "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
           "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6045,
+          "wordCount": 6042,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
@@ -459,7 +474,7 @@
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
           "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 5905,
+          "wordCount": 5902,
           "title": "Designing Better Error Messages UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
@@ -482,21 +497,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
-          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "publishedOn": "2022-08-23T12:00:00.000Z",
-          "wordCount": 10151,
-          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
         }
       ]
     },
@@ -506,6 +506,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is",
+          "link": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
+          "publishedOn": "2022-09-21T17:42:10.000Z",
+          "wordCount": 2004,
+          "title": "Git Remove Last Commit – How to Undo a Commit in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-andrew-neel-2312369.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
+          "author": "Kolade Chris",
+          "description": "Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to",
+          "link": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
+          "publishedOn": "2022-09-21T16:18:08.000Z",
+          "wordCount": 1295,
+          "title": "Generic PNP Monitor – How to Fix Windows 10 PC Device Driver",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/monitor-1307227_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
+          "author": "Sophia Iroegbu",
+          "description": "Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.",
+          "link": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
+          "publishedOn": "2022-09-21T16:03:49.000Z",
+          "wordCount": 2614,
+          "title": "What is Software Testing? A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Tech-Blog-Cover--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/near-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of",
+          "link": "https://www.freecodecamp.org/news/near-curriculum/",
+          "publishedOn": "2022-09-21T15:10:19.000Z",
+          "wordCount": 1186,
+          "title": "freeCodeCamp is Building a NEAR Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/joshua-newton-IRXYNAMlUtw-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this",
+          "link": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "publishedOn": "2022-09-21T15:00:18.000Z",
+          "wordCount": 1184,
+          "title": "freeCodeCamp is Building a Solana Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation",
+          "link": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
+          "publishedOn": "2022-09-21T14:45:56.000Z",
+          "wordCount": 1454,
+          "title": "freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/thomas-habr-wprOCzLIEYI-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
           "author": "Joy O. Oluwafemi",
           "description": "Props are an important concept to understand in React. You use props to pass data and values from one component to another to get dynamic and unique outputs.  Websites built with React like Facebook, Twitter, and Netflix use the same design patterns across many sections that just have different",
@@ -513,7 +573,7 @@
           "publishedOn": "2022-09-20T20:16:27.000Z",
           "wordCount": 2096,
           "title": "How to Use Props in React.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Blue-and-Black-Graphic-Dynamic-Sports-Football-Team-Flyer-2.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/How-to-use-props-in-reactjs.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/",
@@ -544,66 +604,6 @@
           "wordCount": 2238,
           "title": "How to Configure Metadata for a Single-Page Application",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/meta-data-for-spa-seo.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/",
-          "author": "Avdhoot Fulsundar",
-          "description": "If you are a software developer, then you know how often you search Google to help you solve specific problems when you're coding. Every developer looks at online tutorials to solve the problems they have. To help you solve your problem, these tutorials should have a few things that make",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/",
-          "publishedOn": "2022-09-20T16:59:19.000Z",
-          "wordCount": 1456,
-          "title": "How to write a Good Technical Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Gradient-Modern-Digital-Marketing-Facebook-Cover--14-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/",
-          "author": "Nishant Kumar",
-          "description": "If you're a software developer, chances are you'll be learning constantly. There is a famous quote that says, > “Forget about the kids, fathers are still learning”. This couldn't be more true in the case of coding. You constantly need to learn, develop, and upgrade your skills. And what is",
-          "link": "https://www.freecodecamp.org/news/why-developers-should-have-a-youtube-channel/",
-          "publishedOn": "2022-09-20T16:14:20.000Z",
-          "wordCount": 2012,
-          "title": "Why Developers Should Have a YouTube Channel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Why-developers-should-have-a--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-passport-authentication/",
-          "author": "Reed Barger",
-          "description": "Authentication is a major part of any serious React application. You need to have a good and reliable way to authenticate your users in your developer tool belt. There are dozens of authentication solutions to choose from today, many of which come with a price tag. Which one should you",
-          "link": "https://www.freecodecamp.org/news/react-passport-authentication/",
-          "publishedOn": "2022-09-19T22:29:44.000Z",
-          "wordCount": 2453,
-          "title": "How to Authenticate Your React App with Passport.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/passport-react.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
-          "author": "Dillion Megida",
-          "description": "When you want to style an element with CSS, you first have to \"select\" it. In this article, I'll show you seven (7) ways in which you can do that. Here's the syntax for styling elements in CSS: selector {   /* styles here */ } You have the",
-          "link": "https://www.freecodecamp.org/news/how-to-select-elements-to-style-in-css/",
-          "publishedOn": "2022-09-19T22:01:13.000Z",
-          "wordCount": 2121,
-          "title": "CSS Selector Types – How to Select Elements to Style in CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-selector-types.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/",
-          "author": "Otavio Ehrenberger",
-          "description": "In a nutshell, there are two coexisting branches of Java: the proprietary, closed-source Oracle Java and the community-maintained open-source OpenJDK [https://github.com/openjdk/jdk]. OpenJDK is licensed under GPL-2.0 [https://github.com/openjdk/jdk/blob/master/LICENSE], and it consists of a Java Virtual Machine and a java-bytecode compiler. Since this is the easier and cheaper way, it's the one",
-          "link": "https://www.freecodecamp.org/news/install-openjdk-free-java-multi-os-guide/",
-          "publishedOn": "2022-09-19T20:52:44.000Z",
-          "wordCount": 1565,
-          "title": "How to Install OpenJDK (Free Java) – Multi OS Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-simon-berger-1323550.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
-          "author": "Sriram Thiagarajan",
-          "description": "Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using",
-          "link": "https://www.freecodecamp.org/news/how-to-do-test-driven-development-with-svelte-and-vitest/",
-          "publishedOn": "2022-09-19T17:20:38.000Z",
-          "wordCount": 3504,
-          "title": "How to Do Test-Driven Development with Svelte and Vitest – A Project-Based Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/SvelteVitestTDDPoster.png"
         }
       ]
     }
