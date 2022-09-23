@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T00:13:49.463Z</id>
+    <id>urn:2022-09-23T00:14:30.836Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T00:13:49.463Z</updated>
+    <updated>2022-09-23T00:14:30.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Web is Good Now]]></title>
+        <id>https://css-tricks.com/?p=373652</id>
+        <link href="https://css-tricks.com/the-web-is-good-now/"/>
+        <updated>2022-09-22T22:07:22.000Z</updated>
+        <summary type="html"><![CDATA[The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …
+The Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linked Lists in Python – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/"/>
+        <updated>2022-09-22T16:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data]]></summary>
+        <author>
+            <name>Fakorede Damilola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Align Text in HTML – Text-align, Center, and Justified Example]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-align-text-in-html/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-align-text-in-html/"/>
+        <updated>2022-09-22T16:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Hacking? The Hacker Methodology Explained]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-hacking/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-hacking/"/>
+        <updated>2022-09-22T15:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made an Icon System Out of CSS Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=373111</id>
+        <link href="https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/"/>
+        <updated>2022-09-22T15:17:21.000Z</updated>
+        <summary type="html"><![CDATA[SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …
+How I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Louis Hoebregts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Algorithms with Python]]></title>
+        <id>https://www.freecodecamp.org/news/intro-to-algorithms-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-algorithms-with-python/"/>
+        <updated>2022-09-22T14:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
+        <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
+        <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
+        <updated>2022-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (William Juan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Combinators to Select and Style Elements]]></title>
+        <id>https://www.freecodecamp.org/news/css-combinators-to-select-elements/</id>
+        <link href="https://www.freecodecamp.org/news/css-combinators-to-select-elements/"/>
+        <updated>2022-09-21T23:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
         <id>https://css-tricks.com/?p=373639</id>
@@ -71,16 +153,6 @@ CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it]]></title>
-        <id>https://www.freecodecamp.org/news/web3-curriculum-open-beta/</id>
-        <link href="https://www.freecodecamp.org/news/web3-curriculum-open-beta/"/>
-        <updated>2022-09-21T14:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation]]></summary>
-        <author>
-            <name>Tom Mondloch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing Better Inline Validation UX]]></title>
         <id>https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/</id>
         <link href="https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/"/>
@@ -88,46 +160,6 @@ CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Props in React.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/"/>
-        <updated>2022-09-20T20:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Props are an important concept to understand in React. You use props to pass data and values from one component to another to get dynamic and unique outputs.  Websites built with React like Facebook, Twitter, and Netflix use the same design patterns across many sections that just have different]]></summary>
-        <author>
-            <name>Joy O. Oluwafemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Datetime.now() – How to Get Today's Date and Time]]></title>
-        <id>https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/</id>
-        <link href="https://www.freecodecamp.org/news/python-datetime-now-how-to-get-todays-date-and-time/"/>
-        <updated>2022-09-20T20:12:09.000Z</updated>
-        <summary type="html"><![CDATA[You can use the datetime module in Python to retrieve data about date and time.  In this article, you'll learn how to use the datetime object from the datetime  module to get the current date and time properties. You'll also learn how to get the date and time]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Minecraft Clone Using React and Three.js]]></title>
-        <id>https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/</id>
-        <link href="https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/"/>
-        <updated>2022-09-20T19:36:37.000Z</updated>
-        <summary type="html"><![CDATA[It may not be possible to code a Minecraft clone in 30 seconds [https://www.youtube.com/watch?v=MAlSjtxy5ak], but you can definitely create one in under two hours. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fully-functional Minecraft clone using React, JavaScript, and Three.js.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Configure Metadata for a Single-Page Application]]></title>
-        <id>https://www.freecodecamp.org/news/configure-metadata-in-single-page-applications/</id>
-        <link href="https://www.freecodecamp.org/news/configure-metadata-in-single-page-applications/"/>
-        <updated>2022-09-20T17:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Why Metadata Matters Metadata is an integral part of any modern web app, because it's inherently tethered to search engine optimization (SEO).  Search engines and their respective results page (SERPS) rely on metadata to properly index and display relative information for each site. Also, meta tags are relied upon]]></summary>
-        <author>
-            <name>Scott Gary</name>
         </author>
     </entry>
     <entry>
@@ -407,28 +439,6 @@ Flutter For Front-End Web Developers originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Herchel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, September 2022]]></title>
-        <id>https://css-tricks.com/?p=373126</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-sept2022/"/>
-        <updated>2022-09-01T20:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …
-Behind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to JAWS, NVDA, and VoiceOver]]></title>
-        <id>https://css-tricks.com/?p=372855</id>
-        <link href="https://css-tricks.com/comparing-jaws-nvda-and-voiceover/"/>
-        <updated>2022-09-01T17:47:16.000Z</updated>
-        <summary type="html"><![CDATA[A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …
-A Brief Introduction to JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
         </author>
     </entry>
     <entry>
