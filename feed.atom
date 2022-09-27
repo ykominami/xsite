@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T00:14:54.107Z</id>
+    <id>urn:2022-09-27T00:18:50.932Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-26T00:14:54.107Z</updated>
+    <updated>2022-09-27T00:18:50.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Concepts You Should Know Before Learning React]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/"/>
+        <updated>2022-09-26T19:22:52.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular JavaScript frameworks for building single page applications. Needless to say, as a JavaScript framework, it requires you to have a good knowledge of JavaScript concepts. In this article, we are going to take a look at some of those JavaScript concepts that you]]></summary>
+        <author>
+            <name>Ashutosh Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning for Everybody]]></title>
+        <id>https://www.freecodecamp.org/news/machine-learning-for-everybody/</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-for-everybody/"/>
+        <updated>2022-09-26T17:28:23.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning technology is now so common that you probably use it dozens of times a day without even realizing it. And since it has so many applications, the job prospects are great for anyone with a lot of machine learning experience. We just released a machine learning course on]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element]]></title>
+        <id>https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/</id>
+        <link href="https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/"/>
+        <updated>2022-09-26T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[Many websites, applications, and web pages use drop-down menus to help display a list of information. You can use them to create navigation menus, options for forms, and more. If you're looking at some of these menus or lists, you might imagine how complex creating them could be. And yes]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Wavy Shapes & Patterns in CSS]]></title>
+        <id>https://css-tricks.com/?p=373403</id>
+        <link href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/"/>
+        <updated>2022-09-26T13:13:30.000Z</updated>
+        <summary type="html"><![CDATA[The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …
+How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)]]></title>
+        <id>https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/</id>
+        <link href="https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/"/>
+        <updated>2022-09-26T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Background Image – How to Add Wallpaper Images to Your Website]]></title>
         <id>https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/</id>
@@ -130,16 +181,6 @@ How I Made an Icon System Out of CSS Custom Properties originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Combinators to Select and Style Elements]]></title>
-        <id>https://www.freecodecamp.org/news/css-combinators-to-select-elements/</id>
-        <link href="https://www.freecodecamp.org/news/css-combinators-to-select-elements/"/>
-        <updated>2022-09-21T23:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
         <id>https://css-tricks.com/?p=373639</id>
         <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
@@ -152,26 +193,6 @@ As the above quote from W3C indicates, it seems
 CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Remove Last Commit – How to Undo a Commit in Git]]></title>
-        <id>https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/"/>
-        <updated>2022-09-21T17:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generic PNP Monitor – How to Fix Windows 10 PC Device Driver]]></title>
-        <id>https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/</id>
-        <link href="https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/"/>
-        <updated>2022-09-21T16:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -407,18 +428,6 @@ Overlapping Bar Charts originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrew Somers)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking CSS Animation State and Playback Time]]></title>
-        <id>https://css-tricks.com/?p=372850</id>
-        <link href="https://css-tricks.com/hacking-css-animation-state-and-playback-time/"/>
-        <updated>2022-09-06T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.
-Inspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …
-Hacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>
