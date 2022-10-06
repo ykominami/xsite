@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T00:16:52.336Z</id>
+    <id>urn:2022-10-06T00:16:57.255Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T00:16:52.336Z</updated>
+    <updated>2022-10-06T00:16:57.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Helmet – With Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/react-helmet-examples/</id>
+        <link href="https://www.freecodecamp.org/news/react-helmet-examples/"/>
+        <updated>2022-10-05T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VLOOKUP in Excel – Formula and Example Function]]></title>
+        <id>https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/</id>
+        <link href="https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/"/>
+        <updated>2022-10-05T16:26:42.000Z</updated>
+        <summary type="html"><![CDATA[In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/"/>
+        <updated>2022-10-05T16:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big O Cheat Sheet – Time Complexity Chart]]></title>
+        <id>https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/</id>
+        <link href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/"/>
+        <updated>2022-10-05T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate your Machine Learning Models Using TensorFlow Model Analysis]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/"/>
+        <updated>2022-10-05T14:37:09.000Z</updated>
+        <summary type="html"><![CDATA[My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Web Components With Next (or Any SSR Framework)]]></title>
+        <id>https://css-tricks.com/?p=373787</id>
+        <link href="https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/"/>
+        <updated>2022-10-05T13:05:43.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post we looked at Shoelace, which is a component library with a full suite of UX components that are beautiful, accessible, and — perhaps unexpectedly — built with Web Components. This means they can be used …
+Using Web Components With Next (or Any SSR Framework) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Fluid Typography With clamp() Using Sass Functions]]></title>
+        <id>https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/</id>
+        <link href="https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"/>
+        <updated>2022-10-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Cross-Site Request Forgery (CSRF)? Laravel Web Security Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/laravel-web-security-csrf/</id>
@@ -67,26 +138,6 @@ State of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker vs Virtual Machine (VM) – Key Differences You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/docker-vs-vm-key-differences-you-should-know/</id>
-        <link href="https://www.freecodecamp.org/news/docker-vs-vm-key-differences-you-should-know/"/>
-        <updated>2022-10-04T16:48:57.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, you'll learn the differences between a virtual machine and a  Docker container. Both virtual machines and containers help replicate the development environment, and manage dependencies and configurations better. But there are certain differences you should be aware of that will help you choose a VM or]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python by Thinking in Types]]></title>
-        <id>https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/"/>
-        <updated>2022-10-04T15:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Did you check Instagram today or watch YouTube? Well, you used a Python-based application! Python is one of the most popular programming languages. We just published a new Python course on the freeCodeCamp.org YouTube channel. We have quite a few Python courses on the freeCodeCamp.org YouTube channel so you may]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing Shoelace, a Framework-Independent Component-Based UX Library]]></title>
         <id>https://css-tricks.com/?p=373703</id>
         <link href="https://css-tricks.com/shoelace-component-frameowrk-introduction/"/>
@@ -95,36 +146,6 @@ State of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is p
 Introducing Shoelace, a Framework-Independent Component-Based UX Library originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Modal with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/"/>
-        <updated>2022-10-03T23:49:06.000Z</updated>
-        <summary type="html"><![CDATA[It's probably happened to you before: you unintentionally attempted to perform an action on a webpage, but luckily got a pop-up window asking you to confirm your decision. This pop-up window is called a modal. It's a web page element that pops up and displays in front of other page]]></summary>
-        <author>
-            <name>Victor Eke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is rem in CSS? rem Unit Font Size, Padding, Height, and More]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/"/>
-        <updated>2022-10-03T22:57:54.000Z</updated>
-        <summary type="html"><![CDATA[The rem measurement unit is a relative unit that you can use for length values in CSS. I will explain what this unit is, and how it is different from other units in this article. In my previous article, I explained the two categories of units in CSS: Absolute and]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn Your Jupyter Notebook into a User-Friendly Web App]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/"/>
-        <updated>2022-10-03T22:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Being able to build predictive models is a superpower – but you can't make much of these models if users can't use them.  In this article, we will go through the process of building and deploying a machine learning web app using Flask and PythonAnywhere.  Flask is a]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
         </author>
     </entry>
     <entry>
@@ -427,17 +448,6 @@ When is it OK to Disable Text Selection? originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebKit Features in Safari 16.0]]></title>
-        <id>https://css-tricks.com/?p=373367</id>
-        <link href="https://css-tricks.com/webkit-features-in-safari-16-0/"/>
-        <updated>2022-09-13T16:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …
-WebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Sense Of WAI-ARIA: A Comprehensive Guide]]></title>
         <id>https://smashingmagazine.com/2022/09/wai-aria-guide/</id>
         <link href="https://smashingmagazine.com/2022/09/wai-aria-guide/"/>
@@ -485,26 +495,6 @@ WebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrew Somers)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/"/>
-        <updated>2022-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
