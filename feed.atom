@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T00:16:57.255Z</id>
+    <id>urn:2022-10-07T00:19:23.792Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-06T00:16:57.255Z</updated>
+    <updated>2022-10-07T00:19:23.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python For Beginners Courses Ranked from Best to Worst – freeCodeCamp Edition]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/"/>
+        <updated>2022-10-06T19:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Does freeCodeCamp really need yet another Python course?   Click for answer.  Between the curriculum and the YouTube channel, freeCodeCamp has quite a few Python programming courses. But which Python course should you take? In this article, I'll rank every singe freeCodeCamp beginner's Python course from best to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Stack Data Structure to Solve Coding Challenges]]></title>
+        <id>https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/</id>
+        <link href="https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/"/>
+        <updated>2022-10-06T18:48:30.000Z</updated>
+        <summary type="html"><![CDATA[The stack data structure is used frequently in programming, sometimes behind-the-scenes. And questions involving the stack data structure are very common in coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the stack data structure to solve the type of]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Implode – Convert Array to String with Join]]></title>
+        <id>https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/</id>
+        <link href="https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/"/>
+        <updated>2022-10-06T16:14:10.000Z</updated>
+        <summary type="html"><![CDATA[In PHP, the implode() function is a built-in function that takes an array and converts it to a string. implode() doesn’t modify the original array. It doesn’t matter whether the array is an indexed or associative array. Once you pass in the array to implode(), it joins all the values]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn PyTorch for Deep Learning – Free 26-Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/</id>
+        <link href="https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/"/>
+        <updated>2022-10-06T14:48:39.000Z</updated>
+        <summary type="html"><![CDATA[My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub]]></summary>
+        <author>
+            <name>Daniel Bourke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Safely Share Your Email Address on a Website]]></title>
+        <id>https://css-tricks.com/?p=373798</id>
+        <link href="https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/"/>
+        <updated>2022-10-06T12:54:53.000Z</updated>
+        <summary type="html"><![CDATA[Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …
+How to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lorenzo Bonannella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Helmet – With Example Use Case]]></title>
         <id>https://www.freecodecamp.org/news/react-helmet-examples/</id>
@@ -87,16 +138,6 @@ Using Web Components With Next (or Any SSR Framework) originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Print Function in Java]]></title>
-        <id>https://www.freecodecamp.org/news/how-does-print-work-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/how-does-print-work-in-java/"/>
-        <updated>2022-10-04T21:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Often, you'll need to print something to the console output when you're coding in Java. And the first thing that likely comes to your mind is the print function or print statement. But very few people know about the three different print functions/statements in Java. In this article, I am]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State of CSS 2022 Survey Now Open]]></title>
         <id>https://css-tricks.com/?p=374217</id>
         <link href="https://css-tricks.com/state-of-css-2022-survey-now-open/"/>
@@ -105,36 +146,6 @@ Using Web Components With Next (or Any SSR Framework) originally published on CS
 State of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Architect a Full-Stack Application from Start to Finish]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/"/>
-        <updated>2022-10-04T17:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Software architecture is a massive topic. That said, I think I can give you a simple method you can use to approach the architecture of a full-stack application.  In particular, I want to talk about the order in which you should think about and build out the pieces of]]></summary>
-        <author>
-            <name>Lane Wagner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Microsoft 365 Application in 10 minutes]]></title>
-        <id>https://www.freecodecamp.org/news/build-microsoft-365-application-in-10-minutes/</id>
-        <link href="https://www.freecodecamp.org/news/build-microsoft-365-application-in-10-minutes/"/>
-        <updated>2022-10-04T17:32:26.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer and work with an organization that uses Microsoft 365, or you build applications that you sell to customers, I've got great news for you: you can use your existing skills to build applications that integrate with Microsoft 365. What's Microsoft 365? Microsoft 365 [https://www.microsoft.com/microsoft-365] is]]></summary>
-        <author>
-            <name>Waldek Mastykarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Subquery – How to Sub Query in SELECT Statement]]></title>
-        <id>https://www.freecodecamp.org/news/sql-subquery-how-to-sub-query-in-select-statement/</id>
-        <link href="https://www.freecodecamp.org/news/sql-subquery-how-to-sub-query-in-select-statement/"/>
-        <updated>2022-10-04T17:08:48.000Z</updated>
-        <summary type="html"><![CDATA[A SQL subquery is a query inside a query. So, in SQL, a subquery is also called a nested query or an inner query. The outer query in which the inner query is inserted is the main query. SQL admins usually use subqueries inside the WHERE clause to narrow down]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -427,17 +438,6 @@ More Details on `details` originally published on CSS-Tricks, which is part of t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is it OK to Disable Text Selection?]]></title>
-        <id>https://css-tricks.com/?p=373100</id>
-        <link href="https://css-tricks.com/when-is-it-ok-to-disable-text-selection/"/>
-        <updated>2022-09-14T13:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …
-When is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript APIs You Don’t Know About]]></title>
         <id>https://smashingmagazine.com/2022/09/javascript-api-guide/</id>
         <link href="https://smashingmagazine.com/2022/09/javascript-api-guide/"/>
@@ -485,16 +485,6 @@ When is it OK to Disable Text Selection? originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
-        <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
-        <updated>2022-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrew Somers)</name>
         </author>
     </entry>
 </feed>
