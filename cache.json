@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374401",
+          "author": "Geoff Graham",
+          "description": "An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …\nSome Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/",
+          "publishedOn": "2022-10-13T20:01:00.000Z",
+          "wordCount": 1872,
+          "title": "Some Things I Took Away From An Event Apart 2022 in Denver",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374401"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373508",
+          "author": "Krzysztof Gonciarz",
+          "description": "Oftentimes in the past, I needed to figure out how to add styles to all elements inside the container but not the hovered one.\nDemo of the expected “fade-out” effect on siblings to let users “focus” on a particular element.…\nA Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-pure-css-gallery-focus-effect-with-not/",
+          "publishedOn": "2022-10-13T15:10:15.000Z",
+          "wordCount": 1454,
+          "title": "A Pure CSS Gallery Focus Effect with :not",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373508"
+        },
+        {
           "id": "https://css-tricks.com/?p=374330",
           "author": "Geoff Graham",
           "description": "We’re still in suuuuuper early days with container queries. Too early for broad browser support, but Chromium already supports it, Safari started supporting it in version 16, and Firefox is presumably not far behind.\nMost early days conversations …\nEarly Days of Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/early-days-of-container-style-queries/",
           "publishedOn": "2022-10-12T13:06:46.000Z",
-          "wordCount": 1400,
+          "wordCount": 1512,
           "title": "Early Days of Container Style Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374330"
         },
@@ -27,7 +47,7 @@
           "description": "There’ve been some new tutorials popping here on CSS-Tricks for working with WordPress blocks. One of them is an introduction to WordPress block development and it’s a good place to learn what blocks are and to register them in WordPress …\nRendering External API Data in WordPress Blocks on the Front End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-front-end/",
           "publishedOn": "2022-10-11T16:15:48.000Z",
-          "wordCount": 2971,
+          "wordCount": 3113,
           "title": "Rendering External API Data in WordPress Blocks on the Front End",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373952"
         },
@@ -47,7 +67,7 @@
           "description": "Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …\nHow to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/",
           "publishedOn": "2022-10-06T12:54:53.000Z",
-          "wordCount": 2966,
+          "wordCount": 3005,
           "title": "How to Safely Share Your Email Address on a Website",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373798"
         },
@@ -140,26 +160,6 @@
           "wordCount": 898,
           "title": "The Web is Good Now",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373652"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373111",
-          "author": "Louis Hoebregts",
-          "description": "SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …\nHow I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/",
-          "publishedOn": "2022-09-22T15:17:21.000Z",
-          "wordCount": 2331,
-          "title": "How I Made an Icon System Out of CSS Custom Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373639",
-          "author": "Geoff Graham",
-          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
-          "publishedOn": "2022-09-21T21:53:44.000Z",
-          "wordCount": 837,
-          "title": "CSS Rules vs. CSS Rulesets",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
+          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
+          "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
+          "publishedOn": "2022-10-13T15:00:00.000Z",
+          "wordCount": 6064,
+          "title": "Effective Communication For Everyday Meetings",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article we’ll explore some of the ways we can raise awareness and effect change within an organization, to create a more positive environmental impact.",
+          "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 5002,
+          "wordCount": 5008,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -189,7 +204,7 @@
           "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
           "publishedOn": "2022-10-10T09:00:00.000Z",
-          "wordCount": 5517,
+          "wordCount": 5519,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -204,7 +219,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5767,
+          "wordCount": 5866,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -219,7 +234,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7920,
+          "wordCount": 8021,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -249,7 +264,7 @@
           "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
           "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7772,
+          "wordCount": 7767,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -264,7 +279,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "publishedOn": "2022-09-30T13:30:00.000Z",
-          "wordCount": 5029,
+          "wordCount": 5030,
           "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
@@ -279,7 +294,7 @@
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
           "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4862,
+          "wordCount": 4860,
           "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
@@ -309,7 +324,7 @@
           "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
           "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
           "publishedOn": "2022-09-28T11:00:00.000Z",
-          "wordCount": 4840,
+          "wordCount": 4844,
           "title": "Phone Numbers For Web Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
@@ -324,7 +339,7 @@
           "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
           "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "publishedOn": "2022-09-27T14:00:00.000Z",
-          "wordCount": 5777,
+          "wordCount": 5779,
           "title": "Five Data-Loading Patterns To Boost Web Performance",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
           "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "publishedOn": "2022-09-23T11:30:00.000Z",
-          "wordCount": 5551,
+          "wordCount": 5559,
           "title": "Lessons Learned As A Designer-Founder",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
@@ -369,7 +384,7 @@
           "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
           "link": "https://smashingmagazine.com/2022/09/angular-guide/",
           "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 5685,
+          "wordCount": 5681,
           "title": "Things I Wish I Had Known About Angular When I Started",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
@@ -399,7 +414,7 @@
           "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "publishedOn": "2022-09-20T13:00:00.000Z",
-          "wordCount": 9844,
+          "wordCount": 9845,
           "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
@@ -429,7 +444,7 @@
           "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
           "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
           "publishedOn": "2022-09-19T18:00:00.000Z",
-          "wordCount": 7396,
+          "wordCount": 7398,
           "title": "Building A Retro Draggable Web Component With Lit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
@@ -467,21 +482,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a37e3c90-45e7-4553-b425-346edfcd48af/headless-in-times-of-accessibility.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
-          "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
-          "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 5785,
-          "title": "JavaScript APIs You Don’t Know About",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg"
         }
       ]
     },
@@ -490,6 +490,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
+          "author": "Edeh Israel Chidera",
+          "description": "The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.",
+          "link": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
+          "publishedOn": "2022-10-13T16:52:03.000Z",
+          "wordCount": 1243,
+          "title": "How to Avoid Prop Drilling with the React Context API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/",
+          "author": "Beau Carnes",
+          "description": "When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using",
+          "link": "https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/",
+          "publishedOn": "2022-10-13T14:06:09.000Z",
+          "wordCount": 852,
+          "title": "Code a project three different ways (JavaScript + REST API + Database)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/",
+          "author": "Chigozie Oduah",
+          "description": "Machine learning is a really interesting concept in computer programming. It involves using data to train a computer program to carry out tasks.  During the process, the program learns from data by discovering patterns. This reduces the need for programmers to hard code rules in some applications. Languages like",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/",
+          "publishedOn": "2022-10-12T22:31:25.000Z",
+          "wordCount": 2713,
+          "title": "How to Build a Machine Learning Model in Rust",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/guerrillabuzz-crypto-pr-IlUq1ruyv0Q-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/",
+          "author": "Eamonn Cottrell",
+          "description": "I needed to log in to AWS. But my main email address was rejected. Apparently I'd done this in the past and the account had been irreversibly deleted.  No reset option – just a message saying the account was permanently deleted: There are about a million ways to get",
+          "link": "https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/",
+          "publishedOn": "2022-10-12T22:26:51.000Z",
+          "wordCount": 1490,
+          "title": "Email Alias – How to Set Up a Professional Email for Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Email-Alias-with-Gmail.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/data-visualization-tools-guide/",
           "author": "Ihechikara Vincent Abba",
@@ -549,46 +589,6 @@
           "wordCount": 2977,
           "title": "How to Build Your Personal Brand as a Freelance Developer",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Standard-Blog-Post.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/",
-          "author": "Beau Carnes",
-          "description": "Learn how to build a webshop from scratch! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a webshop or e-commerce store using Angular/TypeScript, Express.js, and Stripe.  You will learn how to use Angular material and Tailwind to structure the UI",
-          "link": "https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/",
-          "publishedOn": "2022-10-12T13:46:34.000Z",
-          "wordCount": 809,
-          "title": "Build a Webshop with Angular, Node.js, TypeScript, & Stripe",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/webshop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-recognize-phishing-email/",
-          "author": "Jose Vicente Nunez",
-          "description": "You know the drill: you open your email client and there is it an email saying that you will be in trouble if you do not follow certain instructions in short time, no questions asked. All it takes is a single click, and you're in trouble. This kind of email",
-          "link": "https://www.freecodecamp.org/news/how-to-recognize-phishing-email/",
-          "publishedOn": "2022-10-12T00:52:32.000Z",
-          "wordCount": 1630,
-          "title": "How to Recognize a Phishing Email – And What to Do When You Get One",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/five_hours_until_the_bombing_run-1.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you",
-          "link": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
-          "publishedOn": "2022-10-11T23:18:26.000Z",
-          "wordCount": 1487,
-          "title": "How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--13-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
-          "author": "Avdhoot Fulsundar",
-          "description": "Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many",
-          "link": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
-          "publishedOn": "2022-10-11T23:11:17.000Z",
-          "wordCount": 1317,
-          "title": "Best Free Resources to Learn Golang – Go Coding Courses",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Gradient-Modern-Digital-Marketing-Facebook-Cover--36-.png"
         }
       ]
     }

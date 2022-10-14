@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T00:16:23.994Z</id>
+    <id>urn:2022-10-14T00:18:03.192Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T00:16:23.994Z</updated>
+    <updated>2022-10-14T00:18:03.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Some Things I Took Away From An Event Apart 2022 in Denver]]></title>
+        <id>https://css-tricks.com/?p=374401</id>
+        <link href="https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/"/>
+        <updated>2022-10-13T20:01:00.000Z</updated>
+        <summary type="html"><![CDATA[An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …
+Some Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Prop Drilling with the React Context API]]></title>
+        <id>https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/</id>
+        <link href="https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/"/>
+        <updated>2022-10-13T16:52:03.000Z</updated>
+        <summary type="html"><![CDATA[The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pure CSS Gallery Focus Effect with :not]]></title>
+        <id>https://css-tricks.com/?p=373508</id>
+        <link href="https://css-tricks.com/a-pure-css-gallery-focus-effect-with-not/"/>
+        <updated>2022-10-13T15:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Oftentimes in the past, I needed to figure out how to add styles to all elements inside the container but not the hovered one.
+Demo of the expected “fade-out” effect on siblings to let users “focus” on a particular element.…
+A Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Krzysztof Gonciarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Communication For Everyday Meetings]]></title>
+        <id>https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/</id>
+        <link href="https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/"/>
+        <updated>2022-10-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a project three different ways (JavaScript + REST API + Database)]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/"/>
+        <updated>2022-10-13T14:06:09.000Z</updated>
+        <summary type="html"><![CDATA[When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Machine Learning Model in Rust]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/"/>
+        <updated>2022-10-12T22:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is a really interesting concept in computer programming. It involves using data to train a computer program to carry out tasks.  During the process, the program learns from data by discovering patterns. This reduces the need for programmers to hard code rules in some applications. Languages like]]></summary>
+        <author>
+            <name>Chigozie Oduah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Alias – How to Set Up a Professional Email for Free]]></title>
+        <id>https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/</id>
+        <link href="https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/"/>
+        <updated>2022-10-12T22:26:51.000Z</updated>
+        <summary type="html"><![CDATA[I needed to log in to AWS. But my main email address was rejected. Apparently I'd done this in the past and the account had been irreversibly deleted.  No reset option – just a message saying the account was permanently deleted: There are about a million ways to get]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Visualization Tools – 2022 Guide]]></title>
         <id>https://www.freecodecamp.org/news/data-visualization-tools-guide/</id>
@@ -66,16 +139,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Webshop with Angular, Node.js, TypeScript, & Stripe]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/"/>
-        <updated>2022-10-12T13:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a webshop from scratch! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a webshop or e-commerce store using Angular/TypeScript, Express.js, and Stripe.  You will learn how to use Angular material and Tailwind to structure the UI]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Early Days of Container Style Queries]]></title>
         <id>https://css-tricks.com/?p=374330</id>
         <link href="https://css-tricks.com/early-days-of-container-style-queries/"/>
@@ -85,36 +148,6 @@ Most early days conversations …
 Early Days of Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recognize a Phishing Email – And What to Do When You Get One]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-recognize-phishing-email/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-recognize-phishing-email/"/>
-        <updated>2022-10-12T00:52:32.000Z</updated>
-        <summary type="html"><![CDATA[You know the drill: you open your email client and there is it an email saying that you will be in trouble if you do not follow certain instructions in short time, no questions asked. All it takes is a single click, and you're in trouble. This kind of email]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/"/>
-        <updated>2022-10-11T23:18:26.000Z</updated>
-        <summary type="html"><![CDATA[When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Free Resources to Learn Golang – Go Coding Courses]]></title>
-        <id>https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/</id>
-        <link href="https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/"/>
-        <updated>2022-10-11T23:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many]]></summary>
-        <author>
-            <name>Avdhoot Fulsundar</name>
         </author>
     </entry>
     <entry>
@@ -133,7 +166,7 @@ Rendering External API Data in WordPress Blocks on the Front End originally publ
         <id>https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/</id>
         <link href="https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/"/>
         <updated>2022-10-11T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article we’ll explore some of the ways we can raise awareness and effect change within an organization, to create a more positive environmental impact.]]></summary>
+        <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
         </author>
@@ -382,17 +415,6 @@ The Web is Good Now originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made an Icon System Out of CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=373111</id>
-        <link href="https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/"/>
-        <updated>2022-09-22T15:17:21.000Z</updated>
-        <summary type="html"><![CDATA[SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …
-How I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Louis Hoebregts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
         <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
         <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
@@ -400,21 +422,6 @@ How I Made an Icon System Out of CSS Custom Properties originally published on C
         <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (William Juan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
-        <id>https://css-tricks.com/?p=373639</id>
-        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
-        <updated>2022-09-21T21:53:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest spec:
-A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
-Louis Lazaris:
-As the above quote from W3C indicates, it seems 
-…
-CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -475,16 +482,6 @@ CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Do you want to make your new website as accessible as possible? Amazing, that’s a great mindset! Let’s have a closer look at the factors you should take into consideration when choosing a content management system (CMS) in terms of web accessibility.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Josefine Schaefer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript APIs You Don’t Know About]]></title>
-        <id>https://smashingmagazine.com/2022/09/javascript-api-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/javascript-api-guide/"/>
-        <updated>2022-09-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
