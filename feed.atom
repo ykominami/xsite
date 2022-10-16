@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-15T00:15:05.923Z</id>
+    <id>urn:2022-10-16T00:17:00.550Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-15T00:15:05.923Z</updated>
+    <updated>2022-10-16T00:17:00.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[find() vs filter() in JavaScript – Differences Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/find-vs-filter-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/find-vs-filter-javascript/"/>
+        <updated>2022-10-14T22:22:22.000Z</updated>
+        <summary type="html"><![CDATA[A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the]]></summary>
+        <author>
+            <name>Aman Kalra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behind the CSScenes, October 2022]]></title>
         <id>https://css-tricks.com/?p=374393</id>
@@ -148,16 +158,6 @@ A Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Data visualization is the process of interpreting or representing data graphically. Generally, it is the graphical or visual representation of data using charts, tables, histograms, and other info-graphics.  Data plays a major role in any type of organization. Data visualization helps us understand certain trends and insights, and make]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Docker and Kubernetes – Free Hands-On Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/"/>
-        <updated>2022-10-12T14:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Docker and Kubernetes are important technologies that can help you scale your applications. Docker is a platform for packaging, deploying, and running applications in containers. Kubernetes is a system for managing containerized applications across a cluster of nodes. It provides basic mechanisms for deployment, maintenance, and scaling of applications. We]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -461,16 +461,6 @@ How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrico Karoulla)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Star Ratings For Readers]]></title>
-        <id>https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/</id>
-        <link href="https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/"/>
-        <updated>2022-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Athanasiou)</name>
         </author>
     </entry>
 </feed>
