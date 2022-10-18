@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-17T00:17:03.085Z</id>
+    <id>urn:2022-10-18T00:17:44.452Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T00:17:03.086Z</updated>
+    <updated>2022-10-18T00:17:44.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/github-search-tips/</id>
+        <link href="https://www.freecodecamp.org/news/github-search-tips/"/>
+        <updated>2022-10-17T19:27:10.000Z</updated>
+        <summary type="html"><![CDATA[When I was a beginner to open-source contributions, one of my greatest challenge was finding the correct projects/issues to work on. For the longest time I relied on resources curated by different writers on the internet (which were good, by the way). But I always wanted to find a way]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Explode – How to Split a String into an Array]]></title>
+        <id>https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/</id>
+        <link href="https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/"/>
+        <updated>2022-10-17T17:19:46.000Z</updated>
+        <summary type="html"><![CDATA[The PHP explode() function converts a string to an array. Each of the characters in the string is given an index that starts from 0. Like the built-in imlode()  function, the explode function does not modify the data (string). Syntax of the explode() Function The explode() function takes in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Upcoming Meetings for a Microsoft 365 User]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/"/>
+        <updated>2022-10-17T17:08:26.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer and you work with an organization that uses Microsoft 365, you probably use it to manage your meetings. In this tutorial, you'll learn how you can build a simple personal assistant in under 10 minutes that'll show a Microsoft 365 user the meetings they have]]></summary>
+        <author>
+            <name>Waldek Mastykarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Architect a Blockchain on Kubernetes – K8S Microservice Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/"/>
+        <updated>2022-10-17T16:02:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will describe how to use microservices architecture and Kubernetes to build a blockchain.  The technologies usually used for blockchains are purpose-driven, and you can use them for other projects as well. The examples in this article can readily handle heavy loads and remain responsive and]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Lowercase a String in JavaScript – toLowerCase() in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/"/>
+        <updated>2022-10-17T15:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Strings are a fundamental part of working with JavaScript. And the toLowerCase()  method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the toLowerCase()  method in Python. What is a String?]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure CSS Bezier Curve Motion Paths]]></title>
+        <id>https://css-tricks.com/?p=373600</id>
+        <link href="https://css-tricks.com/pure-css-bezier-curve-motion-paths/"/>
+        <updated>2022-10-17T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Are you a Bezier curve lover like I am?
+CodePen Embed Fallback
+Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas:
+As a 
+…
+Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lu Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Svelte in 23 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-svelte-complete-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-svelte-complete-course/"/>
+        <updated>2022-10-17T15:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Svelte is a front-end JavaScript framework for making interactive webpages. Svelte has grown in popularity quite a bit over the last few years. We just published a free 23-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Svelte. Li Hau Tan developed this course. Li]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)]]></title>
+        <id>https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/</id>
+        <link href="https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/"/>
+        <updated>2022-10-17T15:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain]]></summary>
+        <author>
+            <name>Josua Antonius Naiborhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Python? How the Interpreter Works and How to Write "Hello World" in Python]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-python-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-python-beginners-guide/"/>
+        <updated>2022-10-17T13:38:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first "Hello World" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code]]></summary>
+        <author>
+            <name>Michael Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Five Layers Model? The Framework of the Internet Explained]]></title>
+        <id>https://www.freecodecamp.org/news/the-five-layers-model-explained/</id>
+        <link href="https://www.freecodecamp.org/news/the-five-layers-model-explained/"/>
+        <updated>2022-10-17T13:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Full-Site Editing: A Deep Dive Into The New Feature]]></title>
+        <id>https://smashingmagazine.com/2022/10/wordpress-full-site-editing/</id>
+        <link href="https://smashingmagazine.com/2022/10/wordpress-full-site-editing/"/>
+        <updated>2022-10-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[find() vs filter() in JavaScript – Differences Explained with Examples]]></title>
         <id>https://www.freecodecamp.org/news/find-vs-filter-javascript/</id>
@@ -24,46 +139,6 @@
 Behind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Copy Text to the Clipboard with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/"/>
-        <updated>2022-10-14T21:18:48.000Z</updated>
-        <summary type="html"><![CDATA[When you're building advanced web pages and applications, you'll sometimes want to add the copy feature. This lets your users simply click a button or icon to copy text rather than highlighting the text and clicking a couple of buttons on the keyboard. This feature is mostly used when someone]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Add to an Array – JS Append]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/"/>
-        <updated>2022-10-14T18:29:54.000Z</updated>
-        <summary type="html"><![CDATA[You can use arrays in JavaScript to store a group of variables, often referred to as elements or items of the array. Each of these elements will have an index number assigned to them starting from zero.  By default, you can use the index of an element in an]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX vs UI – What's the Difference? Definition and Meaning]]></title>
-        <id>https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/</id>
-        <link href="https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/"/>
-        <updated>2022-10-14T16:15:57.000Z</updated>
-        <summary type="html"><![CDATA[When designing a website or an app, the finished product needs to be functional, intuitive, and aesthetically pleasing. This is where UX and UI design come in. UX and UI design are two technical terms that can often be confusing. Many people may use these two terms interchangeably, incorrectly, or]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Learned to Code with Dyslexia and ADHD]]></title>
-        <id>https://www.freecodecamp.org/news/developer-journey/</id>
-        <link href="https://www.freecodecamp.org/news/developer-journey/"/>
-        <updated>2022-10-14T16:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to]]></summary>
-        <author>
-            <name>Jalmari Ikävalko</name>
         </author>
     </entry>
     <entry>
@@ -89,16 +164,6 @@ Some Things I Took Away From An Event Apart 2022 in Denver originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Avoid Prop Drilling with the React Context API]]></title>
-        <id>https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/</id>
-        <link href="https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/"/>
-        <updated>2022-10-13T16:52:03.000Z</updated>
-        <summary type="html"><![CDATA[The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Pure CSS Gallery Focus Effect with :not]]></title>
         <id>https://css-tricks.com/?p=373508</id>
         <link href="https://css-tricks.com/a-pure-css-gallery-focus-effect-with-not/"/>
@@ -118,46 +183,6 @@ A Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a project three different ways (JavaScript + REST API + Database)]]></title>
-        <id>https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/</id>
-        <link href="https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/"/>
-        <updated>2022-10-13T14:06:09.000Z</updated>
-        <summary type="html"><![CDATA[When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Machine Learning Model in Rust]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/"/>
-        <updated>2022-10-12T22:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is a really interesting concept in computer programming. It involves using data to train a computer program to carry out tasks.  During the process, the program learns from data by discovering patterns. This reduces the need for programmers to hard code rules in some applications. Languages like]]></summary>
-        <author>
-            <name>Chigozie Oduah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Alias – How to Set Up a Professional Email for Free]]></title>
-        <id>https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/</id>
-        <link href="https://www.freecodecamp.org/news/email-alias-set-up-a-professional-email-for-free/"/>
-        <updated>2022-10-12T22:26:51.000Z</updated>
-        <summary type="html"><![CDATA[I needed to log in to AWS. But my main email address was rejected. Apparently I'd done this in the past and the account had been irreversibly deleted.  No reset option – just a message saying the account was permanently deleted: There are about a million ways to get]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization Tools – 2022 Guide]]></title>
-        <id>https://www.freecodecamp.org/news/data-visualization-tools-guide/</id>
-        <link href="https://www.freecodecamp.org/news/data-visualization-tools-guide/"/>
-        <updated>2022-10-12T17:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is the process of interpreting or representing data graphically. Generally, it is the graphical or visual representation of data using charts, tables, histograms, and other info-graphics.  Data plays a major role in any type of organization. Data visualization helps us understand certain trends and insights, and make]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -380,17 +405,6 @@ If this is the first …
 Named Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Matteo Mazzarolo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Wavy Shapes & Patterns in CSS]]></title>
-        <id>https://css-tricks.com/?p=373403</id>
-        <link href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/"/>
-        <updated>2022-09-26T13:13:30.000Z</updated>
-        <summary type="html"><![CDATA[The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …
-How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
