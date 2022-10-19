@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374466",
+          "author": "Geoff Graham",
+          "description": "By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.\n.wrapper {\n  margin-inline: max(0px, ((100% - 64rem) / 2)); \n}\nYou’d be doing yourself a favor to read Manuel’s breakdown of …\nManuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/manuel-matuzovic-max-trickery/",
+          "publishedOn": "2022-10-18T13:54:38.000Z",
+          "wordCount": 940,
+          "title": "Manuel Matuzovic: max() Trickery",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
+        },
+        {
           "id": "https://css-tricks.com/?p=373600",
           "author": "Lu Wang",
           "description": "Are you a Bezier curve lover like I am?\nCodePen Embed Fallback\nBesides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas:\nAs a \n…\nPure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/pure-css-bezier-curve-motion-paths/",
           "publishedOn": "2022-10-17T15:30:05.000Z",
-          "wordCount": 2406,
+          "wordCount": 2419,
           "title": "Pure CSS Bezier Curve Motion Paths",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373600"
         },
@@ -150,16 +160,6 @@
           "wordCount": 4158,
           "title": "GIFs Without the .gif: The Most Performant Image and Video Options Right Now",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373484"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373209",
-          "author": "Matteo Mazzarolo",
-          "description": "Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.\nIf this is the first …\nNamed Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/",
-          "publishedOn": "2022-09-27T12:58:21.000Z",
-          "wordCount": 2785,
-          "title": "Named Element IDs Can Be Referenced as JavaScript Globals",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373209"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
           "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
           "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8370,
+          "wordCount": 8369,
           "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
@@ -189,7 +189,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6071,
+          "wordCount": 6069,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -204,7 +204,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 5001,
+          "wordCount": 5006,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -234,7 +234,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5764,
+          "wordCount": 5762,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -249,7 +249,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7912,
+          "wordCount": 7917,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -264,7 +264,7 @@
           "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
           "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
           "publishedOn": "2022-10-05T12:00:00.000Z",
-          "wordCount": 4161,
+          "wordCount": 4158,
           "title": "Easy Fluid Typography With clamp() Using Sass Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
@@ -279,7 +279,7 @@
           "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
           "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7769,
+          "wordCount": 7766,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -294,7 +294,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "publishedOn": "2022-09-30T13:30:00.000Z",
-          "wordCount": 5129,
+          "wordCount": 5030,
           "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
@@ -309,7 +309,7 @@
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
           "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4858,
+          "wordCount": 4861,
           "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
@@ -354,7 +354,7 @@
           "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
           "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "publishedOn": "2022-09-27T14:00:00.000Z",
-          "wordCount": 5776,
+          "wordCount": 5877,
           "title": "Five Data-Loading Patterns To Boost Web Performance",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
@@ -384,7 +384,7 @@
           "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
           "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "publishedOn": "2022-09-23T11:30:00.000Z",
-          "wordCount": 5657,
+          "wordCount": 5558,
           "title": "Lessons Learned As A Designer-Founder",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
@@ -399,7 +399,7 @@
           "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
           "link": "https://smashingmagazine.com/2022/09/angular-guide/",
           "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 5782,
+          "wordCount": 5685,
           "title": "Things I Wish I Had Known About Angular When I Started",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
@@ -414,7 +414,7 @@
           "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
           "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
           "publishedOn": "2022-09-21T11:30:00.000Z",
-          "wordCount": 6824,
+          "wordCount": 6821,
           "title": "Designing Better Inline Validation UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
@@ -429,7 +429,7 @@
           "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
           "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "publishedOn": "2022-09-20T13:00:00.000Z",
-          "wordCount": 9846,
+          "wordCount": 9844,
           "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
@@ -459,7 +459,7 @@
           "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
           "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
           "publishedOn": "2022-09-19T18:00:00.000Z",
-          "wordCount": 7397,
+          "wordCount": 7396,
           "title": "Building A Retro Draggable Web Component With Lit",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
@@ -475,6 +475,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
+          "author": "Daniel Iwugo",
+          "description": "Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi",
+          "link": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
+          "publishedOn": "2022-10-18T20:37:37.000Z",
+          "wordCount": 3012,
+          "title": "Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/image-74-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or",
+          "link": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
+          "publishedOn": "2022-10-18T19:33:59.000Z",
+          "wordCount": 1417,
+          "title": "Append a String in Python – STR Appending",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/alex-chumak-zGuBURGGmdY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "author": "Flavio Copes",
+          "description": "Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Golang – also called Go – was created by Google engineers with these main goals:  * make their projects compile (and run) faster  * be simple so people can pick it",
+          "link": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "publishedOn": "2022-10-18T18:35:37.000Z",
+          "wordCount": 5845,
+          "title": "The Go Handbook – Learn Golang for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181290.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
+          "author": "Rajdeep Singh",
+          "description": "Tauri is a new Rust-based framework that builds an x86_64 cross-platform application for Windows, macOS, and Linux.  In this tutorial, we'll use Tauri and Next.js to build a desktop-based cross-platform application and publish it to the Snap store and AppImage. So why is building a cross-platform app, that works",
+          "link": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
+          "publishedOn": "2022-10-18T16:38:44.000Z",
+          "wordCount": 5058,
+          "title": "How to Build a Cross-Platform Application with Next.js and Tauri",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Tauri-and-nextjs--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/github-search-tips/",
           "author": "Hillary Nyakundi",
@@ -534,46 +574,6 @@
           "wordCount": 955,
           "title": "Learn Svelte in 23 Hours",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/svelte-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/",
-          "author": "Josua Antonius Naiborhu",
-          "description": "Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain",
-          "link": "https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/",
-          "publishedOn": "2022-10-17T15:12:31.000Z",
-          "wordCount": 2391,
-          "title": "How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/LIME.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-python-beginners-guide/",
-          "author": "Michael Lee",
-          "description": "In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first \"Hello World\" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code",
-          "link": "https://www.freecodecamp.org/news/what-is-python-beginners-guide/",
-          "publishedOn": "2022-10-17T13:38:18.000Z",
-          "wordCount": 1696,
-          "title": "What is Python? How the Interpreter Works and How to Write \"Hello World\" in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/python-img.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-five-layers-model-explained/",
-          "author": "Omer Rosenbaum",
-          "description": "Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need",
-          "link": "https://www.freecodecamp.org/news/the-five-layers-model-explained/",
-          "publishedOn": "2022-10-17T13:37:19.000Z",
-          "wordCount": 3944,
-          "title": "What is the Five Layers Model? The Framework of the Internet Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/find-vs-filter-javascript/",
-          "author": "Aman Kalra",
-          "description": "A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the",
-          "link": "https://www.freecodecamp.org/news/find-vs-filter-javascript/",
-          "publishedOn": "2022-10-14T22:22:22.000Z",
-          "wordCount": 1174,
-          "title": "find() vs filter() in JavaScript – Differences Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Logo.jpg"
         }
       ]
     }

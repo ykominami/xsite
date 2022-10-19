@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T00:17:44.452Z</id>
+    <id>urn:2022-10-19T00:16:43.477Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T00:17:44.452Z</updated>
+    <updated>2022-10-19T00:16:43.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks]]></title>
+        <id>https://www.freecodecamp.org/news/wi-fi-hacking-101/</id>
+        <link href="https://www.freecodecamp.org/news/wi-fi-hacking-101/"/>
+        <updated>2022-10-18T20:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Append a String in Python – STR Appending]]></title>
+        <id>https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/</id>
+        <link href="https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/"/>
+        <updated>2022-10-18T19:33:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Go Handbook – Learn Golang for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/go-beginners-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/go-beginners-handbook/"/>
+        <updated>2022-10-18T18:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Golang – also called Go – was created by Google engineers with these main goals:  * make their projects compile (and run) faster  * be simple so people can pick it]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Cross-Platform Application with Next.js and Tauri]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/"/>
+        <updated>2022-10-18T16:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Tauri is a new Rust-based framework that builds an x86_64 cross-platform application for Windows, macOS, and Linux.  In this tutorial, we'll use Tauri and Next.js to build a desktop-based cross-platform application and publish it to the Snap store and AppImage. So why is building a cross-platform app, that works]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic: max() Trickery]]></title>
+        <id>https://css-tricks.com/?p=374466</id>
+        <link href="https://css-tricks.com/manuel-matuzovic-max-trickery/"/>
+        <updated>2022-10-18T13:54:38.000Z</updated>
+        <summary type="html"><![CDATA[By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.
+.wrapper {
+  margin-inline: max(0px, ((100% - 64rem) / 2)); 
+}
+You’d be doing yourself a favor to read Manuel’s breakdown of …
+Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub]]></title>
         <id>https://www.freecodecamp.org/news/github-search-tips/</id>
@@ -81,36 +136,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)]]></title>
-        <id>https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/</id>
-        <link href="https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/"/>
-        <updated>2022-10-17T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain]]></summary>
-        <author>
-            <name>Josua Antonius Naiborhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Python? How the Interpreter Works and How to Write "Hello World" in Python]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-python-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-python-beginners-guide/"/>
-        <updated>2022-10-17T13:38:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first "Hello World" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code]]></summary>
-        <author>
-            <name>Michael Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Five Layers Model? The Framework of the Internet Explained]]></title>
-        <id>https://www.freecodecamp.org/news/the-five-layers-model-explained/</id>
-        <link href="https://www.freecodecamp.org/news/the-five-layers-model-explained/"/>
-        <updated>2022-10-17T13:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WordPress Full-Site Editing: A Deep Dive Into The New Feature]]></title>
         <id>https://smashingmagazine.com/2022/10/wordpress-full-site-editing/</id>
         <link href="https://smashingmagazine.com/2022/10/wordpress-full-site-editing/"/>
@@ -118,16 +143,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[find() vs filter() in JavaScript – Differences Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/find-vs-filter-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/find-vs-filter-javascript/"/>
-        <updated>2022-10-14T22:22:22.000Z</updated>
-        <summary type="html"><![CDATA[A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the]]></summary>
-        <author>
-            <name>Aman Kalra</name>
         </author>
     </entry>
     <entry>
@@ -393,18 +408,6 @@ GIFs Without the .gif: The Most Performant Image and Video Options Right Now ori
         <summary type="html"><![CDATA[You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Agustinus Theodorus)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Named Element IDs Can Be Referenced as JavaScript Globals]]></title>
-        <id>https://css-tricks.com/?p=373209</id>
-        <link href="https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"/>
-        <updated>2022-09-27T12:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.
-If this is the first …
-Named Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Matteo Mazzarolo</name>
         </author>
     </entry>
     <entry>
