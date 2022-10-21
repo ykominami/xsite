@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374470",
+          "author": "Geoff Graham",
+          "description": "I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …\nInstant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/",
+          "publishedOn": "2022-10-20T19:59:46.000Z",
+          "wordCount": 1119,
+          "title": "Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374470"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374345",
+          "author": "Cassie Evans",
+          "description": "Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.\nVideo graphics are designed within a specific ratio and …\nResponsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/",
+          "publishedOn": "2022-10-20T12:42:30.000Z",
+          "wordCount": 3565,
+          "title": "Responsive Animations for Every Screen Size and Device",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374345"
+        },
+        {
           "id": "https://css-tricks.com/?p=374376",
           "author": "Preethi",
           "description": "When you put something — say a regular sheet of paper — in a manilla folder, a part of that thing might peek out of the folder a little bit. The same sort of thing with a wallet and credit …\nHow to Make a Folder “Slit” Effect With CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +47,7 @@
           "description": "By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.\n.wrapper {\n  margin-inline: max(0px, ((100% - 64rem) / 2)); \n}\nYou’d be doing yourself a favor to read Manuel’s breakdown of …\nManuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/manuel-matuzovic-max-trickery/",
           "publishedOn": "2022-10-18T13:54:38.000Z",
-          "wordCount": 1033,
+          "wordCount": 1079,
           "title": "Manuel Matuzovic: max() Trickery",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
         },
@@ -117,7 +137,7 @@
           "description": "Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …\nHow to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/",
           "publishedOn": "2022-10-06T12:54:53.000Z",
-          "wordCount": 3500,
+          "wordCount": 3637,
           "title": "How to Safely Share Your Email Address on a Website",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373798"
         },
@@ -140,26 +160,6 @@
           "wordCount": 887,
           "title": "State of CSS 2022 Survey Now Open",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374217"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373703",
-          "author": "Adam Rackis",
-          "description": "This is a post about Shoelace, a component library by Cory LaViska, but with a twist. It defines all your standard UX components: tabs, modals, accordions, auto-completes, and much, much more. They look beautiful out of the …\nIntroducing Shoelace, a Framework-Independent Component-Based UX Library originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/shoelace-component-frameowrk-introduction/",
-          "publishedOn": "2022-10-04T13:01:53.000Z",
-          "wordCount": 2755,
-          "title": "Introducing Shoelace, a Framework-Independent Component-Based UX Library",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373703"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373732",
-          "author": "Arjun Singh",
-          "description": "Let’s acknowledge that developing for WordPress is weird right now. Whether you’re new to WordPress or have worked with it for eons, the introduction of “Full-Site Editing” (FSE) features, including the Block Editor (WordPress 5.0) and the Site Editor (WordPress …\nGetting Started With WordPress Block Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-started-with-wordpress-block-development/",
-          "publishedOn": "2022-09-30T13:04:56.000Z",
-          "wordCount": 5577,
-          "title": "Getting Started With WordPress Block Development",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373732"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
+          "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
+          "publishedOn": "2022-10-20T14:00:00.000Z",
+          "wordCount": 4953,
+          "title": "What’s New In DevTools: Halloween Edition 🎃",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/10/understanding-privacy-book-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -189,7 +204,7 @@
           "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
           "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
           "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8359,
+          "wordCount": 8358,
           "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
@@ -204,7 +219,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6062,
+          "wordCount": 6056,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -219,7 +234,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 4995,
+          "wordCount": 5002,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
           "publishedOn": "2022-10-10T09:00:00.000Z",
-          "wordCount": 5517,
+          "wordCount": 5510,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -249,7 +264,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5769,
+          "wordCount": 5764,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -264,7 +279,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7920,
+          "wordCount": 7911,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -279,7 +294,7 @@
           "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
           "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
           "publishedOn": "2022-10-05T12:00:00.000Z",
-          "wordCount": 4157,
+          "wordCount": 4155,
           "title": "Easy Fluid Typography With clamp() Using Sass Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
@@ -294,7 +309,7 @@
           "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
           "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7763,
+          "wordCount": 7766,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -309,7 +324,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "publishedOn": "2022-09-30T13:30:00.000Z",
-          "wordCount": 5023,
+          "wordCount": 5034,
           "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
@@ -324,7 +339,7 @@
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
           "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4850,
+          "wordCount": 4860,
           "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
@@ -354,7 +369,7 @@
           "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
           "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
           "publishedOn": "2022-09-28T11:00:00.000Z",
-          "wordCount": 4841,
+          "wordCount": 4836,
           "title": "Phone Numbers For Web Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
@@ -369,7 +384,7 @@
           "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
           "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "publishedOn": "2022-09-27T14:00:00.000Z",
-          "wordCount": 5872,
+          "wordCount": 5769,
           "title": "Five Data-Loading Patterns To Boost Web Performance",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
@@ -399,7 +414,7 @@
           "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
           "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "publishedOn": "2022-09-23T11:30:00.000Z",
-          "wordCount": 5542,
+          "wordCount": 5553,
           "title": "Lessons Learned As A Designer-Founder",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
@@ -414,7 +429,7 @@
           "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
           "link": "https://smashingmagazine.com/2022/09/angular-guide/",
           "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 5676,
+          "wordCount": 5678,
           "title": "Things I Wish I Had Known About Angular When I Started",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
@@ -422,36 +437,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
-          "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
-          "publishedOn": "2022-09-21T11:30:00.000Z",
-          "wordCount": 6820,
-          "title": "Designing Better Inline Validation UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
-          "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
-          "publishedOn": "2022-09-20T13:00:00.000Z",
-          "wordCount": 9844,
-          "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png"
         }
       ]
     },
@@ -460,6 +445,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/",
+          "author": "Dionysia Lemonaki",
+          "description": "Coding is one of the most popular and in-demand careers. There are many reasons why people choose a career in coding and computer science. The technology field offers promising and diverse job prospects in several industries, job security, a generally comfortable starting salary, and increased high-earning potential as developers gain",
+          "link": "https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/",
+          "publishedOn": "2022-10-20T19:34:20.000Z",
+          "wordCount": 2921,
+          "title": "Computer Programmer Salary – How Much Do Coders Make?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-maitree-rimthong-1602726.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tableau-vs-power-bi-whats-the-difference/",
+          "author": "Kolade Chris",
+          "description": "Tableau and Power BI are both data visualization and business intelligence tools. You can extract data with both tools, visualize the data, analyze it, and turn it into a piece of actionable information. In this article, you will learn what both Power BI and Tableau are in detail. I will",
+          "link": "https://www.freecodecamp.org/news/tableau-vs-power-bi-whats-the-difference/",
+          "publishedOn": "2022-10-20T17:48:45.000Z",
+          "wordCount": 1533,
+          "title": "Tableau VS Power BI – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/tableauvPowerBi.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-google-docs-with-flutter/",
+          "author": "Beau Carnes",
+          "description": "Creating a Google Docs clone will help you learn a lot of new concepts. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Flutter to create a Google Docs clone. Rivaan Ranawat created this course. Rivaan has created many popular technical",
+          "link": "https://www.freecodecamp.org/news/code-google-docs-with-flutter/",
+          "publishedOn": "2022-10-20T14:15:37.000Z",
+          "wordCount": 869,
+          "title": "Code Google Docs with Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/flutter-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-reverting-to-previous-commit-how-to-revert-to-last-commit/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Git [/news/git-and-github-for-beginners/] is a great tool for version control. It also makes collaborating with others more efficient. In this article, you'll learn how to revert to previous commits when tracking your project with Git. The two commands we'll discuss in this article are git reset and git revert. These commands",
+          "link": "https://www.freecodecamp.org/news/git-reverting-to-previous-commit-how-to-revert-to-last-commit/",
+          "publishedOn": "2022-10-19T22:55:44.000Z",
+          "wordCount": 1713,
+          "title": "Git Reverting to Previous Commit – How to Revert to Last Commit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/roman-synkevych-wX2L8L-fGeA-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/harvard-cs50/",
           "author": "Beau Carnes",
@@ -508,7 +533,7 @@
           "publishedOn": "2022-10-18T18:35:37.000Z",
           "wordCount": 5845,
           "title": "The Go Handbook – Learn Golang for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181290.jpg"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/golang.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
@@ -519,46 +544,6 @@
           "wordCount": 5058,
           "title": "How to Build a Cross-Platform Application with Next.js and Tauri",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Tauri-and-nextjs--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/github-search-tips/",
-          "author": "Hillary Nyakundi",
-          "description": "When I was a beginner to open-source contributions, one of my greatest challenge was finding the correct projects/issues to work on. For the longest time I relied on resources curated by different writers on the internet (which were good, by the way). But I always wanted to find a way",
-          "link": "https://www.freecodecamp.org/news/github-search-tips/",
-          "publishedOn": "2022-10-17T19:27:10.000Z",
-          "wordCount": 2159,
-          "title": "GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Search--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/",
-          "author": "Kolade Chris",
-          "description": "The PHP explode() function converts a string to an array. Each of the characters in the string is given an index that starts from 0. Like the built-in imlode()  function, the explode function does not modify the data (string). Syntax of the explode() Function The explode() function takes in",
-          "link": "https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/",
-          "publishedOn": "2022-10-17T17:19:46.000Z",
-          "wordCount": 1114,
-          "title": "PHP Explode – How to Split a String into an Array",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/explode.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/",
-          "author": "Waldek Mastykarz",
-          "description": "If you're a web developer and you work with an organization that uses Microsoft 365, you probably use it to manage your meetings. In this tutorial, you'll learn how you can build a simple personal assistant in under 10 minutes that'll show a Microsoft 365 user the meetings they have",
-          "link": "https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/",
-          "publishedOn": "2022-10-17T17:08:26.000Z",
-          "wordCount": 2674,
-          "title": "How to Show Upcoming Meetings for a Microsoft 365 User",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot-2022-10-17-at-14.47.26.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/",
-          "author": "Kayode Adeniyi",
-          "description": "In this article, I will describe how to use microservices architecture and Kubernetes to build a blockchain.  The technologies usually used for blockchains are purpose-driven, and you can use them for other projects as well. The examples in this article can readily handle heavy loads and remain responsive and",
-          "link": "https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/",
-          "publishedOn": "2022-10-17T16:02:43.000Z",
-          "wordCount": 2894,
-          "title": "How to Architect a Blockchain on Kubernetes – K8S Microservice Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot-2022-10-01-at-07.39.09.png"
         }
       ]
     }
