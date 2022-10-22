@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374194",
+          "author": "Temani Afif",
+          "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
+          "publishedOn": "2022-10-21T12:46:27.000Z",
+          "wordCount": 2860,
+          "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
+        },
+        {
           "id": "https://css-tricks.com/?p=374470",
           "author": "Geoff Graham",
           "description": "I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …\nInstant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.\nVideo graphics are designed within a specific ratio and …\nResponsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/",
           "publishedOn": "2022-10-20T12:42:30.000Z",
-          "wordCount": 3565,
+          "wordCount": 3654,
           "title": "Responsive Animations for Every Screen Size and Device",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374345"
         },
@@ -37,7 +47,7 @@
           "description": "When you put something — say a regular sheet of paper — in a manilla folder, a part of that thing might peek out of the folder a little bit. The same sort of thing with a wallet and credit …\nHow to Make a Folder “Slit” Effect With CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/",
           "publishedOn": "2022-10-19T12:56:37.000Z",
-          "wordCount": 1419,
+          "wordCount": 1484,
           "title": "How to Make a Folder “Slit” Effect With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374376"
         },
@@ -77,7 +87,7 @@
           "description": "As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …\nFancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fancy-image-decorations-single-element-magic/",
           "publishedOn": "2022-10-14T15:37:28.000Z",
-          "wordCount": 3266,
+          "wordCount": 3263,
           "title": "Fancy Image Decorations: Single Element Magic",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373965"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2287,
           "title": "Using Web Components With Next (or Any SSR Framework)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373787"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374217",
-          "author": "Geoff Graham",
-          "description": "The State of CSS survey recently opened up. Last year, the survey confirmed everyone’s assumptions that TailwindCSS is super popular and CSS variables are mainstream. It also codified what many of us want from CSS, from Container Queries to …\nState of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/state-of-css-2022-survey-now-open/",
-          "publishedOn": "2022-10-04T18:35:09.000Z",
-          "wordCount": 887,
-          "title": "State of CSS 2022 Survey Now Open",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374217"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "author": "hello@smashingmagazine.com (Sacha Greif)",
+          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
+          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "publishedOn": "2022-10-21T12:00:00.000Z",
+          "wordCount": 4508,
+          "title": "Futuristic CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
           "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
           "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4953,
+          "wordCount": 4959,
           "title": "What’s New In DevTools: Halloween Edition 🎃",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
@@ -204,7 +219,7 @@
           "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
           "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
           "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8358,
+          "wordCount": 8355,
           "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
@@ -219,7 +234,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6056,
+          "wordCount": 6066,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -234,7 +249,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 5002,
+          "wordCount": 5006,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
           "publishedOn": "2022-10-10T09:00:00.000Z",
-          "wordCount": 5510,
+          "wordCount": 5514,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -264,7 +279,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5764,
+          "wordCount": 5767,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -279,7 +294,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7911,
+          "wordCount": 7910,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -324,7 +339,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "publishedOn": "2022-09-30T13:30:00.000Z",
-          "wordCount": 5034,
+          "wordCount": 5020,
           "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
@@ -339,7 +354,7 @@
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
           "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4860,
+          "wordCount": 4857,
           "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
@@ -369,7 +384,7 @@
           "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
           "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
           "publishedOn": "2022-09-28T11:00:00.000Z",
-          "wordCount": 4836,
+          "wordCount": 4838,
           "title": "Phone Numbers For Web Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
@@ -384,7 +399,7 @@
           "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
           "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "publishedOn": "2022-09-27T14:00:00.000Z",
-          "wordCount": 5769,
+          "wordCount": 5770,
           "title": "Five Data-Loading Patterns To Boost Web Performance",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
@@ -414,7 +429,7 @@
           "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
           "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "publishedOn": "2022-09-23T11:30:00.000Z",
-          "wordCount": 5553,
+          "wordCount": 5556,
           "title": "Lessons Learned As A Designer-Founder",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
@@ -429,7 +444,7 @@
           "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
           "link": "https://smashingmagazine.com/2022/09/angular-guide/",
           "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 5678,
+          "wordCount": 5677,
           "title": "Things I Wish I Had Known About Angular When I Started",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
@@ -445,6 +460,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Object Relational Mapping (ORM) is a technique used in creating a \"bridge\" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using",
+          "link": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "publishedOn": "2022-10-21T18:18:25.000Z",
+          "wordCount": 1465,
+          "title": "What is an ORM – The Meaning of Object Relational Mapping Database Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/markus-winkler-gLdJnQFcIXE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "author": "Omer Rosenbaum",
+          "description": "Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "publishedOn": "2022-10-21T17:12:40.000Z",
+          "wordCount": 4888,
+          "title": "How the Ethernet Protocol Works – A Complete Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Computer-Networks-Ethernet--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
+          "author": "Lane Wagner",
+          "description": "Object Oriented programming, or \"OOP\" for short, is a way of writing code that relies on the concepts of classes and objects.  The main benefit of writing your code in an object-oriented way is to structure your program into simple, reusable pieces of code. Stick with me through this",
+          "link": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
+          "publishedOn": "2022-10-20T22:24:35.000Z",
+          "wordCount": 4556,
+          "title": "Object Oriented Programming in Python – Full Crash Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/udaXTUR.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crud-operations-crud-definition-in-programming/",
+          "author": "Joel Olawanle",
+          "description": "When interacting with a database or working with an API, you'll often encounter the term CRUD. It is a popular acronym for the four basic operations or functions that a model (in the case of an API) or a database management system uses. This is an acronym everyone learning computer",
+          "link": "https://www.freecodecamp.org/news/crud-operations-crud-definition-in-programming/",
+          "publishedOn": "2022-10-20T21:54:52.000Z",
+          "wordCount": 1798,
+          "title": "CRUD Operations – Crud Definition in Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--16-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/",
           "author": "Dionysia Lemonaki",
@@ -504,46 +559,6 @@
           "wordCount": 3584,
           "title": "Linux Command Line Tutorial – How to Use Common Terminal Commands",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-sora-shimazaki-5935794--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
-          "author": "Daniel Iwugo",
-          "description": "Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi",
-          "link": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
-          "publishedOn": "2022-10-18T20:37:37.000Z",
-          "wordCount": 3012,
-          "title": "Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/image-74-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or",
-          "link": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
-          "publishedOn": "2022-10-18T19:33:59.000Z",
-          "wordCount": 1417,
-          "title": "Append a String in Python – STR Appending",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/alex-chumak-zGuBURGGmdY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/go-beginners-handbook/",
-          "author": "Flavio Copes",
-          "description": "Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Golang – also called Go – was created by Google engineers with these main goals:  * make their projects compile (and run) faster  * be simple so people can pick it",
-          "link": "https://www.freecodecamp.org/news/go-beginners-handbook/",
-          "publishedOn": "2022-10-18T18:35:37.000Z",
-          "wordCount": 5845,
-          "title": "The Go Handbook – Learn Golang for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/golang.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
-          "author": "Rajdeep Singh",
-          "description": "Tauri is a new Rust-based framework that builds an x86_64 cross-platform application for Windows, macOS, and Linux.  In this tutorial, we'll use Tauri and Next.js to build a desktop-based cross-platform application and publish it to the Snap store and AppImage. So why is building a cross-platform app, that works",
-          "link": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
-          "publishedOn": "2022-10-18T16:38:44.000Z",
-          "wordCount": 5058,
-          "title": "How to Build a Cross-Platform Application with Next.js and Tauri",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Tauri-and-nextjs--1-.png"
         }
       ]
     }
