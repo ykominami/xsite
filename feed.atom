@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-22T00:16:31.029Z</id>
+    <id>urn:2022-10-23T00:18:12.299Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T00:16:31.029Z</updated>
+    <updated>2022-10-23T00:18:12.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Upload Files to Azure using NestJS and typeORM with MySQL]]></title>
+        <id>https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/</id>
+        <link href="https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/"/>
+        <updated>2022-10-21T23:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page]]></title>
+        <id>https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/</id>
+        <link href="https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/"/>
+        <updated>2022-10-21T23:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is an ORM – The Meaning of Object Relational Mapping Database Tools]]></title>
         <id>https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/</id>
@@ -140,16 +160,6 @@ Responsive Animations for Every Screen Size and Device originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harvard CS50 – Free Computer Science University Course]]></title>
-        <id>https://www.freecodecamp.org/news/harvard-cs50/</id>
-        <link href="https://www.freecodecamp.org/news/harvard-cs50/"/>
-        <updated>2022-10-19T14:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Harvard University's CS50 is one of the most popular beginner computer science courses in the world.  We just released the entire CS50 course–all 25 hours–on the freeCodeCamp.org YouTube channel. David J. Malan is widely considered to be one of the best computer science instructors. He teaches this course. This]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make a Folder “Slit” Effect With CSS]]></title>
         <id>https://css-tricks.com/?p=374376</id>
         <link href="https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/"/>
@@ -168,16 +178,6 @@ How to Make a Folder “Slit” Effect With CSS originally published on CSS-
         <summary type="html"><![CDATA[Meet Understanding Privacy, our brand new Smashing Book to make sense of privacy, and learn how to create inclusive, safe and privacy-aware digital experiences. eBook now available, print shipping in November.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Command Line Tutorial – How to Use Common Terminal Commands]]></title>
-        <id>https://www.freecodecamp.org/news/linux-command-line-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/linux-command-line-tutorial/"/>
-        <updated>2022-10-18T23:33:44.000Z</updated>
-        <summary type="html"><![CDATA[An operating system is a set of software layers between you and your computer's hardware.  The operating system (or OS) is a piece of software that controls all other application programs and helps you manage the hardware and software of your computer. Examples of popular operating systems are Windows,]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
         </author>
     </entry>
     <entry>
@@ -445,26 +445,6 @@ Using Web Components With Next (or Any SSR Framework) originally published on CS
         <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons Learned As A Designer-Founder]]></title>
-        <id>https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/</id>
-        <link href="https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/"/>
-        <updated>2022-09-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dave Feldman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
-        <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Juan)</name>
         </author>
     </entry>
 </feed>
