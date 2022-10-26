@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374690",
+          "author": "Brecht De Ruyte",
+          "description": "The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …\nCreating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/",
+          "publishedOn": "2022-10-25T14:15:17.000Z",
+          "wordCount": 2320,
+          "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
+        },
+        {
           "id": "https://css-tricks.com/?p=374364",
           "author": "Sacha Greif",
           "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/is-there-too-much-css-now/",
           "publishedOn": "2022-10-24T12:59:16.000Z",
-          "wordCount": 2239,
+          "wordCount": 2577,
           "title": "Is There Too Much CSS Now?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
         },
@@ -27,7 +37,7 @@
           "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
           "publishedOn": "2022-10-21T12:46:27.000Z",
-          "wordCount": 2860,
+          "wordCount": 2885,
           "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
         },
@@ -127,7 +137,7 @@
           "description": "We’re still in suuuuuper early days with container queries. Too early for broad browser support, but Chromium already supports it, Safari started supporting it in version 16, and Firefox is presumably not far behind.\nMost early days conversations …\nEarly Days of Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/early-days-of-container-style-queries/",
           "publishedOn": "2022-10-12T13:06:46.000Z",
-          "wordCount": 1512,
+          "wordCount": 1755,
           "title": "Early Days of Container Style Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374330"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3088,
           "title": "Adding Fluid Typography Support to WordPress Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373905"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373798",
-          "author": "Lorenzo Bonannella",
-          "description": "Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …\nHow to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/",
-          "publishedOn": "2022-10-06T12:54:53.000Z",
-          "wordCount": 3733,
-          "title": "How to Safely Share Your Email Address on a Website",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373798"
         }
       ]
     },
@@ -171,10 +171,10 @@
         {
           "id": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "author": "hello@smashingmagazine.com (Lea Verou)",
-          "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/), is nearing the end of its response period for 2022. The survey is available in many different languages while all questions are optional, i.e. reaching 100% completion is not required. Please do make sure to [join in](https://stateofcss.com/) — it will only take a few minutes.",
+          "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
           "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3093,
+          "wordCount": 3076,
           "title": "State Of CSS Survey: Influence The Future Of CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
@@ -249,7 +249,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6061,
+          "wordCount": 6060,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -264,7 +264,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 4997,
+          "wordCount": 5000,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -279,7 +279,7 @@
           "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
           "publishedOn": "2022-10-10T09:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5513,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -294,7 +294,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5755,
+          "wordCount": 5761,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -309,7 +309,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7911,
+          "wordCount": 7917,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -324,7 +324,7 @@
           "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
           "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
           "publishedOn": "2022-10-05T12:00:00.000Z",
-          "wordCount": 4156,
+          "wordCount": 4155,
           "title": "Easy Fluid Typography With clamp() Using Sass Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
@@ -339,7 +339,7 @@
           "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
           "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7764,
+          "wordCount": 7769,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -354,7 +354,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "publishedOn": "2022-09-30T13:30:00.000Z",
-          "wordCount": 5128,
+          "wordCount": 5021,
           "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
@@ -369,7 +369,7 @@
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
           "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4853,
+          "wordCount": 4858,
           "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
@@ -399,7 +399,7 @@
           "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
           "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
           "publishedOn": "2022-09-28T11:00:00.000Z",
-          "wordCount": 4839,
+          "wordCount": 4835,
           "title": "Phone Numbers For Web Designers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
@@ -414,7 +414,7 @@
           "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
           "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "publishedOn": "2022-09-27T14:00:00.000Z",
-          "wordCount": 5775,
+          "wordCount": 5770,
           "title": "Five Data-Loading Patterns To Boost Web Performance",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
@@ -422,21 +422,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!",
-          "link": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
-          "publishedOn": "2022-09-26T10:30:00.000Z",
-          "wordCount": 3160,
-          "title": "Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
         }
       ]
     },
@@ -445,6 +430,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped",
+          "link": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "publishedOn": "2022-10-25T20:37:45.000Z",
+          "wordCount": 1725,
+          "title": "How the Python Lambda Function Works – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-45246--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "author": "Sharvin Shah",
+          "description": "Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "publishedOn": "2022-10-25T16:30:14.000Z",
+          "wordCount": 6999,
+          "title": "How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Add-a-heading.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "author": "Quincy Larson",
+          "description": "Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "publishedOn": "2022-10-25T13:52:49.000Z",
+          "wordCount": 2035,
+          "title": "freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/freeCodeCamp-Data-Science-Courses-and-Degrees.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
+          "author": "Atta ✨",
+          "description": "The Payment Request API provides a cross-browser standard that lets you collect payments, addresses, and contact information from your customers. You can then use this info to process their order. It also facilitates the exchange of this information between the browser and the website. The fundamental idea behind this is",
+          "link": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
+          "publishedOn": "2022-10-24T22:40:51.000Z",
+          "wordCount": 1958,
+          "title": "How to Use the Payment Request API in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/js-payment-request.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/",
           "author": "Valentine Gatwiri",
@@ -504,46 +529,6 @@
           "wordCount": 1916,
           "title": "Gradient Descent – Machine Learning Algorithm Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-159751.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
-          "author": "Destiny Erhabor",
-          "description": "Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of",
-          "link": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
-          "publishedOn": "2022-10-21T23:13:08.000Z",
-          "wordCount": 3173,
-          "title": "How to Upload Files to Azure using NestJS and typeORM with MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-panumas-nikhomkhai-1148820.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
-          "author": "Ophy Boamah",
-          "description": "Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important",
-          "link": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
-          "publishedOn": "2022-10-21T23:12:52.000Z",
-          "wordCount": 3971,
-          "title": "Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/WebLayouts-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Object Relational Mapping (ORM) is a technique used in creating a \"bridge\" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using",
-          "link": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
-          "publishedOn": "2022-10-21T18:18:25.000Z",
-          "wordCount": 1465,
-          "title": "What is an ORM – The Meaning of Object Relational Mapping Database Tools",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/markus-winkler-gLdJnQFcIXE-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
-          "author": "Omer Rosenbaum",
-          "description": "Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than",
-          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
-          "publishedOn": "2022-10-21T17:12:40.000Z",
-          "wordCount": 4888,
-          "title": "How the Ethernet Protocol Works – A Complete Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Computer-Networks-Ethernet--1-.png"
         }
       ]
     }

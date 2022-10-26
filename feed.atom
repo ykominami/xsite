@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T00:19:36.252Z</id>
+    <id>urn:2022-10-26T00:12:17.748Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T00:19:36.252Z</updated>
+    <updated>2022-10-26T00:12:17.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the Python Lambda Function Works – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/python-lambda-function-explained/</id>
+        <link href="https://www.freecodecamp.org/news/python-lambda-function-explained/"/>
+        <updated>2022-10-25T20:37:45.000Z</updated>
+        <summary type="html"><![CDATA[One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/"/>
+        <updated>2022-10-25T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,]]></summary>
+        <author>
+            <name>Sharvin Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Animated, Clickable Cards With the :has() Relational Pseudo Class]]></title>
+        <id>https://css-tricks.com/?p=374690</id>
+        <link href="https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/"/>
+        <updated>2022-10-25T14:15:17.000Z</updated>
+        <summary type="html"><![CDATA[The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …
+Creating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Brecht De Ruyte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/"/>
+        <updated>2022-10-25T13:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Payment Request API in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/payment-request-api-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/payment-request-api-javascript/"/>
+        <updated>2022-10-24T22:40:51.000Z</updated>
+        <summary type="html"><![CDATA[The Payment Request API provides a cross-browser standard that lets you collect payments, addresses, and contact information from your customers. You can then use this info to process their order. It also facilitates the exchange of this information between the browser and the website. The fundamental idea behind this is]]></summary>
+        <author>
+            <name>Atta ✨</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Contribute to Open Source – a Guide for Technical Writers]]></title>
         <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source-for-technical-writers/</id>
@@ -30,7 +81,7 @@
         <id>https://smashingmagazine.com/2022/10/state-css-survey-2022/</id>
         <link href="https://smashingmagazine.com/2022/10/state-css-survey-2022/"/>
         <updated>2022-10-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/), is nearing the end of its response period for 2022. The survey is available in many different languages while all questions are optional, i.e. reaching 100% completion is not required. Please do make sure to [join in](https://stateofcss.com/) — it will only take a few minutes.]]></summary>
+        <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lea Verou)</name>
         </author>
@@ -84,46 +135,6 @@
 Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sacha Greif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upload Files to Azure using NestJS and typeORM with MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/"/>
-        <updated>2022-10-21T23:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page]]></title>
-        <id>https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/</id>
-        <link href="https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/"/>
-        <updated>2022-10-21T23:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an ORM – The Meaning of Object Relational Mapping Database Tools]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/"/>
-        <updated>2022-10-21T18:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Ethernet Protocol Works – A Complete Guide]]></title>
-        <id>https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/</id>
-        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/"/>
-        <updated>2022-10-21T17:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
     <entry>
@@ -367,17 +378,6 @@ Adding Fluid Typography Support to WordPress Block Themes originally published o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Safely Share Your Email Address on a Website]]></title>
-        <id>https://css-tricks.com/?p=373798</id>
-        <link href="https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/"/>
-        <updated>2022-10-06T12:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …
-How to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lorenzo Bonannella</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Easy Fluid Typography With clamp() Using Sass Functions]]></title>
         <id>https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/</id>
         <link href="https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"/>
@@ -445,16 +445,6 @@ How to Safely Share Your Email Address on a Website originally published on CSS-
         <summary type="html"><![CDATA[You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Agustinus Theodorus)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)]]></title>
-        <id>https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/</id>
-        <link href="https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/"/>
-        <updated>2022-09-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
