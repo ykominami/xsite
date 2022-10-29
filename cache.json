@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374302",
+          "author": "Temani Afif",
+          "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
+          "publishedOn": "2022-10-28T12:45:47.000Z",
+          "wordCount": 1610,
+          "title": "Fancy Image Decorations: Outlines and Complex Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
+        },
+        {
           "id": "https://css-tricks.com/?p=374609",
           "author": "Bradley Kouchi",
           "description": "Simon Goellner (@simeydotme)’s collection of Holographic Trading Cards have captured our attention.\nUnder the hood there is a suite of filter(), background-blend-mode(), mix-blend-mode(), and clip-path() combinations that have been painstakingly tweaked to reach the desired effect. I …\nHolographic Trading Card Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/holographic-trading-card-effect/",
           "publishedOn": "2022-10-26T17:05:28.000Z",
-          "wordCount": 694,
+          "wordCount": 707,
           "title": "Holographic Trading Card Effect",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374609"
         },
@@ -47,7 +57,7 @@
           "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
           "publishedOn": "2022-10-21T12:46:27.000Z",
-          "wordCount": 2885,
+          "wordCount": 2882,
           "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
         },
@@ -117,7 +127,7 @@
           "description": "As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …\nFancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fancy-image-decorations-single-element-magic/",
           "publishedOn": "2022-10-14T15:37:28.000Z",
-          "wordCount": 3263,
+          "wordCount": 3255,
           "title": "Fancy Image Decorations: Single Element Magic",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373965"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1755,
           "title": "Early Days of Container Style Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374330"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373952",
-          "author": "Manoj Kumar",
-          "description": "There’ve been some new tutorials popping here on CSS-Tricks for working with WordPress blocks. One of them is an introduction to WordPress block development and it’s a good place to learn what blocks are and to register them in WordPress …\nRendering External API Data in WordPress Blocks on the Front End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-front-end/",
-          "publishedOn": "2022-10-11T16:15:48.000Z",
-          "wordCount": 3113,
-          "title": "Rendering External API Data in WordPress Blocks on the Front End",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373952"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
+          "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
+          "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
+          "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
+          "publishedOn": "2022-10-28T14:00:00.000Z",
+          "wordCount": 4900,
+          "title": "Motion Controls In The Browser",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
           "author": "hello@smashingmagazine.com (Alma Hoffmann)",
@@ -189,7 +204,7 @@
           "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
           "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3084,
+          "wordCount": 3083,
           "title": "State Of CSS Survey: Influence The Future Of CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
@@ -204,7 +219,7 @@
           "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
           "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
           "publishedOn": "2022-10-21T12:00:00.000Z",
-          "wordCount": 4505,
+          "wordCount": 4503,
           "title": "Futuristic CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
@@ -219,7 +234,7 @@
           "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
           "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4954,
+          "wordCount": 4951,
           "title": "What’s New In DevTools: Halloween Edition 🎃",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
           "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
           "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8361,
+          "wordCount": 8366,
           "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
@@ -264,7 +279,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6167,
+          "wordCount": 6064,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -279,7 +294,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 4997,
+          "wordCount": 5002,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -309,7 +324,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5763,
+          "wordCount": 5762,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -324,7 +339,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7911,
+          "wordCount": 7912,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -339,7 +354,7 @@
           "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
           "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
           "publishedOn": "2022-10-05T12:00:00.000Z",
-          "wordCount": 4155,
+          "wordCount": 4157,
           "title": "Easy Fluid Typography With clamp() Using Sass Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
@@ -354,7 +369,7 @@
           "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
           "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7767,
+          "wordCount": 7764,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -369,7 +384,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "publishedOn": "2022-09-30T13:30:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5021,
           "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
@@ -384,7 +399,7 @@
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
           "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4858,
+          "wordCount": 4857,
           "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/ten-principles-consider-building-security-strategy-case-study/",
-          "author": "hello@smashingmagazine.com (Wix Security Team)",
-          "description": "In this article, Wix security experts share ten “security by design” principles that emerged from their work in keeping the Wix platform secure. If you’re a developer, these tried-and-true principles can help you build your own secure applications.",
-          "link": "https://smashingmagazine.com/2022/09/ten-principles-consider-building-security-strategy-case-study/",
-          "publishedOn": "2022-09-29T12:00:00.000Z",
-          "wordCount": 5292,
-          "title": "Building Your Security Strategy (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1504d71c-665f-4bef-81ff-f09c25cc55eb/building-your-security-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1504d71c-665f-4bef-81ff-f09c25cc55eb/building-your-security-strategy.jpg"
         }
       ]
     },
@@ -415,6 +415,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/",
+          "author": "Dionysia Lemonaki",
+          "description": "Technology is changing how we live. We use and rely on web applications and electronic devices daily to complete various tasks. And behind these modern-day software programs are thousands of lines of code. Coding is one of the most valuable skills to learn today. You can not only build any",
+          "link": "https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/",
+          "publishedOn": "2022-10-28T21:03:55.000Z",
+          "wordCount": 3278,
+          "title": "The Best Programming Language to Learn – Beginners Guide to Coding",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181677.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
+          "author": "Oluwatobi Sofela",
+          "description": "CSS Flexbox gives you the tools to create basic and advanced website layouts in flexible and responsive ways. This tutorial discusses everything you need to know to use Flexbox like a pro. Table of Contents  1.  What Is Flexbox?  2.  Flex Container vs. Flex Item: What's",
+          "link": "https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
+          "publishedOn": "2022-10-28T14:28:24.000Z",
+          "wordCount": 4454,
+          "title": "CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/css-flexbox-complete-guide-codesweetly-pexels-chris-f-6664375.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-set-up-a-github-oauth-application/",
           "author": "Naomi Carrigan",
@@ -461,7 +481,7 @@
           "description": "Python is one of the most popular programming languages in the world today. It was created in 1991 by Guido van Rossum. According to van Rossum, Python is a: > “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to",
           "link": "https://www.freecodecamp.org/news/learn-python-book/",
           "publishedOn": "2022-10-27T16:38:20.000Z",
-          "wordCount": 21253,
+          "wordCount": 21270,
           "title": "Learn Python Programming – Everything You Need to Know (Free Book)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181359--4-.jpg"
         },
@@ -486,34 +506,14 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/kotlin.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/",
-          "author": "Waldek Mastykarz",
-          "description": "A common functionality that many work apps have is letting users schedule a meeting with others in their organization. Here's how to do it on Microsoft 365. Work Apps Need Work Data If your organization uses Microsoft 365, it should consider integrating it with apps that it uses for work.",
-          "link": "https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/",
-          "publishedOn": "2022-10-26T21:34:19.000Z",
-          "wordCount": 1600,
-          "title": "How to Find a Meeting Time and Schedule a Meeting on Microsoft 365",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot-2022-10-25-at-13.03.43.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/",
-          "author": "Andrej Kovacevic",
-          "description": "There’s no doubt that DevSecOps is on the rise, as the need for fast but highly secure application delivery increases. A report by Emergen Research [https://www.prnewswire.com/news-releases/devsecops-market-size-to-reach-usd-23-42-billion-in-2028--rising-need-for-repeatable-and-adaptive-processes-and-increasing-need-for-custom-code-security-are-key-factors-driving-industry-demand-says-emergen-research-301481508.html]  shows that the DevSecOps market is set to reach a $23.42 billion value in 202",
-          "link": "https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/",
-          "publishedOn": "2022-10-26T21:28:20.000Z",
-          "wordCount": 1712,
-          "title": "How Can DevSecOps Improve Cloud Security?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/devsecops-role-guide.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/",
-          "author": "Zaira Hira",
-          "description": "In programming, you use variables to store information like strings and numbers temporarily.  Variables can be used repeatedly throughout the code or by your operating system to provide values. You can edit them, overwrite them, and delete them. In this tutorial, I'll teach you what environment variables are and",
-          "link": "https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/",
-          "publishedOn": "2022-10-26T18:38:21.000Z",
-          "wordCount": 1449,
-          "title": "How to Set an Environment Variable in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Copy-of-Copy-of-read-write-files-python--3-.png"
+          "id": "https://www.freecodecamp.org/news/web-page-rendering-on-the-browser-different-methods/",
+          "author": "Favour C. Felix",
+          "description": "Today, all over the world, computers and networks are getting faster. This is good for web development and user experience in general. And the possibilities of what people can achieve have taken a massive leap forward. But although growth is evident in many places, others are left behind in this",
+          "link": "https://www.freecodecamp.org/news/web-page-rendering-on-the-browser-different-methods/",
+          "publishedOn": "2022-10-26T22:00:00.000Z",
+          "wordCount": 2342,
+          "title": "How Web Pages Get Rendered on the Browser – Different Methods Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/fav-poster.jpg"
         }
       ]
     }
