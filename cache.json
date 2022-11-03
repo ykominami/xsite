@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374697",
+          "author": "Geoff Graham",
+          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-about-css-gradients/",
+          "publishedOn": "2022-11-02T12:59:02.000Z",
+          "wordCount": 1215,
+          "title": "Some Links About CSS Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
+        },
+        {
           "id": "https://css-tricks.com/?p=374381",
           "author": "Manoj Kumar",
           "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -67,7 +77,7 @@
           "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/is-there-too-much-css-now/",
           "publishedOn": "2022-10-24T12:59:16.000Z",
-          "wordCount": 3038,
+          "wordCount": 3067,
           "title": "Is There Too Much CSS Now?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3247,
           "title": "Fancy Image Decorations: Single Element Magic",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373965"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374401",
-          "author": "Geoff Graham",
-          "description": "An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …\nSome Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/",
-          "publishedOn": "2022-10-13T20:01:00.000Z",
-          "wordCount": 2129,
-          "title": "Some Things I Took Away From An Event Apart 2022 in Denver",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374401"
         }
       ]
     },
@@ -169,6 +169,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
+          "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "publishedOn": "2022-11-02T14:00:00.000Z",
+          "wordCount": 5888,
+          "title": "Designing The Perfect Mobile Navigation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
           "author": "hello@smashingmagazine.com (William Lyon)",
           "description": "If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!",
@@ -177,11 +192,11 @@
           "wordCount": 4667,
           "title": "Putting The Graph In GraphQL With The Neo4j GraphQL Library",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg",
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg"
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
@@ -204,7 +219,7 @@
           "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
           "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
           "publishedOn": "2022-10-28T14:00:00.000Z",
-          "wordCount": 4898,
+          "wordCount": 4893,
           "title": "Motion Controls In The Browser",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
@@ -234,7 +249,7 @@
           "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
           "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3082,
+          "wordCount": 3081,
           "title": "State Of CSS Survey: Influence The Future Of CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
           "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
           "publishedOn": "2022-10-21T12:00:00.000Z",
-          "wordCount": 4505,
+          "wordCount": 4503,
           "title": "Futuristic CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
@@ -264,7 +279,7 @@
           "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
           "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4952,
+          "wordCount": 4959,
           "title": "What’s New In DevTools: Halloween Edition 🎃",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
@@ -294,7 +309,7 @@
           "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
           "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
           "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8466,
+          "wordCount": 8360,
           "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
@@ -309,7 +324,7 @@
           "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
           "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
           "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6068,
+          "wordCount": 6060,
           "title": "Effective Communication For Everyday Meetings",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
@@ -324,7 +339,7 @@
           "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
           "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
           "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 4994,
+          "wordCount": 5001,
           "title": "Sustainable Web Development Strategies Within An Organization",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
@@ -339,7 +354,7 @@
           "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
           "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
           "publishedOn": "2022-10-10T09:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5514,
           "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
@@ -354,7 +369,7 @@
           "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
           "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
           "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5763,
+          "wordCount": 5766,
           "title": "A Roadmap For Building A Business Chatbot",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
@@ -369,7 +384,7 @@
           "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
           "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
           "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7915,
+          "wordCount": 7914,
           "title": "Node.js Authentication With Twilio Verify",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
@@ -384,7 +399,7 @@
           "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
           "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
           "publishedOn": "2022-10-05T12:00:00.000Z",
-          "wordCount": 4156,
+          "wordCount": 4158,
           "title": "Easy Fluid Typography With clamp() Using Sass Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
-          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
-          "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7767,
-          "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg"
         }
       ]
     },
@@ -415,6 +415,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "Before I get into what this post is all about, I'd like to share the motivation that prompted me to write it.  I'm writing this article because I recall the first time I learned about customer segmentation or clustering. I didn't fully grasp what I was doing back then.",
+          "link": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
+          "publishedOn": "2022-11-02T18:56:39.000Z",
+          "wordCount": 3363,
+          "title": "How to Perform Customer Segmentation in Python – Machine Learning Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/-GetPaidStock.com--635e3fa0c561f.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
+          "author": "Caleb Olojo",
+          "description": "One of the methods frontend developers use the most in JavaScript is the  Array.prototype.map() method.  From having to render a list of items in the DOM to looping through a series of blog posts – and many more – the usefulness goes on and on. Say you have",
+          "link": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
+          "publishedOn": "2022-11-02T17:07:58.000Z",
+          "wordCount": 1432,
+          "title": "How to Destructure Object Properties Using array.map() in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-276502.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
+          "author": "Aaron Katz",
+          "description": "What is a cybersecurity tabletop exercise (TTX)? Cybersecurity breaches are resulting in an increasing number of losses ($4.2 million in 2021 [https://purplesec.us/resources/cyber-security-statistics/#Cybercrime]). So it's important to do as much as possible to prepare and train before experiencing a potential incident yourself.  A cybersecurity tabletop exercise (TTX) is one of",
+          "link": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
+          "publishedOn": "2022-11-02T16:41:13.000Z",
+          "wordCount": 2389,
+          "title": "How to Build an Effective Cyber Tabletop Exercise",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-fauxels-3183197.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn what the Python error TypeError: can't multiply sequence by non-int of type float means. Firstly, I will explain why this error gets raised. You will also learn how to solve the error and how to avoid it in the first place. Here is what",
+          "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
+          "publishedOn": "2022-11-02T16:36:15.000Z",
+          "wordCount": 1534,
+          "title": "TypeError: can't multiply sequence by non-int of type float [Solved Python Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-355948.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
+          "author": "Jessica Wilkins",
+          "description": "Hacktoberfest is a month long celebration of open source. And this year I participated as a maintainer for freeCodeCamp's Developer Quiz Site [https://github.com/freeCodeCamp/Developer_Quiz_Site]. I merged a total of 356 pull requests and helped a lot of new contributors get started with open source. We were able to add a total",
+          "link": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
+          "publishedOn": "2022-11-02T16:17:06.000Z",
+          "wordCount": 2431,
+          "title": "What I Learned from Maintaining a Repo During Hacktoberfest and Merging 356 PRs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screen-Shot-2022-10-31-at-5.56.25-PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
+          "author": "Andrew Brown",
+          "description": "You can learn everything you need to know to earn the Microsoft 365 Fundamentals Certification by completing this free 4-hour course. What is the Microsoft 365 Fundamentals? The Microsoft 365 Fundamentals is an entry level Microsoft certification into a broad amount of Microsoft Software-as-a-Service (SaaS) products. These Microsoft SaaS products",
+          "link": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
+          "publishedOn": "2022-11-02T14:10:44.000Z",
+          "wordCount": 1047,
+          "title": "Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ms900.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/event-delegation-javascript/",
           "author": "Dillion Megida",
@@ -454,66 +514,6 @@
           "wordCount": 1884,
           "title": "Event Bubbling in JavaScript – How Event Propagation Works with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.-event-bubbling-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
-          "author": "Kolade Chris",
-          "description": "The Python error \"TypeError: 'int' object is not subscriptable\" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the \"TypeError: 'int' object is not subscriptable Error\" Occurs You can iterate over a string,",
-          "link": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
-          "publishedOn": "2022-10-31T17:37:23.000Z",
-          "wordCount": 1298,
-          "title": "TypeError: 'int' object is not subscriptable [Solved Python Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/in_not_subable.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
-          "author": "Kayode Adeniyi",
-          "description": "Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
-          "publishedOn": "2022-10-31T17:07:04.000Z",
-          "wordCount": 1999,
-          "title": "How to Implement Infrastructure as Code with AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/network-g381392bcb_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-proxy-object/",
-          "author": "Keyur Paralkar",
-          "description": "In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *",
-          "link": "https://www.freecodecamp.org/news/javascript-proxy-object/",
-          "publishedOn": "2022-10-31T14:56:30.000Z",
-          "wordCount": 2718,
-          "title": "How JavaScript's Proxy Object Works – Explained with Example Use Cases",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Image-defs.001-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
-          "author": "Edeh Israel Chidera",
-          "description": "Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for",
-          "link": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
-          "publishedOn": "2022-10-31T14:54:20.000Z",
-          "wordCount": 2360,
-          "title": "How to Use Firebase Authentication in a React App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
-          "author": "Edan Ben-Atar",
-          "description": "SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the",
-          "link": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
-          "publishedOn": "2022-10-29T00:09:34.000Z",
-          "wordCount": 2809,
-          "title": "SEO Tips for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/10-Tips-to-Boost-Your-SEO.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
-          "author": "Logan Kilpatrick",
-          "description": "The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over",
-          "link": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
-          "publishedOn": "2022-10-28T23:54:26.000Z",
-          "wordCount": 3824,
-          "title": "Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/7-projects-1.png"
         }
       ]
     }
