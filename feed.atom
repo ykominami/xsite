@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T00:12:59.675Z</id>
+    <id>urn:2022-11-04T00:12:58.740Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T00:12:59.675Z</updated>
+    <updated>2022-11-04T00:12:58.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python lower() – How to Lowercase a Python String with the tolower Function Equivalent]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-lowercase-python-string/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-lowercase-python-string/"/>
+        <updated>2022-11-03T16:16:15.000Z</updated>
+        <summary type="html"><![CDATA[A string is a datatype that consists of characters wrapped in quotation marks. These characters can be letters, symbols, or numbers.  In Python, there are different ways of working with strings. These methods are built-in functions that change the results of the string.  For instance, if I want]]></summary>
+        <author>
+            <name>Tantoluwa Heritage Alabi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Format a Number as Currency in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/"/>
+        <updated>2022-11-03T15:29:55.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with data from an API or an external resource, you'll get these data in some general format. For example, if you are building a store, you might have data like price. This price data might be in the form of a general number such as 14340 or]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript for React Developers – Why TypeScript is Useful and How it Works]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-for-react-developers/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-for-react-developers/"/>
+        <updated>2022-11-03T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[If you've been using React for a while, you may have noticed times when the freedom and wild nature of JavaScript works against you (and not because of JS 😄). This can be especially true if you're working in a team. You may not know it, but you need TypeScript]]></summary>
+        <author>
+            <name>Daniel Asta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between Web Sockets, Web Workers, and Service Workers]]></title>
+        <id>https://css-tricks.com/?p=374731</id>
+        <link href="https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/"/>
+        <updated>2022-11-03T12:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …
+The Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Aisha Bukar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Smashing Front-End & UX Workshops]]></title>
+        <id>https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/</id>
+        <link href="https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/"/>
+        <updated>2022-11-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Sort – Algorithm Time Complexity with C++ and Java Code Example]]></title>
+        <id>https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/</id>
+        <link href="https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/"/>
+        <updated>2022-11-03T00:43:11.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn about one of the most commonly used programming algorithms – the quick sort algorithm.  You'll get to know how the algorithm works with the help of visual guides. You'll also see some code examples that will help you implement the algorithm in C++ and]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Minify – Minifying JS with a Minifier or jsmin]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/"/>
+        <updated>2022-11-02T23:50:39.000Z</updated>
+        <summary type="html"><![CDATA[You might be wondering – what is minification and how does it improve your JavaScript applications? What tools can you use to minify your JS? I'll answer these questions in this article. What is Minification? Minification is the process of "minimizing" code by removing the irrelevant parts of the code.]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeError: builtin_function_or_method object is not subscriptable Python Error [SOLVED]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/"/>
+        <updated>2022-11-02T23:43:20.000Z</updated>
+        <summary type="html"><![CDATA[As the name suggests, the error TypeError: builtin_function_or_method object is not subscriptable is a “typeerror” that occurs when you try to call a built-in function the wrong way. When a "typeerror" occurs, the program is telling you that you’re mixing up types. That means, for example, you might be concatenating]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Perform Customer Segmentation in Python – Machine Learning Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/</id>
@@ -46,26 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I Learned from Maintaining a Repo During Hacktoberfest and Merging 356 PRs]]></title>
-        <id>https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/</id>
-        <link href="https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/"/>
-        <updated>2022-11-02T16:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Hacktoberfest is a month long celebration of open source. And this year I participated as a maintainer for freeCodeCamp's Developer Quiz Site [https://github.com/freeCodeCamp/Developer_Quiz_Site]. I merged a total of 356 pull requests and helped a lot of new contributors get started with open source. We were able to add a total]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/</id>
-        <link href="https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/"/>
-        <updated>2022-11-02T14:10:44.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Microsoft 365 Fundamentals Certification by completing this free 4-hour course. What is the Microsoft 365 Fundamentals? The Microsoft 365 Fundamentals is an entry level Microsoft certification into a broad amount of Microsoft Software-as-a-Service (SaaS) products. These Microsoft SaaS products]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing The Perfect Mobile Navigation UX]]></title>
         <id>https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/</id>
         <link href="https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/"/>
@@ -87,36 +148,6 @@ Some Links About CSS Gradients originally published on CSS-Tricks, which is part
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
-        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
-        <updated>2022-11-01T17:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
-        <updated>2022-11-01T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
-        <updated>2022-11-01T14:53:34.000Z</updated>
-        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Back End]]></title>
         <id>https://css-tricks.com/?p=374381</id>
         <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/"/>
@@ -135,16 +166,6 @@ Rendering External API Data in WordPress Blocks on the Back End originally publi
         <summary type="html"><![CDATA[If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (William Lyon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Bubbling in JavaScript – How Event Propagation Works with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/event-bubbling-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-bubbling-in-javascript/"/>
-        <updated>2022-10-31T21:04:17.000Z</updated>
-        <summary type="html"><![CDATA[HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
@@ -366,17 +387,6 @@ Behind the CSScenes, October 2022 originally published on CSS-Tricks, which is p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Single Element Magic]]></title>
-        <id>https://css-tricks.com/?p=373965</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-single-element-magic/"/>
-        <updated>2022-10-14T15:37:28.000Z</updated>
-        <summary type="html"><![CDATA[As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …
-Fancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Effective Communication For Everyday Meetings]]></title>
         <id>https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/</id>
         <link href="https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/"/>
@@ -424,16 +434,6 @@ Fancy Image Decorations: Single Element Magic originally published on CSS-Tricks
         <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Godwin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Fluid Typography With clamp() Using Sass Functions]]></title>
-        <id>https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/</id>
-        <link href="https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"/>
-        <updated>2022-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
 </feed>
