@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T00:12:58.740Z</id>
+    <id>urn:2022-11-05T00:12:18.028Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-04T00:12:58.740Z</updated>
+    <updated>2022-11-05T00:12:18.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the SQL CASE Statement – with Example Challenge]]></title>
+        <id>https://www.freecodecamp.org/news/sql-case-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-case-statement/"/>
+        <updated>2022-11-04T14:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Couple Changes Coming in Chrome 108]]></title>
+        <id>https://css-tricks.com/?p=374894</id>
+        <link href="https://css-tricks.com/a-couple-changes-coming-in-chrome-108/"/>
+        <updated>2022-11-04T13:13:08.000Z</updated>
+        <summary type="html"><![CDATA[“A change to overflow on replaced elements in CSS”:
+From Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.
+This 
+…
+A Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Steps To Build Transparency In Your Remote Business]]></title>
+        <id>https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/</id>
+        <link href="https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/"/>
+        <updated>2022-11-04T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Siobhan McKeown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String to Int in Java – How to Convert a String to an Integer]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/"/>
+        <updated>2022-11-03T22:02:07.000Z</updated>
+        <summary type="html"><![CDATA[When working with a programming language, you may want to convert strings to integers. An example would be performing a mathematical operation using the value of a string variable.  In this article, you'll learn how to convert a string to an integer in Java using two methods of the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python lower() – How to Lowercase a Python String with the tolower Function Equivalent]]></title>
         <id>https://www.freecodecamp.org/news/how-to-lowercase-python-string/</id>
@@ -107,26 +151,6 @@ The Difference Between Web Sockets, Web Workers, and Service Workers originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Effective Cyber Tabletop Exercise]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/"/>
-        <updated>2022-11-02T16:41:13.000Z</updated>
-        <summary type="html"><![CDATA[What is a cybersecurity tabletop exercise (TTX)? Cybersecurity breaches are resulting in an increasing number of losses ($4.2 million in 2021 [https://purplesec.us/resources/cyber-security-statistics/#Cybercrime]). So it's important to do as much as possible to prepare and train before experiencing a potential incident yourself.  A cybersecurity tabletop exercise (TTX) is one of]]></summary>
-        <author>
-            <name>Aaron Katz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type float [Solved Python Error]]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/"/>
-        <updated>2022-11-02T16:36:15.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn what the Python error TypeError: can't multiply sequence by non-int of type float means. Firstly, I will explain why this error gets raised. You will also learn how to solve the error and how to avoid it in the first place. Here is what]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing The Perfect Mobile Navigation UX]]></title>
         <id>https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/</id>
         <link href="https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/"/>
@@ -187,6 +211,16 @@ The New CSS Media Query Range Syntax originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create Advanced Animations With CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/advanced-animations-css/</id>
+        <link href="https://smashingmagazine.com/2022/10/advanced-animations-css/"/>
+        <updated>2022-10-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yosra Emad)</name>
         </author>
     </entry>
     <entry>
@@ -373,17 +407,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, October 2022]]></title>
-        <id>https://css-tricks.com/?p=374393</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-october-2022/"/>
-        <updated>2022-10-14T21:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …
-Behind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
         </author>
     </entry>
     <entry>
