@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T00:12:18.028Z</id>
+    <id>urn:2022-11-06T00:13:46.406Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T00:12:18.028Z</updated>
+    <updated>2022-11-06T00:13:46.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TypeError: module object is not callable [Python Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/"/>
+        <updated>2022-11-04T22:17:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about the "TypeError: 'module' object is not callable" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS Landing Page Themes for Busy Developers]]></title>
+        <id>https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/</id>
+        <link href="https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/"/>
+        <updated>2022-11-04T21:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the SQL CASE Statement – with Example Challenge]]></title>
         <id>https://www.freecodecamp.org/news/sql-case-statement/</id>
@@ -128,26 +148,6 @@ The Difference Between Web Sockets, Web Workers, and Service Workers originally 
         <summary type="html"><![CDATA[As the name suggests, the error TypeError: builtin_function_or_method object is not subscriptable is a “typeerror” that occurs when you try to call a built-in function the wrong way. When a "typeerror" occurs, the program is telling you that you’re mixing up types. That means, for example, you might be concatenating]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Customer Segmentation in Python – Machine Learning Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/"/>
-        <updated>2022-11-02T18:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Before I get into what this post is all about, I'd like to share the motivation that prompted me to write it.  I'm writing this article because I recall the first time I learned about customer segmentation or clustering. I didn't fully grasp what I was doing back then.]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Destructure Object Properties Using array.map() in React]]></title>
-        <id>https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/"/>
-        <updated>2022-11-02T17:07:58.000Z</updated>
-        <summary type="html"><![CDATA[One of the methods frontend developers use the most in JavaScript is the  Array.prototype.map() method.  From having to render a list of items in the DOM to looping through a series of blog posts – and many more – the usefulness goes on and on. Say you have]]></summary>
-        <author>
-            <name>Caleb Olojo</name>
         </author>
     </entry>
     <entry>
@@ -437,26 +437,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Roadmap For Building A Business Chatbot]]></title>
-        <id>https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/</id>
-        <link href="https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/"/>
-        <updated>2022-10-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devansh Bansal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Authentication With Twilio Verify]]></title>
-        <id>https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/</id>
-        <link href="https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/"/>
-        <updated>2022-10-07T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Godwin)</name>
         </author>
     </entry>
 </feed>
