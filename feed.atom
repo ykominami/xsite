@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-07T00:13:00.240Z</id>
+    <id>urn:2022-11-08T00:13:39.046Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T00:13:00.240Z</updated>
+    <updated>2022-11-08T00:13:39.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Learn the Linux Terminal as a Beginner – Tips and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/"/>
+        <updated>2022-11-07T21:25:11.000Z</updated>
+        <summary type="html"><![CDATA[In 2017, I bought a new laptop and switched to Linux. I started off with Ubuntu (but jumped to Elementary [https://elementary.io/] later), as most people suggested it was beginner friendly.  People also suggested that I should get used to using the keyboard and terminal over a mouse to enjoy]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Toggle an Element in React using React Hooks]]></title>
+        <id>https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/"/>
+        <updated>2022-11-07T18:26:54.000Z</updated>
+        <summary type="html"><![CDATA[When building a web application, toggling an element is one of the key features you are likely to come across and may need to implement in your project. There are various ways you can toggle an element. In this article, we will take a look at how we can implement]]></summary>
+        <author>
+            <name>Deji Adesoga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS – Responsive Web Design Study Guide]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css/"/>
+        <updated>2022-11-07T18:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Cascading Style Sheets (CSS) represents the design for a web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different CSS properties. In this article, I have created a study guide for the freeCodeCamp curriculum's entire]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Availability vs Fault Tolerance vs Disaster Recovery – Explained with an Analogy]]></title>
+        <id>https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/</id>
+        <link href="https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/"/>
+        <updated>2022-11-07T17:10:24.000Z</updated>
+        <summary type="html"><![CDATA[High availability, fault tolerance and disaster recovery are important things to consider when designing a system.  These terms are sometimes used interchangeably by architects and developers. They are not, however, the same thing – and understanding the differences can save you many headaches, as well as time and money.]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coercion and Type Conversion in JavaScript – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/"/>
+        <updated>2022-11-07T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Coercion is an automatic type conversion that occurs in JavaScript when you want to perform certain operations. I'll explain what coercion is in this article. What is Type Conversion? As the name implies, type conversion is the process of converting a value from one type to another. Values in JavaScript]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing CSS Styles in a WordPress Block Theme]]></title>
+        <id>https://css-tricks.com/?p=374910</id>
+        <link href="https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/"/>
+        <updated>2022-11-07T14:05:11.000Z</updated>
+        <summary type="html"><![CDATA[The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …
+Managing CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New In Next.js 13?]]></title>
+        <id>https://smashingmagazine.com/2022/11/whats-new-nextjs-13/</id>
+        <link href="https://smashingmagazine.com/2022/11/whats-new-nextjs-13/"/>
+        <updated>2022-11-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeError: module object is not callable [Python Error Solved]]]></title>
         <id>https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/</id>
@@ -80,26 +151,6 @@ A Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Format a Number as Currency in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/"/>
-        <updated>2022-11-03T15:29:55.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with data from an API or an external resource, you'll get these data in some general format. For example, if you are building a store, you might have data like price. This price data might be in the form of a general number such as 14340 or]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript for React Developers – Why TypeScript is Useful and How it Works]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-for-react-developers/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-for-react-developers/"/>
-        <updated>2022-11-03T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[If you've been using React for a while, you may have noticed times when the freedom and wild nature of JavaScript works against you (and not because of JS 😄). This can be especially true if you're working in a team. You may not know it, but you need TypeScript]]></summary>
-        <author>
-            <name>Daniel Asta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Difference Between Web Sockets, Web Workers, and Service Workers]]></title>
         <id>https://css-tricks.com/?p=374731</id>
         <link href="https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/"/>
@@ -118,36 +169,6 @@ The Difference Between Web Sockets, Web Workers, and Service Workers originally 
         <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Sort – Algorithm Time Complexity with C++ and Java Code Example]]></title>
-        <id>https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/</id>
-        <link href="https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/"/>
-        <updated>2022-11-03T00:43:11.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn about one of the most commonly used programming algorithms – the quick sort algorithm.  You'll get to know how the algorithm works with the help of visual guides. You'll also see some code examples that will help you implement the algorithm in C++ and]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Minify – Minifying JS with a Minifier or jsmin]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/"/>
-        <updated>2022-11-02T23:50:39.000Z</updated>
-        <summary type="html"><![CDATA[You might be wondering – what is minification and how does it improve your JavaScript applications? What tools can you use to minify your JS? I'll answer these questions in this article. What is Minification? Minification is the process of "minimizing" code by removing the irrelevant parts of the code.]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError: builtin_function_or_method object is not subscriptable Python Error [SOLVED]]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/"/>
-        <updated>2022-11-02T23:43:20.000Z</updated>
-        <summary type="html"><![CDATA[As the name suggests, the error TypeError: builtin_function_or_method object is not subscriptable is a “typeerror” that occurs when you try to call a built-in function the wrong way. When a "typeerror" occurs, the program is telling you that you’re mixing up types. That means, for example, you might be concatenating]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -386,17 +407,6 @@ You’d be doing yourself a favor to read Manuel’s breakdown of …
 Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure CSS Bezier Curve Motion Paths]]></title>
-        <id>https://css-tricks.com/?p=373600</id>
-        <link href="https://css-tricks.com/pure-css-bezier-curve-motion-paths/"/>
-        <updated>2022-10-17T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas! Now, how about using Bezier curves as motion paths with CSS?
-Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>
