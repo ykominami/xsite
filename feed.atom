@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T00:11:46.018Z</id>
+    <id>urn:2022-11-16T00:12:02.014Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T00:11:46.018Z</updated>
+    <updated>2022-11-16T00:12:02.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
+        <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
+        <link href="https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/"/>
+        <updated>2022-11-15T21:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL DATE – Function, Query, Timestamp Example Format]]></title>
+        <id>https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/</id>
+        <link href="https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/"/>
+        <updated>2022-11-15T18:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add ESLint to an Angular Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/"/>
+        <updated>2022-11-15T16:39:58.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them]]></summary>
+        <author>
+            <name>Rodrigo Kamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Stratified Random Sampling? Definition and Python Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/"/>
+        <updated>2022-11-15T16:33:52.000Z</updated>
+        <summary type="html"><![CDATA[When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
+        <id>https://css-tricks.com/?p=375066</id>
+        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
+        <updated>2022-11-15T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
+Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannot use import statement outside a module [React TypeScript Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/"/>
+        <updated>2022-11-15T15:30:56.000Z</updated>
+        <summary type="html"><![CDATA[When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manage-state-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-react/"/>
+        <updated>2022-11-15T15:17:14.000Z</updated>
+        <summary type="html"><![CDATA[React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Declare an Array in JavaScript – Creating an Array in JS]]></title>
         <id>https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/</id>
@@ -46,26 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use PostgreSQL in Python]]></title>
-        <id>https://www.freecodecamp.org/news/postgresql-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/postgresql-in-python/"/>
-        <updated>2022-11-14T15:16:10.000Z</updated>
-        <summary type="html"><![CDATA[There are many different types of databases in use today. We have centralized databases, commercial databases, cloud databases, distributed databases, end-user databases, NoSQL databases, relational databases, and lots more. This article will focus on an example of a relational database (PostgreSQL) and how to query data from it. Other examples]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Skills for Open Source Maintainers – How to Effectively Maintain OSS]]></title>
-        <id>https://www.freecodecamp.org/news/practical-skills-for-open-source-maintainers/</id>
-        <link href="https://www.freecodecamp.org/news/practical-skills-for-open-source-maintainers/"/>
-        <updated>2022-11-14T14:51:31.000Z</updated>
-        <summary type="html"><![CDATA[Open source software is used by organizations large and small around the world. And it's become very popular in the tech industry.  Many people want to be involved in this open side of tech, and luckily there are many different ways to contribute.  Still, open source can be]]></summary>
-        <author>
-            <name>Njong Emy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Keyboard Accessibility: HTML And CSS (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/</id>
         <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/"/>
@@ -84,46 +135,6 @@
 Classy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacktoberfest 2022 Contributors]]></title>
-        <id>https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/</id>
-        <link href="https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/"/>
-        <updated>2022-11-11T20:25:10.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp participated in Hacktoberfest (a month-long celebration of open source) again this year. We wanted to take a moment to thank all of our wonderful contributors for the effort they put in to help us continue to improve our curriculum and learning resources. Thank you for your contributions to open]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Copy an Object – How to Clone an Obj in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/clone-an-object-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/clone-an-object-in-javascript/"/>
-        <updated>2022-11-11T17:13:52.000Z</updated>
-        <summary type="html"><![CDATA[A JavaScript object is a collection of key-value pairs. It is a non-primitive data type that can contain various data types. For example: const userDetails = {   name: "John Doe",   age: 14,   verified: false }; When working with objects in JavaScript, you may sometimes]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your Own Mastodon Instance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/"/>
-        <updated>2022-11-11T16:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Mastodon is a decentralized, federated social media platform based on the  ActivityPub [https://www.w3.org/TR/activitypub/] protocol. It allows you to follow and interact with friends across multiple instances.  In this article, you will learn how freeCodeCamp set up our own Mastodon instance - and how you can too. What is]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is YAML? The YML File Format]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/"/>
-        <updated>2022-11-11T16:20:17.000Z</updated>
-        <summary type="html"><![CDATA[YAML is one of the most popular languages for writing configuration files. In this article, you will learn how YAML compares to XML and JSON - two languages also used for creating configuration files. You will also learn some of the rules and features of the language, along with its]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -404,17 +415,6 @@ Fancy Image Decorations: Masks and Advanced Hover Effects originally published o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences]]></title>
-        <id>https://css-tricks.com/?p=374470</id>
-        <link href="https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/"/>
-        <updated>2022-10-20T19:59:46.000Z</updated>
-        <summary type="html"><![CDATA[I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …
-Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s New In DevTools: Halloween Edition 🎃]]></title>
         <id>https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/</id>
         <link href="https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/"/>
@@ -432,16 +432,6 @@ Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Pref
         <summary type="html"><![CDATA[Meet Understanding Privacy, our brand new Smashing Book to make sense of privacy, and learn how to create inclusive, safe and privacy-aware digital experiences. eBook now available, print shipping in late November.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Full-Site Editing: A Deep Dive Into The New Feature]]></title>
-        <id>https://smashingmagazine.com/2022/10/wordpress-full-site-editing/</id>
-        <link href="https://smashingmagazine.com/2022/10/wordpress-full-site-editing/"/>
-        <updated>2022-10-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
         </author>
     </entry>
 </feed>
