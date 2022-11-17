@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T00:12:02.014Z</id>
+    <id>urn:2022-11-17T00:12:39.471Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T00:12:02.014Z</updated>
+    <updated>2022-11-17T00:12:39.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
+        <id>https://css-tricks.com/?p=375385</id>
+        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
+        <updated>2022-11-16T23:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
+DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Haley Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Identity and Access Management (IAM) – Explained With an Analogy]]></title>
+        <id>https://www.freecodecamp.org/news/aws-iam-explained/</id>
+        <link href="https://www.freecodecamp.org/news/aws-iam-explained/"/>
+        <updated>2022-11-16T18:51:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Modern Documentation Site with VitePress]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/"/>
+        <updated>2022-11-16T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
+        <id>https://css-tricks.com/?p=374792</id>
+        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
+        <updated>2022-11-16T14:11:11.000Z</updated>
+        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
+Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
+        <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
+        <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
+        <updated>2022-11-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
         <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
@@ -94,26 +146,6 @@ Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Recursion is a problem-solving technique in programming. In this article, you will learn how to use recursive functions in JavaScript. What is a Recursive Function? A recursive function is a function that calls itself somewhere within the body of the function. Below is a basic example of a recursive function.]]></summary>
         <author>
             <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Python Program to Download YouTube Videos]]></title>
-        <id>https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/</id>
-        <link href="https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/"/>
-        <updated>2022-11-14T15:56:27.000Z</updated>
-        <summary type="html"><![CDATA[YouTube is a well-known internet video streaming service. There are millions of videos in categories such as education, entertainment, and travel.  You can quickly watch videos with a few mouse clicks, but downloading videos is difficult. But in a recent upgrade, YouTube now allows you to save videos in]]></summary>
-        <author>
-            <name>David Fagbuyiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash If Statement – Linux Shell If-Else Syntax Example]]></title>
-        <id>https://www.freecodecamp.org/news/bash-if-statement-linux-shell-if-else-syntax-example/</id>
-        <link href="https://www.freecodecamp.org/news/bash-if-statement-linux-shell-if-else-syntax-example/"/>
-        <updated>2022-11-14T15:37:54.000Z</updated>
-        <summary type="html"><![CDATA[When coding, you might need to make decisions based on certain conditions. Conditions are expressions that evaluate to a boolean expression (true or false ). Statements that help to execute different code branches based on certain conditions are known as conditional statements. if...else is one of the most commonly used]]></summary>
-        <author>
-            <name>Zaira Hira</name>
         </author>
     </entry>
     <entry>
@@ -380,28 +412,6 @@ Creating Animated, Clickable Cards With the :has() Relational Pseudo Class origi
         <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lea Verou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is There Too Much CSS Now?]]></title>
-        <id>https://css-tricks.com/?p=374364</id>
-        <link href="https://css-tricks.com/is-there-too-much-css-now/"/>
-        <updated>2022-10-24T12:59:16.000Z</updated>
-        <summary type="html"><![CDATA[As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …
-Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sacha Greif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Masks and Advanced Hover Effects]]></title>
-        <id>https://css-tricks.com/?p=374194</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
-        <updated>2022-10-21T12:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …
-Fancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
