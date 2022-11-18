@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375098",
+          "author": "Manoj Kumar",
+          "description": "So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …\nCreating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/",
+          "publishedOn": "2022-11-17T13:48:26.000Z",
+          "wordCount": 2768,
+          "title": "Creating a Settings UI for a Custom WordPress Block",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375098"
+        },
+        {
           "id": "https://css-tricks.com/?p=375385",
           "author": "Haley Mills",
           "description": "Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …\nDigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …\nBehind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/behind-the-csscenes-november-2022/",
           "publishedOn": "2022-11-15T15:54:32.000Z",
-          "wordCount": 2733,
+          "wordCount": 2843,
           "title": "Behind the CSScenes, November 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375066"
         },
@@ -117,7 +127,7 @@
           "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
           "publishedOn": "2022-11-01T12:57:22.000Z",
-          "wordCount": 2875,
+          "wordCount": 2878,
           "title": "Rendering External API Data in WordPress Blocks on the Back End",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
         },
@@ -150,16 +160,6 @@
           "wordCount": 722,
           "title": "Holographic Trading Card Effect",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374609"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374690",
-          "author": "Brecht De Ruyte",
-          "description": "The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …\nCreating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/",
-          "publishedOn": "2022-10-25T14:15:17.000Z",
-          "wordCount": 2739,
-          "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
+          "author": "hello@smashingmagazine.com (Alba Silvente)",
+          "description": "In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.",
+          "link": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
+          "publishedOn": "2022-11-17T10:00:00.000Z",
+          "wordCount": 10808,
+          "title": "A Guide To Image Optimization On Jamstack Sites",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
           "author": "hello@smashingmagazine.com (Noah Mashni and Mark Steadman)",
           "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
           "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
           "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5488,
+          "wordCount": 5490,
           "title": "Using Automated Test Results To Improve Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
@@ -189,7 +204,7 @@
           "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
           "publishedOn": "2022-11-14T14:00:00.000Z",
-          "wordCount": 8425,
+          "wordCount": 8424,
           "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
@@ -204,7 +219,7 @@
           "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
           "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
           "publishedOn": "2022-11-11T09:00:00.000Z",
-          "wordCount": 5944,
+          "wordCount": 6043,
           "title": "How To Search For A Developer Job Abroad",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
@@ -234,7 +249,7 @@
           "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
           "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
           "publishedOn": "2022-11-07T14:00:00.000Z",
-          "wordCount": 4111,
+          "wordCount": 4105,
           "title": "What’s New In Next.js 13?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
@@ -249,7 +264,7 @@
           "description": "Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.",
           "link": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
           "publishedOn": "2022-11-04T09:00:00.000Z",
-          "wordCount": 6358,
+          "wordCount": 6365,
           "title": "Practical Steps To Build Transparency In Your Remote Business",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg",
@@ -279,7 +294,7 @@
           "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
           "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
           "publishedOn": "2022-11-02T14:00:00.000Z",
-          "wordCount": 5836,
+          "wordCount": 5835,
           "title": "Designing The Perfect Mobile Navigation UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
@@ -309,7 +324,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
           "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
           "publishedOn": "2022-10-31T09:00:00.000Z",
-          "wordCount": 4890,
+          "wordCount": 4791,
           "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
@@ -339,7 +354,7 @@
           "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
           "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
           "publishedOn": "2022-10-28T14:00:00.000Z",
-          "wordCount": 4890,
+          "wordCount": 4891,
           "title": "Motion Controls In The Browser",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.",
           "link": "https://smashingmagazine.com/2022/10/typographic-hierarchies/",
           "publishedOn": "2022-10-26T15:00:00.000Z",
-          "wordCount": 8391,
+          "wordCount": 8488,
           "title": "Typographic Hierarchies",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg",
@@ -369,7 +384,7 @@
           "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
           "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3078,
+          "wordCount": 3075,
           "title": "State Of CSS Survey: Influence The Future Of CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
@@ -384,7 +399,7 @@
           "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
           "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
           "publishedOn": "2022-10-21T12:00:00.000Z",
-          "wordCount": 4499,
+          "wordCount": 4497,
           "title": "Futuristic CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
@@ -399,7 +414,7 @@
           "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
           "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4949,
+          "wordCount": 4947,
           "title": "What’s New In DevTools: Halloween Edition 🎃",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
@@ -430,6 +445,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
+          "author": "Njoku Samson Ebere",
+          "description": "The first time I tried to learn blockchain development, I felt overwhelmed.  This tutorial you're reading is what I wish I could send back in time to myself.  This will give you a strong foundation in blockchain development, and set you up for success in coding your own",
+          "link": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
+          "publishedOn": "2022-11-17T21:42:46.000Z",
+          "wordCount": 4642,
+          "title": "Blockchain for Beginners Tutorial – Learn to Code Smart Contracts with JavaScript and Solidity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-archie-binamira-705075.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/",
+          "author": "Houssein Badra",
+          "description": "Path-finding algorithms are algorithms used to find optimal path between two locations. These algorithms are widely used in map applications like Google Maps, for example. In this tutorial we will be building a path finding algorithm visualizer with React. It will support Breadth-First Search (BFS), Depth-First Search (DFS), adding walls,",
+          "link": "https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/",
+          "publishedOn": "2022-11-17T21:07:02.000Z",
+          "wordCount": 3856,
+          "title": "How to Create a Path-Finding Algorithm Visualizer with React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screenshot--67--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/",
+          "author": "Manish Shivanandhan",
+          "description": "If you are a pen-tester, cracking passwords is something you will be doing on a daily basis. This can include login passwords, file passwords, and almost anything that is protected using a password. John the Ripper (JtR) is a popular password-cracking tool. John supports many encryption technologies for Windows and",
+          "link": "https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/",
+          "publishedOn": "2022-11-17T18:13:08.000Z",
+          "wordCount": 2169,
+          "title": "How to Crack Passwords using John The Ripper – Pentesting Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/john-the-ripper.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-string-contains-python-3-substring-tutorial-2/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to check if a string contains a substring in Python. Checking if a string contains a substring comes in handy when you have received user input and want your program to behave a certain way – or even when you want to replace",
+          "link": "https://www.freecodecamp.org/news/python-string-contains-python-3-substring-tutorial-2/",
+          "publishedOn": "2022-11-17T16:47:04.000Z",
+          "wordCount": 2040,
+          "title": "Python String Contains – Python 3 Substring Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-kevin-ku-577585.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/",
+          "author": "Kolade Chris",
+          "description": "Data analyst and data scientist are two career paths in big data. And while they do have similarities, each requires different skills. The basic difference between the two is that a data scientist works to capture data while a data analyst tries to gain insights from that data. This article",
+          "link": "https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/",
+          "publishedOn": "2022-11-17T16:18:21.000Z",
+          "wordCount": 1759,
+          "title": "Data Analyst VS Data Scientist – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-g1c2368440_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/",
+          "author": "Beau Carnes",
+          "description": "WordPress is one of the most popular–and easiest–ways to create a website or blog. People can make all kinds of websites with WordPress. Some popular types include business websites, eCommerce sites, portfolios, and blogs. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to",
+          "link": "https://www.freecodecamp.org/news/easily-create-a-wordpress-blog-or-website/",
+          "publishedOn": "2022-11-17T15:31:07.000Z",
+          "wordCount": 856,
+          "title": "WordPress and Elementor Tutorial – How to Easily Create a Blog or Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/blog.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/aws-iam-explained/",
           "author": "Daniel Adetunji",
@@ -469,66 +544,6 @@
           "wordCount": 1163,
           "title": "SQL DATE – Function, Query, Timestamp Example Format",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/date.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
-          "author": "Rodrigo Kamada",
-          "description": "In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them",
-          "link": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
-          "publishedOn": "2022-11-15T16:39:58.000Z",
-          "wordCount": 1188,
-          "title": "How to Add ESLint to an Angular Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/angular-eslint-cover-hashnode.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and",
-          "link": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
-          "publishedOn": "2022-11-15T16:33:52.000Z",
-          "wordCount": 1858,
-          "title": "What is Stratified Random Sampling? Definition and Python Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-viktorya-sergeeva--------10275085.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still",
-          "link": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
-          "publishedOn": "2022-11-15T15:30:56.000Z",
-          "wordCount": 1238,
-          "title": "Cannot use import statement outside a module [React TypeScript Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/markus-spiske-iar-afB0QQw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
-          "author": "Beau Carnes",
-          "description": "React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
-          "publishedOn": "2022-11-15T15:17:14.000Z",
-          "wordCount": 764,
-          "title": "How to Manage State in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/reactstate.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, an array is one of the most commonly used data types. It stores multiple values and elements in one variable. These values can be of any data type — meaning you can store a string, number, boolean, and other data types in one variable. There are two standard",
-          "link": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
-          "publishedOn": "2022-11-14T21:38:37.000Z",
-          "wordCount": 1171,
-          "title": "How to Declare an Array in JavaScript – Creating an Array in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/recursion-in-javascript/",
-          "author": "Benjamin Semah",
-          "description": "Recursion is a problem-solving technique in programming. In this article, you will learn how to use recursive functions in JavaScript. What is a Recursive Function? A recursive function is a function that calls itself somewhere within the body of the function. Below is a basic example of a recursive function.",
-          "link": "https://www.freecodecamp.org/news/recursion-in-javascript/",
-          "publishedOn": "2022-11-14T18:44:18.000Z",
-          "wordCount": 1488,
-          "title": "What is Recursion in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/benjamin-semah-freecodecamp-recursion.png"
         }
       ]
     }
