@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375599",
+          "author": "Geoff Graham",
+          "description": "Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:\nThe Make Core blog has a heavy \n…\nWordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-developer-blog/",
+          "publishedOn": "2022-11-22T18:36:12.000Z",
+          "wordCount": 988,
+          "title": "WordPress Developer Blog",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375599"
+        },
+        {
           "id": "https://css-tricks.com/?p=375144",
           "author": "Liam Johnston",
           "description": "BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.\nPersonally, I think …\nTaming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/taming-the-cascade-with-bem-and-modern-css-selectors/",
           "publishedOn": "2022-11-21T13:59:15.000Z",
-          "wordCount": 2087,
+          "wordCount": 2286,
           "title": "Taming the Cascade With BEM and Modern CSS Selectors",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375144"
         },
@@ -57,7 +67,7 @@
           "description": "I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …\nFinding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/finding-front-end-development-scholarships/",
           "publishedOn": "2022-11-16T14:11:11.000Z",
-          "wordCount": 1615,
+          "wordCount": 1632,
           "title": "Finding Front-End Development Scholarships",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374792"
         },
@@ -107,7 +117,7 @@
           "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/",
           "publishedOn": "2022-11-07T14:05:11.000Z",
-          "wordCount": 4308,
+          "wordCount": 4333,
           "title": "Managing CSS Styles in a WordPress Block Theme",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2884,
           "title": "Rendering External API Data in WordPress Blocks on the Back End",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374670",
-          "author": "Preethi Selvam",
-          "description": "The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.\nThe New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-new-css-media-query-range-syntax/",
-          "publishedOn": "2022-10-31T13:05:38.000Z",
-          "wordCount": 2679,
-          "title": "The New CSS Media Query Range Syntax",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
+          "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "publishedOn": "2022-11-22T16:00:00.000Z",
+          "wordCount": 5539,
+          "title": "Optimizing A Vue App",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "author": "hello@smashingmagazine.com (Cristian Díaz)",
           "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8291,
+          "wordCount": 8288,
           "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
@@ -219,7 +234,7 @@
           "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
           "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
           "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5487,
+          "wordCount": 5489,
           "title": "Using Automated Test Results To Improve Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
           "publishedOn": "2022-11-14T14:00:00.000Z",
-          "wordCount": 8424,
+          "wordCount": 8428,
           "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
@@ -249,7 +264,7 @@
           "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
           "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
           "publishedOn": "2022-11-11T09:00:00.000Z",
-          "wordCount": 5943,
+          "wordCount": 5940,
           "title": "How To Search For A Developer Job Abroad",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
@@ -279,7 +294,7 @@
           "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
           "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
           "publishedOn": "2022-11-07T14:00:00.000Z",
-          "wordCount": 4009,
+          "wordCount": 4015,
           "title": "What’s New In Next.js 13?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
@@ -294,7 +309,7 @@
           "description": "Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.",
           "link": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
           "publishedOn": "2022-11-04T09:00:00.000Z",
-          "wordCount": 6465,
+          "wordCount": 6367,
           "title": "Practical Steps To Build Transparency In Your Remote Business",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg",
@@ -324,7 +339,7 @@
           "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
           "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
           "publishedOn": "2022-11-02T14:00:00.000Z",
-          "wordCount": 5841,
+          "wordCount": 5840,
           "title": "Designing The Perfect Mobile Navigation UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
@@ -354,7 +369,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
           "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
           "publishedOn": "2022-10-31T09:00:00.000Z",
-          "wordCount": 4790,
+          "wordCount": 4794,
           "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
@@ -369,7 +384,7 @@
           "description": "In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.",
           "link": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
           "publishedOn": "2022-10-29T12:00:00.000Z",
-          "wordCount": 4622,
+          "wordCount": 4626,
           "title": "How To Create Advanced Animations With CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png",
@@ -384,7 +399,7 @@
           "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
           "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
           "publishedOn": "2022-10-28T14:00:00.000Z",
-          "wordCount": 4888,
+          "wordCount": 4890,
           "title": "Motion Controls In The Browser",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
@@ -414,7 +429,7 @@
           "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
           "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
           "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3077,
+          "wordCount": 3082,
           "title": "State Of CSS Survey: Influence The Future Of CSS",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
@@ -431,12 +446,32 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "author": "Beau Carnes",
+          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
+          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "publishedOn": "2022-11-22T14:41:04.000Z",
+          "wordCount": 899,
+          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "publishedOn": "2022-11-22T04:12:10.000Z",
+          "wordCount": 1800,
+          "title": "How to Validate URLs in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-design-g84d0f5bf9_1920.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
           "author": "Sem Bauke",
           "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready to accept beta testers. 🧑‍💻 The mobile development team just pushed a big update with many helpful improvements. A big part of this is update is the implementation of the freeCodeCamp curriculum, AKA /learn. We are still",
           "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
           "publishedOn": "2022-11-21T16:23:56.000Z",
-          "wordCount": 947,
+          "wordCount": 977,
           "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
         },
@@ -486,8 +521,8 @@
           "description": "What is Express? Express is a Web Framework built upon Node.js. Node.js is an amazing tool for building networking services and applications. Express builds on top of its features to provide easy to use functionality that satisfies the needs of the Web Server use-case. It's Open Source, free, easy to",
           "link": "https://www.freecodecamp.org/news/the-express-handbook/",
           "publishedOn": "2022-11-18T18:52:29.000Z",
-          "wordCount": 4933,
-          "title": "The Express Handbook – Learn Express for Beginners [2022 Edition]",
+          "wordCount": 4948,
+          "title": "The Express +  Node.js Handbook – Learn the Express JavaScript Framework for Beginners [2022 Edition]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-paul-ijsendoorn-1181202.jpg"
         },
         {
@@ -509,26 +544,6 @@
           "wordCount": 5455,
           "title": "Lume SSG Handbook – How to Create a Static Blog with Lume",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Create-a-Static-Blog-with-Lume.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
-          "author": "Njoku Samson Ebere",
-          "description": "The first time I tried to learn blockchain development, I felt overwhelmed.  This tutorial you're reading is what I wish I could send back in time to myself.  This will give you a strong foundation in blockchain development, and set you up for success in coding your own",
-          "link": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
-          "publishedOn": "2022-11-17T21:42:46.000Z",
-          "wordCount": 4638,
-          "title": "Blockchain for Beginners Tutorial – Learn to Code Smart Contracts with JavaScript and Solidity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-archie-binamira-705075.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/",
-          "author": "Houssein Badra",
-          "description": "Path-finding algorithms are algorithms used to find optimal path between two locations. These algorithms are widely used in map applications like Google Maps, for example. In this tutorial we will be building a path finding algorithm visualizer with React. It will support Breadth-First Search (BFS), Depth-First Search (DFS), adding walls,",
-          "link": "https://www.freecodecamp.org/news/path-finding-algorithm-visualizer-tutorial/",
-          "publishedOn": "2022-11-17T21:07:02.000Z",
-          "wordCount": 3850,
-          "title": "How to Create a Path-Finding Algorithm Visualizer with React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screenshot--67--1.png"
         }
       ]
     }
