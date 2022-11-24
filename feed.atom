@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T00:11:26.952Z</id>
+    <id>urn:2022-11-24T00:11:39.537Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T00:11:26.952Z</updated>
+    <updated>2022-11-24T00:11:39.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Messages & Color Contrast]]></title>
+        <id>https://css-tricks.com/?p=375343</id>
+        <link href="https://css-tricks.com/apple-messages-color-contrast/"/>
+        <updated>2022-11-23T14:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Well, color me this! I was griping to myself last night about just how gosh dang hard it is to read text messages in Apple Messages. You know, not the blue bubbles that you get when messaging other iPhone users. …
+Apple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Developer Blog]]></title>
         <id>https://css-tricks.com/?p=375599</id>
@@ -386,17 +397,6 @@ Some Links About CSS Gradients originally published on CSS-Tricks, which is part
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Back End]]></title>
-        <id>https://css-tricks.com/?p=374381</id>
-        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/"/>
-        <updated>2022-11-01T12:57:22.000Z</updated>
-        <summary type="html"><![CDATA[This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …
-Rendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Putting The Graph In GraphQL With The Neo4j GraphQL Library]]></title>
         <id>https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/</id>
         <link href="https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/"/>
@@ -444,16 +444,6 @@ Rendering External API Data in WordPress Blocks on the Back End originally publi
         <summary type="html"><![CDATA[In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alma Hoffmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Of CSS Survey: Influence The Future Of CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/state-css-survey-2022/</id>
-        <link href="https://smashingmagazine.com/2022/10/state-css-survey-2022/"/>
-        <updated>2022-10-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lea Verou)</name>
         </author>
     </entry>
 </feed>
