@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-28T00:10:57.084Z</id>
+    <id>urn:2022-11-29T00:11:27.857Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T00:10:57.084Z</updated>
+    <updated>2022-11-29T00:11:27.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your React App Using Cloudflare Pages, Vercel, and Netlify]]></title>
+        <id>https://www.freecodecamp.org/news/deploy-react-app/</id>
+        <link href="https://www.freecodecamp.org/news/deploy-react-app/"/>
+        <updated>2022-11-28T21:30:24.000Z</updated>
+        <summary type="html"><![CDATA[You have been working on a React application and now you're ready to actually push it to the web. What services do you use to publish your site and make it live to the world?  Whether you're ready to release your website as a finished product or you are]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enter "Safe Boot" On Windows Operating Systems]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/"/>
+        <updated>2022-11-28T18:55:40.000Z</updated>
+        <summary type="html"><![CDATA[If you're using the Windows operating system, you might have heard the phrase "Rebooting to the safe boot" or something like that. In this tutorial, I'll explain what that means and how you can do it on your Windows machine. What is Safe Boot or Safe Mode for Windows? Safe]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Merge Arrays in JavaScript – Array Concatenation in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/"/>
+        <updated>2022-11-28T15:37:11.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple ways to merge arrays in JavaScript. You can use long or short approaches. I'll be showing 3 of them in this article. When working with arrays in JavaScript, there are cases where you want to combine multiple arrays together. For example, arrays with related data coming from]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if an Object is Empty in JavaScript – JS Java isEmpty Equivalent]]></title>
+        <id>https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/"/>
+        <updated>2022-11-28T15:29:23.000Z</updated>
+        <summary type="html"><![CDATA[An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: "John Doe",   username: "jonnydoe",   age: 14, } When working with objects, you]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newer Things to Know About Good Ol’ HTML Lists]]></title>
+        <id>https://css-tricks.com/?p=375273</id>
+        <link href="https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/"/>
+        <updated>2022-11-28T14:05:11.000Z</updated>
+        <summary type="html"><![CDATA[HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …
+Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clear Code – How to Write Code That Is Easy to Read]]></title>
+        <id>https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/</id>
+        <link href="https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/"/>
+        <updated>2022-11-28T12:26:28.000Z</updated>
+        <summary type="html"><![CDATA[This article is a follow up to a tweet I made on how I deal with my poor ability to remember implementation (code). It may seem funny to you, but I do actually tend to forget what I write shortly after writing it.]]></summary>
+        <author>
+            <name>Ryan Michael Kay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide]]></title>
         <id>https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/</id>
@@ -119,56 +180,6 @@ Taming the Cascade With BEM and Modern CSS Selectors originally published on CSS
         <summary type="html"><![CDATA[I used to think that hoisting only happened to variables declared with var. But recently, I learned that it also happens to variables declared with let and  const. I'll explain what I mean in this article. I also have a video version of this article [https://www.youtube.com/watch?v=VbHaL_J8Ex0] you can check]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Data Analytics? Data Analysis and Definition for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-data-analytics-data-analysis-and-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-data-analytics-data-analysis-and-definition-for-beginners/"/>
-        <updated>2022-11-18T21:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Data analytics is the process of collecting, organizing, and analyzing raw data from different sources. You can then gain insights that'll help organizations make important predictions and decisions.  Data analytics mostly involves studying data trends over a given period, and then extracting useful information from these trends.  Why]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In App Update - How to Notify Users of App Updates in Flutter]]></title>
-        <id>https://www.freecodecamp.org/news/in-app-update-the-flutter-way/</id>
-        <link href="https://www.freecodecamp.org/news/in-app-update-the-flutter-way/"/>
-        <updated>2022-11-18T21:50:05.000Z</updated>
-        <summary type="html"><![CDATA[When you roll out a new version of your application, you want your users to know about it. Whether you fixed a critical bug, added a new feature, or the application just runs smoother or faster – they need to know.  As application developers, we want all of our]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Express +  Node.js Handbook – Learn the Express JavaScript Framework for Beginners [2022 Edition]]]></title>
-        <id>https://www.freecodecamp.org/news/the-express-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-express-handbook/"/>
-        <updated>2022-11-18T18:52:29.000Z</updated>
-        <summary type="html"><![CDATA[What is Express? Express is a Web Framework built upon Node.js. Node.js is an amazing tool for building networking services and applications. Express builds on top of its features to provide easy to use functionality that satisfies the needs of the Web Server use-case. It's Open Source, free, easy to]]></summary>
-        <author>
-            <name>Flavio Copes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/"/>
-        <updated>2022-11-18T17:28:29.000Z</updated>
-        <summary type="html"><![CDATA[Hydra is a brute-forcing tool that helps penetration testers and ethical hackers crack the passwords of network services.  Hydra can perform rapid dictionary attacks against more than 50 protocols. This includes telnet, FTP, HTTP, HTTPS, SMB, databases, and several other services. Hydra was developed by the hacker group “The]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lume SSG Handbook – How to Create a Static Blog with Lume]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/"/>
-        <updated>2022-11-18T17:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Lume is a new static site generator based on Deno. Deno is a JavaScript-based run-time environment that supports TypeScript.  Lume is not built around any specific language. It supports Markdown, Nunjucks, TypeScript, and JavaScript by default. Lume also supports plugins. Some plugins come preinstalled by default. This is why]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
         </author>
     </entry>
     <entry>
@@ -393,17 +404,6 @@ The Difference Between Web Sockets, Web Workers, and Service Workers originally 
         <summary type="html"><![CDATA[When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Links About CSS Gradients]]></title>
-        <id>https://css-tricks.com/?p=374697</id>
-        <link href="https://css-tricks.com/some-links-about-css-gradients/"/>
-        <updated>2022-11-02T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …
-Some Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
