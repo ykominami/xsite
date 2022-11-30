@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375190",
+          "author": "Geoff Graham",
+          "description": "I’m a sucker for anything about front-end job titles.\nAnselm Hannemann:\nCSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, \n…\nMore Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/more-than-slapping-paint-on-a-website/",
+          "publishedOn": "2022-11-29T15:03:20.000Z",
+          "wordCount": 1078,
+          "title": "More Than “Slapping Paint on a Website”",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375190"
+        },
+        {
           "id": "https://css-tricks.com/?p=375273",
           "author": "Daniel Schwarz",
           "description": "HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …\nNewer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/",
           "publishedOn": "2022-11-28T14:05:11.000Z",
-          "wordCount": 2148,
+          "wordCount": 2351,
           "title": "Newer Things to Know About Good Ol’ HTML Lists",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375273"
         },
@@ -47,7 +57,7 @@
           "description": "BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.\nPersonally, I think …\nTaming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/taming-the-cascade-with-bem-and-modern-css-selectors/",
           "publishedOn": "2022-11-21T13:59:15.000Z",
-          "wordCount": 2837,
+          "wordCount": 2899,
           "title": "Taming the Cascade With BEM and Modern CSS Selectors",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375144"
         },
@@ -57,7 +67,7 @@
           "description": "What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.\nMaking Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/",
           "publishedOn": "2022-11-18T13:55:24.000Z",
-          "wordCount": 2081,
+          "wordCount": 2117,
           "title": "Making Static Noise From a Weird CSS Gradient Bug",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374993"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1363,
           "title": "A Couple Changes Coming in Chrome 108",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374731",
-          "author": "Aisha Bukar",
-          "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/",
-          "publishedOn": "2022-11-03T12:56:58.000Z",
-          "wordCount": 2143,
-          "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
           "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7309,
+          "wordCount": 7308,
           "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
@@ -189,7 +189,7 @@
           "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
           "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5634,
+          "wordCount": 5535,
           "title": "Optimizing A Vue App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
@@ -204,7 +204,7 @@
           "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8264,
+          "wordCount": 8254,
           "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
@@ -249,7 +249,7 @@
           "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
           "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
           "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5486,
+          "wordCount": 5487,
           "title": "Using Automated Test Results To Improve Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
@@ -264,7 +264,7 @@
           "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
           "publishedOn": "2022-11-14T14:00:00.000Z",
-          "wordCount": 8426,
+          "wordCount": 8425,
           "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
@@ -279,7 +279,7 @@
           "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
           "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
           "publishedOn": "2022-11-11T09:00:00.000Z",
-          "wordCount": 5940,
+          "wordCount": 5938,
           "title": "How To Search For A Developer Job Abroad",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
@@ -294,7 +294,7 @@
           "description": "Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.",
           "link": "https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/",
           "publishedOn": "2022-11-09T07:00:00.000Z",
-          "wordCount": 5635,
+          "wordCount": 5634,
           "title": "Design Systems: Useful Examples and Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/02e0d4d1-43d3-4d9d-8d3d-ad10bcc22b2c/design-systems-inspiration-resources-case-studies.jpg",
@@ -309,7 +309,7 @@
           "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
           "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
           "publishedOn": "2022-11-07T14:00:00.000Z",
-          "wordCount": 4008,
+          "wordCount": 4006,
           "title": "What’s New In Next.js 13?",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
@@ -324,7 +324,7 @@
           "description": "Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.",
           "link": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
           "publishedOn": "2022-11-04T09:00:00.000Z",
-          "wordCount": 6360,
+          "wordCount": 6358,
           "title": "Practical Steps To Build Transparency In Your Remote Business",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg",
@@ -354,7 +354,7 @@
           "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
           "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
           "publishedOn": "2022-11-02T14:00:00.000Z",
-          "wordCount": 5841,
+          "wordCount": 5839,
           "title": "Designing The Perfect Mobile Navigation UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
@@ -377,21 +377,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b51519f-b70b-41bf-9add-84c4f84cb126/neo4j-library-graphql.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
-          "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
-          "publishedOn": "2022-10-31T09:00:00.000Z",
-          "wordCount": 4788,
-          "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
         }
       ]
     },
@@ -400,6 +385,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/efficient-string-building-in-javascript/",
+          "author": "Andrey Germanov",
+          "description": "Everything you see in browser – except images and videos – is a string.  That's why you should learn how to work with them properly. This will dramatically increase the performance of your web applications, both on the frontend and backend. How Default String Concatenation Works – and Its",
+          "link": "https://www.freecodecamp.org/news/efficient-string-building-in-javascript/",
+          "publishedOn": "2022-11-29T20:39:11.000Z",
+          "wordCount": 2207,
+          "title": "How to Work with Strings in JavaScript – Tips for Efficient String Concatenation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/JavaScript-Strings.png_copy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/",
+          "author": "Solomon Eseme",
+          "description": "As a developer, it's important to understand how APIs work. APIs have helped bridged the gap between the frontend and backend. They also let you separate parts of large codebases and take advantage of a microservices architecture. This separation of concerns makes learning and building RESTful APIs an in-demand skill",
+          "link": "https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/",
+          "publishedOn": "2022-11-29T20:37:35.000Z",
+          "wordCount": 3331,
+          "title": "How to Build a RESTful API with AdonisJS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-sevenstorm-juhaszimrus-443383.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-for-null-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Null is a primitive type in JavaScript. This means you are supposed to be able to check if a variable is null with the typeof() method. But unfortunately, this returns “object” because of an historical bug [https://www.turbinelabs.com/blog/the-odd-history-of-javascripts-null] that cannot be fixed. let userName = null; console.log(typeof(userName)); // object So how",
+          "link": "https://www.freecodecamp.org/news/how-to-check-for-null-in-javascript/",
+          "publishedOn": "2022-11-29T20:16:54.000Z",
+          "wordCount": 1227,
+          "title": "JS Check for Null – Null Checking in JavaScript Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--22-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/",
+          "author": "Dillion Megida",
+          "description": "In this article, I'll show you two ways to reverse arrays in JavaScript. The reverse method of arrays reverses an array by making the last item the first, and making the first item the last. The other items in between also get reversed, respectively. Before showing you examples of the",
+          "link": "https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/",
+          "publishedOn": "2022-11-29T20:12:22.000Z",
+          "wordCount": 1076,
+          "title": "How to Reverse an Array in JavaScript – JS .reverse() Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/8.-reverse-array.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/inheritance-in-c-sharp/",
+          "author": "Edeh Israel Chidera",
+          "description": "Inheritance is a branch of object-oriented programming that helps you write reusable code. It allows you to extend the content of a class to another class.  Other pillars of object-oriented programming [/news/four-pillars-of-object-oriented-programming/] include encapsulation, polymorphism, and abstraction.  In this article, we will learn about inheritance in C# and",
+          "link": "https://www.freecodecamp.org/news/inheritance-in-c-sharp/",
+          "publishedOn": "2022-11-29T20:04:11.000Z",
+          "wordCount": 1426,
+          "title": "How Inheritance Works in C# – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/",
+          "author": "Dionysia Lemonaki",
+          "description": "As a software engineer, you may be familiar with the following quote by Leon Bambrick [https://twitter.com/secretGeek/status/7269997868?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E7269997868%7Ctwgr%5Eb9b41e252e8f8e5c2863c7a50642e9ec2ff0fe18%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmartinfowler.com%2Fbliki%2FTwoHardThings.html] : > “There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.” Indeed, naming things when programming can be challengi",
+          "link": "https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/",
+          "publishedOn": "2022-11-29T16:33:11.000Z",
+          "wordCount": 1480,
+          "title": "Snake Case VS Camel Case VS Pascal Case VS Kebab Case – What's the Difference Between Casings",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-olia-danilevich-4974912.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/",
+          "author": "Bikash Daga (Jain)",
+          "description": "Threads in Java are pre-defined classes that are available in the java.package when you write your programs. Generally, every program has one thread which is provided from the java.package.  All of these threads use the same memory, but they are independent. This means that any exception in a thread",
+          "link": "https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/",
+          "publishedOn": "2022-11-28T22:23:36.000Z",
+          "wordCount": 2344,
+          "title": "What are Threads in Java? How to Create a Thread with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Copy-of-How-Encapsulation-is-Achieved-in-Python--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/deploy-react-app/",
           "author": "Reed Barger",
@@ -429,76 +484,6 @@
           "wordCount": 1466,
           "title": "How to Merge Arrays in JavaScript – Array Concatenation in JS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/7.-merge-arrays.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: \"John Doe\",   username: \"jonnydoe\",   age: 14, } When working with objects, you",
-          "link": "https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/",
-          "publishedOn": "2022-11-28T15:29:23.000Z",
-          "wordCount": 1695,
-          "title": "How to Check if an Object is Empty in JavaScript – JS Java isEmpty Equivalent",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--21-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/",
-          "author": "Ryan Michael Kay",
-          "description": "This article is a follow up to a tweet I made on how I deal with my poor ability to remember implementation (code). It may seem funny to you, but I do actually tend to forget what I write shortly after writing it.",
-          "link": "https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/",
-          "publishedOn": "2022-11-28T12:26:28.000Z",
-          "wordCount": 3692,
-          "title": "Clear Code – How to Write Code That Is Easy to Read",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cafe-gc5d844b68_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
-          "author": "Beau Carnes",
-          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
-          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
-          "publishedOn": "2022-11-22T14:41:04.000Z",
-          "wordCount": 899,
-          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
-          "author": "Benjamin Semah",
-          "description": "A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in",
-          "link": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
-          "publishedOn": "2022-11-22T04:12:10.000Z",
-          "wordCount": 1800,
-          "title": "How to Validate URLs in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-design-g84d0f5bf9_1920.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
-          "author": "Sem Bauke",
-          "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready to accept beta testers. 🧑‍💻 The mobile development team just pushed a big update with many helpful improvements. A big part of this is update is the implementation of the freeCodeCamp curriculum, AKA /learn. We are still",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
-          "publishedOn": "2022-11-21T16:23:56.000Z",
-          "wordCount": 977,
-          "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
-          "author": "Arunachalam B",
-          "description": "Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a",
-          "link": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
-          "publishedOn": "2022-11-19T19:06:26.000Z",
-          "wordCount": 1994,
-          "title": "Linux Date Command – How to Query the Terminal to Get Dates",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/10.-Date-Command---Brief-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-let-and-const-hoisting/",
-          "author": "Dillion Megida",
-          "description": "I used to think that hoisting only happened to variables declared with var. But recently, I learned that it also happens to variables declared with let and  const. I'll explain what I mean in this article. I also have a video version of this article [https://www.youtube.com/watch?v=VbHaL_J8Ex0] you can check",
-          "link": "https://www.freecodecamp.org/news/javascript-let-and-const-hoisting/",
-          "publishedOn": "2022-11-18T23:33:20.000Z",
-          "wordCount": 1315,
-          "title": "Hoisting in JavaScript with let and const – and How it Differs from var",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/5.-let-const-hoisting.png"
         }
       ]
     }
