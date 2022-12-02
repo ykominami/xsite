@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T00:12:33.172Z</id>
+    <id>urn:2022-12-02T00:10:26.622Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T00:12:33.172Z</updated>
+    <updated>2022-12-02T00:10:26.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dijkstra's Algorithm – Explained with a Pseudocode Example]]></title>
+        <id>https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/</id>
+        <link href="https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/"/>
+        <updated>2022-12-01T20:57:53.000Z</updated>
+        <summary type="html"><![CDATA[You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL INSERT Statement – How to Insert Data into a Table in SQL]]></title>
+        <id>https://www.freecodecamp.org/news/sql-insert-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-insert-statement/"/>
+        <updated>2022-12-01T18:54:21.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *]]></summary>
+        <author>
+            <name>Annoh Karlgusta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digging Deeper Into Container Style Queries]]></title>
+        <id>https://css-tricks.com/?p=375607</id>
+        <link href="https://css-tricks.com/digging-deeper-into-container-style-queries/"/>
+        <updated>2022-12-01T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …
+Digging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FabUnit: A Smart Way To Control And Synchronize Typo And Space]]></title>
+        <id>https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/</id>
+        <link href="https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/"/>
+        <updated>2022-12-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Fabienne Bielmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule an Email in Gmail – a Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/schedule-email-in-gmail/</id>
+        <link href="https://www.freecodecamp.org/news/schedule-email-in-gmail/"/>
+        <updated>2022-11-30T22:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might want to compose an email but send it later. Well, did you know that Gmail allows you to schedule up to 100 emails? In this article, you will learn how to schedule your emails using Gmail. There's no need to install any software or plugins. What you]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String to Boolean – How to Parse a Boolean in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-to-boolean/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-to-boolean/"/>
+        <updated>2022-11-30T22:14:10.000Z</updated>
+        <summary type="html"><![CDATA[When you're manipulating data, receiving values from forms, and dealing with data in other ways, these values may take the incorrect datatype. Assume you want your value to be a boolean with either true or false, but it is stored as a string – "true" or "false." It becomes challenging]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Accessibility – Best Practices and a Checklist for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/</id>
+        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/"/>
+        <updated>2022-11-30T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[The World Health Organization reports [https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability]  that about 15% (1.2 billion) of the world's population lives with some form of disability.  This means that as developers, our focus on making websites and applications accessible helps more people use these resources.  In this article, I'll point out barriers]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Principle of Least Privilege – Definition and Meaning in Cybersecurity]]></title>
         <id>https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/</id>
@@ -40,7 +111,7 @@
         <id>https://www.freecodecamp.org/news/how-searching-works-under-the-hood/</id>
         <link href="https://www.freecodecamp.org/news/how-searching-works-under-the-hood/"/>
         <updated>2022-11-30T16:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Searching is something is something many people do every day. Whether they're word searching in documents and databases, or pattern matching in bioinformatics to detect anomalies in DNA, the applications for search are pretty much endless. And these applications require a lot of computation. Imagine searching for a particular DNA]]></summary>
+        <summary type="html"><![CDATA[Searching is something people do every day. Whether they're word searching in documents and databases, or pattern matching in bioinformatics to detect anomalies in DNA, the applications for search are pretty much endless. And these applications require a lot of computation. Imagine searching for a particular DNA sequence out of]]></summary>
         <author>
             <name>Houssein Badra</name>
         </author>
@@ -51,16 +122,6 @@
         <link href="https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/"/>
         <updated>2022-11-30T14:46:10.000Z</updated>
         <summary type="html"><![CDATA[MATLAB is a programming language and software suite used for data analysis, scientific computing, and visualization that is widely used in academia and industry.  We just published a MATLAB crash course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of MATLAB. Phillip Parisi developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Django REST Framework to Create Web APIs]]></title>
-        <id>https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/</id>
-        <link href="https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/"/>
-        <updated>2022-11-30T14:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Django REST Framework is a powerful and flexible toolkit for building Web APIs. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python and the Django REST Framework (DRF) to build a web API. Bobby Stearman developed this course. Bobby has created]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -84,46 +145,6 @@ Using The New Constrained Layout In WordPress Block Themes originally published 
         <summary type="html"><![CDATA[December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Backend as a Service for your React App]]></title>
-        <id>https://www.freecodecamp.org/news/best-backend-service-react/</id>
-        <link href="https://www.freecodecamp.org/news/best-backend-service-react/"/>
-        <updated>2022-11-29T22:56:39.000Z</updated>
-        <summary type="html"><![CDATA[If you're building an app on your own or on a budget, you may want to consider using a backend-as-a-service (BaaS). Doing so allows you to focus on the frontend of your application, but still have a full-stack app with a database, authentication, and more.  In this guide, we]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Strings in JavaScript – Tips for Efficient String Concatenation]]></title>
-        <id>https://www.freecodecamp.org/news/efficient-string-building-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/efficient-string-building-in-javascript/"/>
-        <updated>2022-11-29T20:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Everything you see in browser – except images and videos – is a string.  That's why you should learn how to work with them properly. This will dramatically increase the performance of your web applications, both on the frontend and backend. How Default String Concatenation Works – and Its]]></summary>
-        <author>
-            <name>Andrey Germanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RESTful API with AdonisJS]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/"/>
-        <updated>2022-11-29T20:37:35.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, it's important to understand how APIs work. APIs have helped bridged the gap between the frontend and backend. They also let you separate parts of large codebases and take advantage of a microservices architecture. This separation of concerns makes learning and building RESTful APIs an in-demand skill]]></summary>
-        <author>
-            <name>Solomon Eseme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Check for Null – Null Checking in JavaScript Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-check-for-null-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-check-for-null-in-javascript/"/>
-        <updated>2022-11-29T20:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Null is a primitive type in JavaScript. This means you are supposed to be able to check if a variable is null with the typeof() method. But unfortunately, this returns “object” because of an historical bug [https://www.turbinelabs.com/blog/the-odd-history-of-javascripts-null] that cannot be fixed. let userName = null; console.log(typeof(userName)); // object So how]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
@@ -363,17 +384,6 @@ CSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is 
 What CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing CSS Styles in a WordPress Block Theme]]></title>
-        <id>https://css-tricks.com/?p=374910</id>
-        <link href="https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/"/>
-        <updated>2022-11-07T14:05:11.000Z</updated>
-        <summary type="html"><![CDATA[The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …
-Managing CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
     <entry>
