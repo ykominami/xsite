@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T00:10:39.823Z</id>
+    <id>urn:2022-12-06T00:10:25.218Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T00:10:39.823Z</updated>
+    <updated>2022-12-06T00:10:25.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Better React Performance – When to Use the useCallback vs useMemo Hook]]></title>
+        <id>https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/</id>
+        <link href="https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/"/>
+        <updated>2022-12-05T18:47:25.000Z</updated>
+        <summary type="html"><![CDATA[We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how]]></summary>
+        <author>
+            <name>Daniel Asta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does WWW still belong in URLs?]]></title>
+        <id>https://css-tricks.com/?p=375184</id>
+        <link href="https://css-tricks.com/does-www-still-belong-in-urls/"/>
+        <updated>2022-12-05T15:20:22.000Z</updated>
+        <summary type="html"><![CDATA[For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …
+Does WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Pieter De Decker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Exactly is Node.js? Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-node-js/"/>
+        <updated>2022-12-05T15:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find the Size of an Array in C with the sizeof Operator]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/"/>
+        <updated>2022-12-05T14:53:05.000Z</updated>
+        <summary type="html"><![CDATA[When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Pseudo-Classes – How the :is Pseudo-Class Works with Examples]]></title>
         <id>https://www.freecodecamp.org/news/css-is-pseudo-class-explained/</id>
@@ -115,36 +156,6 @@ Digging Deeper Into Container Style Queries originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[When you're manipulating data, receiving values from forms, and dealing with data in other ways, these values may take the incorrect datatype. Assume you want your value to be a boolean with either true or false, but it is stored as a string – "true" or "false." It becomes challenging]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Accessibility – Best Practices and a Checklist for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/</id>
-        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/"/>
-        <updated>2022-11-30T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization reports [https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability]  that about 15% (1.2 billion) of the world's population lives with some form of disability.  This means that as developers, our focus on making websites and applications accessible helps more people use these resources.  In this article, I'll point out barriers]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principle of Least Privilege – Definition and Meaning in Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/"/>
-        <updated>2022-11-30T18:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Information technology has made a profound impact on our lives over the last three decades. It has helped us create global businesses, transform industries, and build powerful connections. But it has also led to increased risks in security and privacy. Individuals and businesses are vulnerable to cyber attacks now more]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install a Wifi Adapter Driver on AML-S905X-CC (Le Potato)]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/"/>
-        <updated>2022-11-30T17:27:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you might be familiar with Raspberry Pi. But you might not know about the Libre Computer AML-S905X-CC – also called Le Potato.  There was a chip shortage during the pandemic that has resulted in increased Raspberry Pi prices. Other world events have also skyrocketed the]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
     <entry>
@@ -363,17 +374,6 @@ Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is 
 Classy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 3]]></title>
-        <id>https://css-tricks.com/?p=374826</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-3/"/>
-        <updated>2022-11-11T14:42:04.000Z</updated>
-        <summary type="html"><![CDATA[After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …
-CSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
