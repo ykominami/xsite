@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T00:10:20.883Z</id>
+    <id>urn:2022-12-08T00:10:17.936Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T00:10:20.883Z</updated>
+    <updated>2022-12-08T00:10:17.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda Interview Questions and Answers]]></title>
+        <id>https://www.freecodecamp.org/news/aws-lambda-interview-questions/</id>
+        <link href="https://www.freecodecamp.org/news/aws-lambda-interview-questions/"/>
+        <updated>2022-12-07T20:54:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.]]></summary>
+        <author>
+            <name>Mugilan Ragupathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove a Specific Character from a String in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/"/>
+        <updated>2022-12-07T18:43:30.000Z</updated>
+        <summary type="html"><![CDATA[When coding in Python, there may be times when you need to remove a character from a string. Removing characters from strings is handy if you are working with user-generated inputs and need to clean your data and remove unwanted characters. Specifically, you may need to remove only one instance]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Swift Programming Language]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-swift-programming-language/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-swift-programming-language/"/>
+        <updated>2022-12-07T16:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python GUI Development Using PySide6 and Qt]]></title>
+        <id>https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/</id>
+        <link href="https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/"/>
+        <updated>2022-12-07T16:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build cross platform desktop apps for Windows, Mac and Linux. PySide6 is a Python binding for the Qt6 application framework. PySide6 allows you to use the Qt6 framework to create graphical user interfaces (GUIs) and other cross-platform applications in Python. It provides a convenient way to access]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Box Shadows to WordPress Blocks and Elements]]></title>
+        <id>https://css-tricks.com/?p=375412</id>
+        <link href="https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/"/>
+        <updated>2022-12-07T13:59:50.000Z</updated>
+        <summary type="html"><![CDATA[The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.
+Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent Calendars For Web Designers And Developers (2022 Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/</id>
+        <link href="https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/"/>
+        <updated>2022-12-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Separation of Concerns in React –How to Use Container and Presentational Components]]></title>
         <id>https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/</id>
@@ -88,26 +149,6 @@ CSS is OK, I guess. originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an API and How Does it Work? APIs for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-apis-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-apis-work/"/>
-        <updated>2022-12-05T22:56:35.000Z</updated>
-        <summary type="html"><![CDATA[When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better React Performance – When to Use the useCallback vs useMemo Hook]]></title>
-        <id>https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/</id>
-        <link href="https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/"/>
-        <updated>2022-12-05T18:47:25.000Z</updated>
-        <summary type="html"><![CDATA[We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how]]></summary>
-        <author>
-            <name>Daniel Asta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Does WWW still belong in URLs?]]></title>
         <id>https://css-tricks.com/?p=375184</id>
         <link href="https://css-tricks.com/does-www-still-belong-in-urls/"/>
@@ -116,26 +157,6 @@ CSS is OK, I guess. originally published on CSS-Tricks, which is part of the Dig
 Does WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Pieter De Decker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Exactly is Node.js? Explained for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-node-js/"/>
-        <updated>2022-12-05T15:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find the Size of an Array in C with the sizeof Operator]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/"/>
-        <updated>2022-12-05T14:53:05.000Z</updated>
-        <summary type="html"><![CDATA[When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
@@ -367,17 +388,6 @@ Finding Front-End Development Scholarships originally published on CSS-Tricks, w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
-        <id>https://css-tricks.com/?p=375066</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
-        <updated>2022-11-15T15:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
-Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Keyboard Accessibility: HTML And CSS (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/</id>
         <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/"/>
@@ -405,16 +415,6 @@ Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In Next.js 13?]]></title>
-        <id>https://smashingmagazine.com/2022/11/whats-new-nextjs-13/</id>
-        <link href="https://smashingmagazine.com/2022/11/whats-new-nextjs-13/"/>
-        <updated>2022-11-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
 </feed>
