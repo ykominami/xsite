@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T00:10:17.936Z</id>
+    <id>urn:2022-12-09T00:11:06.740Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T00:10:17.936Z</updated>
+    <updated>2022-12-09T00:11:06.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Slicing – How to Slice an Array and What Does [::-1] Mean?]]></title>
+        <id>https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/</id>
+        <link href="https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/"/>
+        <updated>2022-12-08T19:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. What is an Array? An array is a data structure that allows you to store multiple items]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Crack Hashes with Hashcat — a Practical Pentesting Guide]]></title>
+        <id>https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/</id>
+        <link href="https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/"/>
+        <updated>2022-12-08T15:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Hashing is one of the pillars of cybersecurity. From securing passwords to sensitive data, there are a variety of use cases for hashing. Hashing is often confused with encryption. A simple difference is that hashed data is not reversible. Encrypted data can be reversed using a key. This is why]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animated Background Stripes That Transition on Hover]]></title>
+        <id>https://css-tricks.com/?p=375697</id>
+        <link href="https://css-tricks.com/animated-background-stripes-transition-hover/"/>
+        <updated>2022-12-08T15:36:21.000Z</updated>
+        <summary type="html"><![CDATA[How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …
+Animated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now]]></title>
+        <id>https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/</id>
+        <link href="https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/"/>
+        <updated>2022-12-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda Interview Questions and Answers]]></title>
         <id>https://www.freecodecamp.org/news/aws-lambda-interview-questions/</id>
@@ -107,16 +148,6 @@ Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Generate a Random Number within Certain a Range in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/"/>
-        <updated>2022-12-06T16:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Let's say you want to generate a random number between 10 and 15 – how do you do that in JavaScript? I'll show you how with examples in this article. In JavaScript, there's the random method of the Math object which returns random numbers. But this has a range limitation.]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS is OK, I guess.]]></title>
         <id>https://css-tricks.com/?p=375747</id>
         <link href="https://css-tricks.com/css-is-ok-i-guess/"/>
@@ -136,16 +167,6 @@ CSS is OK, I guess. originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets]]></title>
-        <id>https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/</id>
-        <link href="https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/"/>
-        <updated>2022-12-05T23:40:58.000Z</updated>
-        <summary type="html"><![CDATA[There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -367,17 +388,6 @@ DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
-        <id>https://css-tricks.com/?p=374792</id>
-        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
-        <updated>2022-11-16T14:11:11.000Z</updated>
-        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
-Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
         <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
         <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
@@ -405,16 +415,6 @@ Finding Front-End Development Scholarships originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrew Stetsenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Systems: Useful Examples and Resources]]></title>
-        <id>https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/</id>
-        <link href="https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/"/>
-        <updated>2022-11-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
