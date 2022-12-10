@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375537",
+          "author": "Temani Afif",
+          "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/",
+          "publishedOn": "2022-12-09T14:26:39.000Z",
+          "wordCount": 3542,
+          "title": "CSS Infinite Slider Flipping Through Polaroid Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375537"
+        },
+        {
           "id": "https://css-tricks.com/?p=375697",
           "author": "Preethi",
           "description": "How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …\nAnimated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/animated-background-stripes-transition-hover/",
           "publishedOn": "2022-12-08T15:36:21.000Z",
-          "wordCount": 2431,
+          "wordCount": 2475,
           "title": "Animated Background Stripes That Transition on Hover",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375697"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2824,
           "title": "Creating a Settings UI for a Custom WordPress Block",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375098"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375385",
-          "author": "Haley Mills",
-          "description": "Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …\nDigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/",
-          "publishedOn": "2022-11-16T23:38:36.000Z",
-          "wordCount": 986,
-          "title": "DigitalOcean Welcomes Cloudways to the Family",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375385"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3882,
+          "wordCount": 3878,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -189,7 +189,7 @@
           "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
           "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
           "publishedOn": "2022-12-07T11:00:00.000Z",
-          "wordCount": 5389,
+          "wordCount": 5388,
           "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
@@ -204,7 +204,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6056,
+          "wordCount": 6058,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -219,7 +219,7 @@
           "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
           "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6418,
+          "wordCount": 6411,
           "title": "The Anatomy Of Themed Design System Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
@@ -234,7 +234,7 @@
           "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
           "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
           "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4979,
+          "wordCount": 4980,
           "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
@@ -264,7 +264,7 @@
           "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
           "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7310,
+          "wordCount": 7315,
           "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
@@ -279,7 +279,7 @@
           "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
           "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5536,
+          "wordCount": 5531,
           "title": "Optimizing A Vue App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
@@ -339,7 +339,7 @@
           "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
           "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
           "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5489,
+          "wordCount": 5491,
           "title": "Using Automated Test Results To Improve Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
@@ -354,7 +354,7 @@
           "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
           "publishedOn": "2022-11-14T14:00:00.000Z",
-          "wordCount": 8424,
+          "wordCount": 8429,
           "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
@@ -386,12 +386,52 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
+          "author": "Arunachalam B",
+          "description": "Can you imagine what it would be like to have a laptop but not to be able to access the internet? If you're a developer (or an aspiring one), you'll likely use the internet every day. So you should learn a few useful networking commands.  To learn networking in",
+          "link": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
+          "publishedOn": "2022-12-09T18:54:20.000Z",
+          "wordCount": 2391,
+          "title": "Linux Networking Commands You Should Know as a Beginner",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Networking-in-Linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/",
+          "author": "Megan Kaczanowski",
+          "description": "What's the difference between data privacy and data security? Data security is about protecting your data from unauthorized access (basically ensuring that hackers can't access your data). Data privacy, on the other hand, is about giving you more granular control over how (and by whom) your data is accessed, used,",
+          "link": "https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/",
+          "publishedOn": "2022-12-09T18:51:30.000Z",
+          "wordCount": 2016,
+          "title": "How to Improve Your Data Privacy – A Personal Guide to Protecting Your Online Information",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-antoni-shkraba-5475793.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/",
+          "author": "Victor Eke",
+          "description": "If you use the internet, you've likely used a dropdown menu before. They primarily serve two purposes: collecting user input in web forms, and implementing action/navigation menus in web applications. Dropdowns are one of the best ways to offer numerous options for a similar collection of elements without needing to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/",
+          "publishedOn": "2022-12-09T18:27:56.000Z",
+          "wordCount": 1906,
+          "title": "How to Build a Dropdown Menu with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/how-to-build-a-dropdown-menu-with-javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/",
+          "author": "Ogundiran Ayobami",
+          "description": "Learning the syntax of a programming language is key if you want to use that language effectively. This is true for both new and experienced developers. And one of the most important things to pay attention to while learning a programming language is whether the code you're dealing with is",
+          "link": "https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/",
+          "publishedOn": "2022-12-08T23:44:58.000Z",
+          "wordCount": 2128,
+          "title": "Statement vs Expression – What's the Difference in Programming?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/kaleidico-7lryofJ0H9s-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/",
           "author": "Dillion Megida",
-          "description": "Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. What is an Array? An array is a data structure that allows you to store multiple items",
+          "description": "Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. If you like watching video content to supplement your reading, here's a video version [https://www.youtube.com/watch?v=sgXInOpc4Iw] of this",
           "link": "https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/",
           "publishedOn": "2022-12-08T19:13:33.000Z",
-          "wordCount": 2252,
+          "wordCount": 2263,
           "title": "Python Slicing – How to Slice an Array and What Does [::-1] Mean?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/10.-slide-array.png"
         },
@@ -444,46 +484,6 @@
           "wordCount": 825,
           "title": "Python GUI Development Using PySide6 and Qt",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pyside6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
-          "author": "Keyur Paralkar",
-          "description": "Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes",
-          "link": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
-          "publishedOn": "2022-12-06T21:43:19.000Z",
-          "wordCount": 2388,
-          "title": "Separation of Concerns in React –How to Use Container and Presentational Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/container-and-presentational-component-pattern-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linux-top/",
-          "author": "Anthony Behery",
-          "description": "You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command",
-          "link": "https://www.freecodecamp.org/news/linux-top/",
-          "publishedOn": "2022-12-06T21:09:33.000Z",
-          "wordCount": 1363,
-          "title": "How to View Your Linux Processes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Screenshot-2022-12-05-235534.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
-          "author": "Marco Venturi",
-          "description": "When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
-          "publishedOn": "2022-12-06T18:11:07.000Z",
-          "wordCount": 1896,
-          "title": "How to Automate Your Business Strategy with Python and APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-node-modules/",
-          "author": "Benjamin Semah",
-          "description": "Every Node.js application has modules. These modules form part of the building blocks of the application. They help developers work faster and write more structured code. In this tutorial, you will learn what node modules are. You will also learn about the three types of node modules. And we'll go",
-          "link": "https://www.freecodecamp.org/news/what-are-node-modules/",
-          "publishedOn": "2022-12-06T17:54:33.000Z",
-          "wordCount": 1383,
-          "title": "What Are Node Modules and How Do You Use Them?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/stock.jpg"
         }
       ]
     }
