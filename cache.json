@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375722",
+          "author": "Geoff Graham",
+          "description": "Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …\nSetting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/",
+          "publishedOn": "2022-12-12T20:56:58.000Z",
+          "wordCount": 807,
+          "title": "Setting up a screen reader testing environment on your computer",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375722"
+        },
+        {
+          "id": "https://css-tricks.com/?p=375577",
+          "author": "Manoj Kumar",
+          "description": "We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …\nSaving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/",
+          "publishedOn": "2022-12-12T14:06:39.000Z",
+          "wordCount": 1565,
+          "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
+        },
+        {
           "id": "https://css-tricks.com/?p=375537",
           "author": "Temani Afif",
           "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -107,7 +127,7 @@
           "description": "HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …\nNewer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/",
           "publishedOn": "2022-11-28T14:05:11.000Z",
-          "wordCount": 2706,
+          "wordCount": 2850,
           "title": "Newer Things to Know About Good Ol’ HTML Lists",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375273"
         },
@@ -140,26 +160,6 @@
           "wordCount": 3256,
           "title": "Taming the Cascade With BEM and Modern CSS Selectors",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375144"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374993",
-          "author": "Temani Afif",
-          "description": "What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.\nMaking Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/",
-          "publishedOn": "2022-11-18T13:55:24.000Z",
-          "wordCount": 2193,
-          "title": "Making Static Noise From a Weird CSS Gradient Bug",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374993"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375098",
-          "author": "Manoj Kumar",
-          "description": "So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …\nCreating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/",
-          "publishedOn": "2022-11-17T13:48:26.000Z",
-          "wordCount": 2824,
-          "title": "Creating a Settings UI for a Custom WordPress Block",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375098"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
+          "author": "hello@smashingmagazine.com (Keima Kai)",
+          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
+          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
+          "publishedOn": "2022-12-12T13:00:00.000Z",
+          "wordCount": 5849,
+          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3886,
+          "wordCount": 3884,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -189,7 +204,7 @@
           "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
           "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
           "publishedOn": "2022-12-07T11:00:00.000Z",
-          "wordCount": 5389,
+          "wordCount": 5391,
           "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
@@ -204,7 +219,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6059,
+          "wordCount": 6056,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -219,7 +234,7 @@
           "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
           "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6410,
+          "wordCount": 6415,
           "title": "The Anatomy Of Themed Design System Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
@@ -234,7 +249,7 @@
           "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
           "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
           "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4983,
+          "wordCount": 4981,
           "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
@@ -249,7 +264,7 @@
           "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
           "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
           "publishedOn": "2022-11-30T11:15:00.000Z",
-          "wordCount": 5147,
+          "wordCount": 5140,
           "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
@@ -264,7 +279,7 @@
           "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
           "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7307,
+          "wordCount": 7313,
           "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
@@ -279,7 +294,7 @@
           "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
           "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5536,
+          "wordCount": 5532,
           "title": "Optimizing A Vue App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
@@ -294,7 +309,7 @@
           "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8266,
+          "wordCount": 8265,
           "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
@@ -339,7 +354,7 @@
           "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
           "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
           "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5494,
+          "wordCount": 5491,
           "title": "Using Automated Test Results To Improve Accessibility",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
@@ -354,7 +369,7 @@
           "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
           "publishedOn": "2022-11-14T14:00:00.000Z",
-          "wordCount": 8427,
+          "wordCount": 8428,
           "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
@@ -370,6 +385,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Welcome to the amazing world of programming. This is one of the most useful and powerful skills that you can learn and use to make your visions come true.  In this handbook, we will dive into why programming is important, its applications, its basic concepts, and the skills you",
+          "link": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
+          "publishedOn": "2022-12-12T17:10:03.000Z",
+          "wordCount": 8117,
+          "title": "What is Programming? A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/what-is-programming.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
           "author": "Joel Olawanle",
@@ -459,16 +484,6 @@
           "wordCount": 2065,
           "title": "How to Remove a Specific Character from a String in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-josh-sorenson-1714208.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
-          "author": "Beau Carnes",
-          "description": "Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created",
-          "link": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
-          "publishedOn": "2022-12-07T16:51:51.000Z",
-          "wordCount": 716,
-          "title": "Learn the Swift Programming Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/swift.png"
         }
       ]
     }
