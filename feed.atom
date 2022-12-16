@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T00:10:22.332Z</id>
+    <id>urn:2022-12-16T00:09:36.334Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T00:10:22.332Z</updated>
+    <updated>2022-12-16T00:09:36.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/"/>
+        <updated>2022-12-15T19:08:27.000Z</updated>
+        <summary type="html"><![CDATA[EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Get Request – How to Make an HTTP Request in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-get-request-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-get-request-tutorial/"/>
+        <updated>2022-12-15T19:05:24.000Z</updated>
+        <summary type="html"><![CDATA[When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI for Two-Player Turn-based Games]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/"/>
+        <updated>2022-12-15T18:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that]]></summary>
+        <author>
+            <name>Houssein Badra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Math Equations in the Linux Terminal]]></title>
+        <id>https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/</id>
+        <link href="https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/"/>
+        <updated>2022-12-15T17:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Difference Between an Independent Variable and a Dependent Variable?]]></title>
+        <id>https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/</id>
+        <link href="https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/"/>
+        <updated>2022-12-15T17:32:36.000Z</updated>
+        <summary type="html"><![CDATA[The meaning of the word "variable" depends on the field where it's being used. In programming, a variable is a particular piece of data that holds a value. Depending on the configuration, that value can change or remain fixed. For instance, in JavaScript, you can implement a variable to change]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
+        <id>https://css-tricks.com/?p=375714</id>
+        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
+        <updated>2022-12-15T15:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
+It’s a bit of a brain-twister to reason …
+So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Prioritize User Security When Collecting Offline Data]]></title>
+        <id>https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/</id>
+        <link href="https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/"/>
+        <updated>2022-12-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Links on AI-Related Stuff]]></title>
         <id>https://css-tricks.com/?p=376201</id>
@@ -31,7 +103,7 @@ Some Links on AI-Related Stuff originally published on CSS-Tricks, which is part
         <id>https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/</id>
         <link href="https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/"/>
         <updated>2022-12-14T18:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This tutorial not only covers creating a basic card game using JavaScript but]]></summary>
+        <summary type="html"><![CDATA[Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This course was created by Gavin Lon who is an experienced software developer]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -92,26 +164,6 @@ Holiday Snowtacular 2022 originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Shells for Beginners – Bash, Zsh, and Fish Explained]]></title>
-        <id>https://www.freecodecamp.org/news/linux-shells-explained/</id>
-        <link href="https://www.freecodecamp.org/news/linux-shells-explained/"/>
-        <updated>2022-12-13T21:55:05.000Z</updated>
-        <summary type="html"><![CDATA[When you open up your terminal, chances are that it uses Bash as its UNIX shell environment. But other "shell" environments exist. There are other environments such as the C Shell, Korn Shell, Z Shell, and even the Fish Shell. All of these different shell environments have their own pros]]></summary>
-        <author>
-            <name>Anthony Behery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Calculate Percentage Differences Between Two Numbers in Excel - Cell Percentage Change Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/"/>
-        <updated>2022-12-13T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are powerful and awesome. 💪  In this tutorial I will show you four ways to find the percentage difference between two numbers in Excel. I'll also show you how to use custom functions in Google Sheets. 👍 The four techniques (and one bonus) we'll use are:  1.]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Understanding Privacy: Protect Your Users, Protect Yourself]]></title>
         <id>https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/</id>
         <link href="https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/"/>
@@ -140,36 +192,6 @@ Holiday Snowtacular 2022 originally published on CSS-Tricks, which is part of th
 A Few Times Container Size Queries Would Have Helped Me Out originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Dan Christofi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Injection Attacks – How to Use SQLMap to Find Database Vulnerabilities]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-protect-against-sql-injection-attacks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-protect-against-sql-injection-attacks/"/>
-        <updated>2022-12-13T00:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Databases are the backbone of any application. They give us a way to store and organize large amounts of data in a way that we can easily access, manage, and update it. From small businesses to large-scale enterprises, databases play a critical role in keeping the systems up and running.]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an Algorithm? Algorithm Definition for Computer Science Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-an-algorithm-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-algorithm-definition-for-beginners/"/>
-        <updated>2022-12-13T00:38:26.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a student and want to study computer science, or you’re learning to code, then there’s a chance you’ve heard of algorithms. Simply put, an algorithm is a set of instructions that performs a particular action. Contrary to popular belief, an algorithm is not some piece of code that]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove an Item from a List in C#]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-remove-an-item-from-a-list-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-an-item-from-a-list-in-c/"/>
-        <updated>2022-12-13T00:28:02.000Z</updated>
-        <summary type="html"><![CDATA[While building your application in C#, you might need to store and manipulate sets of data. The List class is a member of the System.Collections.Generic  namespace and you use it to store multiple objects of the same datatype. The List class represents a collection of strongly typed lists of]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
         </author>
     </entry>
     <entry>
@@ -351,20 +373,6 @@ Using The New Constrained Layout In WordPress Block Themes originally published 
         <summary type="html"><![CDATA[December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Than “Slapping Paint on a Website”]]></title>
-        <id>https://css-tricks.com/?p=375190</id>
-        <link href="https://css-tricks.com/more-than-slapping-paint-on-a-website/"/>
-        <updated>2022-11-29T15:03:20.000Z</updated>
-        <summary type="html"><![CDATA[I’m a sucker for anything about front-end job titles.
-Anselm Hannemann:
-CSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, 
-…
-More Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
