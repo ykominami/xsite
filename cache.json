@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375621",
+          "author": "Temani Afif",
+          "description": "In this series, we’ve been making image sliders with nothing but HTML and CSS. The idea is that we can use the same markup but different CSS to get wildly different results, no matter how many images we toss …\nCSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-infinite-3d-sliders/",
+          "publishedOn": "2022-12-16T14:58:08.000Z",
+          "wordCount": 2796,
+          "title": "CSS Infinite 3D Sliders",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375621"
+        },
+        {
           "id": "https://css-tricks.com/?p=375714",
           "author": "Geoff Graham",
           "description": "The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.\nIt’s a bit of a brain-twister to reason …\nSo, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-youd-like-to-animate-the-display-property/",
           "publishedOn": "2022-12-15T15:41:06.000Z",
-          "wordCount": 1258,
+          "wordCount": 1375,
           "title": "So, you’d like to animate the display property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375714"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2346,
           "title": "Digging Deeper Into Container Style Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375607"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375278",
-          "author": "Ganesh Dahal",
-          "description": "One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …\nUsing The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/",
-          "publishedOn": "2022-11-30T14:11:10.000Z",
-          "wordCount": 3151,
-          "title": "Using The New Constrained Layout In WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375278"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
+          "author": "hello@smashingmagazine.com (Ashish Bogawat)",
+          "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
+          "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
+          "publishedOn": "2022-12-16T10:00:00.000Z",
+          "wordCount": 5646,
+          "title": "Optimizing Your Design Workflow With Tools",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/",
           "author": "hello@smashingmagazine.com (Suzanne Scacca)",
@@ -204,7 +219,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5609,
+          "wordCount": 5615,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -234,7 +249,7 @@
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3878,
+          "wordCount": 3877,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -264,7 +279,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6047,
+          "wordCount": 6049,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -279,7 +294,7 @@
           "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
           "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6409,
+          "wordCount": 6408,
           "title": "The Anatomy Of Themed Design System Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
@@ -294,7 +309,7 @@
           "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
           "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
           "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4974,
+          "wordCount": 4975,
           "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
@@ -309,7 +324,7 @@
           "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
           "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
           "publishedOn": "2022-11-30T11:15:00.000Z",
-          "wordCount": 5135,
+          "wordCount": 5138,
           "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
@@ -324,7 +339,7 @@
           "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
           "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7307,
+          "wordCount": 7303,
           "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
@@ -339,7 +354,7 @@
           "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
           "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5533,
+          "wordCount": 5522,
           "title": "Optimizing A Vue App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
@@ -354,7 +369,7 @@
           "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8260,
+          "wordCount": 8257,
           "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
@@ -377,36 +392,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
-          "author": "hello@smashingmagazine.com (Alba Silvente)",
-          "description": "In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.",
-          "link": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
-          "publishedOn": "2022-11-17T10:00:00.000Z",
-          "wordCount": 10808,
-          "title": "A Guide To Image Optimization On Jamstack Sites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
-          "author": "hello@smashingmagazine.com (Noah Mashni and Mark Steadman)",
-          "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
-          "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
-          "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5484,
-          "title": "Using Automated Test Results To Improve Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg"
         }
       ]
     },
@@ -415,6 +400,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
+          "author": "Hillary Nyakundi",
+          "description": "In this digital age, APIs have become the cornerstone of how data is shared and processed. But many users are often unaware of the fact that they are putting their trust in an API and not a person. This is why it's important to leverage API testing techniques to ensure",
+          "link": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
+          "publishedOn": "2022-12-16T21:25:46.000Z",
+          "wordCount": 1908,
+          "title": "API Testing Best Practices – How to Test APIs for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/OOP--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/accessibility-best-practices-to-make-web-apps-accessible/",
+          "author": "Shruti Kapoor",
+          "description": "Anyone should be able to use your websites and apps - both people with disabilities and those without. This will make your website accessible. Think about the last site you built, or your favorite site. Are you confident that anyone can use your site and perform the critical actions it",
+          "link": "https://www.freecodecamp.org/news/accessibility-best-practices-to-make-web-apps-accessible/",
+          "publishedOn": "2022-12-16T21:01:26.000Z",
+          "wordCount": 1765,
+          "title": "Accessibility Best Practices – What to Remember When Building Accessible Web Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/ben-kolde-bs2Ba7t69mM-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/",
+          "author": "David Clinton",
+          "description": "We've been hearing a lot about artificial intelligence and natural language processing – and in particular about the latest version of OpenAI's GPT – for weeks.  The recent release of GPT 3.5, and specifically the very new ChatGPT tool, is definitely a huge leap forward. You may have read",
+          "link": "https://www.freecodecamp.org/news/pair-programming-with-the-chatgpt-ai-how-well-does-gpt-3-5-understand-bash/",
+          "publishedOn": "2022-12-16T17:51:07.000Z",
+          "wordCount": 1896,
+          "title": "Pair Programming with the ChatGPT AI – Does GPT-3.5 Understand Bash?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-pavel-danilyuk-8438951.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
+          "author": "Ashutosh Krishna",
+          "description": "Automated chatbots are quite useful for stimulating interactions. We can create chatbots for Slack, Discord, and other platforms.  In this article, I'll teach you how to build a Telegram chatbot that will tell you your horoscope. So, let’s get started! How to Get Your Bot Token To set up",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
+          "publishedOn": "2022-12-16T17:42:10.000Z",
+          "wordCount": 1988,
+          "title": "How to Create a Telegram Bot using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Telegram-Bot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/",
+          "author": "Eamonn Cottrell",
+          "description": "ROM stands for Rough Order of Magnitude. It is a project management guideline to determine the estimated range of costs for a project. This article will explain:  1. Who should use a ROM  2. When to use a ROM  3. How to calculate a ROM  4.",
+          "link": "https://www.freecodecamp.org/news/what-is-a-rom-price-and-cost-estimate-2/",
+          "publishedOn": "2022-12-16T17:27:32.000Z",
+          "wordCount": 1151,
+          "title": "What is a ROM? ROM Price and Cost Estimate",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/12.15.22-What-is-a-ROM.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
+          "author": "Dillion Megida",
+          "description": "display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do",
+          "link": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
+          "publishedOn": "2022-12-15T23:13:53.000Z",
+          "wordCount": 1707,
+          "title": "CSS display:none and visibility:hidden – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/11.-display-visibility-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
           "author": "Daniel Adetunji",
@@ -451,69 +496,9 @@
           "description": "Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )",
           "link": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
           "publishedOn": "2022-12-15T17:40:54.000Z",
-          "wordCount": 2273,
+          "wordCount": 2251,
           "title": "How to Solve Math Equations in the Linux Terminal",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Evaluate-expression-on-Terminal.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/",
-          "author": "Kolade Chris",
-          "description": "The meaning of the word \"variable\" depends on the field where it's being used. In programming, a variable is a particular piece of data that holds a value. Depending on the configuration, that value can change or remain fixed. For instance, in JavaScript, you can implement a variable to change",
-          "link": "https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/",
-          "publishedOn": "2022-12-15T17:32:36.000Z",
-          "wordCount": 1461,
-          "title": "What is the Difference Between an Independent Variable and a Dependent Variable?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/snowy-4689675_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
-          "author": "Joel Olawanle",
-          "description": "The .from() method is a static method of the Array object in JavaScript ES6. It creates a new, shallow-copied Array instance from an array-like or iterable object like map and set. This method returns an array from any object with a length property. You can use it to create an",
-          "link": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
-          "publishedOn": "2022-12-14T21:15:06.000Z",
-          "wordCount": 1466,
-          "title": "JavaScript Range – How to Create an Array of Numbers with .from() in JS ES6",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
-          "author": "Beau Carnes",
-          "description": "Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This course was created by Gavin Lon who is an experienced software developer",
-          "link": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
-          "publishedOn": "2022-12-14T18:56:08.000Z",
-          "wordCount": 772,
-          "title": "Improve Your JavaScript Skills by Coding a Card Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/jsgavin.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Next.js is a popular framework for building server-rendered JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn how to use Next.js. Next.js is built on top of React, which is a popular JavaScript library for building user interfaces. Next.js makes it",
-          "link": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
-          "publishedOn": "2022-12-14T18:35:12.000Z",
-          "wordCount": 814,
-          "title": "Learn Next.js for Scalable Web Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Next.js-Course.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "When coding in Python, there may be times when you need to open and read the contents of a text file. Luckily enough, there are several ways to do this in Python. The language has many built-in functions, methods, and keywords that you can use to create, write, read and",
-          "link": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
-          "publishedOn": "2022-12-14T17:58:48.000Z",
-          "wordCount": 1795,
-          "title": "How to Read a File Line by Line in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-mateusz-dach-450035.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
-          "author": "Zubin Pratap",
-          "description": "When I changed careers from lawyer to software engineer [/news/from-lawyer-to-google-engineer/] in 2018, I never imagined that I’d enjoy being a developer as much as I do. I also never thought I'd end up working for amazing organizations like Google [/news/coding-interview-prep-for-big-tech/]  and Chainlink labs.  After 15 years in law",
-          "link": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
-          "publishedOn": "2022-12-14T15:45:30.000Z",
-          "wordCount": 19072,
-          "title": "Learn Solidity – A Handbook for Smart Contract Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-pixabay-417173--2-.jpg"
         }
       ]
     }
