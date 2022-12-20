@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376297",
+          "author": "Geoff Graham",
+          "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-playground-run-in-browser/",
+          "publishedOn": "2022-12-19T16:52:45.000Z",
+          "wordCount": 1012,
+          "title": "WordPress Playground: Running WordPress in the Browser",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376297"
+        },
+        {
           "id": "https://css-tricks.com/?p=375621",
           "author": "Temani Afif",
           "description": "In this series, we’ve been making image sliders with nothing but HTML and CSS. The idea is that we can use the same markup but different CSS to get wildly different results, no matter how many images we toss …\nCSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-infinite-3d-sliders/",
           "publishedOn": "2022-12-16T14:58:08.000Z",
-          "wordCount": 2796,
+          "wordCount": 2852,
           "title": "CSS Infinite 3D Sliders",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375621"
         },
@@ -27,7 +37,7 @@
           "description": "The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.\nIt’s a bit of a brain-twister to reason …\nSo, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-youd-like-to-animate-the-display-property/",
           "publishedOn": "2022-12-15T15:41:06.000Z",
-          "wordCount": 1375,
+          "wordCount": 1425,
           "title": "So, you’d like to animate the display property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375714"
         },
@@ -47,7 +57,7 @@
           "description": "Suzy Naschansky from the HTMHell Advent Calendar:\n<h2 id=\"article1-heading\"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id=\"article1-read-more\" aria-labelledby=\"article1-read-more article1-heading\"Read more</a</p\nSee that aria-labelledby attribute? It chains two IDs from the …\nUnchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/",
           "publishedOn": "2022-12-14T14:08:20.000Z",
-          "wordCount": 1207,
+          "wordCount": 1238,
           "title": "Unchain My Inaccessibly-Labelled Heart",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375952"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2581,
           "title": "CSS Infinite and Circular Rotating Image Slider",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375308"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375607",
-          "author": "Geoff Graham",
-          "description": "I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …\nDigging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/digging-deeper-into-container-style-queries/",
-          "publishedOn": "2022-12-01T13:59:06.000Z",
-          "wordCount": 2346,
-          "title": "Digging Deeper Into Container Style Queries",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375607"
         }
       ]
     },
@@ -169,13 +169,28 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
+          "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
+          "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
+          "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
+          "publishedOn": "2022-12-19T13:00:00.000Z",
+          "wordCount": 5487,
+          "title": "Taking The Stress Out Of Design System Management",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "author": "hello@smashingmagazine.com (Ashish Bogawat)",
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5652,
-          "title": "Optimizing Your Design Workflow With Tools",
+          "wordCount": 5647,
+          "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
             "length": "0",
@@ -219,7 +234,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5609,
+          "wordCount": 5613,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -249,7 +264,7 @@
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3876,
+          "wordCount": 3878,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -279,7 +294,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6048,
+          "wordCount": 6054,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -294,7 +309,7 @@
           "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
           "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6410,
+          "wordCount": 6411,
           "title": "The Anatomy Of Themed Design System Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
@@ -339,7 +354,7 @@
           "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
           "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7308,
+          "wordCount": 7304,
           "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
@@ -354,7 +369,7 @@
           "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
           "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5533,
+          "wordCount": 5634,
           "title": "Optimizing A Vue App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
@@ -369,7 +384,7 @@
           "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
           "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8255,
+          "wordCount": 8262,
           "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
@@ -385,6 +400,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
+          "author": "Reed Barger",
+          "description": "Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which",
+          "link": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
+          "publishedOn": "2022-12-19T21:41:26.000Z",
+          "wordCount": 2389,
+          "title": "How to Have Fun Building React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/mugshotbot.com_customize_color-teal-discounted_price--image-fa229fca-mode-light-pattern-charlie_brown-price--theme-e_commerce-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+          "author": "David Clinton",
+          "description": "You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on",
+          "link": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+          "publishedOn": "2022-12-19T20:46:15.000Z",
+          "wordCount": 2246,
+          "title": "How to Build Your Own Wireguard VPN in Five Minutes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-ibrahim-boran-339814.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
+          "author": "Andrej Kovacevic",
+          "description": "If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might",
+          "link": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
+          "publishedOn": "2022-12-19T17:51:06.000Z",
+          "wordCount": 2086,
+          "title": "How to Speed up Your Software Development Pipeline",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/software-development-team.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
           "author": "Hillary Nyakundi",
@@ -421,7 +466,7 @@
           "description": "Automated chatbots are quite useful for stimulating interactions. We can create chatbots for Slack, Discord, and other platforms.  In this article, I'll teach you how to build a Telegram chatbot that will tell you your horoscope. So, let’s get started! How to Get Your Bot Token To set up",
           "link": "https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/",
           "publishedOn": "2022-12-16T17:42:10.000Z",
-          "wordCount": 1987,
+          "wordCount": 1986,
           "title": "How to Create a Telegram Bot using Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Telegram-Bot.png"
         },
@@ -454,36 +499,6 @@
           "wordCount": 2720,
           "title": "How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-photo.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-get-request-tutorial/",
-          "author": "Joel Olawanle",
-          "description": "When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your",
-          "link": "https://www.freecodecamp.org/news/javascript-get-request-tutorial/",
-          "publishedOn": "2022-12-15T19:05:24.000Z",
-          "wordCount": 1593,
-          "title": "JavaScript Get Request – How to Make an HTTP Request in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
-          "author": "Houssein Badra",
-          "description": "Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/",
-          "publishedOn": "2022-12-15T18:24:15.000Z",
-          "wordCount": 2369,
-          "title": "How to Build an AI for Two-Player Turn-based Games",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/2825132-637490944552534550-16x9-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
-          "author": "Arunachalam B",
-          "description": "Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )",
-          "link": "https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/",
-          "publishedOn": "2022-12-15T17:40:54.000Z",
-          "wordCount": 2251,
-          "title": "How to Solve Math Equations in the Linux Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Evaluate-expression-on-Terminal.png"
         }
       ]
     }

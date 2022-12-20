@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T00:09:54.076Z</id>
+    <id>urn:2022-12-20T00:09:50.944Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T00:09:54.076Z</updated>
+    <updated>2022-12-20T00:09:50.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Have Fun Building React Apps]]></title>
+        <id>https://www.freecodecamp.org/news/have-fun-building-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/have-fun-building-react-apps/"/>
+        <updated>2022-12-19T21:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Wireguard VPN in Five Minutes]]></title>
+        <id>https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/"/>
+        <updated>2022-12-19T20:46:15.000Z</updated>
+        <summary type="html"><![CDATA[You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Speed up Your Software Development Pipeline]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/"/>
+        <updated>2022-12-19T17:51:06.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Playground: Running WordPress in the Browser]]></title>
+        <id>https://css-tricks.com/?p=376297</id>
+        <link href="https://css-tricks.com/wordpress-playground-run-in-browser/"/>
+        <updated>2022-12-19T16:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.
+The friction of uploading files has gotten …
+WordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking The Stress Out Of Design System Management]]></title>
+        <id>https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/</id>
+        <link href="https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/"/>
+        <updated>2022-12-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Masha Shaposhnikova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Testing Best Practices – How to Test APIs for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/</id>
@@ -67,7 +119,7 @@ CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing Your Design Workflow With Tools]]></title>
+        <title type="html"><![CDATA[Boosting Productivity For Designers With Efficient Tools]]></title>
         <id>https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/</id>
         <link href="https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/"/>
         <updated>2022-12-16T10:00:00.000Z</updated>
@@ -94,36 +146,6 @@ CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think]]></summary>
         <author>
             <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Get Request – How to Make an HTTP Request in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-get-request-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-get-request-tutorial/"/>
-        <updated>2022-12-15T19:05:24.000Z</updated>
-        <summary type="html"><![CDATA[When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI for Two-Player Turn-based Games]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/"/>
-        <updated>2022-12-15T18:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that]]></summary>
-        <author>
-            <name>Houssein Badra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve Math Equations in the Linux Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/"/>
-        <updated>2022-12-15T17:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
     <entry>
@@ -352,17 +374,6 @@ CSS Infinite and Circular Rotating Image Slider originally published on CSS-Tric
         <summary type="html"><![CDATA[The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dan Donald)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digging Deeper Into Container Style Queries]]></title>
-        <id>https://css-tricks.com/?p=375607</id>
-        <link href="https://css-tricks.com/digging-deeper-into-container-style-queries/"/>
-        <updated>2022-12-01T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …
-Digging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
