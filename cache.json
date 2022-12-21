@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376319",
+          "author": "Geoff Graham",
+          "description": "CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Mia put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.\nNow there’s another chance …\nHelp choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/help-choose-the-syntax-for-css-nesting/",
+          "publishedOn": "2022-12-20T16:04:54.000Z",
+          "wordCount": 835,
+          "title": "Help choose the syntax for CSS Nesting",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376319"
+        },
+        {
           "id": "https://css-tricks.com/?p=376297",
           "author": "Geoff Graham",
           "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.\nIt’s a bit of a brain-twister to reason …\nSo, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-youd-like-to-animate-the-display-property/",
           "publishedOn": "2022-12-15T15:41:06.000Z",
-          "wordCount": 1425,
+          "wordCount": 1521,
           "title": "So, you’d like to animate the display property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375714"
         },
@@ -150,16 +160,6 @@
           "wordCount": 2135,
           "title": "Does WWW still belong in URLs?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375308",
-          "author": "Temani Afif",
-          "description": "Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …\nCSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-only-infinite-and-circular-image-slider/",
-          "publishedOn": "2022-12-02T14:12:57.000Z",
-          "wordCount": 2581,
-          "title": "CSS Infinite and Circular Rotating Image Slider",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375308"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
+          "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
+          "publishedOn": "2022-12-20T12:00:00.000Z",
+          "wordCount": 8297,
+          "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5487,
+          "wordCount": 5484,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -189,7 +204,7 @@
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5647,
+          "wordCount": 5646,
           "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
@@ -234,7 +249,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5613,
+          "wordCount": 5611,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -264,7 +279,7 @@
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3878,
+          "wordCount": 3879,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -279,7 +294,7 @@
           "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
           "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
           "publishedOn": "2022-12-07T11:00:00.000Z",
-          "wordCount": 5384,
+          "wordCount": 5386,
           "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
@@ -294,7 +309,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6054,
+          "wordCount": 6052,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -309,7 +324,7 @@
           "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
           "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "publishedOn": "2022-12-02T09:00:00.000Z",
-          "wordCount": 6411,
+          "wordCount": 6413,
           "title": "The Anatomy Of Themed Design System Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
@@ -324,7 +339,7 @@
           "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
           "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
           "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4976,
+          "wordCount": 4973,
           "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
@@ -339,7 +354,7 @@
           "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
           "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
           "publishedOn": "2022-11-30T11:15:00.000Z",
-          "wordCount": 5238,
+          "wordCount": 5133,
           "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
@@ -354,7 +369,7 @@
           "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
           "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7304,
+          "wordCount": 7308,
           "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
@@ -369,7 +384,7 @@
           "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
           "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5634,
+          "wordCount": 5528,
           "title": "Optimizing A Vue App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
@@ -377,21 +392,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
-          "author": "hello@smashingmagazine.com (Cristian Díaz)",
-          "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
-          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
-          "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8262,
-          "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg"
         }
       ]
     },
@@ -400,6 +400,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/",
+          "author": "Beau Carnes",
+          "description": "One of the best ways to learn software development is to create a slimmed-down version of software you use every day to get a better understanding of how it might work. This process helps you understand the problem space constraints and techniques required to build a real-world use-case. We just",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/",
+          "publishedOn": "2022-12-20T13:47:49.000Z",
+          "wordCount": 11135,
+          "title": "How to Build Your Own SaaS – PagerDuty Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "author": "Megan Kaczanowski",
+          "description": "Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "publishedOn": "2022-12-19T23:32:44.000Z",
+          "wordCount": 3410,
+          "title": "How to Get Your First Job in InfoSec",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tima-miroshnichenko-5380665.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
           "author": "Reed Barger",
@@ -479,26 +499,6 @@
           "wordCount": 1151,
           "title": "What is a ROM? ROM Price and Cost Estimate",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/12.15.22-What-is-a-ROM.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
-          "author": "Dillion Megida",
-          "description": "display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do",
-          "link": "https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/",
-          "publishedOn": "2022-12-15T23:13:53.000Z",
-          "wordCount": 1707,
-          "title": "CSS display:none and visibility:hidden – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/11.-display-visibility-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
-          "author": "Daniel Adetunji",
-          "description": "EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think",
-          "link": "https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/",
-          "publishedOn": "2022-12-15T19:08:27.000Z",
-          "wordCount": 2720,
-          "title": "How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-photo.jpg"
         }
       ]
     }
