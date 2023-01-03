@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/usability-2023/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
+          "link": "https://smashingmagazine.com/2023/01/usability-2023/",
+          "publishedOn": "2023-01-02T09:00:00.000Z",
+          "wordCount": 3541,
+          "title": "The State Of Usability In 2023 🎊",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4565,
+          "wordCount": 4657,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -189,7 +204,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4664,
+          "wordCount": 4667,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -204,7 +219,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4887,
+          "wordCount": 4883,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -219,7 +234,7 @@
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
           "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4364,
+          "wordCount": 4365,
           "title": "Deploying CSS Logical Properties On Web Apps",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
@@ -234,7 +249,7 @@
           "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
           "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
           "publishedOn": "2022-12-20T12:00:00.000Z",
-          "wordCount": 8305,
+          "wordCount": 8311,
           "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
@@ -249,7 +264,7 @@
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5490,
+          "wordCount": 5486,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -264,7 +279,7 @@
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5644,
+          "wordCount": 5647,
           "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
@@ -309,7 +324,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5603,
+          "wordCount": 5604,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -339,7 +354,7 @@
           "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
           "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3873,
+          "wordCount": 3874,
           "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
           "enclosure": {
             "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
@@ -369,7 +384,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6048,
+          "wordCount": 6049,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
@@ -391,7 +406,7 @@
           "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",
           "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
           "publishedOn": "2022-12-23T02:43:43.000Z",
-          "wordCount": 2134,
+          "wordCount": 2151,
           "title": "Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/splash-2-lowres-1.png"
         },
@@ -401,7 +416,7 @@
           "description": "When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache",
           "link": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
           "publishedOn": "2022-12-22T20:45:05.000Z",
-          "wordCount": 1830,
+          "wordCount": 1847,
           "title": "How to Cache Expensive Database Queries Using the Momento Serverless Cache",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tiger-lily-4483610.jpg"
         },
@@ -411,7 +426,7 @@
           "description": "When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if",
           "link": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
           "publishedOn": "2022-12-22T18:57:16.000Z",
-          "wordCount": 1396,
+          "wordCount": 1413,
           "title": "String Equality in JavaScript – How to Compare Strings in JS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--3-.png"
         },
@@ -421,7 +436,7 @@
           "description": "A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     \"frontend\": \"JavaScript\",     \"backend\": \"Node JS\",     \"markup\": \"HTML and JSX\", } To access",
           "link": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
           "publishedOn": "2022-12-22T18:04:49.000Z",
-          "wordCount": 1315,
+          "wordCount": 1332,
           "title": "Adding to a Dict in Python – How to Add to a Dictionary",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/addToDict.png"
         },
@@ -431,7 +446,7 @@
           "description": "Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are",
           "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
           "publishedOn": "2022-12-22T17:50:05.000Z",
-          "wordCount": 1733,
+          "wordCount": 1750,
           "title": "JavaScript Execution Context – How JS Works Behind the Scenes",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Dark-Blue-Illustrated-Techno-Daily-Smore-Header--1.png"
         },
@@ -441,7 +456,7 @@
           "description": "The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to",
           "link": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
           "publishedOn": "2022-12-22T15:56:07.000Z",
-          "wordCount": 2336,
+          "wordCount": 2353,
           "title": "What is enumerate() in Python? Enumeration Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-yan-krukov-8612931.jpg"
         },
@@ -451,7 +466,7 @@
           "description": "Filtering through a data set is one of the most basic operations a developer should know how to perform.  Filtering [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data]  refers to the process of restricting the result set to contain only those elements that satisfy a specified condition. It is also known as selection.  To",
           "link": "https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/",
           "publishedOn": "2022-12-21T21:45:12.000Z",
-          "wordCount": 1636,
+          "wordCount": 1653,
           "title": "Filtering in C# – How to Filter a List with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
         },
@@ -461,7 +476,7 @@
           "description": "Most times when you encounter errors while coding, you can discover the reason why the error is occurring and how you can fix it in the error message. The Python error, \"TypeError: can't multiply sequence by non-int of type float\" is no exception to that. I have prepared this article",
           "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/",
           "publishedOn": "2022-12-21T21:13:46.000Z",
-          "wordCount": 1312,
+          "wordCount": 1329,
           "title": "TypeError: can't multiply sequence by non-int of type float [Solved Python Error]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-polina-zimmerman-3747132.jpg"
         },
@@ -471,7 +486,7 @@
           "description": "In this post you will learn about an amazing tool named Scapy. Scapy is a Python library that enables us to send, sniff, and dissect network frames.  It is useful in a variety of use cases, one of which is to actually get some hands-on experience when you learn",
           "link": "https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/",
           "publishedOn": "2022-12-21T21:02:17.000Z",
-          "wordCount": 2004,
+          "wordCount": 2021,
           "title": "How to Use Scapy – Python Networking Tool Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Computer-Networks-Hub-Switch--1-.png"
         },
@@ -481,7 +496,7 @@
           "description": "Concurrency refers to a programming language's ability to deal with lots of things at once. A good way to understand concurrency is by imagining multiple cars traveling on two lanes. Sometimes the cars overtake each other, and sometimes they stop and let others pass by. Another good example is when",
           "link": "https://www.freecodecamp.org/news/concurrent-programming-in-go/",
           "publishedOn": "2022-12-21T19:02:59.000Z",
-          "wordCount": 2016,
+          "wordCount": 2033,
           "title": "Concurrent Programming in Go – Goroutines, Channels, and More Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/2-1.png"
         }
