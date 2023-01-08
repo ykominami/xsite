@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T00:09:18.687Z</id>
+    <id>urn:2023-01-08T00:10:55.463Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T00:09:18.687Z</updated>
+    <updated>2023-01-08T00:10:55.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Post Request – How to Send an HTTP Post Request in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/"/>
+        <updated>2023-01-06T23:40:43.000Z</updated>
+        <summary type="html"><![CDATA[HTTP requests allow your front-end application to interact successfully with a back-end server or database. One of the five popular HTTP methods for making requests and interacting with your servers is the POST method, which you can use to send data to a server. In this article, you will learn]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Ternary Operator – Syntax and Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/"/>
+        <updated>2023-01-06T23:30:48.000Z</updated>
+        <summary type="html"><![CDATA[There are many operators in JavaScript, one of which is the ternary operator. In this article, I'll explain what this operator is, and how it can be useful when building applications. I have a video version of this topic [https://youtu.be/MmwtZ0AwN9A] you can check out as well to supplement your learning.]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Microsoft Logo 2 Different Ways in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/"/>
+        <updated>2023-01-06T23:22:38.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. In this article I will show you two ways that you can create the Microsoft logo.  What We Will Be Creating We will create the Microsoft logo in pure CSS. It will look]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dictionary Iteration in Python – How to Iterate Over a Dict with a For Loop]]></title>
+        <id>https://www.freecodecamp.org/news/dictionary-iteration-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/dictionary-iteration-in-python/"/>
+        <updated>2023-01-06T23:16:43.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a dictionary is one of the built-in data structures (the others are tuples, lists, and sets). A dictionary is a collection of key:value pairs and you can use them to solve various programming problems. Dictionaries are very flexible to work with. You can get the keys and values]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Logging Works in Laravel Applications]]></title>
         <id>https://www.freecodecamp.org/news/laravel-logging/</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how. And yes this is the full book – for free – right here on this webpage. A few years back, one of the Big 5]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a File in Linux from the Command Line – Create a File in the Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/"/>
-        <updated>2023-01-05T18:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Managing files from the command line is one of the most common tasks for a Linux user.  Files are created, edited, deleted, and used by many of the background OS processes. Files are also used by regular users to accomplish daily tasks such as taking notes, writing code, or]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Great HTML Form Controls]]></title>
-        <id>https://www.freecodecamp.org/news/perfect-html-input/</id>
-        <link href="https://www.freecodecamp.org/news/perfect-html-input/"/>
-        <updated>2023-01-05T17:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm going to show you all the things to consider when building the perfect HTML input. Despite its seemingly simple nature, there's actually a lot that goes into it. How to Make the Control  Well, we need to start somewhere. Might as well start with the control itself.]]></summary>
-        <author>
-            <name>Austin Gil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if a File Exists in Python with isFile() and exists()]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/"/>
-        <updated>2023-01-05T17:23:20.000Z</updated>
-        <summary type="html"><![CDATA[When working with files in Python, there may be times when you need to check whether a file exists or not. But why should you check if a file exists in the first place? Confirming the existence of a specific file comes in handy when you want to perform particular]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Int to String in Java – How to Convert an Integer into a String]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-integer-to-string-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-integer-to-string-in-java/"/>
-        <updated>2023-01-05T15:57:29.000Z</updated>
-        <summary type="html"><![CDATA[You can convert variables from one data type to another in Java using different methods.  In this article, you'll learn how to convert integers to strings in Java in the following ways:  * Using the Integer.toString() method.   * Using the String.valueOf() method.   * Using]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -382,27 +382,6 @@ Saving Settings for a Custom WordPress Block in the Block Editor originally publ
 CSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animated Background Stripes That Transition on Hover]]></title>
-        <id>https://css-tricks.com/?p=375697</id>
-        <link href="https://css-tricks.com/animated-background-stripes-transition-hover/"/>
-        <updated>2022-12-08T15:36:21.000Z</updated>
-        <summary type="html"><![CDATA[How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …
-Animated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now]]></title>
-        <id>https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/</id>
-        <link href="https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/"/>
-        <updated>2022-12-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
