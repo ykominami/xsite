@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376307",
+          "author": "Anders Pedersen",
+          "description": "The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …\nFaking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/faking-min-width-on-a-table-column/",
+          "publishedOn": "2023-01-10T15:11:20.000Z",
+          "wordCount": 1708,
+          "title": "Faking Min Width on a Table Column",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376307"
+        },
+        {
           "id": "https://css-tricks.com/?p=376237",
           "author": "Fränk Klein",
           "description": "A little while back, Ganesh Dahal penned a post here on CSS-Tricks responding to a tweet that asked about adding CSS box shadows on WordPress blocks and elements. There’s a lot of great stuff in there that leverages new features …\nStyling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/styling-buttons-in-wordpress-block-themes/",
           "publishedOn": "2023-01-09T13:56:19.000Z",
-          "wordCount": 2156,
+          "wordCount": 2197,
           "title": "Styling Buttons in WordPress Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376237"
         },
@@ -149,12 +159,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.",
+          "link": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
+          "publishedOn": "2023-01-10T11:30:00.000Z",
+          "wordCount": 3724,
+          "title": "Making Your Collaboration Problems Go Away By Sharing Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "author": "hello@smashingmagazine.com (Eric Burel)",
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 9025,
+          "wordCount": 8924,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -169,7 +194,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5467,
+          "wordCount": 5473,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -184,7 +209,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3541,
+          "wordCount": 3537,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -199,7 +224,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4661,
+          "wordCount": 4651,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -214,7 +239,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4668,
+          "wordCount": 4669,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -229,7 +254,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4893,
+          "wordCount": 4891,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -244,7 +269,7 @@
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
           "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4362,
+          "wordCount": 4365,
           "title": "Deploying CSS Logical Properties On Web Apps",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
@@ -274,7 +299,7 @@
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5592,
+          "wordCount": 5495,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -289,7 +314,7 @@
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5652,
+          "wordCount": 5645,
           "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
@@ -334,7 +359,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5607,
+          "wordCount": 5606,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -366,104 +391,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/",
-          "author": "Segun Ajibola",
-          "description": "Tailwind CSS is a popular CSS framework, and React is one of the most popular JavaScript libraries. And Tailwind CSS and React are a great combo to use if you're building a frontend project. In this article, you will learn how to setup your coding environment with Vite, install React",
-          "link": "https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/",
-          "publishedOn": "2023-01-09T18:49:56.000Z",
-          "wordCount": 1592,
-          "title": "How to Setup React and Tailwind CSS with Vite in a Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Parameters-vs-Arguments--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/synthetic-identity-theft/",
-          "author": "Dmitry Dragilev",
-          "description": "In today’s digital age, cybercriminals have no shortage of methods to steal people's identities and sensitive data. One such method is synthetic identity theft, which is becoming one of the most dangerous and common forms.  In fact, according to a figures published by Federal Reserve Bank of Boston [https://www.bostonfed.org/news-and-events/news/2022/08/synthetic-identity-fraud-is-not-a-victimless-crime-costs-billions-damages-lives.aspx]",
-          "link": "https://www.freecodecamp.org/news/synthetic-identity-theft/",
-          "publishedOn": "2023-01-09T18:42:56.000Z",
-          "wordCount": 2777,
-          "title": "What is Synthetic Identity Theft and How to Protect Yourself",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/computer-hacker-mask-hoodie-over-abstract-binary-background-obscured-dark-face-data-thief-internet-fraud-computer-hacker-168781090.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-react-logo/",
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
           "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the React logo:  * position: absolute  * vw (view width)  * transform: rotate()  * animation using keyframes",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-react-logo/",
-          "publishedOn": "2023-01-09T18:21:57.000Z",
-          "wordCount": 1629,
-          "title": "Learn CSS by Building the React Logo in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-React-Logo.png"
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Git logo:  * Transform to rotate an image  * position relative and absolute  * pseudo classes ::before",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
+          "publishedOn": "2023-01-10T18:54:59.000Z",
+          "wordCount": 1420,
+          "title": "Learn CSS by Building the Git Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Git-Logo.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/setup-email-verification-in-flask-app/",
-          "author": "Ashutosh Krishna",
-          "description": "Email verification is a crucial aspect of creating a new user account or signing up for a service. It helps confirm that the email address provided is valid and belongs to the intended user. In this article, we will explore the process of handling email verification in Flask. The topic",
-          "link": "https://www.freecodecamp.org/news/setup-email-verification-in-flask-app/",
-          "publishedOn": "2023-01-09T17:56:18.000Z",
-          "wordCount": 3943,
-          "title": "How to Set Up Email Verification in a Flask App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-maksim-goncharenok-5605061.jpg"
+          "id": "https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/",
+          "author": "Kolade Chris",
+          "description": "When you're working with SQL, you'll need to learn how to format dates properly. This is because dates are an important aspect of any SQL and other software-related activities. You need to be able to work with dates to add timestamps to entries and keep track of when things happen,",
+          "link": "https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/",
+          "publishedOn": "2023-01-10T18:30:50.000Z",
+          "wordCount": 1249,
+          "title": "SQL CONVERT – The DATE to String or DATETIME Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/dateToString.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-google-like-a-pro/",
-          "author": "Beau Carnes",
-          "description": "Are you tired of sifting through pages of irrelevant search results? Do you want to become more efficient at finding the information you need on the web? If so, this course is for you. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how",
-          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro/",
-          "publishedOn": "2023-01-09T15:30:56.000Z",
-          "wordCount": 896,
-          "title": "How to Google Like a Pro",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/googlepro.jpg"
+          "id": "https://www.freecodecamp.org/news/understanding-sql-joins/",
+          "author": "Zubair Idris Aweda",
+          "description": "SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables usually contain similar or related data. In an office management web application database, you would have tables for  employees, their departments, their managers, the projects they",
+          "link": "https://www.freecodecamp.org/news/understanding-sql-joins/",
+          "publishedOn": "2023-01-10T18:23:24.000Z",
+          "wordCount": 3144,
+          "title": "SQL Joins – LEFT Join, RIGHT Join, and INNER Join Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/JOIN-s.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-delete-a-file-in-python-and-remove-a-directory-too/",
-          "author": "Dillion Megida",
-          "description": "Python offers many standard utility modules which enable several functions in the applications we build. In this article, we'll learn about the modules for deleting files and directories. One of the most popular modules exposed in Python is the os module. This is one of the standard utility modules. This",
-          "link": "https://www.freecodecamp.org/news/how-to-delete-a-file-in-python-and-remove-a-directory-too/",
-          "publishedOn": "2023-01-09T15:24:57.000Z",
-          "wordCount": 1691,
-          "title": "How to Delete a File in Python – And Remove a Directory, Too",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/12.-delete-files-directories.png"
+          "id": "https://www.freecodecamp.org/news/javascript-performance-async-defer/",
+          "author": "TAPAS ADHIKARY",
+          "description": "In web programming, JavaScript brings interactiveness and dynamic behaviour to your web pages. While HTML and CSS take care of the structure and aesthetics of the pages, they will be merely usable without JavaScript doing its job in the background. You can include JavaScript code in the HTML file in",
+          "link": "https://www.freecodecamp.org/news/javascript-performance-async-defer/",
+          "publishedOn": "2023-01-10T18:18:31.000Z",
+          "wordCount": 2898,
+          "title": "JavaScript Performance – How to Improve Page Speed with async and defer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/freeCodeCamp-Cover.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/iferror-function-in-excel-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the IFERROR function to catch errors in Excel. Using the function's parameters, you can return a custom value when specific errors occur.  In this article, you'll learn how to use the IFERROR function to evaluate and handle errors in Excel. You can use the IFERROR function",
-          "link": "https://www.freecodecamp.org/news/iferror-function-in-excel-example/",
-          "publishedOn": "2023-01-09T15:21:52.000Z",
-          "wordCount": 1125,
-          "title": "iferror Function in Excel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/rubaitul-azad-GauA0hiEwDk-unsplash.jpg"
+          "id": "https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/",
+          "author": "Reed Barger",
+          "description": "You're ready to start making simple projects with React, but you don't know what to make. Where should you start? I have created seven unique and fun React projects for you to make, all of which will teach you essential React concepts that you need to know in 2023.",
+          "link": "https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/",
+          "publishedOn": "2023-01-10T17:53:44.000Z",
+          "wordCount": 1985,
+          "title": "React Projects for Beginners in 2023 – Fun Ideas with Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/7-react-projects-beginners.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/",
-          "author": "Joel Olawanle",
-          "description": "HTTP requests allow your front-end application to interact successfully with a back-end server or database. One of the five popular HTTP methods for making requests and interacting with your servers is the POST method, which you can use to send data to a server. In this article, you will learn",
-          "link": "https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/",
-          "publishedOn": "2023-01-06T23:40:43.000Z",
-          "wordCount": 1818,
-          "title": "JavaScript Post Request – How to Send an HTTP Post Request in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--7-.png"
+          "id": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
+          "author": "David Clinton",
+          "description": "For all the many benefits we enjoy from technology – and particularly the technologies that make up the public internet – there are plenty of costs, too.  Figuring out how you want to balance the benefits against the costs can take some careful thinking. Here's a concise and effective",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
+          "publishedOn": "2023-01-10T17:45:33.000Z",
+          "wordCount": 3963,
+          "title": "What Is Digital Privacy? A Beginner's Guide to Protecting Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-kevin-paster-1901388.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/",
-          "author": "Dillion Megida",
-          "description": "There are many operators in JavaScript, one of which is the ternary operator. In this article, I'll explain what this operator is, and how it can be useful when building applications. I have a video version of this topic [https://youtu.be/MmwtZ0AwN9A] you can check out as well to supplement your learning.",
-          "link": "https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/",
-          "publishedOn": "2023-01-06T23:30:48.000Z",
-          "wordCount": 1759,
-          "title": "JavaScript Ternary Operator – Syntax and Example Use Case",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/13.-ternary-operator.png"
+          "id": "https://www.freecodecamp.org/news/props-in-react/",
+          "author": "Tooba Jamal",
+          "description": "When you're first learning React, props are often one of the most difficult topics to understand – especially when it comes to passing props across components. And when you need similar props in more than one component, things can get really tricky. In this guide, we will start by understanding",
+          "link": "https://www.freecodecamp.org/news/props-in-react/",
+          "publishedOn": "2023-01-10T16:01:03.000Z",
+          "wordCount": 3049,
+          "title": "How to Use Props in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/all-about-props-in-react-1.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/",
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
           "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. In this article I will show you two ways that you can create the Microsoft logo.  What We Will Be Creating We will create the Microsoft logo in pure CSS. It will look",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/",
-          "publishedOn": "2023-01-06T23:22:38.000Z",
-          "wordCount": 1590,
-          "title": "Learn CSS by Building the Microsoft Logo 2 Different Ways in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-Microsoft-Logo.png"
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Netflix logo:  * border-left and border-right  * pseudo class ::before  * box-shadow  * transform: skewX What",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
+          "publishedOn": "2023-01-10T01:37:16.000Z",
+          "wordCount": 1328,
+          "title": "Learn CSS by Building the Nextflix Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Netflix-Logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
+          "author": "Shahan Chowdhury",
+          "description": "Web development is a highly in-demand and popular skill these days. So if you’re at a crossroads in your life and thinking about becoming a web developer – or just want to further improve your skills – read on. To be a great web developer, you must learn many skills",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
+          "publishedOn": "2023-01-09T23:05:20.000Z",
+          "wordCount": 2222,
+          "title": "How to Become a Better Web Developer in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-461593.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cs50-course-review/",
+          "author": "Phoebe Voong-Fadel",
+          "description": "Are you considering taking the CS50 [/news/harvard-cs50/] Introduction to Computer Science course, but wondering if it's the right fit for you?  As someone who doesn’t have a computer science degree and was looking to learn the fundamentals of the field, I was in the same boat. That's why I",
+          "link": "https://www.freecodecamp.org/news/cs50-course-review/",
+          "publishedOn": "2023-01-09T22:20:27.000Z",
+          "wordCount": 2454,
+          "title": "Review of CS50 – Harvard's Introduction to Computer Science Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/this-is-cs50-1.jpeg"
         }
       ]
     }
