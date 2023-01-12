@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376342",
+          "author": "Geoff Graham",
+          "description": "A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …\n:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/has-is-an-unforgiving-selector/",
+          "publishedOn": "2023-01-11T14:18:13.000Z",
+          "wordCount": 1048,
+          "title": ":has is an unforgiving selector",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376342"
+        },
+        {
           "id": "https://css-tricks.com/?p=376307",
           "author": "Anders Pedersen",
           "description": "The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …\nFaking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -107,7 +117,7 @@
           "description": "Suzy Naschansky from the HTMHell Advent Calendar:\n<h2 id=\"article1-heading\"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id=\"article1-read-more\" aria-labelledby=\"article1-read-more article1-heading\"Read more</a</p\nSee that aria-labelledby attribute? It chains two IDs from the …\nUnchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/",
           "publishedOn": "2022-12-14T14:08:20.000Z",
-          "wordCount": 1238,
+          "wordCount": 1256,
           "title": "Unchain My Inaccessibly-Labelled Heart",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375952"
         },
@@ -130,26 +140,6 @@
           "wordCount": 2329,
           "title": "A Few Times Container Size Queries Would Have Helped Me Out",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375728"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375722",
-          "author": "Geoff Graham",
-          "description": "Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …\nSetting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/",
-          "publishedOn": "2022-12-12T20:56:58.000Z",
-          "wordCount": 808,
-          "title": "Setting up a screen reader testing environment on your computer",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375722"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375577",
-          "author": "Manoj Kumar",
-          "description": "We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …\nSaving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/",
-          "publishedOn": "2022-12-12T14:06:39.000Z",
-          "wordCount": 1566,
-          "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
+          "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
+          "publishedOn": "2023-01-11T08:00:00.000Z",
+          "wordCount": 5328,
+          "title": "Closed Captions And Subtitles UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
           "author": "hello@smashingmagazine.com (Shane Hudson)",
@@ -179,7 +184,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8924,
+          "wordCount": 8915,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -194,7 +199,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5473,
+          "wordCount": 5469,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -209,7 +214,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3537,
+          "wordCount": 3542,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -224,7 +229,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4651,
+          "wordCount": 4659,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -239,7 +244,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4669,
+          "wordCount": 4674,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -254,7 +259,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4891,
+          "wordCount": 4889,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -299,7 +304,7 @@
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5495,
+          "wordCount": 5489,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -314,7 +319,7 @@
           "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
           "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
           "publishedOn": "2022-12-16T10:00:00.000Z",
-          "wordCount": 5645,
+          "wordCount": 5752,
           "title": "Boosting Productivity For Designers With Efficient Tools",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
@@ -359,7 +364,7 @@
           "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
           "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/",
           "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 5606,
+          "wordCount": 5608,
           "title": "Accessible Front-End Patterns For Responsive Tables (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg",
@@ -367,21 +372,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "author": "hello@smashingmagazine.com (Keima Kai)",
-          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
-          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "publishedOn": "2022-12-12T13:00:00.000Z",
-          "wordCount": 5856,
-          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
         }
       ]
     },
@@ -391,12 +381,62 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/",
+          "author": "Ilknur Eren",
+          "description": "Accessible Rich Internet Applications – or ARIA – is a set of attributes and roles defined by the Web Accessibility Initiative [https://www.w3.org/WAI/]. These make the web more accessible to people with disabilities.  ARIA is extremely important for building accessible web applications. But it's very easy to misuse ARIA and",
+          "link": "https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/",
+          "publishedOn": "2023-01-11T21:58:45.000Z",
+          "wordCount": 1644,
+          "title": "Web Accessibility – Common ARIA Mistakes to Avoid",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ramy-kabalan-745054.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-google-logo/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Google logo:  * position relative and absolute  * pseudo classes ::before and ::after  * positioning an element",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-google-logo/",
+          "publishedOn": "2023-01-11T19:15:17.000Z",
+          "wordCount": 1446,
+          "title": "Learn CSS by Building the Google Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Google-Logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-dev-tools/",
+          "author": "Aman Kalra",
+          "description": "When you're working on a React project, one of the easiest ways to debug your code is using the React Dev Tools. React Dev Tools is an extension created by the React team. It enables developers to debug their code inside their Developer Tools. Once you add the extension, you",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-dev-tools/",
+          "publishedOn": "2023-01-11T18:18:53.000Z",
+          "wordCount": 1734,
+          "title": "How to Use React Dev Tools – With Example Code and Videos",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/thumbnail.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article I will show you how to format cells in Microsoft Excel. We'll be looking particularly at the Accounting format for cells with numbers.  At the end of the article I'll give you two bonuses: a short video walkthrough of the methods we go over, as well",
+          "link": "https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/",
+          "publishedOn": "2023-01-11T18:11:38.000Z",
+          "wordCount": 1316,
+          "title": "Accounting Number Format in Excel – How to Apply it to Selected Cells",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/currency-vs-accounting-fcc-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
+          "author": "Beau Carnes",
+          "description": "Unreal Engine 5 is a powerful game engine that has been used to create some of the most popular and critically acclaimed games in recent years.  We just published an 11-hour Unreal Engine course for beginners on the freeCodeCamp.org YouTube channel. Sourav created this coruse. He has 7 years",
+          "link": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
+          "publishedOn": "2023-01-11T15:27:28.000Z",
+          "wordCount": 1826,
+          "title": "Developing Games Using Unreal Engine 5",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/ue3.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
           "author": "Jennifer Bland",
           "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Git logo:  * Transform to rotate an image  * position relative and absolute  * pseudo classes ::before",
           "link": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
           "publishedOn": "2023-01-10T18:54:59.000Z",
-          "wordCount": 1420,
+          "wordCount": 1522,
           "title": "Learn CSS by Building the Git Logo in Pure CSS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Git-Logo.png"
         },
@@ -439,56 +479,6 @@
           "wordCount": 1985,
           "title": "React Projects for Beginners in 2023 – Fun Ideas with Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/7-react-projects-beginners.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
-          "author": "David Clinton",
-          "description": "For all the many benefits we enjoy from technology – and particularly the technologies that make up the public internet – there are plenty of costs, too.  Figuring out how you want to balance the benefits against the costs can take some careful thinking. Here's a concise and effective",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
-          "publishedOn": "2023-01-10T17:45:33.000Z",
-          "wordCount": 3963,
-          "title": "What Is Digital Privacy? A Beginner's Guide to Protecting Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-kevin-paster-1901388.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/props-in-react/",
-          "author": "Tooba Jamal",
-          "description": "When you're first learning React, props are often one of the most difficult topics to understand – especially when it comes to passing props across components. And when you need similar props in more than one component, things can get really tricky. In this guide, we will start by understanding",
-          "link": "https://www.freecodecamp.org/news/props-in-react/",
-          "publishedOn": "2023-01-10T16:01:03.000Z",
-          "wordCount": 3049,
-          "title": "How to Use Props in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/all-about-props-in-react-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
-          "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Netflix logo:  * border-left and border-right  * pseudo class ::before  * box-shadow  * transform: skewX What",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
-          "publishedOn": "2023-01-10T01:37:16.000Z",
-          "wordCount": 1328,
-          "title": "Learn CSS by Building the Nextflix Logo in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Netflix-Logo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
-          "author": "Shahan Chowdhury",
-          "description": "Web development is a highly in-demand and popular skill these days. So if you’re at a crossroads in your life and thinking about becoming a web developer – or just want to further improve your skills – read on. To be a great web developer, you must learn many skills",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
-          "publishedOn": "2023-01-09T23:05:20.000Z",
-          "wordCount": 2222,
-          "title": "How to Become a Better Web Developer in 2023",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-461593.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cs50-course-review/",
-          "author": "Phoebe Voong-Fadel",
-          "description": "Are you considering taking the CS50 [/news/harvard-cs50/] Introduction to Computer Science course, but wondering if it's the right fit for you?  As someone who doesn’t have a computer science degree and was looking to learn the fundamentals of the field, I was in the same boat. That's why I",
-          "link": "https://www.freecodecamp.org/news/cs50-course-review/",
-          "publishedOn": "2023-01-09T22:20:27.000Z",
-          "wordCount": 2454,
-          "title": "Review of CS50 – Harvard's Introduction to Computer Science Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/this-is-cs50-1.jpeg"
         }
       ]
     }
