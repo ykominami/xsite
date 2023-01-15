@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T00:09:59.250Z</id>
+    <id>urn:2023-01-15T00:10:53.914Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T00:09:59.250Z</updated>
+    <updated>2023-01-15T00:10:53.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-time Chat App with ReactJS and Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/</id>
+        <link href="https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/"/>
+        <updated>2023-01-13T22:26:07.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to show you how to build a real-time chat app using React.js and Firebase.  In the app, we will allow the user to log in with their Google account using Firebase's Google sign-in Authentication. We will also store and retrieve all the chatroom messages]]></summary>
+        <author>
+            <name>Timonwa Akintokun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Search Functionality to a Ruby on Rails Application]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[var, let, and const in JavaScript – the Differences Between These Keywords Explained]]></title>
-        <id>https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/"/>
-        <updated>2023-01-11T22:48:17.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you can declare variables with the var, let, and const keywords. But what are the differences between them? That's what I'll explain in this tutorial. I have a video version of this topic [https://youtu.be/Gd_JG3e1g4A] you can check out as well. 😇 If you're just starting out using JavaScript,]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
@@ -313,38 +313,6 @@ WordPress Playground: Running WordPress in the Browser originally published on C
 CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting Productivity For Designers With Efficient Tools]]></title>
-        <id>https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/</id>
-        <link href="https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/"/>
-        <updated>2022-12-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ashish Bogawat)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
-        <id>https://css-tricks.com/?p=375714</id>
-        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
-        <updated>2022-12-15T15:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
-It’s a bit of a brain-twister to reason …
-So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Prioritize User Security When Collecting Offline Data]]></title>
-        <id>https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/</id>
-        <link href="https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/"/>
-        <updated>2022-12-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
         </author>
     </entry>
 </feed>
