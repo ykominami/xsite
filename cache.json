@@ -89,12 +89,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
+          "author": "hello@smashingmagazine.com (Eloïse Martin)",
+          "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
+          "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
+          "publishedOn": "2023-01-16T18:00:00.000Z",
+          "wordCount": 5326,
+          "title": "Optimizing The Image Element LCP",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!",
+          "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "publishedOn": "2023-01-12T09:00:00.000Z",
-          "wordCount": 6177,
+          "wordCount": 6203,
           "title": "Top Front-End Tools Of 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89130f18-afc5-4a6e-b9fc-5f9acead5136/top-frontend-tools-2022.jpg",
@@ -109,7 +124,7 @@
           "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
           "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
           "publishedOn": "2023-01-11T08:00:00.000Z",
-          "wordCount": 5334,
+          "wordCount": 5338,
           "title": "Closed Captions And Subtitles UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
@@ -139,7 +154,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 9022,
+          "wordCount": 8935,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -154,7 +169,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5467,
+          "wordCount": 5483,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -169,7 +184,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3537,
+          "wordCount": 3552,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -184,7 +199,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4654,
+          "wordCount": 4664,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -199,7 +214,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4669,
+          "wordCount": 4684,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -214,7 +229,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4890,
+          "wordCount": 4905,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -229,7 +244,7 @@
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
           "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4364,
+          "wordCount": 4372,
           "title": "Deploying CSS Logical Properties On Web Apps",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
@@ -259,7 +274,7 @@
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5489,
+          "wordCount": 5603,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -276,6 +291,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
+          "author": "Jennifer Bland",
+          "description": "If you have been a programmer for a while, then you have likely used a  console.log to display data.  You may want to see the value of data while your program is running, or you may be trying to troubleshoot a problem.  Sometimes the data displayed in",
+          "link": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
+          "publishedOn": "2023-01-16T21:46:19.000Z",
+          "wordCount": 1055,
+          "title": "How to Format Output You Send to the Console",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Formatting-Output-To-The-Console.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
+          "author": "Tomer Ben Rachel",
+          "description": "Let's say that you are using a version control system and your project uses services that require API keys. Everything is all good when they're on your local machine, but you don’t want to share these API keys with the world. So how can you still preserve your API keys",
+          "link": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
+          "publishedOn": "2023-01-16T21:03:19.000Z",
+          "wordCount": 1083,
+          "title": "How to Hide Your API Keys in an Android Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/oleg-didenko-lMNo9SwBN_o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
+          "author": "David Clinton",
+          "description": "You may not always be aware of it, but you're enjoying the many fruits of the cloud just about every hour of every day. Many of the joys (and horrors) of modern life would be impossible without it.  Before we talk about what it does and where it's taking",
+          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
+          "publishedOn": "2023-01-16T19:03:48.000Z",
+          "wordCount": 3764,
+          "title": "What is Cloud Computing? Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-210158--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
+          "author": "Andrew Brown",
+          "description": "The old authentication systems from monolithic applications don't work well in modern applications. When you build a web-application, you need a way to handle user authentication (the ability for a user to log in to your web-application). Traditionally, web-applications were built as monoliths and authentication systems were installed via a",
+          "link": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
+          "publishedOn": "2023-01-16T18:32:55.000Z",
+          "wordCount": 2451,
+          "title": "How to Run Your Own Decentralized Authentication Service Using AuthN",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-39624--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
+          "author": "Jennifer Bland",
+          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter",
+          "link": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
+          "publishedOn": "2023-01-16T17:13:21.000Z",
+          "wordCount": 1488,
+          "title": "How to Build a Grid to List Toggle using CSS Grid and JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-To-List-Toggle-Using-CSS-Grid.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/",
           "author": "Timonwa Akintokun",
           "description": "In this article, I'm going to show you how to build a real-time chat app using React.js and Firebase.  In the app, we will allow the user to log in with their Google account using Firebase's Google sign-in Authentication. We will also store and retrieve all the chatroom messages",
@@ -291,7 +356,7 @@
           "description": "Nowadays, most web applications have a search feature. Users can use the search feature in order to navigate websites more easily. Implementing a search feature in Ruby on Rails is very easy. By using only a few lines of code you can set it up. This tutorial assumes that you",
           "link": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
           "publishedOn": "2023-01-13T18:22:33.000Z",
-          "wordCount": 1443,
+          "wordCount": 1444,
           "title": "How to Add Search Functionality to a Ruby on Rails Application",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/markus-winkler-afW1hht0NSs-unsplash.jpg"
         },
@@ -324,56 +389,6 @@
           "wordCount": 1800,
           "title": "C# Coding Best Practices – Coding Conventions with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/",
-          "author": "Arunachalam B",
-          "description": "When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you'll need a good understanding Linux permissions to manage and/or",
-          "link": "https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/",
-          "publishedOn": "2023-01-13T16:25:20.000Z",
-          "wordCount": 2544,
-          "title": "File Permissions in Linux – How to Use the chown and chgrp Commands",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Manage-Users-and-Groups-in-Linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
-          "author": "Joel Olawanle",
-          "description": "Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.",
-          "link": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
-          "publishedOn": "2023-01-12T18:23:07.000Z",
-          "wordCount": 1268,
-          "title": "What is SQL? Database Definition for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--8-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/",
-          "author": "Jennifer Bland",
-          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's",
-          "link": "https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/",
-          "publishedOn": "2023-01-12T17:57:06.000Z",
-          "wordCount": 2062,
-          "title": "How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-to-list-toggle-using-JavaScript-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This",
-          "link": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
-          "publishedOn": "2023-01-12T15:47:53.000Z",
-          "wordCount": 1009,
-          "title": "Software System Design for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/systemdesign.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.",
-          "link": "https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/",
-          "publishedOn": "2023-01-12T15:29:17.000Z",
-          "wordCount": 1322,
-          "title": "Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/isaac-smith-6EnTPvPPL6I-unsplash.jpg"
         }
       ]
     }

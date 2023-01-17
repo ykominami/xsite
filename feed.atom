@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T00:10:38.223Z</id>
+    <id>urn:2023-01-17T00:10:22.941Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T00:10:38.224Z</updated>
+    <updated>2023-01-17T00:10:22.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Format Output You Send to the Console]]></title>
+        <id>https://www.freecodecamp.org/news/formatting-output-to-the-console/</id>
+        <link href="https://www.freecodecamp.org/news/formatting-output-to-the-console/"/>
+        <updated>2023-01-16T21:46:19.000Z</updated>
+        <summary type="html"><![CDATA[If you have been a programmer for a while, then you have likely used a  console.log to display data.  You may want to see the value of data while your program is running, or you may be trying to troubleshoot a problem.  Sometimes the data displayed in]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hide Your API Keys in an Android Application]]></title>
+        <id>https://www.freecodecamp.org/news/hide-your-api-keys-in-android/</id>
+        <link href="https://www.freecodecamp.org/news/hide-your-api-keys-in-android/"/>
+        <updated>2023-01-16T21:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Let's say that you are using a version control system and your project uses services that require API keys. Everything is all good when they're on your local machine, but you don’t want to share these API keys with the world. So how can you still preserve your API keys]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Computing? Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/"/>
+        <updated>2023-01-16T19:03:48.000Z</updated>
+        <summary type="html"><![CDATA[You may not always be aware of it, but you're enjoying the many fruits of the cloud just about every hour of every day. Many of the joys (and horrors) of modern life would be impossible without it.  Before we talk about what it does and where it's taking]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Your Own Decentralized Authentication Service Using AuthN]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/"/>
+        <updated>2023-01-16T18:32:55.000Z</updated>
+        <summary type="html"><![CDATA[The old authentication systems from monolithic applications don't work well in modern applications. When you build a web-application, you need a way to handle user authentication (the ability for a user to log in to your web-application). Traditionally, web-applications were built as monoliths and authentication systems were installed via a]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing The Image Element LCP]]></title>
+        <id>https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/</id>
+        <link href="https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/"/>
+        <updated>2023-01-16T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eloïse Martin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Grid to List Toggle using CSS Grid and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/</id>
+        <link href="https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/"/>
+        <updated>2023-01-16T17:13:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Real-time Chat App with ReactJS and Firebase]]></title>
         <id>https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/</id>
@@ -56,61 +116,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[File Permissions in Linux – How to Use the chown and chgrp Commands]]></title>
-        <id>https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/</id>
-        <link href="https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/"/>
-        <updated>2023-01-13T16:25:20.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you'll need a good understanding Linux permissions to manage and/or]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SQL? Database Definition for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/"/>
-        <updated>2023-01-12T18:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/"/>
-        <updated>2023-01-12T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's]]></summary>
-        <author>
-            <name>Jennifer Bland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software System Design for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/software-system-design-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/software-system-design-for-beginners/"/>
-        <updated>2023-01-12T15:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()]]></title>
-        <id>https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/"/>
-        <updated>2023-01-12T15:29:17.000Z</updated>
-        <summary type="html"><![CDATA[When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Front-End Tools Of 2022]]></title>
         <id>https://smashingmagazine.com/2023/01/top-frontend-tools-2022/</id>
         <link href="https://smashingmagazine.com/2023/01/top-frontend-tools-2022/"/>
         <updated>2023-01-12T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!]]></summary>
+        <summary type="html"><![CDATA[Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
         </author>
