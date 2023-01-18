@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376352",
+          "author": "Mariana Beldi",
+          "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/",
+          "publishedOn": "2023-01-17T13:51:20.000Z",
+          "wordCount": 3072,
+          "title": "6 Common SVG Fails (and How to Fix Them)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376352"
+        },
+        {
           "id": "https://css-tricks.com/?p=376342",
           "author": "Geoff Graham",
           "description": "A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …\n:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -89,12 +99,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Writing code documentation can be overwhelming when there’s no smooth process in place. Streamlining best practices and setting automation in your favor works a long way toward getting permanently up-to-date content that reflects the important pieces of your codebase.",
+          "link": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 3671,
+          "title": "Code Documentation, Streamlined",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "author": "hello@smashingmagazine.com (Eloïse Martin)",
           "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
           "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5326,
+          "wordCount": 5227,
           "title": "Optimizing The Image Element LCP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
@@ -109,7 +134,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "publishedOn": "2023-01-12T09:00:00.000Z",
-          "wordCount": 6203,
+          "wordCount": 6198,
           "title": "Top Front-End Tools Of 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89130f18-afc5-4a6e-b9fc-5f9acead5136/top-frontend-tools-2022.jpg",
@@ -124,7 +149,7 @@
           "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
           "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
           "publishedOn": "2023-01-11T08:00:00.000Z",
-          "wordCount": 5338,
+          "wordCount": 5342,
           "title": "Closed Captions And Subtitles UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
@@ -154,7 +179,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8935,
+          "wordCount": 8932,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -169,7 +194,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5483,
+          "wordCount": 5482,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -184,7 +209,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3552,
+          "wordCount": 3557,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -199,7 +224,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4664,
+          "wordCount": 4669,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -229,7 +254,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4905,
+          "wordCount": 4899,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -244,7 +269,7 @@
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
           "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4372,
+          "wordCount": 4378,
           "title": "Deploying CSS Logical Properties On Web Apps",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
@@ -274,7 +299,7 @@
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
           "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5603,
+          "wordCount": 5504,
           "title": "Taking The Stress Out Of Design System Management",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
@@ -290,6 +315,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
+          "author": "Zubair Idris Aweda",
+          "description": "Data analysis involves taking data you have and extracting useful information from them. During the process, you need to clean the data, present them in a useful way, and draw conclusions that can help companies make important decisions. Data analysis is commonly done with languages like Python and R. Very",
+          "link": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
+          "publishedOn": "2023-01-17T21:59:00.000Z",
+          "wordCount": 1884,
+          "title": "How to Use JavaScript for Data Analysis – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/looking-at-data.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Setting font sizes is something you'll do often as a web developer. But sometimes, especially for beginners, this can get a bit tricky.  In this article, I'll explain why I think you should always use rem over em for setting the font-size of an element. What are Relative",
+          "link": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
+          "publishedOn": "2023-01-17T21:33:17.000Z",
+          "wordCount": 1364,
+          "title": "Why You Should Use rem to Set Font Size in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/em_vs_rem.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
+          "author": "Hillary Nyakundi",
+          "description": "In today's digital world, user authentication is essential in ensuring secure access to online accounts and resources. With the rise of cyber-threats, companies need to ensure that their users are authenticated before accessing any sensitive information. This helps protect the online safety of both parties. In the past, the most",
+          "link": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
+          "publishedOn": "2023-01-17T18:05:56.000Z",
+          "wordCount": 2272,
+          "title": "Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/OOP.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
+          "author": "Dillion Megida",
+          "description": "Until recently, I called a ternary operator a conditional operator in JavaScript. But I just learned that this isn't correct. In this tutorial, I will explain how I learned this, and hopefully it teaches you something new. I have a video version on this topic [https://youtu.be/vcNlFKzZTq4] you can watch as",
+          "link": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
+          "publishedOn": "2023-01-17T17:17:44.000Z",
+          "wordCount": 1246,
+          "title": "Why a Ternary Operator is not a Conditional Operator in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/17.-ternary-not-conditional.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
+          "author": "Dillion Megida",
+          "description": "There are many operators in JavaScript that let you carry out different operations. These operators can be categorized based on the number of operands they require, and I'll be using examples to explain these categories in this tutorial. The three categories of operators based on the number of operands they",
+          "link": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
+          "publishedOn": "2023-01-17T16:58:24.000Z",
+          "wordCount": 1668,
+          "title": "Unary, Binary, and Ternary Operators in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/16.-unary-binary-ternary.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript programming, we are all used to creating and working with one-dimensional arrays. These are arrays that contain elements (elements of similar data types or multiple data types). But it’s also good to know that two-dimensional arrays (2D arrays) exist in JS. In this article, you will learn what",
+          "link": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
+          "publishedOn": "2023-01-17T16:47:25.000Z",
+          "wordCount": 3255,
+          "title": "JavaScript 2D Array – Two Dimensional Arrays in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,",
+          "link": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
+          "publishedOn": "2023-01-17T01:04:42.000Z",
+          "wordCount": 5133,
+          "title": "How to Use React Hooks – Full Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/steve-johnson-6sB8gMRlEAU-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
           "author": "Jennifer Bland",
@@ -319,76 +414,6 @@
           "wordCount": 3764,
           "title": "What is Cloud Computing? Explained for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-210158--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
-          "author": "Andrew Brown",
-          "description": "The old authentication systems from monolithic applications don't work well in modern applications. When you build a web-application, you need a way to handle user authentication (the ability for a user to log in to your web-application). Traditionally, web-applications were built as monoliths and authentication systems were installed via a",
-          "link": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
-          "publishedOn": "2023-01-16T18:32:55.000Z",
-          "wordCount": 2451,
-          "title": "How to Run Your Own Decentralized Authentication Service Using AuthN",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-39624--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
-          "author": "Jennifer Bland",
-          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter",
-          "link": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
-          "publishedOn": "2023-01-16T17:13:21.000Z",
-          "wordCount": 1488,
-          "title": "How to Build a Grid to List Toggle using CSS Grid and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-To-List-Toggle-Using-CSS-Grid.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/",
-          "author": "Timonwa Akintokun",
-          "description": "In this article, I'm going to show you how to build a real-time chat app using React.js and Firebase.  In the app, we will allow the user to log in with their Google account using Firebase's Google sign-in Authentication. We will also store and retrieve all the chatroom messages",
-          "link": "https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/",
-          "publishedOn": "2023-01-13T22:26:07.000Z",
-          "wordCount": 4090,
-          "title": "How to Build a Real-time Chat App with ReactJS and Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Cover-Images-freeCodeCamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
-          "author": "Sampurna Chapagain",
-          "description": "Nowadays, most web applications have a search feature. Users can use the search feature in order to navigate websites more easily. Implementing a search feature in Ruby on Rails is very easy. By using only a few lines of code you can set it up. This tutorial assumes that you",
-          "link": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
-          "publishedOn": "2023-01-13T18:22:33.000Z",
-          "wordCount": 1444,
-          "title": "How to Add Search Functionality to a Ruby on Rails Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/markus-winkler-afW1hht0NSs-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "A Pandas Dataframe is a 2-dimensional data structure that displays data in tables with rows and columns.  In this article, you'll learn how to rename columns in a Pandas Dataframe by using:   * The rename() function.  * A List.  * The set_axis() function. How to",
-          "link": "https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/",
-          "publishedOn": "2023-01-13T18:18:13.000Z",
-          "wordCount": 1301,
-          "title": "How to Rename a Column in Pandas – Python Pandas Dataframe Renaming Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/how-to-rename-column-in-pandas.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/",
-          "author": "Kolade Chris",
-          "description": "In SQL, the COALESCE() function returns the first non-null value in an entry. It evaluates the values of the entries one by one, ignores the null values, then returns the first value that is not null. It works in PostgreSQL, SQL server, and MySQL. In this article, I will show",
-          "link": "https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/",
-          "publishedOn": "2023-01-13T18:14:20.000Z",
-          "wordCount": 1199,
-          "title": "Coalesce SQL – Example PostgreSQL and SQL Server Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/coalesce.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/",
-          "author": "Edeh Israel Chidera",
-          "description": "Coding conventions ensure that your code is consistent, readable, understandable, and maintainable.  When it comes to writing clean and quality code, there are conventions developers should follow to make this possible.  There are a few things you should keep in mind while writing your code. In this article,",
-          "link": "https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/",
-          "publishedOn": "2023-01-13T16:31:30.000Z",
-          "wordCount": 1800,
-          "title": "C# Coding Best Practices – Coding Conventions with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
         }
       ]
     }
