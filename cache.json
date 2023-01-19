@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376435",
+          "author": "Liam Johnston",
+          "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
+          "publishedOn": "2023-01-18T13:44:00.000Z",
+          "wordCount": 2183,
+          "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
+        },
+        {
           "id": "https://css-tricks.com/?p=376352",
           "author": "Mariana Beldi",
           "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -57,7 +67,7 @@
           "description": "You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…\nThank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2022-edition/",
           "publishedOn": "2022-12-28T15:46:15.000Z",
-          "wordCount": 3227,
+          "wordCount": 3263,
           "title": "Thank You (2022 Edition)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375486"
         },
@@ -80,16 +90,6 @@
           "wordCount": 1528,
           "title": "Help choose the syntax for CSS Nesting",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376319"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376297",
-          "author": "Geoff Graham",
-          "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-playground-run-in-browser/",
-          "publishedOn": "2022-12-19T16:52:45.000Z",
-          "wordCount": 1032,
-          "title": "WordPress Playground: Running WordPress in the Browser",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376297"
         }
       ]
     },
@@ -98,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Get better at your craft and support the people in Ukraine — that’s the idea behind our Figma Auto Layout Masterclass with Christine Vallaure. **We are donating all proceeds** from the online workshop to humanitarian aid in Ukraine. Monday, March 27, 09:00AM – 12:00PM PT / 18:00 – 21:00 CET. Donate and join!",
+          "link": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
+          "publishedOn": "2023-01-18T14:00:00.000Z",
+          "wordCount": 3141,
+          "title": "Figma Auto Layout Masterclass: An Online Workshop To Support Ukraine 🇺🇦",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -119,7 +134,7 @@
           "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
           "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5227,
+          "wordCount": 5233,
           "title": "Optimizing The Image Element LCP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
@@ -134,7 +149,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "publishedOn": "2023-01-12T09:00:00.000Z",
-          "wordCount": 6198,
+          "wordCount": 6201,
           "title": "Top Front-End Tools Of 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89130f18-afc5-4a6e-b9fc-5f9acead5136/top-frontend-tools-2022.jpg",
@@ -149,7 +164,7 @@
           "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
           "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
           "publishedOn": "2023-01-11T08:00:00.000Z",
-          "wordCount": 5342,
+          "wordCount": 5336,
           "title": "Closed Captions And Subtitles UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
@@ -179,7 +194,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8932,
+          "wordCount": 8921,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -194,7 +209,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5482,
+          "wordCount": 5485,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -209,7 +224,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3557,
+          "wordCount": 3551,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -224,7 +239,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4669,
+          "wordCount": 4668,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -239,7 +254,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4684,
+          "wordCount": 4678,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -254,7 +269,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4899,
+          "wordCount": 4894,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -269,7 +284,7 @@
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
           "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4378,
+          "wordCount": 4372,
           "title": "Deploying CSS Logical Properties On Web Apps",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
@@ -277,36 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
-          "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "publishedOn": "2022-12-20T12:00:00.000Z",
-          "wordCount": 8320,
-          "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
-          "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
-          "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5504,
-          "title": "Taking The Stress Out Of Design System Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg"
         }
       ]
     },
@@ -316,14 +301,74 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/applications-of-julia/",
+          "author": "Ifihanagbara Olusheye",
+          "description": "Julia [https://julialang.org/] is a high-level, high-performance dynamic programming language. It combines the ease of use of scripting languages like Python with the speed and efficiency of compiled languages like C/C++.  Julia has been gaining traction due to its speed, intuitive syntax, and ability to quickly and efficiently solve complex",
+          "link": "https://www.freecodecamp.org/news/applications-of-julia/",
+          "publishedOn": "2023-01-18T21:50:42.000Z",
+          "wordCount": 2046,
+          "title": "Julia Programming Applications – What is Julia Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Ifihan-article-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/style-react-apps-with-css/",
+          "author": "Valentine Gatwiri",
+          "description": "React is a JavaScript library for building user interfaces. And it's gained a lot of popularity in the front-end development community.  One of the benefits of using React is its integration with CSS, which allows developers to apply styles to their components in a modular and reusable way.",
+          "link": "https://www.freecodecamp.org/news/style-react-apps-with-css/",
+          "publishedOn": "2023-01-18T20:55:27.000Z",
+          "wordCount": 2732,
+          "title": "How to Style Your React Apps with CSS Like a Pro",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-tyler-hendy-52062.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-certificates/",
+          "author": "Dhawal Shah",
+          "description": "Did you know that organizations such as freeCodeCamp, Google, and Harvard offer online courses to help you learn software development? And that many of these include free certificates and badges?  To help you choose one that's right for you, I've created a full list. As avid online learners, my",
+          "link": "https://www.freecodecamp.org/news/free-certificates/",
+          "publishedOn": "2023-01-18T18:01:25.000Z",
+          "wordCount": 2535,
+          "title": "1000+ Free Developer Certifications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/free-developer-certificates-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/",
+          "author": "Dionysia Lemonaki",
+          "description": "While coding in Python, you may need to repeat the same code several times. Writing the same lines of code again and again repeatedly throughout your program is considered a bad practice in programming – this is where loops come in handy. With loops, you can execute a sequence of",
+          "link": "https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/",
+          "publishedOn": "2023-01-18T17:25:16.000Z",
+          "wordCount": 2754,
+          "title": "For Loops in Python – For Loop Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-106155.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/",
+          "author": "Omer Rosenbaum",
+          "description": "There are some magical things about the Internet, and one thing in particular is that it works. In spite of so many obstacles, we can deliver our packets over the globe, and do so fast. Even more specifically, one amazing thing about the Internet is its ability to handle errors.",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/",
+          "publishedOn": "2023-01-18T16:05:43.000Z",
+          "wordCount": 3030,
+          "title": "How to Handle Errors in Computer Networks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Computer-Networks-Hub-Switch.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
+          "author": "Zaira Hira",
+          "description": "Grep is a useful command to search for matching patterns in a file. grep is short for \"global regular expression print\".  If you are a system admin who needs to scrape through log files or a developer trying to find certain occurrences in the code file, then grep is",
+          "link": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
+          "publishedOn": "2023-01-17T22:40:13.000Z",
+          "wordCount": 1626,
+          "title": "Grep Command in Linux – Usage, Options, and Syntax Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
           "author": "Zubair Idris Aweda",
           "description": "Data analysis involves taking data you have and extracting useful information from them. During the process, you need to clean the data, present them in a useful way, and draw conclusions that can help companies make important decisions. Data analysis is commonly done with languages like Python and R. Very",
           "link": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
           "publishedOn": "2023-01-17T21:59:00.000Z",
-          "wordCount": 1884,
+          "wordCount": 1873,
           "title": "How to Use JavaScript for Data Analysis – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/looking-at-data.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-burak-the-weekender-186461.jpg"
         },
         {
           "id": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
@@ -331,7 +376,7 @@
           "description": "Setting font sizes is something you'll do often as a web developer. But sometimes, especially for beginners, this can get a bit tricky.  In this article, I'll explain why I think you should always use rem over em for setting the font-size of an element. What are Relative",
           "link": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
           "publishedOn": "2023-01-17T21:33:17.000Z",
-          "wordCount": 1364,
+          "wordCount": 1343,
           "title": "Why You Should Use rem to Set Font Size in CSS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/em_vs_rem.png"
         },
@@ -341,7 +386,7 @@
           "description": "In today's digital world, user authentication is essential in ensuring secure access to online accounts and resources. With the rise of cyber-threats, companies need to ensure that their users are authenticated before accessing any sensitive information. This helps protect the online safety of both parties. In the past, the most",
           "link": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
           "publishedOn": "2023-01-17T18:05:56.000Z",
-          "wordCount": 2272,
+          "wordCount": 2261,
           "title": "Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/OOP.png"
         },
@@ -351,69 +396,9 @@
           "description": "Until recently, I called a ternary operator a conditional operator in JavaScript. But I just learned that this isn't correct. In this tutorial, I will explain how I learned this, and hopefully it teaches you something new. I have a video version on this topic [https://youtu.be/vcNlFKzZTq4] you can watch as",
           "link": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
           "publishedOn": "2023-01-17T17:17:44.000Z",
-          "wordCount": 1246,
+          "wordCount": 1235,
           "title": "Why a Ternary Operator is not a Conditional Operator in JS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/17.-ternary-not-conditional.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
-          "author": "Dillion Megida",
-          "description": "There are many operators in JavaScript that let you carry out different operations. These operators can be categorized based on the number of operands they require, and I'll be using examples to explain these categories in this tutorial. The three categories of operators based on the number of operands they",
-          "link": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
-          "publishedOn": "2023-01-17T16:58:24.000Z",
-          "wordCount": 1668,
-          "title": "Unary, Binary, and Ternary Operators in JavaScript – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/16.-unary-binary-ternary.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript programming, we are all used to creating and working with one-dimensional arrays. These are arrays that contain elements (elements of similar data types or multiple data types). But it’s also good to know that two-dimensional arrays (2D arrays) exist in JS. In this article, you will learn what",
-          "link": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
-          "publishedOn": "2023-01-17T16:47:25.000Z",
-          "wordCount": 3255,
-          "title": "JavaScript 2D Array – Two Dimensional Arrays in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,",
-          "link": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
-          "publishedOn": "2023-01-17T01:04:42.000Z",
-          "wordCount": 5133,
-          "title": "How to Use React Hooks – Full Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/steve-johnson-6sB8gMRlEAU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
-          "author": "Jennifer Bland",
-          "description": "If you have been a programmer for a while, then you have likely used a  console.log to display data.  You may want to see the value of data while your program is running, or you may be trying to troubleshoot a problem.  Sometimes the data displayed in",
-          "link": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
-          "publishedOn": "2023-01-16T21:46:19.000Z",
-          "wordCount": 1055,
-          "title": "How to Format Output You Send to the Console",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Formatting-Output-To-The-Console.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
-          "author": "Tomer Ben Rachel",
-          "description": "Let's say that you are using a version control system and your project uses services that require API keys. Everything is all good when they're on your local machine, but you don’t want to share these API keys with the world. So how can you still preserve your API keys",
-          "link": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
-          "publishedOn": "2023-01-16T21:03:19.000Z",
-          "wordCount": 1083,
-          "title": "How to Hide Your API Keys in an Android Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/oleg-didenko-lMNo9SwBN_o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
-          "author": "David Clinton",
-          "description": "You may not always be aware of it, but you're enjoying the many fruits of the cloud just about every hour of every day. Many of the joys (and horrors) of modern life would be impossible without it.  Before we talk about what it does and where it's taking",
-          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
-          "publishedOn": "2023-01-16T19:03:48.000Z",
-          "wordCount": 3764,
-          "title": "What is Cloud Computing? Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-210158--1-.jpg"
         }
       ]
     }
