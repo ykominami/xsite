@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376610",
+          "author": "Adam Rackis",
+          "description": "SvelteKit is the latest of what I’d call next-gen application frameworks. It, of course, scaffolds an application for you, with the file-based routing, deployment, and server-side rendering that Next has done forever. But SvelteKit also supports nested layouts, server mutations …\nGetting Started With SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-started-with-sveltekit/",
+          "publishedOn": "2023-01-23T13:48:43.000Z",
+          "wordCount": 3401,
+          "title": "Getting Started With SvelteKit",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376610"
+        },
+        {
           "id": "https://css-tricks.com/?p=376331",
           "author": "Liam Johnston",
           "description": "The :has() pseudo-class is, hands-down, my favorite new CSS feature. I know it is for many of you as well, at least those of you who took the State of CSS survey. The ability to write selectors upside down …\nMore Real-World Uses for :has() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/more-real-world-uses-for-has/",
           "publishedOn": "2023-01-20T15:34:09.000Z",
-          "wordCount": 1782,
+          "wordCount": 1925,
           "title": "More Real-World Uses for :has()",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376331"
         },
@@ -37,7 +47,7 @@
           "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
           "publishedOn": "2023-01-18T13:44:00.000Z",
-          "wordCount": 2388,
+          "wordCount": 3114,
           "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
         },
@@ -99,6 +109,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "The CSS relational selector :has() offers what was previously impossible without JavaScript. Let’s explore some magical powers that :has brings.",
+          "link": "https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/",
+          "publishedOn": "2023-01-23T12:00:00.000Z",
+          "wordCount": 6090,
+          "title": "Level Up Your CSS Skills With The :has() Selector",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/has-selector-level-up-css-skills/has-selector-level-up-css-skills.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/has-selector-level-up-css-skills/has-selector-level-up-css-skills.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
           "author": "hello@smashingmagazine.com (Daniel Yuschick)",
           "description": "In this article, Daniel Yuschick demonstrates that building selfish components is the key approach to avoiding different pitfalls on the way to good component design.",
@@ -119,8 +144,8 @@
           "description": "In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.",
           "link": "https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/",
           "publishedOn": "2023-01-19T15:00:00.000Z",
-          "wordCount": 7070,
-          "title": "Introverted Design: Building Better UX Experiences",
+          "wordCount": 7175,
+          "title": "How To Design Better UX With Introverted Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg",
             "length": "0",
@@ -179,7 +204,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "publishedOn": "2023-01-12T09:00:00.000Z",
-          "wordCount": 6202,
+          "wordCount": 6194,
           "title": "Top Front-End Tools Of 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89130f18-afc5-4a6e-b9fc-5f9acead5136/top-frontend-tools-2022.jpg",
@@ -194,7 +219,7 @@
           "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
           "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
           "publishedOn": "2023-01-11T08:00:00.000Z",
-          "wordCount": 5351,
+          "wordCount": 5352,
           "title": "Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
@@ -224,7 +249,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8931,
+          "wordCount": 8922,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -239,7 +264,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5488,
+          "wordCount": 5484,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -254,7 +279,7 @@
           "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
           "link": "https://smashingmagazine.com/2023/01/usability-2023/",
           "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3551,
+          "wordCount": 3553,
           "title": "The State Of Usability In 2023 🎊",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
@@ -269,7 +294,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
           "link": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "publishedOn": "2022-12-31T09:00:00.000Z",
-          "wordCount": 4668,
+          "wordCount": 4664,
           "title": "Opening The Doors To 2023 (January Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ea4019d5-9870-41a3-9646-a68895c59a3d/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -284,7 +309,7 @@
           "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
           "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
           "publishedOn": "2022-12-30T15:00:00.000Z",
-          "wordCount": 4679,
+          "wordCount": 4681,
           "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
@@ -299,7 +324,7 @@
           "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
           "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "publishedOn": "2022-12-27T11:00:00.000Z",
-          "wordCount": 4897,
+          "wordCount": 4899,
           "title": "A Guide To Command-Line Data Manipulation",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
@@ -315,6 +340,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
+          "author": "Beau Carnes",
+          "description": "College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course",
+          "link": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
+          "publishedOn": "2023-01-23T17:00:26.000Z",
+          "wordCount": 1502,
+          "title": "Free College Algebra Course (with Python Code!)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/algebra.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
+          "author": "Kunal Nalawade",
+          "description": "When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you",
+          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
+          "publishedOn": "2023-01-23T15:35:25.000Z",
+          "wordCount": 3673,
+          "title": "How to Write Unit Tests in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/unit-testing-in-react-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-sim/",
+          "author": "Jacob Stopak",
+          "description": "Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local",
+          "link": "https://www.freecodecamp.org/news/git-sim/",
+          "publishedOn": "2023-01-23T14:57:06.000Z",
+          "wordCount": 2728,
+          "title": "How to Visualize Confusing Git Commands with Git-Sim",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/git-sim-merge_01-05-23_09-44-46-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
+          "author": "Deborah Kurata",
+          "description": "To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three",
+          "link": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
+          "publishedOn": "2023-01-23T14:00:00.000Z",
+          "wordCount": 1449,
+          "title": "What Are CSS Pseudo-Classes?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pseudo-classes-thumbnail.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-submit-a-form-with-javascript/",
           "author": "Joel Olawanle",
@@ -351,7 +416,7 @@
           "description": "APIs, or application program interfaces, are essential mechanisms for businesses in all industries. They allow for a secure exchange of data between two different systems, such as a web application and a database. Think of when you are using a mobile app to order food from a restaurant. The restaurant's",
           "link": "https://www.freecodecamp.org/news/react-native-networking-api-requests-using-fetchapi/",
           "publishedOn": "2023-01-20T19:35:24.000Z",
-          "wordCount": 2272,
+          "wordCount": 2267,
           "title": "React Native Networking – How To Perform API Requests In React Native using the FetchAPI",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-276502--1-.jpg"
         },
@@ -374,46 +439,6 @@
           "wordCount": 1907,
           "title": "Excel Tutorial – How to Clean Data with the TRIM() and CLEAN() Functions",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/clean-and-trim-fcc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/",
-          "author": "Arunachalam B",
-          "description": "Did you know you can use the terminal to check the spelling of a passage you've written?  The terminal has a lot of utility commands, but most people are unaware of many of them.  I've seen people using Microsoft Word or Google to check the spelling of a",
-          "link": "https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/",
-          "publishedOn": "2023-01-20T16:17:10.000Z",
-          "wordCount": 1889,
-          "title": "How to Use Spell Check on your Linux Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Spell-Check-in-Linux-Terminal.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hosting-a-wordpress-website/",
-          "author": "Jim Campbell",
-          "description": "Are you looking for a reliable and secure WordPress hosting provider? With so many options available, it can be hard to know which host is right for your needs. When selecting a hosting provider, several factors need to be taken into consideration. From the size of your website to the",
-          "link": "https://www.freecodecamp.org/news/hosting-a-wordpress-website/",
-          "publishedOn": "2023-01-19T20:44:01.000Z",
-          "wordCount": 1530,
-          "title": "How to Choose a WordPress Host",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/souvik-banerjee--WPrNEM_6dg-unsplash.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-detailed-guide-to-pre-caching/",
-          "author": "Saurabh Dashora",
-          "description": "Speed and performance are two of the key ingredients that make a website stand out from its peers. Imagine visiting a bestseller list on the Amazon website and finding that the product pages take forever to show up. What about a blog publishing some great stories that readers aren’t able",
-          "link": "https://www.freecodecamp.org/news/a-detailed-guide-to-pre-caching/",
-          "publishedOn": "2023-01-19T18:05:56.000Z",
-          "wordCount": 2965,
-          "title": "What is Pre-Caching? How to Increase Website Speed and Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pre-caching.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-to-a-list-in-python-list-addition-tutorial/",
-          "author": "Kolade Chris",
-          "description": "A list is a mutable sequence of elements surrounded by square brackets. If you’re familiar with JavaScript, a Python list is like a JavaScript array. It's one of the built-in data structures in Python. The others are tuple, dictionary, and set. A list can contain any data type such as",
-          "link": "https://www.freecodecamp.org/news/how-to-add-to-a-list-in-python-list-addition-tutorial/",
-          "publishedOn": "2023-01-19T17:51:50.000Z",
-          "wordCount": 1360,
-          "title": "How to Add to a List in Python – List Addition Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ono-kosuki-5999834.jpg"
         }
       ]
     }

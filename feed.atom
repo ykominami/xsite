@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T00:10:03.436Z</id>
+    <id>urn:2023-01-24T00:09:58.042Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T00:10:03.436Z</updated>
+    <updated>2023-01-24T00:09:58.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free College Algebra Course (with Python Code!)]]></title>
+        <id>https://www.freecodecamp.org/news/college-algebra-course-with-python-code/</id>
+        <link href="https://www.freecodecamp.org/news/college-algebra-course-with-python-code/"/>
+        <updated>2023-01-23T17:00:26.000Z</updated>
+        <summary type="html"><![CDATA[College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Unit Tests in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/"/>
+        <updated>2023-01-23T15:35:25.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Visualize Confusing Git Commands with Git-Sim]]></title>
+        <id>https://www.freecodecamp.org/news/git-sim/</id>
+        <link href="https://www.freecodecamp.org/news/git-sim/"/>
+        <updated>2023-01-23T14:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local]]></summary>
+        <author>
+            <name>Jacob Stopak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are CSS Pseudo-Classes?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-pseudo-classes-css/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-pseudo-classes-css/"/>
+        <updated>2023-01-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With SvelteKit]]></title>
+        <id>https://css-tricks.com/?p=376610</id>
+        <link href="https://css-tricks.com/getting-started-with-sveltekit/"/>
+        <updated>2023-01-23T13:48:43.000Z</updated>
+        <summary type="html"><![CDATA[SvelteKit is the latest of what I’d call next-gen application frameworks. It, of course, scaffolds an application for you, with the file-based routing, deployment, and server-side rendering that Next has done forever. But SvelteKit also supports nested layouts, server mutations …
+Getting Started With SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level Up Your CSS Skills With The :has() Selector]]></title>
+        <id>https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/</id>
+        <link href="https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/"/>
+        <updated>2023-01-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS relational selector :has() offers what was previously impossible without JavaScript. Let’s explore some magical powers that :has brings.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Submit a Form with JavaScript – JS Submit Button Example]]></title>
         <id>https://www.freecodecamp.org/news/how-to-submit-a-form-with-javascript/</id>
@@ -76,16 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Spell Check on your Linux Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/"/>
-        <updated>2023-01-20T16:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Did you know you can use the terminal to check the spelling of a passage you've written?  The terminal has a lot of utility commands, but most people are unaware of many of them.  I've seen people using Microsoft Word or Google to check the spelling of a]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[More Real-World Uses for :has()]]></title>
         <id>https://css-tricks.com/?p=376331</id>
         <link href="https://css-tricks.com/more-real-world-uses-for-has/"/>
@@ -97,37 +148,7 @@ More Real-World Uses for :has() originally published on CSS-Tricks, which is par
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Choose a WordPress Host]]></title>
-        <id>https://www.freecodecamp.org/news/hosting-a-wordpress-website/</id>
-        <link href="https://www.freecodecamp.org/news/hosting-a-wordpress-website/"/>
-        <updated>2023-01-19T20:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for a reliable and secure WordPress hosting provider? With so many options available, it can be hard to know which host is right for your needs. When selecting a hosting provider, several factors need to be taken into consideration. From the size of your website to the]]></summary>
-        <author>
-            <name>Jim Campbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Pre-Caching? How to Increase Website Speed and Performance]]></title>
-        <id>https://www.freecodecamp.org/news/a-detailed-guide-to-pre-caching/</id>
-        <link href="https://www.freecodecamp.org/news/a-detailed-guide-to-pre-caching/"/>
-        <updated>2023-01-19T18:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Speed and performance are two of the key ingredients that make a website stand out from its peers. Imagine visiting a bestseller list on the Amazon website and finding that the product pages take forever to show up. What about a blog publishing some great stories that readers aren’t able]]></summary>
-        <author>
-            <name>Saurabh Dashora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add to a List in Python – List Addition Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-to-a-list-in-python-list-addition-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-to-a-list-in-python-list-addition-tutorial/"/>
-        <updated>2023-01-19T17:51:50.000Z</updated>
-        <summary type="html"><![CDATA[A list is a mutable sequence of elements surrounded by square brackets. If you’re familiar with JavaScript, a Python list is like a JavaScript array. It's one of the built-in data structures in Python. The others are tuple, dictionary, and set. A list can contain any data type such as]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introverted Design: Building Better UX Experiences]]></title>
+        <title type="html"><![CDATA[How To Design Better UX With Introverted Design]]></title>
         <id>https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/</id>
         <link href="https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/"/>
         <updated>2023-01-19T15:00:00.000Z</updated>
