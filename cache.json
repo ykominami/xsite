@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376634",
+          "author": "Adam Rackis",
+          "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …\nCaching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/caching-data-in-sveltekit/",
+          "publishedOn": "2023-02-01T15:04:33.000Z",
+          "wordCount": 3891,
+          "title": "Caching Data in SvelteKit",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376634"
+        },
+        {
           "id": "https://css-tricks.com/?p=376674",
           "author": "Geoff Graham",
           "description": "Tucked down somewhere in the Safari Technology Preview 161 release notes is a seemingly innocous line about support for a new HTML element and attribute:\nAdded support for <model src> and honor <source type> attributes (257518@main)\nAnytime I …\nAR, VR, and a Model for 3D in HTML originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -119,12 +129,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
+          "link": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
+          "publishedOn": "2023-02-01T11:00:00.000Z",
+          "wordCount": 5410,
+          "title": "Understanding App Directory Architecture In Next.js",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.",
           "link": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
           "publishedOn": "2023-01-31T16:00:00.000Z",
-          "wordCount": 5014,
+          "wordCount": 5012,
           "title": "The Magic Of February (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png",
@@ -169,7 +194,7 @@
           "description": "In this article, Rachel walks you through various ways that product teams can utilize to build relationships with customers. She will share some tips and tricks from her experience that have helped her nurture customer relationships and build better products.",
           "link": "https://smashingmagazine.com/2023/01/build-strong-customer-relationships-user-research/",
           "publishedOn": "2023-01-27T11:30:00.000Z",
-          "wordCount": 6889,
+          "wordCount": 6885,
           "title": "How To Build Strong Customer Relationships For User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-strong-customer-relationships-user-research/meta-image-build-strong-customer-relationships-user-research.jpg",
@@ -214,7 +239,7 @@
           "description": "How do we design effective reviews and ratings? With a distribution chart, decimal scores, tags, recommendation score and unedited product photos.",
           "link": "https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/",
           "publishedOn": "2023-01-25T12:30:00.000Z",
-          "wordCount": 6567,
+          "wordCount": 6564,
           "title": "Product Reviews And Ratings UX: A Designer’s Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-reviews-ratings-ux/sharing-image-product-reviews-ratings-ux.jpg",
@@ -229,7 +254,7 @@
           "description": "Striking the right balance between inspiration and innovation might be hard. Let’s explore how to effectively get inspiration from others without losing that magic spark, including some do’s and don’ts along the way.",
           "link": "https://smashingmagazine.com/2023/01/copying-designs-doesnt-work/",
           "publishedOn": "2023-01-24T11:00:00.000Z",
-          "wordCount": 3951,
+          "wordCount": 3953,
           "title": "Copying Designs Doesn’t Work, And Here’s Why",
           "enclosure": {
             "url": "http://files.smashing.media/articles/copying-designs-doesnt-work/copying-designs-doesnt-work.jpg",
@@ -244,7 +269,7 @@
           "description": "In this episode, we ask whether technology is making us redundant; will we all soon be replaced with AI? Vitaly Friedman talks to Tejas Kumar to find out.",
           "link": "https://smashingmagazine.com/2023/01/smashing-podcast-episode-55/",
           "publishedOn": "2023-01-24T08:00:00.000Z",
-          "wordCount": 11233,
+          "wordCount": 11132,
           "title": "Smashing Podcast Episode 55 With Tejas Kumar: Is Technology Making Us Redundant?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-55/smashing-podcast-episode-55.png",
@@ -259,7 +284,7 @@
           "description": "The CSS relational selector :has() offers what was previously impossible without JavaScript. Let’s explore some magical powers that :has brings.",
           "link": "https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/",
           "publishedOn": "2023-01-23T12:00:00.000Z",
-          "wordCount": 6090,
+          "wordCount": 6095,
           "title": "Level Up Your CSS Skills With The :has() Selector",
           "enclosure": {
             "url": "http://files.smashing.media/articles/has-selector-level-up-css-skills/has-selector-level-up-css-skills.jpg",
@@ -274,7 +299,7 @@
           "description": "In this article, Daniel Yuschick demonstrates that building selfish components is the key approach to avoiding different pitfalls on the way to good component design.",
           "link": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
           "publishedOn": "2023-01-20T17:00:00.000Z",
-          "wordCount": 7157,
+          "wordCount": 7145,
           "title": "The Key To Good Component Design Is Selfishness",
           "enclosure": {
             "url": "http://files.smashing.media/articles/key-good-component-design-selfishness/sharing-image-key-good-component-design-selfishness.jpg",
@@ -289,7 +314,7 @@
           "description": "In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.",
           "link": "https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/",
           "publishedOn": "2023-01-19T15:00:00.000Z",
-          "wordCount": 7067,
+          "wordCount": 7175,
           "title": "How To Design Better UX With Introverted Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg",
@@ -334,7 +359,7 @@
           "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
           "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5225,
+          "wordCount": 5223,
           "title": "Optimizing The Image Element LCP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
@@ -349,7 +374,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "publishedOn": "2023-01-12T09:00:00.000Z",
-          "wordCount": 6200,
+          "wordCount": 6196,
           "title": "Top Front-End Tools Of 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89130f18-afc5-4a6e-b9fc-5f9acead5136/top-frontend-tools-2022.jpg",
@@ -364,7 +389,7 @@
           "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
           "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
           "publishedOn": "2023-01-11T08:00:00.000Z",
-          "wordCount": 5354,
+          "wordCount": 5349,
           "title": "Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
@@ -394,7 +419,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 9033,
+          "wordCount": 8932,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -409,7 +434,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5484,
+          "wordCount": 5486,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -425,6 +450,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/",
+          "author": "Benjamin Semah",
+          "description": "NPM is the largest software registry on the internet. There are over a million packages in the NPM Library.  Developers publish packages on NPM to share their code with others. And organisations also use NPM to share code internally. In this article, you will learn how to create a",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/",
+          "publishedOn": "2023-02-01T21:36:23.000Z",
+          "wordCount": 2055,
+          "title": "How to Create and Publish an NPM Package – a Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/npm-package-article-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/",
+          "author": "Tomer Ben Rachel",
+          "description": "Serialization is the process of transforming data that's in one format into another format that can be stored.  If you have ever worked with a database or fetching data from a server, this should all be familiar to you. If not, you have come to the right place.",
+          "link": "https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/",
+          "publishedOn": "2023-02-01T21:19:13.000Z",
+          "wordCount": 1614,
+          "title": "How to Serialize Your Data in Kotlin and Jetpack Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/fineas-anton-cnoMG2034k8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/",
+          "author": "Kingsley Ubah",
+          "description": "Are React.js and React Native the same? If you're new to the world of web and mobile development, you might be wondering the same thing.  As a newbie, it's easy to assume that React.js are React Native are the same. After all, they both have \"React\" as part of",
+          "link": "https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/",
+          "publishedOn": "2023-02-01T00:41:21.000Z",
+          "wordCount": 1807,
+          "title": "React.js vs React Native – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-pixabay-209339.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
+          "author": "Germán Cocca",
+          "description": "Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be",
+          "link": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
+          "publishedOn": "2023-01-31T23:40:14.000Z",
+          "wordCount": 1869,
+          "title": "How to Use the \"this\" Keyword in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/brad-_Js9c6w_FDk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
+          "author": "Dickson Boateng",
+          "description": "To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can",
+          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
+          "publishedOn": "2023-01-31T23:17:27.000Z",
+          "wordCount": 3925,
+          "title": "Asynchronous Programming in JavaScript – Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Asynchronous-programming.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
           "author": "Kolade Chris",
@@ -474,56 +549,6 @@
           "wordCount": 3239,
           "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
-          "author": "Bala Priya C",
-          "description": "This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a",
-          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
-          "publishedOn": "2023-01-31T00:13:54.000Z",
-          "wordCount": 1705,
-          "title": "How to Write Unit Tests for Instance Methods in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/instance-methods-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
-          "publishedOn": "2023-01-31T00:07:43.000Z",
-          "wordCount": 1239,
-          "title": "JavaScript Require – How to Use the require() Function in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--11-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
-          "author": "Solomon Eseme",
-          "description": "Creating software is hard. So you want to build it once and run it everywhere without adjusting configurations for different operating systems and machines every time. Well, this is one problem that dockerizing your application can help solve. Here's what we'll cover in this tutorial:  * What is Docker?",
-          "link": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
-          "publishedOn": "2023-01-31T00:00:41.000Z",
-          "wordCount": 2461,
-          "title": "How to Dockerize an AdonisJS Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-163726--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/usereducer-hook-react/",
-          "author": "Kunal Nalawade",
-          "description": "State is an important part of a React application. Most functionalities involve making state updates in your component.  But as your application grows, state updates become more and more complex. These complex state updates might get overwhelming when you revisit your code. There is a different way of handling",
-          "link": "https://www.freecodecamp.org/news/usereducer-hook-react/",
-          "publishedOn": "2023-01-30T23:15:08.000Z",
-          "wordCount": 1587,
-          "title": "React Hooks Tutorial – How to Use the useReducer Hook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/photo-1672309046475-4cce2039f342.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
-          "author": "George Field",
-          "description": "As the world continues to adapt to the new normal of remote work, the demand for remote developers has never been higher.  Companies are now realizing the benefits of hiring remote workers, including cost savings and access to a wider pool of talent.  If you're looking for a",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
-          "publishedOn": "2023-01-30T22:09:18.000Z",
-          "wordCount": 1974,
-          "title": "How to Find a Remote Developer Job in 2023",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ekaterina-bolovtsova-4049459.jpg"
         }
       ]
     }
