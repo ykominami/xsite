@@ -17,7 +17,7 @@
           "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …\nCaching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/caching-data-in-sveltekit/",
           "publishedOn": "2023-02-01T15:04:33.000Z",
-          "wordCount": 3891,
+          "wordCount": 3923,
           "title": "Caching Data in SvelteKit",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376634"
         },
@@ -47,7 +47,7 @@
           "description": "SvelteKit is the latest of what I’d call next-gen application frameworks. It, of course, scaffolds an application for you, with the file-based routing, deployment, and server-side rendering that Next has done forever. But SvelteKit also supports nested layouts, server mutations …\nGetting Started With SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-started-with-sveltekit/",
           "publishedOn": "2023-01-23T13:48:43.000Z",
-          "wordCount": 3421,
+          "wordCount": 3479,
           "title": "Getting Started With SvelteKit",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376610"
         },
@@ -57,7 +57,7 @@
           "description": "The :has() pseudo-class is, hands-down, my favorite new CSS feature. I know it is for many of you as well, at least those of you who took the State of CSS survey. The ability to write selectors upside down …\nMore Real-World Uses for :has() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/more-real-world-uses-for-has/",
           "publishedOn": "2023-01-20T15:34:09.000Z",
-          "wordCount": 1921,
+          "wordCount": 1966,
           "title": "More Real-World Uses for :has()",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376331"
         },
@@ -129,12 +129,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/podcasts-ux-designers/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.",
+          "link": "https://smashingmagazine.com/2023/02/podcasts-ux-designers/",
+          "publishedOn": "2023-02-02T15:00:00.000Z",
+          "wordCount": 4626,
+          "title": "Podcasts For UX Designers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Lightsail provides all the power we need to host our websites, as we are used to from AWS, but making it way easier than ever before. In this article, Leonardo Losoviz explores how to launch a WordPress site in Lightsail in a quick and easy way.",
+          "link": "https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/",
+          "publishedOn": "2023-02-02T09:00:00.000Z",
+          "wordCount": 4981,
+          "title": "How To Host A WordPress Site On Amazon Lightsail",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
           "link": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
           "publishedOn": "2023-02-01T11:00:00.000Z",
-          "wordCount": 5410,
+          "wordCount": 5511,
           "title": "Understanding App Directory Architecture In Next.js",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg",
@@ -149,7 +179,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.",
           "link": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
           "publishedOn": "2023-01-31T16:00:00.000Z",
-          "wordCount": 5012,
+          "wordCount": 5010,
           "title": "The Magic Of February (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png",
@@ -179,7 +209,7 @@
           "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
           "link": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
           "publishedOn": "2023-01-30T14:00:00.000Z",
-          "wordCount": 8875,
+          "wordCount": 8882,
           "title": "Easy SVG Customization And Animation: A Practical Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg",
@@ -194,7 +224,7 @@
           "description": "In this article, Rachel walks you through various ways that product teams can utilize to build relationships with customers. She will share some tips and tricks from her experience that have helped her nurture customer relationships and build better products.",
           "link": "https://smashingmagazine.com/2023/01/build-strong-customer-relationships-user-research/",
           "publishedOn": "2023-01-27T11:30:00.000Z",
-          "wordCount": 6885,
+          "wordCount": 6892,
           "title": "How To Build Strong Customer Relationships For User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-strong-customer-relationships-user-research/meta-image-build-strong-customer-relationships-user-research.jpg",
@@ -209,7 +239,7 @@
           "description": "Managing our colors can truly help people to access our content. In this article, Brecht de Ruyte takes a deep dive into how we can create a high-contrast system while maintaining a balance between designing something accessible and respecting the look and feel of a brand.",
           "link": "https://smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/",
           "publishedOn": "2023-01-26T14:00:00.000Z",
-          "wordCount": 5167,
+          "wordCount": 5164,
           "title": "Creating A High-Contrast Design System With CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-contrast-custom-properties/meta-image-high-contrast-design-system-css-custom-properties.jpg",
@@ -239,7 +269,7 @@
           "description": "How do we design effective reviews and ratings? With a distribution chart, decimal scores, tags, recommendation score and unedited product photos.",
           "link": "https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/",
           "publishedOn": "2023-01-25T12:30:00.000Z",
-          "wordCount": 6564,
+          "wordCount": 6569,
           "title": "Product Reviews And Ratings UX: A Designer’s Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-reviews-ratings-ux/sharing-image-product-reviews-ratings-ux.jpg",
@@ -254,7 +284,7 @@
           "description": "Striking the right balance between inspiration and innovation might be hard. Let’s explore how to effectively get inspiration from others without losing that magic spark, including some do’s and don’ts along the way.",
           "link": "https://smashingmagazine.com/2023/01/copying-designs-doesnt-work/",
           "publishedOn": "2023-01-24T11:00:00.000Z",
-          "wordCount": 3953,
+          "wordCount": 3946,
           "title": "Copying Designs Doesn’t Work, And Here’s Why",
           "enclosure": {
             "url": "http://files.smashing.media/articles/copying-designs-doesnt-work/copying-designs-doesnt-work.jpg",
@@ -269,7 +299,7 @@
           "description": "In this episode, we ask whether technology is making us redundant; will we all soon be replaced with AI? Vitaly Friedman talks to Tejas Kumar to find out.",
           "link": "https://smashingmagazine.com/2023/01/smashing-podcast-episode-55/",
           "publishedOn": "2023-01-24T08:00:00.000Z",
-          "wordCount": 11132,
+          "wordCount": 11129,
           "title": "Smashing Podcast Episode 55 With Tejas Kumar: Is Technology Making Us Redundant?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-55/smashing-podcast-episode-55.png",
@@ -299,7 +329,7 @@
           "description": "In this article, Daniel Yuschick demonstrates that building selfish components is the key approach to avoiding different pitfalls on the way to good component design.",
           "link": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
           "publishedOn": "2023-01-20T17:00:00.000Z",
-          "wordCount": 7145,
+          "wordCount": 7155,
           "title": "The Key To Good Component Design Is Selfishness",
           "enclosure": {
             "url": "http://files.smashing.media/articles/key-good-component-design-selfishness/sharing-image-key-good-component-design-selfishness.jpg",
@@ -314,7 +344,7 @@
           "description": "In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.",
           "link": "https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/",
           "publishedOn": "2023-01-19T15:00:00.000Z",
-          "wordCount": 7175,
+          "wordCount": 7071,
           "title": "How To Design Better UX With Introverted Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg",
@@ -359,7 +389,7 @@
           "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
           "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5223,
+          "wordCount": 5227,
           "title": "Optimizing The Image Element LCP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
@@ -374,7 +404,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "publishedOn": "2023-01-12T09:00:00.000Z",
-          "wordCount": 6196,
+          "wordCount": 6200,
           "title": "Top Front-End Tools Of 2022",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89130f18-afc5-4a6e-b9fc-5f9acead5136/top-frontend-tools-2022.jpg",
@@ -389,7 +419,7 @@
           "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
           "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
           "publishedOn": "2023-01-11T08:00:00.000Z",
-          "wordCount": 5349,
+          "wordCount": 5354,
           "title": "Designing for Accessibility: Best Practices for Closed Captioning and Subtitles UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
@@ -419,7 +449,7 @@
           "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
           "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8932,
+          "wordCount": 8931,
           "title": "Understanding Authentication In Websites: A Banking Analogy",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
@@ -434,7 +464,7 @@
           "description": "In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.",
           "link": "https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/",
           "publishedOn": "2023-01-05T09:00:00.000Z",
-          "wordCount": 5486,
+          "wordCount": 5479,
           "title": "A Guide To Getting Data Visualization Right",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg",
@@ -450,6 +480,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
+          "author": "Muhammad Adam",
+          "description": "A calculator application is a simple application that is always available on every Android, iOS, and desktop device.  In this article, we will build a calculator application using React Native and Expo. So why are we using these tools?  React Native is a JavaScript-based framework you can use",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
+          "publishedOn": "2023-02-02T19:29:15.000Z",
+          "wordCount": 2248,
+          "title": "How to Build a Calculator App Using React Native – A Step-by-Step Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/banner---how-to-build-calculator-app-using-react-native-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
+          "author": "Beau Carnes",
+          "description": "Django is a powerful and popular web framework for Python. It is used to build robust and scalable web applications with ease. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn Django through building your own online marketplace. Stein from Code with Stein teaches",
+          "link": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
+          "publishedOn": "2023-02-02T19:28:19.000Z",
+          "wordCount": 972,
+          "title": "Learn Django by Building a Marketplace",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/vue-django.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/computer-basics-beginners/",
+          "author": "Beau Carnes",
+          "description": "You have to start somewhere when learning about computers. We just published a comprehensive video course on the freeCodeCamp.org channel designed to help you develop a solid foundation in computer and technology skills. This course is for anyone who is brand new to working with computers or for those who",
+          "link": "https://www.freecodecamp.org/news/computer-basics-beginners/",
+          "publishedOn": "2023-02-02T19:21:25.000Z",
+          "wordCount": 945,
+          "title": "Computer Basics for Absolute Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, a string is a data type representing a sequence of characters that may consist of letters, numbers, symbols, words, or sentences. Strings are used to represent text-based data and are mostly defined using either single quotes (') or double quotes (\"). let name1 = 'John Doe'; let name2",
+          "link": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
+          "publishedOn": "2023-02-02T19:05:19.000Z",
+          "wordCount": 1176,
+          "title": "How to Escape a String in JavaScript – JS Escaping Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
+          "author": "Dillion Megida",
+          "description": "Switch statements in JavaScript have a behavior called fall-through which can cause unexpected results. I will explain what this behavior is, how to avoid it, and use cases for it. Switch statements allow you to create conditional statements in JavaScript. You have a conditional expression, and depending on the returned",
+          "link": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
+          "publishedOn": "2023-02-02T17:42:59.000Z",
+          "wordCount": 2184,
+          "title": "Fall-Through in JavaScript Switch Statements – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/14.-fall-through-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
+          "author": "Dionysia Lemonaki",
+          "description": "Python offers a variety of built-in modules that you can include in your program. A module is a Python file containing the necessary code to execute an individual functionality. This file is imported into your application to help you perform a specific task. One of those modules is the datetime",
+          "link": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
+          "publishedOn": "2023-02-02T15:57:55.000Z",
+          "wordCount": 1826,
+          "title": "Python String to Datetime – How to Convert an Str to a Date Time with Strptime",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-marko-klaric-6408282.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
+          "author": "Aviator Ifeanyichukwu",
+          "description": "Apache Airflow is a tool that helps you manage and schedule data pipelines. According to the documentation [https://airflow.apache.org/], it lets you \"programmatically author, schedule, and monitor workflows.\"  Airflow is a crucial tool for data engineers and scientists. In this article, I'll show you how to install it on Windows",
+          "link": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
+          "publishedOn": "2023-02-02T00:18:32.000Z",
+          "wordCount": 1328,
+          "title": "How to Install Apache Airflow on Windows without Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/post-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/",
+          "author": "Ijeoma Igboagu",
+          "description": "ChatGPT may be the talk of the town these days, but there are other AI assistants that can help you increase your productivity.  AI assistants are specialized artificial intelligence software programs designed to imitate human behavior and thinking. They are able to recognize objects, solve problems, and perform tasks",
+          "link": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/",
+          "publishedOn": "2023-02-01T22:10:40.000Z",
+          "wordCount": 1882,
+          "title": "Al Assistants That Help Your Productivity (Besides ChatGPT)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-lj-2085831.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/",
           "author": "Benjamin Semah",
@@ -469,86 +579,6 @@
           "wordCount": 1614,
           "title": "How to Serialize Your Data in Kotlin and Jetpack Compose",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/fineas-anton-cnoMG2034k8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/",
-          "author": "Kingsley Ubah",
-          "description": "Are React.js and React Native the same? If you're new to the world of web and mobile development, you might be wondering the same thing.  As a newbie, it's easy to assume that React.js are React Native are the same. After all, they both have \"React\" as part of",
-          "link": "https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/",
-          "publishedOn": "2023-02-01T00:41:21.000Z",
-          "wordCount": 1807,
-          "title": "React.js vs React Native – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-pixabay-209339.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
-          "author": "Germán Cocca",
-          "description": "Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be",
-          "link": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
-          "publishedOn": "2023-01-31T23:40:14.000Z",
-          "wordCount": 1869,
-          "title": "How to Use the \"this\" Keyword in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/brad-_Js9c6w_FDk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
-          "author": "Dickson Boateng",
-          "description": "To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can",
-          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
-          "publishedOn": "2023-01-31T23:17:27.000Z",
-          "wordCount": 3925,
-          "title": "Asynchronous Programming in JavaScript – Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Asynchronous-programming.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
-          "author": "Kolade Chris",
-          "description": "The first time I heard about “Visual Studio”, I thought it was the same as “Visual Studio Code”. I don’t know why Microsoft decided to confuse everyone with the names of those two development tools. But that’s a story for another day. “Visual Studio” and “Visual Studio Code” are not",
-          "link": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
-          "publishedOn": "2023-01-31T19:17:31.000Z",
-          "wordCount": 1676,
-          "title": "Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/VSvVSC.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the Java List interface to store objects/elements in an ordered collection. It extends the Collection interface.  TheList interface provides us with various methods for inserting, accessing, and deleting elements in a collection. In this article, you'll learn how to extend and implement the List interface in",
-          "link": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
-          "publishedOn": "2023-01-31T18:09:00.000Z",
-          "wordCount": 1308,
-          "title": "Java List – Example Lists in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/java-list-interface-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
-          "author": "Swatej Patil",
-          "description": "In this tutorial we will learn how to create a simple pie and doughnut chart using the Chart.js library in an Angular application. What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive and simple, but it's powerful enough to build complex visualizations.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
-          "publishedOn": "2023-01-31T17:03:23.000Z",
-          "wordCount": 1730,
-          "title": "Chart.js Tutorial – How to Make Pie and Doughnut Charts in Angular",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/piechart-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
-          "author": "Dillion Megida",
-          "description": "A list is a data structure in Python that contains multiple elements in a particular order. And sometimes you might need to get the size of a list. I'll show you how to do that in this article. How to Create a List in Python You can create lists in",
-          "link": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
-          "publishedOn": "2023-01-31T16:56:55.000Z",
-          "wordCount": 1163,
-          "title": "Python Length of List – How to Find the Size of a List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/18.-length-of-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
-          "author": "Gaël Thomas",
-          "description": "Welcome to the world of web scraping! Have you ever needed data from a website but found it hard to access it in a structured format? This is where web scraping comes in. Using scripts, we can extract the data we need from a website for various purposes, such as",
-          "link": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
-          "publishedOn": "2023-01-31T15:26:55.000Z",
-          "wordCount": 3239,
-          "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
         }
       ]
     }
