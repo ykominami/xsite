@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T00:09:52.463Z</id>
+    <id>urn:2023-02-05T00:10:55.278Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-04T00:09:52.463Z</updated>
+    <updated>2023-02-05T00:10:55.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Apache Kafka Handbook – How to Get Started Using Kafka]]></title>
+        <id>https://www.freecodecamp.org/news/apache-kafka-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/apache-kafka-handbook/"/>
+        <updated>2023-02-03T23:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Apache Kafka is an open-source event streaming platform that can transport huge volumes of data at very low latency.  Companies like LinkedIn, Uber, and Netflix use Kafka to process trillions of events and petabtyes of data each day. Kafka was originally developed at LinkedIn [https://engineering.linkedin.com/27/project-kafka-distributed-publish-subscribe-messaging-system-reaches-v06] , to help handle]]></summary>
+        <author>
+            <name>Gerard Hynes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a React Admin Panel with Refine]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-react-admin-panel-with-refine/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-react-admin-panel-with-refine/"/>
+        <updated>2023-02-03T23:46:01.000Z</updated>
+        <summary type="html"><![CDATA[React is a popular front-end framework for building interactive user interfaces. It has helped revolutionize the development of data-intensive front-end applications. React's declarative nature makes building user interfaces intuitive. And reusable React components increase development speed and reduce time to production. To further improve the development experience when building user]]></summary>
+        <author>
+            <name>Joseph Mawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a String in JS? The JavaScript String Variable Explained]]></title>
         <id>https://www.freecodecamp.org/news/what-is-a-string-in-javascript/</id>
@@ -94,26 +114,6 @@ A Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[You have to start somewhere when learning about computers. We just published a comprehensive video course on the freeCodeCamp.org channel designed to help you develop a solid foundation in computer and technology skills. This course is for anyone who is brand new to working with computers or for those who]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Escape a String in JavaScript – JS Escaping Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/"/>
-        <updated>2023-02-02T19:05:19.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, a string is a data type representing a sequence of characters that may consist of letters, numbers, symbols, words, or sentences. Strings are used to represent text-based data and are mostly defined using either single quotes (') or double quotes ("). let name1 = 'John Doe'; let name2]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall-Through in JavaScript Switch Statements – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/</id>
-        <link href="https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/"/>
-        <updated>2023-02-02T17:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Switch statements in JavaScript have a behavior called fall-through which can cause unexpected results. I will explain what this behavior is, how to avoid it, and use cases for it. Switch statements allow you to create conditional statements in JavaScript. You have a conditional expression, and depending on the returned]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
