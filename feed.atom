@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T00:10:59.150Z</id>
+    <id>urn:2023-02-08T00:10:33.731Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T00:10:59.150Z</updated>
+    <updated>2023-02-08T00:10:33.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LOOKUP Functions in Google Sheets and Excel – VLOOKUP, XLOOKUP, and More]]></title>
+        <id>https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/"/>
+        <updated>2023-02-07T20:47:26.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways to lookup data in a spreadsheet. If you're building a dashboard, you'll find this very useful.  The =XLOOKUP() function is my new favorite way to lookup data. It's discussed in the last section 👇. We'll look at four of the built in lookup functions in]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Modern Compute Platforms Work]]></title>
+        <id>https://www.freecodecamp.org/news/modern-compute-platforms/</id>
+        <link href="https://www.freecodecamp.org/news/modern-compute-platforms/"/>
+        <updated>2023-02-07T20:22:32.000Z</updated>
+        <summary type="html"><![CDATA[The way things sit now, if you were somehow allergic to computers, you'd be hard pressed to really banish them from your life, no matter where you found yourself.  Taking a quiet walk in the woods? What about the smartphone in your pocket. Left the phone in the car?]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java For Loop Example]]></title>
+        <id>https://www.freecodecamp.org/news/java-for-loop-example/</id>
+        <link href="https://www.freecodecamp.org/news/java-for-loop-example/"/>
+        <updated>2023-02-07T17:41:44.000Z</updated>
+        <summary type="html"><![CDATA[You can use loops in programming to carry out a set of instructions repeatedly until a certain condition is met. There are three types of loops in Java:   * for loop.  * while loop.   * do...while loop. In this article, we'll focus on the for]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The truth about CSS selector performance]]></title>
+        <id>https://css-tricks.com/?p=376659</id>
+        <link href="https://css-tricks.com/the-truth-about-css-selector-performance/"/>
+        <updated>2023-02-07T15:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …
+The truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?]]></title>
+        <id>https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/</id>
+        <link href="https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/"/>
+        <updated>2023-02-07T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APIs for Beginners Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/apis-for-beginners/</id>
@@ -107,36 +158,6 @@ A Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[We all follow certain processes to achieve our goals. Similarly, every system has its own processes to accomplish tasks.  Every program or command that executes in a Linux system is called a process. In this tutorial, let's explore processes and how we can manage them in Linux. What is]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Structures and Algorithms – Introduction and Learning Resources]]></title>
-        <id>https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/"/>
-        <updated>2023-02-02T23:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms. So, as a programmer, no matter what programming language you are working with, data structures and algorithms have to be an]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Tutorial – How to Create a Simple Responsive Layout for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/responsive-layout-react-native/</id>
-        <link href="https://www.freecodecamp.org/news/responsive-layout-react-native/"/>
-        <updated>2023-02-02T23:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Having a responsive layout is an important component of user interface (UI) design. It enables a website or application to automatically adjust its size and layout based on the size of the user's device and screen. This provides an optimal viewing experience.  Responsive layouts also give the user a]]></summary>
-        <author>
-            <name>Kingsley Ubah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Calculator App Using React Native – A Step-by-Step Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/"/>
-        <updated>2023-02-02T19:29:15.000Z</updated>
-        <summary type="html"><![CDATA[A calculator application is a simple application that is always available on every Android, iOS, and desktop device.  In this article, we will build a calculator application using React Native and Expo. So why are we using these tools?  React Native is a JavaScript-based framework you can use]]></summary>
-        <author>
-            <name>Muhammad Adam</name>
         </author>
     </entry>
     <entry>
@@ -470,16 +491,6 @@ Faking Min Width on a Table Column originally published on CSS-Tricks, which is 
 Styling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Fränk Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Authentication In Websites: A Banking Analogy]]></title>
-        <id>https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/</id>
-        <link href="https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/"/>
-        <updated>2023-01-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Burel)</name>
         </author>
     </entry>
 </feed>
