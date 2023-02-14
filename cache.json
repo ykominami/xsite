@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376991",
+          "author": "Frederik Dohr",
+          "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.\nInspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …\nAn Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
+          "publishedOn": "2023-02-13T15:10:41.000Z",
+          "wordCount": 1617,
+          "title": "An Approach to Lazy Loading Custom Elements",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376991"
+        },
+        {
           "id": "https://css-tricks.com/?p=376764",
           "author": "Temani Afif",
           "description": "It’s a question I hear asked quite often: Is it possible to create shadows from gradients instead of solid colors? There is no specific CSS property that does this (believe me, I’ve looked) and any blog post you find about …\nDifferent Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-get-css-gradient-shadows/",
           "publishedOn": "2023-02-10T15:13:42.000Z",
-          "wordCount": 3802,
+          "wordCount": 3842,
           "title": "Different Ways to Get CSS Gradient Shadows",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376764"
         },
@@ -27,7 +37,7 @@
           "description": "Every now and then, a one blog post is published and it spurs a reaction or response in others that are, in turn, published as blogs posts, and a theme starts to emerge. That’s what happened this past week and …\nHealthcare, Selling Lemons, and the Price of Developer Experience originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/healthcare-selling-lemons-and-the-price-of-developer-experience/",
           "publishedOn": "2023-02-09T19:45:48.000Z",
-          "wordCount": 1883,
+          "wordCount": 1923,
           "title": "Healthcare, Selling Lemons, and the Price of Developer Experience",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377169"
         },
@@ -37,7 +47,7 @@
           "description": "We often think of background images as texture or something that provides contrast for legible content — in other words, not really content. If it was content, you’d probably reach for an <img> anyway, accessibility and whatnot.\nBut there are …\nMoving Backgrounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/moving-backgrounds/",
           "publishedOn": "2023-02-09T15:03:55.000Z",
-          "wordCount": 2774,
+          "wordCount": 2814,
           "title": "Moving Backgrounds",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376723"
         },
@@ -47,7 +57,7 @@
           "description": "Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …\nThe truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-truth-about-css-selector-performance/",
           "publishedOn": "2023-02-07T15:59:35.000Z",
-          "wordCount": 874,
+          "wordCount": 914,
           "title": "The truth about CSS selector performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376659"
         },
@@ -57,7 +67,7 @@
           "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n<pI used to have this \n…\nThe Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-double-emphasis-thing/",
           "publishedOn": "2023-02-06T15:06:55.000Z",
-          "wordCount": 2435,
+          "wordCount": 2475,
           "title": "The Double Emphasis Thing",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376548"
         },
@@ -67,7 +77,7 @@
           "description": "Do you know that kind of effect where someone’s head is poking through a circle or hole? The famous Porky Pig animation where he waves goodbye while popping out of a series of red rings is the perfect example, and …\nA Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/",
           "publishedOn": "2023-02-03T15:11:46.000Z",
-          "wordCount": 3166,
+          "wordCount": 3206,
           "title": "A Fancy Hover Effect For Your Avatar",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376676"
         },
@@ -77,7 +87,7 @@
           "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …\nCaching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/caching-data-in-sveltekit/",
           "publishedOn": "2023-02-01T15:04:33.000Z",
-          "wordCount": 3967,
+          "wordCount": 4007,
           "title": "Caching Data in SvelteKit",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376634"
         },
@@ -87,7 +97,7 @@
           "description": "Tucked down somewhere in the Safari Technology Preview 161 release notes is a seemingly innocous line about support for a new HTML element and attribute:\nAdded support for <model src> and honor <source type> attributes (257518@main)\nAnytime I …\nAR, VR, and a Model for 3D in HTML originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/ar-vr-and-a-model-for-3d-in-html/",
           "publishedOn": "2023-01-27T14:15:43.000Z",
-          "wordCount": 1609,
+          "wordCount": 1649,
           "title": "AR, VR, and a Model for 3D in HTML",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376674"
         },
@@ -97,7 +107,7 @@
           "description": "I’m pleased to shine a light on the fact that the CSS grid-template-rows and grid-template-columns properties are now animatable in all major web browsers! Well, CSS Grid has technically supported animations for a long time, as it’s baked right …\nAnimating CSS Grid (How To + Examples) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/animating-css-grid-how-to-examples/",
           "publishedOn": "2023-01-25T16:05:04.000Z",
-          "wordCount": 2144,
+          "wordCount": 2184,
           "title": "Animating CSS Grid (How To + Examples)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376528"
         },
@@ -107,7 +117,7 @@
           "description": "SvelteKit is the latest of what I’d call next-gen application frameworks. It, of course, scaffolds an application for you, with the file-based routing, deployment, and server-side rendering that Next has done forever. But SvelteKit also supports nested layouts, server mutations …\nGetting Started With SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-started-with-sveltekit/",
           "publishedOn": "2023-01-23T13:48:43.000Z",
-          "wordCount": 3568,
+          "wordCount": 3608,
           "title": "Getting Started With SvelteKit",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376610"
         },
@@ -117,7 +127,7 @@
           "description": "The :has() pseudo-class is, hands-down, my favorite new CSS feature. I know it is for many of you as well, at least those of you who took the State of CSS survey. The ability to write selectors upside down …\nMore Real-World Uses for :has() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/more-real-world-uses-for-has/",
           "publishedOn": "2023-01-20T15:34:09.000Z",
-          "wordCount": 1966,
+          "wordCount": 2006,
           "title": "More Real-World Uses for :has()",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376331"
         },
@@ -127,7 +137,7 @@
           "description": "While I am not a regular Chrome extension programmer, I have certainly coded enough extensions and have a wide enough web development portfolio to know my way around the task. However, just recently, I had a client reject one of …\nHow to Transition to Manifest V3 for Chrome Extensions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-transition-to-manifest-v3-for-chrome-extensions/",
           "publishedOn": "2023-01-19T13:54:37.000Z",
-          "wordCount": 3098,
+          "wordCount": 3138,
           "title": "How to Transition to Manifest V3 for Chrome Extensions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376454"
         },
@@ -137,7 +147,7 @@
           "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
           "publishedOn": "2023-01-18T13:44:00.000Z",
-          "wordCount": 3138,
+          "wordCount": 3178,
           "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
         },
@@ -147,7 +157,7 @@
           "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/",
           "publishedOn": "2023-01-17T13:51:20.000Z",
-          "wordCount": 3389,
+          "wordCount": 3429,
           "title": "6 Common SVG Fails (and How to Fix Them)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376352"
         }
@@ -164,7 +174,7 @@
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
           "link": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "publishedOn": "2023-02-10T12:00:00.000Z",
-          "wordCount": 6055,
+          "wordCount": 6054,
           "title": "Discovering Primitive Objects In JavaScript (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg",
@@ -194,7 +204,7 @@
           "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
           "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
           "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 4623,
+          "wordCount": 4727,
           "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
@@ -269,7 +279,7 @@
           "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
           "link": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
           "publishedOn": "2023-02-01T11:00:00.000Z",
-          "wordCount": 5465,
+          "wordCount": 5568,
           "title": "Understanding App Directory Architecture In Next.js",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg",
@@ -284,7 +294,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.",
           "link": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
           "publishedOn": "2023-01-31T16:00:00.000Z",
-          "wordCount": 5066,
+          "wordCount": 5063,
           "title": "The Magic Of February (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png",
@@ -314,7 +324,7 @@
           "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
           "link": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
           "publishedOn": "2023-01-30T14:00:00.000Z",
-          "wordCount": 8932,
+          "wordCount": 8930,
           "title": "Easy SVG Customization And Animation: A Practical Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg",
@@ -329,7 +339,7 @@
           "description": "In this article, Rachel walks you through various ways that product teams can utilize to build relationships with customers. She will share some tips and tricks from her experience that have helped her nurture customer relationships and build better products.",
           "link": "https://smashingmagazine.com/2023/01/build-strong-customer-relationships-user-research/",
           "publishedOn": "2023-01-27T11:30:00.000Z",
-          "wordCount": 6951,
+          "wordCount": 6952,
           "title": "How To Build Strong Customer Relationships For User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-strong-customer-relationships-user-research/meta-image-build-strong-customer-relationships-user-research.jpg",
@@ -344,7 +354,7 @@
           "description": "Managing our colors can truly help people to access our content. In this article, Brecht de Ruyte takes a deep dive into how we can create a high-contrast system while maintaining a balance between designing something accessible and respecting the look and feel of a brand.",
           "link": "https://smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/",
           "publishedOn": "2023-01-26T14:00:00.000Z",
-          "wordCount": 5224,
+          "wordCount": 5219,
           "title": "Creating A High-Contrast Design System With CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-contrast-custom-properties/meta-image-high-contrast-design-system-css-custom-properties.jpg",
@@ -404,7 +414,7 @@
           "description": "In this episode, we ask whether technology is making us redundant; will we all soon be replaced with AI? Vitaly Friedman talks to Tejas Kumar to find out.",
           "link": "https://smashingmagazine.com/2023/01/smashing-podcast-episode-55/",
           "publishedOn": "2023-01-24T08:00:00.000Z",
-          "wordCount": 11290,
+          "wordCount": 11191,
           "title": "Smashing Podcast Episode 55 With Tejas Kumar: Is Technology Making Us Redundant?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-55/smashing-podcast-episode-55.png",
@@ -419,7 +429,7 @@
           "description": "The CSS relational selector :has() offers what was previously impossible without JavaScript. Let’s explore some magical powers that :has brings.",
           "link": "https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/",
           "publishedOn": "2023-01-23T12:00:00.000Z",
-          "wordCount": 6147,
+          "wordCount": 6145,
           "title": "Level Up Your CSS Skills With The :has() Selector",
           "enclosure": {
             "url": "http://files.smashing.media/articles/has-selector-level-up-css-skills/has-selector-level-up-css-skills.jpg",
@@ -434,7 +444,7 @@
           "description": "In this article, Daniel Yuschick demonstrates that building selfish components is the key approach to avoiding different pitfalls on the way to good component design.",
           "link": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
           "publishedOn": "2023-01-20T17:00:00.000Z",
-          "wordCount": 7311,
+          "wordCount": 7215,
           "title": "The Key To Good Component Design Is Selfishness",
           "enclosure": {
             "url": "http://files.smashing.media/articles/key-good-component-design-selfishness/sharing-image-key-good-component-design-selfishness.jpg",
@@ -449,7 +459,7 @@
           "description": "In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.",
           "link": "https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/",
           "publishedOn": "2023-01-19T15:00:00.000Z",
-          "wordCount": 7132,
+          "wordCount": 7122,
           "title": "How To Design Better UX With Introverted Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg",
@@ -494,7 +504,7 @@
           "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
           "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5278,
+          "wordCount": 5382,
           "title": "Optimizing The Image Element LCP",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
@@ -510,6 +520,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the",
+          "link": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
+          "publishedOn": "2023-02-13T16:15:45.000Z",
+          "wordCount": 3718,
+          "title": "Asynchronous Programming in JavaScript for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-giallo-859895.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-mysql-transactions/",
           "author": "Aisha Bukar",
@@ -599,16 +619,6 @@
           "wordCount": 3408,
           "title": "How to Use Window Functions in SQL – with Example Queries",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/windows-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/",
-          "author": "Deborah Kurata",
-          "description": "One of the things we fell in love with when we saw our future backyard was the tree. The valley oak is the largest North American oak. It can grow to be 600 years old and 100 feet tall. It's known for its irregular, spreading branches. Speaking of branches...a key",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/",
-          "publishedOn": "2023-02-09T21:42:10.000Z",
-          "wordCount": 1894,
-          "title": "How to Work with Branches in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/git-thumbnail.jpg"
         }
       ]
     }

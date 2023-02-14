@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T00:10:21.914Z</id>
+    <id>urn:2023-02-14T00:11:08.935Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T00:10:21.914Z</updated>
+    <updated>2023-02-14T00:11:08.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronism-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronism-in-javascript/"/>
+        <updated>2023-02-13T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Approach to Lazy Loading Custom Elements]]></title>
+        <id>https://css-tricks.com/?p=376991</id>
+        <link href="https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/"/>
+        <updated>2023-02-13T15:10:41.000Z</updated>
+        <summary type="html"><![CDATA[We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.
+Inspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …
+An Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Frederik Dohr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
@@ -114,16 +136,6 @@ Different Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[Window functions are an advanced type of function in SQL. They let you work with observations more easily.  Window functions give you access to features like advanced analytics and data manipulation without the need to write complex queries. In this lesson you will learn about what window functions are]]></summary>
         <author>
             <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Branches in Git]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/"/>
-        <updated>2023-02-09T21:42:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the things we fell in love with when we saw our future backyard was the tree. The valley oak is the largest North American oak. It can grow to be 600 years old and 100 feet tall. It's known for its irregular, spreading branches. Speaking of branches...a key]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
         </author>
     </entry>
     <entry>
