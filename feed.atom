@@ -1,18 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T00:11:08.935Z</id>
+    <id>urn:2023-02-15T00:11:04.666Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T00:11:08.935Z</updated>
+    <updated>2023-02-15T00:11:04.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Asynchronous Programming in JavaScript for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/asynchronism-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/asynchronism-in-javascript/"/>
-        <updated>2023-02-13T16:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the]]></summary>
+        <title type="html"><![CDATA[Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained]]></title>
+        <id>https://www.freecodecamp.org/news/vim-language-and-motions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/vim-language-and-motions-explained/"/>
+        <updated>2023-02-14T19:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Throughout my time as a developer, I've used VS Code, Sublime, Notepad++, TextMate, and others. But shortcuts like cmd(+shift)+end and jumping with  option+arrow-keys from word to word needed to be faster at some point.  I was hitting my limits. Everything I was doing I did decently fast, but]]></summary>
         <author>
-            <name>Germán Cocca</name>
+            <name>Simon Späti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Multiple Web Pages Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/"/>
+        <updated>2023-02-14T19:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Data is all around us. Every website you visit includes data in a readable format that you can utilize for a project.  And although you can easily copy and paste the data, the best approach for big amounts of data is to perform web scraping. Learning web scraping can]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Data Storage]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manage-data-storage/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-data-storage/"/>
+        <updated>2023-02-14T19:44:28.000Z</updated>
+        <summary type="html"><![CDATA[We've all been at this 21st Century thing for a while. And by now it's pretty clear that data is the big driver of, well, of everything.  Governments build their policies around economic and population data. Scientists build their theories around environmental, physical, and biological data. Businesses build their]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an Animated Physics Game with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/"/>
+        <updated>2023-02-14T18:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in game development but don't know where to start? Do you want to create a unique and engaging game with interesting physics and artificial intelligence mechanics? If so, then our new video course is just what you need! We just published a full course on the freeCodeCamp.org]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How is == Different from === in JavaScript? Strict vs Loose Equality Explained]]></title>
+        <id>https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/"/>
+        <updated>2023-02-14T18:09:26.000Z</updated>
+        <summary type="html"><![CDATA[If you are reading this blog, you're probably learning JavaScript – and that's awesome. Double equals (==) and triple equals (===) in JavaScript often make beginners scratch their heads. This doesn't mean that you should fear JavaScript, in fact jargon like this makes JavaScript even more beautiful once you know]]></summary>
+        <author>
+            <name>Sobit Prasad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exponent in Python – Power Function and Exponents Using a Loop]]></title>
+        <id>https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/</id>
+        <link href="https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/"/>
+        <updated>2023-02-14T17:54:02.000Z</updated>
+        <summary type="html"><![CDATA[The exponent of a number refers to the power to which that number should be raised. In this article, I'll show you how to find exponents using two ways: the power function and a loop. Exponents are usually written like this: Baseexponent Take an example like 103. This means, "10,]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP]]></title>
+        <id>https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/</id>
+        <link href="https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/"/>
+        <updated>2023-02-14T02:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Laravel's simplicity and MVC architecture make it an ideal PHP framework for building web applications.  In this article, I will show you how to set up Laravel on your Windows machine and configure it to run on a custom domain name. This guide is best suited for a beginner]]></summary>
+        <author>
+            <name>Abdulwahab Ashimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Networking in JavaScript –Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/http-full-course/</id>
+        <link href="https://www.freecodecamp.org/news/http-full-course/"/>
+        <updated>2023-02-14T00:42:39.000Z</updated>
+        <summary type="html"><![CDATA[HTTP is the backbone of the modern internet. In this text-based course, you'll learn how the HTTP protocol works and how it's used in real-world web development. All the code samples for this course are in JavaScript, but the networking concepts you'll learn here apply generally to all coding languages.]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters]]></title>
+        <id>https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/</id>
+        <link href="https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/"/>
+        <updated>2023-02-13T23:44:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cognito for Web Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/"/>
+        <updated>2023-02-13T22:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of]]></summary>
+        <author>
+            <name>Max Rohde</name>
         </author>
     </entry>
     <entry>
@@ -25,56 +115,6 @@ Inspired by a colleague’s experiments, I recently set about writing a simple a
 An Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Frederik Dohr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-mysql-transactions/"/>
-        <updated>2023-02-10T21:35:03.000Z</updated>
-        <summary type="html"><![CDATA[What is a Database Transaction and Why is it Important? A database transaction is a single area of the database where multiple data operations are carried out and written as a whole.  These operations can be create, read, update, or delete operations.  During the process of a transaction,]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Modulo Operator – How to Use the Modulus in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/"/>
-        <updated>2023-02-10T19:35:28.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you may need to perform mathematical calculations such as determining if a number is even or odd, wrapping values within a range, and converting between degrees and radians in trigonometry. To help you perform all these mathematical calculations, the modulo operator can be extremely useful. This article will]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get GitHub Pro and Replit Hacker for Free as a Student]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/"/>
-        <updated>2023-02-10T17:47:17.000Z</updated>
-        <summary type="html"><![CDATA[If you are in high school or college/university and are interested in coding, you should consider signing up for GitHub Education.  This allows you to use GitHub Pro, as well as having many other benefits.  In this quick guide, I'll show you the steps to sign up for]]></summary>
-        <author>
-            <name>Eesa Zahed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a REST API? API Endpoint Request Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-rest-api/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-rest-api/"/>
-        <updated>2023-02-10T16:39:44.000Z</updated>
-        <summary type="html"><![CDATA[An API (short for Application Programming Interface) allows for two or more applications to communicate with one another and send data back and forth. APIs operated based on a standardized set of rules and they're an integral component of modern-day software development. There are different API styles, and each one]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Set and Map in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/set-and-map-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/set-and-map-in-javascript/"/>
-        <updated>2023-02-10T15:29:36.000Z</updated>
-        <summary type="html"><![CDATA[There are three major iterables available in JavaScript: Arrays, Maps, and Sets.  In this article, we will cover the following topics:   * What is an Array?  * What is a Set?  * What is a Map?  * How to Create a Set]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
         </author>
     </entry>
     <entry>
@@ -96,46 +136,6 @@ Different Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Z-index Property Works – Stacking Order of Elements in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/</id>
-        <link href="https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/"/>
-        <updated>2023-02-09T22:48:03.000Z</updated>
-        <summary type="html"><![CDATA[If you're a front-end engineer, you've probably faced weird z-index bugs and ended up spending hours trying to fix them.  Change one property here and you have your header flying away from where it was meant to be.  Well, we can attribute this to the fact that debugging]]></summary>
-        <author>
-            <name>Franklin Okolie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search Files Effectively in the Linux Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-search-files-in-the-linux-terminal/"/>
-        <updated>2023-02-09T22:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever felt frustrated searching for files manually on your computer? If you’re a developer or DevOps engineer working on GUI-less Linux servers, it'll be hard navigating back and forth to find files. Many people are unaware of the power of Linux terminals. Linux has an incredibly powerful command]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use Java for Backend Development]]></title>
-        <id>https://www.freecodecamp.org/news/java-for-backend-web-development/</id>
-        <link href="https://www.freecodecamp.org/news/java-for-backend-web-development/"/>
-        <updated>2023-02-09T21:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Java is a well-established and widely-used programming language. You can use it to create desktop and mobile applications, for massive data processing, for backend development, to program embedded devices, and more.  Oracle, the company that owns Java, claims that Java is used on 3 billion devices worldwide, making it]]></summary>
-        <author>
-            <name>David Fagbuyiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Window Functions in SQL – with Example Queries]]></title>
-        <id>https://www.freecodecamp.org/news/window-functions-in-sql/</id>
-        <link href="https://www.freecodecamp.org/news/window-functions-in-sql/"/>
-        <updated>2023-02-09T21:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Window functions are an advanced type of function in SQL. They let you work with observations more easily.  Window functions give you access to features like advanced analytics and data manipulation without the need to write complex queries. In this lesson you will learn about what window functions are]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
         </author>
     </entry>
     <entry>
