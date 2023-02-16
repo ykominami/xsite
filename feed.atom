@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T00:11:04.666Z</id>
+    <id>urn:2023-02-16T00:10:37.393Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T00:11:04.666Z</updated>
+    <updated>2023-02-16T00:10:37.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Learn JavaScript Effectively – Tips and Learning Strategies]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/"/>
+        <updated>2023-02-15T17:21:13.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Anonymous Function – How to Use Lambda Functions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/"/>
+        <updated>2023-02-15T17:17:35.000Z</updated>
+        <summary type="html"><![CDATA[You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type Error vs Reference Error in JavaScript – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/"/>
+        <updated>2023-02-15T17:12:30.000Z</updated>
+        <summary type="html"><![CDATA[As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?]]></summary>
+        <author>
+            <name>Tejan Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Steps To Sell Your Product With Powerful Storytelling]]></title>
+        <id>https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/</id>
+        <link href="https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/"/>
+        <updated>2023-02-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the [Smart Interface Design Patterns landing page](https://smart-interface-design-patterns.com/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Chiara Aliotta)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TensorFlow for Deep Learning – Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/tensorflow-basics/</id>
+        <link href="https://www.freecodecamp.org/news/tensorflow-basics/"/>
+        <updated>2023-02-14T23:46:51.000Z</updated>
+        <summary type="html"><![CDATA[TensorFlow is a library that helps engineers build and train deep learning models. It provides all the tools we need to create neural networks. We can use TensorFlow to train simple to complex neural networks using large sets of data. TensorFlow is used in a variety of applications, from image]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prim's Algorithm – Explained with a Pseudocode Example]]></title>
+        <id>https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/</id>
+        <link href="https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/"/>
+        <updated>2023-02-14T22:12:43.000Z</updated>
+        <summary type="html"><![CDATA[In Computer Science, Prim’s algorithm helps you find the minimum spanning tree of a graph. It is a greedy algorithm – meaning it selects the option available at the moment. In this article, I’ll show you the pseudocode representation of Prim’s algorithm. But before that, let’s take a deeper look]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained]]></title>
         <id>https://www.freecodecamp.org/news/vim-language-and-motions-explained/</id>
@@ -53,56 +113,6 @@
         <summary type="html"><![CDATA[If you are reading this blog, you're probably learning JavaScript – and that's awesome. Double equals (==) and triple equals (===) in JavaScript often make beginners scratch their heads. This doesn't mean that you should fear JavaScript, in fact jargon like this makes JavaScript even more beautiful once you know]]></summary>
         <author>
             <name>Sobit Prasad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exponent in Python – Power Function and Exponents Using a Loop]]></title>
-        <id>https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/</id>
-        <link href="https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/"/>
-        <updated>2023-02-14T17:54:02.000Z</updated>
-        <summary type="html"><![CDATA[The exponent of a number refers to the power to which that number should be raised. In this article, I'll show you how to find exponents using two ways: the power function and a loop. Exponents are usually written like this: Baseexponent Take an example like 103. This means, "10,]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP]]></title>
-        <id>https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/</id>
-        <link href="https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/"/>
-        <updated>2023-02-14T02:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Laravel's simplicity and MVC architecture make it an ideal PHP framework for building web applications.  In this article, I will show you how to set up Laravel on your Windows machine and configure it to run on a custom domain name. This guide is best suited for a beginner]]></summary>
-        <author>
-            <name>Abdulwahab Ashimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Networking in JavaScript –Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/http-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/http-full-course/"/>
-        <updated>2023-02-14T00:42:39.000Z</updated>
-        <summary type="html"><![CDATA[HTTP is the backbone of the modern internet. In this text-based course, you'll learn how the HTTP protocol works and how it's used in real-world web development. All the code samples for this course are in JavaScript, but the networking concepts you'll learn here apply generally to all coding languages.]]></summary>
-        <author>
-            <name>Lane Wagner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters]]></title>
-        <id>https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/</id>
-        <link href="https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/"/>
-        <updated>2023-02-13T23:44:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Cognito for Web Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/"/>
-        <updated>2023-02-13T22:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of]]></summary>
-        <author>
-            <name>Max Rohde</name>
         </author>
     </entry>
     <entry>
@@ -494,16 +504,6 @@ Solved With :has(): Vertical Spacing in Long-Form Text originally published on C
 6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing The Image Element LCP]]></title>
-        <id>https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/</id>
-        <link href="https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/"/>
-        <updated>2023-01-16T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eloïse Martin)</name>
         </author>
     </entry>
 </feed>
