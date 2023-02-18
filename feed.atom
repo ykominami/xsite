@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T00:10:58.571Z</id>
+    <id>urn:2023-02-18T00:10:22.307Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T00:10:58.571Z</updated>
+    <updated>2023-02-18T00:10:22.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Asynchronous JavaScript Works]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronous-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronous-javascript/"/>
+        <updated>2023-02-17T18:37:03.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn all about Asynchronous JavaScript.  But before we dive into that, we need to make sure you understand what Synchronous code is and how it works. What is Synchronous Code? When we write a program in JavaScript, it executes line by line. When a line]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack App with Next.js 13 and Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/</id>
+        <link href="https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/"/>
+        <updated>2023-02-17T17:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a React framework that makes building powerful full stack (front end + back end) applications a lot easier.  The team behind Next.js recently released Next.js 13 [https://nextjs.org/blog/next-13] which has a whole lot of futures like a new  app Directory, server and client components, and more. In]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dot Notation vs Bracket Notation for Object Properties – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/"/>
+        <updated>2023-02-17T16:55:10.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple ways to access object properties in JavaScript. But two common ones are dot notation and bracket notation. I'll explain the difference between these two approaches in this article. With dot and bracket notation, you can:  * access the value of a property by its key]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Dynamic Object Properties using Computed Property Names]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/"/>
+        <updated>2023-02-17T16:53:48.000Z</updated>
+        <summary type="html"><![CDATA[When declaring objects before ES6, you had to use static keys for properties. But since the release of ES6, you can use dynamic keys. I'll show you how they work in this article. What are Static and Dynamic Keys? What do I mean by static keys? Take a look at]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Step-By-Step Guide To Building Accessible Carousels]]></title>
+        <id>https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/</id>
+        <link href="https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/"/>
+        <updated>2023-02-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sonja Weckenmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Filter an Array in JavaScript – JS Filtering for Arrays and Objects]]></title>
+        <id>https://www.freecodecamp.org/news/filter-arrays-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/filter-arrays-in-javascript/"/>
+        <updated>2023-02-17T01:13:56.000Z</updated>
+        <summary type="html"><![CDATA[When building a dynamic and interactive program, you may need to add some interactive features. For example, where a user clicks a button to filter through a long list of items. You may also need to manipulate a large array of data to return only items that match your specified]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced For Loops in Java – How to Use ForEach Loops on Arrays]]></title>
+        <id>https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/</id>
+        <link href="https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/"/>
+        <updated>2023-02-17T00:55:10.000Z</updated>
+        <summary type="html"><![CDATA[You can use enhanced loops in Java to achieve the same results as a for loop [/news/java-for-loop-example/]. An enhanced loop is also known as a for-each  loop in Java.  Enhanced loops simplify the way you create for loops. They are mostly used to iterate through an array or]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Print Array Elements in a Given Order with or without a Function]]></title>
         <id>https://www.freecodecamp.org/news/how-to-print-array-elements-in-given-order-with-and-without-function/</id>
@@ -46,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Grainy CSS Backgrounds Using SVG Filters]]></title>
-        <id>https://www.freecodecamp.org/news/grainy-css-backgrounds-using-svg-filters/</id>
-        <link href="https://www.freecodecamp.org/news/grainy-css-backgrounds-using-svg-filters/"/>
-        <updated>2023-02-16T16:00:47.000Z</updated>
-        <summary type="html"><![CDATA[In this article we're going to create more interesting website backgrounds by using grainy effects.  There's a full video walkthrough at the bottom of the article 👇, as well as a 15 second video in the middle for those of you who just want a quick soundbite. We'll cover]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Message Queues Work in Distributed Systems]]></title>
-        <id>https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/</id>
-        <link href="https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/"/>
-        <updated>2023-02-16T15:54:17.000Z</updated>
-        <summary type="html"><![CDATA[From town criers to written letters and now real-time chat applications, humanity has always been on the lookout for innovative ways to communicate. And we can say the same about computers. There's an even greater need to allow computers to communicate with the increasing adoption of distributed architecture. This also]]></summary>
-        <author>
-            <name>Nyior Clement</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Develop Database-Driven Web Apps with Python, Flask, and MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/"/>
-        <updated>2023-02-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to take your web development skills to the next level? Do you want to learn how to build dynamic database-driven web applications with Python, Flask, and MySQL?  We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that is designed to teach you how]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Putting Gears In Motion: Animating Cars With HTML And SVG]]></title>
         <id>https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/</id>
         <link href="https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/"/>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[SVG `` provides a way to define how an element moves along a motion path. In this article, Paul Scanlon shares an idea of how to use it by animating race cars in an infinite loop as easy as one-two-three!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn JavaScript Effectively – Tips and Learning Strategies]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/"/>
-        <updated>2023-02-15T17:21:13.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Anonymous Function – How to Use Lambda Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/"/>
-        <updated>2023-02-15T17:17:35.000Z</updated>
-        <summary type="html"><![CDATA[You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type Error vs Reference Error in JavaScript – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/"/>
-        <updated>2023-02-15T17:12:30.000Z</updated>
-        <summary type="html"><![CDATA[As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?]]></summary>
-        <author>
-            <name>Tejan Singh</name>
         </author>
     </entry>
     <entry>
@@ -472,27 +482,6 @@ More Real-World Uses for :has() originally published on CSS-Tricks, which is par
 How to Transition to Manifest V3 for Chrome Extensions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Shane Duggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma Auto Layout Masterclass: An Online Workshop To Support Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/</id>
-        <link href="https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/"/>
-        <updated>2023-01-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get better at your craft and support the people in Ukraine — that’s the idea behind our Figma Auto Layout Masterclass with Christine Vallaure. **We are donating all proceeds** from the online workshop to humanitarian aid in Ukraine. Monday, March 27, 09:00AM – 12:00PM PT / 18:00 – 21:00 CET. Donate and join!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solved With :has(): Vertical Spacing in Long-Form Text]]></title>
-        <id>https://css-tricks.com/?p=376435</id>
-        <link href="https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/"/>
-        <updated>2023-01-18T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …
-Solved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Liam Johnston</name>
         </author>
     </entry>
 </feed>

@@ -140,16 +140,6 @@
           "wordCount": 3138,
           "title": "How to Transition to Manifest V3 for Chrome Extensions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376454"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376435",
-          "author": "Liam Johnston",
-          "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
-          "publishedOn": "2023-01-18T13:44:00.000Z",
-          "wordCount": 3178,
-          "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
+          "author": "hello@smashingmagazine.com (Sonja Weckenmann)",
+          "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
+          "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
+          "publishedOn": "2023-02-17T12:00:00.000Z",
+          "wordCount": 6508,
+          "title": "A Step-By-Step Guide To Building Accessible Carousels",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
@@ -194,7 +199,7 @@
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
           "link": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "publishedOn": "2023-02-10T12:00:00.000Z",
-          "wordCount": 6054,
+          "wordCount": 6056,
           "title": "Discovering Primitive Objects In JavaScript (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg",
@@ -224,7 +229,7 @@
           "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
           "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
           "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 4629,
+          "wordCount": 4727,
           "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
@@ -239,7 +244,7 @@
           "description": "In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
           "publishedOn": "2023-02-07T09:30:00.000Z",
-          "wordCount": 11208,
+          "wordCount": 11206,
           "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png",
@@ -254,7 +259,7 @@
           "description": "Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.",
           "link": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
           "publishedOn": "2023-02-06T13:00:00.000Z",
-          "wordCount": 5650,
+          "wordCount": 5648,
           "title": "How To Build A Magazine Layout With CSS Grid Areas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg",
@@ -269,7 +274,7 @@
           "description": "Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.",
           "link": "https://smashingmagazine.com/2023/02/podcasts-ux-designers/",
           "publishedOn": "2023-02-02T15:00:00.000Z",
-          "wordCount": 4679,
+          "wordCount": 4684,
           "title": "UX Podcasts For Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png",
@@ -299,7 +304,7 @@
           "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
           "link": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
           "publishedOn": "2023-02-01T11:00:00.000Z",
-          "wordCount": 5465,
+          "wordCount": 5469,
           "title": "Understanding App Directory Architecture In Next.js",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg",
@@ -344,7 +349,7 @@
           "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
           "link": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
           "publishedOn": "2023-01-30T14:00:00.000Z",
-          "wordCount": 8935,
+          "wordCount": 8934,
           "title": "Easy SVG Customization And Animation: A Practical Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg",
@@ -359,7 +364,7 @@
           "description": "In this article, Rachel walks you through various ways that product teams can utilize to build relationships with customers. She will share some tips and tricks from her experience that have helped her nurture customer relationships and build better products.",
           "link": "https://smashingmagazine.com/2023/01/build-strong-customer-relationships-user-research/",
           "publishedOn": "2023-01-27T11:30:00.000Z",
-          "wordCount": 6955,
+          "wordCount": 6946,
           "title": "How To Build Strong Customer Relationships For User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-strong-customer-relationships-user-research/meta-image-build-strong-customer-relationships-user-research.jpg",
@@ -374,7 +379,7 @@
           "description": "Managing our colors can truly help people to access our content. In this article, Brecht de Ruyte takes a deep dive into how we can create a high-contrast system while maintaining a balance between designing something accessible and respecting the look and feel of a brand.",
           "link": "https://smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/",
           "publishedOn": "2023-01-26T14:00:00.000Z",
-          "wordCount": 5221,
+          "wordCount": 5224,
           "title": "Creating A High-Contrast Design System With CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-contrast-custom-properties/meta-image-high-contrast-design-system-css-custom-properties.jpg",
@@ -419,7 +424,7 @@
           "description": "Striking the right balance between inspiration and innovation might be hard. Let’s explore how to effectively get inspiration from others without losing that magic spark, including some do’s and don’ts along the way.",
           "link": "https://smashingmagazine.com/2023/01/copying-designs-doesnt-work/",
           "publishedOn": "2023-01-24T11:00:00.000Z",
-          "wordCount": 4001,
+          "wordCount": 4006,
           "title": "Copying Designs Doesn’t Work, And Here’s Why",
           "enclosure": {
             "url": "http://files.smashing.media/articles/copying-designs-doesnt-work/copying-designs-doesnt-work.jpg",
@@ -434,7 +439,7 @@
           "description": "In this episode, we ask whether technology is making us redundant; will we all soon be replaced with AI? Vitaly Friedman talks to Tejas Kumar to find out.",
           "link": "https://smashingmagazine.com/2023/01/smashing-podcast-episode-55/",
           "publishedOn": "2023-01-24T08:00:00.000Z",
-          "wordCount": 11187,
+          "wordCount": 11285,
           "title": "Smashing Podcast Episode 55 With Tejas Kumar: Is Technology Making Us Redundant?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-55/smashing-podcast-episode-55.png",
@@ -449,7 +454,7 @@
           "description": "The CSS relational selector :has() offers what was previously impossible without JavaScript. Let’s explore some magical powers that :has brings.",
           "link": "https://smashingmagazine.com/2023/01/level-up-css-skills-has-selector/",
           "publishedOn": "2023-01-23T12:00:00.000Z",
-          "wordCount": 6150,
+          "wordCount": 6152,
           "title": "Level Up Your CSS Skills With The :has() Selector",
           "enclosure": {
             "url": "http://files.smashing.media/articles/has-selector-level-up-css-skills/has-selector-level-up-css-skills.jpg",
@@ -464,7 +469,7 @@
           "description": "In this article, Daniel Yuschick demonstrates that building selfish components is the key approach to avoiding different pitfalls on the way to good component design.",
           "link": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
           "publishedOn": "2023-01-20T17:00:00.000Z",
-          "wordCount": 7308,
+          "wordCount": 7206,
           "title": "The Key To Good Component Design Is Selfishness",
           "enclosure": {
             "url": "http://files.smashing.media/articles/key-good-component-design-selfishness/sharing-image-key-good-component-design-selfishness.jpg",
@@ -479,7 +484,7 @@
           "description": "In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.",
           "link": "https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/",
           "publishedOn": "2023-01-19T15:00:00.000Z",
-          "wordCount": 7122,
+          "wordCount": 7130,
           "title": "How To Design Better UX With Introverted Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg",
@@ -487,21 +492,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/guide-designing-for-introverts/guide-designing-for-introverts.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Get better at your craft and support the people in Ukraine — that’s the idea behind our Figma Auto Layout Masterclass with Christine Vallaure. **We are donating all proceeds** from the online workshop to humanitarian aid in Ukraine. Monday, March 27, 09:00AM – 12:00PM PT / 18:00 – 21:00 CET. Donate and join!",
-          "link": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
-          "publishedOn": "2023-01-18T14:00:00.000Z",
-          "wordCount": 3195,
-          "title": "Figma Auto Layout Masterclass: An Online Workshop To Support Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png"
         }
       ]
     },
@@ -511,12 +501,72 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/asynchronous-javascript/",
+          "author": "Kedar Makode",
+          "description": "In this tutorial, you'll learn all about Asynchronous JavaScript.  But before we dive into that, we need to make sure you understand what Synchronous code is and how it works. What is Synchronous Code? When we write a program in JavaScript, it executes line by line. When a line",
+          "link": "https://www.freecodecamp.org/news/asynchronous-javascript/",
+          "publishedOn": "2023-02-17T18:37:03.000Z",
+          "wordCount": 3671,
+          "title": "How Asynchronous JavaScript Works",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-zhang-kaiyv-1168940.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/",
+          "author": "Spruce Emmanuel",
+          "description": "Next.js is a React framework that makes building powerful full stack (front end + back end) applications a lot easier.  The team behind Next.js recently released Next.js 13 [https://nextjs.org/blog/next-13] which has a whole lot of futures like a new  app Directory, server and client components, and more. In",
+          "link": "https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/",
+          "publishedOn": "2023-02-17T17:38:20.000Z",
+          "wordCount": 2695,
+          "title": "How to Build a Full Stack App with Next.js 13 and Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-sevenstorm-juhaszimrus-443383--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/",
+          "author": "Dillion Megida",
+          "description": "There are multiple ways to access object properties in JavaScript. But two common ones are dot notation and bracket notation. I'll explain the difference between these two approaches in this article. With dot and bracket notation, you can:  * access the value of a property by its key",
+          "link": "https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/",
+          "publishedOn": "2023-02-17T16:55:10.000Z",
+          "wordCount": 2044,
+          "title": "Dot Notation vs Bracket Notation for Object Properties – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/19.-dot-vs-bracket-notation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/",
+          "author": "Dillion Megida",
+          "description": "When declaring objects before ES6, you had to use static keys for properties. But since the release of ES6, you can use dynamic keys. I'll show you how they work in this article. What are Static and Dynamic Keys? What do I mean by static keys? Take a look at",
+          "link": "https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/",
+          "publishedOn": "2023-02-17T16:53:48.000Z",
+          "wordCount": 1425,
+          "title": "How to Set Dynamic Object Properties using Computed Property Names",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/20.-dynamic-object-properties-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/filter-arrays-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When building a dynamic and interactive program, you may need to add some interactive features. For example, where a user clicks a button to filter through a long list of items. You may also need to manipulate a large array of data to return only items that match your specified",
+          "link": "https://www.freecodecamp.org/news/filter-arrays-in-javascript/",
+          "publishedOn": "2023-02-17T01:13:56.000Z",
+          "wordCount": 1704,
+          "title": "How to Filter an Array in JavaScript – JS Filtering for Arrays and Objects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use enhanced loops in Java to achieve the same results as a for loop [/news/java-for-loop-example/]. An enhanced loop is also known as a for-each  loop in Java.  Enhanced loops simplify the way you create for loops. They are mostly used to iterate through an array or",
+          "link": "https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/",
+          "publishedOn": "2023-02-17T00:55:10.000Z",
+          "wordCount": 1216,
+          "title": "Enhanced For Loops in Java – How to Use ForEach Loops on Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-enhanced-loop.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-print-array-elements-in-given-order-with-and-without-function/",
           "author": "Md. Fahim Bin Amin",
           "description": "If you are learning to solve problems using a programming language, you've likely faced the problem of printing array elements in a given order or in reverse order. You might have also needed to do this by either using a user-defined function or not using any function at all. If",
           "link": "https://www.freecodecamp.org/news/how-to-print-array-elements-in-given-order-with-and-without-function/",
           "publishedOn": "2023-02-16T21:58:53.000Z",
-          "wordCount": 2208,
+          "wordCount": 2209,
           "title": "How to Print Array Elements in a Given Order with or without a Function",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/func.png"
         },
@@ -549,66 +599,6 @@
           "wordCount": 2930,
           "title": "SOLID Design Principles in Software Development",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/start-graph--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/grainy-css-backgrounds-using-svg-filters/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article we're going to create more interesting website backgrounds by using grainy effects.  There's a full video walkthrough at the bottom of the article 👇, as well as a 15 second video in the middle for those of you who just want a quick soundbite. We'll cover",
-          "link": "https://www.freecodecamp.org/news/grainy-css-backgrounds-using-svg-filters/",
-          "publishedOn": "2023-02-16T16:00:47.000Z",
-          "wordCount": 1571,
-          "title": "How to Create Grainy CSS Backgrounds Using SVG Filters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/fCC-thumbp.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/",
-          "author": "Nyior Clement",
-          "description": "From town criers to written letters and now real-time chat applications, humanity has always been on the lookout for innovative ways to communicate. And we can say the same about computers. There's an even greater need to allow computers to communicate with the increasing adoption of distributed architecture. This also",
-          "link": "https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/",
-          "publishedOn": "2023-02-16T15:54:17.000Z",
-          "wordCount": 2811,
-          "title": "How Message Queues Work in Distributed Systems",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to take your web development skills to the next level? Do you want to learn how to build dynamic database-driven web applications with Python, Flask, and MySQL?  We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that is designed to teach you how",
-          "link": "https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/",
-          "publishedOn": "2023-02-16T14:00:00.000Z",
-          "wordCount": 1002,
-          "title": "Develop Database-Driven Web Apps with Python, Flask, and MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pyweb.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
-          "author": "TAPAS ADHIKARY",
-          "description": "JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
-          "publishedOn": "2023-02-15T17:21:13.000Z",
-          "wordCount": 2819,
-          "title": "How to Learn JavaScript Effectively – Tips and Learning Strategies",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/freeCodeCamp-Cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
-          "publishedOn": "2023-02-15T17:17:35.000Z",
-          "wordCount": 1547,
-          "title": "Python Anonymous Function – How to Use Lambda Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lambda-functions-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
-          "author": "Tejan Singh",
-          "description": "As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?",
-          "link": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
-          "publishedOn": "2023-02-15T17:12:30.000Z",
-          "wordCount": 1660,
-          "title": "Type Error vs Reference Error in JavaScript – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-kim-stiver-909256.jpg"
         }
       ]
     }
