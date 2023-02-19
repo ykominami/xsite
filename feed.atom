@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T00:10:22.307Z</id>
+    <id>urn:2023-02-19T00:12:07.085Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T00:10:22.307Z</updated>
+    <updated>2023-02-19T00:12:07.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Commands in Linux]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/"/>
+        <updated>2023-02-17T23:04:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, let's learn about creating your own commands in Linux. Yes – we're going to talk about creating an alias command.  Before we begin, I want to tell you how the idea for this tutorial came about.  One of the followers of my blog asked me,]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network]]></title>
+        <id>https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/</id>
+        <link href="https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/"/>
+        <updated>2023-02-17T22:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Long-standing centralized intermediaries, like the government or big companies, are the ones who make and keep your ID information in traditional systems that manage who you are.  But this implies that you have no control over the information relating to your identification, who has access to personally identifiable information]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine learning with Julia – How to Build and Deploy a Trained AI Model as a Web Service]]></title>
+        <id>https://www.freecodecamp.org/news/machine-learning-using-julia/</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-using-julia/"/>
+        <updated>2023-02-17T22:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. This article introduces the Julia language and its ecosystem. You'll learn how to use it to]]></summary>
+        <author>
+            <name>Andrey Germanov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Asynchronous JavaScript Works]]></title>
         <id>https://www.freecodecamp.org/news/asynchronous-javascript/</id>
@@ -86,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Force Pull in GitHub – How to Overwrite on Local Changes with Git]]></title>
-        <id>https://www.freecodecamp.org/news/force-pull-in-github-how-to-overwrite-on-local-changes-with-git/</id>
-        <link href="https://www.freecodecamp.org/news/force-pull-in-github-how-to-overwrite-on-local-changes-with-git/"/>
-        <updated>2023-02-16T17:32:02.000Z</updated>
-        <summary type="html"><![CDATA[While working on a project as part of a team, you may get an error message telling you that you can't execute git pull on your repository because you have local changes. Why does this happen? This error usually occurs when several people are introducing updates to the same file.]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List Within a List in Python – How to Initialize a Nested List]]></title>
-        <id>https://www.freecodecamp.org/news/list-within-a-list-in-python-initialize-a-nested-list/</id>
-        <link href="https://www.freecodecamp.org/news/list-within-a-list-in-python-initialize-a-nested-list/"/>
-        <updated>2023-02-16T17:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Lists are a built-in data type in Python. And you can use them to store a collection of elements.  Lists are ordered, mutable, and contain elements of different data types, such as strings, integers, and other lists.  In Python, lists are a fundamental type of data structure that]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOLID Design Principles in Software Development]]></title>
-        <id>https://www.freecodecamp.org/news/solid-design-principles-in-software-development/</id>
-        <link href="https://www.freecodecamp.org/news/solid-design-principles-in-software-development/"/>
-        <updated>2023-02-16T17:11:16.000Z</updated>
-        <summary type="html"><![CDATA[SOLID is a set of five design principles. These principles help software developers design robust, testable, extensible, and maintainable object-oriented software systems. Each of these five design principles solves a particular problem that might arise while developing the software systems. In this article, I’ll show you what the SOLID principles]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Putting Gears In Motion: Animating Cars With HTML And SVG]]></title>
         <id>https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/</id>
         <link href="https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/"/>
@@ -126,7 +126,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five Steps To Sell Your Product With Powerful Storytelling]]></title>
+        <title type="html"><![CDATA[Five Steps To Design Your Product With Powerful Storytelling]]></title>
         <id>https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/</id>
         <link href="https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/"/>
         <updated>2023-02-15T10:00:00.000Z</updated>
@@ -461,27 +461,6 @@ Getting Started With SvelteKit originally published on CSS-Tricks, which is part
 More Real-World Uses for :has() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Liam Johnston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Design Better UX With Introverted Design]]></title>
-        <id>https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/</id>
-        <link href="https://smashingmagazine.com/2023/01/introverted-design-building-better-ux-experiences/"/>
-        <updated>2023-01-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Pratik Joglekar explores the typical traits of introverts and uses them to make parallels and categorize digital experiences that can stand out without being loud.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Transition to Manifest V3 for Chrome Extensions]]></title>
-        <id>https://css-tricks.com/?p=376454</id>
-        <link href="https://css-tricks.com/how-to-transition-to-manifest-v3-for-chrome-extensions/"/>
-        <updated>2023-01-19T13:54:37.000Z</updated>
-        <summary type="html"><![CDATA[While I am not a regular Chrome extension programmer, I have certainly coded enough extensions and have a wide enough web development portfolio to know my way around the task. However, just recently, I had a client reject one of …
-How to Transition to Manifest V3 for Chrome Extensions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Shane Duggan</name>
         </author>
     </entry>
 </feed>
