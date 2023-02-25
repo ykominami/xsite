@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T00:10:36.361Z</id>
+    <id>urn:2023-02-25T00:11:30.058Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T00:10:36.361Z</updated>
+    <updated>2023-02-25T00:11:30.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Lambda Functions – How to Use Anonymous Functions with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/python-lambda-functions/</id>
+        <link href="https://www.freecodecamp.org/news/python-lambda-functions/"/>
+        <updated>2023-02-24T17:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Lambda functions, also known as anonymous functions, are small, one-time-use functions in Python.  You can define them using the lambda keyword followed by the function's inputs, a colon, and the function's expression. The output of a lambda function is returned as the result of the expression, rather than a]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sorted List – And How to Sort or Reverse an Array in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/</id>
+        <link href="https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/"/>
+        <updated>2023-02-24T17:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Arrays and lists in Python are very interesting data structures.  Both lists and arrays consist of ordered, mutable items – but arrays contain items of the same type, while lists can store multiple types of items.  In this article, we will learn how to reverse an array using]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a String to an Integer in C# – with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/"/>
+        <updated>2023-02-23T23:22:15.000Z</updated>
+        <summary type="html"><![CDATA[There are various situations where you need to convert a string to a number. Whether you are working with user input or data from an external source, converting a string to a number is a common task for developers. This article will explore some of the most common methods to]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Unhide a Row or Column in Excel – Or Unhide All Rows and Columns]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/"/>
+        <updated>2023-02-23T22:45:03.000Z</updated>
+        <summary type="html"><![CDATA[If you’re working with a spreadsheet that contains sensitive or private data, then some rows and columns might be hidden. You might also need to hide unimportant information or data you don’t want others to see in your own spreadsheet. In these cases, you might need to unhide those hidden]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Your Company Should Be Using Log Management Software]]></title>
         <id>https://www.freecodecamp.org/news/why-you-should-use-log-management-software/</id>
@@ -66,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Nested Functions in Google Sheets]]></title>
-        <id>https://www.freecodecamp.org/news/nested-functions-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/nested-functions-in-google-sheets/"/>
-        <updated>2023-02-23T01:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Data analysis is an extremely valuable skill to have. But to make the most of your analysis, it's invaluable to get your data neat and orderly.  In this article, I'll show you how to combine several functions together to better organize your data. gif of toys talking to each]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chocolate, Waffles And Fries: Meet SmashingConf Antwerp 2023 🇧🇪]]></title>
         <id>https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/</id>
         <link href="https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/"/>
@@ -93,36 +123,6 @@
         <summary type="html"><![CDATA[Let’s see how to achieve phenomenal web performance and great developer experience with Astro and a headless CMS, resulting in the best possible experience for users, developers and content creators alike.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Manuel Schröder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a 3D Tilting Card Effect in React Native]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/"/>
-        <updated>2023-02-22T16:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I came across a tutorial about how to create a 3D tilting card effect (with mouse tracking functionality) on Kevin Powell's YouTube channel [https://www.youtube.com/@KevinPowell]. Kevin used HTML, CSS, and JavaScript to create the markup, style the card, and implement the mouse tracking functionality, respectively. In this tutorial, we'll take]]></summary>
-        <author>
-            <name>Kingsley Ubah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Remote Branch in Git? How to Check out Remote Branches from GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/remote-branches-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/remote-branches-in-git/"/>
-        <updated>2023-02-22T16:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Git is a free and open-source tool. Specifically, it is the most popular version control system used in software development today. Git allows you to keep track of and maintain different versions of a coding project. With Git, developers and technical teams can collaborate and work together on a project.]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ValueError: math domain error [Solved Python Error]]]></title>
-        <id>https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/"/>
-        <updated>2023-02-22T16:11:13.000Z</updated>
-        <summary type="html"><![CDATA[In mathematics, there are certain operations that are considered to be mathematically undefined operations.  Some examples of these undefined operations are:  * The square root of a negative number (√-2).   * A divisor with a value of zero (20/0).  The "ValueError: math domain error" error]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -418,37 +418,6 @@ AR, VR, and a Model for 3D in HTML originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Managing our colors can truly help people to access our content. In this article, Brecht de Ruyte takes a deep dive into how we can create a high-contrast system while maintaining a balance between designing something accessible and respecting the look and feel of a brand.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better ROI For Your Digital Products: Why Continuous Research Is Key]]></title>
-        <id>https://smashingmagazine.com/2023/01/better-roi-digital-products-continous-research/</id>
-        <link href="https://smashingmagazine.com/2023/01/better-roi-digital-products-continous-research/"/>
-        <updated>2023-01-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[57% of product professionals say that product research has a positive effect on customer satisfaction. 42% agree that it affects profitability. Imagine how much more successful your product would be if you did research continuously?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animating CSS Grid (How To + Examples)]]></title>
-        <id>https://css-tricks.com/?p=376528</id>
-        <link href="https://css-tricks.com/animating-css-grid-how-to-examples/"/>
-        <updated>2023-01-25T16:05:04.000Z</updated>
-        <summary type="html"><![CDATA[I’m pleased to shine a light on the fact that the CSS grid-template-rows and grid-template-columns properties are now animatable in all major web browsers! Well, CSS Grid has technically supported animations for a long time, as it’s baked right …
-Animating CSS Grid (How To + Examples) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Reviews And Ratings UX: A Designer’s Guide]]></title>
-        <id>https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/</id>
-        <link href="https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/"/>
-        <updated>2023-01-25T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we design effective reviews and ratings? With a distribution chart, decimal scores, tags, recommendation score and unedited product photos.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
