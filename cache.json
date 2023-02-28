@@ -17,7 +17,7 @@
           "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.\nInspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …\nAn Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
           "publishedOn": "2023-02-13T15:10:41.000Z",
-          "wordCount": 1778,
+          "wordCount": 1786,
           "title": "An Approach to Lazy Loading Custom Elements",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376991"
         },
@@ -27,7 +27,7 @@
           "description": "It’s a question I hear asked quite often: Is it possible to create shadows from gradients instead of solid colors? There is no specific CSS property that does this (believe me, I’ve looked) and any blog post you find about …\nDifferent Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/different-ways-to-get-css-gradient-shadows/",
           "publishedOn": "2023-02-10T15:13:42.000Z",
-          "wordCount": 3842,
+          "wordCount": 3850,
           "title": "Different Ways to Get CSS Gradient Shadows",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376764"
         },
@@ -37,7 +37,7 @@
           "description": "Every now and then, a one blog post is published and it spurs a reaction or response in others that are, in turn, published as blogs posts, and a theme starts to emerge. That’s what happened this past week and …\nHealthcare, Selling Lemons, and the Price of Developer Experience originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/healthcare-selling-lemons-and-the-price-of-developer-experience/",
           "publishedOn": "2023-02-09T19:45:48.000Z",
-          "wordCount": 1923,
+          "wordCount": 1931,
           "title": "Healthcare, Selling Lemons, and the Price of Developer Experience",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377169"
         },
@@ -47,7 +47,7 @@
           "description": "We often think of background images as texture or something that provides contrast for legible content — in other words, not really content. If it was content, you’d probably reach for an <img> anyway, accessibility and whatnot.\nBut there are …\nMoving Backgrounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/moving-backgrounds/",
           "publishedOn": "2023-02-09T15:03:55.000Z",
-          "wordCount": 2814,
+          "wordCount": 2822,
           "title": "Moving Backgrounds",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376723"
         },
@@ -57,7 +57,7 @@
           "description": "Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …\nThe truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-truth-about-css-selector-performance/",
           "publishedOn": "2023-02-07T15:59:35.000Z",
-          "wordCount": 914,
+          "wordCount": 922,
           "title": "The truth about CSS selector performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376659"
         },
@@ -67,7 +67,7 @@
           "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n<pI used to have this \n…\nThe Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-double-emphasis-thing/",
           "publishedOn": "2023-02-06T15:06:55.000Z",
-          "wordCount": 2475,
+          "wordCount": 2483,
           "title": "The Double Emphasis Thing",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376548"
         },
@@ -77,7 +77,7 @@
           "description": "Do you know that kind of effect where someone’s head is poking through a circle or hole? The famous Porky Pig animation where he waves goodbye while popping out of a series of red rings is the perfect example, and …\nA Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/",
           "publishedOn": "2023-02-03T15:11:46.000Z",
-          "wordCount": 3206,
+          "wordCount": 3214,
           "title": "A Fancy Hover Effect For Your Avatar",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376676"
         },
@@ -87,7 +87,7 @@
           "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …\nCaching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/caching-data-in-sveltekit/",
           "publishedOn": "2023-02-01T15:04:33.000Z",
-          "wordCount": 4007,
+          "wordCount": 4015,
           "title": "Caching Data in SvelteKit",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376634"
         }
@@ -98,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
+          "author": "hello@smashingmagazine.com (Sandrina Pereira)",
+          "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
+          "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
+          "publishedOn": "2023-02-27T14:00:00.000Z",
+          "wordCount": 6756,
+          "title": "A Guide To Accessible Form Validation",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -149,7 +164,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11617,
+          "wordCount": 11618,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -164,7 +179,7 @@
           "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
           "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
           "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5493,
+          "wordCount": 5491,
           "title": "Keys To An Accessibility Mindset",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
@@ -179,7 +194,7 @@
           "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
           "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6519,
+          "wordCount": 6515,
           "title": "A Step-By-Step Guide To Building Accessible Carousels",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
@@ -224,7 +239,7 @@
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
           "link": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "publishedOn": "2023-02-10T12:00:00.000Z",
-          "wordCount": 6069,
+          "wordCount": 6167,
           "title": "Discovering Primitive Objects In JavaScript (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg",
@@ -254,7 +269,7 @@
           "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
           "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
           "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 4741,
+          "wordCount": 4740,
           "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
@@ -269,7 +284,7 @@
           "description": "In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
           "publishedOn": "2023-02-07T09:30:00.000Z",
-          "wordCount": 11223,
+          "wordCount": 11221,
           "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png",
@@ -284,7 +299,7 @@
           "description": "Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.",
           "link": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
           "publishedOn": "2023-02-06T13:00:00.000Z",
-          "wordCount": 5655,
+          "wordCount": 5661,
           "title": "How To Build A Magazine Layout With CSS Grid Areas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg",
@@ -299,7 +314,7 @@
           "description": "Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.",
           "link": "https://smashingmagazine.com/2023/02/podcasts-ux-designers/",
           "publishedOn": "2023-02-02T15:00:00.000Z",
-          "wordCount": 4692,
+          "wordCount": 4687,
           "title": "UX Podcasts For Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png",
@@ -329,7 +344,7 @@
           "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
           "link": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
           "publishedOn": "2023-02-01T11:00:00.000Z",
-          "wordCount": 5578,
+          "wordCount": 5475,
           "title": "Understanding App Directory Architecture In Next.js",
           "enclosure": {
             "url": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg",
@@ -344,7 +359,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.",
           "link": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
           "publishedOn": "2023-01-31T16:00:00.000Z",
-          "wordCount": 5179,
+          "wordCount": 5074,
           "title": "The Magic Of February (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png",
@@ -374,7 +389,7 @@
           "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
           "link": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
           "publishedOn": "2023-01-30T14:00:00.000Z",
-          "wordCount": 8946,
+          "wordCount": 8941,
           "title": "Easy SVG Customization And Animation: A Practical Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg",
@@ -391,12 +406,52 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
+          "author": "Dionysia Lemonaki",
+          "description": "The ternary operator is a helpful feature in JavaScript that allows you to write concise and readable expressions that perform conditional operations on only one line. In this article, you will learn why you may want to use the ternary operator, and you will see an example of how to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
+          "publishedOn": "2023-02-27T18:40:47.000Z",
+          "wordCount": 1578,
+          "title": "How to Use the Ternary Operator in JavaScript – JS Conditional Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ken-tomita-389818.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/",
+          "author": "Vikram Aruchamy",
+          "description": "Base64 strings represent binary objects in textual format. They are designed to transmit binary data between channels that only support a textual format. Sometimes, you might receive PDF files from various services as a Base64 string, and you may need to convert them to a PDF file on the client",
+          "link": "https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/",
+          "publishedOn": "2023-02-27T18:20:44.000Z",
+          "wordCount": 1407,
+          "title": "How to Save a Base64 String as a PDF File on the Client Side in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/How-to-check-if-a-String-is-URL-in-Javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/",
+          "author": "Ashutosh Krishna",
+          "description": "In today's digital age, having an online presence is crucial for businesses of all sizes.  Whether you're an established retailer or an aspiring entrepreneur, an ecommerce site can provide you with a platform to reach a global audience and sell your products or services around the clock. Building an",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/",
+          "publishedOn": "2023-02-27T15:36:21.000Z",
+          "wordCount": 2363,
+          "title": "How to Build Your Own E-Commerce Site with Medusa",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/medusa.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/",
+          "author": "Maybell Obadoni",
+          "description": "The process of handling errors is known as debugging. It involves identifying and removing errors from your program.  If you want to be an efficient programmer, you'll want to cultivate your ability to debug code. It's one of the main skills you'll need as a software developer or programmer.",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/",
+          "publishedOn": "2023-02-24T23:37:18.000Z",
+          "wordCount": 2722,
+          "title": "How to Debug Errors in Your Source Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Errors.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/python-lambda-functions/",
           "author": "Ashutosh Krishna",
           "description": "Lambda functions, also known as anonymous functions, are small, one-time-use functions in Python.  You can define them using the lambda keyword followed by the function's inputs, a colon, and the function's expression. The output of a lambda function is returned as the result of the expression, rather than a",
           "link": "https://www.freecodecamp.org/news/python-lambda-functions/",
           "publishedOn": "2023-02-24T17:25:28.000Z",
-          "wordCount": 3031,
+          "wordCount": 3033,
           "title": "Python Lambda Functions – How to Use Anonymous Functions with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lambda-1.png"
         },
@@ -406,7 +461,7 @@
           "description": "Arrays and lists in Python are very interesting data structures.  Both lists and arrays consist of ordered, mutable items – but arrays contain items of the same type, while lists can store multiple types of items.  In this article, we will learn how to reverse an array using",
           "link": "https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/",
           "publishedOn": "2023-02-24T17:24:10.000Z",
-          "wordCount": 1691,
+          "wordCount": 1693,
           "title": "Python Sorted List – And How to Sort or Reverse an Array in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Sorted-List---And-How-to-Sort-or-Reverse-an-Array-in-Python--by-Shittu-Olumide-1.png"
         },
@@ -416,7 +471,7 @@
           "description": "There are various situations where you need to convert a string to a number. Whether you are working with user input or data from an external source, converting a string to a number is a common task for developers. This article will explore some of the most common methods to",
           "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
           "publishedOn": "2023-02-23T23:22:15.000Z",
-          "wordCount": 1258,
+          "wordCount": 1260,
           "title": "How to Convert a String to an Integer in C# – with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
         },
@@ -426,7 +481,7 @@
           "description": "If you’re working with a spreadsheet that contains sensitive or private data, then some rows and columns might be hidden. You might also need to hide unimportant information or data you don’t want others to see in your own spreadsheet. In these cases, you might need to unhide those hidden",
           "link": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
           "publishedOn": "2023-02-23T22:45:03.000Z",
-          "wordCount": 1285,
+          "wordCount": 1287,
           "title": "How to Unhide a Row or Column in Excel – Or Unhide All Rows and Columns",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/unhideExcel.png"
         },
@@ -436,7 +491,7 @@
           "description": "Logging, safeguarding, and utilizing data is a massive part of any software development operation. And chronological records of events have become an invaluable tool for determining future decisions. Today, we're fortunate enough to have the concept of system logs, which represents a collection of files. These files have data crucial",
           "link": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
           "publishedOn": "2023-02-23T21:24:21.000Z",
-          "wordCount": 1912,
+          "wordCount": 1914,
           "title": "Why Your Company Should Be Using Log Management Software",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/log-management-apple-mac-tech.jpg"
         },
@@ -446,49 +501,9 @@
           "description": "C++ supports the concept of inheritance – that is, a class can inherit properties from other classes.  But sometimes you might need to use what is commonly referred as virtual inheritance.  In this article we will discuss when you might need to use virtual inheritance and how to",
           "link": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
           "publishedOn": "2023-02-23T21:09:43.000Z",
-          "wordCount": 1348,
+          "wordCount": 1350,
           "title": "What is Virtual Inheritance?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ruiyang-zhang-3717242.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
-          "author": "Jessica Rose",
-          "description": "Over the past 24 months Ramón Huidobro [https://twitter.com/hola_soy_milk] and I have been running free programming bootcamps teaching web development and JavaScript skills.  We've been stunned by the demand for these courses, which averaged 8,000 learners per cohort and let us reach 35,000 unique learners in total.  We've also",
-          "link": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
-          "publishedOn": "2023-02-23T15:57:06.000Z",
-          "wordCount": 1087,
-          "title": "The Bad Website Club (and more free Bootcamps)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-monoar-rahman-114907.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
-          "author": "Velda Kiara",
-          "description": "When I was a young girl, we used to have sports competitions like running a hundred meters, relays, swimming, and basketball games.  My strengths were swimming and basketball. I went home with many gifts or, as my school's game master said, a token of appreciation. A token is a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
-          "publishedOn": "2023-02-23T15:53:00.000Z",
-          "wordCount": 2714,
-          "title": "How to Implement Tokenization using JWT and Django Rest Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Purple-Colorful-Tech-22-YouTube-Channel-Art.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
-          "author": "Beau Carnes",
-          "description": "In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. This is",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
-          "publishedOn": "2023-02-23T13:49:38.000Z",
-          "wordCount": 3588,
-          "title": "Introduction to Linux, Part 2",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linux/",
-          "author": "Beau Carnes",
-          "description": "If you're new to Linux, this course is for you. In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linux/",
-          "publishedOn": "2023-02-23T13:49:13.000Z",
-          "wordCount": 51159,
-          "title": "Introduction to Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux.png"
         }
       ]
     }
