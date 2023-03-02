@@ -1,10 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T00:12:20.106Z</id>
+    <id>urn:2023-03-02T00:11:36.588Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T00:12:20.106Z</updated>
+    <updated>2023-03-02T00:11:36.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python VS C++ Time Complexity Analysis]]></title>
+        <id>https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/"/>
+        <updated>2023-03-01T19:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Speed is important in programming languages, and some execute much faster than others. For example, you might know that C++ is faster than Python. So why is this the case? Well, C++ is a language that uses a compiler, not to mention it is a much lower-level programming language than]]></summary>
+        <author>
+            <name>Anthony Behery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Excel Tasks with Python]]></title>
+        <id>https://www.freecodecamp.org/news/automate-excel-tasks-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/automate-excel-tasks-with-python/"/>
+        <updated>2023-03-01T19:04:17.000Z</updated>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security and Privacy – What You Should Know to Protect Your Data]]></title>
+        <id>https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/</id>
+        <link href="https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/"/>
+        <updated>2023-03-01T18:36:46.000Z</updated>
+        <summary type="html"><![CDATA[I've talked a lot about security and privacy in my "A Beginners Guide to Digital Security [/news/understanding-digital-security/]" and "What Is Digital Privacy [/news/beginners-guide-to-digital-privacy/]" articles. So why are we flogging this certifiably dead horse now? Because it's not dead. Security and privacy are as or more important than anything else in]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python RegEx – How to Import a Regular Expression in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/"/>
+        <updated>2023-03-01T17:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Virtually all the programming languages out there support regular expressions. Regex is built into languages like JavaScript and Pearl, while others like Java and Python have standard libraries for working with it. In this article, we’ll look at how you can import regular expressions in Python and use it. We’ll]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Dictionary – How to Create a Dict in Python (Hashmap)]]></title>
+        <id>https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/"/>
+        <updated>2023-03-01T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this Python article on creating a dictionary (also called a hashmap).  A dictionary or hashmap is an unordered grouping of key-value pairs in Python. Since each value can be accessed by its corresponding key, it offers a practical means of storing and retrieving data. We'll cover the]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a CSV File Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/"/>
+        <updated>2023-03-01T00:43:48.000Z</updated>
+        <summary type="html"><![CDATA[CSV is an acronym for comma-separated values. It's a file format that you can use to store tabular data, such as in a spreadsheet. You can also use it to store data from a tabular database.  You can refer to each row in a CSV file as a data]]></summary>
+        <author>
+            <name>Damilola Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Server Tutorial – How to Login, Communicate, and Transfer Files]]></title>
+        <id>https://www.freecodecamp.org/news/linux-server-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/linux-server-tutorial/"/>
+        <updated>2023-02-28T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that 96% of the top 1 million web servers [https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/]  are running Linux?  Yes. You heard that right. So being able to work with Linux servers is a great skill to have. In this article, you'll learn how to connect to a Linux server using]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Callbacks Work in Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/nodejs-callbacks/</id>
+        <link href="https://www.freecodecamp.org/news/nodejs-callbacks/"/>
+        <updated>2023-02-28T22:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Node.js callbacks are a special type of function passed as an argument to another function.  They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls. Even]]></summary>
+        <author>
+            <name>Aditya Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Modules – How to Create, Import, and Export a Module in JS]]></title>
         <id>https://www.freecodecamp.org/news/javascript-modules/</id>
@@ -26,16 +105,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code an AlphaZero Machine Learning Algorithm to Play Games]]></title>
-        <id>https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/</id>
-        <link href="https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/"/>
-        <updated>2023-02-28T16:04:29.000Z</updated>
-        <summary type="html"><![CDATA[AlphaZero is a game-playing algorithm that uses artificial intelligence and machine learning techniques to learn how to play board games at a superhuman level. We just published a machine learning course on the freeCodeCamp.org channel that will teach you how  to build AlphaZero from scratch. Robert Förster created this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Daydreaming In March (2023 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/</id>
         <link href="https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/"/>
@@ -53,76 +122,6 @@
         <summary type="html"><![CDATA[In the ever-evolving design tools landscape, it can be difficult to keep up with the latest and greatest. In this article, we’ll take a closer look at Penpot, the first design and prototyping tool that’s fully open-source and based on open web standards, making it an ideal choice for both designers and developers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Replace – How to Replace a String or Substring in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/"/>
-        <updated>2023-02-28T02:24:34.000Z</updated>
-        <summary type="html"><![CDATA[When working with JavaScript, you might need to replace a string or substring with a new one. For example, you might want to replace a certain string (like "color” — American English) or substring in a larger text or document with a different string (“colour” — British English). You may]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TailwindCSS vs NextUI – How to Choose a UI Framework]]></title>
-        <id>https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/</id>
-        <link href="https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/"/>
-        <updated>2023-02-28T01:20:44.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, choosing the proper UI framework can be tough. This is partly because there are so many options to choose from, each with its strengths and weaknesses.  In this guide, I will discuss the differences between two popular frameworks: Tailwind CSS and NextUI.  Tailwind CSS]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Mobile Apps with Flutter]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/"/>
-        <updated>2023-02-28T01:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is a mobile app development framework from Google that lets you build beautiful, high-performance iOS and Android applications.  In this article, let’s look at what Flutter is and how to work with it. What is Flutter? Flutter is an open-source mobile application development framework created by Google. It]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is RTLO in Hacking? How to Use Right-to-Left Override and Defend Against it]]></title>
-        <id>https://www.freecodecamp.org/news/rtlo-in-hacking/</id>
-        <link href="https://www.freecodecamp.org/news/rtlo-in-hacking/"/>
-        <updated>2023-02-28T00:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Let’s play a lovely game of hide your malware in plain sight. 🐴 Malicious hackers look for all kinds of underhanded tricks to make everyday users victims as a result of common mistakes. They might get someone to click the wrong link, open the wrong website, or execute the wrong]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Revert – How to Reset a File or Commit]]></title>
-        <id>https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/</id>
-        <link href="https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/"/>
-        <updated>2023-02-28T00:21:11.000Z</updated>
-        <summary type="html"><![CDATA[When working on a project with a team or by yourself, it's important to track changes in the code base through version control.  Git provides you with different commands for tracking file changes. These commands will enable you to collaborate with other developers, access file history, manage code, and]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding to Dict in Python – How to Append to a Dictionary]]></title>
-        <id>https://www.freecodecamp.org/news/add-to-dict-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/add-to-dict-in-python/"/>
-        <updated>2023-02-28T00:17:11.000Z</updated>
-        <summary type="html"><![CDATA[A dictionary in Python is a group of unordered items, each of which has a unique set of keys and values.  Any immutable data type, such as a string, number, or tuple, can be used as the key. It serves as an exclusive identifier for the value in the]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Software Security Handbook – Best Practices for Securing Your Projects]]></title>
-        <id>https://www.freecodecamp.org/news/oss-security-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/oss-security-best-practices/"/>
-        <updated>2023-02-27T22:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Christine Peterson coined the term "Open Source software" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for]]></summary>
-        <author>
-            <name>Sonya Moisset</name>
         </author>
     </entry>
     <entry>
@@ -395,26 +394,6 @@ Caching Data in SvelteKit originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How B2B Sales Help Us Understand Our Role As UX Designers Better]]></title>
-        <id>https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/</id>
-        <link href="https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/"/>
-        <updated>2023-01-31T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Throughout a customer journey (particularly in B2B), there will be interactions that are primarily between two people rather than a human and an interface. In this article, Paul Boag explains why you cannot improve the user experience without considering the entirety of the UX journey.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy SVG Customization And Animation: A Practical Guide]]></title>
-        <id>https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/</id>
-        <link href="https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/"/>
-        <updated>2023-01-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
