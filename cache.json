@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377123",
+          "author": "Ganesh Dahal",
+          "description": "Fonts are a defining characteristic of the design of any site. That includes WordPress themes, where it’s common for theme developers to integrate a service like Google Fonts into the WordPress Customizer settings for a “classic” PHP-based theme. That hasn’t …\nManaging Fonts in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-fonts-in-wordpress-block-themes/",
+          "publishedOn": "2023-03-06T15:26:31.000Z",
+          "wordCount": 2703,
+          "title": "Managing Fonts in WordPress Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377123"
+        },
+        {
           "id": "https://css-tricks.com/?p=376748",
           "author": "Šime Vidas",
           "description": "I was reading “Creative List Styling” on Google’s web.dev blog and noticed something odd in one of the code examples in the ::marker section of the article. The built-in list markers are bullets, ordinal numbers, and letters. The ::marker pseudo-element …\nEverything You Need to Know About the Gap After the List Marker originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -89,12 +99,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
+          "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
+          "publishedOn": "2023-03-06T16:00:00.000Z",
+          "wordCount": 4652,
+          "title": "Inspiring Web Design And UX Showcases",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5526,
+          "wordCount": 5428,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -124,7 +149,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4870,
+          "wordCount": 4878,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -154,7 +179,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6738,
+          "wordCount": 6723,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -214,7 +239,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11614,
+          "wordCount": 11609,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -229,7 +254,7 @@
           "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
           "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
           "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5585,
+          "wordCount": 5487,
           "title": "Keys To An Accessibility Mindset",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
@@ -244,7 +269,7 @@
           "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
           "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6512,
+          "wordCount": 6515,
           "title": "A Step-By-Step Guide To Building Accessible Carousels",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
@@ -289,7 +314,7 @@
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
           "link": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "publishedOn": "2023-02-10T12:00:00.000Z",
-          "wordCount": 6066,
+          "wordCount": 6162,
           "title": "Discovering Primitive Objects In JavaScript (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg",
@@ -319,7 +344,7 @@
           "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
           "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
           "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 4634,
+          "wordCount": 4629,
           "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
@@ -334,7 +359,7 @@
           "description": "In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
           "publishedOn": "2023-02-07T09:30:00.000Z",
-          "wordCount": 11218,
+          "wordCount": 11216,
           "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png",
@@ -365,6 +390,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/using-scanf-in-c/",
+          "author": "Valentine Gatwiri",
+          "description": "The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function",
+          "link": "https://www.freecodecamp.org/news/using-scanf-in-c/",
+          "publishedOn": "2023-03-06T21:59:30.000Z",
+          "wordCount": 2391,
+          "title": "How to Use scanf( ) in C to Read and Store User Input",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-element-digital-1370294.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rendering-patterns/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at the different rendering pattern options available nowadays for web applications. I'll start by explaining what a rendering pattern is, then go through each of the main options available. Finally we'll compare them, explaining the pros and cons and",
+          "link": "https://www.freecodecamp.org/news/rendering-patterns/",
+          "publishedOn": "2023-03-06T18:22:40.000Z",
+          "wordCount": 4247,
+          "title": "Rendering Patterns for Web Apps – Server-Side, Client-Side, and SSG Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sebastian-svenson-8QgqOLJAL8k-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
+          "author": "Shittu Olumide",
+          "description": "Data is present in all areas of the modern digital world, and it takes many different forms.  One of the most common formats for data is PDF. Invoices, reports, and other forms are frequently stored in Portable Document Format (PDF) files by businesses and institutions.  It can be",
+          "link": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
+          "publishedOn": "2023-03-06T17:51:46.000Z",
+          "wordCount": 1372,
+          "title": "How to Extract Data from PDF Files with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Extract-Data-from-PDF-Files-with-Python-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
+          "author": "Eamonn Cottrell",
+          "description": "I've been using Microsoft Excel and Google Sheets in my business for over a decade. And as I've learned better ways to clean and validate data, it's increased productivity, decreased human errors, and generally caused a lot of joy! 🥳 In this article, we'll look at two ways to validate",
+          "link": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
+          "publishedOn": "2023-03-06T16:41:05.000Z",
+          "wordCount": 1564,
+          "title": "Microsoft Excel – How to Use Data Validation and Conditional Formatting to Prevent Errors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "author": "Arunachalam B",
+          "description": "Hello everyone! Thanks for your great feedback on my tutorial about the basics of the find command [/news/how-to-search-files-in-the-linux-terminal/]. After reading it, many people requested that I write a more advanced version about the  find command.  Well, here it is! Now, it's time to take your skills to the",
+          "link": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "publishedOn": "2023-03-06T14:58:04.000Z",
+          "wordCount": 2005,
+          "title": "How to Search Files Effectively in the Linux Terminal – Advanced Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/11.-Part-2--How-to-search-files-effectively-in-linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
+          "author": "Andrej Kovacevic",
+          "description": "ChatGPT has been in the news a lot recently. The hype around it continues, and many are concerned that this AI service might put many out of work.  Developers in particular feel threatened by this AI bot’s ability to write code on the fly. The general consensus is, however,",
+          "link": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
+          "publishedOn": "2023-03-06T14:56:56.000Z",
+          "wordCount": 1666,
+          "title": "Can ChatGPT Ensure Secure Coding Practices?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/chatgpt-coding.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
           "author": "Oluseye Jeremiah",
@@ -404,66 +489,6 @@
           "wordCount": 3122,
           "title": "How to Build a Table of Contents Component for Your Blog",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/toc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/",
-          "author": "Oluseye Jeremiah",
-          "description": "As a data analyst, you'll want to be as efficient and and effective as possible when working with databases.  SQL is one of the most widely used languages for managing and manipulating data stored in a relational database. In this article, we'll cover some SQL cheat codes that can",
-          "link": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/",
-          "publishedOn": "2023-03-03T14:28:39.000Z",
-          "wordCount": 1744,
-          "title": "SQL Tips to Help You Save Time and Write Simpler Queries",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/SQL-TIPS.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-branching-commands-explained/",
-          "author": "Deborah Kurata",
-          "description": "Knowing the right Git command for the task at hand can often be challenging. Especially when you're adding complexity to your task, like with Git branching. Git is a powerful version control system that enables you to track changes to your codebase. One of the key features of Git is",
-          "link": "https://www.freecodecamp.org/news/git-branching-commands-explained/",
-          "publishedOn": "2023-03-02T21:49:02.000Z",
-          "wordCount": 5083,
-          "title": "Git Branching Commands Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/git-commands-thumbnail.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/",
-          "author": "Zaira Hira",
-          "description": "In most network configurations, the router DHCP server assigns the IP address dynamically by default. If you want to ensure that your system IP stays the same every time, you can force it to use a static IP.  That's what we will learn in this article. We will explore",
-          "link": "https://www.freecodecamp.org/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/",
-          "publishedOn": "2023-03-02T21:24:59.000Z",
-          "wordCount": 1596,
-          "title": "Setting a Static IP in Ubuntu – Linux IP Address Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/setting-static-ip-ubuntu.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-bold-how-to-bold-text-in-html-with-font-weight/",
-          "author": "Joel Olawanle",
-          "description": "CSS is a powerful tool for web developers. It allows you to style and format HTML content in various ways. One common formatting technique is to make text bold using the font-weight  property. Bold text can add emphasis to key information, create visual contrast, and improve the readability of",
-          "link": "https://www.freecodecamp.org/news/css-bold-how-to-bold-text-in-html-with-font-weight/",
-          "publishedOn": "2023-03-02T17:46:56.000Z",
-          "wordCount": 1384,
-          "title": "CSS Bold – How to Bold Text in HTML with Font Weight",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-d-mean-in-regex/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions, otherwise known as RegEx or RegExp for short, are a defined pattern for matching a string or specific part(s) of a string. This string includes any character out there, be it letters, symbols, or digits. In this article, we’ll look at the RegEx character \\d, which you can",
-          "link": "https://www.freecodecamp.org/news/what-does-d-mean-in-regex/",
-          "publishedOn": "2023-03-02T13:42:55.000Z",
-          "wordCount": 1131,
-          "title": "Regular Expression Metacharacters - What Does \\d Mean in RegEx?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/public-apis-for-developers/",
-          "author": "Ijeoma Igboagu",
-          "description": "A public API, also known as an external API, is a type of application programming interface that allows developers to access specific features and data of a software application or service.  It is \"public\" in the sense that it is made available to third-party developers and is not limited",
-          "link": "https://www.freecodecamp.org/news/public-apis-for-developers/",
-          "publishedOn": "2023-03-02T00:28:23.000Z",
-          "wordCount": 2974,
-          "title": "Public APIs Developers Can Use in Their Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/api-cover.jpg"
         }
       ]
     }
