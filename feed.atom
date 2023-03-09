@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T00:10:47.522Z</id>
+    <id>urn:2023-03-09T00:10:58.898Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T00:10:47.522Z</updated>
+    <updated>2023-03-09T00:10:58.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Arabic Numbers to Roman Numerals with SolidJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/"/>
+        <updated>2023-03-08T20:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard about the Romans? Who hasn’t, right 🙂 They used their own numeric system, which was a bit of a mouthful, especially when it came to writing. It looks like this: I, II, III, IV, V, VI and so on. Maybe that’s one of the reasons that people]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read and Write Data to a SQL Database Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/"/>
+        <updated>2023-03-08T19:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Databases are a crucial component of modern-day software systems. And SQL databases are one of the most widely used types of databases.  They are ideal for managing data in a structured and organized way, and they are widely used in various applications, including e-commerce, healthcare, finance, and more.]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERN App Development – How to Build a CI/CD Pipeline with Jenkins]]></title>
+        <id>https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/</id>
+        <link href="https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/"/>
+        <updated>2023-03-08T17:42:07.000Z</updated>
+        <summary type="html"><![CDATA[As you continue to develop your software, you must also continue to integrate it with previous code and deploy it to servers.  Manually doing this is a time-consuming process that can occasionally result in errors. So we need to do this in a continuous and automated manner – which]]></summary>
+        <author>
+            <name>Rakesh Potnuru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Operator – Logic Operators in C Programming]]></title>
+        <id>https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/</id>
+        <link href="https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/"/>
+        <updated>2023-03-08T15:25:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about the three logical operators in C. I will first explain what operators are in programming and list the different types of operators available in C. Then, you will learn the role logical operators have and how to use them with the help of]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does B in RegEx Mean? Word Boundary and Non-word Boundary Metacharacters]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/"/>
+        <updated>2023-03-08T14:10:22.000Z</updated>
+        <summary type="html"><![CDATA[In regular expressions, “B” is a metacharacter for specifying word boundary. It could be in two forms – the capital letter “B” and the small letter “b”. Since B (and b) is a metacharacter, you need to escape it to make it work (\b  and \B). Otherwise, b or]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Clock with the New CSS sin() and cos() Trigonometry Functions]]></title>
+        <id>https://css-tricks.com/?p=377074</id>
+        <link href="https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/"/>
+        <updated>2023-03-08T14:05:52.000Z</updated>
+        <summary type="html"><![CDATA[CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …
+Creating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Types of APIs – SOAP vs REST vs GraphQL]]></title>
+        <id>https://www.freecodecamp.org/news/rest-vs-graphql-apis/</id>
+        <link href="https://www.freecodecamp.org/news/rest-vs-graphql-apis/"/>
+        <updated>2023-03-07T23:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a good look at APIs, a core concept in modern software development. We're going to talk about the main kinds of APIs used nowadays (SOAP, REST and GraphQL), their characteristics, pros and cons, and situations in which each of them might]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Colors in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/generate-colors-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/generate-colors-in-javascript/"/>
+        <updated>2023-03-07T22:11:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a random color generator in JavaScript. Along the way, we will explore general topics in programming like functions and randomization.  We will build a project called Change The Background Color to illustrate these concepts. You can see the demo here [http://rufai.github.io/buildingx/random_bg_color.html].  In this]]></summary>
+        <author>
+            <name>Rufai Mustapha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circular Reference Error in JavaScript – Meaning and How to Fix It]]></title>
         <id>https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/</id>
@@ -36,46 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Business of Technology Research – Who Funds It, And What's Being Done]]></title>
-        <id>https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/</id>
-        <link href="https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/"/>
-        <updated>2023-03-07T17:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Getting a new technology out to consumers will usually require good people and boat loads of resources – including money. Generally, lots of money.  A lot of that money will be spent on research. And, more often than not, the hard research needed to translate a great idea into]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variable Data Types Explained]]></title>
-        <id>https://www.freecodecamp.org/news/variable-data-types-explained/</id>
-        <link href="https://www.freecodecamp.org/news/variable-data-types-explained/"/>
-        <updated>2023-03-07T16:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Walking into a hardware store, it's not enough to say: "I need a tool". You need to be specific about the type of tool you need.  Each tool type has its particular purpose: A hammer to drive a nail into wood, a paint brush to paint, and a wrench]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Conditional Statements in Python – Examples of if, else, and elif]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/"/>
-        <updated>2023-03-07T16:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Conditional statements are an essential part of programming in Python. They allow you to make decisions based on the values of variables or the result of comparisons.  In this article, we'll explore how to use if, else, and elif statements in Python, along with some examples of how to]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static Variables in Java – Why and How to Use Static Methods]]></title>
-        <id>https://www.freecodecamp.org/news/static-variables-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/static-variables-in-java/"/>
-        <updated>2023-03-07T15:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Static variables and static methods are two important concepts in Java.  Whenever a variable is declared as static, this means there is only one copy of it for the entire class, rather than each instance having its own copy. A static method means it can be called without creating]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Create Dynamic Donut Charts With TailwindCSS And React]]></title>
         <id>https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/</id>
         <link href="https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/"/>
@@ -86,16 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What does \S in Regex Mean? Space and Negated Space Metacharacters]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/"/>
-        <updated>2023-03-07T14:09:22.000Z</updated>
-        <summary type="html"><![CDATA[In regular expressions, “S” is a metacharacter that represents space. The small letter “s” metacharacter stands for space, and the capital letter “S” stands for non-space. That's how the pattern for most metacharacters works. For instance, the small letter “d” is the metacharacter for a digit, and the capital letter]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why You Should Consider Graphs For Your Next GraphQL Project]]></title>
         <id>https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/</id>
         <link href="https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/"/>
@@ -103,26 +134,6 @@
         <summary type="html"><![CDATA[In this article, Adam Cowley examines the Graph behind GraphQL and demonstrates why Neo4j could be the best fit for your next project.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adam Cowley)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test and Debug SQL Queries with Python]]></title>
-        <id>https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/"/>
-        <updated>2023-03-06T22:20:45.000Z</updated>
-        <summary type="html"><![CDATA[SQL is a powerful language that allows you to extract, manipulate and analyze data from relational databases. But writing and debugging SQL queries can be a challenging task.  Testing and debugging SQL queries is crucial to ensure that they produce accurate and efficient results. And you can use Python]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use scanf( ) in C to Read and Store User Input]]></title>
-        <id>https://www.freecodecamp.org/news/using-scanf-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/using-scanf-in-c/"/>
-        <updated>2023-03-06T21:59:30.000Z</updated>
-        <summary type="html"><![CDATA[The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
         </author>
     </entry>
     <entry>
@@ -372,39 +383,6 @@ Moving Backgrounds originally published on CSS-Tricks, which is part of the Digi
 The truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?]]></title>
-        <id>https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/</id>
-        <link href="https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/"/>
-        <updated>2023-02-07T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Double Emphasis Thing]]></title>
-        <id>https://css-tricks.com/?p=376548</id>
-        <link href="https://css-tricks.com/the-double-emphasis-thing/"/>
-        <updated>2023-02-06T15:06:55.000Z</updated>
-        <summary type="html"><![CDATA[I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.
-<pI used to have this 
-…
-The Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Magazine Layout With CSS Grid Areas]]></title>
-        <id>https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/</id>
-        <link href="https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/"/>
-        <updated>2023-02-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
         </author>
     </entry>
 </feed>
