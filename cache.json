@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377098",
+          "author": "Richard Oliver Bray",
+          "description": "You know what it’s like to pick up a new language or framework. Sometimes there’s great documentation to help you find your way through it. But even the best documentation doesn’t cover absolutely everything. And when you work with something …\n5 Mistakes I Made When Starting My First React Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/5-mistakes-starting-react/",
+          "publishedOn": "2023-03-10T16:41:52.000Z",
+          "wordCount": 2308,
+          "title": "5 Mistakes I Made When Starting My First React Project",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377098"
+        },
+        {
           "id": "https://css-tricks.com/?p=377074",
           "author": "Mads Stoumann",
           "description": "CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …\nCreating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -89,12 +99,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
+          "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
+          "publishedOn": "2023-03-10T08:00:00.000Z",
+          "wordCount": 4675,
+          "title": "A Pragmatist’s Guide To Lean User Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "author": "hello@smashingmagazine.com (Olufunke Moronfolu)",
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5518,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -109,7 +134,7 @@
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
           "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4515,
+          "wordCount": 4521,
           "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
@@ -139,7 +164,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4582,
+          "wordCount": 4580,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -154,7 +179,7 @@
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5434,
+          "wordCount": 5534,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -184,7 +209,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4876,
+          "wordCount": 4878,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -214,7 +239,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6732,
+          "wordCount": 6731,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -274,7 +299,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11617,
+          "wordCount": 11619,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -289,7 +314,7 @@
           "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
           "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
           "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5479,
+          "wordCount": 5486,
           "title": "Keys To An Accessibility Mindset",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
@@ -304,7 +329,7 @@
           "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
           "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6513,
+          "wordCount": 6515,
           "title": "A Step-By-Step Guide To Building Accessible Carousels",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
@@ -349,7 +374,7 @@
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
           "link": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "publishedOn": "2023-02-10T12:00:00.000Z",
-          "wordCount": 6060,
+          "wordCount": 6059,
           "title": "Discovering Primitive Objects In JavaScript (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg",
@@ -357,21 +382,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/pixo-photo-editor/",
-          "author": "hello@smashingmagazine.com (Hristo Chakarov)",
-          "description": "With so many image editing services available nowadays, it’s good to have one good solution that is applicable for all websites and web apps that need to provide image editing as a feature. Hristo Chakarov explains how Pixo Editor’s easy integration (just a few JavaScript lines) and rich API can save your time and improve your end users’ workflow.",
-          "link": "https://smashingmagazine.com/2023/02/pixo-photo-editor/",
-          "publishedOn": "2023-02-09T09:00:00.000Z",
-          "wordCount": 4699,
-          "title": "Picture Perfect: Meet Pixo, A Photo Editor For Your End Users",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/photo-image-editor-pixo-wordpress/pixo-photo-editor.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/photo-image-editor-pixo-wordpress/pixo-photo-editor.jpg"
         }
       ]
     },
@@ -380,6 +390,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-duplicate-data-in-sql/",
+          "author": "Oluseye Jeremiah",
+          "description": "Duplicates can be a big problem in SQL databases as they can slow down query performance and waste valuable storage space.  Fortunately, there are several ways to remove duplicate data in SQL.  In this article, we will explore some of the most effective methods for removing duplicate data",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-duplicate-data-in-sql/",
+          "publishedOn": "2023-03-10T21:22:26.000Z",
+          "wordCount": 1084,
+          "title": "How to Remove Duplicate Data \nin SQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Remove.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/",
+          "author": "Reed Barger",
+          "description": "JavaScript is a powerful language that can do a lot with very little code. In some cases, the amount of code you need to write doesn't exceed more than a single line, which is why they are known as one-liners. Let's go through 10 essential one liners worth using in",
+          "link": "https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/",
+          "publishedOn": "2023-03-10T21:18:03.000Z",
+          "wordCount": 1805,
+          "title": "JavaScript One-Liners to Use in Every Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/javascript-one-liner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-iterate-over-dictionary-how-to-loop-through-a-dict/",
+          "author": "Shittu Olumide",
+          "description": "In this article, we will talk about dictionaries, and also learn how to loop through a dictionary in python. Python Dictionaries In Python, a dictionary is a built-in data structure used to store and organize data in key-value pairs.  A dictionary has two parts for each entry: a key",
+          "link": "https://www.freecodecamp.org/news/python-iterate-over-dictionary-how-to-loop-through-a-dict/",
+          "publishedOn": "2023-03-10T21:10:23.000Z",
+          "wordCount": 1391,
+          "title": "Python Iterate Over Dictionary – How to Loop Through a Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Iterate-Over-Dictionary---How-to-Loop-Through-a-Dict-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-tutorial-string-methods-in-js/",
+          "author": "Dario Di Cillo",
+          "description": "A string is a sequence of characters intended to represent text. Strings can contain any kind of character, like letters, numbers, or special characters.  They are a very useful data type and you will be probably working with them frequently. So it's important to know how to manipulate them",
+          "link": "https://www.freecodecamp.org/news/javascript-string-tutorial-string-methods-in-js/",
+          "publishedOn": "2023-03-10T19:14:14.000Z",
+          "wordCount": 3095,
+          "title": "JavaScript String Tutorial – String Methods in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/belen-garrido-n642zkjBAEY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/simplify-javascript-code/",
+          "author": "Oyedele Temitope",
+          "description": "As developers, writing clean and maintainable code is the goal. But sometimes, this is hard to achieve when we have a large and bulky codebase that can become complex and difficult to manage. One way to avoid this is to simplify your code. This can help improve its readability, efficiency,",
+          "link": "https://www.freecodecamp.org/news/simplify-javascript-code/",
+          "publishedOn": "2023-03-10T18:57:42.000Z",
+          "wordCount": 1815,
+          "title": "How to Write Simpler JavaScript Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/10-Ways-to-Simplify-Your-Javascript-Code--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-forms-in-react/",
+          "author": "Dickson Boateng",
+          "description": "Forms play an essential role in modern web applications. They enable users to share information, complete tasks and provide feedback.  Without forms, many of the tasks that we take for granted on the web, such as logging in, signing up, or making purchases, would not be possible. As such,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-forms-in-react/",
+          "publishedOn": "2023-03-10T17:43:57.000Z",
+          "wordCount": 3730,
+          "title": "How to Build Forms in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-rodnae-productions-7821577.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
           "author": "Rufai Mustapha",
@@ -419,66 +489,6 @@
           "wordCount": 1104,
           "title": "Learn Web Development from Harvard University (CS50 Web)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cs50web.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-latex-full-course/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to create professional-looking documents with ease? Look no further than the world of LaTeX. LaTeX is a typesetting system that enables users to produce high-quality documents, such as academic papers, scientific publications, and even books. We just published a beginner's course on the freeCodeCamp.org YouTube channel that",
-          "link": "https://www.freecodecamp.org/news/learn-latex-full-course/",
-          "publishedOn": "2023-03-09T12:27:31.000Z",
-          "wordCount": 1093,
-          "title": "Learn LaTeX for Creating Scientific Documents",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/latex.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-do-i-make-regex-optional-specify-optional-pattern-in-regular-expressions/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions are greedy by default, meaning they try to match as many strings as possible. One of the ways to write accurate regular expressions is to make them as lazy as possible. The metacharacter that helps achieve laziness is the question mark ?. It helps you make any RegEx",
-          "link": "https://www.freecodecamp.org/news/how-do-i-make-regex-optional-specify-optional-pattern-in-regular-expressions/",
-          "publishedOn": "2023-03-09T11:34:42.000Z",
-          "wordCount": 1106,
-          "title": "How Do I Make RegEx Optional? Specify Optional Pattern in Regular Expressions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/reacting-to-actions-with-javascript/",
-          "author": "Deborah Kurata",
-          "description": "When a user clicks a button on a webpage, the user expects the page to respond to their action and do something: play the game, buy the product, display a message, and so on. In this tutorial, we walk through how to use JavaScript to react to user or browser",
-          "link": "https://www.freecodecamp.org/news/reacting-to-actions-with-javascript/",
-          "publishedOn": "2023-03-09T00:47:36.000Z",
-          "wordCount": 2465,
-          "title": "How to React to User and Browser Actions with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Algorithms provide step by step instructions on solving specific problems. They help you solve problems using efficient, standard, and reusable steps.  The binary search algorithm is one of the commonly used algorithms in programming. It is used to search and find an element in a sorted array.  The",
-          "link": "https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/",
-          "publishedOn": "2023-03-08T22:26:22.000Z",
-          "wordCount": 1710,
-          "title": "Binary Search in Java – Algorithm Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/binary-search-algorithm.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/",
-          "author": "Mihail Gaberov",
-          "description": "Have you heard about the Romans? Who hasn’t, right 🙂 They used their own numeric system, which was a bit of a mouthful, especially when it came to writing. It looks like this: I, II, III, IV, V, VI and so on. Maybe that’s one of the reasons that people",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/",
-          "publishedOn": "2023-03-08T20:52:17.000Z",
-          "wordCount": 2634,
-          "title": "How to Convert Arabic Numbers to Roman Numerals with SolidJS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Arabic_to_Roman_Converter_-_Mihail_Gaberov.gif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Databases are a crucial component of modern-day software systems. And SQL databases are one of the most widely used types of databases.  They are ideal for managing data in a structured and organized way, and they are widely used in various applications, including e-commerce, healthcare, finance, and more.",
-          "link": "https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/",
-          "publishedOn": "2023-03-08T19:27:07.000Z",
-          "wordCount": 1671,
-          "title": "How to Read and Write Data to a SQL Database Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/SQL-Queries.JPG"
         }
       ]
     }
