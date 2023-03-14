@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376950",
+          "author": "Mads Stoumann",
+          "description": "Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …\nMaking Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/",
+          "publishedOn": "2023-03-13T13:23:52.000Z",
+          "wordCount": 3413,
+          "title": "Making Calendars With Accessibility and Internationalization in Mind",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376950"
+        },
+        {
           "id": "https://css-tricks.com/?p=377098",
           "author": "Richard Oliver Bray",
           "description": "You know what it’s like to pick up a new language or framework. Sometimes there’s great documentation to help you find your way through it. But even the best documentation doesn’t cover absolutely everything. And when you work with something …\n5 Mistakes I Made When Starting My First React Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -39,6 +49,11 @@
           "publishedOn": "2023-03-06T15:26:31.000Z",
           "wordCount": 2703,
           "title": "Managing Fonts in WordPress Block Themes",
+          "enclosure": {
+            "url": "https://user-images.githubusercontent.com/1310626/216234715-68ce33f0-3e70-4a90-8277-a904b4126aae.mp4",
+            "length": "10073975",
+            "type": "video/mp4"
+          },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377123"
         },
         {
@@ -89,7 +104,7 @@
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5513,
+          "wordCount": 5522,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -104,7 +119,7 @@
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
           "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4516,
+          "wordCount": 4515,
           "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
@@ -134,7 +149,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4583,
+          "wordCount": 4582,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -179,7 +194,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4881,
+          "wordCount": 4979,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -209,7 +224,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6736,
+          "wordCount": 6732,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -269,7 +284,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11617,
+          "wordCount": 11623,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -299,7 +314,7 @@
           "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
           "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6516,
+          "wordCount": 6517,
           "title": "A Step-By-Step Guide To Building Accessible Carousels",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
@@ -346,6 +361,96 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Matplotlib is a Python library used for data visualization [/news/data-visualization-tools-guide], and creating interactive plots and graphs.  In this article, you'll learn how to add colors to your Matplotlib plots using parameter values provided by the Matplotlib plot() function. You'll learn how to change the color of a plot using:",
+          "link": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
+          "publishedOn": "2023-03-13T21:55:25.000Z",
+          "wordCount": 959,
+          "title": "Matplotlib Add Color – How To Change Line Color in Matplotlib",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When analyzing and manipulating data using Pandas, you might want to sort the data in a certain order. This makes it easier to understand and visualize data. In this article, you'll learn how to sort data in ascending and descending order using Pandas' sort_values() method.  How To Sort Values",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
+          "publishedOn": "2023-03-13T21:52:10.000Z",
+          "wordCount": 1137,
+          "title": "pandas.DataFrame.sort_values - How To Sort Values in Pandas",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sort-in-pandas-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the Pandas library in Python to manipulate and analyze data. In most cases, it is used for manipulating and analyzing tabular data.  In this article, you'll learn how to use the Pandas round() method to round a float value to a specified number of decimal places.",
+          "link": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
+          "publishedOn": "2023-03-13T21:49:09.000Z",
+          "wordCount": 900,
+          "title": "Pandas round() Method – How To Round a Float in Pandas",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/round-float-in-pandas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
+          "author": "Beau Carnes",
+          "description": "Are you currently in the job market for a data-focused role? Or perhaps you are looking to expand your understanding of the machine learning process? If so, then we have just the video for you! We just published a mock data science job interview on the freeCodeCamp.org YouTube channel. This",
+          "link": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
+          "publishedOn": "2023-03-13T19:52:54.000Z",
+          "wordCount": 945,
+          "title": "Mock Data Science Job Interview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/datamock.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
+          "author": "Oluseye Jeremiah",
+          "description": "Python is a popular programming language that is easy to learn and use. But like any programming language, Python is prone to errors.  In this tutorial, we'll cover some of the most common errors in Python and how to fix them. Syntax Errors in Python Syntax errors occur when",
+          "link": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
+          "publishedOn": "2023-03-13T19:07:43.000Z",
+          "wordCount": 1826,
+          "title": "Common Errors in Python and How to Fix Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/errors.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at some of the many ways you can build a React application these days. We'll compare their main characteristics, along with their pros and cons. We'll start by explaining what React is and what improvements it brought over the",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
+          "publishedOn": "2023-03-13T19:01:24.000Z",
+          "wordCount": 7965,
+          "title": "How to Build a React App – A Walkthrough of the Many Different Ways",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
+          "author": "Eamonn Cottrell",
+          "description": "There are 513 built-in functions in Google Sheets at the time of this writing. But what if you needed a custom function that wasn't included?  In this tutorial, I'll show you how to create and use your own custom function in Google Sheets. Why would you need a custom",
+          "link": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
+          "publishedOn": "2023-03-13T17:56:24.000Z",
+          "wordCount": 1171,
+          "title": "How to Create Custom Named Functions in Google Sheets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fCC-thumbp.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to work with arrays in C. I will first explain how to declare and initialize arrays. Then, I will also go over how to access and change items in an array in C with the help of code examples along the way. Let's",
+          "link": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
+          "publishedOn": "2023-03-13T17:22:07.000Z",
+          "wordCount": 1459,
+          "title": "Integer Array in C – How to Declare Int Arrays with C Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nick-hillier-yD5rv8_WzxA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "When querying data from a database, you will frequently encounter the date datatype. Depending on what you want to achieve, you may need to extract subset information from the date column, perform some operation, and so on.  SQL provides a variety of date functions that can assist you with",
+          "link": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
+          "publishedOn": "2023-03-13T16:49:25.000Z",
+          "wordCount": 1987,
+          "title": "How to Write Common Date Functions in SQL with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-bich-tran-760710.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-remove-duplicate-data-in-sql/",
           "author": "Oluseye Jeremiah",
           "description": "Duplicates can be a big problem in SQL databases as they can slow down query performance and waste valuable storage space.  Fortunately, there are several ways to remove duplicate data in SQL.  In this article, we will explore some of the most effective methods for removing duplicate data",
@@ -354,96 +459,6 @@
           "wordCount": 1084,
           "title": "How to Remove Duplicate Data \nin SQL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Remove.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/",
-          "author": "Reed Barger",
-          "description": "JavaScript is a powerful language that can do a lot with very little code. In some cases, the amount of code you need to write doesn't exceed more than a single line, which is why they are known as one-liners. Let's go through 10 essential one liners worth using in",
-          "link": "https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/",
-          "publishedOn": "2023-03-10T21:18:03.000Z",
-          "wordCount": 1805,
-          "title": "JavaScript One-Liners to Use in Every Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/javascript-one-liner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-iterate-over-dictionary-how-to-loop-through-a-dict/",
-          "author": "Shittu Olumide",
-          "description": "In this article, we will talk about dictionaries, and also learn how to loop through a dictionary in python. Python Dictionaries In Python, a dictionary is a built-in data structure used to store and organize data in key-value pairs.  A dictionary has two parts for each entry: a key",
-          "link": "https://www.freecodecamp.org/news/python-iterate-over-dictionary-how-to-loop-through-a-dict/",
-          "publishedOn": "2023-03-10T21:10:23.000Z",
-          "wordCount": 1391,
-          "title": "Python Iterate Over Dictionary – How to Loop Through a Dict",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Iterate-Over-Dictionary---How-to-Loop-Through-a-Dict-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-string-tutorial-string-methods-in-js/",
-          "author": "Dario Di Cillo",
-          "description": "A string is a sequence of characters intended to represent text. Strings can contain any kind of character, like letters, numbers, or special characters.  They are a very useful data type and you will be probably working with them frequently. So it's important to know how to manipulate them",
-          "link": "https://www.freecodecamp.org/news/javascript-string-tutorial-string-methods-in-js/",
-          "publishedOn": "2023-03-10T19:14:14.000Z",
-          "wordCount": 3095,
-          "title": "JavaScript String Tutorial – String Methods in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/belen-garrido-n642zkjBAEY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/simplify-javascript-code/",
-          "author": "Oyedele Temitope",
-          "description": "As developers, writing clean and maintainable code is the goal. But sometimes, this is hard to achieve when we have a large and bulky codebase that can become complex and difficult to manage. One way to avoid this is to simplify your code. This can help improve its readability, efficiency,",
-          "link": "https://www.freecodecamp.org/news/simplify-javascript-code/",
-          "publishedOn": "2023-03-10T18:57:42.000Z",
-          "wordCount": 1815,
-          "title": "How to Write Simpler JavaScript Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/10-Ways-to-Simplify-Your-Javascript-Code--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-forms-in-react/",
-          "author": "Dickson Boateng",
-          "description": "Forms play an essential role in modern web applications. They enable users to share information, complete tasks and provide feedback.  Without forms, many of the tasks that we take for granted on the web, such as logging in, signing up, or making purchases, would not be possible. As such,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-forms-in-react/",
-          "publishedOn": "2023-03-10T17:43:57.000Z",
-          "wordCount": 3730,
-          "title": "How to Build Forms in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-rodnae-productions-7821577.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
-          "author": "Rufai Mustapha",
-          "description": "Tour Afrique",
-          "link": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
-          "publishedOn": "2023-03-09T19:43:56.000Z",
-          "wordCount": 1996,
-          "title": "How to Make a Clickable SVG Map With HTML and CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/amy-youtube--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/",
-          "author": "Oluseye Jeremiah",
-          "description": "Machine learning has become a popular field in recent years, with various applications in data analysis, computer vision, natural language processing, and more.  Python is one of the most widely used programming languages for machine learning, thanks to its rich ecosystem of libraries, frameworks, and tools.  But to",
-          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/",
-          "publishedOn": "2023-03-09T17:57:45.000Z",
-          "wordCount": 1484,
-          "title": "How to Perform Machine Learning Tasks with Python and SQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/just.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/",
-          "author": "Nairuz Abulhul",
-          "description": "All web browsers implement a security model known as the Same-Origin Policy (SOP). It restricts domains from accessing and retrieving data from other domains’ resources.  The SOP policy helps protect users from malicious scripts that could access their sensitive data or perform unauthorized actions on their behalf. For example,",
-          "link": "https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/",
-          "publishedOn": "2023-03-09T16:25:31.000Z",
-          "wordCount": 3048,
-          "title": "Exploiting CORS – How to Pentest Cross-Origin Resource Sharing Vulnerabilities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/possessed-photography-_E1PQXKUkMw-unsplash--4-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to expand your knowledge and skills in web programming? Look no further than CS50's Web Programming with Python and JavaScript course from Harvard University. This full course is designed to provide a comprehensive understanding of web programming, from the basics of HTML and CSS to more advanced",
-          "link": "https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/",
-          "publishedOn": "2023-03-09T12:37:49.000Z",
-          "wordCount": 1104,
-          "title": "Learn Web Development from Harvard University (CS50 Web)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cs50web.png"
         }
       ]
     }
