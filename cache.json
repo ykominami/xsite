@@ -84,12 +84,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
+          "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
+          "publishedOn": "2023-03-14T16:00:00.000Z",
+          "wordCount": 5003,
+          "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
           "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
           "publishedOn": "2023-03-10T08:00:00.000Z",
-          "wordCount": 4570,
+          "wordCount": 4576,
           "title": "A Pragmatist’s Guide To Lean User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
@@ -104,7 +119,7 @@
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5522,
+          "wordCount": 5519,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -119,7 +134,7 @@
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
           "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4515,
+          "wordCount": 4519,
           "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
@@ -149,7 +164,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4582,
+          "wordCount": 4583,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -164,7 +179,7 @@
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5434,
+          "wordCount": 5433,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -194,7 +209,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4979,
+          "wordCount": 4879,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -224,7 +239,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6732,
+          "wordCount": 6730,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -284,7 +299,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11623,
+          "wordCount": 11618,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -299,7 +314,7 @@
           "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
           "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
           "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5489,
+          "wordCount": 5491,
           "title": "Keys To An Accessibility Mindset",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
@@ -314,7 +329,7 @@
           "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
           "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6517,
+          "wordCount": 6516,
           "title": "A Step-By-Step Guide To Building Accessible Carousels",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
@@ -361,104 +376,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Matplotlib is a Python library used for data visualization [/news/data-visualization-tools-guide], and creating interactive plots and graphs.  In this article, you'll learn how to add colors to your Matplotlib plots using parameter values provided by the Matplotlib plot() function. You'll learn how to change the color of a plot using:",
-          "link": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
-          "publishedOn": "2023-03-13T21:55:25.000Z",
-          "wordCount": 959,
-          "title": "Matplotlib Add Color – How To Change Line Color in Matplotlib",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--1-.jpg"
+          "id": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
+          "author": "Kolade Chris",
+          "description": "Python is a widely used and powerful programming language that's relatively simple to learn. Python releases patch updates every few months and major updates around once in a year. Because of this, it is always a good idea to update the version of Python you have on your computer. In",
+          "link": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
+          "publishedOn": "2023-03-14T21:04:29.000Z",
+          "wordCount": 1141,
+          "title": "Pip Upgrade – And How to Update Pip and Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/updatePip.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When analyzing and manipulating data using Pandas, you might want to sort the data in a certain order. This makes it easier to understand and visualize data. In this article, you'll learn how to sort data in ascending and descending order using Pandas' sort_values() method.  How To Sort Values",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
-          "publishedOn": "2023-03-13T21:52:10.000Z",
-          "wordCount": 1137,
-          "title": "pandas.DataFrame.sort_values - How To Sort Values in Pandas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sort-in-pandas-1.png"
+          "id": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
+          "author": "David Clinton",
+          "description": "In order to understand potential threats hanging over your organization, you'll need to understand two things: what dangerous stuff is out there on the internet right now, and what impact it could have were it to actually hit you.  Once you have that information, you'll be in a position",
+          "link": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
+          "publishedOn": "2023-03-14T18:47:55.000Z",
+          "wordCount": 2075,
+          "title": "Cybersecurity Vulnerabilities – How Attackers Can Get Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-38275.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the Pandas library in Python to manipulate and analyze data. In most cases, it is used for manipulating and analyzing tabular data.  In this article, you'll learn how to use the Pandas round() method to round a float value to a specified number of decimal places.",
-          "link": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
-          "publishedOn": "2023-03-13T21:49:09.000Z",
-          "wordCount": 900,
-          "title": "Pandas round() Method – How To Round a Float in Pandas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/round-float-in-pandas.png"
+          "id": "https://www.freecodecamp.org/news/functional-programming-in-java/",
+          "author": "Sameer Shukla",
+          "description": "Functional programming (FP) is a programming paradigm. It emphasizes the use of pure functions that don't have side effects and always return the same output for a given input.  This article explores how to implement FP concepts in Java, including viewing functions as first-class citizens, chaining, and composing them",
+          "link": "https://www.freecodecamp.org/news/functional-programming-in-java/",
+          "publishedOn": "2023-03-14T17:34:55.000Z",
+          "wordCount": 2795,
+          "title": "Functional Programming in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambda.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
-          "author": "Beau Carnes",
-          "description": "Are you currently in the job market for a data-focused role? Or perhaps you are looking to expand your understanding of the machine learning process? If so, then we have just the video for you! We just published a mock data science job interview on the freeCodeCamp.org YouTube channel. This",
-          "link": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
-          "publishedOn": "2023-03-13T19:52:54.000Z",
-          "wordCount": 945,
-          "title": "Mock Data Science Job Interview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/datamock.png"
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
+          "author": "Arunachalam B",
+          "description": "Flutter is one of the most popular frameworks for building mobile and desktop applications. And many companies are using it today. This is in part because of its outstanding performance, having a benchmark of 60 Frames Per Second (FPS). This helps it outperform other cross-platform technologies, and it performs better",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
+          "publishedOn": "2023-03-14T16:39:18.000Z",
+          "wordCount": 3523,
+          "title": "How to Build a Simple Login App with Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Flutter-Login-App---Banner.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
+          "id": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
+          "author": "Shittu Olumide",
+          "description": "The process of combining two or more strings, lists, or other data structures into a single entity is known as concatenation in programming.  Concatenation produces a new object with all the components of the original objects, arranged in the concatenation order. Concatenation in the context of strings refers to",
+          "link": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
+          "publishedOn": "2023-03-14T16:30:27.000Z",
+          "wordCount": 1641,
+          "title": "Joining Lists in Python – How to Concat Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Joining-Lists-in-Python---How-to-Concat-Lists-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
           "author": "Oluseye Jeremiah",
-          "description": "Python is a popular programming language that is easy to learn and use. But like any programming language, Python is prone to errors.  In this tutorial, we'll cover some of the most common errors in Python and how to fix them. Syntax Errors in Python Syntax errors occur when",
-          "link": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
-          "publishedOn": "2023-03-13T19:07:43.000Z",
-          "wordCount": 1826,
-          "title": "Common Errors in Python and How to Fix Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/errors.JPG"
+          "description": "Python is a powerful programming language that you can use to interact with SQL databases. With the help of Python, you can create, manipulate, and interact with the tables in the SQL database.  In this tutorial, we will be discussing how to create and manipulate tables in a SQL",
+          "link": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
+          "publishedOn": "2023-03-14T16:28:25.000Z",
+          "wordCount": 1507,
+          "title": "How to Create and Manipulate Tables in a SQL Database Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tables.JPG"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at some of the many ways you can build a React application these days. We'll compare their main characteristics, along with their pros and cons. We'll start by explaining what React is and what improvements it brought over the",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
-          "publishedOn": "2023-03-13T19:01:24.000Z",
-          "wordCount": 7965,
-          "title": "How to Build a React App – A Walkthrough of the Many Different Ways",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
+          "id": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
+          "author": "Joel Olawanle",
+          "description": "In programming, situations that need you to sort data will always arise. When you sort data, you will always want accurate results because failure to get an accurate result can result in malfunctions or bugs within your code. In this article, you will learn how to sort an array in",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
+          "publishedOn": "2023-03-14T15:14:41.000Z",
+          "wordCount": 1724,
+          "title": "JavaScript Sort Array - How to Sort an Array Accurately",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--5-.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
-          "author": "Eamonn Cottrell",
-          "description": "There are 513 built-in functions in Google Sheets at the time of this writing. But what if you needed a custom function that wasn't included?  In this tutorial, I'll show you how to create and use your own custom function in Google Sheets. Why would you need a custom",
-          "link": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
-          "publishedOn": "2023-03-13T17:56:24.000Z",
-          "wordCount": 1171,
-          "title": "How to Create Custom Named Functions in Google Sheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fCC-thumbp.jpg"
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you'll learn how to use markers in Matplotlib to indicate specific points in a plot.  The marker parameter can be used to create \"markers\" in a plot. You can specify the shape of the marker by passing a value to the parameter.  Here's what a",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
+          "publishedOn": "2023-03-14T15:05:00.000Z",
+          "wordCount": 960,
+          "title": "Matplotlib Marker - How To Create a Marker in Matplotlib",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2--1.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to work with arrays in C. I will first explain how to declare and initialize arrays. Then, I will also go over how to access and change items in an array in C with the help of code examples along the way. Let's",
-          "link": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
-          "publishedOn": "2023-03-13T17:22:07.000Z",
-          "wordCount": 1459,
-          "title": "Integer Array in C – How to Declare Int Arrays with C Programming",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nick-hillier-yD5rv8_WzxA-unsplash.jpg"
+          "id": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can modify different properties of a plot — color, size, label, title and so on — when working with Matplotlib.  In this article, you'll learn what a legend is in Matplotlib, and how to use some of its parameters to make your plots more relatable.  You'll then",
+          "link": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
+          "publishedOn": "2023-03-14T15:04:13.000Z",
+          "wordCount": 1209,
+          "title": "How To Change Legend Font Size in Matplotlib",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2-.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "When querying data from a database, you will frequently encounter the date datatype. Depending on what you want to achieve, you may need to extract subset information from the date column, perform some operation, and so on.  SQL provides a variety of date functions that can assist you with",
-          "link": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
-          "publishedOn": "2023-03-13T16:49:25.000Z",
-          "wordCount": 1987,
-          "title": "How to Write Common Date Functions in SQL with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-bich-tran-760710.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-duplicate-data-in-sql/",
-          "author": "Oluseye Jeremiah",
-          "description": "Duplicates can be a big problem in SQL databases as they can slow down query performance and waste valuable storage space.  Fortunately, there are several ways to remove duplicate data in SQL.  In this article, we will explore some of the most effective methods for removing duplicate data",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-duplicate-data-in-sql/",
-          "publishedOn": "2023-03-10T21:22:26.000Z",
-          "wordCount": 1084,
-          "title": "How to Remove Duplicate Data \nin SQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Remove.JPG"
+          "id": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
+          "author": "Quincy Larson",
+          "description": "Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the",
+          "link": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
+          "publishedOn": "2023-03-14T08:03:17.000Z",
+          "wordCount": 762,
+          "title": "Hack Summit 2023 – Developer Conference Focused on Blockchain Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/hacksummit_fcc.jpg"
         }
       ]
     }
