@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T00:10:44.938Z</id>
+    <id>urn:2023-03-16T00:11:48.256Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T00:10:44.938Z</updated>
+    <updated>2023-03-16T00:11:48.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Print Exception – How to Try-Except-Print an Error]]></title>
+        <id>https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/</id>
+        <link href="https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/"/>
+        <updated>2023-03-15T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Every programming language has its way of handling exceptions and errors, and Python is no exception. Python comes with a built-in try…except syntax with which you can handle errors and stop them from interrupting the running of your program. In this article, you’ll learn how to use that try…except syntax]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternatives to Prettier – Popular Code Linting and Formatting Tools]]></title>
+        <id>https://www.freecodecamp.org/news/alternatives-to-prettier/</id>
+        <link href="https://www.freecodecamp.org/news/alternatives-to-prettier/"/>
+        <updated>2023-03-15T17:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Many programmers hate code formatting because it is tedious and time-consuming. You can spend hours making sure everything is perfect and well-indented.  This is why code formatters are so useful. A code formatter is a tool that formats code according to certain standards. It makes it so you don't]]></summary>
+        <author>
+            <name>Kamaldeen Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React 18 with Redux Toolkit]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/"/>
+        <updated>2023-03-15T15:44:43.000Z</updated>
+        <summary type="html"><![CDATA[React is a popular JavaScript library that is widely used for building dynamic user interfaces. It has gained a lot of popularity over the years due to its flexibility, scalability, and ease of use. If you're a beginner looking to learn React 18 with Redux Toolkit, you're in luck. We]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I uncovered 1700 Coursera Courses that Are Still Completely Free]]></title>
+        <id>https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/</id>
+        <link href="https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/"/>
+        <updated>2023-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is Coursera Free? At Class Central [https://www.classcentral.com/], we get that question so often that I wrote a guide to answer it [https://www.classcentral.com/report/coursera-signup-for-free/]. Nowadays, most Coursera courses are free to audit. But if you want to complete graded assignments or get a course certificate, you have to pay. Coursera’s entire catalog]]></summary>
+        <author>
+            <name>Dhawal Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Write Quick Sort Algorithm With JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/"/>
+        <updated>2023-03-15T09:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Quick sort is a widely used sorting algorithm that efficiently sorts an array of elements by dividing it into smaller subarrays based on a chosen pivot element. In this article, we will walk through how to write a quick sort algorithm using JavaScript and explore the key concepts behind the]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pip Upgrade – And How to Update Pip and Python]]></title>
         <id>https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/</id>
@@ -56,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create and Manipulate Tables in a SQL Database Using Python]]></title>
-        <id>https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/</id>
-        <link href="https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/"/>
-        <updated>2023-03-14T16:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Python is a powerful programming language that you can use to interact with SQL databases. With the help of Python, you can create, manipulate, and interact with the tables in the SQL database.  In this tutorial, we will be discussing how to create and manipulate tables in a SQL]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Leonardo Da Vinci Can Teach Us About Web Design]]></title>
         <id>https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/</id>
         <link href="https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/"/>
@@ -73,46 +113,6 @@
         <summary type="html"><![CDATA[Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Sort Array - How to Sort an Array Accurately]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/"/>
-        <updated>2023-03-14T15:14:41.000Z</updated>
-        <summary type="html"><![CDATA[In programming, situations that need you to sort data will always arise. When you sort data, you will always want accurate results because failure to get an accurate result can result in malfunctions or bugs within your code. In this article, you will learn how to sort an array in]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matplotlib Marker - How To Create a Marker in Matplotlib]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/"/>
-        <updated>2023-03-14T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use markers in Matplotlib to indicate specific points in a plot.  The marker parameter can be used to create "markers" in a plot. You can specify the shape of the marker by passing a value to the parameter.  Here's what a]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Change Legend Font Size in Matplotlib]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/"/>
-        <updated>2023-03-14T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[You can modify different properties of a plot — color, size, label, title and so on — when working with Matplotlib.  In this article, you'll learn what a legend is in Matplotlib, and how to use some of its parameters to make your plots more relatable.  You'll then]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack Summit 2023 – Developer Conference Focused on Blockchain Development]]></title>
-        <id>https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/</id>
-        <link href="https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/"/>
-        <updated>2023-03-14T08:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -348,18 +348,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the [Smart Interface Design Patterns landing page](https://smart-interface-design-patterns.com/).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Chiara Aliotta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Approach to Lazy Loading Custom Elements]]></title>
-        <id>https://css-tricks.com/?p=376991</id>
-        <link href="https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/"/>
-        <updated>2023-02-13T15:10:41.000Z</updated>
-        <summary type="html"><![CDATA[We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.
-Inspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …
-An Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Frederik Dohr</name>
         </author>
     </entry>
 </feed>
