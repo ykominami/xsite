@@ -74,12 +74,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
+          "author": "hello@smashingmagazine.com (Jan Amann)",
+          "description": "In this article, Jan Amann, based on an example of a multilingual app that displays street photography images from Unsplash, explores next-intl to implement all internationalization needs in React Server Components.",
+          "link": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
+          "publishedOn": "2023-03-16T20:00:00.000Z",
+          "wordCount": 4603,
+          "title": "Internationalization In Next.js 13 With React Server Components",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/",
+          "author": "hello@smashingmagazine.com (William Lyon)",
+          "description": "In this article, William Lyon explores how to build a full stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your GraphQL server and front-end React applications into a single framework.",
+          "link": "https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/",
+          "publishedOn": "2023-03-16T10:00:00.000Z",
+          "wordCount": 5909,
+          "title": "Full Stack GraphQL With Next.js, Neo4j AuraDB And Vercel",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/full-stack-graphql-nextjs-neo4j-auradb-vercel/meta-full-stack-graphql-nextjs-neo4j-auradb-vercel.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/full-stack-graphql-nextjs-neo4j-auradb-vercel/meta-full-stack-graphql-nextjs-neo4j-auradb-vercel.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
           "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "publishedOn": "2023-03-14T16:00:00.000Z",
-          "wordCount": 5006,
+          "wordCount": 5000,
           "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
@@ -109,7 +139,7 @@
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5526,
+          "wordCount": 5622,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -124,7 +154,7 @@
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
           "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4520,
+          "wordCount": 4516,
           "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
@@ -154,7 +184,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4582,
+          "wordCount": 4586,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -169,7 +199,7 @@
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5427,
+          "wordCount": 5436,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -199,7 +229,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4882,
+          "wordCount": 4869,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -229,7 +259,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6737,
+          "wordCount": 6735,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -289,7 +319,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11621,
+          "wordCount": 11617,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -304,7 +334,7 @@
           "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
           "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
           "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5488,
+          "wordCount": 5490,
           "title": "Keys To An Accessibility Mindset",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
@@ -319,7 +349,7 @@
           "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
           "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6519,
+          "wordCount": 6515,
           "title": "A Step-By-Step Guide To Building Accessible Carousels",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
@@ -342,21 +372,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/animate-race-cars-using-html/putting-gears-motion-animating-cars-with-html-svg.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
-          "author": "hello@smashingmagazine.com (Chiara Aliotta)",
-          "description": "How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the [Smart Interface Design Patterns landing page](https://smart-interface-design-patterns.com/).",
-          "link": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
-          "publishedOn": "2023-02-15T10:00:00.000Z",
-          "wordCount": 7023,
-          "title": "Five Steps To Design Your Product With Powerful Storytelling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg"
         }
       ]
     },
@@ -365,6 +380,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/data-visualization-in-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "Spreadsheets are the OG resource for visualizing data with charts and graphs...unless you count chalkboards, I suppose.  Spreadsheets are built to churn through tons of data. And by using a few simple built-in tools, you can glean valuable insights from large chunks of data. gif of \"OG\" graphicWhen dealing",
+          "link": "https://www.freecodecamp.org/news/data-visualization-in-google-sheets/",
+          "publishedOn": "2023-03-16T20:55:12.000Z",
+          "wordCount": 1591,
+          "title": "Data Visualization in Google Sheets for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/FCC-Data-Visualization-in-Google-Sheets---Bar-and-Pie-Charts.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-an-array-in-java/",
+          "author": "Shittu Olumide",
+          "description": "Creating and manipulating arrays is an essential skill for any Java programmer. Arrays provide a way to store and organize multiple values of the same type, making it easier to work with large sets of data. In this article, we will provide a step-by-step guide on how to create an",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-array-in-java/",
+          "publishedOn": "2023-03-16T19:48:12.000Z",
+          "wordCount": 2128,
+          "title": "How to Create an Array in Java – Array Declaration Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/array-declaration.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lambda-sort-list-in-python/",
+          "author": "Kolade Chris",
+          "description": "The sort() method and the sorted() function let you sort iterable data like lists and tuples in ascending or descending order. They take parameters with which you can modify how they perform the sorting. And one of those parameters could be a function or even a lambda function. In this",
+          "link": "https://www.freecodecamp.org/news/lambda-sort-list-in-python/",
+          "publishedOn": "2023-03-16T19:37:09.000Z",
+          "wordCount": 2238,
+          "title": "Lambda Sorted in Python – How to Lambda Sort a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambdaSort.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/complete-guide-to-css-grid/",
+          "author": "Oluwatobi Sofela",
+          "description": "CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices. This tutorial discusses everything you need to know to use CSS Grid like a pro. Table of Contents  1.  What Is CSS Grid?",
+          "link": "https://www.freecodecamp.org/news/complete-guide-to-css-grid/",
+          "publishedOn": "2023-03-16T18:19:27.000Z",
+          "wordCount": 6553,
+          "title": "CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/complete-css-grid-guide-codesweetly-pexels-steve-johnson-1283208.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-summer-of-code-guide/",
+          "author": "Abhisman Sarkar",
+          "description": "Google Summer of Code [https://summerofcode.withgoogle.com/] is an open source program that is managed by Google's Open Source team.  They invite developers to spend their summer contributing to the source code for various different organisations taking part in the program.  There are many organisations that list their project ideas",
+          "link": "https://www.freecodecamp.org/news/google-summer-of-code-guide/",
+          "publishedOn": "2023-03-16T17:04:36.000Z",
+          "wordCount": 3285,
+          "title": "GSoC 2023 Guide – How to Prepare for Google Summer of Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-prateek-katyal-2763246.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "You should back up your SQL database on a regular basis. It's a critical task that helps ensure that your data is always protected.  But manually backing up a database can be time-consuming and error-prone, especially if you have multiple databases to back up.  In this article, we",
+          "link": "https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/",
+          "publishedOn": "2023-03-16T14:49:50.000Z",
+          "wordCount": 1447,
+          "title": "How to Automate SQL Database Backups Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/rere.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to design and use databases for Windows applications? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a SQL database application with a Windows graphical interface. Led by Shad Sluiter, a Professor Of Computer Science",
+          "link": "https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/",
+          "publishedOn": "2023-03-16T14:09:53.000Z",
+          "wordCount": 858,
+          "title": "Create a SQL Database App with a Windows GUI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sqlapp.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/",
           "author": "Kolade Chris",
@@ -394,76 +479,6 @@
           "wordCount": 1029,
           "title": "Learn React 18 with Redux Toolkit",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/react-full.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
-          "author": "Dhawal Shah",
-          "description": "Is Coursera Free? At Class Central [https://www.classcentral.com/], we get that question so often that I wrote a guide to answer it [https://www.classcentral.com/report/coursera-signup-for-free/]. Nowadays, most Coursera courses are free to audit. But if you want to complete graded assignments or get a course certificate, you have to pay. Coursera’s entire catalog",
-          "link": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
-          "publishedOn": "2023-03-15T10:00:00.000Z",
-          "wordCount": 17872,
-          "title": "I uncovered 1700 Coursera Courses that Are Still Completely Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/02/coursera-free-courses.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Quick sort is a widely used sorting algorithm that efficiently sorts an array of elements by dividing it into smaller subarrays based on a chosen pivot element. In this article, we will walk through how to write a quick sort algorithm using JavaScript and explore the key concepts behind the",
-          "link": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
-          "publishedOn": "2023-03-15T09:27:48.000Z",
-          "wordCount": 1338,
-          "title": "How To Write Quick Sort Algorithm With JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--6-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
-          "author": "Kolade Chris",
-          "description": "Python is a widely used and powerful programming language that's relatively simple to learn. Python releases patch updates every few months and major updates around once in a year. Because of this, it is always a good idea to update the version of Python you have on your computer. In",
-          "link": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
-          "publishedOn": "2023-03-14T21:04:29.000Z",
-          "wordCount": 1141,
-          "title": "Pip Upgrade – And How to Update Pip and Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/updatePip.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
-          "author": "David Clinton",
-          "description": "In order to understand potential threats hanging over your organization, you'll need to understand two things: what dangerous stuff is out there on the internet right now, and what impact it could have were it to actually hit you.  Once you have that information, you'll be in a position",
-          "link": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
-          "publishedOn": "2023-03-14T18:47:55.000Z",
-          "wordCount": 2075,
-          "title": "Cybersecurity Vulnerabilities – How Attackers Can Get Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-38275.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/functional-programming-in-java/",
-          "author": "Sameer Shukla",
-          "description": "Functional programming (FP) is a programming paradigm. It emphasizes the use of pure functions that don't have side effects and always return the same output for a given input.  This article explores how to implement FP concepts in Java, including viewing functions as first-class citizens, chaining, and composing them",
-          "link": "https://www.freecodecamp.org/news/functional-programming-in-java/",
-          "publishedOn": "2023-03-14T17:34:55.000Z",
-          "wordCount": 2795,
-          "title": "Functional Programming in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambda.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
-          "author": "Arunachalam B",
-          "description": "Flutter is one of the most popular frameworks for building mobile and desktop applications. And many companies are using it today. This is in part because of its outstanding performance, having a benchmark of 60 Frames Per Second (FPS). This helps it outperform other cross-platform technologies, and it performs better",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
-          "publishedOn": "2023-03-14T16:39:18.000Z",
-          "wordCount": 3523,
-          "title": "How to Build a Simple Login App with Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Flutter-Login-App---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
-          "author": "Shittu Olumide",
-          "description": "The process of combining two or more strings, lists, or other data structures into a single entity is known as concatenation in programming.  Concatenation produces a new object with all the components of the original objects, arranged in the concatenation order. Concatenation in the context of strings refers to",
-          "link": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
-          "publishedOn": "2023-03-14T16:30:27.000Z",
-          "wordCount": 1641,
-          "title": "Joining Lists in Python – How to Concat Lists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Joining-Lists-in-Python---How-to-Concat-Lists-1.png"
         }
       ]
     }
