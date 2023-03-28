@@ -84,12 +84,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.",
+          "link": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
+          "publishedOn": "2023-03-27T14:00:00.000Z",
+          "wordCount": 3459,
+          "title": "The Best Handoff Is No Handoff",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Content matters! Unfortunately, when it comes to informational websites, content quality is often poor. There is no magic answer to fix that. However, there are practical techniques you can use to improve the copy on your websites and ensure your users find the content they are looking for.",
           "link": "https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/",
           "publishedOn": "2023-03-23T17:00:00.000Z",
-          "wordCount": 4262,
+          "wordCount": 4159,
           "title": "Overcoming The Challenges Of Content Creation For Informational Websites",
           "enclosure": {
             "url": "http://files.smashing.media/articles/overcoming-challenges-content-creation-informational-websites/overcoming-challenges-content-creation-informational-websites.jpg",
@@ -104,7 +119,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
           "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
           "publishedOn": "2023-03-21T07:00:00.000Z",
-          "wordCount": 12137,
+          "wordCount": 12036,
           "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
@@ -119,7 +134,7 @@
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "publishedOn": "2023-03-20T09:00:00.000Z",
-          "wordCount": 4653,
+          "wordCount": 4656,
           "title": "Free Fonts For Interface Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
@@ -134,7 +149,7 @@
           "description": "Based on an example of a multilingual app that displays street photography images from Unsplash, Jan Amann explores next-intl to implement all internationalization needs in React Server Components and shares a technique for introducing interactivity with a minimalistic client-side footprint.",
           "link": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
           "publishedOn": "2023-03-16T20:00:00.000Z",
-          "wordCount": 4709,
+          "wordCount": 4606,
           "title": "Internationalization In Next.js 13 With React Server Components",
           "enclosure": {
             "url": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg",
@@ -164,7 +179,7 @@
           "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
           "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "publishedOn": "2023-03-14T16:00:00.000Z",
-          "wordCount": 5002,
+          "wordCount": 4999,
           "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
@@ -179,7 +194,7 @@
           "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
           "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
           "publishedOn": "2023-03-10T08:00:00.000Z",
-          "wordCount": 4566,
+          "wordCount": 4575,
           "title": "A Pragmatist’s Guide To Lean User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
@@ -194,7 +209,7 @@
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5524,
+          "wordCount": 5514,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -209,7 +224,7 @@
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
           "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4519,
+          "wordCount": 4523,
           "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
@@ -239,7 +254,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4585,
+          "wordCount": 4579,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -254,7 +269,7 @@
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5427,
+          "wordCount": 5527,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -284,7 +299,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4984,
+          "wordCount": 4880,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -314,7 +329,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6733,
+          "wordCount": 6734,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -331,12 +346,82 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/",
+          "author": "Arunachalam B",
+          "description": "Hello Everyone! Deploying a web application is a challenging task (at least for me), especially when it comes to keeping it updated. It can take up a lot of time and energy if it has to be deployed manually every time you make a change.  But I recently discovered",
+          "link": "https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/",
+          "publishedOn": "2023-03-27T21:53:46.000Z",
+          "wordCount": 3197,
+          "title": "How to Setup a CI/CD Pipeline for a Next.js App using AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Deploy-Next.js-using-AWS--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/",
+          "author": "Dario Di Cillo",
+          "description": "Arrays are data structures that are extremely useful and versatile. They're present in many programming languages, and they allow you to store multiple values in a single variable. In this tutorial, we will explore how arrays work in JavaScript, their characteristics, and how to manipulate them using the most common",
+          "link": "https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/",
+          "publishedOn": "2023-03-27T19:45:43.000Z",
+          "wordCount": 6799,
+          "title": "JavaScript Array Tutorial – Array Methods in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tom-wilson-Em2hPK55o8g-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/",
+          "author": "Shittu Olumide",
+          "description": "In Pandas, sometimes you'll need to remove columns from a DataFrame for various reasons, such as cleaning data, reducing memory usage, or simplifying analysis. And in this article, I'll show you how to do it. I'll start by introducing the .drop() method, which is the primary method for removing columns",
+          "link": "https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/",
+          "publishedOn": "2023-03-27T18:03:48.000Z",
+          "wordCount": 1577,
+          "title": "Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-Drop-Column-in-Pandas---How-to-Remove-Columns-from-Dataframes.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "author": "Deborah Kurata",
+          "description": "Working with Git and GitHub is often an essential part of your daily programming tasks. In many cases, you'll want both a local Git repository and a remote GitHub repository for a project.  * With the local repository, you work on your own copy of the project. You make",
+          "link": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "publishedOn": "2023-03-27T17:50:47.000Z",
+          "wordCount": 4693,
+          "title": "How to Create and Sync Git and GitHub Repositories",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-chatgpt-in-vscode/",
+          "author": "Ijeoma Igboagu",
+          "description": "ChatGPT – or Chat Generative Pre-Training Transformer – has been making waves in the tech industry recently.  It was first launched in November 2022 and upgraded to ChatGPT-4 in March 2023. In this tutorial, I will explain how you can use ChatGPT to become more productive. Then I'll walk",
+          "link": "https://www.freecodecamp.org/news/install-chatgpt-in-vscode/",
+          "publishedOn": "2023-03-27T17:50:01.000Z",
+          "wordCount": 1331,
+          "title": "How to Instal ChatGPT in VSCode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/coverchaat.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! React is a popular JavaScript library for building user interfaces. As applications built with React become more complex, their performance can start to degrade.  Poor performance can lead to a frustrating user experience and a negative impact on user engagement. So in this article, we will discuss",
+          "link": "https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/",
+          "publishedOn": "2023-03-27T17:18:19.000Z",
+          "wordCount": 2468,
+          "title": "How to Measure and Improve the Performance of a React App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nicolas-hoizey-poa-Ycw1W8U-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
+          "author": "Sophia Iroegbu",
+          "description": "If you're looking for a reliable and cost-effective way to send emails, AWS Simple Email Service (SES) is a great option. It's a cloud-based email platform that helps you send and receive emails quickly and easily.  With SES, you don't have to worry about managing your mail server, and",
+          "link": "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
+          "publishedOn": "2023-03-27T15:44:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Set Up AWS Simple Email Service",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner---Template--3-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
           "author": "Liz Johnson",
           "description": "Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little",
           "link": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
           "publishedOn": "2023-03-25T17:11:53.000Z",
-          "wordCount": 2584,
+          "wordCount": 2583,
           "title": "How to Learn Different Tech Stacks IRL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
         },
@@ -346,7 +431,7 @@
           "description": "Pandas is a widely used open-source library in Python for data manipulation and analysis. It provides a range of data structures and functions for working with data, one of which is the DataFrame.  DataFrames are a powerful tool for storing and analyzing large sets of data, but they can",
           "link": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
           "publishedOn": "2023-03-24T18:06:00.000Z",
-          "wordCount": 1308,
+          "wordCount": 1307,
           "title": "Dataframe to CSV – How to Save Pandas Dataframes by Exporting",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-to-CSV---How-to-Save-Pandas-Dataframes-by-Exporting.png"
         },
@@ -356,79 +441,9 @@
           "description": "Sometimes, when you visit a website, you'll notice that certain elements or a particular section gets revealed dynamically as you scroll.  It's like the contents of that particular section weren't available to view until you scrolled into the section – but now, because you're there, the website decides to",
           "link": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
           "publishedOn": "2023-03-24T17:42:18.000Z",
-          "wordCount": 1812,
+          "wordCount": 1811,
           "title": "How to Add Scroll Animations to a Page with JavaScript's Intersection Observer API",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/observer-api.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/",
-          "author": "Kolade Chris",
-          "description": "If you’re working with a database, whether large or small, there might be occasions when you need to search for some entries containing strings. In this article, I’ll show you how to locate strings and substrings in MySQL and SQL Server. I‘ll be using a table I call products_data in",
-          "link": "https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/",
-          "publishedOn": "2023-03-23T22:36:06.000Z",
-          "wordCount": 1674,
-          "title": "SQL Where Contains String – Substring Query Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sqlSubstring.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/",
-          "author": "Jaja Ibifubara David",
-          "description": "Are you looking for an elegant way to reveal content on your React website as users scroll down the page? Look no further than the Intersection Observer API. In this article, you’ll learn how to implement the reveal on scroll effect in React using Intersection Observer. This will allow you",
-          "link": "https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/",
-          "publishedOn": "2023-03-23T22:20:44.000Z",
-          "wordCount": 2351,
-          "title": "How to Implement Reveal on Scroll in React using the Intersection Observer API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-107.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/",
-          "author": "Shittu Olumide",
-          "description": "A list in Python is a collection of items that are ordered and changeable. It is one of the most versatile and frequently used data structures in Python.  A list can contain any type of data, such as integers, strings, floats, and even other lists. In Python, lists are",
-          "link": "https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/",
-          "publishedOn": "2023-03-23T18:27:48.000Z",
-          "wordCount": 1306,
-          "title": "Python Remove from List – How to Remove an Item from a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Remove-from-List---How-to-Remove-an-Item-from-a-List-in-Python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/",
-          "author": "Joel Olawanle",
-          "description": "Git is a powerful version control and collaboration tool. It allows developers to work together seamlessly on projects. But even the most experienced developers can make mistakes while using Git, such as accidentally adding files that were not meant to be committed. This can be a problem, especially if the",
-          "link": "https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/",
-          "publishedOn": "2023-03-23T18:27:08.000Z",
-          "wordCount": 1343,
-          "title": "Undo Git Add – How to Remove Added Files in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to create new directories (which is another name for folders) in Python. You will also learn how to create a nested directory structure. To work with directories in Python, you first need to include the os module in your project, which allows you",
-          "link": "https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/",
-          "publishedOn": "2023-03-23T13:39:03.000Z",
-          "wordCount": 1205,
-          "title": "Creating a Directory in Python – How to Create a Folder",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-51191.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/complete-vite-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Vite is a powerful build tool and development server designed to speed up modern web development. We just published a full Vite course on the freeCodeCamp.org YouTube channel that will teach you how to use Vite effectively and efficiently to streamline your web development workflow. Arsalan Khattak developed this course.",
-          "link": "https://www.freecodecamp.org/news/complete-vite-course-for-beginners/",
-          "publishedOn": "2023-03-23T13:20:55.000Z",
-          "wordCount": 1081,
-          "title": "Use Vite to Speed Up Web Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/vite.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "author": "Oluseye Jeremiah",
-          "description": "Hello and welcome to the world of data analysis! If you're considering a career in this field, you're in good company. Data analysis is a growing and exciting field that's becoming increasingly important in today's data-driven world. Let's face it, we're all drowning in data these days. From social media",
-          "link": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "publishedOn": "2023-03-23T00:06:48.000Z",
-          "wordCount": 3406,
-          "title": "How to Get Started in Data Analytics – A Roadmap for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/dataa.JPG"
         }
       ]
     }

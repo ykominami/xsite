@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T00:10:19.576Z</id>
+    <id>urn:2023-03-28T00:11:30.615Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T00:10:19.576Z</updated>
+    <updated>2023-03-28T00:11:30.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Setup a CI/CD Pipeline for a Next.js App using AWS]]></title>
+        <id>https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/</id>
+        <link href="https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/"/>
+        <updated>2023-03-27T21:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Hello Everyone! Deploying a web application is a challenging task (at least for me), especially when it comes to keeping it updated. It can take up a lot of time and energy if it has to be deployed manually every time you make a change.  But I recently discovered]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Array Tutorial – Array Methods in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/"/>
+        <updated>2023-03-27T19:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Arrays are data structures that are extremely useful and versatile. They're present in many programming languages, and they allow you to store multiple values in a single variable. In this tutorial, we will explore how arrays work in JavaScript, their characteristics, and how to manipulate them using the most common]]></summary>
+        <author>
+            <name>Dario Di Cillo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes]]></title>
+        <id>https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/</id>
+        <link href="https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/"/>
+        <updated>2023-03-27T18:03:48.000Z</updated>
+        <summary type="html"><![CDATA[In Pandas, sometimes you'll need to remove columns from a DataFrame for various reasons, such as cleaning data, reducing memory usage, or simplifying analysis. And in this article, I'll show you how to do it. I'll start by introducing the .drop() method, which is the primary method for removing columns]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Sync Git and GitHub Repositories]]></title>
+        <id>https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/</id>
+        <link href="https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/"/>
+        <updated>2023-03-27T17:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Working with Git and GitHub is often an essential part of your daily programming tasks. In many cases, you'll want both a local Git repository and a remote GitHub repository for a project.  * With the local repository, you work on your own copy of the project. You make]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Instal ChatGPT in VSCode]]></title>
+        <id>https://www.freecodecamp.org/news/install-chatgpt-in-vscode/</id>
+        <link href="https://www.freecodecamp.org/news/install-chatgpt-in-vscode/"/>
+        <updated>2023-03-27T17:50:01.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT – or Chat Generative Pre-Training Transformer – has been making waves in the tech industry recently.  It was first launched in November 2022 and upgraded to ChatGPT-4 in March 2023. In this tutorial, I will explain how you can use ChatGPT to become more productive. Then I'll walk]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure and Improve the Performance of a React App]]></title>
+        <id>https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/"/>
+        <updated>2023-03-27T17:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! React is a popular JavaScript library for building user interfaces. As applications built with React become more complex, their performance can start to degrade.  Poor performance can lead to a frustrating user experience and a negative impact on user engagement. So in this article, we will discuss]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up AWS Simple Email Service]]></title>
+        <id>https://www.freecodecamp.org/news/set-up-aws-simple-email-service/</id>
+        <link href="https://www.freecodecamp.org/news/set-up-aws-simple-email-service/"/>
+        <updated>2023-03-27T15:44:03.000Z</updated>
+        <summary type="html"><![CDATA[If you're looking for a reliable and cost-effective way to send emails, AWS Simple Email Service (SES) is a great option. It's a cloud-based email platform that helps you send and receive emails quickly and easily.  With SES, you don't have to worry about managing your mail server, and]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Handoff Is No Handoff]]></title>
+        <id>https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/</id>
+        <link href="https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/"/>
+        <updated>2023-03-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Learn Different Tech Stacks IRL]]></title>
         <id>https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/</id>
@@ -36,46 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL Where Contains String – Substring Query Example]]></title>
-        <id>https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/</id>
-        <link href="https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/"/>
-        <updated>2023-03-23T22:36:06.000Z</updated>
-        <summary type="html"><![CDATA[If you’re working with a database, whether large or small, there might be occasions when you need to search for some entries containing strings. In this article, I’ll show you how to locate strings and substrings in MySQL and SQL Server. I‘ll be using a table I call products_data in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Reveal on Scroll in React using the Intersection Observer API]]></title>
-        <id>https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/</id>
-        <link href="https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/"/>
-        <updated>2023-03-23T22:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for an elegant way to reveal content on your React website as users scroll down the page? Look no further than the Intersection Observer API. In this article, you’ll learn how to implement the reveal on scroll effect in React using Intersection Observer. This will allow you]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Remove from List – How to Remove an Item from a List in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/</id>
-        <link href="https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/"/>
-        <updated>2023-03-23T18:27:48.000Z</updated>
-        <summary type="html"><![CDATA[A list in Python is a collection of items that are ordered and changeable. It is one of the most versatile and frequently used data structures in Python.  A list can contain any type of data, such as integers, strings, floats, and even other lists. In Python, lists are]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undo Git Add – How to Remove Added Files in Git]]></title>
-        <id>https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/"/>
-        <updated>2023-03-23T18:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Git is a powerful version control and collaboration tool. It allows developers to work together seamlessly on projects. But even the most experienced developers can make mistakes while using Git, such as accidentally adding files that were not meant to be committed. This can be a problem, especially if the]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overcoming The Challenges Of Content Creation For Informational Websites]]></title>
         <id>https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/</id>
         <link href="https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/"/>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[Content matters! Unfortunately, when it comes to informational websites, content quality is often poor. There is no magic answer to fix that. However, there are practical techniques you can use to improve the copy on your websites and ensure your users find the content they are looking for.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Directory in Python – How to Create a Folder]]></title>
-        <id>https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/</id>
-        <link href="https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/"/>
-        <updated>2023-03-23T13:39:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to create new directories (which is another name for folders) in Python. You will also learn how to create a nested directory structure. To work with directories in Python, you first need to include the os module in your project, which allows you]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Vite to Speed Up Web Development]]></title>
-        <id>https://www.freecodecamp.org/news/complete-vite-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/complete-vite-course-for-beginners/"/>
-        <updated>2023-03-23T13:20:55.000Z</updated>
-        <summary type="html"><![CDATA[Vite is a powerful build tool and development server designed to speed up modern web development. We just published a full Vite course on the freeCodeCamp.org YouTube channel that will teach you how to use Vite effectively and efficiently to streamline your web development workflow. Arsalan Khattak developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started in Data Analytics – A Roadmap for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/data-analytics-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/data-analytics-roadmap/"/>
-        <updated>2023-03-23T00:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome to the world of data analysis! If you're considering a career in this field, you're in good company. Data analysis is a growing and exciting field that's becoming increasingly important in today's data-driven world. Let's face it, we're all drowning in data these days. From social media]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
         </author>
     </entry>
     <entry>
