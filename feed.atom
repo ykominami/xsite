@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T00:11:54.898Z</id>
+    <id>urn:2023-03-30T00:10:14.257Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T00:11:54.898Z</updated>
+    <updated>2023-03-30T00:10:14.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Push Dockerized Applications to the Azure Registry]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/"/>
+        <updated>2023-03-29T21:53:05.000Z</updated>
+        <summary type="html"><![CDATA[A common issue on development teams is that an application might work on one developer’s computer but not on the others. Luckily, there's Docker, a popular containerization technology. It works by packing up all the components needed to run the application and then executing the application in an isolated environment.]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the React Context API in Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/context-api-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/context-api-in-react/"/>
+        <updated>2023-03-29T20:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Managing state is an essential part of developing applications in React. A common way to manage state is by passing props. Passing props means sending data from one component to another. It's a good way to make sure that data gets to the right place in a React application.]]></summary>
+        <author>
+            <name>Dickson Boateng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Google Apps Script Code to Clear Data Ranges in Google Sheets]]></title>
+        <id>https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/"/>
+        <updated>2023-03-29T19:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Google Apps Script allows you to write code in your spreadsheet. It functions like Visual Basic for Applications (VBA) does in Excel. They're both incredibly useful for executing more complicated actions or for automating repetitive tasks. In this article, I'll give you a brief overview of Google Apps Script by]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the Second Argument in JSON.stringify() usually null?]]></title>
+        <id>https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/</id>
+        <link href="https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/"/>
+        <updated>2023-03-29T17:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Usually, when developers use the JSON.stringify() method, the second argument is usually skipped, or with a value null. But this argument has its relevance. Here's a common example usage of JSON.stringify(): const obj = {   name: "Dillion",   language: "JavaScript",   age: 100,   isEngineer:]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Engineering Job Interview – Full Mock Interview]]></title>
+        <id>https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/"/>
+        <updated>2023-03-29T14:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you preparing for a technical programming interview for a software engineering role? If so, you might want to check out this new informative video, which features a mock full-length, real-world coding technical interview. This is a full-length interview between Keith Gali and Kylie Ying. Keith, who is an experienced]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slicing and Indexing in Python – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/slicing-and-indexing-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/slicing-and-indexing-in-python/"/>
+        <updated>2023-03-29T14:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Grained Access Handling And Data Management With Row-Level Security]]></title>
+        <id>https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/</id>
+        <link href="https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/"/>
+        <updated>2023-03-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter App Development – Create a Twitter Clone]]></title>
         <id>https://www.freecodecamp.org/news/flutter-app-development-create-a-twitter-clone/</id>
@@ -43,66 +113,6 @@
         <summary type="html"><![CDATA[This article provides a comprehensive guide on how to loop through a Pandas DataFrame in Python.  I'll start by introducing the Pandas library and DataFrame data structure. I'll explain the essential characteristics of Pandas, how to loop through rows in a dataframe, and finally how to loop through columns]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Website Encryption Works]]></title>
-        <id>https://www.freecodecamp.org/news/understanding-website-encryption/</id>
-        <link href="https://www.freecodecamp.org/news/understanding-website-encryption/"/>
-        <updated>2023-03-28T17:35:27.000Z</updated>
-        <summary type="html"><![CDATA[It's one thing to protect your data when it's sitting quietly on your own local machine and not bothering anyone. But moving data between locations – as you do whenever you open a website on a remote server or send an email attachment across the internet – introduces a whole]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Get Current Directory – Print Working Directory PWD Equivalent]]></title>
-        <id>https://www.freecodecamp.org/news/python-get-current-directory/</id>
-        <link href="https://www.freecodecamp.org/news/python-get-current-directory/"/>
-        <updated>2023-03-28T16:27:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to get the current working directory (another name for folder) in Python, which is the equivalent of using the pwd  command. There are a couple of ways to get the current working directory in Python:  * By using the os module]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GitHub Actions to  Automate Open-Source Projects]]></title>
-        <id>https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/</id>
-        <link href="https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/"/>
-        <updated>2023-03-28T15:51:39.000Z</updated>
-        <summary type="html"><![CDATA[These days, developers use automation tools all the time to manage tasks effectively and streamline their daily activities. And one of these popular tools is GitHub Actions. When talking about software, including the open-source variety, you'll likely agree with me that efficiency is in high demand. And with the help]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is R Squared? R2 Value Meaning and Definition]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-r-squared-r2-value-meaning-and-definition/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-r-squared-r2-value-meaning-and-definition/"/>
-        <updated>2023-03-28T14:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Regression analysis is a statistical method used to study the relationship between a dependent variable and one or more independent variables.  One of the most commonly used methods for linear regression analysis is R-Squared.  In this article, you'll get to know what R-Squared is and the meaning of]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to replace links in a text with Anchor Tags using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-replace-links-in-a-text-with-anchor-tags-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-replace-links-in-a-text-with-anchor-tags-using-javascript/"/>
-        <updated>2023-03-28T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[When you make a post on social media, and that post contains links, you would see the links styled differently from other text. How can you achieve this? For example, here's a tweet I made on Twitter The text for my tweet is: > hi good morning my website is]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React by Building a Mortgage Calculator]]></title>
-        <id>https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/"/>
-        <updated>2023-03-27T22:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Today we will learn and practice ReactJs by building a mortgage calculator step by step. This is the project that we will build today 👇  * Heres a live demo of the project    [https://mortgage-calculator-tutorial.vercel.app/]  * And here's the Github Repo Link    [https://github.com/JoyShaheb/mortgage-calculator-tutorial]]]></summary>
-        <author>
-            <name>Joy Shaheb</name>
         </author>
     </entry>
     <entry>
@@ -319,26 +329,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Penpot, An Open-Source Design Platform Made For Designers And Developers Alike]]></title>
-        <id>https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/</id>
-        <link href="https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/"/>
-        <updated>2023-02-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving design tools landscape, it can be difficult to keep up with the latest and greatest. In this article, we’ll take a closer look at Penpot, the first design and prototyping tool that’s fully open-source and based on open web standards, making it an ideal choice for both designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Accessible Form Validation]]></title>
-        <id>https://smashingmagazine.com/2023/02/guide-accessible-form-validation/</id>
-        <link href="https://smashingmagazine.com/2023/02/guide-accessible-form-validation/"/>
-        <updated>2023-02-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sandrina Pereira)</name>
         </author>
     </entry>
 </feed>

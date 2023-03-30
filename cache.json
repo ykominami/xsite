@@ -84,12 +84,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.",
+          "link": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
+          "publishedOn": "2023-03-29T12:00:00.000Z",
+          "wordCount": 3745,
+          "title": "Fine-Grained Access Handling And Data Management With Row-Level Security",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.",
           "link": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
           "publishedOn": "2023-03-27T14:00:00.000Z",
-          "wordCount": 3464,
+          "wordCount": 3466,
           "title": "The Best Handoff Is No Handoff",
           "enclosure": {
             "url": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg",
@@ -104,7 +119,7 @@
           "description": "Content matters! Unfortunately, when it comes to informational websites, content quality is often poor. There is no magic answer to fix that. However, there are practical techniques you can use to improve the copy on your websites and ensure your users find the content they are looking for.",
           "link": "https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/",
           "publishedOn": "2023-03-23T17:00:00.000Z",
-          "wordCount": 4162,
+          "wordCount": 4149,
           "title": "Overcoming The Challenges Of Content Creation For Informational Websites",
           "enclosure": {
             "url": "http://files.smashing.media/articles/overcoming-challenges-content-creation-informational-websites/overcoming-challenges-content-creation-informational-websites.jpg",
@@ -119,7 +134,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
           "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
           "publishedOn": "2023-03-21T07:00:00.000Z",
-          "wordCount": 12036,
+          "wordCount": 12033,
           "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
@@ -134,7 +149,7 @@
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "publishedOn": "2023-03-20T09:00:00.000Z",
-          "wordCount": 4650,
+          "wordCount": 4655,
           "title": "Free Fonts For Interface Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
@@ -149,7 +164,7 @@
           "description": "Based on an example of a multilingual app that displays street photography images from Unsplash, Jan Amann explores next-intl to implement all internationalization needs in React Server Components and shares a technique for introducing interactivity with a minimalistic client-side footprint.",
           "link": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
           "publishedOn": "2023-03-16T20:00:00.000Z",
-          "wordCount": 4706,
+          "wordCount": 4604,
           "title": "Internationalization In Next.js 13 With React Server Components",
           "enclosure": {
             "url": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg",
@@ -179,7 +194,7 @@
           "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
           "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "publishedOn": "2023-03-14T16:00:00.000Z",
-          "wordCount": 5002,
+          "wordCount": 4998,
           "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
@@ -194,7 +209,7 @@
           "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
           "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
           "publishedOn": "2023-03-10T08:00:00.000Z",
-          "wordCount": 4572,
+          "wordCount": 4573,
           "title": "A Pragmatist’s Guide To Lean User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
@@ -209,7 +224,7 @@
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5516,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -224,7 +239,7 @@
           "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
           "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
           "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4512,
+          "wordCount": 4515,
           "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
@@ -254,7 +269,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4579,
+          "wordCount": 4581,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -269,7 +284,7 @@
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5428,
+          "wordCount": 5532,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -299,7 +314,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4875,
+          "wordCount": 4877,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -307,36 +322,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "In the ever-evolving design tools landscape, it can be difficult to keep up with the latest and greatest. In this article, we’ll take a closer look at Penpot, the first design and prototyping tool that’s fully open-source and based on open web standards, making it an ideal choice for both designers and developers.",
-          "link": "https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/",
-          "publishedOn": "2023-02-28T08:00:00.000Z",
-          "wordCount": 4204,
-          "title": "Meet Penpot, An Open-Source Design Platform Made For Designers And Developers Alike",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/meet-penpot-open-source-design-platform-designers-developers/meta-meet-penpot-open-source-design-platform-designers-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/meet-penpot-open-source-design-platform-designers-developers/meta-meet-penpot-open-source-design-platform-designers-developers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
-          "author": "hello@smashingmagazine.com (Sandrina Pereira)",
-          "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
-          "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
-          "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6834,
-          "title": "A Guide To Accessible Form Validation",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg"
         }
       ]
     },
@@ -345,6 +330,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/",
+          "author": "Destiny Erhabor",
+          "description": "A common issue on development teams is that an application might work on one developer’s computer but not on the others. Luckily, there's Docker, a popular containerization technology. It works by packing up all the components needed to run the application and then executing the application in an isolated environment.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/",
+          "publishedOn": "2023-03-29T21:53:05.000Z",
+          "wordCount": 1799,
+          "title": "How to Build and Push Dockerized Applications to the Azure Registry",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-163726--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/context-api-in-react/",
+          "author": "Dickson Boateng",
+          "description": "Managing state is an essential part of developing applications in React. A common way to manage state is by passing props. Passing props means sending data from one component to another. It's a good way to make sure that data gets to the right place in a React application.",
+          "link": "https://www.freecodecamp.org/news/context-api-in-react/",
+          "publishedOn": "2023-03-29T20:04:36.000Z",
+          "wordCount": 2356,
+          "title": "How to Use the React Context API in Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/context-api-cover-main.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "Google Apps Script allows you to write code in your spreadsheet. It functions like Visual Basic for Applications (VBA) does in Excel. They're both incredibly useful for executing more complicated actions or for automating repetitive tasks. In this article, I'll give you a brief overview of Google Apps Script by",
+          "link": "https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/",
+          "publishedOn": "2023-03-29T19:55:52.000Z",
+          "wordCount": 1673,
+          "title": "How to Use Google Apps Script Code to Clear Data Ranges in Google Sheets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/",
+          "author": "Dillion Megida",
+          "description": "Usually, when developers use the JSON.stringify() method, the second argument is usually skipped, or with a value null. But this argument has its relevance. Here's a common example usage of JSON.stringify(): const obj = {   name: \"Dillion\",   language: \"JavaScript\",   age: 100,   isEngineer:",
+          "link": "https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/",
+          "publishedOn": "2023-03-29T17:43:00.000Z",
+          "wordCount": 1476,
+          "title": "Why is the Second Argument in JSON.stringify() usually null?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/24.-json-stringify-null.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
+          "author": "Beau Carnes",
+          "description": "Are you preparing for a technical programming interview for a software engineering role? If so, you might want to check out this new informative video, which features a mock full-length, real-world coding technical interview. This is a full-length interview between Keith Gali and Kylie Ying. Keith, who is an experienced",
+          "link": "https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
+          "publishedOn": "2023-03-29T14:28:02.000Z",
+          "wordCount": 908,
+          "title": "Software Engineering Job Interview – Full Mock Interview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/software-mock.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/slicing-and-indexing-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how",
+          "link": "https://www.freecodecamp.org/news/slicing-and-indexing-in-python/",
+          "publishedOn": "2023-03-29T14:26:25.000Z",
+          "wordCount": 1918,
+          "title": "Slicing and Indexing in Python – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Sabi.JPG"
+        },
         {
           "id": "https://www.freecodecamp.org/news/flutter-app-development-create-a-twitter-clone/",
           "author": "Beau Carnes",
@@ -384,66 +429,6 @@
           "wordCount": 1385,
           "title": "How to Iterate Over Rows with Pandas – Loop Through a Dataframe",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-How-to-Iterate-Over-Rows-with-Pandas---Loop-Through-a-Dataframe.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-website-encryption/",
-          "author": "David Clinton",
-          "description": "It's one thing to protect your data when it's sitting quietly on your own local machine and not bothering anyone. But moving data between locations – as you do whenever you open a website on a remote server or send an email attachment across the internet – introduces a whole",
-          "link": "https://www.freecodecamp.org/news/understanding-website-encryption/",
-          "publishedOn": "2023-03-28T17:35:27.000Z",
-          "wordCount": 1994,
-          "title": "How Website Encryption Works",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-markus-spiske-225769.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-get-current-directory/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to get the current working directory (another name for folder) in Python, which is the equivalent of using the pwd  command. There are a couple of ways to get the current working directory in Python:  * By using the os module",
-          "link": "https://www.freecodecamp.org/news/python-get-current-directory/",
-          "publishedOn": "2023-03-28T16:27:30.000Z",
-          "wordCount": 1116,
-          "title": "Python Get Current Directory – Print Working Directory PWD Equivalent",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-357514.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/",
-          "author": "Hillary Nyakundi",
-          "description": "These days, developers use automation tools all the time to manage tasks effectively and streamline their daily activities. And one of these popular tools is GitHub Actions. When talking about software, including the open-source variety, you'll likely agree with me that efficiency is in high demand. And with the help",
-          "link": "https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/",
-          "publishedOn": "2023-03-28T15:51:39.000Z",
-          "wordCount": 3071,
-          "title": "How to Use GitHub Actions to  Automate Open-Source Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/OOP--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-r-squared-r2-value-meaning-and-definition/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Regression analysis is a statistical method used to study the relationship between a dependent variable and one or more independent variables.  One of the most commonly used methods for linear regression analysis is R-Squared.  In this article, you'll get to know what R-Squared is and the meaning of",
-          "link": "https://www.freecodecamp.org/news/what-is-r-squared-r2-value-meaning-and-definition/",
-          "publishedOn": "2023-03-28T14:51:21.000Z",
-          "wordCount": 940,
-          "title": "What is R Squared? R2 Value Meaning and Definition",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lxrcbsv-vVHXeu0YNbk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-replace-links-in-a-text-with-anchor-tags-using-javascript/",
-          "author": "Dillion Megida",
-          "description": "When you make a post on social media, and that post contains links, you would see the links styled differently from other text. How can you achieve this? For example, here's a tweet I made on Twitter The text for my tweet is: > hi good morning my website is",
-          "link": "https://www.freecodecamp.org/news/how-to-replace-links-in-a-text-with-anchor-tags-using-javascript/",
-          "publishedOn": "2023-03-28T10:26:00.000Z",
-          "wordCount": 1742,
-          "title": "How to replace links in a text with Anchor Tags using JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/23.-modify-links-in-strings.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/",
-          "author": "Joy Shaheb",
-          "description": "Today we will learn and practice ReactJs by building a mortgage calculator step by step. This is the project that we will build today 👇  * Heres a live demo of the project    [https://mortgage-calculator-tutorial.vercel.app/]  * And here's the Github Repo Link    [https://github.com/JoyShaheb/mortgage-calculator-tutorial]",
-          "link": "https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/",
-          "publishedOn": "2023-03-27T22:56:14.000Z",
-          "wordCount": 3589,
-          "title": "Learn React by Building a Mortgage Calculator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail_EN--2-.png"
         }
       ]
     }
