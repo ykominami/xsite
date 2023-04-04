@@ -74,12 +74,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
+          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
+          "description": "This article highlights non-technical skills like curiosity, observation, empathy, advocacy, visual communication, and collaboration that designers routinely use in their process to make a difference through design. AI can be used to augment designers’ workflow instead of replacing people.",
+          "link": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
+          "publishedOn": "2023-04-03T10:00:00.000Z",
+          "wordCount": 6159,
+          "title": "Beyond Algorithms: Skills Of Designers That AI Can’t Replicate",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "With April just around the corner, we have a new collection of desktop and mobile wallpapers waiting for you to celebrate the beginning of the new month. Designed by creatives from all across the globe, the wallpapers come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/",
           "publishedOn": "2023-03-31T08:00:00.000Z",
-          "wordCount": 5576,
+          "wordCount": 5472,
           "title": "Swing Into April (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-23-the-lonliest-house-in-the-world-cal-preview-opt.png",
@@ -94,7 +109,7 @@
           "description": "Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.",
           "link": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
           "publishedOn": "2023-03-30T13:00:00.000Z",
-          "wordCount": 6692,
+          "wordCount": 6691,
           "title": "A Comprehensive Checklist For Running Design Workshops",
           "enclosure": {
             "url": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg",
@@ -109,7 +124,7 @@
           "description": "Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.",
           "link": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
           "publishedOn": "2023-03-29T12:00:00.000Z",
-          "wordCount": 3728,
+          "wordCount": 3729,
           "title": "Fine-Grained Access Handling And Data Management With Row-Level Security",
           "enclosure": {
             "url": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg",
@@ -124,7 +139,7 @@
           "description": "Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.",
           "link": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
           "publishedOn": "2023-03-27T14:00:00.000Z",
-          "wordCount": 3447,
+          "wordCount": 3454,
           "title": "The Best Handoff Is No Handoff",
           "enclosure": {
             "url": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg",
@@ -139,7 +154,7 @@
           "description": "Content matters! Unfortunately, when it comes to informational websites, content quality is often poor. There is no magic answer to fix that. However, there are practical techniques you can use to improve the copy on your websites and ensure your users find the content they are looking for.",
           "link": "https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/",
           "publishedOn": "2023-03-23T17:00:00.000Z",
-          "wordCount": 4146,
+          "wordCount": 4150,
           "title": "Overcoming The Challenges Of Content Creation For Informational Websites",
           "enclosure": {
             "url": "http://files.smashing.media/articles/overcoming-challenges-content-creation-informational-websites/overcoming-challenges-content-creation-informational-websites.jpg",
@@ -154,7 +169,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
           "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
           "publishedOn": "2023-03-21T07:00:00.000Z",
-          "wordCount": 12122,
+          "wordCount": 12123,
           "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
@@ -169,7 +184,7 @@
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "publishedOn": "2023-03-20T09:00:00.000Z",
-          "wordCount": 4644,
+          "wordCount": 4642,
           "title": "Free Fonts For Interface Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
@@ -184,7 +199,7 @@
           "description": "Based on an example of a multilingual app that displays street photography images from Unsplash, Jan Amann explores next-intl to implement all internationalization needs in React Server Components and shares a technique for introducing interactivity with a minimalistic client-side footprint.",
           "link": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
           "publishedOn": "2023-03-16T20:00:00.000Z",
-          "wordCount": 4590,
+          "wordCount": 4591,
           "title": "Internationalization In Next.js 13 With React Server Components",
           "enclosure": {
             "url": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg",
@@ -214,7 +229,7 @@
           "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
           "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "publishedOn": "2023-03-14T16:00:00.000Z",
-          "wordCount": 4990,
+          "wordCount": 4994,
           "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
@@ -229,7 +244,7 @@
           "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
           "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
           "publishedOn": "2023-03-10T08:00:00.000Z",
-          "wordCount": 4559,
+          "wordCount": 4659,
           "title": "A Pragmatist’s Guide To Lean User Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
@@ -244,7 +259,7 @@
           "description": "Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.",
           "link": "https://smashingmagazine.com/2023/03/building-complex-forms-vue/",
           "publishedOn": "2023-03-09T10:00:00.000Z",
-          "wordCount": 5508,
+          "wordCount": 5501,
           "title": "Building Complex Forms In Vue",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg",
@@ -289,7 +304,7 @@
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
           "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4569,
+          "wordCount": 4570,
           "title": "Inspiring Web Design And UX Showcases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
@@ -306,104 +321,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/",
-          "author": "Edeh Israel Chidera",
-          "description": "Java is a widely popular programming language that has been used for years in various domains, including web development, mobile app development, desktop applications, and game development.  On the other hand, Kotlin is a relatively new programming language that has been gaining popularity in recent years. Both languages are",
-          "link": "https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/",
-          "publishedOn": "2023-03-31T20:21:28.000Z",
-          "wordCount": 1502,
-          "title": "Kotlin VS Java – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/emile-perron-xrVDYZRGdw4-unsplash.jpg"
+          "id": "https://www.freecodecamp.org/news/state-management-in-react-and-react-native-with-pullstate/",
+          "author": "Grant Weatherston",
+          "description": "React and React Native are popular JavaScript libraries that allow developers to create complex user interfaces and mobile applications with ease.  One of the key benefits of both these libraries is that they each have the ability to manage their own state within components. But managing state, along with",
+          "link": "https://www.freecodecamp.org/news/state-management-in-react-and-react-native-with-pullstate/",
+          "publishedOn": "2023-04-03T21:47:52.000Z",
+          "wordCount": 2836,
+          "title": "How to Manage State in React and React Native with the PullState Library",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/state-management.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/",
-          "author": "Joel Olawanle",
-          "description": "Sorting algorithms are an essential part of computer science. There are many sorting algorithms used to sort data. The insertion sort algorithm is one of the most basic and simple sorting algorithms. It is an efficient algorithm for small input sizes or for partially sorted data. The algorithm works by",
-          "link": "https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/",
-          "publishedOn": "2023-03-31T19:26:33.000Z",
-          "wordCount": 1691,
-          "title": "Insertion Sort Algorithm - Most Asked Questions About Insertion Sort",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--3-.png"
+          "id": "https://www.freecodecamp.org/news/create-and-manage-virtual-machines-with-vagrant/",
+          "author": "ijeoma Eti",
+          "description": "Creating and managing virtual machines used to be a tedious and time-consuming process. Replicating the VM on a different server can also be challenging, and it gets harder if you have to replicate multiple VMs. But then Vagrant came along, a command-line or shell tool that generally works with Type",
+          "link": "https://www.freecodecamp.org/news/create-and-manage-virtual-machines-with-vagrant/",
+          "publishedOn": "2023-04-03T20:15:11.000Z",
+          "wordCount": 1612,
+          "title": "How to Create and Manage Virtual Machines with the Vagrant Command Line Tool",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-01-at-23.42.01-1.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/",
-          "author": "Idris Olubisi",
-          "description": "In a world where online content is growing exponentially, it's more important than ever to produce unique content that stands out. Paraphrasing tools can offer a quick solution to help you develop unique ideas and create original content. With the help of ReactJs and ChatGPT Turbo, developers can build a",
-          "link": "https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/",
-          "publishedOn": "2023-03-31T17:51:04.000Z",
-          "wordCount": 1971,
-          "title": "How to Build a Paraphrasing Tool with ReactJs & ChatGPT Turbo",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/paraphrase.png"
+          "id": "https://www.freecodecamp.org/news/maximum-integer-size-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can check the maximum integer size in Python using the maxsize property of the sys module.  In this article, you'll learn about the maximum integer size in Python. You'll also see the differences in Python 2 and Python 3. The maximum value of an integer shouldn't bother you.",
+          "link": "https://www.freecodecamp.org/news/maximum-integer-size-in-python/",
+          "publishedOn": "2023-04-03T18:20:55.000Z",
+          "wordCount": 913,
+          "title": "Int Max in Python – Maximum Integer Size",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thomas-t-OPpCbAAKWv8-unsplash.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/",
-          "author": "Dionysia Lemonaki",
-          "description": "An array in JavaScript is an object that allows you to store an ordered collection of multiple values under a single variable name and manipulate those values in numerous ways. In this article, you will learn how to calculate the sum of all the numbers in a given array using",
-          "link": "https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/",
-          "publishedOn": "2023-03-31T17:45:12.000Z",
-          "wordCount": 1292,
-          "title": "JS Sum of an Array – How to Add the Numbers in a JavaScript Array",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-chelsey-horne-4506938.jpg"
+          "id": "https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/",
+          "author": "Njoku Samson Ebere",
+          "description": "Every programmer who wants to write clean CSS and build great user interfaces should understand the CSS Box Model.  Before I understood the foundations of CSS, I would often write unnecessary styles for margins and padding.  CSS Box Model forms the basis for styling any element on a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/",
+          "publishedOn": "2023-04-03T17:29:13.000Z",
+          "wordCount": 1990,
+          "title": "How to Use the CSS Box Model and Style SVG Images",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tiger-lily-4483610--1-.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/comments-in-json/",
-          "author": "Joel Olawanle",
-          "description": "JSON (JavaScript Object Notation) is a popular data interchange format used in web development and mobile applications due to its simplicity and flexibility. But JSON files do not officially support comments. This makes providing additional context or explanation for the data challenging. This article will show you how to include",
-          "link": "https://www.freecodecamp.org/news/comments-in-json/",
-          "publishedOn": "2023-03-31T15:10:51.000Z",
-          "wordCount": 1220,
-          "title": "Comments Inside JSON – Commenting in a JSON File",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--1-.png"
+          "id": "https://www.freecodecamp.org/news/code-review-tips/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Hey, open sourcer! 😊 I’ve heard through the digital webs that you’ve become quite the wordsmith when it comes to giving feedback on pull requests and want to learn something new.  No worries, I’ve been there myself when I started getting more comfortable in the open source world. So,",
+          "link": "https://www.freecodecamp.org/news/code-review-tips/",
+          "publishedOn": "2023-04-03T16:49:44.000Z",
+          "wordCount": 2075,
+          "title": "How to Give Good Feedback for Effective Code Reviews",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-for-first-FCC-article.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions (RegEx or RegExp for short) are a sequence of characters that define a search pattern. You can use them to search, replace, and validate the strings of a text in a wide variety of applications, such as text editors, developer tools, and command line tools. RegEx is also",
-          "link": "https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/",
-          "publishedOn": "2023-03-31T11:50:00.000Z",
-          "wordCount": 1178,
-          "title": "How to Include an Empty String in RegEx",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--7-.png"
+          "id": "https://www.freecodecamp.org/news/next-vs-react/",
+          "author": "Nishant Kumar",
+          "description": "Hey everyone! Next.js 13 is trending these days, and it's a great time to learn it. But what even is Next.js? What is pre-rendering in Next.js, and why do we use it?  Well, let me explain. What is Next.js? Next.js is a backend framework which is based on React.",
+          "link": "https://www.freecodecamp.org/news/next-vs-react/",
+          "publishedOn": "2023-04-03T16:36:18.000Z",
+          "wordCount": 1548,
+          "title": "Next.js vs React – What are the Differences?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/What--7-.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
-          "author": "Ashutosh Krishna",
-          "description": "In today's digital world, online security is really important, and user authentication is a key aspect of it.  Email-based authentication [https://ashutoshkrris.hashnode.dev/how-to-set-up-email-verification-in-a-flask-app]  is one of the most popular and widely used methods for user registration and login. But it's not always reliable, as users can enter fake or invalid",
-          "link": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
-          "publishedOn": "2023-03-30T22:22:39.000Z",
-          "wordCount": 2597,
-          "title": "How to Use an Email Validation Service for Flask User Authentication",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/email-validation-1.png"
+          "id": "https://www.freecodecamp.org/news/how-to-use-part-in-dart/",
+          "author": "Rutvik Tak",
+          "description": "When you're coding in Dart, you may come across these  following situations:  1. A class/method is associated with a particular file of your codebase and you     want to keep it private only to that one file  2. You want to break your one big",
+          "link": "https://www.freecodecamp.org/news/how-to-use-part-in-dart/",
+          "publishedOn": "2023-04-03T16:17:12.000Z",
+          "wordCount": 1643,
+          "title": "How to Use part in Dart – Splitting Files for Scoped Access",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/parts-in-dart-1.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/",
-          "author": "Deji Adesoga",
-          "description": "Charts are a great way of visually displaying large sets of data in formats that are easy to understand and analyze. They are a great way of showing the relationship that exists between two or more data sets.  Different types of charts exist, some of which includes bar chart,",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/",
-          "publishedOn": "2023-03-30T15:54:23.000Z",
-          "wordCount": 2379,
-          "title": "How to Integrate Chart.js in Angular Using Data from a REST API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Copy-of-Orange-and-White-Vibrant-Food-YouTube-Thumbnail--1-.png"
+          "id": "https://www.freecodecamp.org/news/java-unit-testing/",
+          "author": "Kunal Nalawade",
+          "description": "Let's say you are developing an application. After long hours of coding, you manage to create some cool features. Now, you want to make sure the features are working as you want. This involves testing if each and every piece of code works as expected. This procedure is known as",
+          "link": "https://www.freecodecamp.org/news/java-unit-testing/",
+          "publishedOn": "2023-04-03T15:37:52.000Z",
+          "wordCount": 3220,
+          "title": "Java Unit Testing for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/photo-1498050108023-c5249f4df085.jpeg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Sorting is an essential task in programming, and the bubble sort algorithm is one of the simplest and most commonly used methods. As a beginner in solving algorithm questions or preparing for an interview, you might wonder how to implement this algorithm effectively. Don't worry; in this article, I will",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/",
-          "publishedOn": "2023-03-30T15:34:25.000Z",
-          "wordCount": 1743,
-          "title": "How To Implement Bubble Sort Algorithm With JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--2-.png"
+          "id": "https://www.freecodecamp.org/news/how-to-search-large-datasets-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Imagine you're trying to find a needle in a haystack, but the haystack is the size of a mountain. That's what it can feel like to search for specific items in a massive dataset using Python.  But fear not! With the right techniques, you can efficiently search and lookup",
+          "link": "https://www.freecodecamp.org/news/how-to-search-large-datasets-in-python/",
+          "publishedOn": "2023-04-03T15:08:39.000Z",
+          "wordCount": 1649,
+          "title": "How to Effectively Search Large Datasets in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/efffe.JPG"
         },
         {
-          "id": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
-          "author": "Beau Carnes",
-          "description": "Are you tired of spending hours writing complex Regular Expressions (RegEx) to manipulate strings? Do you want to learn how to build a RegEx generator quickly and easily? Then this course is for you! We just published a course on the freeCodeCamp.org YouTube channel that will teach you build a",
-          "link": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
-          "publishedOn": "2023-03-30T13:33:02.000Z",
-          "wordCount": 918,
-          "title": "Use ChatGPT to Build a Low Code RegEx Generator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/maxresdefault.jpeg"
+          "id": "https://www.freecodecamp.org/news/brief-history-of-open-source/",
+          "author": "Agnes Nduta",
+          "description": "It’s difficult to imagine a world without open source. Open source is ubiquitous. In fact, open source is what powers the internet.  For example, 60% of the world’s websites run on Apache and Nginx, the most popular web servers [https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it#:~:text=Phones%2C%20cars%2C%20planes%2C%20and,Kubernetes%2C%20which%20powers%20cloud%20computing.] . And yes, even Fortune 500 companies use Nginx.",
+          "link": "https://www.freecodecamp.org/news/brief-history-of-open-source/",
+          "publishedOn": "2023-04-03T14:31:21.000Z",
+          "wordCount": 3395,
+          "title": "A Brief History of Open Source",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-markus-winkler-12081252.jpg"
         }
       ]
     }
