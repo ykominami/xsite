@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T00:09:21.927Z</id>
+    <id>urn:2023-04-08T00:09:03.351Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T00:09:21.927Z</updated>
+    <updated>2023-04-08T00:09:03.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Analytics with New Advanced Certifications from Google]]></title>
+        <id>https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/</id>
+        <link href="https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/"/>
+        <updated>2023-04-07T20:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Google has been growing a list of certifications for the past few years. And they've just added some advanced coursework to the repertoire.  In this article, I'll introduce you to the Google Certifications and detail what's new. I'll focus on the Data Analytics pathway, but will include resources to]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is CI/CD? Learn Continuous Integration/Continuous Deployment by Building a Project]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-ci-cd/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-ci-cd/"/>
+        <updated>2023-04-07T19:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article you're going to learn about CI/CD (continuous integration and continuous deployment).  We're going to review what this practice is about, how it compares to the previous approach in the software development industry, and finally see a practical example of how we can implement it]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Docker Compose? How to Use it with an Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/"/>
+        <updated>2023-04-07T19:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Docker helps you setup a development environment on your machine quickly. It only takes a couple of minutes to go through the entire process.  But let's assume you were assigned on a project which requires at least 10 different services in a running state to run your project. For]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conda Remove Environment – How to Delete an Env]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/"/>
+        <updated>2023-04-07T05:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Conda is an open-source package management and environment management system that can be used to create different, isolated coding environments.  With Conda, you can create separate environments for specific projects. You can have one environment for machine learning and another environment for data analytics. Each environment can have its]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Upload Files with JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/upload-files-with-javascript/</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[Functions are an essential component of the C programming language. They help you divide bigger problems into smaller, more manageable chunks of code, making it simpler to create and run programs.  We'll look at functions in C, their syntax, and how to use them successfully in this article. What]]></summary>
         <author>
             <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Know About GPT-4 for Non-AI Developers]]></title>
-        <id>https://www.freecodecamp.org/news/what-to-know-about-gpt-4/</id>
-        <link href="https://www.freecodecamp.org/news/what-to-know-about-gpt-4/"/>
-        <updated>2023-04-06T14:15:36.000Z</updated>
-        <summary type="html"><![CDATA[We are living through an AI revolution. The AI industry is constantly evolving, with new tools, products, and technologies emerging every day.  For those not familiar with the AI domain, keeping up with these developments can be challenging. The biggest news recently is undoubtedly GPT-4. Everyone from my barber]]></summary>
-        <author>
-            <name>Kaushal Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indices of a List in Python – List IndexOf() Equivalent]]></title>
-        <id>https://www.freecodecamp.org/news/indices-of-a-list-in-python-list-indexof-equivalent/</id>
-        <link href="https://www.freecodecamp.org/news/indices-of-a-list-in-python-list-indexof-equivalent/"/>
-        <updated>2023-04-06T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Python has several methods and hacks for getting the index of an item in iterable data like a list, tuple, and dictionary. In this article, we are looking at how you can get the index of a list item with the index() method. I’ll also show you a function that]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Sort Algorithm - Most Asked Questions About Bubble Sort]]></title>
-        <id>https://www.freecodecamp.org/news/most-asked-questions-about-bubble-sort/</id>
-        <link href="https://www.freecodecamp.org/news/most-asked-questions-about-bubble-sort/"/>
-        <updated>2023-04-05T21:40:48.000Z</updated>
-        <summary type="html"><![CDATA[Bubble sort is a simple sorting algorithm that repeatedly loops through a list, compares adjacent elements, and swaps them if they are in the wrong order. The bubble sort algorithm is not the most efficient sorting algorithm when it comes to time complexity. But it is still often used as]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Trie Data Structures Work – Validate User Input with Automated Trie Visualization]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-validate-user-input-with-automated-trie-visualization/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-validate-user-input-with-automated-trie-visualization/"/>
-        <updated>2023-04-05T21:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Data structures play a vital role in computer science. They are essential for designing efficient software infrastructure.  Simply put, a data structure is a way of organizing and storing data in a computer so that it can be accessed and manipulated reliably. Also, it provides a set of operations]]></summary>
-        <author>
-            <name>Daniel García Solla</name>
         </author>
     </entry>
     <entry>
@@ -266,27 +266,6 @@ Making Calendars With Accessibility and Internationalization in Mind originally 
         <summary type="html"><![CDATA[Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Complex Forms In Vue]]></title>
-        <id>https://smashingmagazine.com/2023/03/building-complex-forms-vue/</id>
-        <link href="https://smashingmagazine.com/2023/03/building-complex-forms-vue/"/>
-        <updated>2023-03-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Olufunke Moronfolu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Clock with the New CSS sin() and cos() Trigonometry Functions]]></title>
-        <id>https://css-tricks.com/?p=377074</id>
-        <link href="https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/"/>
-        <updated>2023-03-08T14:05:52.000Z</updated>
-        <summary type="html"><![CDATA[CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …
-Creating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mads Stoumann</name>
         </author>
     </entry>
 </feed>
