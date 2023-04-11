@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T00:09:51.835Z</id>
+    <id>urn:2023-04-11T00:09:50.012Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T00:09:51.835Z</updated>
+    <updated>2023-04-11T00:09:50.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Currency Converter GUI with Tkinter]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/"/>
+        <updated>2023-04-10T16:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a set of tools for building windows, frames, buttons, textboxes, and other GUI elements.  It is easy to use and widely available, making it a popular choice for building GUI applications in Python. It is]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleash the Power of React Native to Build Mobile Apps]]></title>
+        <id>https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/</id>
+        <link href="https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/"/>
+        <updated>2023-04-10T15:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into the world of React Native and create stunning mobile applications that work seamlessly on both Android and iOS platforms? We've got you covered! We just published a full React Native course on the freeCodeCamp.org YouTube channel.  Emma Williams created this course. She is]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Reset Hard – How to Reset to Head in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/"/>
+        <updated>2023-04-10T12:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Git is a powerful version control system for tracking and managing changes and files in your source codes and other digital assets. One of the core functionalities of Git is "commits". Commits let you create a snapshot of your code. In other words, it’s like saving your work, but with]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Data Analytics with New Advanced Certifications from Google]]></title>
         <id>https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/</id>
@@ -36,6 +66,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[React Fundamentals – JSX, Components, and Props Explained]]></title>
+        <id>https://www.freecodecamp.org/news/react-fundamentals/</id>
+        <link href="https://www.freecodecamp.org/news/react-fundamentals/"/>
+        <updated>2023-04-07T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[React is a popular JavaScript library for building user interfaces. And in order to create complex and efficient web applications, you'll need to understand its fundamental concepts. In this tutorial, we will be covering three essential concepts of React – JSX, components, and props. To get started, you should be]]></summary>
+        <author>
+            <name>Tanishka Makode</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Conda Remove Environment – How to Delete an Env]]></title>
         <id>https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/</id>
         <link href="https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/"/>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[Multi-dimensional arrays, also known as matrices, are a powerful data structure in Python. They allow you to store and manipulate data in multiple dimensions or axes.  You'll commonly use these types of arrays in fields such as mathematics, statistics, and computer science to represent and process structured data, such]]></summary>
         <author>
             <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is HTTP? Protocol Overview for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-http/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-http/"/>
-        <updated>2023-04-06T16:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Without HTTP (Hypertext Transfer Protocol), the World Wide Web as we know it today would not exist. HTTP is the protocol that enables the transfer of data over the internet, allowing users to access websites and other online resources. There are various ways to design web applications, including GraphQL, SOAP,]]></summary>
-        <author>
-            <name>Rufai Mustapha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java for Beginners – How to Create Your First "Hello World" Program]]></title>
-        <id>https://www.freecodecamp.org/news/hello-world-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/hello-world-in-java/"/>
-        <updated>2023-04-06T16:08:13.000Z</updated>
-        <summary type="html"><![CDATA[If you are learning a programming language, the first thing you do is print something in the terminal/command prompt.  And that first thing is likely printing "Hello World" in the terminal. So that's what I'll show you how to do here if you are learning Java for the first]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering LINQ: Unlock the Power of Advanced C# Data Manipulation]]></title>
-        <id>https://www.freecodecamp.org/news/linq-advanced-c-sharp-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/linq-advanced-c-sharp-tutorial/"/>
-        <updated>2023-04-06T15:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you a C# developer looking to enhance your skills in data manipulation and querying? Do you want to learn how to query and manipulate data from various sources using the power of Language Integrated Query (LINQ)? We are excited to introduce our latest video course on the freeCodeCamp.org YouTube]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Functions in C - Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-functions-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-functions-in-c/"/>
-        <updated>2023-04-06T14:20:12.000Z</updated>
-        <summary type="html"><![CDATA[Functions are an essential component of the C programming language. They help you divide bigger problems into smaller, more manageable chunks of code, making it simpler to create and run programs.  We'll look at functions in C, their syntax, and how to use them successfully in this article. What]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
         </author>
     </entry>
     <entry>
