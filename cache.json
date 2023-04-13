@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377305",
+          "author": "Neal Fennimore",
+          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
+          "publishedOn": "2023-04-12T17:41:53.000Z",
+          "wordCount": 3346,
+          "title": "Passkeys: What the Heck and Why?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
+        },
+        {
           "id": "https://css-tricks.com/?p=377264",
           "author": "Pankaj Parashar",
           "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -20,16 +30,6 @@
           "wordCount": 1861,
           "title": "Some Cross-Browser DevTools Features You Might Not Know",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376950",
-          "author": "Mads Stoumann",
-          "description": "Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …\nMaking Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/",
-          "publishedOn": "2023-03-13T13:23:52.000Z",
-          "wordCount": 3547,
-          "title": "Making Calendars With Accessibility and Internationalization in Mind",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376950"
         }
       ]
     },
@@ -59,7 +59,7 @@
           "description": "If you are a developer who wants to concentrate on delivering a killer application rather than worrying about countless security issues, threat model documents can help you do that. With small architectural changes, we can make these threats manageable and prevent them in the future.",
           "link": "https://smashingmagazine.com/2023/04/protect-app-threat-model-jsondiff/",
           "publishedOn": "2023-04-05T13:00:00.000Z",
-          "wordCount": 6596,
+          "wordCount": 6694,
           "title": "How To Protect Your App With A Threat Model Based On JSONDiff",
           "enclosure": {
             "url": "http://files.smashing.media/articles/protect-app-threat-model-jsondiff/protect-app-threat-model-jsondiff.jpg",
@@ -74,7 +74,7 @@
           "description": "This article highlights non-technical skills like curiosity, observation, empathy, advocacy, visual communication, and collaboration that designers routinely use in their process to make a difference through design. AI can be used to augment designers’ workflow instead of replacing people.",
           "link": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
           "publishedOn": "2023-04-03T10:00:00.000Z",
-          "wordCount": 6163,
+          "wordCount": 6156,
           "title": "Beyond Algorithms: Skills Of Designers That AI Can’t Replicate",
           "enclosure": {
             "url": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg",
@@ -89,7 +89,7 @@
           "description": "With April just around the corner, we have a new collection of desktop and mobile wallpapers waiting for you to celebrate the beginning of the new month. Designed by creatives from all across the globe, the wallpapers come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/",
           "publishedOn": "2023-03-31T08:00:00.000Z",
-          "wordCount": 5462,
+          "wordCount": 5471,
           "title": "Swing Into April (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-23-the-lonliest-house-in-the-world-cal-preview-opt.png",
@@ -104,7 +104,7 @@
           "description": "Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.",
           "link": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
           "publishedOn": "2023-03-30T13:00:00.000Z",
-          "wordCount": 6685,
+          "wordCount": 6686,
           "title": "A Comprehensive Checklist For Running Design Workshops",
           "enclosure": {
             "url": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg",
@@ -119,7 +119,7 @@
           "description": "Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.",
           "link": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
           "publishedOn": "2023-03-29T12:00:00.000Z",
-          "wordCount": 3831,
+          "wordCount": 3838,
           "title": "Fine-Grained Access Handling And Data Management With Row-Level Security",
           "enclosure": {
             "url": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg",
@@ -134,7 +134,7 @@
           "description": "Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.",
           "link": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
           "publishedOn": "2023-03-27T14:00:00.000Z",
-          "wordCount": 3450,
+          "wordCount": 3458,
           "title": "The Best Handoff Is No Handoff",
           "enclosure": {
             "url": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg",
@@ -164,7 +164,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
           "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
           "publishedOn": "2023-03-21T07:00:00.000Z",
-          "wordCount": 12125,
+          "wordCount": 12025,
           "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
@@ -179,7 +179,7 @@
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "publishedOn": "2023-03-20T09:00:00.000Z",
-          "wordCount": 4642,
+          "wordCount": 4646,
           "title": "Free Fonts For Interface Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
@@ -194,7 +194,7 @@
           "description": "Based on an example of a multilingual app that displays street photography images from Unsplash, Jan Amann explores next-intl to implement all internationalization needs in React Server Components and shares a technique for introducing interactivity with a minimalistic client-side footprint.",
           "link": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
           "publishedOn": "2023-03-16T20:00:00.000Z",
-          "wordCount": 4696,
+          "wordCount": 4586,
           "title": "Internationalization In Next.js 13 With React Server Components",
           "enclosure": {
             "url": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg",
@@ -224,7 +224,7 @@
           "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
           "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "publishedOn": "2023-03-14T16:00:00.000Z",
-          "wordCount": 4993,
+          "wordCount": 4994,
           "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
@@ -241,6 +241,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "author": "Beau Carnes",
+          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
+          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "publishedOn": "2023-04-12T20:52:38.000Z",
+          "wordCount": 835,
+          "title": "Use Bash Scripting to Enhance Your Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "author": "Beau Carnes",
+          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "publishedOn": "2023-04-12T20:46:42.000Z",
+          "wordCount": 962,
+          "title": "Create Mobile Apps with Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
+          "author": "Michael Frederick",
+          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
+          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
+          "publishedOn": "2023-04-12T17:46:38.000Z",
+          "wordCount": 1537,
+          "title": "How to Apply Borders to Clip Paths with CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use Conda to create and manage different environments and their packages. It is mostly used for data science and machine learning projects.  In this article, you'll learn how to remove an environment's package using in built Conda commands.  You'll learn the following:   * How",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
+          "publishedOn": "2023-04-12T12:21:34.000Z",
+          "wordCount": 942,
+          "title": "Conda Remove Package - How To Remove Matplotlib in Anaconda",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Arrays and lists are two of the most commonly used data structures in Python.  You can use both arrays and lists to store collections of values, but they have some key differences.  For example, arrays are more efficient than lists for certain operations, such as mathematical operations on",
+          "link": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
+          "publishedOn": "2023-04-12T00:04:30.000Z",
+          "wordCount": 1137,
+          "title": "How to Convert a List to an Array and Back in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/dare.JPG"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
           "author": "Yazdun Fadali",
           "description": "If you've ever worked with form validation in React, you know that it can quickly become messy and overwhelming. This is especially the case if you're just starting out with React.  In this tutorial, I will show you how to create reusable React components that allow you to build",
@@ -256,9 +306,9 @@
           "description": "Networking is engineering, magic, and skilled trade all rolled into one. Getting all the countless pieces to talk nicely – and reliably – to each other is complicated. Troubleshooting unexpected outages is worse.  But, once you've got it all running nicely, well that's when you should really be worried:",
           "link": "https://www.freecodecamp.org/news/network-architecture-basics/",
           "publishedOn": "2023-04-11T19:05:27.000Z",
-          "wordCount": 1439,
-          "title": "Network Architecture Basics",
-          "imageUrl": ""
+          "wordCount": 1456,
+          "title": "Learn Network Architecture Basics for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-brett-sayles-2881232.jpg"
         },
         {
           "id": "https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/",
@@ -289,56 +339,6 @@
           "wordCount": 2504,
           "title": "How to Use Linters and Code Formatters in Your Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/alysa-bajenaru-88IV5AtWjB8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
-          "author": "Mwendwa Bundi Emma",
-          "description": "When you're working with React, you will often times need to render lists of items. With the map() method, you can create new results from your current lists or even showcase all the items in your lists. In this tutorial, you will learn how to use this method to access",
-          "link": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
-          "publishedOn": "2023-04-10T21:39:53.000Z",
-          "wordCount": 1582,
-          "title": "How to Render Lists in React using array.map()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Lists-in-React.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-history-of-ai/",
-          "author": "Edem Gold",
-          "description": "Humans have always been interested in making machines that display intelligence.  The Ancient Egyptians and Romans were awe-struck by religious statues that were manipulated by priests behind the scenes. Medieval lore is packed with tales of items which could move and talk like their human masters. And there have",
-          "link": "https://www.freecodecamp.org/news/the-history-of-ai/",
-          "publishedOn": "2023-04-10T21:35:22.000Z",
-          "wordCount": 4403,
-          "title": "The History of Artificial Intelligence from the 1950s to Today",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tara-winstead-8386440.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
-          "author": "Ashutosh Krishna",
-          "description": "Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a set of tools for building windows, frames, buttons, textboxes, and other GUI elements.  It is easy to use and widely available, making it a popular choice for building GUI applications in Python. It is",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
-          "publishedOn": "2023-04-10T16:44:45.000Z",
-          "wordCount": 3773,
-          "title": "How to Build a Currency Converter GUI with Tkinter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/currency-converter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to dive into the world of React Native and create stunning mobile applications that work seamlessly on both Android and iOS platforms? We've got you covered! We just published a full React Native course on the freeCodeCamp.org YouTube channel.  Emma Williams created this course. She is",
-          "link": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
-          "publishedOn": "2023-04-10T15:37:07.000Z",
-          "wordCount": 1138,
-          "title": "Unleash the Power of React Native to Build Mobile Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/reactnative.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/",
-          "author": "Kolade Chris",
-          "description": "Git is a powerful version control system for tracking and managing changes and files in your source codes and other digital assets. One of the core functionalities of Git is \"commits\". Commits let you create a snapshot of your code. In other words, it’s like saving your work, but with",
-          "link": "https://www.freecodecamp.org/news/git-reset-hard-how-to-reset-to-head-in-git/",
-          "publishedOn": "2023-04-10T12:09:39.000Z",
-          "wordCount": 1504,
-          "title": "Git Reset Hard – How to Reset to Head in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/resetToHead.png"
         }
       ]
     }
