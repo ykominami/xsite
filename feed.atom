@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T00:09:21.404Z</id>
+    <id>urn:2023-04-27T00:10:06.317Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T00:09:21.404Z</updated>
+    <updated>2023-04-27T00:10:06.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[strcmp in C – How to Compare Strings in C]]></title>
+        <id>https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/"/>
+        <updated>2023-04-26T20:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Comparing strings is a common task in most programming languages. In C, you can use the strcmp function to handle string comparisons.  In this article, I will show you practical examples of the strcmp function, and offer insights into how it compares strings, what its return values mean, and]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Ternary Operator – Conditional Operators in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-tenary-operator/</id>
+        <link href="https://www.freecodecamp.org/news/python-tenary-operator/"/>
+        <updated>2023-04-26T15:29:37.000Z</updated>
+        <summary type="html"><![CDATA[You can use conditional operators in Python to execute code based on a predefined condition(s).  In this article, you'll learn how to use the ternary operator in Python. You'll see its syntax along with some practical examples.  What Is the Ternary Operator Used for in Python? The ternary]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Simple Website with HTML, CSS, JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/"/>
+        <updated>2023-04-26T14:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Embark on an exciting journey to master frontend development with this course created by Jess, the expert behind the acclaimed Coder Coder YouTube channel. This comprehensive course on the freeCodeCamp.org YouTube channel is tailored to empower you with the knowledge and skills required to excel in JavaScript, HTML, and CSS,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Changes to an Application – Deployment Strategies Explained]]></title>
+        <id>https://www.freecodecamp.org/news/application-deployment-strategies/</id>
+        <link href="https://www.freecodecamp.org/news/application-deployment-strategies/"/>
+        <updated>2023-04-26T14:41:00.000Z</updated>
+        <summary type="html"><![CDATA[When deploying changes to an application, there are several strategies you can use.  In this article, I'll explain the different strategies with an analogy, and then we'll analyze the benefits and tradeoffs. Deployment Strategies Imagine you are the manager of a popular pizza restaurant that is open 24/7 for]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does M Mean in Regular Expressions? M Flag for RegEx]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/"/>
+        <updated>2023-04-26T14:31:31.000Z</updated>
+        <summary type="html"><![CDATA[In regular expressions, "m" is a flag that signifies multiple lines. So, it is popularly called the "multiline flag". In this article, I will show you what the "m" flag does and how you can use it in both regex engines and JavaScript. What Does the "m" Flag Do? Sometimes,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Infinite Loops When Using useEffect() in ReactJS]]></title>
+        <id>https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/</id>
+        <link href="https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/"/>
+        <updated>2023-04-26T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[The useEffect hook in React has become a common tool for managing side effects in functional components. But there's a common pitfall when using it: the potential for infinite loops. These can cause performance issues and disrupt the intended behavior of components.  In this tutorial, we will explore how]]></summary>
+        <author>
+            <name>Roy Chng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function Declaration vs Function Expression]]></title>
+        <id>https://www.freecodecamp.org/news/function-declaration-vs-function-expression/</id>
+        <link href="https://www.freecodecamp.org/news/function-declaration-vs-function-expression/"/>
+        <updated>2023-04-26T12:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When creating functions, you can use two approaches: declaration and expression. What's the difference? When talking about functions in JavaScript, you would often hear function declarations and function expressions. Though these approaches are almost similar, they have notable differences. We'll look at the differences in this article. I have a]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Java Used For in 2023? The Java Programming Language and Java Platform Strengths]]></title>
         <id>https://www.freecodecamp.org/news/what-is-java-used-for/</id>
@@ -36,36 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Zustand: A Simple and Efficient State Management Library for React]]></title>
-        <id>https://www.freecodecamp.org/news/zustand-course-react-state-management/</id>
-        <link href="https://www.freecodecamp.org/news/zustand-course-react-state-management/"/>
-        <updated>2023-04-25T17:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Modern web applications demand efficient and easy-to-use state management solutions that don't compromise on flexibility or performance. Zustand, a minimalistic state management library for React, offers just that. We just released a course on the freeCodeCamp.org YouTube channel that will help you unlock the full potential of Zustand and create]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upload Files to Amazon S3 with Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/"/>
-        <updated>2023-04-25T16:31:46.000Z</updated>
-        <summary type="html"><![CDATA[File upload is a common feature in a lot of modern applications. These platforms accept different file formats, including jpeg, png, gif, pdf, txt, zip, and mp3.  Some applications will also restrict uploads to a specific file type. For example, when uploading your resume on LinkedIn, you will see]]></summary>
-        <author>
-            <name>Fiyinfoluwa Akinsiku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Interactive Accordion Component with React and GSAP]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/"/>
-        <updated>2023-04-25T15:47:34.000Z</updated>
-        <summary type="html"><![CDATA[As websites become more sophisticated and user expectations continue to rise, web developers must search for ways to create more engaging and interactive user interfaces.  One powerful tool in a developer's arsenal is the accordion component, a versatile and widely-used element found on nearly every website.  In this]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Could UX Be The Key To Unlocking Web3 Mass Adoption?]]></title>
         <id>https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/</id>
         <link href="https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/"/>
@@ -73,46 +113,6 @@
         <summary type="html"><![CDATA[The decentralized web is our new reality, but Web3 UX is shockingly bad. In this article, Pete Boyle addresses the major shortcomings in Web3 adoption and how we might be able to solve them and make the entire ecosystem more user-friendly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pete Boyle)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Language Models and Cybersecurity – What You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/"/>
-        <updated>2023-04-25T01:03:55.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT has had well over a billion visits since its release. Now, what happens when you combine the greatest language learning model of the decade with malicious hacking...what could go wrong? 💀 In this article, we'll explore what artificial intelligence is, its current state, how large language models like ChatGPT]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Current URL with JavaScript – JS Location Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/"/>
-        <updated>2023-04-25T00:34:45.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer, you'll work with JavaScript when building dynamic and interactive web applications. One common task that you'll need to perform is getting the current URL of a web page. In this article, you will learn how to get the current URL using JavaScript's Location object. I'll]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use ChatGPT – Prompts for Data Scientists]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/"/>
-        <updated>2023-04-24T23:01:14.000Z</updated>
-        <summary type="html"><![CDATA[These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Server Side Rendering in JavaScript – SSR vs CSR Explained]]></title>
-        <id>https://www.freecodecamp.org/news/server-side-rendering-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/server-side-rendering-javascript/"/>
-        <updated>2023-04-24T22:12:31.000Z</updated>
-        <summary type="html"><![CDATA[The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared]]></summary>
-        <author>
-            <name>Scott Gary</name>
         </author>
     </entry>
     <entry>
@@ -244,16 +244,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Handoff Is No Handoff]]></title>
-        <id>https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/</id>
-        <link href="https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/"/>
-        <updated>2023-03-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
