@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T00:10:06.317Z</id>
+    <id>urn:2023-04-28T00:10:23.970Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T00:10:06.317Z</updated>
+    <updated>2023-04-28T00:10:23.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git Merge – The Definitive Guide]]></title>
+        <id>https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/</id>
+        <link href="https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/"/>
+        <updated>2023-04-27T17:07:19.000Z</updated>
+        <summary type="html"><![CDATA[By reading this post, you are going to really understand git merge, one of the most common operations you'll perform in your Git repositories. Notes before we start  1. I also created two videos covering the contents of this post. If you wish to     watch]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Scrapy for Web Scraping in Python]]></title>
+        <id>https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/"/>
+        <updated>2023-04-27T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of manually collecting data from websites? Have you ever wished you could automate the process and gather massive amounts of data in a fraction of the time? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to scrape websites with Python]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The REST API Handbook – How to Build, Test, Consume, and Document REST APIs]]></title>
+        <id>https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/</id>
+        <link href="https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/"/>
+        <updated>2023-04-27T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this tutorial we're going to take a deep dive into REST APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a REST API.]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I Enable Square Brackets in RegEx?]]></title>
+        <id>https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/</id>
+        <link href="https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/"/>
+        <updated>2023-04-27T12:31:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn about what square brackets do in regular expressions, how to use them for specifying ranges, and how to match them as a character. What Does Square Bracket Do in RegEx? In regular expressions, square brackets ([ ]) are characters that have a special meaning of]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Target Sizes Cheatsheet]]></title>
+        <id>https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/</id>
+        <link href="https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/"/>
+        <updated>2023-04-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[strcmp in C – How to Compare Strings in C]]></title>
         <id>https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/</id>
@@ -63,46 +113,6 @@
         <summary type="html"><![CDATA[The useEffect hook in React has become a common tool for managing side effects in functional components. But there's a common pitfall when using it: the potential for infinite loops. These can cause performance issues and disrupt the intended behavior of components.  In this tutorial, we will explore how]]></summary>
         <author>
             <name>Roy Chng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Function Declaration vs Function Expression]]></title>
-        <id>https://www.freecodecamp.org/news/function-declaration-vs-function-expression/</id>
-        <link href="https://www.freecodecamp.org/news/function-declaration-vs-function-expression/"/>
-        <updated>2023-04-26T12:11:48.000Z</updated>
-        <summary type="html"><![CDATA[When creating functions, you can use two approaches: declaration and expression. What's the difference? When talking about functions in JavaScript, you would often hear function declarations and function expressions. Though these approaches are almost similar, they have notable differences. We'll look at the differences in this article. I have a]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Java Used For in 2023? The Java Programming Language and Java Platform Strengths]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-java-used-for/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-java-used-for/"/>
-        <updated>2023-04-25T21:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Java is a very popular programming language you can use to create a variety of software applications. It's an object-oriented language that was made to be simple to read, write, and learn.  Millions of developers use Java to create everything from desktop programs to sophisticated web apps. This makes]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Supercharge Your Studying with Python, Anki, and ChatGPT]]></title>
-        <id>https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/</id>
-        <link href="https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/"/>
-        <updated>2023-04-25T20:35:46.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard how students can use ChatGPT [https://chat.openai.com] to cheat on assignments. But we should also talk about what a fantastic study tool it can be.  In this article we'll discuss how you can use ChatGPT to help you study and learn new skills. You'll see how]]></summary>
-        <author>
-            <name>Otavio Ehrenberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Insert into a JavaScript Array at a Specific Index – JS Push]]></title>
-        <id>https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/</id>
-        <link href="https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/"/>
-        <updated>2023-04-25T18:14:43.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript arrays are an important part of the language. They allow you to store and manipulate collections of data. Sometimes, you may need to insert a new element into an array at a specific index. To accomplish this task, you can use the push() method or the splice()  method.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
@@ -234,16 +244,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Grained Access Handling And Data Management With Row-Level Security]]></title>
-        <id>https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/</id>
-        <link href="https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/"/>
-        <updated>2023-03-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
         </author>
     </entry>
 </feed>
