@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T00:09:57.373Z</id>
+    <id>urn:2023-05-03T00:10:04.288Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T00:09:57.373Z</updated>
+    <updated>2023-05-03T00:10:04.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with NodeJS – a Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/get-started-with-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-nodejs/"/>
+        <updated>2023-05-02T18:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks! 👋 Over the past couple weeks, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what can you do with it.  We will]]></summary>
+        <author>
+            <name>Krish Jaiswal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding VPC Architecture – How to Secure AWS EC2 Instances]]></title>
+        <id>https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/</id>
+        <link href="https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/"/>
+        <updated>2023-05-02T13:33:22.000Z</updated>
+        <summary type="html"><![CDATA[AWS Virtual Private Clouds (VPCs) are the organizing structure of most AWS network operations. Without a clear understanding of how they work, it'll be hard to get security and efficiency quite right.  But before talking about VPCs directly, I'm going to take a minute or two to refresh your]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SSH? SSH Meaning in Linux]]></title>
+        <id>https://www.freecodecamp.org/news/ssh-meaning-in-linux/</id>
+        <link href="https://www.freecodecamp.org/news/ssh-meaning-in-linux/"/>
+        <updated>2023-05-02T13:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Secure Shell (SSH) is a widely used network protocol that provides a secure way to access remote servers and computers.  In Linux, SSH is an essential tool for remote administration and file transfer. In this article, we will go over the meaning of SSH in Linux, its history, features,]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs]]></title>
+        <id>https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/</id>
+        <link href="https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/"/>
+        <updated>2023-05-02T13:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this tutorial we're going to take a deep dive into GraphQL APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a GraphQL API.]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Stress Tester Tool for Debugging Your Code]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/"/>
+        <updated>2023-05-02T08:57:35.000Z</updated>
+        <summary type="html"><![CDATA[I recently wrote about how competitive programmers debug their solutions during competitions [/news/debugging-like-competitive-programmers/]. We take advantage of randomization and the computing power in the devices we use daily.  That article was selected as one of the winners of the DebuggingFeb Writeathon [https://townhall.hashnode.com/debuggingfeb-writeathon-winners] and got a lot of visibility from]]></summary>
+        <author>
+            <name>Alberto Gonzalez Rosales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Routing System for a PHP App from Scratch]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/"/>
+        <updated>2023-05-02T08:36:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’re just at the beginning of your journey in PHP development, chances are that you use complete file names in the URL to navigate your application, like  server/contact.php. No worries, we all started that way, and it’s how we learn. Today, I want to help you improve how]]></summary>
+        <author>
+            <name>Abel Lifaefi Mbula</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object Oriented Programming Basics – OOP, Classes, and Objects in Java]]></title>
+        <id>https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/"/>
+        <updated>2023-05-02T07:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Java is a powerful programming language to develop software in. And if you're trying to learn it, that's great. The first thing you'll need to know to develop software in Java is Object Oriented Programming, or OOP for short. Now if you're asking yourself, "What is OOP?" don't worry. We'll]]></summary>
+        <author>
+            <name>Avdhoot Fulsundar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YAML Commenting – How to Add a Multiline Comment in YAML]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/</id>
@@ -46,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pub/Sub in Redis – How to Use the Publish/Subscribe Messaging Pattern]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/"/>
-        <updated>2023-04-28T14:33:25.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on an application that needs to be easily maintainable, scalable, and performant, the Publish/Subscribe messaging pattern is a good choice. The idea behind it is simple, but powerful. We have senders called publishers.  Their sole role is to send or publish messages. They don’t care about]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Intruders – Top Ways Hackers Can Breach Your Smartphone’s Security]]></title>
-        <id>https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/</id>
-        <link href="https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/"/>
-        <updated>2023-04-28T14:16:33.000Z</updated>
-        <summary type="html"><![CDATA[Smartphones are integral to our lives, making them prime targets for hackers. In this article, we will go through 7 ways hackers can gain access to your smartphone and how to protect against these attacks. Smartphones have become an essential part of our daily lives with instant access to information]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Punct in RegEx? How to Match All Punctuation Marks in Regular Expressions]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/"/>
-        <updated>2023-04-28T11:28:37.000Z</updated>
-        <summary type="html"><![CDATA[In regular expressions, "punct" means punctuation marks. It is all non-word and non-space characters. "Punct" is a predefined character class in regular expressions, and you can use it in any regex flavor that supports it. The Punct character class is denoted by \p{Punct} or simply \p{P}. It matches any punctuation]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Write Better CSS By Borrowing Ideas From JavaScript Functions]]></title>
         <id>https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/</id>
         <link href="https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/"/>
@@ -83,46 +123,6 @@
         <summary type="html"><![CDATA[Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[strcmp in C – How to Compare Strings in C]]></title>
-        <id>https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/"/>
-        <updated>2023-04-27T20:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Comparing strings is a common task in most programming languages. In C, you can use the strcmp function to handle string comparisons.  In this article, I will show you practical examples of the strcmp function, and offer insights into how it compares strings, what its return values mean, and]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Merge – The Definitive Guide]]></title>
-        <id>https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/</id>
-        <link href="https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/"/>
-        <updated>2023-04-27T17:07:19.000Z</updated>
-        <summary type="html"><![CDATA[By reading this post, you are going to really understand git merge, one of the most common operations you'll perform in your Git repositories. Notes before we start  1. I also created two videos covering the contents of this post. If you wish to     watch]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Scrapy for Web Scraping in Python]]></title>
-        <id>https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/"/>
-        <updated>2023-04-27T15:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Are you tired of manually collecting data from websites? Have you ever wished you could automate the process and gather massive amounts of data in a fraction of the time? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to scrape websites with Python]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The REST API Handbook – How to Build, Test, Consume, and Document REST APIs]]></title>
-        <id>https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/</id>
-        <link href="https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/"/>
-        <updated>2023-04-27T13:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this tutorial we're going to take a deep dive into REST APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a REST API.]]></summary>
-        <author>
-            <name>Germán Cocca</name>
         </author>
     </entry>
     <entry>
@@ -224,16 +224,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[If you are a developer who wants to concentrate on delivering a killer application rather than worrying about countless security issues, threat model documents can help you do that. With small architectural changes, we can make these threats manageable and prevent them in the future.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zack Grossbart &amp; Terry Yao)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Algorithms: Skills Of Designers That AI Can’t Replicate]]></title>
-        <id>https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/</id>
-        <link href="https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/"/>
-        <updated>2023-04-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article highlights non-technical skills like curiosity, observation, empathy, advocacy, visual communication, and collaboration that designers routinely use in their process to make a difference through design. AI can be used to augment designers’ workflow instead of replacing people.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
         </author>
     </entry>
 </feed>
