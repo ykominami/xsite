@@ -1,98 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T00:10:04.288Z</id>
+    <id>urn:2023-05-04T00:09:07.463Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T00:10:04.288Z</updated>
+    <updated>2023-05-04T00:09:07.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with NodeJS – a Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/get-started-with-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-nodejs/"/>
-        <updated>2023-05-02T18:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Hello folks! 👋 Over the past couple weeks, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what can you do with it.  We will]]></summary>
+        <title type="html"><![CDATA[How to Use Redis in Your PHP Apps]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-redis-with-php/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-redis-with-php/"/>
+        <updated>2023-05-03T19:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Redis is a data store that stores data primarily in memory. It's faster than traditional databases, and has grown quite popular. In this tutorial, you'll learn the basics of how Redis works, when to use it, how to install it on your device, and how to use it as a]]></summary>
         <author>
-            <name>Krish Jaiswal</name>
+            <name>Zubair Idris Aweda</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding VPC Architecture – How to Secure AWS EC2 Instances]]></title>
-        <id>https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/</id>
-        <link href="https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/"/>
-        <updated>2023-05-02T13:33:22.000Z</updated>
-        <summary type="html"><![CDATA[AWS Virtual Private Clouds (VPCs) are the organizing structure of most AWS network operations. Without a clear understanding of how they work, it'll be hard to get security and efficiency quite right.  But before talking about VPCs directly, I'm going to take a minute or two to refresh your]]></summary>
+        <title type="html"><![CDATA[How to Use Pointers in C Programming]]></title>
+        <id>https://www.freecodecamp.org/news/pointers-in-c-programming/</id>
+        <link href="https://www.freecodecamp.org/news/pointers-in-c-programming/"/>
+        <updated>2023-05-03T19:46:04.000Z</updated>
+        <summary type="html"><![CDATA[If you are learning C programming, you have probably heard the term "pointer" before.  Pointers are one of the most important and powerful features of the C programming language. They allow us to manipulate memory directly, which can be very useful in many programming scenarios. In C, a pointer]]></summary>
         <author>
-            <name>David Clinton</name>
+            <name>Valentine Gatwiri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is SSH? SSH Meaning in Linux]]></title>
-        <id>https://www.freecodecamp.org/news/ssh-meaning-in-linux/</id>
-        <link href="https://www.freecodecamp.org/news/ssh-meaning-in-linux/"/>
-        <updated>2023-05-02T13:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Secure Shell (SSH) is a widely used network protocol that provides a secure way to access remote servers and computers.  In Linux, SSH is an essential tool for remote administration and file transfer. In this article, we will go over the meaning of SSH in Linux, its history, features,]]></summary>
+        <title type="html"><![CDATA[How to Write More Efficient JavaScript Conditions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions/"/>
+        <updated>2023-05-03T17:44:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in JavaScript, conditions are important for developing a functional application.  Conditional statements are important because you use them as "validators" which can either return truth or false. You can then use them to trigger further actions within the program. But with many long, messy if statements]]></summary>
+        <author>
+            <name>Eesa Zahed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a String is Empty or Null in JavaScript – JS Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/check-if-string-is-empty-or-null-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/check-if-string-is-empty-or-null-javascript/"/>
+        <updated>2023-05-03T17:26:58.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, it's important to check whether a string is empty or null before performing any operation. Trying to operate on an empty or null string can lead to errors, bugs, and unexpected results. In this tutorial, we'll explore the different ways of checking whether a string is empty or]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SOLID? Principles for Better Software Design]]></title>
+        <id>https://www.freecodecamp.org/news/solid-principles-for-better-software-design/</id>
+        <link href="https://www.freecodecamp.org/news/solid-principles-for-better-software-design/"/>
+        <updated>2023-05-03T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The SOLID principles are a set of guidelines for writing high-quality, maintainable, and scalable software.  They were introduced by Robert C. Martin in his 2000 paper “Design Principles and Design Patterns” [https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf] to help developers write software that is easy to understand, modify, and extend.  These concepts were]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Regression Analysis for Machine Learning]]></title>
+        <id>https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/"/>
+        <updated>2023-05-03T13:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to embark on a fascinating journey into the world of machine learning? Look no further!  We just posted a machine learning course for beginners on the freeCodeCamp.org YouTube channel. The course focusses on regression analysis. Ayush Singh is a data scientist and popular course creator. He]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Copy a Directory in Linux – Use the cp Command to Copy a Folder]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/"/>
+        <updated>2023-05-03T13:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Often times you'll want to copy a folder in Linux to perform specific tasks – maybe for backup, sharing, editing, an so on. This is a frequent task that you can perform using the cp command.  The cp command is a simple yet powerful command you can use to]]></summary>
         <author>
             <name>Shittu Olumide</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs]]></title>
-        <id>https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/</id>
-        <link href="https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/"/>
-        <updated>2023-05-02T13:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this tutorial we're going to take a deep dive into GraphQL APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a GraphQL API.]]></summary>
+        <title type="html"><![CDATA[XML Formatting in Notepad++ – How to Format XML Files]]></title>
+        <id>https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/</id>
+        <link href="https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/"/>
+        <updated>2023-05-03T12:41:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with XML files in Notepad++, formatting them manually could be a cumbersome task especially if the XML files are large. In this article, I will show you how to format your XML files in a few clicks. I will also show you how to check that the]]></summary>
         <author>
-            <name>Germán Cocca</name>
+            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Stress Tester Tool for Debugging Your Code]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/"/>
-        <updated>2023-05-02T08:57:35.000Z</updated>
-        <summary type="html"><![CDATA[I recently wrote about how competitive programmers debug their solutions during competitions [/news/debugging-like-competitive-programmers/]. We take advantage of randomization and the computing power in the devices we use daily.  That article was selected as one of the winners of the DebuggingFeb Writeathon [https://townhall.hashnode.com/debuggingfeb-writeathon-winners] and got a lot of visibility from]]></summary>
+        <title type="html"><![CDATA[AWS Cloud Practitioner Salary – 2023 Amazon Certification Guide]]></title>
+        <id>https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/</id>
+        <link href="https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/"/>
+        <updated>2023-05-03T06:51:34.000Z</updated>
+        <summary type="html"><![CDATA[More and more companies are making a shift towards cloud services and cloud-based systems these days, resulting in cloud computing being one of the most in-demand tech skills for 2023. AWS is currently the most popular cloud service provider, as it owns around 33% of the cloud market. Companies and]]></summary>
         <author>
-            <name>Alberto Gonzalez Rosales</name>
+            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Routing System for a PHP App from Scratch]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/"/>
-        <updated>2023-05-02T08:36:11.000Z</updated>
-        <summary type="html"><![CDATA[If you’re just at the beginning of your journey in PHP development, chances are that you use complete file names in the URL to navigate your application, like  server/contact.php. No worries, we all started that way, and it’s how we learn. Today, I want to help you improve how]]></summary>
+        <title type="html"><![CDATA[How to Get Started with NodeJS – a Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/get-started-with-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-nodejs/"/>
+        <updated>2023-05-02T18:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks! 👋 Recently, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what you can do with it.  We will be covering all the]]></summary>
         <author>
-            <name>Abel Lifaefi Mbula</name>
+            <name>Krish Jaiswal</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Object Oriented Programming Basics – OOP, Classes, and Objects in Java]]></title>
-        <id>https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/"/>
-        <updated>2023-05-02T07:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Java is a powerful programming language to develop software in. And if you're trying to learn it, that's great. The first thing you'll need to know to develop software in Java is Object Oriented Programming, or OOP for short. Now if you're asking yourself, "What is OOP?" don't worry. We'll]]></summary>
+        <title type="html"><![CDATA[Smashing Podcast Episode 60 With Mei Zhang: What Is Design Storytelling?]]></title>
+        <id>https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/</id>
+        <link href="https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/"/>
+        <updated>2023-05-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re talking about the process of design. How do you build a process to enable your best work? Vitaly Friedman talks to designer Mei Zhang to find out.]]></summary>
         <author>
-            <name>Avdhoot Fulsundar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YAML Commenting – How to Add a Multiline Comment in YAML]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/"/>
-        <updated>2023-05-01T18:28:28.000Z</updated>
-        <summary type="html"><![CDATA[You can use a YAML file to store data in a format that can be easily read and understood by humans. It is a data serialization language [/news/what-is-yaml-the-yml-file-format/#intro:~:text=Serialization%20is%20a%20process%20where%20one%20application%20or%20service%20that%20has%20different%20data%20structures%20and%20is%20written%20in%20a%20different%20set%20of%20technologies%20can%20transfer%20data%20to%20another%20application%20using%20a%20standard%20format.]  that is often used for configurat]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python from Harvard University]]></title>
-        <id>https://www.freecodecamp.org/news/learn-python-from-harvard-university/</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-from-harvard-university/"/>
-        <updated>2023-05-01T14:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to embark on a journey to learn one of the most popular programming languages in the world? Introducing Harvard University's CS50P: Introduction to Programming with Python, a comprehensive video course tailored to teach Python programming from scratch. Taught by the renowned Dr. David J. Malan, this course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
     <entry>
@@ -103,16 +123,6 @@
         <summary type="html"><![CDATA[May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/"/>
-        <updated>2023-04-28T14:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Hoisting is a concept or behavior in JavaScript where the declaration of a function, variable, or class goes to the top of the scope they were defined in. What does this mean? Hoisting is a concept you may find in some programming languages (such as JavaScript) and not in others.]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
