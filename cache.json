@@ -29,12 +29,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
+          "author": "hello@smashingmagazine.com (Shane Duggan)",
+          "description": "The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.",
+          "link": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
+          "publishedOn": "2023-05-09T09:00:00.000Z",
+          "wordCount": 6385,
+          "title": "How To Use AI Tools To Skyrocket Your Programming Productivity",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-tools-skyrocket-programming-productivity/ai-tools-skyrocket-programming-productivity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-tools-skyrocket-programming-productivity/ai-tools-skyrocket-programming-productivity.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
           "author": "hello@smashingmagazine.com (Jessica Joseph)",
           "description": "Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.",
           "link": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
           "publishedOn": "2023-05-08T13:00:00.000Z",
-          "wordCount": 4540,
+          "wordCount": 4437,
           "title": "The Safest Way To Hide Your API Keys When Using React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg",
@@ -49,7 +64,7 @@
           "description": "This is the story of how one little octopus, explaining one beginner’s concept, carried such weight and power for Kylo that it drove his work and led him to research something that is really quite silly. And yet, it transformed how he learned to write — and finally understand — JavaScript.",
           "link": "https://smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
           "publishedOn": "2023-05-05T09:00:00.000Z",
-          "wordCount": 4704,
+          "wordCount": 4700,
           "title": "Learning JavaScript With Imagination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg",
@@ -79,7 +94,7 @@
           "description": "We’re talking about the process of design. How do you build a process to enable your best work? Vitaly Friedman talks to designer Mei Zhang to find out.",
           "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
           "publishedOn": "2023-05-02T12:00:00.000Z",
-          "wordCount": 8960,
+          "wordCount": 8961,
           "title": "Smashing Podcast Episode 60 With Mei Zhang: How Do You Design A Design Process?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-60/smashing-podcast-episode-60.png",
@@ -94,7 +109,7 @@
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
           "publishedOn": "2023-04-30T15:00:00.000Z",
-          "wordCount": 5103,
+          "wordCount": 5093,
           "title": "Make Your May Magnificent (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png",
@@ -109,7 +124,7 @@
           "description": "Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.",
           "link": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
           "publishedOn": "2023-04-28T08:00:00.000Z",
-          "wordCount": 4228,
+          "wordCount": 4221,
           "title": "Write Better CSS By Borrowing Ideas From JavaScript Functions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg",
@@ -124,7 +139,7 @@
           "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
           "link": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
           "publishedOn": "2023-04-27T12:00:00.000Z",
-          "wordCount": 4010,
+          "wordCount": 4013,
           "title": "Accessible Target Sizes Cheatsheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png",
@@ -139,7 +154,7 @@
           "description": "In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.",
           "link": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
           "publishedOn": "2023-04-24T08:00:00.000Z",
-          "wordCount": 5041,
+          "wordCount": 5031,
           "title": "The Potentially Dangerous Non-Accessibility Of Cookie Notices",
           "enclosure": {
             "url": "http://files.smashing.media/articles/potentially-dangerous-accessibility-cookie-notices/potentially-dangerous-non-accessibility-cookie-notices.jpg",
@@ -154,7 +169,7 @@
           "description": "In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.",
           "link": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
           "publishedOn": "2023-04-21T10:00:00.000Z",
-          "wordCount": 6231,
+          "wordCount": 6236,
           "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
           "enclosure": {
             "url": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg",
@@ -184,7 +199,7 @@
           "description": "In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.",
           "link": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
           "publishedOn": "2023-04-19T20:00:00.000Z",
-          "wordCount": 5561,
+          "wordCount": 5666,
           "title": "Color Mechanics In UI Kits",
           "enclosure": {
             "url": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg",
@@ -199,7 +214,7 @@
           "description": "In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.",
           "link": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
           "publishedOn": "2023-04-18T12:00:00.000Z",
-          "wordCount": 10305,
+          "wordCount": 10300,
           "title": "Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-59/smashing-podcast-episode-59.png",
@@ -246,6 +261,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
+          "author": "Arunachalam B",
+          "description": "Building and managing applications on the cloud can be a daunting task. This is especially true when it comes to handling different environments, scaling, and deploying updates.  But there's a service in AWS that can simplify this. AWS Elastic Beanstalk is here to make your life easier. It provides",
+          "link": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
+          "publishedOn": "2023-05-09T21:34:49.000Z",
+          "wordCount": 1922,
+          "title": "How to Use Elastic Beanstalk to Deploy a Node.js App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Elastic-Beanstalk---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/",
+          "author": "TAPAS ADHIKARY",
+          "description": "JavaScript is a popular programming language for building web, mobile, and desktop applications.  There are many frameworks and libraries that have been built around JavaScript, with more likely being developed even as you are reading this article. If you plan to start learning JavaScript, some of them are worth",
+          "link": "https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/",
+          "publishedOn": "2023-05-09T16:05:03.000Z",
+          "wordCount": 2159,
+          "title": "How to Build a Beginner-Friendly JavaScript Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/freeCodeCamp-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
+          "author": "Manoel Cortes Mendez",
+          "description": "In this article, I compiled 900 online courses offered by the 60 best universities in the world for studying computer science in 2023. I built the list using a data-driven approach. You can find my methodology below. But if you’d rather go straight to the course list, click here. Methodology",
+          "link": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
+          "publishedOn": "2023-05-09T13:03:00.000Z",
+          "wordCount": 9870,
+          "title": "900 Free Computer Science Courses from the World’s Top Universities",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2020/04/cs-top-universities-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-ethical-hacking/",
+          "author": "Hillary Nyakundi",
+          "description": "As technology continues to advance, cyber-threats are becoming the norm. Cyber-criminals are constantly trying to find ways to exploit systems and networks, all with the purpose of stealing sensitive information or causing damage. These challenges in the tech space have led to the emergence of the term ethical hacking. The",
+          "link": "https://www.freecodecamp.org/news/what-is-ethical-hacking/",
+          "publishedOn": "2023-05-09T00:06:39.000Z",
+          "wordCount": 2852,
+          "title": "What is Ethical Hacking? A Cybersecurity Definition of Ethical Hackers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Opensource--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/cybersecurity-professional-certificate-by-google/",
           "author": "Eamonn Cottrell",
           "description": "Google has released a new professional certificate in Cybersecurity. The  announcement [https://blog.google/outreach-initiatives/grow-with-google/google-cybersecurity-career-certificate/]  came on May 4th, 2023 and marks the 6th topical branch in their continually expanding certificate program. It follows five other successful entry-level certificate programs in IT Support, Data Analytics, Digital Marketing & E-commerce, Project Management",
@@ -286,6 +341,16 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/xor-in-python.png"
         },
         {
+          "id": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
+          "author": "Pacifique LINJANJA",
+          "description": "In software development, design patterns are reusable solutions to common problems that developers encounter. These patterns provide a structure for organizing code that makes it more maintainable, modular, and scalable.  In modern backend development, design patterns are crucial for building robust and flexible systems that can adapt to changing",
+          "link": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
+          "publishedOn": "2023-05-08T15:44:00.000Z",
+          "wordCount": 5454,
+          "title": "Design Patterns for Modern Backend Development – with Example Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/maxwell-nelson-taiuG8CPKAQ-unsplash.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai/",
           "author": "Edem Gold",
           "description": "> Our intelligence is what makes us human, and AI is an extension of that quality\" – Yan LeCun Since the advent of Neural Networks (also known as artificial neural networks), the AI industry has enjoyed unparalleled success. Neural Networks are the driving force behind modern AI systems and they",
@@ -294,56 +359,6 @@
           "wordCount": 3801,
           "title": "The Brain-Inspired Approach to AI – Explained for Developers",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tara-winstead-8386365.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/usestate-hook-3-different-examples/",
-          "author": "Mwendwa Bundi Emma",
-          "description": "One of the most well-known React hooks is the useState() hook. It lets you add a state variable to your component. The useState() hook can conveniently hold strings, arrays, numbers, objects and much more. In this article, we are going to learn about the useState() hook and demonstrate its use",
-          "link": "https://www.freecodecamp.org/news/usestate-hook-3-different-examples/",
-          "publishedOn": "2023-05-08T14:11:06.000Z",
-          "wordCount": 1937,
-          "title": "How to Use the useState() Hook in React – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/usestate---hook-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/kotlin-vs-java/",
-          "author": "Shittu Olumide",
-          "description": "Technology advances very quickly these days, and there's always a new programming language or tool to learn.  You may have heard developers discussing the merits of and differences between two popular programming languages – Java and Kotlin.  So what's the difference between them? Which one should you learn?",
-          "link": "https://www.freecodecamp.org/news/kotlin-vs-java/",
-          "publishedOn": "2023-05-08T13:48:47.000Z",
-          "wordCount": 1850,
-          "title": "Kotlin VS Java – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Kotlin-VS-Java---What-s-the-Difference.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
-          "author": "Pacifique LINJANJA",
-          "description": "In software development, design patterns are reusable solutions to common problems that developers encounter. These patterns provide a structure for organizing code that makes it more maintainable, modular, and scalable.  In modern backend development, design patterns are crucial for building robust and flexible systems that can adapt to changing",
-          "link": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
-          "publishedOn": "2023-05-06T12:44:00.000Z",
-          "wordCount": 5454,
-          "title": "Design Patterns for Modern Backend Development – with Example Use Cases",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/maxwell-nelson-taiuG8CPKAQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/",
-          "author": "Njoku Samson Ebere",
-          "description": "Artificial Intelligence (AI) has been making waves lately, with ChatGPT [https://platform.openai.com/] revolutionizing the internet with the chat completion [https://platform.openai.com/docs/guides/chat] functionality.  You can do a lot with it: drafting an email or other piece of writing, answering questions about a set of documents, creating conversational agents, giving your software a",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/",
-          "publishedOn": "2023-05-05T22:08:13.000Z",
-          "wordCount": 3953,
-          "title": "How to Build an AI-Powered ChatBot with OpenAI, ChatGPT, Node.js, and React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-sanket-mishra-16629368.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/provision-nexus-sonatype-oss-on-an-orange-pi-5-with-ansible/",
-          "author": "Jose Vicente Nunez",
-          "description": "Nexus 3 OSS is an Open Source [https://github.com/sonatype/nexus-public]  artifact repository manager [https://www.sonatype.com/products/repository-oss]  that can handle multiple formats like container images, Python PIP, Java jar, and many others. Why have an on-premise artifact manager? There are many reasons for it:  * Use your private infrastructure: You may have",
-          "link": "https://www.freecodecamp.org/news/provision-nexus-sonatype-oss-on-an-orange-pi-5-with-ansible/",
-          "publishedOn": "2023-05-05T21:34:24.000Z",
-          "wordCount": 2414,
-          "title": "How to Provision a Nexus Sonatype OSS on an Orange PI 5 with Ansible",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cropped_museum.jpeg"
         }
       ]
     }
