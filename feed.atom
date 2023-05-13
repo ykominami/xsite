@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T00:09:30.265Z</id>
+    <id>urn:2023-05-13T00:09:05.240Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T00:09:30.265Z</updated>
+    <updated>2023-05-13T00:09:05.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced Indexing Strategies in PostgreSQL]]></title>
+        <id>https://www.freecodecamp.org/news/postgresql-indexing-strategies/</id>
+        <link href="https://www.freecodecamp.org/news/postgresql-indexing-strategies/"/>
+        <updated>2023-05-12T20:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Greedy Algorithm? Examples of Greedy Algorithms]]></title>
+        <id>https://www.freecodecamp.org/news/greedy-algorithms/</id>
+        <link href="https://www.freecodecamp.org/news/greedy-algorithms/"/>
+        <updated>2023-05-12T17:57:48.000Z</updated>
+        <summary type="html"><![CDATA[According to the Oxford English Dictionary, "greedy" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the]]></summary>
+        <author>
+            <name>Tantoluwa Heritage Alabi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Linked List Work? A Beginner's Guide to Linked Lists]]></title>
+        <id>https://www.freecodecamp.org/news/how-linked-lists-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-linked-lists-work/"/>
+        <updated>2023-05-12T17:45:27.000Z</updated>
+        <summary type="html"><![CDATA[A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build]]></summary>
+        <author>
+            <name>Palistha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Sticky Menus: UX Guidelines]]></title>
+        <id>https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/</id>
+        <link href="https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/"/>
+        <updated>2023-05-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Number Systems Work in Java – Decimal, Binary, Octal, and Hexadecimal Explained]]></title>
         <id>https://www.freecodecamp.org/news/number-systems-in-java/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[Are you responsible for the safety and reliability of IT infrastructure and applications? You'll absolutely need regular and accurate assessments.  Effective risk assessments are about establishing how far your organization's IT stack can be stretched before it breaks.  From a big-picture perspective, you'll need to think about how]]></summary>
         <author>
             <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Engineer – Career Guide]]></title>
-        <id>https://www.freecodecamp.org/news/full-stack-engineer-career-guide/</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-engineer-career-guide/"/>
-        <updated>2023-05-10T17:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Full-stack engineering roles have been growing in popularity over the last decade and are among the most sought-after positions in the tech job market. But what exactly are full-stack engineers? What do they do on a day-to-day basis? And how can you become a full-stack engineer yourself? In this article,]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover the Power of Functional Programming with Elixir]]></title>
-        <id>https://www.freecodecamp.org/news/functional-programming-with-elixir/</id>
-        <link href="https://www.freecodecamp.org/news/functional-programming-with-elixir/"/>
-        <updated>2023-05-10T15:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Transform your development approach and embrace the power of Elixir and functional programming with our new beginner's course. It is designed to help you build scalable, maintainable applications like never before. We just published a new course on the freeCodeCamp channel that will teach you how to build your own]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SQL for Efficient Data Storage and Retrieval]]></title>
-        <id>https://www.freecodecamp.org/news/learn-sql-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-sql-full-course/"/>
-        <updated>2023-05-10T15:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the power of data with SQL! Master one of the most in-demand skill in the data-driven world and supercharge your career with our new video course. We just released a comprehensive video course on the freeCodeCamp.org YouTube channel that will take you on a journey from understanding the basics]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -263,17 +273,6 @@
         <summary type="html"><![CDATA[Have you ever wondered if things could have been done differently? But not sure how? Well, then, do not fall in love with the solution, but fall in love with the problem! Here’s an article to dive deep into how design thinking could do just that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Krithika Subramanian)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passkeys: What the Heck and Why?]]></title>
-        <id>https://css-tricks.com/?p=377305</id>
-        <link href="https://css-tricks.com/passkeys-what-the-heck-and-why/"/>
-        <updated>2023-04-12T17:41:53.000Z</updated>
-        <summary type="html"><![CDATA[These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …
-Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Neal Fennimore</name>
         </author>
     </entry>
 </feed>

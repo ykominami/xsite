@@ -10,18 +10,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=377305",
-          "author": "Neal Fennimore",
-          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
-          "publishedOn": "2023-04-12T17:41:53.000Z",
-          "wordCount": 3346,
-          "title": "Passkeys: What the Heck and Why?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -29,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
+          "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "publishedOn": "2023-05-12T11:00:00.000Z",
+          "wordCount": 3900,
+          "title": "Designing Sticky Menus: UX Guidelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
           "author": "hello@smashingmagazine.com (Rachel How)",
           "description": "In this guide, we’ll explore efficient tools to save time and speed up your workflow. Focus on what you do best — designing high-quality work, and let these tools handle the rest!",
           "link": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
           "publishedOn": "2023-05-11T14:00:00.000Z",
-          "wordCount": 4491,
+          "wordCount": 4492,
           "title": "How To Boost Your Design Workflow With Setapp",
           "enclosure": {
             "url": "http://files.smashing.media/articles/boost-design-workflow-time-saving-tools-setapp/boost-design-workflow-setapp.jpg",
@@ -49,7 +53,7 @@
           "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
           "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 6073,
+          "wordCount": 6079,
           "title": "A Guide To Redux Toolkit With TypeScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
@@ -64,7 +68,7 @@
           "description": "The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.",
           "link": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
           "publishedOn": "2023-05-09T09:00:00.000Z",
-          "wordCount": 6389,
+          "wordCount": 6394,
           "title": "How To Use AI Tools To Skyrocket Your Programming Productivity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-tools-skyrocket-programming-productivity/ai-tools-skyrocket-programming-productivity.jpg",
@@ -79,7 +83,7 @@
           "description": "Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.",
           "link": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
           "publishedOn": "2023-05-08T13:00:00.000Z",
-          "wordCount": 4443,
+          "wordCount": 4446,
           "title": "The Safest Way To Hide Your API Keys When Using React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg",
@@ -94,7 +98,7 @@
           "description": "This is the story of how one little octopus, explaining one beginner’s concept, carried such weight and power for Kylo that it drove his work and led him to research something that is really quite silly. And yet, it transformed how he learned to write — and finally understand — JavaScript.",
           "link": "https://smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
           "publishedOn": "2023-05-05T09:00:00.000Z",
-          "wordCount": 4709,
+          "wordCount": 4704,
           "title": "Learning JavaScript With Imagination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg",
@@ -109,7 +113,7 @@
           "description": "Highlighting the advantages of self-hosted solutions over cloud-based alternatives and exploring collaborative password management and more, P demonstrates how to organize convenient and secure password management in a company.",
           "link": "https://smashingmagazine.com/2023/05/effective-password-management/",
           "publishedOn": "2023-05-04T12:00:00.000Z",
-          "wordCount": 4612,
+          "wordCount": 4613,
           "title": "The Growing Need For Effective Password Management",
           "enclosure": {
             "url": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg",
@@ -124,7 +128,7 @@
           "description": "We’re talking about the process of design. How do you build a process to enable your best work? Vitaly Friedman talks to designer Mei Zhang to find out.",
           "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
           "publishedOn": "2023-05-02T12:00:00.000Z",
-          "wordCount": 8972,
+          "wordCount": 8973,
           "title": "Smashing Podcast Episode 60 With Mei Zhang: How Do You Design A Design Process?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-60/smashing-podcast-episode-60.png",
@@ -139,7 +143,7 @@
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
           "publishedOn": "2023-04-30T15:00:00.000Z",
-          "wordCount": 5096,
+          "wordCount": 5105,
           "title": "Make Your May Magnificent (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png",
@@ -154,7 +158,7 @@
           "description": "Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.",
           "link": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
           "publishedOn": "2023-04-28T08:00:00.000Z",
-          "wordCount": 4231,
+          "wordCount": 4235,
           "title": "Write Better CSS By Borrowing Ideas From JavaScript Functions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg",
@@ -169,7 +173,7 @@
           "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
           "link": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
           "publishedOn": "2023-04-27T12:00:00.000Z",
-          "wordCount": 4016,
+          "wordCount": 4019,
           "title": "Accessible Target Sizes Cheatsheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png",
@@ -184,7 +188,7 @@
           "description": "In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.",
           "link": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
           "publishedOn": "2023-04-24T08:00:00.000Z",
-          "wordCount": 5040,
+          "wordCount": 5041,
           "title": "The Potentially Dangerous Non-Accessibility Of Cookie Notices",
           "enclosure": {
             "url": "http://files.smashing.media/articles/potentially-dangerous-accessibility-cookie-notices/potentially-dangerous-non-accessibility-cookie-notices.jpg",
@@ -199,7 +203,7 @@
           "description": "In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.",
           "link": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
           "publishedOn": "2023-04-21T10:00:00.000Z",
-          "wordCount": 6240,
+          "wordCount": 6342,
           "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
           "enclosure": {
             "url": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg",
@@ -214,7 +218,7 @@
           "description": "Dockerizing your Node.js apps can lead to smashing success—offering consistency, easy debugging, and hassle-free dependency management. When you host this container on Kinsta, you also benefit from high-speed performance, robust security, and top-notch scalability. By combining these two, you'll surely have a whale of a time as you sail smoothly through the development seas.",
           "link": "https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
           "publishedOn": "2023-04-20T12:00:00.000Z",
-          "wordCount": 4262,
+          "wordCount": 4263,
           "title": "Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-dockerizing-nodejs-app-stateless-architecture-kinsta/building-dockerizing-nodejs-app-stateless-architecture-kinsta.jpg",
@@ -229,7 +233,7 @@
           "description": "In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.",
           "link": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
           "publishedOn": "2023-04-19T20:00:00.000Z",
-          "wordCount": 5566,
+          "wordCount": 5664,
           "title": "Color Mechanics In UI Kits",
           "enclosure": {
             "url": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg",
@@ -244,7 +248,7 @@
           "description": "In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.",
           "link": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
           "publishedOn": "2023-04-18T12:00:00.000Z",
-          "wordCount": 10311,
+          "wordCount": 10310,
           "title": "Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-59/smashing-podcast-episode-59.png",
@@ -259,7 +263,7 @@
           "description": "Have you ever wondered if things could have been done differently? But not sure how? Well, then, do not fall in love with the solution, but fall in love with the problem! Here’s an article to dive deep into how design thinking could do just that.",
           "link": "https://smashingmagazine.com/2023/04/what-is-design-thinking/",
           "publishedOn": "2023-04-17T15:00:00.000Z",
-          "wordCount": 4544,
+          "wordCount": 4555,
           "title": "What Is Design Thinking?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-is-design-thinking/what-is-design-thinking-sharing-image.jpg",
@@ -275,6 +279,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "author": "Faith Oyama",
+          "description": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a",
+          "link": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "publishedOn": "2023-05-12T20:46:41.000Z",
+          "wordCount": 2133,
+          "title": "Advanced Indexing Strategies in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/postresql-indexing.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "According to the Oxford English Dictionary, \"greedy\" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the",
+          "link": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "publishedOn": "2023-05-12T17:57:48.000Z",
+          "wordCount": 4298,
+          "title": "What is a Greedy Algorithm? Examples of Greedy Algorithms",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-206627.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "author": "Palistha",
+          "description": "A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build",
+          "link": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "publishedOn": "2023-05-12T17:45:27.000Z",
+          "wordCount": 2730,
+          "title": "How Does a Linked List Work? A Beginner's Guide to Linked Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-joey-kyber-119562.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/number-systems-in-java/",
           "author": "Mikael Lassa",
@@ -331,7 +365,7 @@
           "description": "PostgreSQL is a powerful open-source relational database management system (RDBMS). It was initially created as a successor to the Ingres database system and was later named \"PostgreSQL\" (short for \"Post-Ingres SQL\"). PostgreSQL is known for its robustness, reliability, and scalability, making it a popular choice for large and complex database",
           "link": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
           "publishedOn": "2023-05-10T20:02:00.000Z",
-          "wordCount": 2308,
+          "wordCount": 2306,
           "title": "PostgreSQL and JSON – How to Use JSON Data in PostgreSQL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/PostgreSQL-and-JSON-Using-JSON-Data-in-PostgreSQL.jpg"
         },
@@ -344,36 +378,6 @@
           "wordCount": 1728,
           "title": "How to Build an Accurate Cybersecurity Risk Assessment",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-jonathan-petersson-965879.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
-          "author": "Dionysia Lemonaki",
-          "description": "Full-stack engineering roles have been growing in popularity over the last decade and are among the most sought-after positions in the tech job market. But what exactly are full-stack engineers? What do they do on a day-to-day basis? And how can you become a full-stack engineer yourself? In this article,",
-          "link": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
-          "publishedOn": "2023-05-10T17:27:43.000Z",
-          "wordCount": 2542,
-          "title": "Full Stack Engineer – Career Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
-          "author": "Beau Carnes",
-          "description": "Transform your development approach and embrace the power of Elixir and functional programming with our new beginner's course. It is designed to help you build scalable, maintainable applications like never before. We just published a new course on the freeCodeCamp channel that will teach you how to build your own",
-          "link": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
-          "publishedOn": "2023-05-10T15:59:36.000Z",
-          "wordCount": 979,
-          "title": "Discover the Power of Functional Programming with Elixir",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/elixir.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-sql-full-course/",
-          "author": "Beau Carnes",
-          "description": "Unlock the power of data with SQL! Master one of the most in-demand skill in the data-driven world and supercharge your career with our new video course. We just released a comprehensive video course on the freeCodeCamp.org YouTube channel that will take you on a journey from understanding the basics",
-          "link": "https://www.freecodecamp.org/news/learn-sql-full-course/",
-          "publishedOn": "2023-05-10T15:50:13.000Z",
-          "wordCount": 1008,
-          "title": "Learn SQL for Efficient Data Storage and Retrieval",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/sql.png"
         }
       ]
     }
