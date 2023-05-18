@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T00:11:07.609Z</id>
+    <id>urn:2023-05-18T00:09:25.760Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T00:11:07.609Z</updated>
+    <updated>2023-05-18T00:09:25.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
+        <updated>2023-05-17T14:48:51.000Z</updated>
+        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Deal With Big Tooling Upgrades In Large Organizations]]></title>
+        <id>https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/</id>
+        <link href="https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joran Quinten)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Interactive Heatmap Using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/"/>
+        <updated>2023-05-16T23:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to]]></summary>
+        <author>
+            <name>Shachee Swadia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How JavaScript’s Asynchronous Operations Work in the Browser]]></title>
         <id>https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/</id>
@@ -93,26 +123,6 @@
         <summary type="html"><![CDATA[Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ben Clemens)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Networking in Flutter By Building a Simple App]]></title>
-        <id>https://www.freecodecamp.org/news/learn-networking-in-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/learn-networking-in-flutter/"/>
-        <updated>2023-05-15T18:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Almost all apps you use today run by accessing the internet. You can hardly find an app that runs without connecting to the internet.  The internet has become an integral part of our lives, as it solves one of the most critical problems we have to handle: data transfer.]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caching in React – How to Use the useMemo and useCallback Hooks]]></title>
-        <id>https://www.freecodecamp.org/news/caching-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/caching-in-react/"/>
-        <updated>2023-05-15T18:39:25.000Z</updated>
-        <summary type="html"><![CDATA[As you become more proficient at coding in React, performance will become a major focal point in your development process.  As with any tool or programming methodology, caching plays a huge role when it comes to optimizing React applications. Caching in React typically goes by the term memoization. It's]]></summary>
-        <author>
-            <name>Scott Gary</name>
         </author>
     </entry>
     <entry>
@@ -273,26 +283,6 @@
         <summary type="html"><![CDATA[In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adel Khamatov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?]]></title>
-        <id>https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/</id>
-        <link href="https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/"/>
-        <updated>2023-04-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Design Thinking?]]></title>
-        <id>https://smashingmagazine.com/2023/04/what-is-design-thinking/</id>
-        <link href="https://smashingmagazine.com/2023/04/what-is-design-thinking/"/>
-        <updated>2023-04-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered if things could have been done differently? But not sure how? Well, then, do not fall in love with the solution, but fall in love with the problem! Here’s an article to dive deep into how design thinking could do just that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Krithika Subramanian)</name>
         </author>
     </entry>
 </feed>
