@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T00:09:25.760Z</id>
+    <id>urn:2023-05-19T00:09:47.935Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T00:09:25.760Z</updated>
+    <updated>2023-05-19T00:09:47.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 – Understanding and Addressing the Security Problem]]></title>
+        <id>https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/</id>
+        <link href="https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/"/>
+        <updated>2023-05-18T19:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Hi there. Great to have you here. But I'm afraid I'm going to have to start off with some bad news.  Before you can really improve the security of your Amazon EC2 instances, you'll need to get a handle on all the stuff that can go wrong. And I'll]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Component-Based Architecture in Medusa – How to Build Robust User Interfaces]]></title>
+        <id>https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/</id>
+        <link href="https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/"/>
+        <updated>2023-05-18T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Medusa is a modern JavaScript framework that makes it easy to build robust user interfaces.  It is built around a component-based architecture, which is a design pattern that breaks down a UI into smaller, reusable components. This makes it easier to maintain and update the UI, as well as]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack Application Using ChatGPT]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/"/>
+        <updated>2023-05-18T15:52:20.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT can be used to supercharge software development. You even create complete applications with ChatGPT. We just published a course on the freeCodeCamp.org YouTube channel that will show you how you can create a full stack app with ChatGPT. This course, authored by Judy from webdecoded, leverages the power of]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RegEx for Date Formats – Regular Expressions for Matching Dates]]></title>
+        <id>https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/</id>
+        <link href="https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/"/>
+        <updated>2023-05-18T12:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Upgrades That Will Improve Your Developer Experience]]></title>
+        <id>https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/</id>
+        <link href="https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/"/>
+        <updated>2023-05-17T23:40:59.000Z</updated>
+        <summary type="html"><![CDATA[When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust]]></summary>
+        <author>
+            <name>Brenda Chepkorir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
@@ -63,56 +113,6 @@
         <summary type="html"><![CDATA[In this article I will explain how to use, and maximize the full potential of the sort() function. What is the sort() Function? The sort() function allows you to sort an array object by either the default sorting order, or by a custom sorting function. By default, it sorts the]]></summary>
         <author>
             <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you find the bug? JavaScript security vulnerabilities course]]></title>
-        <id>https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/</id>
-        <link href="https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/"/>
-        <updated>2023-05-16T17:43:07.000Z</updated>
-        <summary type="html"><![CDATA[In a world where cybersecurity threats are more prevalent than ever, understanding how to safeguard your web applications is of paramount importance. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn common JavaScript security vulnerabilities and how to prevent them. Brandon teaches this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Google Apps Script Basics by Building a Tic Tac Toe Game]]></title>
-        <id>https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/</id>
-        <link href="https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/"/>
-        <updated>2023-05-16T16:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Google Sheets are powerful, and Apps Script makes them even more versatile and useful. Yes, you can use them for finance dashboards, personal budgets, and project management (and we'll cover these as future topics). But in this article, I'll go through the basics of Apps Script by building a simple]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python End Program – How to Exit a Python Program in the Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/"/>
-        <updated>2023-05-16T16:48:59.000Z</updated>
-        <summary type="html"><![CDATA[You can execute Python code in a terminal just like you would in an IDE like VS Code, Atom, and so on. You can do this in both Windows and Unix operating systems like Linux and macOS.  In this article, you'll learn how to exit a Python program in]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Best Practices – A Guide to Version Control for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/"/>
-        <updated>2023-05-16T16:33:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're a software developer, you may be familiar with the concept of version control. Version control is the practice of managing changes to your codebase over time. It's an essential tool for any development project.  One of the most popular version control systems is Git, which is widely]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained]]></title>
-        <id>https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/</id>
-        <link href="https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/"/>
-        <updated>2023-05-16T16:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Abstracting is the process of reducing something to its most basic form. It is the hiding away of the inessential.  For a drawing, this could be reducing it to its basic lines and shapes. Naturally, there are many levels of an abstraction, since what is inessential is subjective.]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
         </author>
     </entry>
     <entry>
