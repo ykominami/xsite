@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T00:10:36.690Z</id>
+    <id>urn:2023-05-23T00:09:51.422Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T00:10:36.690Z</updated>
+    <updated>2023-05-23T00:09:51.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Full-Stack Development with Next.js, TypeScript, and AWS]]></title>
+        <id>https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/"/>
+        <updated>2023-05-22T18:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Container Queries – Responsive Design Beyond the Viewport]]></title>
+        <id>https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/</id>
+        <link href="https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/"/>
+        <updated>2023-05-22T16:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing]]></summary>
+        <author>
+            <name>Favour C. Felix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete YouTube History – How to Delete YouTube Search and Watch Histories]]></title>
+        <id>https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/</id>
+        <link href="https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/"/>
+        <updated>2023-05-22T14:55:02.000Z</updated>
+        <summary type="html"><![CDATA[YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How You Can Use AI to Improve Your Code Quality]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/"/>
+        <updated>2023-05-22T13:57:16.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, I've always tried to write flawless code. Great code is not just functional – it should also be elegant, efficient, and robust.  But let's be honest – the journey towards code perfection can sometimes feel like an uphill battle. Or more often than not, a]]></summary>
+        <author>
+            <name>Shane Duggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Design Tips And Guidelines For Beginner Designers]]></title>
+        <id>https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/</id>
+        <link href="https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/"/>
+        <updated>2023-05-22T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Laurent Baumann)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Server Components – A Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/react-server-components-for-beginners/</id>
@@ -66,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RegEx for Date Formats – Regular Expressions for Matching Dates]]></title>
-        <id>https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/</id>
-        <link href="https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/"/>
-        <updated>2023-05-18T12:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular Upgrades That Will Improve Your Developer Experience]]></title>
-        <id>https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/</id>
-        <link href="https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/"/>
-        <updated>2023-05-17T23:40:59.000Z</updated>
-        <summary type="html"><![CDATA[When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust]]></summary>
-        <author>
-            <name>Brenda Chepkorir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
-        <updated>2023-05-17T14:48:51.000Z</updated>
-        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Deal With Big Tooling Upgrades In Large Organizations]]></title>
         <id>https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/</id>
         <link href="https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/"/>
@@ -103,16 +123,6 @@
         <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joran Quinten)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Interactive Heatmap Using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/"/>
-        <updated>2023-05-16T23:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to]]></summary>
-        <author>
-            <name>Shachee Swadia</name>
         </author>
     </entry>
     <entry>
