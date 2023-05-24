@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-23T00:09:51.422Z</id>
+    <id>urn:2023-05-24T00:09:25.308Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T00:09:51.422Z</updated>
+    <updated>2023-05-24T00:09:25.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stream File Uploads to S3 Object Storage and Reduce Costs]]></title>
+        <id>https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/</id>
+        <link href="https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/"/>
+        <updated>2023-05-23T19:51:05.000Z</updated>
+        <summary type="html"><![CDATA[To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file]]></summary>
+        <author>
+            <name>Austin Gil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use RabbitMQ with NodeJS to Send and Receive Messages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/"/>
+        <updated>2023-05-23T14:45:51.000Z</updated>
+        <summary type="html"><![CDATA[If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?]]></title>
+        <id>https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/</id>
+        <link href="https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/"/>
+        <updated>2023-05-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full-Stack Development with Next.js, TypeScript, and AWS]]></title>
         <id>https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/</id>
@@ -93,26 +123,6 @@
         <summary type="html"><![CDATA[Hi there. Great to have you here. But I'm afraid I'm going to have to start off with some bad news.  Before you can really improve the security of your Amazon EC2 instances, you'll need to get a handle on all the stuff that can go wrong. And I'll]]></summary>
         <author>
             <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Component-Based Architecture in Medusa – How to Build Robust User Interfaces]]></title>
-        <id>https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/</id>
-        <link href="https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/"/>
-        <updated>2023-05-18T18:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Medusa is a modern JavaScript framework that makes it easy to build robust user interfaces.  It is built around a component-based architecture, which is a design pattern that breaks down a UI into smaller, reusable components. This makes it easier to maintain and update the UI, as well as]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full Stack Application Using ChatGPT]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/"/>
-        <updated>2023-05-18T15:52:20.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT can be used to supercharge software development. You even create complete applications with ChatGPT. We just published a course on the freeCodeCamp.org YouTube channel that will show you how you can create a full stack app with ChatGPT. This course, authored by Judy from webdecoded, leverages the power of]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -253,16 +263,6 @@
         <summary type="html"><![CDATA[Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Potentially Dangerous Non-Accessibility Of Cookie Notices]]></title>
-        <id>https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/</id>
-        <link href="https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/"/>
-        <updated>2023-04-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>
