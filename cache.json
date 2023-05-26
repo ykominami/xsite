@@ -18,12 +18,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Success At Scale”, our upcoming book with best-practice case studies from industry experts. Print and eBook shipping in fall 2023. Pre-order the book.",
+          "link": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
+          "publishedOn": "2023-05-25T20:00:00.000Z",
+          "wordCount": 3278,
+          "title": "Meet Success At Scale, A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
+          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
+          "description": "Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.",
+          "link": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
+          "publishedOn": "2023-05-25T11:00:00.000Z",
+          "wordCount": 5544,
+          "title": "The Impact Of Agile Methodologies On Code Quality",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.",
           "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
           "publishedOn": "2023-05-23T08:00:00.000Z",
-          "wordCount": 10427,
+          "wordCount": 10429,
           "title": "Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png",
@@ -38,7 +68,7 @@
           "description": "It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.",
           "link": "https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/",
           "publishedOn": "2023-05-22T11:00:00.000Z",
-          "wordCount": 5574,
+          "wordCount": 5577,
           "title": "Practical Design Tips And Guidelines For Beginner Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-design-tips-guidelines-beginner-designers/practical-design-tips-guidelines-beginner-designers.jpg",
@@ -68,7 +98,7 @@
           "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
           "link": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
           "publishedOn": "2023-05-16T11:00:00.000Z",
-          "wordCount": 5813,
+          "wordCount": 5816,
           "title": "Design Patterns Are A Better Way To Collaborate On Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg",
@@ -83,7 +113,7 @@
           "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
           "link": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
           "publishedOn": "2023-05-15T13:00:00.000Z",
-          "wordCount": 4854,
+          "wordCount": 4855,
           "title": "Solving Media Object Float Issues With CSS Block Formatting Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg",
@@ -98,7 +128,7 @@
           "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
           "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
           "publishedOn": "2023-05-12T11:00:00.000Z",
-          "wordCount": 3904,
+          "wordCount": 3899,
           "title": "Designing Sticky Menus: UX Guidelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
@@ -128,7 +158,7 @@
           "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
           "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 5983,
+          "wordCount": 5985,
           "title": "A Guide To Redux Toolkit With TypeScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
@@ -143,7 +173,7 @@
           "description": "The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.",
           "link": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
           "publishedOn": "2023-05-09T09:00:00.000Z",
-          "wordCount": 6397,
+          "wordCount": 6395,
           "title": "How To Use AI Tools To Skyrocket Your Programming Productivity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-tools-skyrocket-programming-productivity/ai-tools-skyrocket-programming-productivity.jpg",
@@ -158,7 +188,7 @@
           "description": "Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.",
           "link": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
           "publishedOn": "2023-05-08T13:00:00.000Z",
-          "wordCount": 4445,
+          "wordCount": 4448,
           "title": "The Safest Way To Hide Your API Keys When Using React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg",
@@ -173,7 +203,7 @@
           "description": "This is the story of how one little octopus, explaining one beginner’s concept, carried such weight and power for Kylo that it drove his work and led him to research something that is really quite silly. And yet, it transformed how he learned to write — and finally understand — JavaScript.",
           "link": "https://smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
           "publishedOn": "2023-05-05T09:00:00.000Z",
-          "wordCount": 4709,
+          "wordCount": 4710,
           "title": "Learning JavaScript With Imagination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg",
@@ -218,7 +248,7 @@
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
           "publishedOn": "2023-04-30T15:00:00.000Z",
-          "wordCount": 5115,
+          "wordCount": 5103,
           "title": "Make Your May Magnificent (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png",
@@ -233,7 +263,7 @@
           "description": "Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.",
           "link": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
           "publishedOn": "2023-04-28T08:00:00.000Z",
-          "wordCount": 4233,
+          "wordCount": 4235,
           "title": "Write Better CSS By Borrowing Ideas From JavaScript Functions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg",
@@ -248,7 +278,7 @@
           "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
           "link": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
           "publishedOn": "2023-04-27T12:00:00.000Z",
-          "wordCount": 4018,
+          "wordCount": 4019,
           "title": "Accessible Target Sizes Cheatsheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png",
@@ -265,6 +295,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-golang-handbook/",
+          "author": "Lane Wagner",
+          "description": "The Go programming languagehas been exploding in popularity. Tons of companies are using Go to build scalable, modern, backend infrastructure.  If you're looking to learn a new programming language, Go is a great choice. It's fast, lightweight, has an amazing open source community, and is actually quite easy to",
+          "link": "https://www.freecodecamp.org/news/learn-golang-handbook/",
+          "publishedOn": "2023-05-25T18:11:18.000Z",
+          "wordCount": 13539,
+          "title": "The Golang Handbook – A Beginner's Guide to Learning Go",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/maxresdefault.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-a-leetcode-clone-with-react-next-js-typescript-tailwind-css-firebase/",
+          "author": "Beau Carnes",
+          "description": "Solving coding challenges on the LeetCode website is a great way to improve your developer skills. But an even better way to improve your skills is to develop your own LeetCode website. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build and",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-leetcode-clone-with-react-next-js-typescript-tailwind-css-firebase/",
+          "publishedOn": "2023-05-25T15:09:01.000Z",
+          "wordCount": 1177,
+          "title": "Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/leetcode.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-component-lifecycle-methods/",
+          "author": "Valentine Gatwiri",
+          "description": "In React, components have a lifecycle that consists of different phases. Each phase has a set of lifecycle methods that are called at specific points in the component's lifecycle. These methods allow you to control the component's behavior and perform specific actions at different stages of its lifecycle. A component's",
+          "link": "https://www.freecodecamp.org/news/react-component-lifecycle-methods/",
+          "publishedOn": "2023-05-25T14:28:35.000Z",
+          "wordCount": 3383,
+          "title": "React Component Lifecycle Methods – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Screenshot-from-2023-05-23-10-50-48.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
+          "author": "Satyam Tripathi",
+          "description": "To create an application like WhatsApp or Facebook, you'd need many servers (30-40), operating system licenses, routers, cables, switches, gateways, air conditioning units, and employees for maintenance.  All this can be expensive and time-consuming, and there is no guarantee that the application will be successful in the market. But",
+          "link": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
+          "publishedOn": "2023-05-25T14:26:19.000Z",
+          "wordCount": 2081,
+          "title": "AWS Basics for DevOps – How to Setup a Linux Machine",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Getting-Started-With-DevOps.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/socket-programming-in-python/",
+          "author": "P S Mohammed Ali",
+          "description": "In this article, you will learn how to code a socket program in Python. But before that, let's understand what a socket is and where you might use it. We can define a socket as a quick connection which allows the transmission of data between two processes on the same",
+          "link": "https://www.freecodecamp.org/news/socket-programming-in-python/",
+          "publishedOn": "2023-05-25T14:25:40.000Z",
+          "wordCount": 1792,
+          "title": "What is Socket Programming in Python?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/ab_networks_network_8uds-1030x438-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Accessibility is a word that is often thrown around in the design field. As a UI/UX/Web Designer, you might have heard this word a few times and you might wonder why it's important.  In this article, you will learn:  * What accessibility means  * Some myths surrounding",
+          "link": "https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/",
+          "publishedOn": "2023-05-25T14:18:24.000Z",
+          "wordCount": 1751,
+          "title": "Why Accessibility Matters in UI/UX Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels--------------3077882.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
+          "author": "Shittu Olumide",
+          "description": "Copying directories is an essential task in Linux. It allows you to duplicate directories, create backups, or transfer data between different locations.  One of the most commonly used commands for copying files and directories in Linux is cp. In this tutorial, we will explore how to copy directories effectively",
+          "link": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
+          "publishedOn": "2023-05-24T22:21:19.000Z",
+          "wordCount": 1182,
+          "title": "How to Copy a Directory in Linux with the cp Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Copy-a-Directory-in-Linux-with-the-cp-Command.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/",
           "author": "Eamonn Cottrell",
           "description": "In this article we'll link two Google services -> Google Sheets and Google Calendar. By using a very short custom function in Google Apps Script, we can add a list of events from a Google Sheet to a Google Calendar. 🤯 And we'll even have it email our guests as",
@@ -280,89 +380,19 @@
           "description": "Artificial intelligence (AI) has been a game-changer in cybersecurity. It has revolutionized the approach to cybersecurity by providing advanced techniques to detect and mitigate cyber threats.  The use of AI in cybersecurity is increasing rapidly, with many companies adopting it as a key tool in their cybersecurity strategy.",
           "link": "https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/",
           "publishedOn": "2023-05-24T20:58:02.000Z",
-          "wordCount": 5438,
-          "title": "How Security Analysts Can Use Artificial Intelligence (AI) in Cybersecurity",
+          "wordCount": 5432,
+          "title": "How Security Analysts Can Use AI in Cybersecurity",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/_71704ac1-39a2-4892-875c-0f342230ec89.jpeg"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/",
           "author": "Victor Eke",
-          "description": "Navigation bars are essential components used a lot in websites and web apps. As a web developer, you will need to be able to customize them, either for a client project or a basic portfolio site. In this guide, you'll learn how to build a navigation bas for yourself from",
+          "description": "Navigation bars are essential components used a lot in websites and web apps. As a web developer, you will need to be able to customize them, either for a client project or a basic portfolio site. In this guide, you'll learn how to build a navigation bar for yourself from",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/",
           "publishedOn": "2023-05-24T20:52:51.000Z",
           "wordCount": 3314,
           "title": "How to Build a Responsive Navigation Bar with a Dropdown Menu using JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/responsive-navigation-bar-with-dropdown-menu-using-javascript.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/",
-          "author": "Beau Carnes",
-          "description": "Creating an AI chatbot might seem like a daunting task, especially if you're not an experienced programmer. But we just launched a course on the freeCodeCamp.org YouTube channel that will demystify the process and walk you through it step-by-step. This course focuses on using Django, a high-level Python web framework,",
-          "link": "https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/",
-          "publishedOn": "2023-05-24T18:30:52.000Z",
-          "wordCount": 959,
-          "title": "Use Django to Code a ChatGPT Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatbot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
-          "author": "Manoel Cortes Mendez",
-          "description": "In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math",
-          "link": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
-          "publishedOn": "2023-05-23T22:12:28.000Z",
-          "wordCount": 2364,
-          "title": "120 Free Online Math Courses from the World’s Top Universities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/mathematics-banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
-          "author": "Austin Gil",
-          "description": "To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file",
-          "link": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
-          "publishedOn": "2023-05-23T19:51:05.000Z",
-          "wordCount": 3784,
-          "title": "How to Stream File Uploads to S3 Object Storage and Reduce Costs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-219717.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
-          "author": "Arunachalam B",
-          "description": "If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have",
-          "link": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
-          "publishedOn": "2023-05-23T14:45:51.000Z",
-          "wordCount": 2319,
-          "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
-          "author": "Beau Carnes",
-          "description": "Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll",
-          "link": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
-          "publishedOn": "2023-05-22T18:06:08.000Z",
-          "wordCount": 964,
-          "title": "Full-Stack Development with Next.js, TypeScript, and AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nextfullstack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
-          "author": "Favour C. Felix",
-          "description": "Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing",
-          "link": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
-          "publishedOn": "2023-05-22T16:24:14.000Z",
-          "wordCount": 1413,
-          "title": "How to Use Container Queries – Responsive Design Beyond the Viewport",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/container-queries-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
-          "author": "Kolade Chris",
-          "description": "YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide",
-          "link": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
-          "publishedOn": "2023-05-22T14:55:02.000Z",
-          "wordCount": 1284,
-          "title": "Delete YouTube History – How to Delete YouTube Search and Watch Histories",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/deleteYtHistories.png"
         }
       ]
     }
