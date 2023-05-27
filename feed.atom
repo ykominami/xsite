@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T00:09:44.657Z</id>
+    <id>urn:2023-05-27T00:10:53.701Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T00:09:44.657Z</updated>
+    <updated>2023-05-27T00:10:53.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Design Handoff File In Figma]]></title>
+        <id>https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/</id>
+        <link href="https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/"/>
+        <updated>2023-05-26T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ben Shih)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strings in C# – What's New, Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/new-ish-things-about-c-strings/</id>
+        <link href="https://www.freecodecamp.org/news/new-ish-things-about-c-strings/"/>
+        <updated>2023-05-26T13:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Much of what we work with in our code are strings. Let's look at some of the newish things about C# strings ... including raw string literals and raw string interpolation that are new in C# 11. Raw string literals make it easy to build complex, multi-line strings, including JSON,]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golang Environment – GOPATH vs go.mod]]></title>
+        <id>https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/</id>
+        <link href="https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/"/>
+        <updated>2023-05-26T00:23:11.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll explore the differences between the traditional GOPATH  environment and the go.mod based environment for Go programming.  This distinction has significant implications for how Go developers structure and manage their project workspaces and dependencies. We'll start by understanding the GOPATH environment, its organization and its]]></summary>
+        <author>
+            <name>Otavio Ehrenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Data Validation Rules in Excel]]></title>
+        <id>https://www.freecodecamp.org/news/create-data-validation-rules-excel/</id>
+        <link href="https://www.freecodecamp.org/news/create-data-validation-rules-excel/"/>
+        <updated>2023-05-26T00:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Data validation is a feature in Excel used in restricting data entry in specific cells. It can also prompt the user to enter valid data into the cells based on the rules and restrictions provided by the creator of the Excel worksheet.  When setting up a workbook, you might]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sort Dictionary by Key – How to Sort a Dict with Keys]]></title>
+        <id>https://www.freecodecamp.org/news/python-sort-dictionary-by-key/</id>
+        <link href="https://www.freecodecamp.org/news/python-sort-dictionary-by-key/"/>
+        <updated>2023-05-25T23:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Sorting is a fundamental operation in computer programming that involves arranging elements in a specific order.  Whether you're working with numbers, strings, or complex data structures, sorting plays a crucial role in organizing and manipulating data efficiently.  From small arrays to large datasets, sorting algorithms allow programmers to]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Exactly is Node.js? A Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/"/>
+        <updated>2023-05-25T23:08:59.000Z</updated>
+        <summary type="html"><![CDATA[If you're thinking about doing back-end development using JavaScript, you will hear the term ‘Node.js’. Node is often associated with developing powerful web servers. But what exactly is Node.js? Is it a JavaScript framework just like Angular [https://angular.io/]? Is it a programming language? Is it a JavaScript Library? Is it]]></summary>
+        <author>
+            <name>Amazing Enyichi Agu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Success At Scale, A New Smashing Book By Addy Osmani]]></title>
         <id>https://smashingmagazine.com/2023/05/success-at-scale-pre-release/</id>
@@ -20,7 +80,7 @@
         <id>https://www.freecodecamp.org/news/learn-golang-handbook/</id>
         <link href="https://www.freecodecamp.org/news/learn-golang-handbook/"/>
         <updated>2023-05-25T18:11:18.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming languagehas been exploding in popularity. Tons of companies are using Go to build scalable, modern, backend infrastructure.  If you're looking to learn a new programming language, Go is a great choice. It's fast, lightweight, has an amazing open source community, and is actually quite easy to]]></summary>
+        <summary type="html"><![CDATA[The Go programming language has been exploding in popularity. Tons of companies are using Go to build scalable, modern, backend infrastructure.  If you're looking to learn a new programming language, Go is a great choice. It's fast, lightweight, has an amazing open source community, and is actually quite easy]]></summary>
         <author>
             <name>Lane Wagner</name>
         </author>
@@ -66,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Accessibility Matters in UI/UX Design]]></title>
-        <id>https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/</id>
-        <link href="https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/"/>
-        <updated>2023-05-25T14:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility is a word that is often thrown around in the design field. As a UI/UX/Web Designer, you might have heard this word a few times and you might wonder why it's important.  In this article, you will learn:  * What accessibility means  * Some myths surrounding]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Impact Of Agile Methodologies On Code Quality]]></title>
         <id>https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/</id>
         <link href="https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/"/>
@@ -83,46 +133,6 @@
         <summary type="html"><![CDATA[Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sarah Oke Okolo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Copy a Directory in Linux with the cp Command]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/"/>
-        <updated>2023-05-24T22:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Copying directories is an essential task in Linux. It allows you to duplicate directories, create backups, or transfer data between different locations.  One of the most commonly used commands for copying files and directories in Linux is cp. In this tutorial, we will explore how to copy directories effectively]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Sheets – How to Automatically Post Events to Google Calendar with Apps Script]]></title>
-        <id>https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/</id>
-        <link href="https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/"/>
-        <updated>2023-05-24T21:44:39.000Z</updated>
-        <summary type="html"><![CDATA[In this article we'll link two Google services -> Google Sheets and Google Calendar. By using a very short custom function in Google Apps Script, we can add a list of events from a Google Sheet to a Google Calendar. 🤯 And we'll even have it email our guests as]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Security Analysts Can Use AI in Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/"/>
-        <updated>2023-05-24T20:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence (AI) has been a game-changer in cybersecurity. It has revolutionized the approach to cybersecurity by providing advanced techniques to detect and mitigate cyber threats.  The use of AI in cybersecurity is increasing rapidly, with many companies adopting it as a key tool in their cybersecurity strategy.]]></summary>
-        <author>
-            <name>Sonya Moisset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Responsive Navigation Bar with a Dropdown Menu using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/"/>
-        <updated>2023-05-24T20:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Navigation bars are essential components used a lot in websites and web apps. As a web developer, you will need to be able to customize them, either for a client project or a basic portfolio site. In this guide, you'll learn how to build a navigation bar for yourself from]]></summary>
-        <author>
-            <name>Victor Eke</name>
         </author>
     </entry>
     <entry>
@@ -273,16 +283,6 @@
         <summary type="html"><![CDATA[Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible Target Sizes Cheatsheet]]></title>
-        <id>https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/</id>
-        <link href="https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/"/>
-        <updated>2023-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
