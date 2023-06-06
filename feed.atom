@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-05T00:10:43.457Z</id>
+    <id>urn:2023-06-06T00:10:10.360Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T00:10:43.457Z</updated>
+    <updated>2023-06-06T00:10:10.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Style a React Application – Different Options Compared]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-style-a-react-app/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-style-a-react-app/"/>
+        <updated>2023-06-05T21:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Styling plays a vital role in creating visually appealing and user-friendly web applications. When it comes to React applications, there are numerous ways to style components and UI elements.  In this article, we will explore several popular options, including pure CSS, CSS modules, CSS preprocessors, Tailwind CSS, CSS-in-JS libraries]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Patterns for Distributed Systems – Key Concepts Every Developer Should Know]]></title>
+        <id>https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/</id>
+        <link href="https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/"/>
+        <updated>2023-06-05T20:49:03.000Z</updated>
+        <summary type="html"><![CDATA[When I first started my career as a backend engineer, I always worked with monolithic systems. The work was good but I always had this thought in the back of my mind: > "Man, I want to work on big systems such as ones for Google, Netflix, etc..." I was]]></summary>
+        <author>
+            <name>Tamerlan Gudabayev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Image Carousel Component with TypeScript and Styled-Components]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/"/>
+        <updated>2023-06-05T17:28:08.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, OTT (over-the-top) video streaming platforms have become more innovative and convenient to use. In their user interfaces, movies and series titles are arranged so that the titles are clearly visible. In this tutorial, I’ll guide you through the process of creating an image carousel component that looks]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Exit – How to Use an Exit Function in Python to Stop a Program]]></title>
+        <id>https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/</id>
+        <link href="https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/"/>
+        <updated>2023-06-05T13:54:40.000Z</updated>
+        <summary type="html"><![CDATA[The exit() function in Python is used to exit or terminate the current running script or program. You can use it to stop the execution of the program at any point. When the exit() function is called, the program will immediately stop running and exit. The syntax of the exit()]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primitive Objects In JavaScript: When To Use Them (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/</id>
+        <link href="https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/"/>
+        <updated>2023-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Enable Collaboration In A Multiparty Setting]]></title>
         <id>https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/</id>
@@ -93,46 +143,6 @@
         <summary type="html"><![CDATA[Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format a Date with JavaScript – Date Formatting in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/"/>
-        <updated>2023-05-31T17:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Dates are a fundamental part of many JavaScript applications, whether it's displaying the current date on a webpage or handling user input for scheduling events. But displaying dates in a clear and consistent format is crucial for a positive user experience. In the past, I have written two articles on]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Deployment Pipeline with Reusable Github Actions and Heroku]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/"/>
-        <updated>2023-05-31T17:25:11.000Z</updated>
-        <summary type="html"><![CDATA[If you've been using GitHub for a while, you've probably heard of or used GitHub actions.  If you haven't heard of Github Actions or used them before, you can use them for automating your build, test, or deployment pipelines. You can create workflows that will be triggered upon certain]]></summary>
-        <author>
-            <name>Liz Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Temp Table – How to Create a Temporary SQL Table]]></title>
-        <id>https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/</id>
-        <link href="https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/"/>
-        <updated>2023-05-31T17:22:54.000Z</updated>
-        <summary type="html"><![CDATA[SQL, which stands for Structured Query Language, is a programming language specifically designed for managing and manipulating relational databases.  It provides a standardized way to interact with databases and perform tasks such as querying data, inserting, updating, and deleting records, creating and modifying database structures, and more. SQL is]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AWS Cognito for User Authentication]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/"/>
-        <updated>2023-05-31T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[When you're building complex applications, one seemingly simple feature can be difficult to implement: user authentication.  Though some apps don't need it depending on their use case, many do. You might spend a ton of time building an authentication module to provide a secure experience to your users and]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
     <entry>
