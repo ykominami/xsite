@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T00:11:53.719Z</id>
+    <id>urn:2023-06-08T00:10:25.607Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T00:11:53.719Z</updated>
+    <updated>2023-06-08T00:10:25.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Tailwind CSS with NextJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/"/>
+        <updated>2023-06-07T21:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind CSS is a popular utility-first CSS framework that offers a unique approach to building modern and responsive user interfaces. Unlike traditional CSS frameworks that provide pre-designed components, Tailwind CSS focuses on providing a comprehensive set of utility classes that you can directly apply to your HTML elements. When combined]]></summary>
+        <author>
+            <name>Kelvin Moses</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Sites And Apps With Blind Users: A Cheat Sheet]]></title>
+        <id>https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/</id>
+        <link href="https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/"/>
+        <updated>2023-06-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Slava Shestopalov &amp; Eugene Shykiriavyi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Decorators Explained For Beginners]]></title>
         <id>https://www.freecodecamp.org/news/python-decorators-explained/</id>
@@ -16,7 +36,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Hackers Attack Social Media Media Accounts – And How to Defend Against Them]]></title>
+        <title type="html"><![CDATA[How Hackers Attack Social Media Accounts – And How to Defend Against Them]]></title>
         <id>https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/</id>
         <link href="https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/"/>
         <updated>2023-06-06T16:42:11.000Z</updated>
@@ -103,16 +123,6 @@
         <summary type="html"><![CDATA[When I first started my career as a backend engineer, I always worked with monolithic systems. The work was good but I always had this thought in the back of my mind: > "Man, I want to work on big systems such as ones for Google, Netflix, etc..." I was]]></summary>
         <author>
             <name>Tamerlan Gudabayev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Image Carousel Component with TypeScript and Styled-Components]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/"/>
-        <updated>2023-06-05T17:28:08.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, OTT (over-the-top) video streaming platforms have become more innovative and convenient to use. In their user interfaces, movies and series titles are arranged so that the titles are clearly visible. In this tutorial, I’ll guide you through the process of creating an image carousel component that looks]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
         </author>
     </entry>
     <entry>
@@ -273,26 +283,6 @@
         <summary type="html"><![CDATA[The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Deepak Kumar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use AI Tools To Skyrocket Your Programming Productivity]]></title>
-        <id>https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/</id>
-        <link href="https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/"/>
-        <updated>2023-05-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shane Duggan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Safest Way To Hide Your API Keys When Using React]]></title>
-        <id>https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/</id>
-        <link href="https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/"/>
-        <updated>2023-05-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jessica Joseph)</name>
         </author>
     </entry>
 </feed>
