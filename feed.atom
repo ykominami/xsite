@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T00:10:41.540Z</id>
+    <id>urn:2023-06-10T00:10:03.999Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T00:10:41.540Z</updated>
+    <updated>2023-06-10T00:10:04.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git Change Commit Message – How to Edit Commit Messages with Git Amend]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/"/>
+        <updated>2023-06-09T17:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Commit messages play a crucial role in Git version control. They provide a historical record of changes made to a repository.  Clear and descriptive commit messages help you collaborate better with team members, more easily maintain your code, and understand how the project works.  But there are times]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CSS Spacing Works – A Guide for Web Developers]]></title>
+        <id>https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/</id>
+        <link href="https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/"/>
+        <updated>2023-06-09T16:26:46.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we're going to talk about spacing in CSS spacing – sounds so basic, right? Well, it's not as basic as you might think.  Take, for instance, when you visit your favorite e-commerce site to scout for products. The first thing that welcomes you to the platform]]></summary>
+        <author>
+            <name>Clinton Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways You Can Use Linux on a Windows Machine]]></title>
+        <id>https://www.freecodecamp.org/news/5-ways-to-use-linux-on-a-windows-machine/</id>
+        <link href="https://www.freecodecamp.org/news/5-ways-to-use-linux-on-a-windows-machine/"/>
+        <updated>2023-06-09T15:03:52.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you might need to run both Linux and Windows side by side. Luckily, there are a number of ways you can get the best of both worlds without getting different computers for each operating system.  In this article, we'll explore a few ways to use Linux]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Under Constraints: Challenges, Opportunities, And Practical Strategies]]></title>
+        <id>https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/</id>
+        <link href="https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/"/>
+        <updated>2023-06-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up Your Java Development Environment]]></title>
         <id>https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/</id>
@@ -93,36 +133,6 @@
         <summary type="html"><![CDATA[Flutter has been getting more and more popular lately. You can use it to build complex applications that work smoothly on MacOS, Windows, and Linux.  But building these applications is not always a simple process. You often have to refactor your code to maintain the app’s performance.  One]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Computer Vision with Deep Learning and TensorFlow]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/"/>
-        <updated>2023-06-06T15:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Computer vision is being used in more and more places. From enhancing security systems to improving healthcare diagnostics, computer vision techniques are revolutionizing multiple industries.  We just published a 37-hour course on the freeCodeCamp.org YouTube channel that will teach you about deep learning for computer vision using TensorFlow. The]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Shuffle an Array of Items Using JavaScript or TypeScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/"/>
-        <updated>2023-06-05T23:32:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article we'll be exploring how we can shuffle an array of items in multiple different ways using TypeScript, or JavaScript should you prefer. Pre-Requisites:  * An understanding of TypeScript or JavaScript  * A basic understanding of For Loops and Arrays The following examples are written in]]></summary>
-        <author>
-            <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Laravel APIs – Security, Features, and More]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-laravel-apis/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-laravel-apis/"/>
-        <updated>2023-06-05T23:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Laravel is the most popular PHP framework, with its elegant syntax, extensive feature set, and developer-friendly environment. And it's gained significant traction in recent years. The Laravel ecosystem is constantly being updated with new features. Laravel 10 [https://laravel.com/docs/10.x/releases] is exciting! Among its many strengths is the robust support for APIs]]></summary>
-        <author>
-            <name>Abdulwahab Ashimi</name>
         </author>
     </entry>
     <entry>
