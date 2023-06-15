@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T00:09:57.532Z</id>
+    <id>urn:2023-06-15T00:11:05.909Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T00:09:57.532Z</updated>
+    <updated>2023-06-15T00:11:05.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit]]></title>
+        <id>https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/</id>
+        <link href="https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/"/>
+        <updated>2023-06-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sriram Thiagarajan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Page Elements – Explained for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/html-page-elements/</id>
@@ -263,26 +273,6 @@
         <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joran Quinten)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns Are A Better Way To Collaborate On Your Design System]]></title>
-        <id>https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/</id>
-        <link href="https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/"/>
-        <updated>2023-05-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ben Clemens)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Media Object Float Issues With CSS Block Formatting Contexts]]></title>
-        <id>https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/</id>
-        <link href="https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/"/>
-        <updated>2023-05-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
         </author>
     </entry>
 </feed>
