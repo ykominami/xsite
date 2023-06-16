@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T00:11:05.909Z</id>
+    <id>urn:2023-06-16T00:10:39.175Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T00:11:05.909Z</updated>
+    <updated>2023-06-16T00:10:39.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Mysteries of Pointers in C]]></title>
+        <id>https://www.freecodecamp.org/news/finally-understand-pointers-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/finally-understand-pointers-in-c/"/>
+        <updated>2023-06-15T15:14:30.000Z</updated>
+        <summary type="html"><![CDATA[There are few things in the programming universe that seem as daunting to beginners as pointers in C. Many new programmers shy away from tackling this essential component of the C programming language, which can leave a critical gap in their knowledge. We just posted a full course on the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Infrastructure as Code? Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/infrastructure-as-code-basics/</id>
+        <link href="https://www.freecodecamp.org/news/infrastructure-as-code-basics/"/>
+        <updated>2023-06-15T14:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a way of managing your infrastructure like it was code. This gives you all the benefits of using code to create your infrastructure, like version control, faster and safer infrastructure deployments across different environments, and having up to date documentation of your infrastructure. The article]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Codux: The React Visual Editor That Improves Developer Experience]]></title>
+        <id>https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/</id>
+        <link href="https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/"/>
+        <updated>2023-06-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Codux](https://codux.hopp.to/smashing) is a new visual IDE brought to you by the fine folks over at[ Wix](https://www.wix.com/). It’s got a lot of low-code features that level the playing field for app development but is really designed for React developers. How so, you ask? That’s what we’re going to explore in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit]]></title>
         <id>https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/</id>
@@ -113,26 +143,6 @@
         <summary type="html"><![CDATA[In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Change Commit Message – How to Edit Commit Messages with Git Amend]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/"/>
-        <updated>2023-06-09T17:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Commit messages play a crucial role in Git version control. They provide a historical record of changes made to a repository.  Clear and descriptive commit messages help you collaborate better with team members, more easily maintain your code, and understand how the project works.  But there are times]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How CSS Spacing Works – A Guide for Web Developers]]></title>
-        <id>https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/</id>
-        <link href="https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/"/>
-        <updated>2023-06-09T16:26:46.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we're going to talk about spacing in CSS spacing – sounds so basic, right? Well, it's not as basic as you might think.  Take, for instance, when you visit your favorite e-commerce site to scout for products. The first thing that welcomes you to the platform]]></summary>
-        <author>
-            <name>Clinton Joy</name>
         </author>
     </entry>
     <entry>
@@ -263,16 +273,6 @@
         <summary type="html"><![CDATA[It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Laurent Baumann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Deal With Big Tooling Upgrades In Large Organizations]]></title>
-        <id>https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/</id>
-        <link href="https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/"/>
-        <updated>2023-05-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joran Quinten)</name>
         </author>
     </entry>
 </feed>
