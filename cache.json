@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
+          "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
+          "publishedOn": "2023-06-22T08:00:00.000Z",
+          "wordCount": 5129,
+          "title": "Using AI To Detect Sentiment In Audio Files",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "author": "hello@smashingmagazine.com (Scott Gallant)",
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
           "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "publishedOn": "2023-06-20T09:00:00.000Z",
-          "wordCount": 3627,
+          "wordCount": 3624,
           "title": "Visual Editing Comes To The Headless CMS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
@@ -38,7 +53,7 @@
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "publishedOn": "2023-06-19T17:00:00.000Z",
-          "wordCount": 6915,
+          "wordCount": 6910,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
@@ -83,7 +98,7 @@
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
           "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5663,
+          "wordCount": 5659,
           "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
@@ -98,7 +113,7 @@
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
           "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10111,
+          "wordCount": 10212,
           "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
@@ -113,7 +128,7 @@
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "publishedOn": "2023-06-12T16:00:00.000Z",
-          "wordCount": 7063,
+          "wordCount": 7061,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
@@ -128,7 +143,7 @@
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
           "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "publishedOn": "2023-06-09T10:00:00.000Z",
-          "wordCount": 4745,
+          "wordCount": 4757,
           "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
@@ -143,7 +158,7 @@
           "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
           "link": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
           "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 6544,
+          "wordCount": 6541,
           "title": "Testing Sites And Apps With Blind Users: A Cheat Sheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg",
@@ -158,7 +173,7 @@
           "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
           "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
           "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8990,
+          "wordCount": 8996,
           "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
           "enclosure": {
             "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
@@ -173,7 +188,7 @@
           "description": "In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.",
           "link": "https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/",
           "publishedOn": "2023-06-05T10:00:00.000Z",
-          "wordCount": 4863,
+          "wordCount": 4859,
           "title": "Primitive Objects In JavaScript: When To Use Them (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/primitive-objects-javascript-part-2/primitive-objects-javascript-part-2.jpg",
@@ -188,7 +203,7 @@
           "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
           "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
           "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5512,
+          "wordCount": 5508,
           "title": "How To Enable Collaboration In A Multiparty Setting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
@@ -218,7 +233,7 @@
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6272,
+          "wordCount": 6270,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -233,7 +248,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
           "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
           "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5299,
+          "wordCount": 5298,
           "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
@@ -248,7 +263,7 @@
           "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
           "link": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
           "publishedOn": "2023-05-26T15:30:00.000Z",
-          "wordCount": 5798,
+          "wordCount": 5801,
           "title": "Designing A Better Design Handoff File In Figma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg",
@@ -278,7 +293,7 @@
           "description": "Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.",
           "link": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
           "publishedOn": "2023-05-25T11:00:00.000Z",
-          "wordCount": 5647,
+          "wordCount": 5549,
           "title": "The Impact Of Agile Methodologies On Code Quality",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg",
@@ -294,6 +309,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "author": "Beau Carnes",
+          "description": "Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from",
+          "link": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "publishedOn": "2023-06-22T12:50:51.000Z",
+          "wordCount": 1126,
+          "title": "Learn Pandas & Python for Data Analysis [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pandas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "author": "Beau Carnes",
+          "description": "Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was",
+          "link": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "publishedOn": "2023-06-22T12:20:35.000Z",
+          "wordCount": 1039,
+          "title": "Learn Supabase, an Open-Source Firebase Alternative",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/supabase.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
           "author": "Prajwal Kulkarni",
@@ -373,26 +408,6 @@
           "wordCount": 2747,
           "title": "How to Use GitHub Copilot to Become a Happier and More Productive Developer",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-14-at-12.42.04-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
-          "author": "Beau Carnes",
-          "description": "There are few things in the programming universe that seem as daunting to beginners as pointers in C. Many new programmers shy away from tackling this essential component of the C programming language, which can leave a critical gap in their knowledge. We just posted a full course on the",
-          "link": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
-          "publishedOn": "2023-06-15T15:14:30.000Z",
-          "wordCount": 1095,
-          "title": "Unlock the Mysteries of Pointers in C",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pointers.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/infrastructure-as-code-basics/",
-          "author": "Daniel Adetunji",
-          "description": "Infrastructure as Code (IaC) is a way of managing your infrastructure like it was code. This gives you all the benefits of using code to create your infrastructure, like version control, faster and safer infrastructure deployments across different environments, and having up to date documentation of your infrastructure. The article",
-          "link": "https://www.freecodecamp.org/news/infrastructure-as-code-basics/",
-          "publishedOn": "2023-06-15T14:32:46.000Z",
-          "wordCount": 2145,
-          "title": "What is Infrastructure as Code? Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover-5.png"
         }
       ]
     }
