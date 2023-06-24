@@ -18,12 +18,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.",
+          "link": "https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/",
+          "publishedOn": "2023-06-23T13:00:00.000Z",
+          "wordCount": 3947,
+          "title": "Penpot’s Flex Layout: Building CSS Layouts In A Design Tool",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/penpot-flex-layout-building-css-layouts-design-tool/penpot-flex-layout-building-css-layouts-design-tool.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/penpot-flex-layout-building-css-layouts-design-tool/penpot-flex-layout-building-css-layouts-design-tool.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollendar and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
+          "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
+          "publishedOn": "2023-06-23T08:00:00.000Z",
+          "wordCount": 6432,
+          "title": "Behind The Curtains Of Wikipedia Redesign",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
           "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
           "publishedOn": "2023-06-22T08:00:00.000Z",
-          "wordCount": 5129,
+          "wordCount": 5032,
           "title": "Using AI To Detect Sentiment In Audio Files",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
@@ -38,7 +68,7 @@
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
           "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "publishedOn": "2023-06-20T09:00:00.000Z",
-          "wordCount": 3624,
+          "wordCount": 3617,
           "title": "Visual Editing Comes To The Headless CMS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
@@ -53,7 +83,7 @@
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "publishedOn": "2023-06-19T17:00:00.000Z",
-          "wordCount": 6910,
+          "wordCount": 6914,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
@@ -98,7 +128,7 @@
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
           "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5659,
+          "wordCount": 5660,
           "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
@@ -113,7 +143,7 @@
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
           "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10212,
+          "wordCount": 10111,
           "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
@@ -128,7 +158,7 @@
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "publishedOn": "2023-06-12T16:00:00.000Z",
-          "wordCount": 7061,
+          "wordCount": 7064,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
@@ -143,7 +173,7 @@
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
           "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "publishedOn": "2023-06-09T10:00:00.000Z",
-          "wordCount": 4757,
+          "wordCount": 4762,
           "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
@@ -158,7 +188,7 @@
           "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
           "link": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
           "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 6541,
+          "wordCount": 6549,
           "title": "Testing Sites And Apps With Blind Users: A Cheat Sheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg",
@@ -173,7 +203,7 @@
           "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
           "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
           "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8996,
+          "wordCount": 8889,
           "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
           "enclosure": {
             "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
@@ -188,7 +218,7 @@
           "description": "In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.",
           "link": "https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/",
           "publishedOn": "2023-06-05T10:00:00.000Z",
-          "wordCount": 4859,
+          "wordCount": 4863,
           "title": "Primitive Objects In JavaScript: When To Use Them (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/primitive-objects-javascript-part-2/primitive-objects-javascript-part-2.jpg",
@@ -203,7 +233,7 @@
           "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
           "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
           "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5508,
+          "wordCount": 5510,
           "title": "How To Enable Collaboration In A Multiparty Setting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
@@ -233,7 +263,7 @@
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6270,
+          "wordCount": 6268,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -248,7 +278,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
           "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
           "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5298,
+          "wordCount": 5289,
           "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
@@ -263,7 +293,7 @@
           "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
           "link": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
           "publishedOn": "2023-05-26T15:30:00.000Z",
-          "wordCount": 5801,
+          "wordCount": 5809,
           "title": "Designing A Better Design Handoff File In Figma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg",
@@ -286,21 +316,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
-          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
-          "description": "Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.",
-          "link": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
-          "publishedOn": "2023-05-25T11:00:00.000Z",
-          "wordCount": 5549,
-          "title": "The Impact Of Agile Methodologies On Code Quality",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg"
         }
       ]
     },
@@ -309,6 +324,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
+          "author": "Okoye Victor Chukwuebuka",
+          "description": "It's common to find errors and bugs in your code if you're a software developer. They might occur because of incorrect input, from passing the wrong data types, or because of delays or response timeouts.  And even though errors and bugs are a part of life, they can stress",
+          "link": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
+          "publishedOn": "2023-06-23T21:38:23.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Exception Filters to Catch Bugs in Nest.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/brett-jordan-XWar9MbNGUY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
+          "author": "Mihail Gaberov",
+          "description": "In this tutorial we are going to build a real-life shopping cart 🛒 application.  We'll talk about the technology stack and the features it will have in a minute. I'll also walk you through the process step-by-step. But first, let me show you what it's going to look like.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
+          "publishedOn": "2023-06-23T17:09:00.000Z",
+          "wordCount": 5635,
+          "title": "How to Build a Shopping Cart with React and TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/shopping-cart-app-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
+          "author": "Wenbin Fang",
+          "description": "ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
+          "publishedOn": "2023-06-22T23:01:49.000Z",
+          "wordCount": 1888,
+          "title": "How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/56ae8d3bf6a04a8b85c96c695f29643f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
+          "publishedOn": "2023-06-22T22:49:49.000Z",
+          "wordCount": 1184,
+          "title": "How to Make a Database Read-Only in MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/altumcode-dMUt0X3f59Q-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
+          "author": "Eamonn Cottrell",
+          "description": "Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check",
+          "link": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
+          "publishedOn": "2023-06-22T22:22:52.000Z",
+          "wordCount": 1579,
+          "title": "Intro to Generative AI – 10 Free Courses by Google",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/gen-AI.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
+          "author": "Tamerlan Gudabayev",
+          "description": "If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and",
+          "link": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
+          "publishedOn": "2023-06-22T22:06:46.000Z",
+          "wordCount": 3015,
+          "title": "Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181298--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
+          "author": "Rajdeep Singh",
+          "description": "If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can",
+          "link": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
+          "publishedOn": "2023-06-22T22:02:31.000Z",
+          "wordCount": 1265,
+          "title": "The Best Gnome Extensions For Developer Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/The-Best-Gnome-Extensions-For-Developer-Productivity.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
+          "author": "Shane Duggan",
+          "description": "I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can",
+          "link": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
+          "publishedOn": "2023-06-22T20:20:04.000Z",
+          "wordCount": 2390,
+          "title": "How to Create an AI Tweet Generator Using LangChain",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
           "author": "Beau Carnes",
@@ -328,86 +423,6 @@
           "wordCount": 1039,
           "title": "Learn Supabase, an Open-Source Firebase Alternative",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/supabase.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
-          "author": "Prajwal Kulkarni",
-          "description": "In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a",
-          "link": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
-          "publishedOn": "2023-06-21T16:43:47.000Z",
-          "wordCount": 2213,
-          "title": "How to Create an API Proxy Gateway with AWS HTTP API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/praneet-kumar-H8dcf-v98mA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
-          "author": "Tom Chant",
-          "description": "Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.",
-          "link": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
-          "publishedOn": "2023-06-21T14:07:17.000Z",
-          "wordCount": 5118,
-          "title": "How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Slide-16_9---15.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
-          "author": "Arunachalam B",
-          "description": "In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to",
-          "link": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
-          "publishedOn": "2023-06-21T13:56:00.000Z",
-          "wordCount": 2007,
-          "title": "How to Offer Custom APIs to Your Users with AWS API Gateway",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/AWS-API-Gateway-Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/creating-html-forms/",
-          "author": "David Clinton",
-          "description": "If you have a website, it's only a matter of time before you feel the irrepressible urge to gather information about your site's users.  The most direct way to do that is to ask them some questions. And, in the HTML world, the best tool for recording the answers",
-          "link": "https://www.freecodecamp.org/news/creating-html-forms/",
-          "publishedOn": "2023-06-20T22:17:13.000Z",
-          "wordCount": 1783,
-          "title": "How to Create a Simple HTML and PHP Form",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-john-petalcurin-2115257.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/",
-          "author": "Deborah Kurata",
-          "description": "Have you noticed a hash symbol showing up in Angular code samples? If not, you may see it soon. What is the purpose of the # and when should you use it? The # symbol was recently added to JavaScript to denote private class properties. Making a class variable private",
-          "link": "https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/",
-          "publishedOn": "2023-06-20T20:39:45.000Z",
-          "wordCount": 1795,
-          "title": "How to Hide Your Angular Properties – # vs private Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/hash-v-private-thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
-          "author": "Oluwatobi Sofela",
-          "description": "CSS transform allows you to translate, rotate, skew, scale, or add perspective effects to HTML elements. This tutorial discusses everything you need to know to transform HTML elements like a pro. Table of Contents  1.  What is the CSS transform Property?  2.  What is the CSS",
-          "link": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
-          "publishedOn": "2023-06-19T21:13:33.000Z",
-          "wordCount": 7757,
-          "title": "CSS Transform Handbook – Complete Guide to CSS Transform Functions and Properties",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/css-transform-image-by-efes-from-pixabay-codesweetly.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Hi! If you speak Spanish and you want to learn JavaScript for DOM manipulation, you are in the right place. In this article, you will find a brief introduction to JavaScript for DOM manipulation. You will learn why this is a very powerful tool for developing interactive web applications and",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/",
-          "publishedOn": "2023-06-19T15:12:59.000Z",
-          "wordCount": 2740,
-          "title": "Learn JavaScript for DOM Manipulation in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/course-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
-          "author": "Tim Kleier",
-          "description": "There are a number of AI tools for developers emerging on the market. But in my mind GitHub Copilot stands above the rest because of its usability, seamless IDE integration, and remarkable enhancements to developer productivity. Copilot offers a variety of AI tools that have radically streamlined my experience as",
-          "link": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
-          "publishedOn": "2023-06-16T17:02:17.000Z",
-          "wordCount": 2747,
-          "title": "How to Use GitHub Copilot to Become a Happier and More Productive Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-14-at-12.42.04-PM.png"
         }
       ]
     }
