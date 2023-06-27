@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollender and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
+          "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
+          "publishedOn": "2023-06-26T08:00:00.000Z",
+          "wordCount": 6432,
+          "title": "Behind The Curtains Of Wikipedia Redesign",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
           "description": "In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.",
@@ -31,21 +46,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/penpot-flex-layout-building-css-layouts-design-tool/penpot-flex-layout-building-css-layouts-design-tool.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollendar and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
-          "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
-          "publishedOn": "2023-06-23T08:00:00.000Z",
-          "wordCount": 6434,
-          "title": "Behind The Curtains Of Wikipedia Redesign",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
@@ -68,7 +68,7 @@
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
           "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "publishedOn": "2023-06-20T09:00:00.000Z",
-          "wordCount": 3623,
+          "wordCount": 3620,
           "title": "Visual Editing Comes To The Headless CMS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
@@ -83,7 +83,7 @@
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "publishedOn": "2023-06-19T17:00:00.000Z",
-          "wordCount": 6919,
+          "wordCount": 6918,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
@@ -128,7 +128,7 @@
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
           "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5758,
+          "wordCount": 5658,
           "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
@@ -143,7 +143,7 @@
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
           "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10116,
+          "wordCount": 10115,
           "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
@@ -158,7 +158,7 @@
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "publishedOn": "2023-06-12T16:00:00.000Z",
-          "wordCount": 7063,
+          "wordCount": 7066,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
@@ -173,7 +173,7 @@
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
           "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "publishedOn": "2023-06-09T10:00:00.000Z",
-          "wordCount": 4749,
+          "wordCount": 4754,
           "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
@@ -188,7 +188,7 @@
           "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
           "link": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
           "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 6549,
+          "wordCount": 6539,
           "title": "Testing Sites And Apps With Blind Users: A Cheat Sheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg",
@@ -203,7 +203,7 @@
           "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
           "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
           "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8886,
+          "wordCount": 8993,
           "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
           "enclosure": {
             "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
@@ -218,7 +218,7 @@
           "description": "In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.",
           "link": "https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/",
           "publishedOn": "2023-06-05T10:00:00.000Z",
-          "wordCount": 4858,
+          "wordCount": 4861,
           "title": "Primitive Objects In JavaScript: When To Use Them (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/primitive-objects-javascript-part-2/primitive-objects-javascript-part-2.jpg",
@@ -233,7 +233,7 @@
           "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
           "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
           "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5513,
+          "wordCount": 5514,
           "title": "How To Enable Collaboration In A Multiparty Setting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
@@ -263,7 +263,7 @@
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6271,
+          "wordCount": 6269,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -278,7 +278,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
           "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
           "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5298,
+          "wordCount": 5301,
           "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
