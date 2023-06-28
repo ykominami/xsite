@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.",
+          "link": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
+          "publishedOn": "2023-06-27T12:00:00.000Z",
+          "wordCount": 5945,
+          "title": "Useful DevTools Tips and Tricks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollender and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
           "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
           "publishedOn": "2023-06-26T08:00:00.000Z",
-          "wordCount": 6432,
+          "wordCount": 6423,
           "title": "Behind The Curtains Of Wikipedia Redesign",
           "enclosure": {
             "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
@@ -53,7 +68,7 @@
           "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
           "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
           "publishedOn": "2023-06-22T08:00:00.000Z",
-          "wordCount": 5025,
+          "wordCount": 5029,
           "title": "Using AI To Detect Sentiment In Audio Files",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
@@ -68,7 +83,7 @@
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
           "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "publishedOn": "2023-06-20T09:00:00.000Z",
-          "wordCount": 3620,
+          "wordCount": 3616,
           "title": "Visual Editing Comes To The Headless CMS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
@@ -83,7 +98,7 @@
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "publishedOn": "2023-06-19T17:00:00.000Z",
-          "wordCount": 6918,
+          "wordCount": 6911,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
@@ -128,7 +143,7 @@
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
           "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5658,
+          "wordCount": 5651,
           "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
@@ -143,7 +158,7 @@
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
           "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10115,
+          "wordCount": 10207,
           "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
@@ -158,7 +173,7 @@
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "publishedOn": "2023-06-12T16:00:00.000Z",
-          "wordCount": 7066,
+          "wordCount": 7056,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
@@ -173,7 +188,7 @@
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
           "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "publishedOn": "2023-06-09T10:00:00.000Z",
-          "wordCount": 4754,
+          "wordCount": 4745,
           "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
@@ -188,7 +203,7 @@
           "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
           "link": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
           "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 6539,
+          "wordCount": 6537,
           "title": "Testing Sites And Apps With Blind Users: A Cheat Sheet",
           "enclosure": {
             "url": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg",
@@ -203,7 +218,7 @@
           "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
           "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
           "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8993,
+          "wordCount": 8888,
           "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
           "enclosure": {
             "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
@@ -218,7 +233,7 @@
           "description": "In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.",
           "link": "https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/",
           "publishedOn": "2023-06-05T10:00:00.000Z",
-          "wordCount": 4861,
+          "wordCount": 4852,
           "title": "Primitive Objects In JavaScript: When To Use Them (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/primitive-objects-javascript-part-2/primitive-objects-javascript-part-2.jpg",
@@ -233,7 +248,7 @@
           "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
           "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
           "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5508,
           "title": "How To Enable Collaboration In A Multiparty Setting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
@@ -263,7 +278,7 @@
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6269,
+          "wordCount": 6266,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -278,7 +293,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
           "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
           "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5301,
+          "wordCount": 5286,
           "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
@@ -295,104 +310,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
-          "author": "Okoye Victor Chukwuebuka",
-          "description": "It's common to find errors and bugs in your code if you're a software developer. They might occur because of incorrect input, from passing the wrong data types, or because of delays or response timeouts.  And even though errors and bugs are a part of life, they can stress",
-          "link": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
-          "publishedOn": "2023-06-23T21:38:23.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Exception Filters to Catch Bugs in Nest.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/brett-jordan-XWar9MbNGUY-unsplash.jpg"
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
+          "author": "Sampurna Chapagain",
+          "description": "Django is a free and open-source Python web framework that helps you quickly develop secure and maintainable web applications. In this tutorial, I will guide you step by step as we create a calculator app using django. This is a beginner-friendly tutorial, so if you are new to Django, you",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
+          "publishedOn": "2023-06-27T17:29:01.000Z",
+          "wordCount": 1882,
+          "title": "How to Create a Simple Calculator App in Django",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Add-a-subheading--3-.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
-          "author": "Mihail Gaberov",
-          "description": "In this tutorial we are going to build a real-life shopping cart 🛒 application.  We'll talk about the technology stack and the features it will have in a minute. I'll also walk you through the process step-by-step. But first, let me show you what it's going to look like.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
-          "publishedOn": "2023-06-23T17:09:00.000Z",
-          "wordCount": 5635,
-          "title": "How to Build a Shopping Cart with React and TypeScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/shopping-cart-app-article.png"
+          "id": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
+          "author": "Rahul",
+          "description": "Have you ever worked with promises in JavaScript and gotten frustrated when one rejects and ruins everything?  You write some promise-based code, everything is chugging along nicely, and then boom – one little promise rejects and the whole chain comes crashing down. Your code grinds to a halt and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
+          "publishedOn": "2023-06-27T17:03:57.000Z",
+          "wordCount": 1605,
+          "title": "How to Use Promise.allSettled() in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/andrew-petrov-hopnkQoC0dg-unsplash.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
-          "author": "Wenbin Fang",
-          "description": "ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
-          "publishedOn": "2023-06-22T23:01:49.000Z",
-          "wordCount": 1888,
-          "title": "How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/56ae8d3bf6a04a8b85c96c695f29643f.jpeg"
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
+          "author": "Hillary Nyakundi",
+          "description": "Python is one of the most popular programming languages today. Its usage cuts across multiple fields, but the most common ones are data science, machine learning, and web development. When you're coding in Python, you'll use different data structures. In Python, among the most used is the dictionary. A dictionary",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
+          "publishedOn": "2023-06-27T16:59:26.000Z",
+          "wordCount": 1291,
+          "title": "How to Check if a Key Exists in a Dictionary in Python – Python Dict Has Key",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-1.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
-          "publishedOn": "2023-06-22T22:49:49.000Z",
-          "wordCount": 1184,
-          "title": "How to Make a Database Read-Only in MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/altumcode-dMUt0X3f59Q-unsplash.jpg"
+          "id": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
+          "author": "Isah Jacob",
+          "description": "As a beginner learning Java, one of the fundamental topics you you'll need to understand is data types.  Every day in the life of every software engineer is about how to manipulate data, how to get data from users, the format of the data, and how this data is",
+          "link": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
+          "publishedOn": "2023-06-27T16:59:18.000Z",
+          "wordCount": 2239,
+          "title": "Java Data Types And Variables – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/data-types-and-variables.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
-          "author": "Eamonn Cottrell",
-          "description": "Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check",
-          "link": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
-          "publishedOn": "2023-06-22T22:22:52.000Z",
-          "wordCount": 1579,
-          "title": "Intro to Generative AI – 10 Free Courses by Google",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/gen-AI.jpg"
+          "id": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
+          "author": "Hillary Nyakundi",
+          "description": "Encountering errors is very common during software development, and when working with Python and Django one such error is ImportError: cannot import name 'force text' from 'django.utils.encoding'. This particular error indicates that there is a problem with importing the force text method from the django.utils.encoding module. The missing method is",
+          "link": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
+          "publishedOn": "2023-06-27T16:43:24.000Z",
+          "wordCount": 942,
+          "title": "ImportError: cannot import name 'force text' from 'django.utils.encoding' [Python Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-2.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
-          "author": "Tamerlan Gudabayev",
-          "description": "If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and",
-          "link": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
-          "publishedOn": "2023-06-22T22:06:46.000Z",
-          "wordCount": 3015,
-          "title": "Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181298--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
-          "author": "Rajdeep Singh",
-          "description": "If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can",
-          "link": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
-          "publishedOn": "2023-06-22T22:02:31.000Z",
-          "wordCount": 1265,
-          "title": "The Best Gnome Extensions For Developer Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/The-Best-Gnome-Extensions-For-Developer-Productivity.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
-          "author": "Shane Duggan",
-          "description": "I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can",
-          "link": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
-          "publishedOn": "2023-06-22T20:20:04.000Z",
-          "wordCount": 2390,
-          "title": "How to Create an AI Tweet Generator Using LangChain",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "id": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
           "author": "Beau Carnes",
-          "description": "Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from",
-          "link": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
-          "publishedOn": "2023-06-22T12:50:51.000Z",
-          "wordCount": 1126,
-          "title": "Learn Pandas & Python for Data Analysis [Full Course]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pandas.png"
+          "description": "As a software developer, staying up-to-date with evolving technologies is a cornerstone to one's career. C# is a powerful language that has continued to evolve and transform the landscape of software development. If you are a programmer with some experience in C# and looking to deepen your knowledge, then you’ve",
+          "link": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
+          "publishedOn": "2023-06-27T13:51:52.000Z",
+          "wordCount": 1026,
+          "title": "Learn Advanced C# Concepts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/csharp.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
-          "author": "Beau Carnes",
-          "description": "Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was",
-          "link": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
-          "publishedOn": "2023-06-22T12:20:35.000Z",
-          "wordCount": 1039,
-          "title": "Learn Supabase, an Open-Source Firebase Alternative",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/supabase.png"
+          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
+          "author": "Hillary Nyakundi",
+          "description": "These days, everything is made possible with the help of mobile phones and applications. Let's say you need to order food – you can do so instantly via the company's app. Maybe you need government services – the same thing applies. You can even get medical emergency dial services via",
+          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
+          "publishedOn": "2023-06-27T12:00:00.000Z",
+          "wordCount": 2883,
+          "title": "What is a PWA? Progressive Web Apps for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImagePWA.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
+          "author": "Dillion Megida",
+          "description": "AND && and OR || are logical operators in JavaScript which you can use for performing different logical expressions. In this article, I'll explain the difference between them. The goal of this article is for you to understand how these operators work and how they are different. To understand these",
+          "link": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
+          "publishedOn": "2023-06-27T08:15:17.000Z",
+          "wordCount": 2200,
+          "title": "Difference between logical operators AND and OR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/31-and-or.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
+          "author": "Austin Gil",
+          "description": "In some recent tutorials, I covered supporting file uploads on the front end [https://austingil.com/uploading-files-with-html/], supporting file uploads on the back end [https://austingil.com/file-uploads-in-node/], and optimizing costs by moving file uploads to object storage. [https://austingil.com/upload-to-s3/] Today, I'll continue to focus on more architectural work, but this time it’ll be focused on optimizing",
+          "link": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
+          "publishedOn": "2023-06-27T00:17:23.000Z",
+          "wordCount": 2060,
+          "title": "How CDNs Help Speed Up Performance by Reducing Latency",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-pixabay-315934.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/",
+          "author": "Arunachalam B",
+          "description": "In today's data-driven world, vast amounts of unstructured text data are generated every day. And to help handle all that data, Natural Language Processing (NLP) has emerged as a transformative technology.  NLP is a sub-field of artificial intelligence. It focuses on enabling machines to understand, interpret, and generate human",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/",
+          "publishedOn": "2023-06-26T23:10:31.000Z",
+          "wordCount": 2102,
+          "title": "NLP using spaCy – How to Get Started with Natural Language Processing",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/NLP-using-Spacy---Banner.png"
         }
       ]
     }
