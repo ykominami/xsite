@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/perfect-design-process/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "The design process is messy. You might be following a structured approach, but too often, it takes a life of its own. And before you know it, you are designing in chaos, with last-minute changes and missed deadlines. So, what’s the “perfect” design process?",
+          "link": "https://smashingmagazine.com/2023/06/perfect-design-process/",
+          "publishedOn": "2023-06-29T10:00:00.000Z",
+          "wordCount": 3902,
+          "title": "What’s The Perfect Design Process?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
           "description": "Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.",
           "link": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
           "publishedOn": "2023-06-27T12:00:00.000Z",
-          "wordCount": 5940,
+          "wordCount": 5935,
           "title": "Useful DevTools Tips and Tricks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg",
@@ -38,7 +53,7 @@
           "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollender and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
           "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
           "publishedOn": "2023-06-26T08:00:00.000Z",
-          "wordCount": 6424,
+          "wordCount": 6422,
           "title": "Behind The Curtains Of Wikipedia Redesign",
           "enclosure": {
             "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
@@ -68,7 +83,7 @@
           "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
           "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
           "publishedOn": "2023-06-22T08:00:00.000Z",
-          "wordCount": 5025,
+          "wordCount": 5022,
           "title": "Using AI To Detect Sentiment In Audio Files",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
@@ -83,7 +98,7 @@
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
           "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "publishedOn": "2023-06-20T09:00:00.000Z",
-          "wordCount": 3608,
+          "wordCount": 3720,
           "title": "Visual Editing Comes To The Headless CMS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
@@ -98,7 +113,7 @@
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "publishedOn": "2023-06-19T17:00:00.000Z",
-          "wordCount": 6911,
+          "wordCount": 6908,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
@@ -143,7 +158,7 @@
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
           "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5752,
+          "wordCount": 5647,
           "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
@@ -158,7 +173,7 @@
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
           "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10104,
+          "wordCount": 10110,
           "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
@@ -173,7 +188,7 @@
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "publishedOn": "2023-06-12T16:00:00.000Z",
-          "wordCount": 7051,
+          "wordCount": 7053,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
@@ -188,7 +203,7 @@
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
           "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "publishedOn": "2023-06-09T10:00:00.000Z",
-          "wordCount": 4741,
+          "wordCount": 4747,
           "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
@@ -218,7 +233,7 @@
           "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
           "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
           "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8893,
+          "wordCount": 8880,
           "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
           "enclosure": {
             "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
@@ -233,7 +248,7 @@
           "description": "In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.",
           "link": "https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/",
           "publishedOn": "2023-06-05T10:00:00.000Z",
-          "wordCount": 4954,
+          "wordCount": 4856,
           "title": "Primitive Objects In JavaScript: When To Use Them (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/primitive-objects-javascript-part-2/primitive-objects-javascript-part-2.jpg",
@@ -248,7 +263,7 @@
           "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
           "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
           "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5501,
+          "wordCount": 5500,
           "title": "How To Enable Collaboration In A Multiparty Setting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
@@ -278,7 +293,7 @@
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6260,
+          "wordCount": 6262,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -286,21 +301,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
-          "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5290,
-          "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png"
         }
       ]
     },
@@ -309,6 +309,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
+          "author": "Valentine Gatwiri",
+          "description": "In the field of machine learning, there are two approaches: supervised learning and unsupervised learning. And it all depends on whether your data is labeled or not. Labels shape the way models are trained and affect how we gather insights from them. In this article, we'll explore the concepts of",
+          "link": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
+          "publishedOn": "2023-06-29T16:10:36.000Z",
+          "wordCount": 2638,
+          "title": "Supervised vs Unsupervised Learning – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-from-2023-06-27-14-46-14.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
+          "author": "Beau Carnes",
+          "description": "Embark on a journey through the realms of 3D game development with a new video course on the freeCodeCamp.org YouTube channel. Designed by the experienced game developer Omar Zaki, this course will help you master the creation of a 3D Action Role-Playing Game (RPG) with the open source Godot engine.",
+          "link": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
+          "publishedOn": "2023-06-29T13:50:40.000Z",
+          "wordCount": 1019,
+          "title": "Create a 3D RPG Game with Godot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/godot.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/",
           "author": "Brenda Chepkorir",
@@ -388,26 +408,6 @@
           "wordCount": 2883,
           "title": "What is a PWA? Progressive Web Apps for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImagePWA.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
-          "author": "Dillion Megida",
-          "description": "AND && and OR || are logical operators in JavaScript which you can use for performing different logical expressions. In this article, I'll explain the difference between them. The goal of this article is for you to understand how these operators work and how they are different. To understand these",
-          "link": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
-          "publishedOn": "2023-06-27T08:15:17.000Z",
-          "wordCount": 2200,
-          "title": "Difference between logical operators AND and OR",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/31-and-or.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
-          "author": "Austin Gil",
-          "description": "In some recent tutorials, I covered supporting file uploads on the front end [https://austingil.com/uploading-files-with-html/], supporting file uploads on the back end [https://austingil.com/file-uploads-in-node/], and optimizing costs by moving file uploads to object storage. [https://austingil.com/upload-to-s3/] Today, I'll continue to focus on more architectural work, but this time it’ll be focused on optimizing",
-          "link": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
-          "publishedOn": "2023-06-27T00:17:23.000Z",
-          "wordCount": 2060,
-          "title": "How CDNs Help Speed Up Performance by Reducing Latency",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-pixabay-315934.jpg"
         }
       ]
     }
