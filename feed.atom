@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T00:11:04.528Z</id>
+    <id>urn:2023-07-01T00:13:42.057Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T00:11:04.528Z</updated>
+    <updated>2023-07-01T00:13:42.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install MySQL and MySQL Workbench on Windows]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/"/>
+        <updated>2023-06-30T18:23:15.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn MySQL, starting with a good client is super helpful – especially when you are just beginning your journey. There are a lot of clients out there for your MySQL-based needs, like XAMPP, DataGrip, and others. Among all of them, I prefer the MySQL Workbench [https://www.mysql.com/products/workbench/].]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with CSS Style Sheets – the Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/css-style-sheets-basics/</id>
+        <link href="https://www.freecodecamp.org/news/css-style-sheets-basics/"/>
+        <updated>2023-06-30T16:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Using HTML tags like 
+, , and so on can help you organize your web page content nicely, but only up to a point.  HTML-only pages can be pleasant and easy to read – which is hugely important – but, after a while, they all do tend to look]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off To New Adventures (July 2023 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2023/06/desktop-wallpaper-calendars-july-2023/</id>
+        <link href="https://smashingmagazine.com/2023/06/desktop-wallpaper-calendars-july-2023/"/>
+        <updated>2023-06-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome the new month with some fresh desktop wallpapers. Designed by artists and designers from around the globe, they come in versions with and without a calendar for July 2023. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supervised vs Unsupervised Learning – What's the Difference?]]></title>
         <id>https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/</id>
@@ -96,16 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Advanced C# Concepts]]></title>
-        <id>https://www.freecodecamp.org/news/learn-advanced-c-concepts/</id>
-        <link href="https://www.freecodecamp.org/news/learn-advanced-c-concepts/"/>
-        <updated>2023-06-27T13:51:52.000Z</updated>
-        <summary type="html"><![CDATA[As a software developer, staying up-to-date with evolving technologies is a cornerstone of your career.  C# is a powerful language that has continued to evolve and transform the landscape of software development. If you are a programmer with some experience in C# and looking to deepen your knowledge, then]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful DevTools Tips and Tricks]]></title>
         <id>https://smashingmagazine.com/2023/06/popular-devtools-tips/</id>
         <link href="https://smashingmagazine.com/2023/06/popular-devtools-tips/"/>
@@ -113,16 +134,6 @@
         <summary type="html"><![CDATA[Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a PWA? Progressive Web Apps for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-progressive-web-apps/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-progressive-web-apps/"/>
-        <updated>2023-06-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[These days, everything is made possible with the help of mobile phones and applications. Let's say you need to order food – you can do so instantly via the company's app. Maybe you need government services – the same thing applies. You can even get medical emergency dial services via]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
         </author>
     </entry>
     <entry>
@@ -283,16 +294,6 @@
         <summary type="html"><![CDATA[Pricing a product or service is one of the more challenging aspects of product development. Pricing is an inexact science, and chances are you will not get it right the first time. But where do you even begin? Let’s explore the important considerations that go into product pricing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Form Control Styling With Selectmenu And Anchoring API]]></title>
-        <id>https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/</id>
-        <link href="https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/"/>
-        <updated>2023-06-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
 </feed>
