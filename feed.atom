@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-03T00:12:08.883Z</id>
+    <id>urn:2023-07-04T00:11:44.663Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T00:12:08.883Z</updated>
+    <updated>2023-07-04T00:11:44.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Helpful Linux Commands You Should Know]]></title>
+        <id>https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/</id>
+        <link href="https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/"/>
+        <updated>2023-07-03T20:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Ever feel like you’ve mastered the basics of Linux and are ready to level up your skills? Well, good news – there are many powerful commands that you might not know about. In this article, I'll introduce you to some lesser-known Linux commands that will help you become a more]]></summary>
+        <author>
+            <name>Rahul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users in Next.js With NextAuth – App Router VS Pages Router]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/"/>
+        <updated>2023-07-03T19:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is a key security feature of any application. But it can be complex to implement properly. This tutorial will show you an easy and secure way to handle authentication in your apps. It involves allowing trusted organizations (such as Google, Facebook, Github, and so on) to authenticate your users]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot dog or not hot dog? Find out with Convolutional Neural Networks]]></title>
+        <id>https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/"/>
+        <updated>2023-07-03T15:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Is this a hot dog? What about this image? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Convolutional Neural Networks. Then you will build a project that can determine if an image is a hot dog or not a hot dog! Kylie]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Git Rebase Handbook – A Definitive Guide to Rebasing]]></title>
+        <id>https://www.freecodecamp.org/news/git-rebase-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/git-rebase-handbook/"/>
+        <updated>2023-07-03T13:56:34.000Z</updated>
+        <summary type="html"><![CDATA[One of the most powerful tools a developer can have in their toolbox is git rebase. Yet it is notorious for being complex and misunderstood.  The truth is, if you understand what it actually does, git rebase is a very elegant, and straightforward tool to achieve so many different]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Image Carousel with React and Framer Motion]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-image-carousel-with-react-and-framer-motion/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-image-carousel-with-react-and-framer-motion/"/>
+        <updated>2023-07-03T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[You've probably come across carousels in many modern-day applications. Known by various names such as sliders or rotators, these versatile web elements showcase content in a visually appealing, sliding, or rotating manner.  Carousels can help you save space as well as enhance your User Interface and provide a great]]></summary>
+        <author>
+            <name>Clinton Joy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install MySQL and MySQL Workbench on Windows]]></title>
         <id>https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/</id>
@@ -74,56 +124,6 @@
         <summary type="html"><![CDATA[New front end features often require back end data support – especially where new endpoints are concerned.  For example, an application that needs an authenticated user experience may need a new /authenticate endpoint. If for any reason endpoint development is stalled or lags behind, despite the sprint planning, you]]></summary>
         <author>
             <name>Brenda Chepkorir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Simple Calculator App in Django]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/"/>
-        <updated>2023-06-27T17:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Django is a free and open-source Python web framework that helps you quickly develop secure and maintainable web applications. In this tutorial, I will guide you step by step as we create a calculator app using django. This is a beginner-friendly tutorial, so if you are new to Django, you]]></summary>
-        <author>
-            <name>Sampurna Chapagain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Promise.allSettled() in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/"/>
-        <updated>2023-06-27T17:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever worked with promises in JavaScript and gotten frustrated when one rejects and ruins everything?  You write some promise-based code, everything is chugging along nicely, and then boom – one little promise rejects and the whole chain comes crashing down. Your code grinds to a halt and]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if a Key Exists in a Dictionary in Python – Python Dict Has Key]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/"/>
-        <updated>2023-06-27T16:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Python is one of the most popular programming languages today. Its usage cuts across multiple fields, but the most common ones are data science, machine learning, and web development. When you're coding in Python, you'll use different data structures. In Python, among the most used is the dictionary. A dictionary]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Data Types And Variables – Explained for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/java-data-types-and-variables/</id>
-        <link href="https://www.freecodecamp.org/news/java-data-types-and-variables/"/>
-        <updated>2023-06-27T16:59:18.000Z</updated>
-        <summary type="html"><![CDATA[As a beginner learning Java, one of the fundamental topics you'll need to understand is data types.  Every day in the life of every software engineer is about how to manipulate data, how to get data from users, the format of the data, and how this data is stored]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImportError: cannot import name 'force text' from 'django.utils.encoding' [Python Error Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/"/>
-        <updated>2023-06-27T16:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Encountering errors is very common during software development, and when working with Python and Django one such error is ImportError: cannot import name 'force text' from 'django.utils.encoding'. This particular error indicates that there is a problem with importing the force text method from the django.utils.encoding module. The missing method is]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
         </author>
     </entry>
     <entry>
