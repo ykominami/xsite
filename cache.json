@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
+          "author": "hello@smashingmagazine.com (Robert Goesch)",
+          "description": "As of today, the world’s 50 top airlines have all agreed on the same flight search pattern. Yet the path to booking the right flight remains frustrating and confusing. Is there really only one solution? Or are they afraid to break the mold? Explore the thought experiment which turned the seemingly untouchable pattern on its head.",
+          "link": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
+          "publishedOn": "2023-07-06T10:00:00.000Z",
+          "wordCount": 6375,
+          "title": "The UX Of Flight Searches: How We Challenged Industry Standards",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/",
           "author": "hello@smashingmagazine.com (Cosima Mielke & Geoff Graham)",
           "description": "How can we create products and experiences that don’t cause harm to the planet and to the people who use them? What do we need to consider to make more sustainable design decisions and reduce the carbon footprint of our websites? In this post, we compiled valuable resources that will get you familiar with the principles of sustainable design.",
           "link": "https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/",
           "publishedOn": "2023-07-04T09:00:00.000Z",
-          "wordCount": 5841,
+          "wordCount": 5848,
           "title": "Sustainable Design Toolkits And Resources",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sustainable-design-toolkits/sustainability-innovation-framework-opt.png",
@@ -38,7 +53,7 @@
           "description": "Let’s welcome the new month with some fresh desktop wallpapers. Designed by artists and designers from around the globe, they come in versions with and without a calendar for July 2023. Enjoy!",
           "link": "https://smashingmagazine.com/2023/06/desktop-wallpaper-calendars-july-2023/",
           "publishedOn": "2023-06-30T10:30:00.000Z",
-          "wordCount": 5235,
+          "wordCount": 5245,
           "title": "Off To New Adventures (July 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/july-23-under-the-enchanting-moonlight-preview-opt.png",
@@ -53,7 +68,7 @@
           "description": "The design process is messy. You might be following a structured approach, but too often, it takes a life of its own. And before you know it, you are designing in chaos, with last-minute changes and missed deadlines. So, what’s the “perfect” design process?",
           "link": "https://smashingmagazine.com/2023/06/perfect-design-process/",
           "publishedOn": "2023-06-29T10:00:00.000Z",
-          "wordCount": 3902,
+          "wordCount": 3899,
           "title": "What’s The Perfect Design Process?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg",
@@ -68,7 +83,7 @@
           "description": "Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.",
           "link": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
           "publishedOn": "2023-06-27T12:00:00.000Z",
-          "wordCount": 5947,
+          "wordCount": 5951,
           "title": "Useful DevTools Tips and Tricks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg",
@@ -83,7 +98,7 @@
           "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollender and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
           "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
           "publishedOn": "2023-06-26T08:00:00.000Z",
-          "wordCount": 6424,
+          "wordCount": 6427,
           "title": "Behind The Curtains Of Wikipedia Redesign",
           "enclosure": {
             "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
@@ -113,7 +128,7 @@
           "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
           "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
           "publishedOn": "2023-06-22T08:00:00.000Z",
-          "wordCount": 5027,
+          "wordCount": 5030,
           "title": "Using AI To Detect Sentiment In Audio Files",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
@@ -128,7 +143,7 @@
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
           "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "publishedOn": "2023-06-20T09:00:00.000Z",
-          "wordCount": 3608,
+          "wordCount": 3612,
           "title": "Visual Editing Comes To The Headless CMS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
@@ -143,7 +158,7 @@
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "publishedOn": "2023-06-19T17:00:00.000Z",
-          "wordCount": 7010,
+          "wordCount": 7015,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
@@ -188,7 +203,7 @@
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
           "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5655,
+          "wordCount": 5653,
           "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
@@ -203,7 +218,7 @@
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
           "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10104,
+          "wordCount": 10109,
           "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
@@ -218,7 +233,7 @@
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
           "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "publishedOn": "2023-06-12T16:00:00.000Z",
-          "wordCount": 7054,
+          "wordCount": 7060,
           "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
@@ -233,7 +248,7 @@
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
           "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "publishedOn": "2023-06-09T10:00:00.000Z",
-          "wordCount": 4842,
+          "wordCount": 4751,
           "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
@@ -241,36 +256,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
-          "author": "hello@smashingmagazine.com (Slava Shestopalov & Eugene Shykiriavyi)",
-          "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
-          "link": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 6531,
-          "title": "Testing Sites And Apps With Blind Users: A Cheat Sheet",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
-          "author": "hello@smashingmagazine.com (Yuliia Nikitina)",
-          "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
-          "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
-          "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8885,
-          "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg"
         }
       ]
     },
@@ -279,6 +264,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/",
+          "author": "Sampurna Chapagain",
+          "description": "In Django, there are three main types of relationships: one-to-one, many-to-one, and many-to-many. In this article, I will explain the many-to-one relationship in Django. If you are a beginner with some knowledge about Django project setup or even have some decent experience in Django, you can follow along with this",
+          "link": "https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/",
+          "publishedOn": "2023-07-06T20:33:56.000Z",
+          "wordCount": 1186,
+          "title": "How to Use a Foreign Key to Create Many-to-One Relationships in Django",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Add-a-subheading--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/",
+          "author": "Umoh Tobby",
+          "description": "In C#, types called delegates represent references to methods with specific signatures.  Developers use delegates to implement callback methods, handle events, and perform tasks where executing a method at a later time is necessary.  C# offers various delegates, and two commonly used ones are Action and Func, both",
+          "link": "https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/",
+          "publishedOn": "2023-07-06T19:46:15.000Z",
+          "wordCount": 1131,
+          "title": "Action and Func Delegates in C# – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Untitled--Copy-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-css-selectors/",
+          "author": "David Clinton",
+          "description": "You can apply CSS to elements like paragraphs and ordered lists, which you can learn more about by reading this article [/news/css-style-sheets-basics/]. But you're not just restricted to those two approaches.  As we'll see in this tutorial, you can also control content behavior using custom or ID styles, pseudo",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-selectors/",
+          "publishedOn": "2023-07-06T19:42:00.000Z",
+          "wordCount": 2054,
+          "title": "How to Use CSS Selectors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-karolina-grabowska-4016510.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/",
+          "author": "Shittu Olumide",
+          "description": "Being able to convert a string into an array can be quite helpful when you're developing text-processing applications or working with data.  A string in Java is a group of characters, whereas an array is a collection of the same type of element. You may deconstruct a string into",
+          "link": "https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/",
+          "publishedOn": "2023-07-06T19:37:24.000Z",
+          "wordCount": 2545,
+          "title": "String to Array in Java – How to Convert Strings to Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-String-to-Array-in-Java---How-to-Convert-a-String-to-an-Array-in-Java.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
+          "author": "Nathan Sebhastian",
+          "description": "The goal of this handbook is to quickly introduce you to the basics of JavaScript so you can start programming applications. Instead of covering all the theories and concepts of JavaScript, I'll be teaching you only the most important building blocks of the language. We'll cover things like variables, data",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
+          "publishedOn": "2023-07-06T19:01:25.000Z",
+          "wordCount": 15506,
+          "title": "Learn JavaScript for Beginners – JS Basics Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/book-cover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/",
+          "author": "Zubair Idris Aweda",
+          "description": "When you're building large scale web applications, speed is a major priority. Users don't want to wait long for responses anymore, and they shouldn't have to. But some processes take time, and they cannot be made any faster or eliminated. Message queues help solve this problem by providing an additional",
+          "link": "https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/",
+          "publishedOn": "2023-07-06T16:23:18.000Z",
+          "wordCount": 3073,
+          "title": "How to Use Queues in Web Applications – Node.js and Redis Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/businessmen02.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
+          "author": "Beau Carnes",
+          "description": "Create Your Own Programming Language with Advanced Python: A Deep Dive into the Art of Language Design Imagine being able to build your own programming language from scratch. The ability to design and create a language tailored to your own vision and specifications is an incredible achievement for any programmer.",
+          "link": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
+          "publishedOn": "2023-07-06T14:30:36.000Z",
+          "wordCount": 1011,
+          "title": "Create Your Own Programming Language Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/language.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/",
           "author": "Arunachalam B",
@@ -308,76 +363,6 @@
           "wordCount": 3320,
           "title": "How to Authenticate Users in Next.js With NextAuth – App Router VS Pages Router",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-isaque-pereira-394377--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Is this a hot dog? What about this image? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Convolutional Neural Networks. Then you will build a project that can determine if an image is a hot dog or not a hot dog! Kylie",
-          "link": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
-          "publishedOn": "2023-07-03T15:13:35.000Z",
-          "wordCount": 891,
-          "title": "Hot dog or not hot dog? Find out with Convolutional Neural Networks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/hotdog.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-rebase-handbook/",
-          "author": "Omer Rosenbaum",
-          "description": "One of the most powerful tools a developer can have in their toolbox is git rebase. Yet it is notorious for being complex and misunderstood.  The truth is, if you understand what it actually does, git rebase is a very elegant, and straightforward tool to achieve so many different",
-          "link": "https://www.freecodecamp.org/news/git-rebase-handbook/",
-          "publishedOn": "2023-07-03T13:56:34.000Z",
-          "wordCount": 5418,
-          "title": "The Git Rebase Handbook – A Definitive Guide to Rebasing",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/The-Git-Rebase-Handbook-Book-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-image-carousel-with-react-and-framer-motion/",
-          "author": "Clinton Joy",
-          "description": "You've probably come across carousels in many modern-day applications. Known by various names such as sliders or rotators, these versatile web elements showcase content in a visually appealing, sliding, or rotating manner.  Carousels can help you save space as well as enhance your User Interface and provide a great",
-          "link": "https://www.freecodecamp.org/news/build-an-image-carousel-with-react-and-framer-motion/",
-          "publishedOn": "2023-07-03T09:47:00.000Z",
-          "wordCount": 3652,
-          "title": "How to Build an Image Carousel with React and Framer Motion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-26-at-10.45.34.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to learn MySQL, starting with a good client is super helpful – especially when you are just beginning your journey. There are a lot of clients out there for your MySQL-based needs, like XAMPP, DataGrip, and others. Among all of them, I prefer the MySQL Workbench [https://www.mysql.com/products/workbench/].",
-          "link": "https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/",
-          "publishedOn": "2023-06-30T18:23:15.000Z",
-          "wordCount": 1654,
-          "title": "How to Install MySQL and MySQL Workbench on Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/boitumelo-phetla-0DJHJcpwN9Q-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-style-sheets-basics/",
-          "author": "David Clinton",
-          "description": "Using HTML tags like \n, , and so on can help you organize your web page content nicely, but only up to a point.  HTML-only pages can be pleasant and easy to read – which is hugely important – but, after a while, they all do tend to look",
-          "link": "https://www.freecodecamp.org/news/css-style-sheets-basics/",
-          "publishedOn": "2023-06-30T16:22:07.000Z",
-          "wordCount": 1525,
-          "title": "How to Work with CSS Style Sheets – the Basics for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-bibek-ghosh-14553706.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
-          "author": "Valentine Gatwiri",
-          "description": "In the field of machine learning, there are two approaches: supervised learning and unsupervised learning. And it all depends on whether your data is labeled or not. Labels shape the way models are trained and affect how we gather insights from them. In this article, we'll explore the concepts of",
-          "link": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
-          "publishedOn": "2023-06-29T16:10:36.000Z",
-          "wordCount": 2638,
-          "title": "Supervised vs Unsupervised Learning – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-from-2023-06-27-14-46-14.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
-          "author": "Beau Carnes",
-          "description": "Embark on a journey through the realms of 3D game development with a new video course on the freeCodeCamp.org YouTube channel. Designed by the experienced game developer Omar Zaki, this course will help you master the creation of a 3D Action Role-Playing Game (RPG) with the open source Godot engine.",
-          "link": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
-          "publishedOn": "2023-06-29T13:50:40.000Z",
-          "wordCount": 1019,
-          "title": "Create a 3D RPG Game with Godot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/godot.png"
         }
       ]
     }
