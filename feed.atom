@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-10T00:12:20.347Z</id>
+    <id>urn:2023-07-11T00:12:17.909Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T00:12:20.347Z</updated>
+    <updated>2023-07-11T00:12:17.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python Env Vars – How to Get an Environment Variable in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/"/>
+        <updated>2023-07-10T21:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use @Input() to Read Angular Route Parameters]]></title>
+        <id>https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/</id>
+        <link href="https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/"/>
+        <updated>2023-07-10T21:18:44.000Z</updated>
+        <summary type="html"><![CDATA[One of the new features in Angular v16 is automatic route parameter mapping using the @Input() decorator. What does that mean? Well, you may have code that reads route parameters using the Activated Route service, like this:   private route = inject(ActivatedRoute);   ngOnInit(): void {]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JavaScript Fullscreen API]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/"/>
+        <updated>2023-07-10T21:02:06.000Z</updated>
+        <summary type="html"><![CDATA[The Fullscreen API is a browser web API that allows you to enable fullscreen mode for HTML elements. It saves you the stress of using CSS and JavaScript to implement fullscreen functionality. The use cases of fullscreen API are numerous because of the increased complexity of today's websites. In this]]></summary>
+        <author>
+            <name>Gideon Akinsanmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the TypeScript satisfies Operator]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-satisfies-operator/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-satisfies-operator/"/>
+        <updated>2023-07-10T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[In TypeScript, the satisfies operator is a very useful tool. It was introduced in TypeScript v4.9 [https://github.com/microsoft/TypeScript/issues/50457] as an effective way to ensure type safety. The satisfies operator tells you whether a given type satisfies a particular condition – and it provides this information before running your code. Also, when]]></summary>
+        <author>
+            <name>Satyam Tripathi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check Python Version – How to Check Py in Mac, Windows, and Linux]]></title>
         <id>https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/</id>
@@ -71,46 +111,6 @@
         <link href="https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/"/>
         <updated>2023-07-06T22:40:27.000Z</updated>
         <summary type="html"><![CDATA[There are many reasons you might want to import files in Python. Perhaps you're doing data analysis, custom file processing, file manipulation, automation and so on.  Fortunately, Python provides a number of ways and methods to help you accomplish this task.  In this article, we will examine some]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use a Foreign Key to Create Many-to-One Relationships in Django]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/"/>
-        <updated>2023-07-06T20:33:56.000Z</updated>
-        <summary type="html"><![CDATA[In Django, there are three main types of relationships: one-to-one, many-to-one, and many-to-many. In this article, I will explain the many-to-one relationship in Django. If you are a beginner with some knowledge about Django project setup or even have some decent experience in Django, you can follow along with this]]></summary>
-        <author>
-            <name>Sampurna Chapagain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Action and Func Delegates in C# – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/</id>
-        <link href="https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/"/>
-        <updated>2023-07-06T19:46:15.000Z</updated>
-        <summary type="html"><![CDATA[In C#, types called delegates represent references to methods with specific signatures.  Developers use delegates to implement callback methods, handle events, and perform tasks where executing a method at a later time is necessary.  C# offers various delegates, and two commonly used ones are Action and Func, both]]></summary>
-        <author>
-            <name>Umoh Tobby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-selectors/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-selectors/"/>
-        <updated>2023-07-06T19:42:00.000Z</updated>
-        <summary type="html"><![CDATA[You can apply CSS to elements like paragraphs and ordered lists, which you can learn more about by reading this article [/news/css-style-sheets-basics/]. But you're not just restricted to those two approaches.  As we'll see in this tutorial, you can also control content behavior using custom or ID styles, pseudo]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[String to Array in Java – How to Convert Strings to Arrays]]></title>
-        <id>https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/"/>
-        <updated>2023-07-06T19:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Being able to convert a string into an array can be quite helpful when you're developing text-processing applications or working with data.  A string in Java is a group of characters, whereas an array is a collection of the same type of element. You may deconstruct a string into]]></summary>
         <author>
             <name>Shittu Olumide</name>
         </author>
