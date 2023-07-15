@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T00:11:48.661Z</id>
+    <id>urn:2023-07-15T00:11:49.729Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T00:11:48.661Z</updated>
+    <updated>2023-07-15T00:11:49.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free WebDev Bootcamp for 2023 – Learn Responsive Web Design]]></title>
+        <id>https://www.freecodecamp.org/news/free-webdev-bootcamp/</id>
+        <link href="https://www.freecodecamp.org/news/free-webdev-bootcamp/"/>
+        <updated>2023-07-14T19:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's an exciting announcement that'll help make your summer a little busier and a lot more educational. Two developers and teachers are running a free, part time, remote bootcamp where you'll go through the freeCodeCamp Responsive Web Design Certification [https://www.freecodecamp.org/learn/2022/responsive-web-design/] together. You might be thinking that bootcamps are expensive, full]]></summary>
+        <author>
+            <name>Jessica Rose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Github Student Developer Pack]]></title>
+        <id>https://www.freecodecamp.org/news/github-student-developer-pack/</id>
+        <link href="https://www.freecodecamp.org/news/github-student-developer-pack/"/>
+        <updated>2023-07-14T17:35:43.000Z</updated>
+        <summary type="html"><![CDATA[For many students who are passionate about technology, limited access to crucial tools and resources is a common challenge.  Fortunately, the GitHub Student Developer Pack comes to the rescue. This pack provides students with exclusive access to a variety of top-notch developer tools, allowing them to learn through practical]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your First Open Source Code Contribution]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution/"/>
+        <updated>2023-07-14T17:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Making your first Open Source contribution, like any other first endeavor, can be difficult. Especially given the abundance of open-source projects out there. This article will help you to dip your toe into the open source community waters by making your first-ever open-source contribution. By exploring the world of open]]></summary>
+        <author>
+            <name>Aroboto Ife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing CSS In 2023: Is It Any Different Than A Few Years Ago?]]></title>
+        <id>https://smashingmagazine.com/2023/07/writing-css-2023/</id>
+        <link href="https://smashingmagazine.com/2023/07/writing-css-2023/"/>
+        <updated>2023-07-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Terraform to Deploy a Site on Google Cloud Platform]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/</id>
@@ -76,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Arrays Work in Python – Array Methods Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-arrays-work-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-arrays-work-in-python/"/>
-        <updated>2023-07-12T22:19:23.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of]]></summary>
-        <author>
-            <name>David Fagbuyiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/</id>
-        <link href="https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/"/>
-        <updated>2023-07-12T21:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro UI Framework [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/"/>
-        <updated>2023-07-12T20:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.]]></summary>
-        <author>
-            <name>Emmanuel Ohans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Create A Rapid Research Program To Support Insights At Scale]]></title>
         <id>https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/</id>
         <link href="https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/"/>
@@ -113,6 +123,16 @@
         <summary type="html"><![CDATA[Accelerate your organization’s growth and innovation with the power of Rapid Research. From inception to implementation, here is the step-by-step roadmap on how to build the program from scratch and uncover the untapped ROI opportunities waiting to propel your initiatives to new heights.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Devin Harold)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 63 With Chris Ferdinandi: What Is The Transitional Web?]]></title>
+        <id>https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/</id>
+        <link href="https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/"/>
+        <updated>2023-07-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we’re talking about The Transitional Web. What is it, and how does it describe the technologies we’re using? Drew McLellan talks to Chris Ferdinandi to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +263,6 @@
         <summary type="html"><![CDATA[One way of getting a more behind-the-scenes experience of any Smashing event is to apply as a volunteer, and Ren did just that! The SmashingConf team organized a conference in good ol’ San Francisco this year, and here’s pretty much how it went down.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ren Chen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Codux: The React Visual Editor That Improves Developer Experience]]></title>
-        <id>https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/</id>
-        <link href="https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/"/>
-        <updated>2023-06-15T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Codux](https://codux.hopp.to/smashing) is a new visual IDE brought to you by the fine folks over at[ Wix](https://www.wix.com/). It’s got a lot of low-code features that level the playing field for app development but is really designed for React developers. How so, you ask? That’s what we’re going to explore in this article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
