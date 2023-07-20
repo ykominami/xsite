@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-19T00:13:27.789Z</id>
+    <id>urn:2023-07-20T00:10:42.789Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T00:13:27.789Z</updated>
+    <updated>2023-07-20T00:10:42.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Join the #100daysofOSS Challenge and Embrace the Power of Open Source]]></title>
+        <id>https://www.freecodecamp.org/news/100-days-of-oss-challenge/</id>
+        <link href="https://www.freecodecamp.org/news/100-days-of-oss-challenge/"/>
+        <updated>2023-07-19T20:25:04.000Z</updated>
+        <summary type="html"><![CDATA[I made my first pull request (PR) to an open-source project six years ago. Technically, it was pre-work for a bootcamp that I would eventually complete, but it started my journey into open source.  It wasn’t until a couple of years later, after completing my bootcamp, that I saw]]></summary>
+        <author>
+            <name>BekahHW</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Convert Multiple Images into a Single PDF File]]></title>
+        <id>https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/"/>
+        <updated>2023-07-19T20:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Creating projects is the best way to learn a programming language. It is fun and it's a creative way to learn new things.  Whenever I try to learn a new language or new technology, I try to create a project, whether it's a small byte-sized or big project.]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manipulate HTML and CSS Using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/"/>
+        <updated>2023-07-19T18:00:02.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, the HTML DOM (Document Object Model) represents the structure and content of an HTML document as a tree-like structure. In it, each element, attribute, and text node in the HTML document is represented as a node in the DOM tree.  In this article you're going to learn]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Information Architecture? How to Create Userflows and Sitemaps for UX Design]]></title>
         <id>https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/</id>
@@ -16,11 +46,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why are two similar objects not equal in JavaScript?]]></title>
+        <title type="html"><![CDATA[Why Are Two Similar Objects Not Equal in JavaScript?]]></title>
         <id>https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/</id>
         <link href="https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/"/>
         <updated>2023-07-18T18:53:47.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, two objects cannot be equal even though they are similar. Why is that the case? 🤔 Let's understand why. For example: const obj1 = {   name: "Dillion" } const obj2 = {   name: "Dillion" } console.log(obj1 === obj2) // false As you can see]]></summary>
+        <summary type="html"><![CDATA[In JavaScript, two objects may not be equal even though they appear to be similar. Why is that the case? 🤔 Let's understand why. For example: const obj1 = {   name: "Dillion" } const obj2 = {   name: "Dillion" } console.log(obj1 === obj2) // false As]]></summary>
         <author>
             <name>Dillion Megida</name>
         </author>
@@ -70,7 +100,7 @@
         <id>https://smashingmagazine.com/2023/07/designing-age-inclusive-products-guidelines-best-practices/</id>
         <link href="https://smashingmagazine.com/2023/07/designing-age-inclusive-products-guidelines-best-practices/"/>
         <updated>2023-07-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design a more inclusive product for all, particularly for an older audience and your future self as well.]]></summary>
+        <summary type="html"><![CDATA[With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design inclusive products for all, particularly for an older audience and your future self.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michal Halperin Ben Zvi)</name>
         </author>
@@ -83,36 +113,6 @@
         <summary type="html"><![CDATA[It is a common practice for open source projects to welcome newcomers and help get them interested in contributing more. And there are various ways to do this. Two popular examples are using stargazers cards and forkers cards. Stargazers highlight the GitHub users' profiles who starred the repository. And forkers]]></summary>
         <author>
             <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Error-Free HTML Forms]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-error-free-html-forms/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-error-free-html-forms/"/>
-        <updated>2023-07-17T18:47:31.000Z</updated>
-        <summary type="html"><![CDATA[After taking some coding courses, I decided that it was time to put my knowledge to good use and do a coding project.  Like most newbies, I went to Google to find some inspiration. As I scrolled through the internet, I stumbled upon Skillcrush’s list of HTML and CSS]]></summary>
-        <author>
-            <name>CHRISTINE T. BELZIE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are BNF and EBNF in Programming?]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-bnf-and-ebnf/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-bnf-and-ebnf/"/>
-        <updated>2023-07-17T17:26:21.000Z</updated>
-        <summary type="html"><![CDATA[As programmers, we communicate with computers through many languages: Python, JavaScript, SQL, C... you name it. But do you know how the creators of these languages precisely describe their syntax to us, leaving no room for doubt? They could've relied on plain English, but that would not be a good]]></summary>
-        <author>
-            <name>Ashutosh Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Configure Visual Studio Code for Python Development]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/"/>
-        <updated>2023-07-17T17:13:01.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is one of the most versatile code editors out there. Even though it's a code editor, the sheer extensibility of the program makes it almost as capable as some of the JetBrains products out there. In this article, I'll walk you through the entire process of configuring]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
         </author>
     </entry>
     <entry>
@@ -243,26 +243,6 @@
         <summary type="html"><![CDATA[Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Editing Comes To The Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2023/06/visual-editing-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2023/06/visual-editing-headless-cms/"/>
-        <updated>2023-06-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Scott Gallant)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gatsby Headaches And How To Cure Them: i18n (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/</id>
-        <link href="https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/"/>
-        <updated>2023-06-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
