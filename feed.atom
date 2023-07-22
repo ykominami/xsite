@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T00:10:14.670Z</id>
+    <id>urn:2023-07-22T00:11:04.187Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T00:10:14.670Z</updated>
+    <updated>2023-07-22T00:11:04.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Art Of Looking Back: A Critical Reflection For Individual Contributors]]></title>
+        <id>https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/</id>
+        <link href="https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/"/>
+        <updated>2023-07-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the importance of critical reflective practice and challenge some beliefs about reflection and its role in our work and growth. Kristian Mikhel suggests a critical reflective routine for individual contributors and gives some practical recommendations that will make reflection meaningful and actionable.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kristian Mikhel)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Integrate ChatGPT with Google Sheets Using Google Apps Script]]></title>
         <id>https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/</id>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI To Detect Sentiment In Audio Files]]></title>
-        <id>https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/</id>
-        <link href="https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/"/>
-        <updated>2023-06-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
