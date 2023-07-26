@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-25T00:11:04.919Z</id>
+    <id>urn:2023-07-26T00:11:01.738Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T00:11:04.919Z</updated>
+    <updated>2023-07-26T00:11:01.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FastAPI Tutorial – How to Develop, Test, and Deploy APIs]]></title>
+        <id>https://www.freecodecamp.org/news/fastapi-quickstart/</id>
+        <link href="https://www.freecodecamp.org/news/fastapi-quickstart/"/>
+        <updated>2023-07-25T20:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of FastAPI, a sleek and high-performance web framework for constructing Python APIs. Don't worry if you're new to API programming – we'll start at the beginning.  An API (Application Programming Interface) connects several software programs allowing them to converse and exchange information. APIs are essential]]></summary>
+        <author>
+            <name>Atharva Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Node.js? Server-Side JavaScript Development Basics]]></title>
+        <id>https://www.freecodecamp.org/news/node-js-basics/</id>
+        <link href="https://www.freecodecamp.org/news/node-js-basics/"/>
+        <updated>2023-07-25T18:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a powerful runtime environment for executing JavaScript code outside  of a web browser. It brings the JavaScript language to the server-side, enabling developers to build scalable, high-performance, and event-driven applications. Let's discover how Node.js code works, and how that code can be integrated within your JavaScript and]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is DNS? Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-dns-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-dns-for-beginners/"/>
+        <updated>2023-07-25T18:07:28.000Z</updated>
+        <summary type="html"><![CDATA[When you access a website like www.google.com [https://www.google.com/], would it surprise you to learn that the URL isn't really the website address?  There is some work "under the hood" to ensure that, when you type in a human friendly name like Google, it takes you to the website you're]]></summary>
+        <author>
+            <name>Kealan Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Google Sheets – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/google-sheets-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/google-sheets-for-beginners/"/>
+        <updated>2023-07-25T17:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets is an online spreadsheet app with real-time collaboration features. It's like Microsoft Excel for regular people. 🙌 gif of guy saying aren't ordinary people adorableAnd, these days, it's actually giving Excel a run for its money. It's picked up a lot of features and processing power over the]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recreating YouTube’s Ambient Mode Glow Effect]]></title>
         <id>https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/</id>
@@ -83,46 +123,6 @@
         <summary type="html"><![CDATA[In JavaScript, the HTML DOM (Document Object Model) represents the structure and content of an HTML document as a tree-like structure. In it, each element, attribute, and text node in the HTML document is represented as a node in the DOM tree.  In this article you're going to learn]]></summary>
         <author>
             <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Information Architecture? How to Create Userflows and Sitemaps for UX Design]]></title>
-        <id>https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/</id>
-        <link href="https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/"/>
-        <updated>2023-07-18T20:40:51.000Z</updated>
-        <summary type="html"><![CDATA[At some point in your design career, you may hear about Information Architecture (or IA). You might even have to create a userflow or sitemap. Now, this article aims to help you go back to the basics and remind you of the meaning and importance of IA. So if you]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Two Similar Objects Not Equal in JavaScript?]]></title>
-        <id>https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/"/>
-        <updated>2023-07-18T18:53:47.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, two objects may not be equal even though they appear to be similar. Why is that the case? 🤔 Let's understand why. For example: const obj1 = {   name: "Dillion" } const obj2 = {   name: "Dillion" } console.log(obj1 === obj2) // false As]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Python App Design with ttkbootstrap]]></title>
-        <id>https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/</id>
-        <link href="https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/"/>
-        <updated>2023-07-18T18:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to add a touch of modernity to your Python apps? Do you want to master Tkinter and ttkbootstrap for a sleek, contemporary design? freeCodeCamp.org has just launched a brand new video course on YouTube that will teach you how to easily implement modern designs in your Tkinter-based]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLI Shells – A Brief History of Human-Computer Interfaces]]></title>
-        <id>https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/</id>
-        <link href="https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/"/>
-        <updated>2023-07-18T16:45:23.000Z</updated>
-        <summary type="html"><![CDATA[A computer is basically a piece of electronic circuitry that performs tasks as instructed by its users. But for a human to interact with this hardware, they must really know and understand how it works. The person must also know the order in which to give the computer various tasks]]></summary>
-        <author>
-            <name>Chidiadi Anyanwu</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +233,6 @@
         <summary type="html"><![CDATA[Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind The Curtains Of Wikipedia Redesign]]></title>
-        <id>https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/</id>
-        <link href="https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/"/>
-        <updated>2023-06-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollender and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
