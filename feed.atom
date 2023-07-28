@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T00:09:57.569Z</id>
+    <id>urn:2023-07-28T00:09:34.880Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T00:09:57.569Z</updated>
+    <updated>2023-07-28T00:09:34.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript Generics with Functional React Components]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/"/>
+        <updated>2023-07-27T18:53:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore the powerful synergy between TypeScript generics and functional React components. Generics allow you to define flexible components that can adapt to different data structures and enforce type safety throughout your codebase. By leveraging Generics in functional components, you can create highly reusable and adaptable]]></summary>
+        <author>
+            <name>Olasunkanmi Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations]]></title>
+        <id>https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/</id>
+        <link href="https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/"/>
+        <updated>2023-07-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Augmented Reality Course – Take Your First Steps into the World of AR]]></title>
+        <id>https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/</id>
+        <link href="https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/"/>
+        <updated>2023-07-27T13:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Imagine transforming your surroundings with interactive digital overlays, creating new experiences, and changing the way you interact with the world around you. Welcome to the future – the future of Augmented Reality (AR). The freeCodeCamp.org YouTube channel just launched a comprehensive new course that will teach you how to implement]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js by Building a Custom API with MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/"/>
+        <updated>2023-07-27T12:28:05.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Multiple Virtual Hosts on a Single RabbitMQ Instance]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adriano Raiano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI Handbook – How to Develop, Test, and Deploy APIs]]></title>
-        <id>https://www.freecodecamp.org/news/fastapi-quickstart/</id>
-        <link href="https://www.freecodecamp.org/news/fastapi-quickstart/"/>
-        <updated>2023-07-25T20:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the world of FastAPI, a sleek and high-performance web framework for constructing Python APIs. Don't worry if you're new to API programming – we'll start at the beginning.  An API (Application Programming Interface) connects several software programs allowing them to converse and exchange information. APIs are essential]]></summary>
-        <author>
-            <name>Atharva Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Node.js? Server-Side JavaScript Development Basics]]></title>
-        <id>https://www.freecodecamp.org/news/node-js-basics/</id>
-        <link href="https://www.freecodecamp.org/news/node-js-basics/"/>
-        <updated>2023-07-25T18:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Node.js is a powerful runtime environment for executing JavaScript code outside  of a web browser. It brings the JavaScript language to the server-side, enabling developers to build scalable, high-performance, and event-driven applications. Let's discover how Node.js code works, and how that code can be integrated within your JavaScript and]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DNS? Basics for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-dns-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-dns-for-beginners/"/>
-        <updated>2023-07-25T18:07:28.000Z</updated>
-        <summary type="html"><![CDATA[When you access a website like www.google.com [https://www.google.com/], would it surprise you to learn that the URL isn't really the website address?  There is some work "under the hood" to ensure that, when you type in a human friendly name like Google, it takes you to the website you're]]></summary>
-        <author>
-            <name>Kealan Parr</name>
         </author>
     </entry>
     <entry>
