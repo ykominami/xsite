@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-28T00:09:34.880Z</id>
+    <id>urn:2023-07-29T00:10:01.461Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T00:09:34.880Z</updated>
+    <updated>2023-07-29T00:10:01.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Higher-Order Components in React]]></title>
+        <id>https://www.freecodecamp.org/news/higher-order-components-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/higher-order-components-in-react/"/>
+        <updated>2023-07-28T17:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Higher-order components (HOCs) are a powerful feature of the React library. They allow you to reuse component logic across multiple components.  In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component. HOCs allow you]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Site with Sanity and Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/"/>
+        <updated>2023-07-28T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to handle content is important when creating a personal website for yourself or a client.  This is because maintaining and updating a site can result in substantial expenses if you don't do it correctly. This is even more the case if you're building for someone with a]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Spanish]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/"/>
+        <updated>2023-07-28T15:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you]]></summary>
+        <author>
+            <name>Rafael D. Hernandez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Define An Array Of Colors With CSS]]></title>
+        <id>https://smashingmagazine.com/2023/07/define-array-colors-css/</id>
+        <link href="https://smashingmagazine.com/2023/07/define-array-colors-css/"/>
+        <updated>2023-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use TypeScript Generics with Functional React Components]]></title>
         <id>https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[OpenAI's ChatGPT is a great tool for getting information as quickly as possible for your coding projects. Even better, you can now integrate the artificial intelligence-powered chat capability of OpenAI's models directly into your application. Recently, the OpenAI team expanded their API by giving developers access to their pretrained AI]]></summary>
         <author>
             <name>Kingsley Ubah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Regular Expressions Book – RegEx for JavaScript Developers [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/</id>
-        <link href="https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/"/>
-        <updated>2023-07-26T15:27:12.000Z</updated>
-        <summary type="html"><![CDATA[If you want to master regular expressions and understand how they work in JavaScript, this book's for you. Regular expressions can be intimidating when you first encounter them. When I started learning to code, I gave up on regular expressions twice. While that was partly because I was intimidated by]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Faster HTML and CSS Code Using Emmet]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/"/>
-        <updated>2023-07-26T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Emmet is an essential development tool that helps you quickly create repetitive structures like lists, tables, or ordered elements with minimal typing. It is more like a shorthand that translates to multiple lines of HTML or a CSS attribute. Emmet is built-in in many of the text editors like VS]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Real-time Post Notifications to Your React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-post-notifications-to-your-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-post-notifications-to-your-react-applications/"/>
-        <updated>2023-07-26T14:22:14.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I was working on an application.  That application was a Thread Clone, the newly launched social media platform. The tech stack I was using was React for the front end and Firebase for authentication, real-time database, and for file uploads. As I was building the app, I thought wouldn’t]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[Let’s welcome the new month with some fresh desktop wallpapers. Designed by artists and designers from around the globe, they come in versions with and without a calendar for July 2023. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s The Perfect Design Process?]]></title>
-        <id>https://smashingmagazine.com/2023/06/perfect-design-process/</id>
-        <link href="https://smashingmagazine.com/2023/06/perfect-design-process/"/>
-        <updated>2023-06-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The design process is messy. You might be following a structured approach, but too often, it takes a life of its own. And before you know it, you are designing in chaos, with last-minute changes and missed deadlines. So, what’s the “perfect” design process?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
