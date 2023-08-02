@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-01T00:12:10.860Z</id>
+    <id>urn:2023-08-02T00:10:08.089Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-01T00:12:10.860Z</updated>
+    <updated>2023-08-02T00:10:08.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[React Server Components – How and Why You Should Use Them in Your Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-react-server-components/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-server-components/"/>
+        <updated>2023-08-01T14:52:33.000Z</updated>
+        <summary type="html"><![CDATA[In late 2020, the React team introduced the "Zero-Bundle-Size React Server Components" concept. Since then, the React developer community has been experimenting with and learning how to apply this forward-looking approach. React has changed how we think about building user interfaces. And the new model using React Server Components is]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS And Accessibility: Inclusion Through User Choice]]></title>
+        <id>https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/</id>
+        <link href="https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/"/>
+        <updated>2023-08-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Manage State in Your Applications – useState() vs Redux]]></title>
         <id>https://www.freecodecamp.org/news/usestate-vs-redux-state-management/</id>
@@ -76,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Define An Array Of Colors With CSS]]></title>
+        <title type="html"><![CDATA[How To Define An Array Of Colors With CSS]]></title>
         <id>https://smashingmagazine.com/2023/07/define-array-colors-css/</id>
         <link href="https://smashingmagazine.com/2023/07/define-array-colors-css/"/>
         <updated>2023-07-28T10:00:00.000Z</updated>
@@ -123,16 +143,6 @@
         <summary type="html"><![CDATA[We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Multiple Virtual Hosts on a Single RabbitMQ Instance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/"/>
-        <updated>2023-07-26T21:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Hi, friends, and welcome to another tutorial. We'll be talking about RabbitMQ, a tool that is widely used as a message broker in distributed and Pub-Sub systems.  While multiple applications can share a single RabbitMQ instance, it's a great approach to configure it to have different virtual hosts for]]></summary>
-        <author>
-            <name>Ridwan Yusuf</name>
         </author>
     </entry>
     <entry>

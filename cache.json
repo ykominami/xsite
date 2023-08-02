@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/",
+          "author": "hello@smashingmagazine.com (Carie Fisher)",
+          "description": "In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.",
+          "link": "https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/",
+          "publishedOn": "2023-08-01T11:00:00.000Z",
+          "wordCount": 6008,
+          "title": "CSS And Accessibility: Inclusion Through User Choice",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-accessibility-inclusion-user-choice/css-accessibility-inclusion-user-choice.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-accessibility-inclusion-user-choice/css-accessibility-inclusion-user-choice.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/",
           "publishedOn": "2023-07-31T09:50:00.000Z",
-          "wordCount": 5268,
+          "wordCount": 5261,
           "title": "Living In The Moment (August 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/aug-23-summer-day-preview-opt.png",
@@ -38,8 +53,8 @@
           "description": "Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.",
           "link": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
           "publishedOn": "2023-07-28T10:00:00.000Z",
-          "wordCount": 4717,
-          "title": "How To Define An Array Of Colors With CSS",
+          "wordCount": 4710,
+          "title": "How To Define An Array Of Colors With CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg",
             "length": "0",
@@ -53,7 +68,7 @@
           "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
           "link": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
           "publishedOn": "2023-07-27T15:00:00.000Z",
-          "wordCount": 4204,
+          "wordCount": 4102,
           "title": "How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg",
@@ -68,7 +83,7 @@
           "description": "The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.",
           "link": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
           "publishedOn": "2023-07-26T12:00:00.000Z",
-          "wordCount": 5179,
+          "wordCount": 5182,
           "title": "Modern Technology And The Future Of Language Translation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg",
@@ -83,7 +98,7 @@
           "description": "In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.",
           "link": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
           "publishedOn": "2023-07-24T12:00:00.000Z",
-          "wordCount": 5722,
+          "wordCount": 5716,
           "title": "Recreating YouTube’s Ambient Mode Glow Effect",
           "enclosure": {
             "url": "http://files.smashing.media/articles/recreating-youtube-ambient-mode-glow-effect/recreating-youtube-ambient-mode-glow-effect.jpg",
@@ -98,7 +113,7 @@
           "description": "Discover the importance of critical reflective practice and challenge some beliefs about reflection and its role in our work and growth. Kristian Mikhel suggests a critical reflective routine for individual contributors and gives some practical recommendations that will make reflection meaningful and actionable.",
           "link": "https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/",
           "publishedOn": "2023-07-21T12:00:00.000Z",
-          "wordCount": 5074,
+          "wordCount": 5067,
           "title": "The Art Of Looking Back: A Critical Reflection For Individual Contributors",
           "enclosure": {
             "url": "http://files.smashing.media/articles/critical-reflection-individual-contributors/critical-reflection-individual-contributors.jpg",
@@ -128,7 +143,7 @@
           "description": "CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).",
           "link": "https://smashingmagazine.com/2023/07/writing-css-2023/",
           "publishedOn": "2023-07-14T12:00:00.000Z",
-          "wordCount": 5332,
+          "wordCount": 5327,
           "title": "Writing CSS In 2023: Is It Any Different Than A Few Years Ago?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/writing-css-2023/writing-css-2023-sharing-card.jpg",
@@ -143,7 +158,7 @@
           "description": "Accelerate your organization’s growth and innovation with the power of Rapid Research. From inception to implementation, here is the step-by-step roadmap on how to build the program from scratch and uncover the untapped ROI opportunities waiting to propel your initiatives to new heights.",
           "link": "https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/",
           "publishedOn": "2023-07-12T15:00:00.000Z",
-          "wordCount": 7634,
+          "wordCount": 7632,
           "title": "How To Create A Rapid Research Program To Support Insights At Scale",
           "enclosure": {
             "url": "http://files.smashing.media/articles/create-rapid-research-program-support-insights-scale/create-rapid-research-program-support-insights-scale.jpg",
@@ -158,7 +173,7 @@
           "description": "In this episode of The Smashing Podcast, we’re talking about The Transitional Web. What is it, and how does it describe the technologies we’re using? Drew McLellan talks to Chris Ferdinandi to find out.",
           "link": "https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/",
           "publishedOn": "2023-07-11T08:00:00.000Z",
-          "wordCount": 10001,
+          "wordCount": 10106,
           "title": "Smashing Podcast Episode 63 With Chris Ferdinandi: What Is The Transitional Web?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-63/smashing-podcast-episode-63.png",
@@ -173,7 +188,7 @@
           "description": "In this article, Andy Budd, curator of UX London and Leading Design conferences, outlines some of the things that make a potentially amazing presentation, as well as a few big gotchas. If you’ve ever wondered what it takes to get a speaking slot at a conference, this article is for you.",
           "link": "https://smashingmagazine.com/2023/07/become-better-speaker-conferences/",
           "publishedOn": "2023-07-11T07:00:00.000Z",
-          "wordCount": 7192,
+          "wordCount": 7088,
           "title": "How To Become A Better Speaker At Conferences",
           "enclosure": {
             "url": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg",
@@ -188,7 +203,7 @@
           "description": "CSS has all kinds of tricks that are capable of turning images into neat, interactive elements. This article is a collection of fancy 3D effects for images that demonstrate those CSS powers.",
           "link": "https://smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/",
           "publishedOn": "2023-07-07T11:00:00.000Z",
-          "wordCount": 5871,
+          "wordCount": 5868,
           "title": "Shines, Perspective, And Rotations: Fancy CSS 3D Effects For Images",
           "enclosure": {
             "url": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg",
@@ -203,7 +218,7 @@
           "description": "As of today, the world’s 50 top airlines have all agreed on the same flight search pattern. Yet the path to booking the right flight remains frustrating and confusing. Is there really only one solution? Explore the thought experiment which turned the seemingly untouchable pattern on its head and offered new food for thought.",
           "link": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
           "publishedOn": "2023-07-06T10:00:00.000Z",
-          "wordCount": 6321,
+          "wordCount": 6325,
           "title": "The UX Of Flight Searches: How We Challenged Industry Standards",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg",
@@ -218,7 +233,7 @@
           "description": "How can we create products and experiences that don’t cause harm to the planet and to the people who use them? What do we need to consider to make more sustainable design decisions and reduce the carbon footprint of our websites? In this post, we compiled valuable resources that will get you familiar with the principles of sustainable design.",
           "link": "https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/",
           "publishedOn": "2023-07-04T09:00:00.000Z",
-          "wordCount": 5849,
+          "wordCount": 5852,
           "title": "Sustainable Design Toolkits And Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sustainable-design-toolkits/sustainability-innovation-framework-opt.png",
@@ -234,6 +249,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
+          "author": "TAPAS ADHIKARY",
+          "description": "In late 2020, the React team introduced the \"Zero-Bundle-Size React Server Components\" concept. Since then, the React developer community has been experimenting with and learning how to apply this forward-looking approach. React has changed how we think about building user interfaces. And the new model using React Server Components is",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
+          "publishedOn": "2023-08-01T14:52:33.000Z",
+          "wordCount": 4204,
+          "title": "React Server Components – How and Why You Should Use Them in Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/React-Server-Components-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/usestate-vs-redux-state-management/",
           "author": "Ijeoma Igboagu",
@@ -323,16 +348,6 @@
           "wordCount": 1204,
           "title": "Learn Next.js by Building a Custom API with MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/next.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/",
-          "author": "Ridwan Yusuf",
-          "description": "Hi, friends, and welcome to another tutorial. We'll be talking about RabbitMQ, a tool that is widely used as a message broker in distributed and Pub-Sub systems.  While multiple applications can share a single RabbitMQ instance, it's a great approach to configure it to have different virtual hosts for",
-          "link": "https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/",
-          "publishedOn": "2023-07-26T21:25:15.000Z",
-          "wordCount": 1449,
-          "title": "How to Create Multiple Virtual Hosts on a Single RabbitMQ Instance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Untitled-design.png"
         }
       ]
     }
