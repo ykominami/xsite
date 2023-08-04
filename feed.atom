@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T00:10:43.943Z</id>
+    <id>urn:2023-08-04T00:10:42.704Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T00:10:43.943Z</updated>
+    <updated>2023-08-04T00:10:42.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETL vs ELT – Which Data Integration Technique Should You Choose?]]></title>
+        <id>https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/</id>
+        <link href="https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/"/>
+        <updated>2023-08-03T16:04:29.000Z</updated>
+        <summary type="html"><![CDATA[These days, organizations are collecting large volumes of data from diverse sources. And their data teams need to harness the power of that data efficiently. Both ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) pipelines play pivotal roles in integrating data from various sources into a centralized data repository.]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Data Structure For Storing Non-Duplicate Items In Python]]></title>
+        <id>https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/"/>
+        <updated>2023-08-03T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[If you're coding in Python and you need to store non-duplicate items while ensuring each item is unique, which data structure should you use?  I'd recommend the set data structure. It's an unordered collection of unique elements, meaning it cannot contain any duplicate items.  When you add elements]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medical AI Models with TensorFlow – Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/"/>
+        <updated>2023-08-03T13:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Safe AI – Reducing Existential Risks in Machine Learning]]></title>
+        <id>https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/"/>
+        <updated>2023-08-03T12:38:54.000Z</updated>
+        <summary type="html"><![CDATA[As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Optimized Performance To Serve A Global Audience]]></title>
+        <id>https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/</id>
+        <link href="https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/"/>
+        <updated>2023-08-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Liran Cohen and the team at Bookaway, a travel booking service, dramatically improved their site’s performance by auditing Core Web Vitals. In this article, Liran shares his team’s process for auditing and monitoring Web Vitals and the effort it took to dramatically improve Bookaway’s performance — and the benefits that came with it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Liran Cohen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/"/>
+        <updated>2023-08-02T23:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you want to check what a word means while chatting with someone in WhatsApp. But you don't want to exit or minimize the app.  Well, how about building a WhatsApp bot that can give you the meaning of words you want to know? In this tutorial, you will]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Got Accepted as an Author at freeCodeCamp]]></title>
         <id>https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/</id>
@@ -76,26 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Calculate Definite and Indefinite Integrals in Python]]></title>
-        <id>https://www.freecodecamp.org/news/calculate-definite-indefinite-integrals-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/calculate-definite-indefinite-integrals-in-python/"/>
-        <updated>2023-07-31T18:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Python is a versatile programming language that offers libraries and tools for scientific computing and mathematical calculations.  Many essential mathematical operations frequently involve definite and indefinite integrals. In this article, we will explore how to perform these calculations using Python. How to Calculate Single Variable Definite Integrals Install SciPy]]></summary>
-        <author>
-            <name>Roy Chng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Bridge the Gap Between Development and Production with Valid HTTPS Certificates]]></title>
-        <id>https://www.freecodecamp.org/news/development-production-parity-with-valid-https-certs/</id>
-        <link href="https://www.freecodecamp.org/news/development-production-parity-with-valid-https-certs/"/>
-        <updated>2023-07-31T17:30:52.000Z</updated>
-        <summary type="html"><![CDATA[One of the core principles of software development involves maintaining development/production parity. But this is not always the case for developers working on localhost. To review, dev/prod parity refers to keeping development, staging, and production environments as similar as possible to avoid encountering undetected bugs. A lack of dev/prod parity]]></summary>
-        <author>
-            <name>Linda Ikechukwu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Living In The Moment (August 2023 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/</id>
         <link href="https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/"/>
@@ -103,36 +143,6 @@
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Higher-Order Components in React]]></title>
-        <id>https://www.freecodecamp.org/news/higher-order-components-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/higher-order-components-in-react/"/>
-        <updated>2023-07-28T17:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Higher-order components (HOCs) are a powerful feature of the React library. They allow you to reuse component logic across multiple components.  In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component. HOCs allow you]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Site with Sanity and Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/"/>
-        <updated>2023-07-28T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how to handle content is important when creating a personal website for yourself or a client.  This is because maintaining and updating a site can result in substantial expenses if you don't do it correctly. This is even more the case if you're building for someone with a]]></summary>
-        <author>
-            <name>Victor Eke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/"/>
-        <updated>2023-07-28T15:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you]]></summary>
-        <author>
-            <name>Rafael D. Hernandez</name>
         </author>
     </entry>
     <entry>
