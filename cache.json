@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
+          "author": "hello@smashingmagazine.com (Hannah Milan)",
+          "description": "In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.",
+          "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
+          "publishedOn": "2023-08-04T08:00:00.000Z",
+          "wordCount": 4977,
+          "title": "Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/",
           "author": "hello@smashingmagazine.com (Liran Cohen)",
           "description": "Liran Cohen and the team at Bookaway, a travel booking service, dramatically improved their site’s performance by auditing Core Web Vitals. In this article, Liran shares his team’s process for auditing and monitoring Web Vitals and the effort it took to dramatically improve Bookaway’s performance — and the benefits that came with it.",
           "link": "https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/",
           "publishedOn": "2023-08-03T10:00:00.000Z",
-          "wordCount": 6175,
+          "wordCount": 6170,
           "title": "How We Optimized Performance To Serve A Global Audience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimize-performance-serve-global-audience/optimize-performance-serve-global-audience.jpg",
@@ -38,7 +53,7 @@
           "description": "We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.",
           "link": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
           "publishedOn": "2023-08-01T18:00:00.000Z",
-          "wordCount": 8212,
+          "wordCount": 8111,
           "title": "Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png",
@@ -53,7 +68,7 @@
           "description": "In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.",
           "link": "https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/",
           "publishedOn": "2023-08-01T11:00:00.000Z",
-          "wordCount": 5934,
+          "wordCount": 5928,
           "title": "CSS And Accessibility: Inclusion Through User Choice",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-accessibility-inclusion-user-choice/css-accessibility-inclusion-user-choice.jpg",
@@ -68,7 +83,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/",
           "publishedOn": "2023-07-31T09:50:00.000Z",
-          "wordCount": 5261,
+          "wordCount": 5255,
           "title": "Living In The Moment (August 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/aug-23-summer-day-preview-opt.png",
@@ -83,7 +98,7 @@
           "description": "Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.",
           "link": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
           "publishedOn": "2023-07-28T10:00:00.000Z",
-          "wordCount": 4700,
+          "wordCount": 4704,
           "title": "How To Define An Array Of Colors With CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg",
@@ -98,7 +113,7 @@
           "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
           "link": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
           "publishedOn": "2023-07-27T15:00:00.000Z",
-          "wordCount": 4077,
+          "wordCount": 4083,
           "title": "How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg",
@@ -113,7 +128,7 @@
           "description": "The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.",
           "link": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
           "publishedOn": "2023-07-26T12:00:00.000Z",
-          "wordCount": 5169,
+          "wordCount": 5175,
           "title": "Modern Technology And The Future Of Language Translation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg",
@@ -128,7 +143,7 @@
           "description": "In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.",
           "link": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
           "publishedOn": "2023-07-24T12:00:00.000Z",
-          "wordCount": 5700,
+          "wordCount": 5701,
           "title": "Recreating YouTube’s Ambient Mode Glow Effect",
           "enclosure": {
             "url": "http://files.smashing.media/articles/recreating-youtube-ambient-mode-glow-effect/recreating-youtube-ambient-mode-glow-effect.jpg",
@@ -143,7 +158,7 @@
           "description": "Discover the importance of critical reflective practice and challenge some beliefs about reflection and its role in our work and growth. Kristian Mikhel suggests a critical reflective routine for individual contributors and gives some practical recommendations that will make reflection meaningful and actionable.",
           "link": "https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/",
           "publishedOn": "2023-07-21T12:00:00.000Z",
-          "wordCount": 5056,
+          "wordCount": 5060,
           "title": "The Art Of Looking Back: A Critical Reflection For Individual Contributors",
           "enclosure": {
             "url": "http://files.smashing.media/articles/critical-reflection-individual-contributors/critical-reflection-individual-contributors.jpg",
@@ -158,7 +173,7 @@
           "description": "With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design inclusive products for all, particularly for an older audience and your future self.",
           "link": "https://smashingmagazine.com/2023/07/designing-age-inclusive-products-guidelines-best-practices/",
           "publishedOn": "2023-07-18T12:00:00.000Z",
-          "wordCount": 4593,
+          "wordCount": 4600,
           "title": "Designing Age-Inclusive Products: Guidelines And Best Practices",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-age-inclusive-products-guidelines-best-practices/designing-age-inclusive-products-guidelines-best-practices.jpg",
@@ -173,7 +188,7 @@
           "description": "CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).",
           "link": "https://smashingmagazine.com/2023/07/writing-css-2023/",
           "publishedOn": "2023-07-14T12:00:00.000Z",
-          "wordCount": 5321,
+          "wordCount": 5323,
           "title": "Writing CSS In 2023: Is It Any Different Than A Few Years Ago?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/writing-css-2023/writing-css-2023-sharing-card.jpg",
@@ -188,7 +203,7 @@
           "description": "Accelerate your organization’s growth and innovation with the power of Rapid Research. From inception to implementation, here is the step-by-step roadmap on how to build the program from scratch and uncover the untapped ROI opportunities waiting to propel your initiatives to new heights.",
           "link": "https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/",
           "publishedOn": "2023-07-12T15:00:00.000Z",
-          "wordCount": 7617,
+          "wordCount": 7619,
           "title": "How To Create A Rapid Research Program To Support Insights At Scale",
           "enclosure": {
             "url": "http://files.smashing.media/articles/create-rapid-research-program-support-insights-scale/create-rapid-research-program-support-insights-scale.jpg",
@@ -203,7 +218,7 @@
           "description": "In this episode of The Smashing Podcast, we’re talking about The Transitional Web. What is it, and how does it describe the technologies we’re using? Drew McLellan talks to Chris Ferdinandi to find out.",
           "link": "https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/",
           "publishedOn": "2023-07-11T08:00:00.000Z",
-          "wordCount": 9994,
+          "wordCount": 10104,
           "title": "Smashing Podcast Episode 63 With Chris Ferdinandi: What Is The Transitional Web?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-63/smashing-podcast-episode-63.png",
@@ -218,7 +233,7 @@
           "description": "In this article, Andy Budd, curator of UX London and Leading Design conferences, outlines some of the things that make a potentially amazing presentation, as well as a few big gotchas. If you’ve ever wondered what it takes to get a speaking slot at a conference, this article is for you.",
           "link": "https://smashingmagazine.com/2023/07/become-better-speaker-conferences/",
           "publishedOn": "2023-07-11T07:00:00.000Z",
-          "wordCount": 7189,
+          "wordCount": 7078,
           "title": "How To Become A Better Speaker At Conferences",
           "enclosure": {
             "url": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg",
@@ -241,21 +256,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
-          "author": "hello@smashingmagazine.com (Robert Goesch)",
-          "description": "As of today, the world’s 50 top airlines have all agreed on the same flight search pattern. Yet the path to booking the right flight remains frustrating and confusing. Is there really only one solution? Explore the thought experiment which turned the seemingly untouchable pattern on its head and offered new food for thought.",
-          "link": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
-          "publishedOn": "2023-07-06T10:00:00.000Z",
-          "wordCount": 6314,
-          "title": "The UX Of Flight Searches: How We Challenged Industry Standards",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg"
         }
       ]
     },
@@ -264,6 +264,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/",
+          "author": "David Clinton",
+          "description": "For the most part, interactive website architectures will involve generating or dispensing data of one sort or another. You can certainly use HTML forms to collect user input. But the kind of web form that's described here [/news/creating-html-forms/] will only take you so far.  What we really need is",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/",
+          "publishedOn": "2023-08-03T20:41:40.000Z",
+          "wordCount": 1950,
+          "title": "How to Perform CRUD Operations – JavaScript and SQL Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/5f9ca0b7740569d1a4ca4a58.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/",
+          "author": "Jim Campbell",
+          "description": "Hello, fellow WordPress enthusiasts! Today, I want to share with you an exciting journey I took while building Honeymoons.com [https://honeymoons.com]. It's a dynamic website that uses Advanced Custom Fields (ACF) [https://www.advancedcustomfields.com/] and Custom Post Types [https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/] .  As a travel company specializing in dreamy honeymoon destinations, it was crucial",
+          "link": "https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/",
+          "publishedOn": "2023-08-03T20:36:38.000Z",
+          "wordCount": 2063,
+          "title": "How to Build a Dynamic Wordpress Site with Advanced Custom Fields and Custom Post Types",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-2023-08-03-at-3.50.46-AM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/",
           "author": "Bala Priya C",
@@ -290,7 +310,7 @@
           "description": "Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will",
           "link": "https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/",
           "publishedOn": "2023-08-03T13:20:47.000Z",
-          "wordCount": 906,
+          "wordCount": 8938,
           "title": "Medical AI Models with TensorFlow – Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/medicaltf2.png"
         },
@@ -302,7 +322,7 @@
           "publishedOn": "2023-08-03T12:38:54.000Z",
           "wordCount": 1039,
           "title": "Building Safe AI – Reducing Existential Risks in Machine Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/aisafety.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/ai-safety-course.jpeg"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-whatsapp-dictionary-chatbot-using-twilio-fast-api-and-mongodb/",
@@ -313,6 +333,16 @@
           "wordCount": 3066,
           "title": "How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/",
+          "author": "Miya Liu",
+          "description": "Hello, everyone! I am Miya Liu. And I'm excited to announce the launch of the  freeCodeCamp Chinese Podcast [https://freecodecamp-in-chinese.transistor.fm/]. In this podcast, we'll bring you the inspiring learning and career development stories of developers, technical content creators, and other tech professionals We'll also share their insights into the world",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/",
+          "publishedOn": "2023-08-02T09:53:00.000Z",
+          "wordCount": 1141,
+          "title": "freeCodeCamp is Launching a Podcast in Chinese",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/----.jpeg"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
@@ -333,36 +363,6 @@
           "wordCount": 4940,
           "title": "A Practical Guide to Regular Expressions – Learn RegEx with Real Life Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Most-concise-guide-with-real-life-examples.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
-          "author": "Arunachalam B",
-          "description": "In the world of machine learning, we often encounter complex problems, from image recognition to natural language processing.  But let's take a step back and explore something more elementary yet equally intriguing: addition! Yes, you read that right – addition.  In this tutorial, we'll build a neural network",
-          "link": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
-          "publishedOn": "2023-08-01T19:51:50.000Z",
-          "wordCount": 1636,
-          "title": "How to Add Two Numbers – The Machine Learning Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Sum-of-2-numbers-using-ML---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
-          "author": "TAPAS ADHIKARY",
-          "description": "In late 2020, the React team introduced the \"Zero-Bundle-Size React Server Components\" concept. Since then, the React developer community has been experimenting with and learning how to apply this forward-looking approach. React has changed how we think about building user interfaces. And the new model using React Server Components is",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
-          "publishedOn": "2023-08-01T14:52:33.000Z",
-          "wordCount": 4204,
-          "title": "React Server Components – How and Why You Should Use Them in Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/React-Server-Components-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/usestate-vs-redux-state-management/",
-          "author": "Ijeoma Igboagu",
-          "description": "State management is crucial for handling an application's data, how users interact with it, and how different parts of the app behave.  And it's not something you'll use only in React.js [https://react.dev/], but also in other popular tools like Angular.js, [https://angularjs.org/] Vue.js, [https://vuejs.org/] and Next.j [https://nextjs.org/]s. There are two",
-          "link": "https://www.freecodecamp.org/news/usestate-vs-redux-state-management/",
-          "publishedOn": "2023-07-31T21:35:43.000Z",
-          "wordCount": 3011,
-          "title": "How to Manage State in Your Applications – useState() vs Redux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover-react-redux.png"
         }
       ]
     }
