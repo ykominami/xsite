@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T00:10:36.930Z</id>
+    <id>urn:2023-08-10T00:10:50.906Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T00:10:36.930Z</updated>
+    <updated>2023-08-10T00:10:50.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Minimum Stability In Composer?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/"/>
+        <updated>2023-08-09T17:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering End-to-End Testing with Cypress for JavaScript Applications]]></title>
+        <id>https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/</id>
+        <link href="https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/"/>
+        <updated>2023-08-09T16:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering JavaScript Functions for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/"/>
+        <updated>2023-08-09T16:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/"/>
+        <updated>2023-08-09T14:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Django App on Render]]></title>
+        <id>https://www.freecodecamp.org/news/deploying-a-django-app-to-render/</id>
+        <link href="https://www.freecodecamp.org/news/deploying-a-django-app-to-render/"/>
+        <updated>2023-08-09T14:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Good First Issues On GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/"/>
+        <updated>2023-08-08T23:31:27.000Z</updated>
+        <summary type="html"><![CDATA[So you may have been hearing about OpenSauced’s 100 Days of Open Source challenge [https://docs.opensauced.pizza/community/100-days-of-oss/] on X (Twitter) or from your friends in an online coding group. And maybe you want to join in but don’t know where to start.  Ooh, I know the feeling. When I first joined]]></summary>
+        <author>
+            <name>CHRISTINE T. BELZIE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a JavaScript Utility Library like Lodash]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-javascript-utility-library-like-lodash/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-javascript-utility-library-like-lodash/"/>
+        <updated>2023-08-08T21:15:08.000Z</updated>
+        <summary type="html"><![CDATA[A utility library is a library that helps you streamline the implementation of common coding tasks. With it, you only need to focus on writing code that makes your project unique. One of the most popular JavaScript utility libraries is Lodash. Lodash is a JS library with over 40 million]]></summary>
+        <author>
+            <name>Gideon Akinsanmi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add ESLint to Your React Project]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-your-react-project/</id>
@@ -46,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Chinese]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/"/>
-        <updated>2023-08-04T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, everyone! I am Miya Liu. And I'm excited to announce the launch of the  freeCodeCamp Chinese Podcast [https://freecodecamp-in-chinese.transistor.fm/]. In this podcast, we'll bring you the inspiring learning and career development stories of developers, technical content creators, and other tech professionals We'll also share their insights into the world]]></summary>
-        <author>
-            <name>Miya Liu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/</id>
         <link href="https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/"/>
@@ -63,66 +123,6 @@
         <summary type="html"><![CDATA[In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Hannah Milan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations – JavaScript and SQL Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/"/>
-        <updated>2023-08-03T20:41:40.000Z</updated>
-        <summary type="html"><![CDATA[For the most part, interactive website architectures will involve generating or dispensing data of one sort or another. You can certainly use HTML forms to collect user input. But the kind of web form that's described here [/news/creating-html-forms/] will only take you so far.  What we really need is]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dynamic Wordpress Site with Advanced Custom Fields and Custom Post Types]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/"/>
-        <updated>2023-08-03T20:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Hello, fellow WordPress enthusiasts! Today, I want to share with you an exciting journey I took while building Honeymoons.com [https://honeymoons.com]. It's a dynamic website that uses Advanced Custom Fields (ACF) [https://www.advancedcustomfields.com/] and Custom Post Types [https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/] .  As a travel company specializing in dreamy honeymoon destinations, it was crucial]]></summary>
-        <author>
-            <name>Jim Campbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETL vs ELT – Which Data Integration Technique Should You Choose?]]></title>
-        <id>https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/</id>
-        <link href="https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/"/>
-        <updated>2023-08-03T16:04:29.000Z</updated>
-        <summary type="html"><![CDATA[These days, organizations are collecting large volumes of data from diverse sources. And their data teams need to harness the power of that data efficiently. Both ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) pipelines play pivotal roles in integrating data from various sources into a centralized data repository.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Data Structure For Storing Non-Duplicate Items In Python]]></title>
-        <id>https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/"/>
-        <updated>2023-08-03T15:08:47.000Z</updated>
-        <summary type="html"><![CDATA[If you're coding in Python and you need to store non-duplicate items while ensuring each item is unique, which data structure should you use?  I'd recommend the set data structure. It's an unordered collection of unique elements, meaning it cannot contain any duplicate items.  When you add elements]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical AI Models with TensorFlow – Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/"/>
-        <updated>2023-08-03T13:20:47.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Safe AI – Reducing Existential Risks in Machine Learning]]></title>
-        <id>https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/"/>
-        <updated>2023-08-03T12:38:54.000Z</updated>
-        <summary type="html"><![CDATA[As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -243,26 +243,6 @@
         <summary type="html"><![CDATA[Accelerate your organization’s growth and innovation with the power of Rapid Research. From inception to implementation, here is the step-by-step roadmap on how to build the program from scratch and uncover the untapped ROI opportunities waiting to propel your initiatives to new heights.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Devin Harold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 63 With Chris Ferdinandi: What Is The Transitional Web?]]></title>
-        <id>https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/</id>
-        <link href="https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/"/>
-        <updated>2023-07-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we’re talking about The Transitional Web. What is it, and how does it describe the technologies we’re using? Drew McLellan talks to Chris Ferdinandi to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Become A Better Speaker At Conferences]]></title>
-        <id>https://smashingmagazine.com/2023/07/become-better-speaker-conferences/</id>
-        <link href="https://smashingmagazine.com/2023/07/become-better-speaker-conferences/"/>
-        <updated>2023-07-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andy Budd, curator of UX London and Leading Design conferences, outlines some of the things that make a potentially amazing presentation, as well as a few big gotchas. If you’ve ever wondered what it takes to get a speaking slot at a conference, this article is for you.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Budd)</name>
         </author>
     </entry>
 </feed>
