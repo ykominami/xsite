@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-12T00:08:38.583Z</id>
+    <id>urn:2023-08-13T00:09:45.071Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T00:08:38.583Z</updated>
+    <updated>2023-08-13T00:09:45.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the WordPress Command Line Interface – WP-CLI Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-wordpress-cli/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-wordpress-cli/"/>
+        <updated>2023-08-11T21:37:41.000Z</updated>
+        <summary type="html"><![CDATA[In the world of website development and content management, efficiency and automation are key. The WordPress Command Line Interface – or WP-CLI – is a powerful tool that can help you streamlines tasks and manage WordPress websites more effectively.  This article provides an overview of WP-CLI, focusing on its]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Meteor Effect with React and TailwindCSS]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-a-meteor-effect-with-react-and-tailwindcss/</id>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the]]></summary>
         <author>
             <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Django App on Render]]></title>
-        <id>https://www.freecodecamp.org/news/deploying-a-django-app-to-render/</id>
-        <link href="https://www.freecodecamp.org/news/deploying-a-django-app-to-render/"/>
-        <updated>2023-08-09T14:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +243,6 @@
         <summary type="html"><![CDATA[With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design inclusive products for all, particularly for an older audience and your future self.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michal Halperin Ben Zvi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing CSS In 2023: Is It Any Different Than A Few Years Ago?]]></title>
-        <id>https://smashingmagazine.com/2023/07/writing-css-2023/</id>
-        <link href="https://smashingmagazine.com/2023/07/writing-css-2023/"/>
-        <updated>2023-07-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
