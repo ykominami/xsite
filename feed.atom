@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T00:09:07.760Z</id>
+    <id>urn:2023-08-18T00:09:05.757Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:09:07.760Z</updated>
+    <updated>2023-08-18T00:09:05.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
+        <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
+        <link href="https://www.freecodecamp.org/news/is-college-worth-it/"/>
+        <updated>2023-08-17T17:46:36.000Z</updated>
+        <summary type="html"><![CDATA[So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement a Blender Model in a React.js Application using Three.js]]></title>
+        <id>https://www.freecodecamp.org/news/blender-three-js-react-js/</id>
+        <link href="https://www.freecodecamp.org/news/blender-three-js-react-js/"/>
+        <updated>2023-08-17T14:58:49.000Z</updated>
+        <summary type="html"><![CDATA[In this step-by-step guide, you'll learn how to build a basic Blender file with incorporated fundamental animations. After that, you'll learn how to integrate Three.js with your React apps using React Three Fiber.  Getting familiar with these concepts can help you make sure your upcoming React.js applications stand out.]]></summary>
+        <author>
+            <name>Matthes Bär</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn HTML and CSS – Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/html-css-handbook-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/html-css-handbook-for-beginners/"/>
+        <updated>2023-08-17T14:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Greetings, and welcome to this comprehensive HTML and CSS handbook. My goal is to teach you everything you need to know about building fast and beautiful websites that look great on any device. I'm assuming you have no knowledge of HTML or CSS and want to learn everything from scratch.]]></summary>
+        <author>
+            <name>Karlgusta Annoh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/</id>
+        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
+        <updated>2023-08-17T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained]]></title>
         <id>https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/</id>
@@ -76,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-operators/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-operators/"/>
-        <updated>2023-08-14T15:44:58.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript has many operators that you can use to perform operations on values and variables (also called operands) Based on the types of operations these JS operators perform, we can divide them up into seven groups:  1. Arithmetic Operators  2. Assignment Operators  3. Comparison Operators  4.]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make AI Art with Stable Diffusion]]></title>
-        <id>https://www.freecodecamp.org/news/stable-diffusion-crash-course/</id>
-        <link href="https://www.freecodecamp.org/news/stable-diffusion-crash-course/"/>
-        <updated>2023-08-14T13:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to make AI Art with Stable Diffusion]]></summary>
-        <author>
-            <name>Lynn Zheng</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies]]></title>
         <id>https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/</id>
         <link href="https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/"/>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lars Kappert)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the WordPress Command Line Interface – WP-CLI Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-wordpress-cli/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-wordpress-cli/"/>
-        <updated>2023-08-11T21:37:41.000Z</updated>
-        <summary type="html"><![CDATA[In the world of website development and content management, efficiency and automation are key. The WordPress Command Line Interface – or WP-CLI – is a powerful tool that can help you streamlines tasks and manage WordPress websites more effectively.  This article provides an overview of WP-CLI, focusing on its]]></summary>
-        <author>
-            <name>Marco Venturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Meteor Effect with React and TailwindCSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-meteor-effect-with-react-and-tailwindcss/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-meteor-effect-with-react-and-tailwindcss/"/>
-        <updated>2023-08-11T16:14:27.000Z</updated>
-        <summary type="html"><![CDATA[A while ago, I saw a post on Twitter that had some fancy beams of light emanating out from behind the main image. It looked like a meteor was blazing softly behind the card, and I thought it was a really cool UI component to have in a project.]]></summary>
-        <author>
-            <name>Manu Arora</name>
         </author>
     </entry>
     <entry>
