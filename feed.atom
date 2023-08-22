@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T00:09:15.152Z</id>
+    <id>urn:2023-08-22T00:09:25.011Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T00:09:15.152Z</updated>
+    <updated>2023-08-22T00:09:25.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Development with Large Language Models]]></title>
+        <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
+        <link href="https://www.freecodecamp.org/news/development-with-large-language-models/"/>
+        <updated>2023-08-21T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Google Drive Clone with Laravel, PHP, and Vue.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/"/>
+        <updated>2023-08-21T14:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Building file manager application is a great way to learn many important programming concepts. We just posted a 14-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a feature-rich file manager application using Laravel (the PHP framework), Inertia, and Vue.js. This comprehensive course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JavaScript at() Array Method]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-at-method/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-at-method/"/>
+        <updated>2023-08-21T14:41:05.000Z</updated>
+        <summary type="html"><![CDATA[One of JavaScript's most exciting new features is the at() method. The at()  method is a new addition to the Array prototype in JavaScript. You can use this method to access elements in an array using a numeric index. The at() method takes an integer value and returns the]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use JSON Server for Front-end Development]]></title>
+        <id>https://www.freecodecamp.org/news/json-server-for-frontend-development/</id>
+        <link href="https://www.freecodecamp.org/news/json-server-for-frontend-development/"/>
+        <updated>2023-08-21T13:54:28.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions.  Efficient communication between the]]></summary>
+        <author>
+            <name>Juliet Ofoegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Context Menus With Safe Triangles]]></title>
+        <id>https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/</id>
+        <link href="https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/"/>
+        <updated>2023-08-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Costa Alexoglou)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
         <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
@@ -66,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Tips to Help You Build Better Web Development Projects]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/"/>
-        <updated>2023-08-15T14:17:37.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a widely used web programming language. If you're getting into software engineering or coding in particular and you want to focus on web development, learning JavaScript is probably the best thing to do. Learning JavaScript empowers you to create dynamic and interactive web experiences. And it lets you]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital]]></title>
         <id>https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/</id>
         <link href="https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/"/>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Herchel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Web Scraping with Python and Beautiful Soup in Spanish – Course for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/"/>
-        <updated>2023-08-15T04:50:16.000Z</updated>
-        <summary type="html"><![CDATA[If your goal is to collect data from websites automatically, web scraping may be exactly what you need. In this course, you will learn all the basics with exercises and practical projects. We published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to use]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the Difference Between Default and Named Exports in JavaScript?]]></title>
-        <id>https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/"/>
-        <updated>2023-08-14T16:36:15.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages among web developers. And it offers multiple ways to organize and share code between different files.  When working with modules, you might come across two common ways of exporting: Default exports and Named exports.  Understanding the difference between these]]></summary>
-        <author>
-            <name>Yazdun Fadali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Microsoft Learn Student Ambassador]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/"/>
-        <updated>2023-08-14T16:11:33.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Learn Student Ambassadors [https://mvp.microsoft.com/studentambassadors] program is a student-focused program designed to empower students to become advocates and leaders in the tech ecosystem.  Microsoft Learn Student Ambassadors are student leaders who collaborate with Microsoft to help fellow students learn about technology and engage with various Microsoft technologies and]]></summary>
-        <author>
-            <name>Salim Oyinlola</name>
         </author>
     </entry>
     <entry>
