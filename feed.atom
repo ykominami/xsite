@@ -1,16 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T00:09:25.011Z</id>
+    <id>urn:2023-08-23T00:09:15.579Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T00:09:25.011Z</updated>
+    <updated>2023-08-23T00:09:15.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Bundle a Simple React Application Using esbuild]]></title>
+        <id>https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/</id>
+        <link href="https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/"/>
+        <updated>2023-08-22T20:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Date Validations – How To Validate a Date in JavaScript (With Examples)]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/"/>
+        <updated>2023-08-22T19:08:29.000Z</updated>
+        <summary type="html"><![CDATA[There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an Application to a Kubernetes Cluster]]></title>
+        <id>https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/</id>
+        <link href="https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/"/>
+        <updated>2023-08-22T16:34:30.000Z</updated>
+        <summary type="html"><![CDATA[In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Website Against SEO Poisoning]]></title>
+        <id>https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/</id>
+        <link href="https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/"/>
+        <updated>2023-08-22T16:20:41.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO]]></summary>
+        <author>
+            <name>Isah Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Calculator App with Svelte]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/"/>
+        <updated>2023-08-22T15:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stateful vs Stateless Architecture – Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/</id>
+        <link href="https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/"/>
+        <updated>2023-08-21T21:08:59.000Z</updated>
+        <summary type="html"><![CDATA[In programming, "state" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone]]></title>
+        <id>https://www.freecodecamp.org/news/practice-web-scraping-safely/</id>
+        <link href="https://www.freecodecamp.org/news/practice-web-scraping-safely/"/>
+        <updated>2023-08-21T19:50:15.000Z</updated>
+        <summary type="html"><![CDATA[When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Development with Large Language Models]]></title>
         <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
         <link href="https://www.freecodecamp.org/news/development-with-large-language-models/"/>
         <updated>2023-08-21T16:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers. We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -36,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use JSON Server for Front-end Development]]></title>
-        <id>https://www.freecodecamp.org/news/json-server-for-frontend-development/</id>
-        <link href="https://www.freecodecamp.org/news/json-server-for-frontend-development/"/>
-        <updated>2023-08-21T13:54:28.000Z</updated>
-        <summary type="html"><![CDATA[One of the most common responsibilities for front-end developers is handling the data in their front-end applications. You’ll need to be able to retrieve data from an API, manipulate it, and then render it on the screen in a modern web application for user interactions.  Efficient communication between the]]></summary>
-        <author>
-            <name>Juliet Ofoegbu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Better Context Menus With Safe Triangles]]></title>
         <id>https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/</id>
         <link href="https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/"/>
@@ -53,66 +113,6 @@
         <summary type="html"><![CDATA[Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Costa Alexoglou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
-        <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
-        <link href="https://www.freecodecamp.org/news/is-college-worth-it/"/>
-        <updated>2023-08-17T17:46:36.000Z</updated>
-        <summary type="html"><![CDATA[So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Blender Model in a React.js Application using Three.js]]></title>
-        <id>https://www.freecodecamp.org/news/blender-three-js-react-js/</id>
-        <link href="https://www.freecodecamp.org/news/blender-three-js-react-js/"/>
-        <updated>2023-08-17T14:58:49.000Z</updated>
-        <summary type="html"><![CDATA[In this step-by-step guide, you'll learn how to build a basic Blender file with incorporated fundamental animations. After that, you'll learn how to integrate Three.js with your React apps using React Three Fiber.  Getting familiar with these concepts can help you make sure your upcoming React.js applications stand out.]]></summary>
-        <author>
-            <name>Matthes Bär</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML and CSS – Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/html-css-handbook-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/html-css-handbook-for-beginners/"/>
-        <updated>2023-08-17T14:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, and welcome to this comprehensive HTML and CSS handbook. My goal is to teach you everything you need to know about building fast and beautiful websites that look great on any device. I'm assuming you have no knowledge of HTML or CSS and want to learn everything from scratch.]]></summary>
-        <author>
-            <name>Karlgusta Annoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
-        <updated>2023-08-17T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/"/>
-        <updated>2023-08-15T16:03:55.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn everything you need to know about using promises and async/await in JavaScript. So let's get started. If you'd like to learn along with a video version of this tutorial, you can also check out my YouTube playlist [https://www.youtube.com/watch?v=4jaiXP6vU2w&list=PLSJnlFr3D-mGIHFpo80ylsaBErtueSpYS&index=14] . Why Use Promises in JavaScript?]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to High Performance WordPress]]></title>
-        <id>https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/</id>
-        <link href="https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/"/>
-        <updated>2023-08-15T14:35:11.000Z</updated>
-        <summary type="html"><![CDATA[There are many strategies you can do to increase the performance of your WordPress websites and other websites. In this guide, we'll show you how to identify and fix performance issues for good. This guide combines over 20 years of experience of fine-tuning servers, CDNs, and website code to deliver]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +243,6 @@
         <summary type="html"><![CDATA[The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adriano Raiano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating YouTube’s Ambient Mode Glow Effect]]></title>
-        <id>https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/</id>
-        <link href="https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/"/>
-        <updated>2023-07-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
