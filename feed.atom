@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T00:09:15.579Z</id>
+    <id>urn:2023-08-24T00:09:15.571Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T00:09:15.579Z</updated>
+    <updated>2023-08-24T00:09:15.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free Perl Programming Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/"/>
+        <updated>2023-08-23T17:56:28.000Z</updated>
+        <summary type="html"><![CDATA[For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Few Interesting Ways To Use CSS Shadows For More Than Depth]]></title>
+        <id>https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/</id>
+        <link href="https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/"/>
+        <updated>2023-08-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp]]></title>
+        <id>https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/</id>
+        <link href="https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/"/>
+        <updated>2023-08-22T22:32:35.000Z</updated>
+        <summary type="html"><![CDATA[What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you]]></summary>
+        <author>
+            <name>Tasnim Ferdous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Python Code Example Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/the-python-code-example-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-python-code-example-handbook/"/>
+        <updated>2023-08-22T21:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Bundle a Simple React Application Using esbuild]]></title>
         <id>https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/</id>
@@ -73,36 +113,6 @@
         <summary type="html"><![CDATA[When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Development with Large Language Models]]></title>
-        <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
-        <link href="https://www.freecodecamp.org/news/development-with-large-language-models/"/>
-        <updated>2023-08-21T16:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers. We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Google Drive Clone with Laravel, PHP, and Vue.js]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/"/>
-        <updated>2023-08-21T14:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Building file manager application is a great way to learn many important programming concepts. We just posted a 14-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a feature-rich file manager application using Laravel (the PHP framework), Inertia, and Vue.js. This comprehensive course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the JavaScript at() Array Method]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-at-method/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-at-method/"/>
-        <updated>2023-08-21T14:41:05.000Z</updated>
-        <summary type="html"><![CDATA[One of JavaScript's most exciting new features is the at() method. The at()  method is a new addition to the Array prototype in JavaScript. You can use this method to access elements in an array using a numeric index. The at() method takes an integer value and returns the]]></summary>
-        <author>
-            <name>Natalie Pina</name>
         </author>
     </entry>
     <entry>

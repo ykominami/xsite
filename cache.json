@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
+          "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "publishedOn": "2023-08-23T15:00:00.000Z",
+          "wordCount": 4483,
+          "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "author": "hello@smashingmagazine.com (Costa Alexoglou)",
           "description": "Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.",
           "link": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "publishedOn": "2023-08-21T08:00:00.000Z",
-          "wordCount": 4642,
+          "wordCount": 4648,
           "title": "Better Context Menus With Safe Triangles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg",
@@ -38,7 +53,7 @@
           "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
           "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 4433,
+          "wordCount": 4443,
           "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
           "enclosure": {
             "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
@@ -53,7 +68,7 @@
           "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
           "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
           "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 4639,
+          "wordCount": 4638,
           "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
@@ -68,7 +83,7 @@
           "description": "In part 2 of the series, Hannah Milan reviews various accessible text over images techniques for designing your content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
           "publishedOn": "2023-08-11T13:00:00.000Z",
-          "wordCount": 5086,
+          "wordCount": 5195,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques And Resources (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg",
@@ -98,7 +113,7 @@
           "description": "Friction often has a negative connotation in user experience design, but it actually has many benefits. Its best-known use case is mitigating unintended consequences in high-risk scenarios, yet it has a new place in the age of artificial intelligence. Adding strategic friction to interfaces can lead to profound efficiency gains in machine learning algorithms.",
           "link": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
           "publishedOn": "2023-08-07T14:00:00.000Z",
-          "wordCount": 6408,
+          "wordCount": 6407,
           "title": "Using Friction As A Feature In Machine Learning Algorithms",
           "enclosure": {
             "url": "http://files.smashing.media/articles/friction-feature-machine-learning-algorithms/friction-feature-machine-learning-algorithms.jpg",
@@ -113,7 +128,7 @@
           "description": "In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
           "publishedOn": "2023-08-04T08:00:00.000Z",
-          "wordCount": 4984,
+          "wordCount": 4978,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg",
@@ -128,7 +143,7 @@
           "description": "Liran Cohen and the team at Bookaway, a travel booking service, dramatically improved their site’s performance by auditing Core Web Vitals. In this article, Liran shares his team’s process for auditing and monitoring Web Vitals and the effort it took to dramatically improve Bookaway’s performance — and the benefits that came with it.",
           "link": "https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/",
           "publishedOn": "2023-08-03T10:00:00.000Z",
-          "wordCount": 6182,
+          "wordCount": 6170,
           "title": "How We Optimized Performance To Serve A Global Audience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimize-performance-serve-global-audience/optimize-performance-serve-global-audience.jpg",
@@ -143,7 +158,7 @@
           "description": "We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.",
           "link": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
           "publishedOn": "2023-08-01T18:00:00.000Z",
-          "wordCount": 8107,
+          "wordCount": 8109,
           "title": "Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png",
@@ -158,7 +173,7 @@
           "description": "In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.",
           "link": "https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/",
           "publishedOn": "2023-08-01T11:00:00.000Z",
-          "wordCount": 5927,
+          "wordCount": 5929,
           "title": "CSS And Accessibility: Inclusion Through User Choice",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-accessibility-inclusion-user-choice/css-accessibility-inclusion-user-choice.jpg",
@@ -173,7 +188,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/",
           "publishedOn": "2023-07-31T09:50:00.000Z",
-          "wordCount": 5252,
+          "wordCount": 5254,
           "title": "Living In The Moment (August 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/aug-23-summer-day-preview-opt.png",
@@ -188,7 +203,7 @@
           "description": "Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.",
           "link": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
           "publishedOn": "2023-07-28T10:00:00.000Z",
-          "wordCount": 4700,
+          "wordCount": 4703,
           "title": "How To Define An Array Of Colors With CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg",
@@ -203,7 +218,7 @@
           "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
           "link": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
           "publishedOn": "2023-07-27T15:00:00.000Z",
-          "wordCount": 4078,
+          "wordCount": 4076,
           "title": "How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg",
@@ -218,7 +233,7 @@
           "description": "The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.",
           "link": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
           "publishedOn": "2023-07-26T12:00:00.000Z",
-          "wordCount": 5170,
+          "wordCount": 5171,
           "title": "Modern Technology And The Future Of Language Translation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg",
@@ -234,6 +249,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced",
+          "link": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
+          "publishedOn": "2023-08-23T17:56:28.000Z",
+          "wordCount": 852,
+          "title": "Free Perl Programming Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/prl.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
+          "author": "Tasnim Ferdous",
+          "description": "What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you",
+          "link": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
+          "publishedOn": "2023-08-22T22:32:35.000Z",
+          "wordCount": 3908,
+          "title": "How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover_image.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be",
+          "link": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "publishedOn": "2023-08-22T21:54:38.000Z",
+          "wordCount": 19330,
+          "title": "The Python Code Example Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Learn-Python-with-Code-Examples-Handbook-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
           "author": "Valentine Gatwiri",
@@ -303,36 +348,6 @@
           "wordCount": 999,
           "title": "Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shawn-henry-eK_aInAXydw-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/development-with-large-language-models/",
-          "author": "Beau Carnes",
-          "description": "Large Language Models (LLMs) open up a wide range of capabilities for developers. We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential",
-          "link": "https://www.freecodecamp.org/news/development-with-large-language-models/",
-          "publishedOn": "2023-08-21T16:13:43.000Z",
-          "wordCount": 784,
-          "title": "Development with Large Language Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/llmdev.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/",
-          "author": "Beau Carnes",
-          "description": "Building file manager application is a great way to learn many important programming concepts. We just posted a 14-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a feature-rich file manager application using Laravel (the PHP framework), Inertia, and Vue.js. This comprehensive course",
-          "link": "https://www.freecodecamp.org/news/build-a-google-drive-clone-with-laravel-php-vuejs/",
-          "publishedOn": "2023-08-21T14:48:11.000Z",
-          "wordCount": 911,
-          "title": "Build a Google Drive Clone with Laravel, PHP, and Vue.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/googeldrive.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-at-method/",
-          "author": "Natalie Pina",
-          "description": "One of JavaScript's most exciting new features is the at() method. The at()  method is a new addition to the Array prototype in JavaScript. You can use this method to access elements in an array using a numeric index. The at() method takes an integer value and returns the",
-          "link": "https://www.freecodecamp.org/news/javascript-at-method/",
-          "publishedOn": "2023-08-21T14:41:05.000Z",
-          "wordCount": 1808,
-          "title": "How to Use the JavaScript at() Array Method",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Grey-Minimalist-Tips-Blog-Banner.png"
         }
       ]
     }
