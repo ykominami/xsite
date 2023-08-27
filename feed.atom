@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-26T00:09:04.576Z</id>
+    <id>urn:2023-08-27T00:10:04.417Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T00:09:04.576Z</updated>
+    <updated>2023-08-27T00:10:04.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Notification System with Go and Kafka]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/"/>
+        <updated>2023-08-25T21:41:27.000Z</updated>
+        <summary type="html"><![CDATA[These days, applications need to have instant data access and processing capabilities. Whether it's updating real-time stock trades for financial institutions or navigating through live traffic data, the ability to process and react to data in real time is crucial. In this tutorial, you’ll delve into the mechanics of Kafka]]></summary>
+        <author>
+            <name>Hermann Rösch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Large Language Model from Scratch Using Python]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/</id>
@@ -116,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Date Validations – How To Validate a Date in JavaScript (With Examples)]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/"/>
-        <updated>2023-08-22T19:08:29.000Z</updated>
-        <summary type="html"><![CDATA[There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Better Context Menus With Safe Triangles]]></title>
         <id>https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/</id>
         <link href="https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/"/>
@@ -233,26 +233,6 @@
         <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Define An Array Of Colors With CSS]]></title>
-        <id>https://smashingmagazine.com/2023/07/define-array-colors-css/</id>
-        <link href="https://smashingmagazine.com/2023/07/define-array-colors-css/"/>
-        <updated>2023-07-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations]]></title>
-        <id>https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/</id>
-        <link href="https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/"/>
-        <updated>2023-07-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
