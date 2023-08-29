@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.",
+          "link": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
+          "publishedOn": "2023-08-28T13:30:00.000Z",
+          "wordCount": 5780,
+          "title": "Falling For Oklch: A Love Story Of Color Spaces, Gamuts, And CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/",
           "author": "hello@smashingmagazine.com (Andy Budd)",
           "description": "The so-called “Double Diamond” is a great way of visualizing an ideal design process — but it’s just not the way most companies deliver new projects or services. Andy Budd proposes a new “Double Diamond” idea that better aligns with the way work actually gets done and highlights the place where design has the most leverage.",
           "link": "https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/",
           "publishedOn": "2023-08-25T11:00:00.000Z",
-          "wordCount": 5834,
+          "wordCount": 5833,
           "title": "Improving The Double Diamond Design Process",
           "enclosure": {
             "url": "http://files.smashing.media/articles/improving-double-diamond-design-process/improving-double-diamond-design-process.jpg",
@@ -38,7 +53,7 @@
           "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
           "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
           "publishedOn": "2023-08-23T15:00:00.000Z",
-          "wordCount": 4492,
+          "wordCount": 4482,
           "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
@@ -53,7 +68,7 @@
           "description": "Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.",
           "link": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "publishedOn": "2023-08-21T08:00:00.000Z",
-          "wordCount": 4646,
+          "wordCount": 4641,
           "title": "Better Context Menus With Safe Triangles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg",
@@ -68,7 +83,7 @@
           "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
           "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 4441,
+          "wordCount": 4442,
           "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
           "enclosure": {
             "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
@@ -83,7 +98,7 @@
           "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
           "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
           "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 4637,
+          "wordCount": 4631,
           "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
@@ -98,7 +113,7 @@
           "description": "In part 2 of the series, Hannah Milan reviews various accessible text over images techniques for designing your content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
           "publishedOn": "2023-08-11T13:00:00.000Z",
-          "wordCount": 5088,
+          "wordCount": 5092,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques And Resources (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg",
@@ -128,7 +143,7 @@
           "description": "Friction often has a negative connotation in user experience design, but it actually has many benefits. Its best-known use case is mitigating unintended consequences in high-risk scenarios, yet it has a new place in the age of artificial intelligence. Adding strategic friction to interfaces can lead to profound efficiency gains in machine learning algorithms.",
           "link": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
           "publishedOn": "2023-08-07T14:00:00.000Z",
-          "wordCount": 6414,
+          "wordCount": 6416,
           "title": "Using Friction As A Feature In Machine Learning Algorithms",
           "enclosure": {
             "url": "http://files.smashing.media/articles/friction-feature-machine-learning-algorithms/friction-feature-machine-learning-algorithms.jpg",
@@ -143,7 +158,7 @@
           "description": "In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
           "publishedOn": "2023-08-04T08:00:00.000Z",
-          "wordCount": 4981,
+          "wordCount": 5090,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg",
@@ -158,7 +173,7 @@
           "description": "Liran Cohen and the team at Bookaway, a travel booking service, dramatically improved their site’s performance by auditing Core Web Vitals. In this article, Liran shares his team’s process for auditing and monitoring Web Vitals and the effort it took to dramatically improve Bookaway’s performance — and the benefits that came with it.",
           "link": "https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/",
           "publishedOn": "2023-08-03T10:00:00.000Z",
-          "wordCount": 6278,
+          "wordCount": 6170,
           "title": "How We Optimized Performance To Serve A Global Audience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimize-performance-serve-global-audience/optimize-performance-serve-global-audience.jpg",
@@ -173,7 +188,7 @@
           "description": "We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.",
           "link": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
           "publishedOn": "2023-08-01T18:00:00.000Z",
-          "wordCount": 8100,
+          "wordCount": 8109,
           "title": "Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png",
@@ -188,7 +203,7 @@
           "description": "In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.",
           "link": "https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/",
           "publishedOn": "2023-08-01T11:00:00.000Z",
-          "wordCount": 5921,
+          "wordCount": 5925,
           "title": "CSS And Accessibility: Inclusion Through User Choice",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-accessibility-inclusion-user-choice/css-accessibility-inclusion-user-choice.jpg",
@@ -203,7 +218,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/",
           "publishedOn": "2023-07-31T09:50:00.000Z",
-          "wordCount": 5254,
+          "wordCount": 5249,
           "title": "Living In The Moment (August 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/aug-23-summer-day-preview-opt.png",
@@ -220,14 +235,54 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/",
+          "author": "Tatev Karen Aslanyan",
+          "description": "In this handbook, I'll show you how to use proven strategies and insights to get into the fields of AI and Data Science. I'll help you navigate the exciting world of Data Science and AI in 2023 so you can increase your chances of landing a job.  > Every",
+          "link": "https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/",
+          "publishedOn": "2023-08-28T16:44:29.000Z",
+          "wordCount": 11548,
+          "title": "The Data Science and AI Handbook – How to Start a Career in Data Science",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Data-Science-and-AI-Career-Guide-Handbook-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-functions-and-scope/",
+          "author": "Casmir Onyekani",
+          "description": "Welcome to the exciting world of JavaScript Functions and Scope. Have you ever wondered how programs remember things and do tasks over and over again? Well, that's where functions and scope come into play. Whether you're a curious beginner or someone looking to strengthen your coding skills, get ready to",
+          "link": "https://www.freecodecamp.org/news/javascript-functions-and-scope/",
+          "publishedOn": "2023-08-28T14:55:54.000Z",
+          "wordCount": 3970,
+          "title": "JavaScript Functions and Scope – a Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/learn-javascript-functions-and-scope-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/",
+          "author": "Quincy Larson",
+          "description": "I'm excited to announce that Microsoft and freeCodeCamp have teamed up to bring you a new free professional certification: the Foundational C# Certification. This professional certification includes 35 hours of training from Microsoft and an online certification exam by freeCodeCamp. By the end of this process, you'll have earned your",
+          "link": "https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/",
+          "publishedOn": "2023-08-28T12:53:25.000Z",
+          "wordCount": 1121,
+          "title": "Earn a Free C# Certification from Microsoft and freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Microsoft-C-Sharp-Certification-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/",
           "author": "Hermann Rösch",
           "description": "These days, applications need to have instant data access and processing capabilities. Whether it's updating real-time stock trades for financial institutions or navigating through live traffic data, the ability to process and react to data in real time is crucial. In this tutorial, you’ll delve into the mechanics of Kafka",
           "link": "https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/",
           "publishedOn": "2023-08-25T21:41:27.000Z",
-          "wordCount": 3562,
+          "wordCount": 3576,
           "title": "How to Build a Real-Time Notification System with Go and Kafka",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Go_Kafka_Vert_Rev2.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-typescript-can-improve-web-development-projects/",
+          "author": "Adalbert Pungu",
+          "description": "Hi, everyone! In this article I'm going to talk about how TypeScript can help enhance and improve your web development projects.  If you're not familiar with TypeScript, you can read through this comprehensive beginner's guide [/news/learn-typescript-beginners-guide/] to get started. If you do know some TS, that's great – I'll",
+          "link": "https://www.freecodecamp.org/news/how-typescript-can-improve-web-development-projects/",
+          "publishedOn": "2023-08-25T16:30:00.000Z",
+          "wordCount": 2610,
+          "title": "How TypeScript Can Improve Your Web Development Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pexels-ian-beckley-2440024.jpg"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/",
@@ -235,7 +290,7 @@
           "description": "Have you ever been fascinated by the capabilities of large language models like GPT-4 but wondered how they are actually work? If you want to uncover the mysteries behind these powerful models, our latest video course on the freeCodeCamp.org YouTube channel is perfect for you. In this comprehensive course, you",
           "link": "https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/",
           "publishedOn": "2023-08-25T15:32:19.000Z",
-          "wordCount": 1123,
+          "wordCount": 1121,
           "title": "How to Build a Large Language Model from Scratch Using Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/llmscratch.png"
         },
@@ -245,7 +300,7 @@
           "description": "In the ever-evolving world of web development, Next.js has consistently been a beacon of hope for developers seeking a balance between performance and ease of use.  With the introduction of the App Router in 2023, the framework has once again stirred the pot, leaving many of us scratching our",
           "link": "https://www.freecodecamp.org/news/routing-in-nextjs/",
           "publishedOn": "2023-08-24T15:13:32.000Z",
-          "wordCount": 2888,
+          "wordCount": 2886,
           "title": "Routing in Next.js – How to Use App Router in your Next Apps",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Article-Cover.png"
         },
@@ -255,7 +310,7 @@
           "description": "In today's data-driven world, the ability to effectively manage and query databases is an essential skill for any programmer, data analyst, or software engineer. Whether you want to streamline business operations, uncover critical insights, or create dynamic applications, a solid understanding of Structured Query Language (SQL) is paramount. We just",
           "link": "https://www.freecodecamp.org/news/sql-for-web-devs/",
           "publishedOn": "2023-08-24T13:55:38.000Z",
-          "wordCount": 961,
+          "wordCount": 959,
           "title": "Mastering SQL for Web Developers – Full Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/sqlweb.jpg"
         },
@@ -265,7 +320,7 @@
           "description": "In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a",
           "link": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
           "publishedOn": "2023-08-23T21:06:02.000Z",
-          "wordCount": 2715,
+          "wordCount": 2713,
           "title": "How to Build a Photo Encryption App using Steganography",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot--122-.png"
         },
@@ -275,49 +330,9 @@
           "description": "Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to",
           "link": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
           "publishedOn": "2023-08-23T20:45:10.000Z",
-          "wordCount": 2105,
+          "wordCount": 2103,
           "title": "Beginner's Python Tutorial: Pong",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pong.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced",
-          "link": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
-          "publishedOn": "2023-08-23T17:56:28.000Z",
-          "wordCount": 852,
-          "title": "Free Perl Programming Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/prl.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
-          "author": "Tasnim Ferdous",
-          "description": "What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you",
-          "link": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
-          "publishedOn": "2023-08-22T22:32:35.000Z",
-          "wordCount": 3908,
-          "title": "How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover_image.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum, Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be a",
-          "link": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
-          "publishedOn": "2023-08-22T21:54:38.000Z",
-          "wordCount": 19337,
-          "title": "The Python Code Example Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Learn-Python-with-Code-Examples-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
-          "author": "Valentine Gatwiri",
-          "description": "Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's",
-          "link": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
-          "publishedOn": "2023-08-22T20:56:13.000Z",
-          "wordCount": 1397,
-          "title": "How to Bundle a Simple React Application Using esbuild",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-from-2023-08-21-16-04-04.png"
         }
       ]
     }
