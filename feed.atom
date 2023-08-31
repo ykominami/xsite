@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T00:09:31.211Z</id>
+    <id>urn:2023-08-31T00:09:33.311Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T00:09:31.211Z</updated>
+    <updated>2023-08-31T00:09:33.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OWASP API Security Top 10 – Secure Your APIs]]></title>
+        <id>https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/</id>
+        <link href="https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/"/>
+        <updated>2023-08-30T19:27:18.000Z</updated>
+        <summary type="html"><![CDATA[The OWASP API Security Top 10 is a standard reference guide highlighting the most critical web API vulnerabilities to help developers and organizations understand and mitigate potential security threats. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about each security risk and techniques to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Online Image-to-PDF Converter with HTML, CSS, JS, and NodeJS]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/"/>
+        <updated>2023-08-30T17:03:33.000Z</updated>
+        <summary type="html"><![CDATA[An online image-to-PDF converter is a website that helps you convert your images to PDFs. This tool is useful because it provides an efficient way to store your images. In this tutorial, you'll learn how you can create your online image-to-pdf converter with HTML, CSS, JavaScript, and NodeJS. Table of]]></summary>
+        <author>
+            <name>Gideon Akinsanmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing freeCodeCamp Press – Free Books for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/"/>
+        <updated>2023-08-30T16:49:54.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community has published more than 10,000 tutorials over the years. But lately we've focused on creating even longer resources for learning math, programming, and computer science. This is why we've created freeCodeCamp Press – a division of freeCodeCamp where we publish full-length books and handbooks – all available]]></summary>
+        <author>
+            <name>Abbey Rennemeyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Machine Learning and Neural Networks without Frameworks]]></title>
+        <id>https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/</id>
+        <link href="https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/"/>
+        <updated>2023-08-30T16:22:01.000Z</updated>
+        <summary type="html"><![CDATA[A lot of machine learning course relay on frameworks that abstract the inner workings of what is going on. If you want to become proficient, it is helpful to understand how things work under the hood. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agile Software Development Handbook – Scrum, Kanban, and Other Methodologies Explained]]></title>
+        <id>https://www.freecodecamp.org/news/agile-software-development-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/agile-software-development-handbook/"/>
+        <updated>2023-08-30T14:26:36.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced and ever-evolving world of software development, there's always a need for flexibility, adaptability, and responsiveness. Traditional software development methods often struggled to keep up with changing requirements and market demands. This can lead to delays, cost overruns, and dissatisfied stakeholders. In response to these challenges, the Agile]]></summary>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Release a Flutter App in Google Play]]></title>
+        <id>https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/</id>
+        <link href="https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/"/>
+        <updated>2023-08-30T14:23:42.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving world of mobile app development, Flutter has gained immense popularity for its ability to create stunning and high-performance apps across multiple platforms.  Flutter's framework allows developers to build beautiful user interfaces, deliver native performance, and streamline development.  In this tutorial, I will walk you]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The C Programming Handbook for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/</id>
@@ -36,33 +96,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Javascript Dates – How to Use the DayJS Library to work with Date and Time in JS]]></title>
+        <title type="html"><![CDATA[JavaScript Dates – How to Use the DayJS Library to work with Date and Time in JS]]></title>
         <id>https://www.freecodecamp.org/news/javascript-date-time-dayjs/</id>
         <link href="https://www.freecodecamp.org/news/javascript-date-time-dayjs/"/>
         <updated>2023-08-28T22:09:07.000Z</updated>
         <summary type="html"><![CDATA[When it comes to handling dates and times in JavaScript, developers often find themselves grappling with the complexities of the built-in Date object. While vanilla JavaScript provides fundamental functionality, it can be quite cumbersome to work with, especially when dealing with parsing, formatting, and manipulating dates. This is where external]]></summary>
         <author>
             <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Data Science and AI Handbook – How to Start a Career in Data Science]]></title>
-        <id>https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/"/>
-        <updated>2023-08-28T16:44:29.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, I'll show you how to use proven strategies and insights to get into the fields of AI and Data Science. I'll help you navigate the exciting world of Data Science and AI in 2023 so you can increase your chances of landing a job.  > Every]]></summary>
-        <author>
-            <name>Tatev Karen Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Functions and Scope – a Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-functions-and-scope/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-functions-and-scope/"/>
-        <updated>2023-08-28T14:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the exciting world of JavaScript Functions and Scope. Have you ever wondered how programs remember things and do tasks over and over again? Well, that's where functions and scope come into play. Whether you're a curious beginner or someone looking to strengthen your coding skills, get ready to]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
         </author>
     </entry>
     <entry>
@@ -73,46 +113,6 @@
         <summary type="html"><![CDATA[The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earn a Free C# Certification from Microsoft and freeCodeCamp]]></title>
-        <id>https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/</id>
-        <link href="https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/"/>
-        <updated>2023-08-28T12:53:25.000Z</updated>
-        <summary type="html"><![CDATA[I'm excited to announce that Microsoft and freeCodeCamp have teamed up to bring you a new free professional certification: the Foundational C# Certification. This professional certification includes 35 hours of training from Microsoft and an online certification exam by freeCodeCamp. By the end of this process, you'll have earned your]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Notification System with Go and Kafka]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/"/>
-        <updated>2023-08-25T21:41:27.000Z</updated>
-        <summary type="html"><![CDATA[These days, applications need to have instant data access and processing capabilities. Whether it's updating real-time stock trades for financial institutions or navigating through live traffic data, the ability to process and react to data in real time is crucial. In this tutorial, you’ll delve into the mechanics of Kafka]]></summary>
-        <author>
-            <name>Hermann Rösch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How TypeScript Can Improve Your Web Development Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-typescript-can-improve-web-development-projects/</id>
-        <link href="https://www.freecodecamp.org/news/how-typescript-can-improve-web-development-projects/"/>
-        <updated>2023-08-25T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi, everyone! In this article I'm going to talk about how TypeScript can help enhance and improve your web development projects.  If you're not familiar with TypeScript, you can read through this comprehensive beginner's guide [/news/learn-typescript-beginners-guide/] to get started. If you do know some TS, that's great – I'll]]></summary>
-        <author>
-            <name>Adalbert Pungu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Large Language Model from Scratch Using Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/"/>
-        <updated>2023-08-25T15:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever been fascinated by the capabilities of large language models like GPT-4 but wondered how they are actually work? If you want to uncover the mysteries behind these powerful models, our latest video course on the freeCodeCamp.org YouTube channel is perfect for you. In this comprehensive course, you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -223,16 +223,6 @@
         <summary type="html"><![CDATA[We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS And Accessibility: Inclusion Through User Choice]]></title>
-        <id>https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/</id>
-        <link href="https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/"/>
-        <updated>2023-08-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
 </feed>
