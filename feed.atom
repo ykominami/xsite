@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T00:09:35.275Z</id>
+    <id>urn:2023-09-05T00:09:20.676Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T00:09:35.275Z</updated>
+    <updated>2023-09-05T00:09:20.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Generating Real-Time Audio Sentiment Analysis With AI]]></title>
+        <id>https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/</id>
+        <link href="https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/"/>
+        <updated>2023-09-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Joas Pambou builds the tool to provide a sentiment score in **real-time** with enhanced user experience by providing multilingual support. You will use an OpenAI library called Whisper that transcribes audio files into text and detects the language, and Gradio, a UI framework, to establish the interface.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use GraphQL]]></title>
         <id>https://www.freecodecamp.org/news/graphql-database-tutorial/</id>
