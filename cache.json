@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.",
+          "link": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
+          "publishedOn": "2023-09-06T11:00:00.000Z",
+          "wordCount": 5129,
+          "title": "Long Live The Test Pyramid",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "In this article, Joas Pambou builds the tool to provide a sentiment score in **real-time** with enhanced user experience by providing multilingual support. You will use an OpenAI library called Whisper that transcribes audio files into text and detects the language, and Gradio, a UI framework, to establish the interface.",
@@ -38,7 +53,7 @@
           "description": "Let’s get ready for September with some fresh wallpaper designs! Created with love by artists and designers from across the globe, the wallpapers in this collection come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
           "publishedOn": "2023-08-31T08:15:00.000Z",
-          "wordCount": 4797,
+          "wordCount": 4792,
           "title": "A September Of Never Ending Adventures (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png",
@@ -53,7 +68,7 @@
           "description": "The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.",
           "link": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
           "publishedOn": "2023-08-28T13:30:00.000Z",
-          "wordCount": 5774,
+          "wordCount": 5779,
           "title": "Falling For Oklch: A Love Story Of Color Spaces, Gamuts, And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg",
@@ -83,7 +98,7 @@
           "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
           "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
           "publishedOn": "2023-08-23T15:00:00.000Z",
-          "wordCount": 4486,
+          "wordCount": 4487,
           "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
@@ -98,7 +113,7 @@
           "description": "Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.",
           "link": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "publishedOn": "2023-08-21T08:00:00.000Z",
-          "wordCount": 4645,
+          "wordCount": 4643,
           "title": "Better Context Menus With Safe Triangles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg",
@@ -113,7 +128,7 @@
           "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
           "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 4430,
+          "wordCount": 4439,
           "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
           "enclosure": {
             "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
@@ -128,7 +143,7 @@
           "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
           "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
           "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 4631,
+          "wordCount": 4638,
           "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
           "enclosure": {
             "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
@@ -143,7 +158,7 @@
           "description": "In part 2 of the series, Hannah Milan reviews various accessible text over images techniques for designing your content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
           "publishedOn": "2023-08-11T13:00:00.000Z",
-          "wordCount": 5093,
+          "wordCount": 5095,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques And Resources (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg",
@@ -166,21 +181,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
-          "author": "hello@smashingmagazine.com (Maximillian Piras)",
-          "description": "Friction often has a negative connotation in user experience design, but it actually has many benefits. Its best-known use case is mitigating unintended consequences in high-risk scenarios, yet it has a new place in the age of artificial intelligence. Adding strategic friction to interfaces can lead to profound efficiency gains in machine learning algorithms.",
-          "link": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
-          "publishedOn": "2023-08-07T14:00:00.000Z",
-          "wordCount": 6414,
-          "title": "Using Friction As A Feature In Machine Learning Algorithms",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/friction-feature-machine-learning-algorithms/friction-feature-machine-learning-algorithms.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/friction-feature-machine-learning-algorithms/friction-feature-machine-learning-algorithms.jpg"
         }
       ]
     },
@@ -190,104 +190,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/how-to-use-ai-generated-code/",
-          "author": "Sonya Moisset",
-          "description": "At the heart of software development lies code. It's a set of sequential instructions that allow computers to run programs and applications.  The act of writing code has always rested squarely upon the shoulders of skilled programmers. It's been a distinctly human endeavor.  But the this process is",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-generated-code/",
-          "publishedOn": "2023-09-05T20:46:49.000Z",
-          "wordCount": 4730,
-          "title": "How to Use AI-Generated Code in a Safe and Effective Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/programmer-cyberpunk-580033800-1.png"
+          "id": "https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/",
+          "author": "Zaira Hira",
+          "description": "Diagrams are an important part of technical documentation. In this article we will explore how we can use code to generate diagrams and leverage them in Markdown.  Here is an example of how a code generated diagram looks like: Diagram generated by codeNo tools, no dragging, aligning and snapping",
+          "link": "https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/",
+          "publishedOn": "2023-09-06T20:51:45.000Z",
+          "wordCount": 1902,
+          "title": "How to Create Diagrams as Code with Mermaid, GitHub, and Visual Studio Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/mermaid-code-as-a-diagram.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
+          "id": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/",
+          "author": "Hillary Nyakundi",
+          "description": "Over the past decade, open-source projects have become the backbone of the technology ecosystem. They power everything from applications to innovations across different fields. These collaborative inventions bring together people with different skill sets including developers, designers, and tech enthusiasts in general with one goal in mind to build: to",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/",
+          "publishedOn": "2023-09-06T15:39:30.000Z",
+          "wordCount": 7809,
+          "title": "How to Contribute to Open-Source Projects – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/How-to-Contribute-to-Open-Source--with-photo--Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/signal-processing-and-systems-in-programming/",
+          "author": "Tiago Monteiro",
+          "description": "Signal processing is an important field in engineering and programming.  Basically, it allows engineers and programmers to improve data so that people can use it more effectively. For example, it is thanks to signal processing that much of the background noise in a phone call is removed. This way,",
+          "link": "https://www.freecodecamp.org/news/signal-processing-and-systems-in-programming/",
+          "publishedOn": "2023-09-06T14:49:58.000Z",
+          "wordCount": 2622,
+          "title": "Signal Processing and Systems in Programming – Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-igor-mashkov-6325003.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-azure-kubernetes-service-for-container-orchestration/",
+          "author": "Valentine Gatwiri",
+          "description": "Containerization has transformed the way applications are built, deployed, and scaled. Containers provide a lightweight, portable, and uniform environment for developers to bundle their programs as well as their dependencies into a single unit.  But when a system's container count rises, controlling and coordinating them becomes more difficult. Fortunately,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-azure-kubernetes-service-for-container-orchestration/",
+          "publishedOn": "2023-09-06T13:56:05.000Z",
+          "wordCount": 1838,
+          "title": "How to Use Azure Kubernetes Service for Container Orchestration",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot-from-2023-09-04-11-21-32.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/",
+          "author": "Arunachalam B",
+          "description": "Ever since the launch of OpenAI's ChatGPT, everyone wants to learn about AI and ML.  Not only that – everyone wants to build and release an AI product on their own to mark their position in the global competition.  And if you already own a SaaS product, you",
+          "link": "https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/",
+          "publishedOn": "2023-09-06T13:53:46.000Z",
+          "wordCount": 3816,
+          "title": "How to Build a Linear Regression Model – Machine Learning Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Linear-Regression-with-an-Example---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-css-and-javascript-project-in-spanish-create-a-pokedex/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Building projects is a great way to practice your skills, especially in web development. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will teach you how to build a Pokédex step by step with HTML, CSS, and JavaScript, using data from the PokéAPI [https://pokeapi.co/]. If you",
+          "link": "https://www.freecodecamp.org/news/html-css-and-javascript-project-in-spanish-create-a-pokedex/",
+          "publishedOn": "2023-09-06T13:25:09.000Z",
+          "wordCount": 882,
+          "title": "HTML, CSS, and JavaScript Project in Spanish – Create a Pokédex",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Thumbnail-Pokedex.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
           "author": "Beau Carnes",
-          "description": "Large Language Models like ChatGPT can be used to increase your productivity on a ton of different types of tasks. To use LLMs effectively, it is important to understand prompt engineering strategies.  We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to",
-          "link": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
-          "publishedOn": "2023-09-05T17:23:37.000Z",
-          "wordCount": 780,
-          "title": "Learn Prompt Engineering – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/prompt_engineering_course.jpg"
+          "description": "Are you ready to take your web development skills to the next level and learn a bit about how platforms like Google Drive work under the hood?  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a Google Drive clone with",
+          "link": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
+          "publishedOn": "2023-09-06T12:38:00.000Z",
+          "wordCount": 1001,
+          "title": "Full Stack Web Dev with Next.js & Firebase – Google Drive Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/drivenext.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-create-animated-bubbles-with-html5-canvas-and-javascript/",
-          "author": "Shruti Kapoor",
-          "description": "Hello everyone! Welcome to this tutorial where we're going to dive into the world of creating fun bubbles in code using HTML canvas and JavaScript. The best part? We'll achieve all of this using just a touch of HTML and all JavaScript, no CSS. What we will learn In",
-          "link": "https://www.freecodecamp.org/news/how-to-create-animated-bubbles-with-html5-canvas-and-javascript/",
-          "publishedOn": "2023-09-05T14:08:02.000Z",
-          "wordCount": 2116,
-          "title": "How to Create Animated Bubbles with HTML5 Canvas and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shrutikapoor.dev--11-.jpg"
+          "id": "https://www.freecodecamp.org/news/tdd-in-android-apps/",
+          "author": "Siamak Mahmoudi",
+          "description": "TDD, or Test-Driven Development, is a software development approach where tests are written before the actual code is implemented.  It requires a clear understanding of \"What\" and \"How\" in the the requirements of the project/feature.  TDD helps to write less, but enough code. It helps prevent common software",
+          "link": "https://www.freecodecamp.org/news/tdd-in-android-apps/",
+          "publishedOn": "2023-09-06T06:34:34.000Z",
+          "wordCount": 5109,
+          "title": "Test Driven Development in Android Apps – A Practical Guide to TDD",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/TDD--1-.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-sql/",
-          "author": "Lane Wagner",
-          "description": "SQL is everywhere these days. Whether you're learning backend development [https://www.boot.dev/], data engineering, DevOps, or data science, SQL is a skill you'll want in your toolbelt. This a free and open text-based handbook. If you want to get started, just scroll down and start reading. That said, there are two",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-sql/",
-          "publishedOn": "2023-09-05T13:57:37.000Z",
-          "wordCount": 10247,
-          "title": "The SQL Handbook – A Free Course for Web Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/The-SQL-Handbook-Cover.png"
+          "id": "https://www.freecodecamp.org/news/how-to-manage-users-in-linux/",
+          "author": "Destiny Erhabor",
+          "description": "Linux is an open-source operating system that is widely used in various applications due to its flexibility, stability, and security. One of the fundamental aspects of Linux is user management, which enables administrators to control access to resources and maintain security of the system. In the fast-paced world of technology,",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-users-in-linux/",
+          "publishedOn": "2023-09-06T00:08:04.000Z",
+          "wordCount": 3154,
+          "title": "How to Manage Users in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/gabriel-heinzer-xbEVM6oJ1Fs-unsplash-1.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/databricks-sql-handbook/",
-          "author": "Atharva Shah",
-          "description": "Welcome to the Databricks Delta Lake with SQL Handbook! Databricks is a unified analytics platform that brings together data engineering, data science, and business analytics into a collaborative workspace.  Delta Lake, a powerful storage layer built on top of Databricks, provides enhanced reliability, performance, and data quality for big",
-          "link": "https://www.freecodecamp.org/news/databricks-sql-handbook/",
-          "publishedOn": "2023-09-05T13:57:32.000Z",
-          "wordCount": 7301,
-          "title": "How to Use Databricks Delta Lake with SQL – Full Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Databricks-Delta-Lake-with-SQL-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/graphql-database-tutorial/",
-          "author": "Beau Carnes",
-          "description": "GraphQL has been transforming the way that developers interact with APIs and data-driven applications. And there is a good chance you will need to know about it as a developer. We just posted a full GraphQL course on the freeCodeCamp.org YouTube channel. In this comprehensive course, designed especially for those",
-          "link": "https://www.freecodecamp.org/news/graphql-database-tutorial/",
-          "publishedOn": "2023-09-01T20:47:21.000Z",
-          "wordCount": 884,
-          "title": "How to Use GraphQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/graphql.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-95-malindi-colyer/",
-          "author": "Quincy Larson",
-          "description": "Today I'm joined by Malindi Colyer. Among her many skills, she's a Python developer and AI engineer. Malindi grew up on a farm in rural Kansas, in the middle of the US. She trained to become a diplomat, and volunteered overseas. But along the way, she discovered a love of",
-          "link": "https://www.freecodecamp.org/news/podcast-95-malindi-colyer/",
-          "publishedOn": "2023-09-01T15:48:09.000Z",
-          "wordCount": 783,
-          "title": "Podcast: Automate Your Job Then Keep Climbing with Malindi Colyer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/andre-benz-zeZxd1ItwpA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/",
-          "author": "Tobenna Okeke",
-          "description": "Many projects are migrating from React to Next.js in 2023. So now's the right time to understand an important step in creating a Next.js application: deployment. Deploying a Next.js application is an essential step in the lifecycle of your web product. And since various deployment strategies exist, picking the right",
-          "link": "https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/",
-          "publishedOn": "2023-09-01T14:19:51.000Z",
-          "wordCount": 5139,
-          "title": "How to Choose a Deployment Strategy for Your Next.js Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Grey-Minimalist-Tips-Blog-Banner--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
-          "author": "Beau Carnes",
-          "description": "The MERN stack is a set of technologies often used to build full stack web apps.  We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create full stack apps with the MERN stack. In this comprehensive course, we will take you",
-          "link": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
-          "publishedOn": "2023-08-31T19:03:05.000Z",
-          "wordCount": 989,
-          "title": "MERN Stack Crash Course – Build a Book Store App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/merncrash.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/",
-          "author": "Isah Jacob",
-          "description": "Web security is an important aspect of the web application development process. Especially as more data is stored, managed, and shared.  As a web developer, it's essential to prioritize security measures to protect your company’s users and data from potential threats.  In this article, I will demonstrate web",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/",
-          "publishedOn": "2023-08-31T18:52:53.000Z",
-          "wordCount": 2763,
-          "title": "Web Security in Django – How to Build a Secure Web Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Web-Security-in-Django---How-to-Build-a-Secure-Web-Application.png"
+          "id": "https://www.freecodecamp.org/news/accessibilty-websites-for-developers/",
+          "author": "Ilknur Eren",
+          "description": "Accessibility is never a \"nice-to-have\" requirement when it comes to developing websites and apps. It's a \"must-have\" that should be an integral part of your design and development process.  Ensuring good accessibility is a fundamental responsibility for developers. It can help their applications provide an equitable experience for all",
+          "link": "https://www.freecodecamp.org/news/accessibilty-websites-for-developers/",
+          "publishedOn": "2023-09-05T22:49:13.000Z",
+          "wordCount": 1515,
+          "title": "Accessibility Resources for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/a11y.jpeg"
         }
       ]
     }
