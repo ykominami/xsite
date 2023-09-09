@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T00:09:17.372Z</id>
+    <id>urn:2023-09-09T00:09:09.899Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T00:09:17.372Z</updated>
+    <updated>2023-09-09T00:09:09.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Learning to Code in your 30s with Patrick San Juan]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/"/>
+        <updated>2023-09-08T17:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rediscovering The Joy Of Design]]></title>
+        <id>https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/</id>
+        <link href="https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/"/>
+        <updated>2023-09-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with Google Sheets – How to Scrape Web Pages with Built-in Functions]]></title>
+        <id>https://www.freecodecamp.org/news/web-scraping-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-google-sheets/"/>
+        <updated>2023-09-07T21:14:07.000Z</updated>
+        <summary type="html"><![CDATA[You read that right – you can practice web scraping without leaving your happy place: Google Sheets. Google Sheets has five built-in functions that help you import data from other sheets and other web pages. We'll walk through all of them in order from easiest (most limited) to hardest (most]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Java in Ubuntu – JDK Linux Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu/</id>
@@ -83,26 +113,6 @@
         <summary type="html"><![CDATA[Signal processing is an important field in engineering and programming.  Basically, it allows engineers and programmers to improve data so that people can use it more effectively. For example, it is thanks to signal processing that much of the background noise in a phone call is removed. This way,]]></summary>
         <author>
             <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Azure Kubernetes Service for Container Orchestration]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-azure-kubernetes-service-for-container-orchestration/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-azure-kubernetes-service-for-container-orchestration/"/>
-        <updated>2023-09-06T13:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Containerization has transformed the way applications are built, deployed, and scaled. Containers provide a lightweight, portable, and uniform environment for developers to bundle their programs as well as their dependencies into a single unit.  But when a system's container count rises, controlling and coordinating them becomes more difficult. Fortunately,]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Linear Regression Model – Machine Learning Example]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/"/>
-        <updated>2023-09-06T13:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Ever since the launch of OpenAI's ChatGPT, everyone wants to learn about AI and ML.  Not only that – everyone wants to build and release an AI product on their own to mark their position in the global competition.  And if you already own a SaaS product, you]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
     <entry>
@@ -203,16 +213,6 @@
         <summary type="html"><![CDATA[In part 2 of the series, Hannah Milan reviews various accessible text over images techniques for designing your content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Hannah Milan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running A Page Speed Test: Monitoring vs. Measuring]]></title>
-        <id>https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/</id>
-        <link href="https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/"/>
-        <updated>2023-08-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What does your performance “stack” look like? There are all kinds of tools available for measuring page speed, but what data and assumptions do they use to measure performance? And speaking of *measuring* performance, there’s quite a difference between that and *monitoring* performance. Let’s dig in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
