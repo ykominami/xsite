@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T00:09:22.142Z</id>
+    <id>urn:2023-09-13T00:09:26.058Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T00:09:22.143Z</updated>
+    <updated>2023-09-13T00:09:26.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune the Donut Model – With Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/"/>
+        <updated>2023-09-12T17:59:17.000Z</updated>
+        <summary type="html"><![CDATA[The Donut model in Python is a model you can use to extract text from a given image. This can be useful in various scenarios, like scanning receipts, for example.  You can easily download the Donut model from GitHub [https://github.com/clovaai/donut]. But as is common with AI models, you should]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Types of Cyber Attacks You Should Know in 2023]]></title>
+        <id>https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/</id>
+        <link href="https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/"/>
+        <updated>2023-09-12T17:28:42.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, the digital landscape is filled with unprecedented cybersecurity risks. From phishing scams to ransomware attacks. This article outlines different types of cyber attacks that individuals and businesses should be vigilant about. Cyber-attacks are a prevalent threat in the online world. They have the potential to cause substantial difficulties]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Communication Design Patterns for Backend Development]]></title>
+        <id>https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/</id>
+        <link href="https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/"/>
+        <updated>2023-09-12T16:25:03.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building the backend of an application, you’ve got to figure out how all the different components are going to talk to each other.  It’s like setting up a communication network for your app’s brain, and the way you do it can seriously impact how well your app]]></summary>
+        <author>
+            <name>Chinwendu Enyinna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamentals of Finance & Economics for Businesses]]></title>
+        <id>https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/</id>
+        <link href="https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/"/>
+        <updated>2023-09-12T14:58:32.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of business, understanding the intricacies of finance and economics is essential for success. Topics such as the principles of money and deciphering the impact of macroeconomic changes serve as the bedrock of strategic decision-making. We just posted a full course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read a CSV File from S3 Bucket in AWS Lambda - A Definitive Guide]]></title>
+        <id>https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/</id>
+        <link href="https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/"/>
+        <updated>2023-09-12T10:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Storage Service (S3) is a highly scalable, durable, and available object storage service. It is designed to store any amount of data, anytime, from anywhere on the web.  S3 is a key component of the Amazon Web Services (AWS) cloud platform. AWS Lambda is a serverless computing]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Transition vs Animation Handbook – How to Animate Elements in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/"/>
+        <updated>2023-09-12T00:20:36.000Z</updated>
+        <summary type="html"><![CDATA[CSS transitions and animations provide smooth, gradual ways to change an element's style. But they work in different ways. Here are the main distinctions between them: CSS Transition CSS Animation  * Creates smooth transitions from one CSS value to    another.   * You need triggers]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve Your ReactJS Code – Tips for Code Readability and Performance]]></title>
         <id>https://www.freecodecamp.org/news/improve-reactjs-code/</id>
@@ -42,7 +102,7 @@
         <updated>2023-09-11T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Preethi Samathanam)</name>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
         </author>
     </entry>
     <entry>
@@ -56,25 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EternalBlue Explained – An In-Depth Analysis of the Notorious Windows Flaw]]></title>
-        <id>https://www.freecodecamp.org/news/eternalblue-explained-an-analysis-of-the-windows-flaw/</id>
-        <link href="https://www.freecodecamp.org/news/eternalblue-explained-an-analysis-of-the-windows-flaw/"/>
-        <updated>2023-09-11T08:31:41.000Z</updated>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Learning to Code in your 30s with Patrick San Juan]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/"/>
-        <updated>2023-09-08T17:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rediscovering The Joy Of Design]]></title>
         <id>https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/</id>
         <link href="https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/"/>
@@ -82,46 +123,6 @@
         <summary type="html"><![CDATA[Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Scraping with Google Sheets – How to Scrape Web Pages with Built-in Functions]]></title>
-        <id>https://www.freecodecamp.org/news/web-scraping-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/web-scraping-google-sheets/"/>
-        <updated>2023-09-07T21:14:07.000Z</updated>
-        <summary type="html"><![CDATA[You read that right – you can practice web scraping without leaving your happy place: Google Sheets. Google Sheets has five built-in functions that help you import data from other sheets and other web pages. We'll walk through all of them in order from easiest (most limited) to hardest (most]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Java in Ubuntu – JDK Linux Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu/"/>
-        <updated>2023-09-07T19:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Installing software on Linux is usually easier, or at least that's what it seems like. But this is usually not the case as we've come to a realization that installing and configuring some specific tools on Linux might be more time-consuming than on Windows or MacOS. An example of this]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript String Concatenation Works – the "+" Operator vs the "+=" Operator]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-string-concatenation/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-concatenation/"/>
-        <updated>2023-09-07T18:50:21.000Z</updated>
-        <summary type="html"><![CDATA[String concatenation is a common task that we do often. String concatenation is the operation of joining character strings end-to-end. For example, the concatenation of "snow" and "ball" is "snowball". In this article, I will be showing two methods by which you can concatenate strings in JavaScript. I will also]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Object-Oriented Programming in Python – Explained in Plain English]]></title>
-        <id>https://www.freecodecamp.org/news/object-oriented-programming-python/</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-programming-python/"/>
-        <updated>2023-09-07T18:39:52.000Z</updated>
-        <summary type="html"><![CDATA[> “Any fool can know. The point is to understand.” - Albert Einstein Object-oriented programming is a popular way to write computer programs. Because of this, all programmers should understand what OOP is, what languages you can use to program this way, and why it is important. When asked in]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
         </author>
     </entry>
     <entry>
@@ -202,16 +203,6 @@
         <summary type="html"><![CDATA[The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Herchel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies]]></title>
-        <id>https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/</id>
-        <link href="https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/"/>
-        <updated>2023-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lars Kappert)</name>
         </author>
     </entry>
 </feed>
