@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T00:09:26.058Z</id>
+    <id>urn:2023-09-14T00:09:34.134Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T00:09:26.058Z</updated>
+    <updated>2023-09-14T00:09:34.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Things to Consider When Picking Fonts for your Next Project – An In-Depth Guide]]></title>
+        <id>https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/</id>
+        <link href="https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/"/>
+        <updated>2023-09-13T11:18:31.000Z</updated>
+        <summary type="html"><![CDATA[On the modern web, we've normalized fetching fonts from client-side, or embedding fonts in resources that are served to users. While this may be tempting, it actually makes very little sense for most use-cases. This isn't suggesting to never use external fonts. Just a reminder that fonts aren't free, and]]></summary>
+        <author>
+            <name>Seth Falco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facilitating Inclusive Online Workshops (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/</id>
+        <link href="https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/"/>
+        <updated>2023-09-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Running a workshop can be an effective alternative to traditional, long-standing meetings. To help ensure its success, Ben Shih introduces the concept of an inclusive workshop. In Part 1 of the series, you discover the fundamentals of inclusivity and get some solid guidance on how to plan an inclusive remote workshop.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ben Shih)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fine-Tune the Donut Model – With Example Use Case]]></title>
         <id>https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/</id>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Requirements.txt – How to Create and Pip Install Requirements.txt in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-requirementstxt-explained/</id>
-        <link href="https://www.freecodecamp.org/news/python-requirementstxt-explained/"/>
-        <updated>2023-09-11T14:17:18.000Z</updated>
-        <summary type="html"><![CDATA[There are many Python packages we use to solve our coding problems daily. Take, for instance, the library "Beautiful Soup," – it doesn't come with Python by default and needs to be installed separately.  Many projects rely on libraries and other dependencies, and installing each one can be tedious]]></summary>
-        <author>
-            <name>Tantoluwa Heritage Alabi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rediscovering The Joy Of Design]]></title>
         <id>https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/</id>
         <link href="https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/"/>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Costa Alexoglou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital]]></title>
-        <id>https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/</id>
-        <link href="https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/"/>
-        <updated>2023-08-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mike Herchel)</name>
         </author>
     </entry>
 </feed>
