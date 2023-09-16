@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T00:09:20.170Z</id>
+    <id>urn:2023-09-16T00:09:07.024Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T00:09:20.170Z</updated>
+    <updated>2023-09-16T00:09:07.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Disney Data Scientist Eric Leung on Math, Medicine, and Learning to Code]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/"/>
+        <updated>2023-09-15T20:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Eric Leung, Data Scientist at Disney and long-time open source contributor to freeCodeCamp. Eric Leung grew up in Oklahoma and learned a lot of math in high school. His friends wanted to go to medical school and he originally planned to join them. But instead]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Solana Curriculum: Smart Contracts, dApps, and Command Line Tools]]></title>
+        <id>https://www.freecodecamp.org/news/solana-curriculum/</id>
+        <link href="https://www.freecodecamp.org/news/solana-curriculum/"/>
+        <updated>2023-09-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Solana Curriculum is live. You can now learn Solana's blockchain protocol and the Solana tool ecosystem interactively by building a series of projects. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this curriculum]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Look at Bun 1.0 – The Node.js Alternative]]></title>
+        <id>https://www.freecodecamp.org/news/a-quick-look-at-bun-js/</id>
+        <link href="https://www.freecodecamp.org/news/a-quick-look-at-bun-js/"/>
+        <updated>2023-09-15T07:58:01.000Z</updated>
+        <summary type="html"><![CDATA[A wise man once told me, "When you start eating Bun, Node.js will feel bland". But why is that relevant? JavaScript got way faster with a new JavaScript runtime called Bun, which is now production-ready with its version 1.0 release. But how and why is it faster than Node.js? A]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revealing Images With CSS Mask Animations]]></title>
+        <id>https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/</id>
+        <link href="https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/"/>
+        <updated>2023-09-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Contribute to Open Source Projects – Non-Technical Things You Should Know]]></title>
         <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[In 2023, the digital landscape is filled with unprecedented cybersecurity risks. From phishing scams to ransomware attacks. This article outlines different types of cyber attacks that individuals and businesses should be vigilant about. Cyber-attacks are a prevalent threat in the online world. They have the potential to cause substantial difficulties]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Communication Design Patterns for Backend Development]]></title>
-        <id>https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/</id>
-        <link href="https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/"/>
-        <updated>2023-09-12T16:25:03.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building the backend of an application, you’ve got to figure out how all the different components are going to talk to each other.  It’s like setting up a communication network for your app’s brain, and the way you do it can seriously impact how well your app]]></summary>
-        <author>
-            <name>Chinwendu Enyinna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fundamentals of Finance & Economics for Businesses]]></title>
-        <id>https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/</id>
-        <link href="https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/"/>
-        <updated>2023-09-12T14:58:32.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving landscape of business, understanding the intricacies of finance and economics is essential for success. Topics such as the principles of money and deciphering the impact of macroeconomic changes serve as the bedrock of strategic decision-making. We just posted a full course on the freeCodeCamp.org YouTube channel that]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read a CSV File from S3 Bucket in AWS Lambda - A Definitive Guide]]></title>
-        <id>https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/</id>
-        <link href="https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/"/>
-        <updated>2023-09-12T10:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Storage Service (S3) is a highly scalable, durable, and available object storage service. It is designed to store any amount of data, anytime, from anywhere on the web.  S3 is a key component of the Amazon Web Services (AWS) cloud platform. AWS Lambda is a serverless computing]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
         </author>
     </entry>
     <entry>
