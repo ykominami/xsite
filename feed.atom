@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T00:09:26.047Z</id>
+    <id>urn:2023-09-21T00:09:24.047Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T00:09:26.047Z</updated>
+    <updated>2023-09-21T00:09:24.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Effects of AI in Cybersecurity Handbook – The Malicious Use of AI in Cyberattacks]]></title>
+        <id>https://www.freecodecamp.org/news/effects-of-ai-in-cybersecurity-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/effects-of-ai-in-cybersecurity-handbook/"/>
+        <updated>2023-09-20T20:11:22.000Z</updated>
+        <summary type="html"><![CDATA[The field of cybersecurity is engaged in a relentless battle between those who defend systems and data, and those who seek to attack them. In this high-stakes arena, artificial intelligence (AI) has emerged as a new, game-changing ally for the defenders. To understand AI's profound impact, it is important to]]></summary>
+        <author>
+            <name>Sonya Moisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an SEO-Optimized Blog with Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/"/>
+        <updated>2023-09-20T13:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Creating a feature-rich blog is a great way to improve your web development skills.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create a blog that is not just visually appealing but also SEO-optimized for higher Google rankings. Codebucks created the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Beginner's Python Course]]></title>
+        <id>https://www.freecodecamp.org/news/ultimate-beginners-python-course/</id>
+        <link href="https://www.freecodecamp.org/news/ultimate-beginners-python-course/"/>
+        <updated>2023-09-20T12:26:54.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever considered venturing into the world of Python programming or if you're just looking for a comprehensive guide to help reinforce your existing knowledge, you're in for a treat. I'm excited to announce that Dave Gray, one of our most popular instructors, has returned to the freCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning Node.js]]></title>
         <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/</id>
@@ -50,7 +80,7 @@
         <id>https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/</id>
         <link href="https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/"/>
         <updated>2023-09-18T06:54:37.000Z</updated>
-        <summary type="html"><![CDATA[I was tasked recently to find which of our processes was accessing an NFS share [https://en.wikipedia.org/wiki/Network_File_System]. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave]]></summary>
+        <summary type="html"><![CDATA[I was tasked recently to find which of our processes was accessing an NFS share. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave me]]></summary>
         <author>
             <name>Jose Vicente Nunez</name>
         </author>
@@ -93,36 +123,6 @@
         <summary type="html"><![CDATA[Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source Projects – Non-Technical Things You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source/"/>
-        <updated>2023-09-14T17:34:52.000Z</updated>
-        <summary type="html"><![CDATA[I've contributed to open-source projects for a few years and learned a lot from the process. These experiences allowed me to look closer at the open source flow, from the technical, such as Git and GitHub, to the non-technical aspects. Although they are as important as the technical sides, the]]></summary>
-        <author>
-            <name>Ayu Adiati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Return Results from a Python Function to Your Program When a Library is Blocking the Way]]></title>
-        <id>https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/</id>
-        <link href="https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/"/>
-        <updated>2023-09-14T10:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Usually a Python function passes its results back using a return statement. The problem is that sometimes it can't, so you need to figure out a different way to return those results.  This happens, most often, when someone else's library's interface is in the way, and you can't change]]></summary>
-        <author>
-            <name>David A. Kra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Vector Embeddings to Create an AI Assistant]]></title>
-        <id>https://www.freecodecamp.org/news/vector-embeddings-course/</id>
-        <link href="https://www.freecodecamp.org/news/vector-embeddings-course/"/>
-        <updated>2023-09-14T02:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Vector embeddings are a key concept in the realm of machine learning and artificial intelligence. They bridge the gap between human language and machine understanding. We just posted a course on the freeCodeCamp.org YouTube channel that will teach out about vector embeddings and how to create an AI assistant. Ania]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
