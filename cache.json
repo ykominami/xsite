@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.",
+          "link": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
+          "publishedOn": "2023-09-22T10:00:00.000Z",
+          "wordCount": 5044,
+          "title": "The Path To Awesome CSS Easing With The linear() Function",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/",
           "author": "hello@smashingmagazine.com (Ben Shih)",
           "description": "To help ensure the success of a workshop, Ben Shih introduces the concept of an inclusive workshop. In Part 2 of the series, you will continue to delve deeper into several key principles and guidelines that you can follow during and after the workshop to encourage an inclusive atmosphere.",
           "link": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/",
           "publishedOn": "2023-09-20T13:00:00.000Z",
-          "wordCount": 6624,
+          "wordCount": 6619,
           "title": "Facilitating Inclusive Online Workshops (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part2/facilitating-inclusive-online-workshops-part2.jpg",
@@ -38,7 +53,7 @@
           "description": "This article is a peek behind the curtain of how content is managed here at Smashing Magazine. In it, you’ll get a tour of an article’s full lifecycle, from a basic outline to the sort of thing you’re reading right this second.",
           "link": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
           "publishedOn": "2023-09-18T18:00:00.000Z",
-          "wordCount": 4772,
+          "wordCount": 4783,
           "title": "How Smashing Magazine Uses TinaCMS To Manage An Editorial Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png",
@@ -53,7 +68,7 @@
           "description": "Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.",
           "link": "https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/",
           "publishedOn": "2023-09-15T07:00:00.000Z",
-          "wordCount": 5402,
+          "wordCount": 5401,
           "title": "Revealing Images With CSS Mask Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/revealing-images-css-mask-animations/revealing-images-css-mask-animations.jpg",
@@ -83,7 +98,7 @@
           "description": "Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.",
           "link": "https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/",
           "publishedOn": "2023-09-11T15:00:00.000Z",
-          "wordCount": 4005,
+          "wordCount": 4006,
           "title": "Gradients, Blend Modes, And A Really Cool Hover Effect",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gradients-blend-modes-hover-effect/gradients-blend-modes-hover-effect.jpg",
@@ -98,7 +113,7 @@
           "description": "Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.",
           "link": "https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/",
           "publishedOn": "2023-09-08T11:00:00.000Z",
-          "wordCount": 6288,
+          "wordCount": 6297,
           "title": "Rediscovering The Joy Of Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rediscovering-joy-design/rediscovering-joy-happiness-design.jpg",
@@ -113,7 +128,7 @@
           "description": "Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.",
           "link": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
           "publishedOn": "2023-09-06T11:00:00.000Z",
-          "wordCount": 5125,
+          "wordCount": 5126,
           "title": "Long Live The Test Pyramid",
           "enclosure": {
             "url": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg",
@@ -128,7 +143,7 @@
           "description": "In this article, Joas Pambou builds the tool to provide a sentiment score in **real-time** with enhanced user experience by providing multilingual support. You will use an OpenAI library called Whisper that transcribes audio files into text and detects the language, and Gradio, a UI framework, to establish the interface.",
           "link": "https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/",
           "publishedOn": "2023-09-04T13:00:00.000Z",
-          "wordCount": 5508,
+          "wordCount": 5391,
           "title": "Generating Real-Time Audio Sentiment Analysis With AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/generating-real-time-audio-sentiment-analysis-ai/generating-real-time-audio-sentiment-analysis-ai.jpg",
@@ -143,7 +158,7 @@
           "description": "Let’s get ready for September with some fresh wallpaper designs! Created with love by artists and designers from across the globe, the wallpapers in this collection come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
           "publishedOn": "2023-08-31T08:15:00.000Z",
-          "wordCount": 4802,
+          "wordCount": 4796,
           "title": "A September Of Never Ending Adventures (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png",
@@ -158,7 +173,7 @@
           "description": "The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.",
           "link": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
           "publishedOn": "2023-08-28T13:30:00.000Z",
-          "wordCount": 5789,
+          "wordCount": 5786,
           "title": "Falling For Oklch: A Love Story Of Color Spaces, Gamuts, And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg",
@@ -173,7 +188,7 @@
           "description": "The so-called “Double Diamond” is a great way of visualizing an ideal design process — but it’s just not the way most companies deliver new projects or services. Andy Budd proposes a new “Double Diamond” idea that better aligns with the way work actually gets done and highlights the place where design has the most leverage.",
           "link": "https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/",
           "publishedOn": "2023-08-25T11:00:00.000Z",
-          "wordCount": 5841,
+          "wordCount": 5947,
           "title": "Improving The Double Diamond Design Process",
           "enclosure": {
             "url": "http://files.smashing.media/articles/improving-double-diamond-design-process/improving-double-diamond-design-process.jpg",
@@ -181,21 +196,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/improving-double-diamond-design-process/improving-double-diamond-design-process.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
-          "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
-          "publishedOn": "2023-08-23T15:00:00.000Z",
-          "wordCount": 4497,
-          "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg"
         }
       ]
     },
@@ -204,6 +204,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-how-to-run-a-tech-event/",
+          "author": "Quincy Larson",
+          "description": "Today on the freeCodeCamp Podcast, I interview Benjamin Dunphy, founder of many San Francisco Tech Conferences including Reactathon. Ben studied international relations and had a short career in finance. Among other things, he co-authored a bill that eventually got passed in his state of New Hampshire. But Ben saw the",
+          "link": "https://www.freecodecamp.org/news/podcast-how-to-run-a-tech-event/",
+          "publishedOn": "2023-09-22T17:45:23.000Z",
+          "wordCount": 834,
+          "title": "Podcast: How to Run a Tech Conference with Ben Dunphy",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Cursor.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-tutorial-authentication-server/",
+          "author": "Beau Carnes",
+          "description": "The Rust programming language is often used for system-level programming, emphasizing safety, concurrency, and performance, making it a popular choice for building systems software, game engines, and web browsers. An authentication server is another good use case for Rust. We just published a course on the freeCodeCamp.org YouTube channel that",
+          "link": "https://www.freecodecamp.org/news/rust-tutorial-authentication-server/",
+          "publishedOn": "2023-09-22T16:02:43.000Z",
+          "wordCount": 1003,
+          "title": "Rust Project – Create an Authentication Server",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/rustauthserver.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/",
+          "author": "Ayu Adiati",
+          "description": "The first time I learned about open source was through a tweet that promoted Hacktoberfest in 2019. And my first-ever accepted pull request was to add a book title in emojis to a list. You might think, \"You can't count that as an open source contribution. That's a joke!\" I",
+          "link": "https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/",
+          "publishedOn": "2023-09-22T12:35:14.000Z",
+          "wordCount": 3114,
+          "title": "How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/A-beginner-guide-to-git---github-worflow--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-hypothesis-testing/",
+          "author": "MENE-EJEGI OGBEMI",
+          "description": "Curiosity has always been a part of human nature. Since the beginning of time, this has been one of the most important tools for birthing civilizations. Still, our curiosity grows — it tests and expands our limits. Humanity has explored the plains of land, water, and air. We've built underwater",
+          "link": "https://www.freecodecamp.org/news/what-is-hypothesis-testing/",
+          "publishedOn": "2023-09-22T00:41:23.000Z",
+          "wordCount": 2633,
+          "title": "What Is Hypothesis Testing? Types and Python Code Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Banner---Tech-writing---hypothesis.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/",
           "author": "Arunachalam B",
@@ -230,7 +270,7 @@
           "description": "This is an article on how I created an AI chess engine, starting completely from scratch to building my very own AI chess engine.  Because creating an AI chess engine from scratch is a relatively complex task, this will be a long article, but stay tuned, as the product",
           "link": "https://www.freecodecamp.org/news/create-a-self-playing-ai-chess-engine-from-scratch/",
           "publishedOn": "2023-09-21T08:11:38.000Z",
-          "wordCount": 7418,
+          "wordCount": 7407,
           "title": "Create a Self-Playing AI Chess Engine from Scratch with Imitation Learning",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/undraw_Programmer_re_owql.png"
         },
@@ -263,46 +303,6 @@
           "wordCount": 9165,
           "title": "The Effects of AI in Cybersecurity Handbook – The Malicious Use of AI in Cyberattacks",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/cyberpunk-pixel-art-455696581.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/",
-          "author": "Beau Carnes",
-          "description": "Creating a feature-rich blog is a great way to improve your web development skills.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create a blog that is not just visually appealing but also SEO-optimized for higher Google rankings. Codebucks created the",
-          "link": "https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/",
-          "publishedOn": "2023-09-20T13:09:47.000Z",
-          "wordCount": 946,
-          "title": "Build an SEO-Optimized Blog with Next.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/blognext.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ultimate-beginners-python-course/",
-          "author": "Beau Carnes",
-          "description": "If you've ever considered venturing into the world of Python programming or if you're just looking for a comprehensive guide to help reinforce your existing knowledge, you're in for a treat. I'm excited to announce that Dave Gray, one of our most popular instructors, has returned to the freCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/ultimate-beginners-python-course/",
-          "publishedOn": "2023-09-20T12:26:54.000Z",
-          "wordCount": 1080,
-          "title": "Ultimate Beginner's Python Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/pythondave.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/",
-          "author": "Musab Habeeb",
-          "description": "Before Node.js came into existence,  JavaScript could only be run on the browser. It could only be used as a scripting language for frontend web development.  Then, Node.js came to free JavaScript from this confinement. It made JavaScript ubiquitous (meaning it could now be run everywhere). Node.js is a",
-          "link": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/",
-          "publishedOn": "2023-09-19T15:12:57.000Z",
-          "wordCount": 3367,
-          "title": "JavaScript Concepts to Know Before Learning Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/JavaScript-Concepts-to-master-before-Node.js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
-          "author": "Destiny Erhabor",
-          "description": "Serverless computing has revolutionized the way developers build and deploy applications in the cloud. It takes away the complexities of server management, allowing developers to focus solely on writing code and delivering value to their users. In the realm of serverless computing, AWS Lambda stands out as a leading platform",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
-          "publishedOn": "2023-09-18T23:52:30.000Z",
-          "wordCount": 2211,
-          "title": "How to Deploy an AWS Lambda Function with Serverless Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
         }
       ]
     }
