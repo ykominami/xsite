@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T00:10:00.058Z</id>
+    <id>urn:2023-10-04T00:09:53.027Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T00:10:00.058Z</updated>
+    <updated>2023-10-04T00:09:53.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Firebase Remote Config?]]></title>
+        <id>https://www.freecodecamp.org/news/firebase-remote-config/</id>
+        <link href="https://www.freecodecamp.org/news/firebase-remote-config/"/>
+        <updated>2023-10-03T15:44:31.000Z</updated>
+        <summary type="html"><![CDATA[Remote configurations are useful because they allow you to alter the behavior in your application without having to release a new version of the app. One prominent example is using remote configurations to decide if a feature should be turned on or off. That way, you can gradually roll it]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn SvelteKit and Tailwind CSS by Building a Web Portfolio]]></title>
+        <id>https://www.freecodecamp.org/news/learn-sveltekit-and-tailwind-css-by-building-a-web-portfolio/</id>
+        <link href="https://www.freecodecamp.org/news/learn-sveltekit-and-tailwind-css-by-building-a-web-portfolio/"/>
+        <updated>2023-10-03T15:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're a seasoned developer or just starting your journey in the world of web development, keeping up with the latest tools and frameworks is essential. And you can learn about two popular web dev tools in the new course we just posted on the freeCodeCamp.org YouTube channel. In this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Portuguese]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-is-launching-a-podcast-in-portuguese/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-is-launching-a-podcast-in-portuguese/"/>
+        <updated>2023-10-03T13:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! My name is Nielda Karla and I'm thrilled to announce the launch of our new podcast: freeCodeCamp Podcast em Português [https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/] . On this podcast, you'll hear the stories of those making a difference in the Portuguese-speaking developer community – each with their own unique journey.  Our]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn Profile Optimization – A Web Developer's Guide to Attract Opportunity]]></title>
+        <id>https://www.freecodecamp.org/news/linkedin-profile-optimization/</id>
+        <link href="https://www.freecodecamp.org/news/linkedin-profile-optimization/"/>
+        <updated>2023-10-03T08:32:42.000Z</updated>
+        <summary type="html"><![CDATA[As a web developer, an optimized LinkedIn profile can bring numerous opportunities directly to you. After implementing invaluable optimization advice from industry experts who reviewed my profile, I now receive a steady flow of enticing prospects in my inbox! In this article, I'll share the insights I've gained to help]]></summary>
+        <author>
+            <name>Michael Larocca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Guide to a Successful Open Source Journey – Lessons from Real-Life Experience]]></title>
         <id>https://www.freecodecamp.org/news/guide-to-a-successful-open-source-journey/</id>
@@ -23,6 +63,16 @@
         <summary type="html"><![CDATA[In today's tech landscape, integrating AI is no longer a luxury – it's a necessity.  AI-driven applications have the potential to transform user experiences, automate complex tasks, and unlock new realms of possibilities. Understanding and leveraging AI APIs is a pivotal skill for developers looking to stay at the]]></summary>
         <author>
             <name>Sam Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/</id>
+        <link href="https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/"/>
+        <updated>2023-10-02T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
     <entry>
@@ -66,25 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Text to Meaning: How Computers Understand Language]]></title>
-        <id>https://www.freecodecamp.org/news/how-computers-understand-language/</id>
-        <link href="https://www.freecodecamp.org/news/how-computers-understand-language/"/>
-        <updated>2023-09-30T14:31:13.000Z</updated>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Image Search App Using React – An In-Depth Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/"/>
-        <updated>2023-09-30T11:30:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will build step-by-step a beautiful Unsplash Image Search App with pagination using React. By building this app, you will learn:  * How to build an application using Unsplash API in React  * How to make API Calls in different scenarios  * How to]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dancing Leaves And Spooky Fellows (October 2023 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/</id>
         <link href="https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/"/>
@@ -92,26 +123,6 @@
         <summary type="html"><![CDATA[How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Game Development and AI with Lynn Zheng]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/"/>
-        <updated>2023-09-29T18:55:05.000Z</updated>
-        <summary type="html"><![CDATA[99 Game Development and AI with Lynn Zheng Today on the freeCodeCamp Podcast, I'm joined by Lynn Zheng. She's a software engineer at freeCodeCamp and at Salesforce. Lynn grew up in Shenzhen, China – the computer hardware capital of the world. Both of her parents were engineers. And from an]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Astro Web Framework]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-astro-web-framework/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-astro-web-framework/"/>
-        <updated>2023-09-29T16:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Astro is rapidly emerging as a go-to choice for developers looking to build fast, content-focused websites. Whether you're crafting landing pages, informative blogs, or intricate technical documentation, Astro offers a comprehensive suite of tools to make the process seamless. We just posted an Astro crash course on the freeCodeCamp.org YouTube]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
