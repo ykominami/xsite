@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T00:09:53.027Z</id>
+    <id>urn:2023-10-05T00:09:53.105Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T00:09:53.027Z</updated>
+    <updated>2023-10-05T00:09:53.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Lists – Ordered, Unordered and Definition List Examples]]></title>
+        <id>https://www.freecodecamp.org/news/html-lists-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/html-lists-with-examples/"/>
+        <updated>2023-10-04T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Standardize Your Development Environment with devcontainer.json]]></title>
+        <id>https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/</id>
+        <link href="https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/"/>
+        <updated>2023-10-04T14:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use]]></summary>
+        <author>
+            <name>Hrittik Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increase Your VS Code Productivity]]></title>
+        <id>https://www.freecodecamp.org/news/increase-your-vs-code-productivity/</id>
+        <link href="https://www.freecodecamp.org/news/increase-your-vs-code-productivity/"/>
+        <updated>2023-10-04T14:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Firebase Remote Config?]]></title>
         <id>https://www.freecodecamp.org/news/firebase-remote-config/</id>
@@ -26,9 +56,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Portuguese]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-is-launching-a-podcast-in-portuguese/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-is-launching-a-podcast-in-portuguese/"/>
+        <title type="html"><![CDATA[New Portuguese freeCodeCamp Podcast]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/"/>
         <updated>2023-10-03T13:25:37.000Z</updated>
         <summary type="html"><![CDATA[Hello everyone! My name is Nielda Karla and I'm thrilled to announce the launch of our new podcast: freeCodeCamp Podcast em Português [https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/] . On this podcast, you'll hear the stories of those making a difference in the Portuguese-speaking developer community – each with their own unique journey.  Our]]></summary>
         <author>
@@ -36,11 +66,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Problem With WordPress Is Positioning, Not Plugins]]></title>
+        <id>https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/</id>
+        <link href="https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/"/>
+        <updated>2023-10-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LinkedIn Profile Optimization – A Web Developer's Guide to Attract Opportunity]]></title>
         <id>https://www.freecodecamp.org/news/linkedin-profile-optimization/</id>
         <link href="https://www.freecodecamp.org/news/linkedin-profile-optimization/"/>
         <updated>2023-10-03T08:32:42.000Z</updated>
-        <summary type="html"><![CDATA[As a web developer, an optimized LinkedIn profile can bring numerous opportunities directly to you. After implementing invaluable optimization advice from industry experts who reviewed my profile, I now receive a steady flow of enticing prospects in my inbox! In this article, I'll share the insights I've gained to help]]></summary>
+        <summary type="html"><![CDATA[As a web developer, an optimized LinkedIn profile can bring numerous opportunities directly to you. After implementing invaluable optimization advice from industry experts who reviewed my profile, I now receive a steady flow of enticing prospects in my inbox. In this article, I'll share the insights I've gained to help]]></summary>
         <author>
             <name>Michael Larocca</name>
         </author>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[React [/news/react-beginner-handbook/#howmuchjavascriptyouneedtoknowtousereact]  is all about building user interfaces. And to do that effectively, React provides ways for components to manage their lifecycles.  This means that components can perform specific tasks at different stages of their existence, from the moment they are created to the point they are removed]]></summary>
         <author>
             <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Security for PCI Compliance (DSS 4.0)]]></title>
-        <id>https://www.freecodecamp.org/news/api-security-for-pci-compliance/</id>
-        <link href="https://www.freecodecamp.org/news/api-security-for-pci-compliance/"/>
-        <updated>2023-10-02T14:45:41.000Z</updated>
-        <summary type="html"><![CDATA[API security is important for everyone, but especially if you are dealing with payment information. We just posted a crash course on the freeCodeCamp.org YouTube channel that will teach you about API security and how to address the pivotal PCI DSS 4.0 requirements. PCI DSS stands for Payment Card Industry]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Context Managers in Python?]]></title>
-        <id>https://www.freecodecamp.org/news/context-managers-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/context-managers-in-python/"/>
-        <updated>2023-10-02T13:49:54.000Z</updated>
-        <summary type="html"><![CDATA[One of the most common tasks that you'll have to perform in your programs is working with external resources. These resources can be files on your computer's storage or an open connection to third-party service on the internet. For the sake of simplicity, imagine a program that opens a file,]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Links in HTML – Tutorial with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/html-links-explained-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/html-links-explained-with-examples/"/>
-        <updated>2023-10-02T07:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Links are an essential part of the web because they connect web pages, documents, and resources across the internet.  In HTML (which is short for Hypertext Markup Language), links play a crucial role in creating a web of interconnected content, allowing users to navigate seamlessly between different web pages]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -253,16 +263,6 @@
         <summary type="html"><![CDATA[Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating Real-Time Audio Sentiment Analysis With AI]]></title>
-        <id>https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/</id>
-        <link href="https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/"/>
-        <updated>2023-09-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Joas Pambou builds the tool to provide a sentiment score in **real-time** with enhanced user experience by providing multilingual support. You will use an OpenAI library called Whisper that transcribes audio files into text and detects the language, and Gradio, a UI framework, to establish the interface.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
