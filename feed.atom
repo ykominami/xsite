@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T00:09:53.105Z</id>
+    <id>urn:2023-10-06T00:09:48.583Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T00:09:53.105Z</updated>
+    <updated>2023-10-06T00:09:48.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Request Location Permissions in Jetpack Compose]]></title>
+        <id>https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/</id>
+        <link href="https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/"/>
+        <updated>2023-10-05T19:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Deploy an Ecommerce Site with Next.js, Tailwind CSS, Prisma, Vercel, and daisyUI]]></title>
+        <id>https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/</id>
+        <link href="https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/"/>
+        <updated>2023-10-05T15:36:56.000Z</updated>
+        <summary type="html"><![CDATA[When learning how to build a web app it can be helpful to see how everything works together, instead of learning a lot of technologies individually. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a full-stack e-commerce website with]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Arduino Handbook – Learn Microcontrollers for Embedded Systems]]></title>
+        <id>https://www.freecodecamp.org/news/the-arduino-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-arduino-handbook/"/>
+        <updated>2023-10-05T13:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/</id>
+        <link href="https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/"/>
+        <updated>2023-10-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Lists – Ordered, Unordered and Definition List Examples]]></title>
         <id>https://www.freecodecamp.org/news/html-lists-with-examples/</id>
@@ -86,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide to a Successful Open Source Journey – Lessons from Real-Life Experience]]></title>
-        <id>https://www.freecodecamp.org/news/guide-to-a-successful-open-source-journey/</id>
-        <link href="https://www.freecodecamp.org/news/guide-to-a-successful-open-source-journey/"/>
-        <updated>2023-10-02T20:07:51.000Z</updated>
-        <summary type="html"><![CDATA[The journey to becoming a successful open-source contributor can be intimidating, frustrating, or confusing depending on your level of confidence, commitment, and expertise. I have had my fair share of all sides of the emotions that come with contributing to open source in the one and a half years (at]]></summary>
-        <author>
-            <name>kaxada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate AI into Your Serverless App With Amazon Bedrock]]></title>
-        <id>https://www.freecodecamp.org/news/ai-in-your-serverless-app-amazon-bedrock/</id>
-        <link href="https://www.freecodecamp.org/news/ai-in-your-serverless-app-amazon-bedrock/"/>
-        <updated>2023-10-02T19:23:14.000Z</updated>
-        <summary type="html"><![CDATA[In today's tech landscape, integrating AI is no longer a luxury – it's a necessity.  AI-driven applications have the potential to transform user experiences, automate complex tasks, and unlock new realms of possibilities. Understanding and leveraging AI APIs is a pivotal skill for developers looking to stay at the]]></summary>
-        <author>
-            <name>Sam Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)]]></title>
         <id>https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/</id>
         <link href="https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/"/>
@@ -113,16 +133,6 @@
         <summary type="html"><![CDATA[In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Lifecycle Methods and Hooks – a Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/"/>
-        <updated>2023-10-02T17:22:49.000Z</updated>
-        <summary type="html"><![CDATA[React [/news/react-beginner-handbook/#howmuchjavascriptyouneedtoknowtousereact]  is all about building user interfaces. And to do that effectively, React provides ways for components to manage their lifecycles.  This means that components can perform specific tasks at different stages of their existence, from the moment they are created to the point they are removed]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
         </author>
     </entry>
     <entry>
@@ -253,16 +263,6 @@
         <summary type="html"><![CDATA[Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Live The Test Pyramid]]></title>
-        <id>https://smashingmagazine.com/2023/09/long-live-test-pyramid/</id>
-        <link href="https://smashingmagazine.com/2023/09/long-live-test-pyramid/"/>
-        <updated>2023-09-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
     </entry>
 </feed>
