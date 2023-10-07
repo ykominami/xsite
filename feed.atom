@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T00:09:48.583Z</id>
+    <id>urn:2023-10-07T00:09:24.019Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:09:48.583Z</updated>
+    <updated>2023-10-07T00:09:24.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from create-react-app to Vite using Jest and Browserslist]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/"/>
+        <updated>2023-10-06T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The React team no longer recommends using create-react-app (CRA) [https://github.com/facebook/create-react-app] as a bundler to create a new React application. The team and community realized that even though CRA was a jump-starter, it lacked the flexibility needed to configure or manage large and complex applications. Nowadays, the team recommends using production-grade]]></summary>
+        <author>
+            <name>Saheed Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use URLs for State Management in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/"/>
+        <updated>2023-10-06T17:50:28.000Z</updated>
+        <summary type="html"><![CDATA[For years, URLs have been synonymous with web navigation. But the tide is turning, especially with the emergence of single-page applications. In the React universe, URLs are stepping up to play a pivotal role in state management. This article will guide you through the transformative journey of URLs as state]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ethics of AI and ML]]></title>
+        <id>https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/</id>
+        <link href="https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/"/>
+        <updated>2023-10-06T15:16:06.000Z</updated>
+        <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Browser Compatibility Testing – Best Practices for Web Developers]]></title>
+        <id>https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/</id>
+        <link href="https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/"/>
+        <updated>2023-10-05T23:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Request Location Permissions in Jetpack Compose]]></title>
         <id>https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/</id>
@@ -76,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Firebase Remote Config?]]></title>
-        <id>https://www.freecodecamp.org/news/firebase-remote-config/</id>
-        <link href="https://www.freecodecamp.org/news/firebase-remote-config/"/>
-        <updated>2023-10-03T15:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Remote configurations are useful because they allow you to alter the behavior in your application without having to release a new version of the app. One prominent example is using remote configurations to decide if a feature should be turned on or off. That way, you can gradually roll it]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SvelteKit and Tailwind CSS by Building a Web Portfolio]]></title>
-        <id>https://www.freecodecamp.org/news/learn-sveltekit-and-tailwind-css-by-building-a-web-portfolio/</id>
-        <link href="https://www.freecodecamp.org/news/learn-sveltekit-and-tailwind-css-by-building-a-web-portfolio/"/>
-        <updated>2023-10-03T15:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're a seasoned developer or just starting your journey in the world of web development, keeping up with the latest tools and frameworks is essential. And you can learn about two popular web dev tools in the new course we just posted on the freeCodeCamp.org YouTube channel. In this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Portuguese freeCodeCamp Podcast]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/"/>
-        <updated>2023-10-03T13:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! My name is Nielda Karla and I'm thrilled to announce the launch of our new podcast: freeCodeCamp Podcast em Português [https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/] . On this podcast, you'll hear the stories of those making a difference in the Portuguese-speaking developer community – each with their own unique journey.  Our]]></summary>
-        <author>
-            <name>Nielda Karla</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Problem With WordPress Is Positioning, Not Plugins]]></title>
         <id>https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/</id>
         <link href="https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/"/>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn Profile Optimization – A Web Developer's Guide to Attract Opportunity]]></title>
-        <id>https://www.freecodecamp.org/news/linkedin-profile-optimization/</id>
-        <link href="https://www.freecodecamp.org/news/linkedin-profile-optimization/"/>
-        <updated>2023-10-03T08:32:42.000Z</updated>
-        <summary type="html"><![CDATA[As a web developer, an optimized LinkedIn profile can bring numerous opportunities directly to you. After implementing invaluable optimization advice from industry experts who reviewed my profile, I now receive a steady flow of enticing prospects in my inbox. In this article, I'll share the insights I've gained to help]]></summary>
-        <author>
-            <name>Michael Larocca</name>
         </author>
     </entry>
     <entry>
