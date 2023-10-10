@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-09T00:09:54.820Z</id>
+    <id>urn:2023-10-10T00:09:45.729Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T00:09:54.820Z</updated>
+    <updated>2023-10-10T00:09:45.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web Storage Explained – How to Use localStorage and sessionStorage in JavaScript Projects]]></title>
+        <id>https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/"/>
+        <updated>2023-10-09T16:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Web Storage is what the JavaScript API [https://codesweetly.com/application-programming-interface-api-explained]  browsers provide for storing data locally and securely within a user’s browser. Session and local storage are the two main types of web storage. They are similar to regular properties objects [https://codesweetly.com/javascript-properties-object], but they persist (do not disappear) when the webpage]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Images in HTML – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-work-with-images-in-html/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-images-in-html/"/>
+        <updated>2023-10-09T15:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Images are an essential part of web development, adding visual appeal and context to your web pages.  In HTML, you can easily incorporate images to enhance the user experience. This article will guide you through the basics of working with images in HTML and help you understand images in]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks]]></title>
+        <id>https://www.freecodecamp.org/news/api-integration-patterns/</id>
+        <link href="https://www.freecodecamp.org/news/api-integration-patterns/"/>
+        <updated>2023-10-09T15:14:33.000Z</updated>
+        <summary type="html"><![CDATA[API stands for Application Programming Interface. The “I” in API is the key part that explains its purpose. The interface is what the software presents to other humans or programs, allowing them to interact with it.  A good analogy for an interface is a remote control. Imagine you have]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatsby Headaches: Working With Media (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/</id>
+        <link href="https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/"/>
+        <updated>2023-10-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Migrate from create-react-app to Vite using Jest and Browserslist]]></title>
         <id>https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Lists – Ordered, Unordered and Definition List Examples]]></title>
-        <id>https://www.freecodecamp.org/news/html-lists-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/html-lists-with-examples/"/>
-        <updated>2023-10-04T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Standardize Your Development Environment with devcontainer.json]]></title>
-        <id>https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/</id>
-        <link href="https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/"/>
-        <updated>2023-10-04T14:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use]]></summary>
-        <author>
-            <name>Hrittik Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increase Your VS Code Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/increase-your-vs-code-productivity/</id>
-        <link href="https://www.freecodecamp.org/news/increase-your-vs-code-productivity/"/>
-        <updated>2023-10-04T14:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
