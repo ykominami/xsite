@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T00:09:39.751Z</id>
+    <id>urn:2023-10-12T00:08:24.092Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T00:09:39.751Z</updated>
+    <updated>2023-10-12T00:08:24.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Java Code using Pattern Matching and Sealed Classes]]></title>
+        <id>https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/</id>
+        <link href="https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/"/>
+        <updated>2023-10-11T15:48:42.000Z</updated>
+        <summary type="html"><![CDATA[This article explores how you can improve your Java code quality using Pattern Matching and Sealed Classes.  Java Pattern Matching allows you to write more concise and readable code when working with complex data structures. It simplifies extracting data from data structures and performing operations on them.  Let's]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Deploy a Full Stack Notion Clone with Next.js, DALL-E, Vercel]]></title>
+        <id>https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/"/>
+        <updated>2023-10-11T14:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Web development has never been more exciting. The influx of new technologies and tools is reshaping the boundaries of what developers can create. At the epicenter of this transformation is the ability to integrate diverse systems seamlessly, creating powerful web applications. We just published a course on the freeCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prompt Engineering for Web Developers]]></title>
         <id>https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/</id>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Browser Compatibility Testing – Best Practices for Web Developers]]></title>
-        <id>https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/</id>
-        <link href="https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/"/>
-        <updated>2023-10-05T23:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Request Location Permissions in Jetpack Compose]]></title>
-        <id>https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/</id>
-        <link href="https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/"/>
-        <updated>2023-10-05T19:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
         </author>
     </entry>
     <entry>
@@ -263,16 +263,6 @@
         <summary type="html"><![CDATA[Running a workshop can be an effective alternative to traditional, long-standing meetings. To help ensure its success, Ben Shih introduces the concept of an inclusive workshop. In Part 1 of the series, you discover the fundamentals of inclusivity and get some solid guidance on how to plan an inclusive remote workshop.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ben Shih)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradients, Blend Modes, And A Really Cool Hover Effect]]></title>
-        <id>https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/</id>
-        <link href="https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/"/>
-        <updated>2023-09-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
         </author>
     </entry>
 </feed>
