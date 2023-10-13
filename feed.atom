@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T00:08:24.092Z</id>
+    <id>urn:2023-10-13T00:09:59.289Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T00:08:24.092Z</updated>
+    <updated>2023-10-13T00:09:59.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Forms in HTML – How to Build Basic Forms with HTML]]></title>
+        <id>https://www.freecodecamp.org/news/build-basic-forms-with-html/</id>
+        <link href="https://www.freecodecamp.org/news/build-basic-forms-with-html/"/>
+        <updated>2023-10-12T14:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Forms are a fundamental part of web development, allowing users to input and submit data efficiently. Creating forms in HTML is a relatively straightforward process. In this article, we'll explore how to build basic forms using HTML , , and   elements. We'll also cover various input types such]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bun, a faster Node.js alternative]]></title>
+        <id>https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/</id>
+        <link href="https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative/"/>
+        <updated>2023-10-12T14:39:06.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has consistently evolved, always pushing the boundaries of what developers thought possible. Now, entering the spotlight is Bun, a groundbreaking runtime that promises to take JavaScript speeds to unprecedented levels. We just published a Bun crash course on the freeCodeCamp.org YouTube channel. Haider Malik developed this course. Haider has]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything I Know About UX Research I First Learned From Lt. Columbo]]></title>
+        <id>https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/</id>
+        <link href="https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/"/>
+        <updated>2023-10-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Better Java Code using Pattern Matching and Sealed Classes]]></title>
         <id>https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/</id>
@@ -30,7 +60,7 @@
         <id>https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/</id>
         <link href="https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/"/>
         <updated>2023-10-10T17:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to supercharge your web development skills? Do you want to harness the power of AI to streamline your workflow? If so, freeCodeCamp.org's YouTube channel has just the course for you! We just posted a course that will teach you how to use prompt engineering to improve your]]></summary>
+        <summary type="html"><![CDATA[Are you looking to supercharge your web development skills? Do you want to harness the power of AI to streamline your workflow? If so, freeCodeCamp.org's YouTube channel has just the course for you. We just posted a course that will teach you how to use prompt engineering to improve your]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -103,26 +133,6 @@
         <summary type="html"><![CDATA[The React team no longer recommends using create-react-app (CRA) [https://github.com/facebook/create-react-app] as a bundler to create a new React application. The team and community realized that even though CRA was a jump-starter, it lacked the flexibility needed to configure or manage large and complex applications. Nowadays, the team recommends using production-grade]]></summary>
         <author>
             <name>Saheed Oladele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use URLs for State Management in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/"/>
-        <updated>2023-10-06T17:50:28.000Z</updated>
-        <summary type="html"><![CDATA[For years, URLs have been synonymous with web navigation. But the tide is turning, especially with the emergence of single-page applications. In the React universe, URLs are stepping up to play a pivotal role in state management. This article will guide you through the transformative journey of URLs as state]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ethics of AI and ML]]></title>
-        <id>https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/</id>
-        <link href="https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/"/>
-        <updated>2023-10-06T15:16:06.000Z</updated>
-        <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -253,16 +263,6 @@
         <summary type="html"><![CDATA[Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facilitating Inclusive Online Workshops (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/</id>
-        <link href="https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/"/>
-        <updated>2023-09-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Running a workshop can be an effective alternative to traditional, long-standing meetings. To help ensure its success, Ben Shih introduces the concept of an inclusive workshop. In Part 1 of the series, you discover the fundamentals of inclusivity and get some solid guidance on how to plan an inclusive remote workshop.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ben Shih)</name>
         </author>
     </entry>
 </feed>
