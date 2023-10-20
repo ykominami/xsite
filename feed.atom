@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-19T00:09:40.301Z</id>
+    <id>urn:2023-10-20T00:09:49.108Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T00:09:40.301Z</updated>
+    <updated>2023-10-20T00:09:49.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Web Component]]></title>
+        <id>https://www.freecodecamp.org/news/build-your-first-web-component/</id>
+        <link href="https://www.freecodecamp.org/news/build-your-first-web-component/"/>
+        <updated>2023-10-19T20:35:35.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, browser support for web components (also known as custom elements) is really good. There's never been a better time to start building your own custom elements. Web components, also known as custom elements, are new HTML elements that you create. These elements encapsulate some markup, style, and interactivity.]]></summary>
+        <author>
+            <name>Joe Attardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Stack Project Tutorial – Create a Recipe App Using React, Node.js and PostgreSQL]]></title>
+        <id>https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/"/>
+        <updated>2023-10-19T20:31:03.000Z</updated>
+        <summary type="html"><![CDATA[In this in-depth tutorial, we'll build a full stack recipe app from scratch, using React, Node.js, Postgres and the Spoonacular API. We'll cover features such as:  * Building an API server in Node  * Integrating securely with a 3rd party API  * Interacting with a Postgres database]]></summary>
+        <author>
+            <name>Chris Blakely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Animation Techniques – CSS vs JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/web-animation-css-vs-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/web-animation-css-vs-javascript/"/>
+        <updated>2023-10-19T14:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Hover me]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front End Developer Roadmap]]></title>
+        <id>https://www.freecodecamp.org/news/front-end-developer-roadmap/</id>
+        <link href="https://www.freecodecamp.org/news/front-end-developer-roadmap/"/>
+        <updated>2023-10-19T14:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a front end developer, this is where to start. We just released our front end developer]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Breaking Changes for API and Event Schemas]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-breaking-changes/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-breaking-changes/"/>
+        <updated>2023-10-19T14:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Several years ago while designing APIs for an ecommerce company, I discovered the importance of API versioning. So I wrote about it in a freeCodeCamp [https://www.freecodecamp.org/news] article entitled How to Version a REST API [/news/how-to-version-a-rest-api/].  Now I find myself designing event schemas for sending messages across a distributed system.]]></summary>
+        <author>
+            <name>Tim Kleier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Google Analytics to your Astro Website]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/</id>
@@ -66,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Event Bubbling and Event Capturing in JavaScript – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/"/>
-        <updated>2023-10-17T21:26:37.000Z</updated>
-        <summary type="html"><![CDATA[If you want to improve your JavaScript code, you should understand how event bubbling and event capturing work. The ability to consistently run your code when certain events happen is crucial.  In this tutorial, you’ll learn about the following topics:  * What are Events in JavaScript?  *]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?]]></title>
         <id>https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/</id>
         <link href="https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/"/>
@@ -83,46 +123,6 @@
         <summary type="html"><![CDATA[In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Routes in Next.js 13 – Client-Side, Server-Side, and Middleware-Based Protection]]></title>
-        <id>https://www.freecodecamp.org/news/secure-routes-in-next-js/</id>
-        <link href="https://www.freecodecamp.org/news/secure-routes-in-next-js/"/>
-        <updated>2023-10-17T14:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Web applications often handle sensitive data and admin functionalities that should only be accessible to authenticated users. In such cases, route protection becomes crucial for safeguarding these routes from unauthorized access.  In this tutorial, we'll explore how to protect routes in Next.js 13 using three different methods. We'll learn]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use a Design System – a Case Study]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-a-design-system/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-a-design-system/"/>
-        <updated>2023-10-17T14:37:29.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard of, studied, or used a design system at some point in your coding career. But what role do design systems actually play in our projects? Why should we even bother to create or use them? In this guide, you'll be learning what design systems are, why]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Fully Animated Sidebar in React.js using Framer Motion]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/"/>
-        <updated>2023-10-16T23:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Adding smooth and professional animations to your user interfaces can be a bit tricky. In this tutorial, I'll show you how to use Framer Motion in your React apps to create beautiful animations. This guide is perfect if you're new to Framer Motion or just want to make your animations]]></summary>
-        <author>
-            <name>Yazdun Fadali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Tabnabbing and How to Prevent it]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-tabnabbing/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-tabnabbing/"/>
-        <updated>2023-10-16T22:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes when you're building a website, you may need a link to open in a new tab. What you might not realize, though, is that doing so could leave your users vulnerable to malicious attacks via a practice called "tabnabbing". And while nothing is foolproof, there is a way to]]></summary>
-        <author>
-            <name>Juanita Washington</name>
         </author>
     </entry>
     <entry>
