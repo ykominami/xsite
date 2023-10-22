@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T00:09:18.845Z</id>
+    <id>urn:2023-10-22T00:10:36.820Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T00:09:18.845Z</updated>
+    <updated>2023-10-22T00:10:36.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
+        <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
+        <link href="https://smashingmagazine.com/2023/10/roundup-wcag-explainers/"/>
+        <updated>2023-10-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Node.js on Ubuntu – Node Linux Installation Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/</id>
@@ -273,16 +283,6 @@
         <summary type="html"><![CDATA[Adrian’s kicking off a two-part series, sharing his journey as a lead developer. In the process, you will learn about the lessons and insights Adrian gained at work, including the strategies that went into the technical stack of the project and what it looks like to collaborate with a team he is leading for the first time.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path To Awesome CSS Easing With The linear() Function]]></title>
-        <id>https://smashingmagazine.com/2023/09/path-css-easing-linear-function/</id>
-        <link href="https://smashingmagazine.com/2023/09/path-css-easing-linear-function/"/>
-        <updated>2023-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
