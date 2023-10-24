@@ -1,18 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-23T00:09:43.968Z</id>
+    <id>urn:2023-10-24T00:09:49.082Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T00:09:43.968Z</updated>
+    <updated>2023-10-24T00:09:49.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
-        <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
-        <link href="https://smashingmagazine.com/2023/10/roundup-wcag-explainers/"/>
-        <updated>2023-10-21T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.]]></summary>
+        <title type="html"><![CDATA[How to Excel as a New Developer and Beat the Dunning-Kruger Trap]]></title>
+        <id>https://www.freecodecamp.org/news/the-dunning-kruger-effect/</id>
+        <link href="https://www.freecodecamp.org/news/the-dunning-kruger-effect/"/>
+        <updated>2023-10-23T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[What is the Dunning-Kruger Effect? Hey there, fellow developers! Imagine this. You've just landed your first tech job or maybe you're fresh out of a coding boot camp/university. You're pumped, excited, and ready to show the world with everything you've got.  But wait a minute—ever heard of the Dunning-Kruger]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+            <name>Lee Ren Jie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center Text Vertically with CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/"/>
+        <updated>2023-10-23T19:44:32.000Z</updated>
+        <summary type="html"><![CDATA[If you have some text inside a div, and nothing else, the div's height will match the text height. Suppose, though, you have some text and an image. Your text will be aligned at the bottom of the div, which is usually not what you want. In this article, you'll]]></summary>
+        <author>
+            <name>Joe Attardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing for Developers – Why You Should Have a Blog and How to Start One]]></title>
+        <id>https://www.freecodecamp.org/news/technical-writing-for-developers/</id>
+        <link href="https://www.freecodecamp.org/news/technical-writing-for-developers/"/>
+        <updated>2023-10-23T17:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Having a blog is a useful asset for developers. It can be a lead magnet, as well as a place where you can sell digital products you create.  It can also simply be the place where you build a loyal audience within your niche, share your knowledge and ideas,]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Docker Containers Work – Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-docker-containers-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-docker-containers-work/"/>
+        <updated>2023-10-23T16:45:13.000Z</updated>
+        <summary type="html"><![CDATA[A container is a lightweight, standalone, and executable software package that includes everything needed to run a piece of software. And one of the most popular tools for working with containers is Docker. Docker is both the name of the company (Docker Inc) and the software they have created which]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Removing Object Properties Tells Us About JavaScript]]></title>
+        <id>https://smashingmagazine.com/2023/10/removing-object-properties-javascript/</id>
+        <link href="https://smashingmagazine.com/2023/10/removing-object-properties-javascript/"/>
+        <updated>2023-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing in Python with Pytest]]></title>
+        <id>https://www.freecodecamp.org/news/testing-in-python-with-pytest/</id>
+        <link href="https://www.freecodecamp.org/news/testing-in-python-with-pytest/"/>
+        <updated>2023-10-23T12:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring the reliability and functionality of your code is crucial. This is where testing comes into play, serving as a safety net that helps catch bugs and verify that your application behaves as expected. We just published a pytest course on the freeCodeCamp.org YouTube channel. Pytest is one of the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -33,6 +83,16 @@
         <summary type="html"><![CDATA[If you want to improve your skills with Next.js, TailwindCSS, and MongoDB, we have a great project for you. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to build a modern ticketing app with Next.js, App Router, Tailwind CSS, MongoDB, and other]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
+        <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
+        <link href="https://smashingmagazine.com/2023/10/roundup-wcag-explainers/"/>
+        <updated>2023-10-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
     <entry>
@@ -73,56 +133,6 @@
         <summary type="html"><![CDATA[Hover me]]></summary>
         <author>
             <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End Developer Roadmap]]></title>
-        <id>https://www.freecodecamp.org/news/front-end-developer-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/front-end-developer-roadmap/"/>
-        <updated>2023-10-19T14:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a front end developer, this is where to start. We just released our front end developer]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Breaking Changes for API and Event Schemas]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-breaking-changes/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-breaking-changes/"/>
-        <updated>2023-10-19T14:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Several years ago while designing APIs for an ecommerce company, I discovered the importance of API versioning. So I wrote about it in a freeCodeCamp [https://www.freecodecamp.org/news] article entitled How to Version a REST API [/news/how-to-version-a-rest-api/].  Now I find myself designing event schemas for sending messages across a distributed system.]]></summary>
-        <author>
-            <name>Tim Kleier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Google Analytics to your Astro Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/"/>
-        <updated>2023-10-18T18:07:14.000Z</updated>
-        <summary type="html"><![CDATA[You can use data insights derived from your website or app to make important decisions that'll help grow your business. This information can help you improve user experience, create effective content strategies, and so on. Google Analytics is an effective tool for tracking and analyzing traffic and events on your]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CSS Flexbox Handbook – Complete Guide with Practical Examples]]></title>
-        <id>https://www.freecodecamp.org/news/the-css-flexbox-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-css-flexbox-handbook/"/>
-        <updated>2023-10-18T17:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Flexbox is a useful tool for creating beautiful and responsive layouts for web pages. In this guide, you will learn everything you need to know to start using CSS Flexbox like a pro. We'll also go through loads of practice examples. This is a perfect resource for you if you]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI Chatbot with the MERN Stack]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/"/>
-        <updated>2023-10-18T13:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Chatbots are being used everywhere. And an AI chatbot is a great project to help learn the MERN Stack. We just posted a new video course on the freeCodeCamp.org YouTube channel that will teach you how to create an AI chatbot with the MERN Stack. This course was created by]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
