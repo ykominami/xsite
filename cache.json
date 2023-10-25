@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.",
+          "link": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "publishedOn": "2023-10-24T18:00:00.000Z",
+          "wordCount": 6098,
+          "title": "The Fight For The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.",
           "link": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
           "publishedOn": "2023-10-23T13:00:00.000Z",
-          "wordCount": 5434,
+          "wordCount": 5421,
           "title": "What Removing Object Properties Tells Us About JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg",
@@ -38,7 +53,7 @@
           "description": "WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.",
           "link": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
           "publishedOn": "2023-10-20T13:00:00.000Z",
-          "wordCount": 3929,
+          "wordCount": 4025,
           "title": "A Roundup Of WCAG 2.2 Explainers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg",
@@ -53,7 +68,7 @@
           "description": "Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.",
           "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
           "publishedOn": "2023-10-20T09:00:00.000Z",
-          "wordCount": 5672,
+          "wordCount": 5544,
           "title": "How To Choose Typefaces For Fintech Products: Best Practices Guide (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg",
@@ -68,7 +83,7 @@
           "description": "CSS loaders and progress indicators are some of the most widely used examples in tutorials and documentation. In this article, Preethi demonstrates an approach using animated custom properties, a conic gradient, CSS `offset`, and emoji to create the illusion of a scooter racing along a donut track.",
           "link": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
           "publishedOn": "2023-10-18T12:00:00.000Z",
-          "wordCount": 4981,
+          "wordCount": 4971,
           "title": "How To Animate Along A Path In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg",
@@ -83,7 +98,7 @@
           "description": "In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.",
           "link": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
           "publishedOn": "2023-10-17T16:00:00.000Z",
-          "wordCount": 8322,
+          "wordCount": 8308,
           "title": "Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png",
@@ -98,7 +113,7 @@
           "description": "In the final part of this two-part series on solving headaches when working with media files in Gatsby projects, Juan Rodriguez demonstrates strategies and techniques for handling various types of documents, including Markdown files, PDFs, and 3D models.",
           "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
           "publishedOn": "2023-10-16T13:00:00.000Z",
-          "wordCount": 7221,
+          "wordCount": 7210,
           "title": "Gatsby Headaches: Working With Media (Part 2)",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/gatsby-headaches-working-media-part2/gatsby-headaches-working-media.jpg",
@@ -113,7 +128,7 @@
           "description": "Fintech products are systems that are overloaded by many types of data like numerals, texts, spreadsheets, and so on. Working with these products requires the designer to pay a high level of attention and responsibility, as he becomes a provider between user and data. Daria shares her approach to digital product typography and reviews the key points to consider when choosing typefaces.",
           "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
           "publishedOn": "2023-10-13T11:00:00.000Z",
-          "wordCount": 5427,
+          "wordCount": 5413,
           "title": "How To Choose Typefaces For Fintech Products: Our Best Practices Guide (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg",
@@ -128,7 +143,7 @@
           "description": "Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.",
           "link": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
           "publishedOn": "2023-10-12T08:00:00.000Z",
-          "wordCount": 5359,
+          "wordCount": 5349,
           "title": "Everything I Know About UX Research I First Learned From Lt. Columbo",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg",
@@ -143,7 +158,7 @@
           "description": "Discuss the concept of large language models (LLMs) and how they are implemented with a set of data to develop an application. Joas compares a collection of no-code and low-code apps designed to help you get a feel for not only how the concept works but also to get a sense of what types of models are available to train AI on different skill sets.",
           "link": "https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/",
           "publishedOn": "2023-10-10T13:00:00.000Z",
-          "wordCount": 6890,
+          "wordCount": 6986,
           "title": "A High-Level Overview Of Large Language Model Concepts, Use Cases, And Tools",
           "enclosure": {
             "url": "http://files.smashing.media/articles/overview-large-language-model-concepts-use-cases-tools/overview-large-language-model-concepts-use-cases-tools.jpg",
@@ -158,7 +173,7 @@
           "description": "Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.",
           "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
           "publishedOn": "2023-10-09T11:00:00.000Z",
-          "wordCount": 6060,
+          "wordCount": 6048,
           "title": "Gatsby Headaches: Working With Media (Part 1)",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/gatsby-headaches-working-media-part2/gatsby-headaches-working-media.jpg",
@@ -173,7 +188,7 @@
           "description": "Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.",
           "link": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
           "publishedOn": "2023-10-05T12:00:00.000Z",
-          "wordCount": 5351,
+          "wordCount": 5332,
           "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg",
@@ -188,7 +203,7 @@
           "description": "Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.",
           "link": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
           "publishedOn": "2023-10-03T10:00:00.000Z",
-          "wordCount": 4064,
+          "wordCount": 4048,
           "title": "The Problem With WordPress Is Positioning, Not Plugins",
           "enclosure": {
             "url": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg",
@@ -203,7 +218,7 @@
           "description": "In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.",
           "link": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
           "publishedOn": "2023-10-02T18:00:00.000Z",
-          "wordCount": 6102,
+          "wordCount": 6089,
           "title": "WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-documentaries-part2/waterbear-building-free-platform-impactful-documentaries.jpg",
@@ -218,7 +233,7 @@
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/",
           "publishedOn": "2023-09-30T08:00:00.000Z",
-          "wordCount": 5484,
+          "wordCount": 5477,
           "title": "Dancing Leaves And Spooky Fellows (October 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-autumns-splendor-preview-opt.png",
@@ -233,7 +248,7 @@
           "description": "This article is all about experimenting with modern CSS features. We will combine things like CSS masks, CSS variables, trigonometric functions, `@property`, and more to create a neat hover effect that would have been extremely difficult to do even a few years ago without the latest and greatest that CSS has to offer.",
           "link": "https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/",
           "publishedOn": "2023-09-29T11:00:00.000Z",
-          "wordCount": 5568,
+          "wordCount": 5554,
           "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-css-part1/re-creating-pop-out-hover-effect-css-part1.jpg",
@@ -248,7 +263,7 @@
           "description": "In this article, Ganesh Dahal explains how the features have evolved since reusable blocks were officially released in WordPress 5.0 — and how the two have converged in WordPress 6.3 to form a powerful feature capable of allowing content creators to sync content and design patterns consistently in pages and posts.",
           "link": "https://smashingmagazine.com/2023/09/exploring-enhanced-patterns-system-wordpress/",
           "publishedOn": "2023-09-28T13:00:00.000Z",
-          "wordCount": 7229,
+          "wordCount": 7224,
           "title": "Exploring Enhanced Patterns In WordPress 6.3",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enhanced-patterns-system-wordpress/exploring-enhanced-patterns-system-wordpress.jpg",
@@ -278,7 +293,7 @@
           "description": "We’re talking about running grassroots conferences and meet-ups. What does it take to organize a small industry event for your community? Drew McLellan talks to WDC’s Alex Older to find out.",
           "link": "https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/",
           "publishedOn": "2023-09-26T08:00:00.000Z",
-          "wordCount": 9585,
+          "wordCount": 9577,
           "title": "Smashing Podcast Episode 65 With Alex Older: How Do You Run A Grassroots Conference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-65/smashing-podcast-episode-65.png",
@@ -286,21 +301,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-65/smashing-podcast-episode-65.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Adrian’s kicking off a two-part series, sharing his journey as a lead developer. In the process, you will learn about the lessons and insights Adrian gained at work, including the strategies that went into the technical stack of the project and what it looks like to collaborate with a team he is leading for the first time.",
-          "link": "https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/",
-          "publishedOn": "2023-09-25T10:00:00.000Z",
-          "wordCount": 5730,
-          "title": "WaterBear: Building A Free Platform For Impactful Documentaries (Part 1)",
-          "enclosure": {
-            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries.jpg"
         }
       ]
     },
@@ -310,12 +310,62 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/",
+          "author": "Juliet Ofoegbu",
+          "description": "As a front-end developer, you may have used a free hosting platform like Vercel, Netlify, or GitHub pages to deploy your front-end projects. Personally, I typically use Vercel and Netlify. But I also like trying out different web technologies, and I've used Firebase's authentication and storage features on different projects",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/",
+          "publishedOn": "2023-10-24T15:55:28.000Z",
+          "wordCount": 2591,
+          "title": "How to Host and Deploy a React App with Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-pixabay-207241.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-handbook/",
+          "author": "Tatev Karen Aslanyan",
+          "description": "If you're planning to become a Machine Learning Engineer, Data Scientist, or you want to refresh your memory before your interviews, this handbook is for you.  In it, we'll cover the key Machine Learning algorithms you'll need to know as a Data Scientist, Machine Learning Engineer, Machine Learning Researcher,",
+          "link": "https://www.freecodecamp.org/news/machine-learning-handbook/",
+          "publishedOn": "2023-10-24T14:59:14.000Z",
+          "wordCount": 16216,
+          "title": "Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-Machine-Learning-Fundamentals-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/",
+          "author": "Valentine Gatwiri",
+          "description": "In the world of Java development, selecting the right build tool is a crucial decision. Build tools automate various tasks, making the development process smoother and more efficient.  In this article, we'll explore three popular build tools used in Java development: Maven, Gradle, and Ant. We'll discuss their features,",
+          "link": "https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/",
+          "publishedOn": "2023-10-24T14:57:08.000Z",
+          "wordCount": 1834,
+          "title": "How to Choose the Right Build Tool for Your Java Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Screenshot-from-2023-10-22-18-08-03.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/",
+          "author": "Isah Jacob",
+          "description": "Swapping the values of two variables is a common task in programming. While the most straightforward approach involves using a temporary variable, Python provides several elegant techniques to achieve the same result without the need for that extra variable.  In this tutorial, we will take a look at some",
+          "link": "https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/",
+          "publishedOn": "2023-10-24T14:50:48.000Z",
+          "wordCount": 2569,
+          "title": "How to Swap the Values of Two Variables Without a Temporary Variable in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/How-To-Swap-The-Values-of-Two-Variables-Without-a-Temporary-Variable-in-python-1-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
+          "author": "Beau Carnes",
+          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 26-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the updated 2023 edition of the course. Dr. David J. Malan is widely considered to be one of the",
+          "link": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
+          "publishedOn": "2023-10-24T12:43:14.000Z",
+          "wordCount": 808,
+          "title": "Harvard CS50 – Free Computer Science Course (2023 Edition)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cs502023.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/the-dunning-kruger-effect/",
           "author": "Lee Ren Jie",
           "description": "What is the Dunning-Kruger Effect? Hey there, fellow developers! Imagine this. You've just landed your first tech job or maybe you're fresh out of a coding boot camp/university. You're pumped, excited, and ready to show the world with everything you've got.  But wait a minute—ever heard of the Dunning-Kruger",
           "link": "https://www.freecodecamp.org/news/the-dunning-kruger-effect/",
           "publishedOn": "2023-10-23T21:00:12.000Z",
-          "wordCount": 2588,
+          "wordCount": 2599,
           "title": "How to Excel as a New Developer and Beat the Dunning-Kruger Trap",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/conf.jpg"
         },
@@ -335,7 +385,7 @@
           "description": "Having a blog is a useful asset for developers. It can be a lead magnet, as well as a place where you can sell digital products you create.  It can also simply be the place where you build a loyal audience within your niche, share your knowledge and ideas,",
           "link": "https://www.freecodecamp.org/news/technical-writing-for-developers/",
           "publishedOn": "2023-10-23T17:22:04.000Z",
-          "wordCount": 5936,
+          "wordCount": 5949,
           "title": "Technical Writing for Developers – Why You Should Have a Blog and How to Start One",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Orange---Yellow-Gradient-Make-Design-Blog-Banner--42-.png"
         },
@@ -358,56 +408,6 @@
           "wordCount": 1044,
           "title": "Testing in Python with Pytest",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pytest.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are a web developer working on the frontend or the backend, you'll want to have Node.js installed on your system.  But if you use the typical sudo apt install nodejs command, it may install a very old version of Node which can be troublesome for you. So",
-          "link": "https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/",
-          "publishedOn": "2023-10-20T19:29:06.000Z",
-          "wordCount": 1653,
-          "title": "How to Install Node.js on Ubuntu – Node Linux Installation Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/programming-development-technology-work-at-night-2022-01-19-00-14-46-utc-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/",
-          "author": "Beau Carnes",
-          "description": "If you want to improve your skills with Next.js, TailwindCSS, and MongoDB, we have a great project for you. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to build a modern ticketing app with Next.js, App Router, Tailwind CSS, MongoDB, and other",
-          "link": "https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/",
-          "publishedOn": "2023-10-20T15:54:06.000Z",
-          "wordCount": 1084,
-          "title": "Use Next.js, Tailwind CSS, and MongoDB to Build a Ticketing Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/ticketingapp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-your-first-web-component/",
-          "author": "Joe Attardi",
-          "description": "In 2023, browser support for web components (also known as custom elements) is really good. There's never been a better time to start building your own custom elements. Web components, also known as custom elements, are new HTML elements that you create. These elements encapsulate some markup, style, and interactivity.",
-          "link": "https://www.freecodecamp.org/news/build-your-first-web-component/",
-          "publishedOn": "2023-10-19T20:35:35.000Z",
-          "wordCount": 1400,
-          "title": "How to Build Your First Web Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-just-another-photography-dude-68725.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/",
-          "author": "Chris Blakely",
-          "description": "In this in-depth tutorial, we'll build a full stack recipe app from scratch, using React, Node.js, Postgres and the Spoonacular API. We'll cover features such as:  * Building an API server in Node  * Integrating securely with a 3rd party API  * Interacting with a Postgres database",
-          "link": "https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/",
-          "publishedOn": "2023-10-19T20:31:03.000Z",
-          "wordCount": 7004,
-          "title": "Full Stack Project Tutorial – Create a Recipe App Using React, Node.js and PostgreSQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/react-note-photo-gallery-app--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-animation-css-vs-javascript/",
-          "author": "Joan Ayebola",
-          "description": "Hover me",
-          "link": "https://www.freecodecamp.org/news/web-animation-css-vs-javascript/",
-          "publishedOn": "2023-10-19T14:54:50.000Z",
-          "wordCount": 2068,
-          "title": "Web Animation Techniques – CSS vs JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Addition-and-Subtraction-Word-Problems-Math-Presentation-Orange-in-Pink-and-Purple-Groovy-Style.png"
         }
       ]
     }

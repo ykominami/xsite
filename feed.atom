@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T00:09:49.082Z</id>
+    <id>urn:2023-10-25T00:09:47.081Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T00:09:49.082Z</updated>
+    <updated>2023-10-25T00:09:47.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Fight For The Main Thread]]></title>
+        <id>https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/</id>
+        <link href="https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/"/>
+        <updated>2023-10-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host and Deploy a React App with Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/"/>
+        <updated>2023-10-24T15:55:28.000Z</updated>
+        <summary type="html"><![CDATA[As a front-end developer, you may have used a free hosting platform like Vercel, Netlify, or GitHub pages to deploy your front-end projects. Personally, I typically use Vercel and Netlify. But I also like trying out different web technologies, and I've used Firebase's authentication and storage features on different projects]]></summary>
+        <author>
+            <name>Juliet Ofoegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/machine-learning-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-handbook/"/>
+        <updated>2023-10-24T14:59:14.000Z</updated>
+        <summary type="html"><![CDATA[If you're planning to become a Machine Learning Engineer, Data Scientist, or you want to refresh your memory before your interviews, this handbook is for you.  In it, we'll cover the key Machine Learning algorithms you'll need to know as a Data Scientist, Machine Learning Engineer, Machine Learning Researcher,]]></summary>
+        <author>
+            <name>Tatev Karen Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right Build Tool for Your Java Projects]]></title>
+        <id>https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/</id>
+        <link href="https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/"/>
+        <updated>2023-10-24T14:57:08.000Z</updated>
+        <summary type="html"><![CDATA[In the world of Java development, selecting the right build tool is a crucial decision. Build tools automate various tasks, making the development process smoother and more efficient.  In this article, we'll explore three popular build tools used in Java development: Maven, Gradle, and Ant. We'll discuss their features,]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Swap the Values of Two Variables Without a Temporary Variable in Python]]></title>
+        <id>https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/"/>
+        <updated>2023-10-24T14:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Swapping the values of two variables is a common task in programming. While the most straightforward approach involves using a temporary variable, Python provides several elegant techniques to achieve the same result without the need for that extra variable.  In this tutorial, we will take a look at some]]></summary>
+        <author>
+            <name>Isah Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 – Free Computer Science Course (2023 Edition)]]></title>
+        <id>https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/</id>
+        <link href="https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/"/>
+        <updated>2023-10-24T12:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 26-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the updated 2023 edition of the course. Dr. David J. Malan is widely considered to be one of the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Excel as a New Developer and Beat the Dunning-Kruger Trap]]></title>
         <id>https://www.freecodecamp.org/news/the-dunning-kruger-effect/</id>
@@ -66,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install Node.js on Ubuntu – Node Linux Installation Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/"/>
-        <updated>2023-10-20T19:29:06.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web developer working on the frontend or the backend, you'll want to have Node.js installed on your system.  But if you use the typical sudo apt install nodejs command, it may install a very old version of Node which can be troublesome for you. So]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Next.js, Tailwind CSS, and MongoDB to Build a Ticketing Application]]></title>
-        <id>https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/</id>
-        <link href="https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/"/>
-        <updated>2023-10-20T15:54:06.000Z</updated>
-        <summary type="html"><![CDATA[If you want to improve your skills with Next.js, TailwindCSS, and MongoDB, we have a great project for you. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to build a modern ticketing app with Next.js, App Router, Tailwind CSS, MongoDB, and other]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
         <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
         <link href="https://smashingmagazine.com/2023/10/roundup-wcag-explainers/"/>
@@ -103,36 +143,6 @@
         <summary type="html"><![CDATA[Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daria Karpenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Web Component]]></title>
-        <id>https://www.freecodecamp.org/news/build-your-first-web-component/</id>
-        <link href="https://www.freecodecamp.org/news/build-your-first-web-component/"/>
-        <updated>2023-10-19T20:35:35.000Z</updated>
-        <summary type="html"><![CDATA[In 2023, browser support for web components (also known as custom elements) is really good. There's never been a better time to start building your own custom elements. Web components, also known as custom elements, are new HTML elements that you create. These elements encapsulate some markup, style, and interactivity.]]></summary>
-        <author>
-            <name>Joe Attardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Project Tutorial – Create a Recipe App Using React, Node.js and PostgreSQL]]></title>
-        <id>https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/"/>
-        <updated>2023-10-19T20:31:03.000Z</updated>
-        <summary type="html"><![CDATA[In this in-depth tutorial, we'll build a full stack recipe app from scratch, using React, Node.js, Postgres and the Spoonacular API. We'll cover features such as:  * Building an API server in Node  * Integrating securely with a 3rd party API  * Interacting with a Postgres database]]></summary>
-        <author>
-            <name>Chris Blakely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Animation Techniques – CSS vs JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/web-animation-css-vs-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/web-animation-css-vs-javascript/"/>
-        <updated>2023-10-19T14:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Hover me]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -283,16 +293,6 @@
         <summary type="html"><![CDATA[We’re talking about running grassroots conferences and meet-ups. What does it take to organize a small industry event for your community? Drew McLellan talks to WDC’s Alex Older to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WaterBear: Building A Free Platform For Impactful Documentaries (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/</id>
-        <link href="https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/"/>
-        <updated>2023-09-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Adrian’s kicking off a two-part series, sharing his journey as a lead developer. In the process, you will learn about the lessons and insights Adrian gained at work, including the strategies that went into the technical stack of the project and what it looks like to collaborate with a team he is leading for the first time.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
