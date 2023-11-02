@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T00:10:23.394Z</id>
+    <id>urn:2023-11-02T00:09:46.592Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T00:10:23.394Z</updated>
+    <updated>2023-11-02T00:09:46.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create and Deploy IaC by Chatting with AI]]></title>
+        <id>https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/</id>
+        <link href="https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/"/>
+        <updated>2023-11-01T13:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a revolutionary approach to managing and provisioning computing infrastructure. With IaC, you can automate the process of provisioning, configuring, and managing infrastructure using code and software development techniques. This approach provides a more efficient, consistent, and reliable way of managing infrastructure compared to traditional manual]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Loop Through Arrays in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/loop-through-arrays-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/loop-through-arrays-javascript/"/>
+        <updated>2023-10-31T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Answering Common Questions About Interpreting Page Speed Reports]]></title>
         <id>https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/</id>
@@ -136,26 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Structure JSON Responses in ChatGPT with Function Calling]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-json-back-from-chatgpt-with-function-calling/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-json-back-from-chatgpt-with-function-calling/"/>
-        <updated>2023-10-25T18:09:35.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT's Problem With JSON Open up the ChatGPT UI [https://chat.openai.com/] and ask it for some JSON. Chances are you will get a response like you can see in the cover photo above: a JSON object presented to you in markdown format, with some text to either side explaining what the]]></summary>
-        <author>
-            <name>James Charlesworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn MySQL – Beginner's Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-mysql-beginners-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-mysql-beginners-course/"/>
-        <updated>2023-10-25T12:43:08.000Z</updated>
-        <summary type="html"><![CDATA[Databases have become an integral part of storing and managing data efficiently. MySQL, a widely used open-source relational database management system, empowers users to handle data in a structured manner, facilitating easier retrieval and manipulation of information. Understanding MySQL is vital for developers, data analysts, and anyone aspiring to delve]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Fight For The Main Thread]]></title>
         <id>https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/</id>
         <link href="https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/"/>
@@ -273,26 +273,6 @@
         <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem With WordPress Is Positioning, Not Plugins]]></title>
-        <id>https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/</id>
-        <link href="https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/"/>
-        <updated>2023-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/</id>
-        <link href="https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/"/>
-        <updated>2023-10-02T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
