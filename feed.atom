@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T00:09:54.606Z</id>
+    <id>urn:2023-11-04T00:09:33.178Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:09:54.606Z</updated>
+    <updated>2023-11-04T00:09:33.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Call an API in JavaScript – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/make-api-calls-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/make-api-calls-in-javascript/"/>
+        <updated>2023-11-03T18:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Calling an API (Application Programming Interface) in JavaScript is a fundamental action that web developers need to know how to perform. It allows you to fetch data from external sources and integrate it into your web applications.  In this tutorial, I'll walk you through the process of making API]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Helps You Write Better Code]]></title>
+        <id>https://www.freecodecamp.org/news/benefits-of-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/benefits-of-typescript/"/>
+        <updated>2023-11-03T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is taking over the web. In this article I'll give you a high-level overview of the benefits of TypeScript and how can it help you create websites with fewer bugs.  You'll learn how TypeScript helps with handling edge cases, catching typos, refactoring code, and how types make code]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with Quarkus and JPAStreamer]]></title>
+        <id>https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/"/>
+        <updated>2023-11-03T14:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Note: This article is by Julia Gustafsson. In the world of software development, innovation often arrives in the form of powerful tools that transform the way we build applications - enter Quarkus, a development platform that's reshaping the Java landscape.  If you are new to the Quarkiverse, this tutorial]]></summary>
+        <author>
+            <name>Julia Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacktoberfest 2023 Contributors]]></title>
+        <id>https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/</id>
+        <link href="https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/"/>
+        <updated>2023-11-03T00:03:39.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just finished participating in this year's Hacktoberfest – a month-long celebration of open source. Our core team is excited to recognize all of our wonderful open source contributors. A big thank you to all of these folks for the effort they put into helping improve our curriculum]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Helper Functions in React]]></title>
         <id>https://www.freecodecamp.org/news/helper-functions-in-react/</id>
@@ -26,7 +66,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Search Of The Ideal Privacy Icon]]></title>
+        <title type="html"><![CDATA[In Search Of The Ideal Privacy Icon]]></title>
         <id>https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/</id>
         <link href="https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/"/>
         <updated>2023-11-02T15:00:00.000Z</updated>
@@ -76,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Loop Through Arrays in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/loop-through-arrays-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/loop-through-arrays-javascript/"/>
-        <updated>2023-10-31T21:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Answering Common Questions About Interpreting Page Speed Reports]]></title>
         <id>https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/</id>
         <link href="https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/"/>
@@ -103,36 +133,6 @@
         <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make this November colorful!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scrape Amazon Product Reviews Behind a Login]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/"/>
-        <updated>2023-10-30T16:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon is the most popular e-commerce website for web scrapers, with billions of product pages being scraped every month.  It is also home to a vast database of product reviews, which can be very useful for market research and competitor monitoring.  You can extract relevant data from the]]></summary>
-        <author>
-            <name>Satyam Tripathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotlin and Android Development – Build a Chat App]]></title>
-        <id>https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/</id>
-        <link href="https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/"/>
-        <updated>2023-10-30T16:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to dive into the world of Android development using Kotlin? We just posted a 10-hour Android course on the freeCodeCamp.org YouTube channel. Alexandru Cristian created this course. I will help you understand how to develop with Kotlin and Android. This course will take you on a journey]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Data Exports and Email Reports with Python – a Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/"/>
-        <updated>2023-10-30T16:08:37.000Z</updated>
-        <summary type="html"><![CDATA[In today's data-driven world, automation is key to streamlining tasks and saving time. In this beginner-friendly tutorial, I'll walk you through the process of automating data exports from a PostgreSQL database and sending them as an email attachment using Python.  This step-by-step guide will help you grasp the fundamentals]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
     <entry>
@@ -273,16 +273,6 @@
         <summary type="html"><![CDATA[Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/</id>
-        <link href="https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/"/>
-        <updated>2023-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
         </author>
     </entry>
 </feed>
