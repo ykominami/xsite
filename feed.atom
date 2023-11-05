@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-04T00:09:33.178Z</id>
+    <id>urn:2023-11-05T00:10:40.197Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T00:09:33.178Z</updated>
+    <updated>2023-11-05T00:10:40.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Trello and Stack Overflow Founder Joel Spolsky]]></title>
+        <id>https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/</id>
+        <link href="https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/"/>
+        <updated>2023-11-04T00:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Joel Spolsky. He's co-founder of Trello and Stack Overflow, and author of the iconic developer blog Joel on Software. I hung out with Joel in his New York City home to discuss his 4-decade-long career as a developer and a CEO. He shared his insights]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Call an API in JavaScript – with Examples]]></title>
         <id>https://www.freecodecamp.org/news/make-api-calls-in-javascript/</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[React is a popular framework for building web applications. It's is one of the best options for frontend engineering because of its declarative approach to user interface design and component-based architecture.  But it can be difficult to make sure your React application functions as intended in various different scenarios.]]></summary>
         <author>
             <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create and Deploy IaC by Chatting with AI]]></title>
-        <id>https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/</id>
-        <link href="https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/"/>
-        <updated>2023-11-01T13:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a revolutionary approach to managing and provisioning computing infrastructure. With IaC, you can automate the process of provisioning, configuring, and managing infrastructure using code and software development techniques. This approach provides a more efficient, consistent, and reliable way of managing infrastructure compared to traditional manual]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
