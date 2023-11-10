@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-09T00:09:47.624Z</id>
+    <id>urn:2023-11-10T00:09:46.485Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T00:09:47.624Z</updated>
+    <updated>2023-11-10T00:09:46.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Setup Authentication and Protected Routes in Next.js 13 with next-auth.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/"/>
+        <updated>2023-11-09T17:54:32.000Z</updated>
+        <summary type="html"><![CDATA[This guide demonstrates the straightforward process of incorporating authentication into your Next.js app using the next-auth.js [https://next-auth.js.org/] library. While the library provides numerous options (providers), this tutorial focuses on the implementation using the Google Provider. You'll also gain insight into effortlessly setting up protected routes within your application, a task]]></summary>
+        <author>
+            <name>Olasunkanmi Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Java Fundamentals – How to Build a Solid Foundation in Object-Oriented Programming]]></title>
+        <id>https://www.freecodecamp.org/news/learn-java-object-oriented-programming/</id>
+        <link href="https://www.freecodecamp.org/news/learn-java-object-oriented-programming/"/>
+        <updated>2023-11-09T17:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Are you just getting into software development, or do you need to upgrade your coding skills? Java's significance within the tech sector stands unchallenged, so it's a great place to start. Java is at the foundation of Object-Oriented Programming (OOP). This is an approach to programming that mirrors our complexity]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Next.js Applications with Role-Based Authentication Using NextAuth]]></title>
+        <id>https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/</id>
+        <link href="https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/"/>
+        <updated>2023-11-09T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[If you create Next.js apps, chanced are you are going to have to include user authentication at some point.  We just posted a course on the freeCodeCamp.org YouTube channel that teaches how to implement authentication in Next.js 13.5 with the powerful library, NextAuth – which will soon be known]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Playground: From 5-Minute Install To Instant Spin-Up]]></title>
+        <id>https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/</id>
+        <link href="https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/"/>
+        <updated>2023-11-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Segment Anything Model (SAM) to Create Masks]]></title>
         <id>https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Maxwell Barvian)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Animated Hamburger Menu in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/"/>
-        <updated>2023-11-07T17:15:20.000Z</updated>
-        <summary type="html"><![CDATA[If you're looking to add some polished animations to your React apps, Framer Motion is the tool for the job.  In this tutorial, I'll walk you through creating a fully animated mobile menu using Framer Motion in React. What Are We Going to Build? In this tutorial, I'll guide]]></summary>
-        <author>
-            <name>Yazdun Fadali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a WordPress Store that Sells Real AI-Generated Products]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/"/>
-        <updated>2023-11-07T15:52:15.000Z</updated>
-        <summary type="html"><![CDATA[The combination of artificial intelligence (AI) and web development has revolutionized the way we create and manage online content. I just created and released a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI to help create an e-commerce store powered by WordPress. You will]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Components that Work in Any Framework]]></title>
-        <id>https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/</id>
-        <link href="https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/"/>
-        <updated>2023-11-06T20:25:12.000Z</updated>
-        <summary type="html"><![CDATA[The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of]]></summary>
-        <author>
-            <name>Andrico Karoulla</name>
         </author>
     </entry>
     <entry>
@@ -263,16 +273,6 @@
         <summary type="html"><![CDATA[Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A High-Level Overview Of Large Language Model Concepts, Use Cases, And Tools]]></title>
-        <id>https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/</id>
-        <link href="https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/"/>
-        <updated>2023-10-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discuss the concept of large language models (LLMs) and how they are implemented with a set of data to develop an application. Joas compares a collection of no-code and low-code apps designed to help you get a feel for not only how the concept works but also to get a sense of what types of models are available to train AI on different skill sets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
