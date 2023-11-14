@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-13T00:10:32.275Z</id>
+    <id>urn:2023-11-14T00:09:51.121Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T00:10:32.275Z</updated>
+    <updated>2023-11-14T00:09:51.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scope in JavaScript – Global vs Local vs Block Scope Explained]]></title>
+        <id>https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/</id>
+        <link href="https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/"/>
+        <updated>2023-11-13T17:40:12.000Z</updated>
+        <summary type="html"><![CDATA[In the vast world of programming, scope is a fundamental concept. It underpins the behavior of variables in any given programming language. In the context of JavaScript, a language renowned for its widespread use in web development, understanding scope is crucial to writing efficient and bug-free code. Whether you're a]]></summary>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Processing Multilingual Names in Your Applications]]></title>
+        <id>https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/</id>
+        <link href="https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/"/>
+        <updated>2023-11-13T17:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, my team at work and I were looking at the errors occurring in one of our signup APIs. We saw that nearly 5% of our requests were getting failed, all due to 400 BAD REQUEST [https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400] errors. And the root cause was traced back to a regex]]></summary>
+        <author>
+            <name>Apoorv Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Web Design Documentation]]></title>
+        <id>https://smashingmagazine.com/2023/11/designing-web-design-documentation/</id>
+        <link href="https://smashingmagazine.com/2023/11/designing-web-design-documentation/"/>
+        <updated>2023-11-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Commit Messages that Project Maintainers Will Appreciate]]></title>
         <id>https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/</id>
@@ -103,26 +133,6 @@
         <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there, and it's essential for web development. Learning JavaScript can be your next step into this amazing world of web dev. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you JavaScript from the]]></summary>
         <author>
             <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arduino for Everybody]]></title>
-        <id>https://www.freecodecamp.org/news/arduino-for-everybody/</id>
-        <link href="https://www.freecodecamp.org/news/arduino-for-everybody/"/>
-        <updated>2023-11-08T15:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source electronics platform that allows you to create interactive devices with sensors and outputs. With Arduino, you can build DIY electronics projects with minimal technical knowledge. We just published a comprehensive Arduino course on the freeCodeCamp.org YouTube channel. The course covers the basics of Arduino, from hardware]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Online Résumé on AWS Using S3, Route 53, CloudFront, and ACM]]></title>
-        <id>https://www.freecodecamp.org/news/aws-project-build-a-resume/</id>
-        <link href="https://www.freecodecamp.org/news/aws-project-build-a-resume/"/>
-        <updated>2023-11-08T00:38:02.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to AWS, you can probably appreciate the sense of overwhelm that comes from trying to understand all the different services (seriously, like,  hundreds of them). What are they all for, and how do they work together?  And then once you've conquered some basic skills, the]]></summary>
-        <author>
-            <name>Amber Israelsen</name>
         </author>
     </entry>
     <entry>
