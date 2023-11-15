@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-14T00:09:51.121Z</id>
+    <id>urn:2023-11-15T00:09:57.434Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T00:09:51.121Z</updated>
+    <updated>2023-11-15T00:09:57.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Transform Your Engineering Management Career Path]]></title>
+        <id>https://www.freecodecamp.org/news/master-engineering-management/</id>
+        <link href="https://www.freecodecamp.org/news/master-engineering-management/"/>
+        <updated>2023-11-14T19:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Are you an aspiring engineering leader or a software developer looking to climb the ladder of success in your technical career? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to be an exceptional engineering manager. Ankita Kulkarni teaches this course. She is an]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Dynamic API Routes in Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/next-js-dynamic-api-routes/</id>
+        <link href="https://www.freecodecamp.org/news/next-js-dynamic-api-routes/"/>
+        <updated>2023-11-14T18:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a React-based framework that enables developers to create full-stack web applications by extending the latest React features.  Next helps you add additional features and optimizations to your React apps like static site generation (SSG), server-side rendering (SSR), automatic code splitting and bundling, and dynamic API routes.]]></summary>
+        <author>
+            <name>Musab Habeeb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an Interactive and Dynamic Table of Contents in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-a-dynamic-table-of-contents-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-dynamic-table-of-contents-in-javascript/"/>
+        <updated>2023-11-14T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[While reading some technical articles on various platforms, I kept noticing the Table of Contents section in the sidebar. Some were interactive and some were just links to those sections.  A Table of Contents usually ends up being pretty helpful to readers. It lets you easily skim through what]]></summary>
+        <author>
+            <name>Bhavesh Rawat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scope in JavaScript – Global vs Local vs Block Scope Explained]]></title>
         <id>https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/</id>
@@ -96,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Secure Next.js Applications with Role-Based Authentication Using NextAuth]]></title>
-        <id>https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/</id>
-        <link href="https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/"/>
-        <updated>2023-11-09T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[If you create Next.js apps, chanced are you are going to have to include user authentication at some point.  We just posted a course on the freeCodeCamp.org YouTube channel that teaches how to implement authentication in Next.js 13.5 with the powerful library, NextAuth – which will soon be known]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WordPress Playground: From 5-Minute Install To Instant Spin-Up]]></title>
         <id>https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/</id>
         <link href="https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/"/>
@@ -113,26 +133,6 @@
         <summary type="html"><![CDATA[WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Segment Anything Model (SAM) to Create Masks]]></title>
-        <id>https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/</id>
-        <link href="https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/"/>
-        <updated>2023-11-08T20:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey there! So, you know that buzz about Tesla's autopilot being all futuristic and driverless? Ever thought about how it actually does its magic? Well, let me tell you – it's all about image segmentation and object detection.  What is Image Segmentation? Image segmentation, basically chopping up an image]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Course in Spanish  – Learn JavaScript for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-course-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-course-in-spanish/"/>
-        <updated>2023-11-08T16:25:39.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there, and it's essential for web development. Learning JavaScript can be your next step into this amazing world of web dev. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you JavaScript from the]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
     <entry>
