@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-16T00:10:05.815Z</id>
+    <id>urn:2023-11-17T00:10:05.053Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T00:10:05.815Z</updated>
+    <updated>2023-11-17T00:10:05.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Game Tutorial – Build a Stick Hero Clone with HTML Canvas + JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/"/>
+        <updated>2023-11-16T19:00:55.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to create a game that's inspired by Stick Hero – using pure JavaScript and HTML canvas. We are going to recreate Stick Hero [https://apps.apple.com/us/app/stick-hero/id918338898], a mobile game published by KetchApp. We'll go through how the game works in general, how to use JavaScript to]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Localize Your Django App]]></title>
+        <id>https://www.freecodecamp.org/news/localize-django-app/</id>
+        <link href="https://www.freecodecamp.org/news/localize-django-app/"/>
+        <updated>2023-11-16T18:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how websites can offer their content in multiple languages, perfectly tailored to different cultures and regions?  Well, that magic is called localization, and it's a game-changer for web development – especially when using Django, a super versatile Python framework.  It's not just about translating]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT vs BARD AI – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/chatgpt-vs-bard/</id>
+        <link href="https://www.freecodecamp.org/news/chatgpt-vs-bard/"/>
+        <updated>2023-11-16T17:19:15.000Z</updated>
+        <summary type="html"><![CDATA[In November of 2022, Artificial Intelligence took center stage in the tech world. AI was not a new concept, but OpenAI had just released its ChatGPT Large Language Model, and devs started diving into using it.  Large Language Models, or LLMs, let users enter a prompt (some question or]]></summary>
+        <author>
+            <name>Maybell Obadoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Suspense to Improve your React Projects]]></title>
+        <id>https://www.freecodecamp.org/news/react-suspense/</id>
+        <link href="https://www.freecodecamp.org/news/react-suspense/"/>
+        <updated>2023-11-16T17:04:50.000Z</updated>
+        <summary type="html"><![CDATA[React's ecosystem is always growing, and it seems like there are always new features and enhancements to make development more effective and user-friendly.  React Suspense is one such feature that has become quite popular among React devs. In this guide, you'll learn all about React Suspense and examine its]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Technical Interviews]]></title>
+        <id>https://www.freecodecamp.org/news/master-technical-interviews/</id>
+        <link href="https://www.freecodecamp.org/news/master-technical-interviews/"/>
+        <updated>2023-11-16T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[You need to prepare if you want to perform well in technical developer job interviews. We just published a course on the freeCodeCamp.org YouTube channel that will guide you through every aspect of the technical interview process, as well as prepare you for the type of questions you might get]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use TypeScript with React]]></title>
         <id>https://www.freecodecamp.org/news/use-typescript-with-react/</id>
@@ -66,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scope in JavaScript – Global vs Local vs Block Scope Explained]]></title>
-        <id>https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/</id>
-        <link href="https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/"/>
-        <updated>2023-11-13T17:40:12.000Z</updated>
-        <summary type="html"><![CDATA[In the vast world of programming, scope is a fundamental concept. It underpins the behavior of variables in any given programming language. In the context of JavaScript, a language renowned for its widespread use in web development, understanding scope is crucial to writing efficient and bug-free code. Whether you're a]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Processing Multilingual Names in Your Applications]]></title>
-        <id>https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/</id>
-        <link href="https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/"/>
-        <updated>2023-11-13T17:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, my team at work and I were looking at the errors occurring in one of our signup APIs. We saw that nearly 5% of our requests were getting failed, all due to 400 BAD REQUEST [https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400] errors. And the root cause was traced back to a regex]]></summary>
-        <author>
-            <name>Apoorv Tyagi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing Web Design Documentation]]></title>
         <id>https://smashingmagazine.com/2023/11/designing-web-design-documentation/</id>
         <link href="https://smashingmagazine.com/2023/11/designing-web-design-documentation/"/>
@@ -93,36 +123,6 @@
         <summary type="html"><![CDATA[Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Commit Messages that Project Maintainers Will Appreciate]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/"/>
-        <updated>2023-11-11T01:16:19.000Z</updated>
-        <summary type="html"><![CDATA[You know the saying “If you keep looking at the past, you’ll miss the future”? Well in the context of coding and working with Git, that’s not the case.  Your commit history plays a huge role in the future of the open source projects that you contribute to, and]]></summary>
-        <author>
-            <name>CHRISTINE T. BELZIE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: From MIT to Startup Land with Arian Agrawal]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-arian-agrawal-from-mit-to-startup-land/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-arian-agrawal-from-mit-to-startup-land/"/>
-        <updated>2023-11-10T22:11:15.000Z</updated>
-        <summary type="html"><![CDATA[On this week's podcast, I meet with Arian Agrawal in New York City to talk about her journey into tech startups. Arian grew up in New York and studied at MIT. She worked in finance for a few years, then built her own ecommerce Marketplace startup with a friend. Along]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Become an Azure Solutions Architect Expert – Pass the AZ-305 Exam]]></title>
-        <id>https://www.freecodecamp.org/news/become-an-azure-solutions-architect-expert-pass-the-az-305-exam/</id>
-        <link href="https://www.freecodecamp.org/news/become-an-azure-solutions-architect-expert-pass-the-az-305-exam/"/>
-        <updated>2023-11-10T16:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to elevate your expertise in designing cloud and hybrid solutions on Azure? The Azure Solutions Architect Expert Certification exam measures your ability to accomplish the following technical tasks: design identity, governance, and monitoring solutions; design data storage solutions; design business continuity solutions; and design infrastructure solutions. We]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -253,26 +253,6 @@
         <summary type="html"><![CDATA[Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daria Karpenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Animate Along A Path In CSS]]></title>
-        <id>https://smashingmagazine.com/2023/10/animate-along-path-css/</id>
-        <link href="https://smashingmagazine.com/2023/10/animate-along-path-css/"/>
-        <updated>2023-10-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS loaders and progress indicators are some of the most widely used examples in tutorials and documentation. In this article, Preethi demonstrates an approach using animated custom properties, a conic gradient, CSS `offset`, and emoji to create the illusion of a scooter racing along a donut track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?]]></title>
-        <id>https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/</id>
-        <link href="https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/"/>
-        <updated>2023-10-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
