@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T00:10:37.782Z</id>
+    <id>urn:2023-11-21T00:10:38.584Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T00:10:37.782Z</updated>
+    <updated>2023-11-21T00:10:38.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a python-telegram-bot v20 Webhook]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/"/>
+        <updated>2023-11-20T20:43:21.000Z</updated>
+        <summary type="html"><![CDATA[The python-telegram-bot v20 release introduced major structural changes. According to the documentation, > “All networking and I/O-related logic now works via coroutine functions (i.e.  async def ... functions). In particular, all methods of the telegram.Bot class that make requests to the Bot API are now coroutine functions and need]]></summary>
+        <author>
+            <name>Chua Hui Shun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Data Visualization with Dr. Curran Kelleher]]></title>
         <id>https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/</id>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[Are you an aspiring engineering leader or a software developer looking to climb the ladder of success in your technical career? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to be an exceptional engineering manager. Ankita Kulkarni teaches this course. She is an]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Dynamic API Routes in Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/next-js-dynamic-api-routes/</id>
-        <link href="https://www.freecodecamp.org/news/next-js-dynamic-api-routes/"/>
-        <updated>2023-11-14T18:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a React-based framework that enables developers to create full-stack web applications by extending the latest React features.  Next helps you add additional features and optimizations to your React apps like static site generation (SSG), server-side rendering (SSR), automatic code splitting and bundling, and dynamic API routes.]]></summary>
-        <author>
-            <name>Musab Habeeb</name>
         </author>
     </entry>
     <entry>
