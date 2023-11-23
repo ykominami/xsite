@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "In Part 1 of the series, Temani Afif demonstrated how creating ribbon patterns in CSS has evolved with the availability of new CSS features. In this second installment of this brief two-part series, we look at two additional ribbon variations that introduce techniques for masking a repeated background gradient in CSS.",
+          "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/",
+          "publishedOn": "2023-11-22T10:00:00.000Z",
+          "wordCount": 5202,
+          "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
           "author": "hello@smashingmagazine.com (Victor Yocco & Dana Daniels)",
           "description": "Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.",
           "link": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
           "publishedOn": "2023-11-21T12:00:00.000Z",
-          "wordCount": 7485,
+          "wordCount": 7487,
           "title": "Creating And Maintaining A Voice Of Customer Program",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg",
@@ -38,7 +53,7 @@
           "description": "Effective collaboration between designers and developers is vital to creating good user experiences. However, bridging the handoff between design and development with the many tools and workflows available today has its pitfalls. Matthew Mattei introduces you to the Uno Platform, which offers a robust set of productivity boosters.",
           "link": "https://smashingmagazine.com/2023/11/design-to-code-handoff-process-uno-platform-figma/",
           "publishedOn": "2023-11-17T10:00:00.000Z",
-          "wordCount": 7564,
+          "wordCount": 7565,
           "title": "An Efficient Design-to-Code Handoff Process Using Uno Platform For Figma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-to-code-handoff-process-uno-platform-figma/design-to-code-handoff-process-uno-platform-figma.jpg",
@@ -53,7 +68,7 @@
           "description": "Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.",
           "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
           "publishedOn": "2023-11-15T10:00:00.000Z",
-          "wordCount": 4611,
+          "wordCount": 4614,
           "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
@@ -68,7 +83,7 @@
           "description": "Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.",
           "link": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
           "publishedOn": "2023-11-13T13:00:00.000Z",
-          "wordCount": 5127,
+          "wordCount": 5140,
           "title": "Designing Web Design Documentation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-web-design-documentation/designing-web-design-documentation.jpg",
@@ -83,7 +98,7 @@
           "description": "Animation and accessibility are often seen as two separate powers at odds with one another. How is it possible to strike a balance between elements that move and the possible negative effects they expose to users who are sensitive to motion? Oriana García explains how her team at Mercado Libre tackled the challenge by creating guiding principles for applying animation to user interfaces and incorporating them into the team’s design system.",
           "link": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
           "publishedOn": "2023-11-10T10:00:00.000Z",
-          "wordCount": 5168,
+          "wordCount": 5171,
           "title": "Creating Accessible UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg",
@@ -98,7 +113,7 @@
           "description": "WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.",
           "link": "https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
           "publishedOn": "2023-11-09T12:00:00.000Z",
-          "wordCount": 7628,
+          "wordCount": 7640,
           "title": "WordPress Playground: From 5-Minute Install To Instant Spin-Up",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wordpress-playground-5-minute-install-instant-spin-up/wordpress-playground-5-minute-install-instant-spin-up.jpg",
@@ -113,7 +128,7 @@
           "description": "The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.",
           "link": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
           "publishedOn": "2023-11-07T18:00:00.000Z",
-          "wordCount": 4863,
+          "wordCount": 4973,
           "title": "Addressing Accessibility Concerns With Using Fluid Type",
           "enclosure": {
             "url": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg",
@@ -128,7 +143,7 @@
           "description": "Icons are capable of enhancing the content that surrounds them, but they have to be self-explanatory for that to happen. We have icons for things we like (a thumbs up), things we can share (a box topped with an up arrow), and even for protection against malicious online attacks (a shield), but what are the options we have for representing “privacy”?",
           "link": "https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/",
           "publishedOn": "2023-11-02T15:00:00.000Z",
-          "wordCount": 5567,
+          "wordCount": 5464,
           "title": "In Search Of The Ideal Privacy Icon",
           "enclosure": {
             "url": "http://files.smashing.media/articles/search-ideal-privacy-icon/search-ideal-privacy-icon.jpg",
@@ -158,7 +173,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make this November colorful!",
           "link": "https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/",
           "publishedOn": "2023-10-31T09:45:00.000Z",
-          "wordCount": 5105,
+          "wordCount": 4998,
           "title": "Tales Of November (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2023/nov-23-transition-preview-opt.png",
@@ -173,7 +188,7 @@
           "description": "Passkeys are beginning to make their way into popular apps, from password managers to multi-factor authenticators, but what exactly are they? As this new technology promises to make passwords a thing of the past, Neal Fennimore explains the concepts behind passkeys, demonstrates how they work, and speculates what we might expect from them in the future.",
           "link": "https://smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/",
           "publishedOn": "2023-10-30T10:00:00.000Z",
-          "wordCount": 6373,
+          "wordCount": 6383,
           "title": "Passkeys: A No-Frills Explainer On The Future Of Password-Less Authentication",
           "enclosure": {
             "url": "http://files.smashing.media/articles/passkeys-explainer-future-password-less-authentication/passkeys-explainer-future-password-less-authentication.jpg",
@@ -188,7 +203,7 @@
           "description": "Victoria Johnson began a career in front-end development upon graduating from college. Now, roughly one year later, she reflects back on the decisions she made to crack into the field and find her first full-time job. This is her story, and she’s sharing it to provide those who are just starting out with another beginner’s perspective.",
           "link": "https://smashingmagazine.com/2023/10/beginner-web-development-working-career/",
           "publishedOn": "2023-10-27T15:00:00.000Z",
-          "wordCount": 4948,
+          "wordCount": 4850,
           "title": "What I Wish I Knew About Working In Development Right Out Of School",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beginner-web-development-working-career/beginner-web-development-working-career.jpg",
@@ -203,7 +218,7 @@
           "description": "Inuit (short for “**In**terface **U**sability **I**nstrumen**t**”) is a new questionnaire you can use to assess the usability of your user interface. It has been designed to be more diagnostic than existing usability instruments like, e.g., SUS and for use with machine learning, all the while asking fewer questions than other questionnaires. This article explores how and why Inuit has been developed and why we can be sure that it actually measures usability, and reliably so.",
           "link": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
           "publishedOn": "2023-10-26T10:00:00.000Z",
-          "wordCount": 5923,
+          "wordCount": 5931,
           "title": "An Actionable And Reliable Usability Questionnaire With Only 7 Items: <span style=\"font-variant: small-caps\">Inuit</span>",
           "enclosure": {
             "url": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg",
@@ -226,21 +241,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.",
-          "link": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
-          "publishedOn": "2023-10-23T13:00:00.000Z",
-          "wordCount": 5428,
-          "title": "What Removing Object Properties Tells Us About JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg"
         }
       ]
     },
@@ -249,6 +249,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
+          "author": "Vahe Aslanyan",
+          "description": "If you're regularly confronted by the complexity of modern data, you’re not alone. In our data-centric world, understanding data structures isn’t optional — it’s essential.  Whether you’re a novice coder or an experienced developer, this handbook is your concise guide to the critical skill of data management through data structures. Data",
+          "link": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
+          "publishedOn": "2023-11-22T20:44:53.000Z",
+          "wordCount": 15753,
+          "title": "Data Structures Handbook – The Key to Scalable Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/The-Data-Structures-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
+          "author": "Beau Carnes",
+          "description": "Scikit-learn is an open-source machine learning library for Python, known for its simplicity, versatility, and accessibility. The library is well-documented and supported by a large community, making it a popular choice for both beginners and experienced practitioners in the field of machine learning. We just published an 18-hour course on",
+          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
+          "publishedOn": "2023-11-22T16:14:14.000Z",
+          "wordCount": 969,
+          "title": "Machine Learning with Python and Scikit-Learn",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/machinelearning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-language-for-encryption-projects/",
+          "author": "Beau Carnes",
+          "description": "Go, or Golang, is a powerful programming language known for its simplicity, efficiency, and strong support for concurrent programming. It's a favorite among developers for building scalable web applications, cloud services, and more. We just released a Go course on the freeCodeCamp.org YouTube channel that walks you through building three",
+          "link": "https://www.freecodecamp.org/news/go-language-for-encryption-projects/",
+          "publishedOn": "2023-11-22T04:21:48.000Z",
+          "wordCount": 909,
+          "title": "Go Language for Encryption – Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/go2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/",
+          "author": "Beau Carnes",
+          "description": "LangChain is an AI-first framework designed to enable developers to create context-aware reasoning applications by linking powerful Large Language Models with external data sources. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about LangChain. The course will equip you with the cutting-edge skills",
+          "link": "https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/",
+          "publishedOn": "2023-11-22T04:10:10.000Z",
+          "wordCount": 933,
+          "title": "Learn LangChain to link LLMs with external data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/langchain4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/",
+          "author": "TAPAS ADHIKARY",
+          "description": "What does the word career mean to you? To me, it is a roller coaster journey during which we find opportunities, progress, and growth in life. The journey involves learning objectives, work, and other personal and professional aspects. A promising career is one where you enjoy most (if not all)",
+          "link": "https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/",
+          "publishedOn": "2023-11-22T00:04:22.000Z",
+          "wordCount": 4650,
+          "title": "Career Mistakes to Avoid as a Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Career-Mistakes-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-projects-as-a-junior-developer/",
+          "author": "Spruce Emmanuel",
+          "description": "Several months ago, I stumbled upon a coding challenge that intrigued me. Here's what it was: > Fun frontend question I was asked in an interview one time Build six squares with no color Every time you click one, it turns green When the last square turns green, they all",
+          "link": "https://www.freecodecamp.org/news/how-to-build-projects-as-a-junior-developer/",
+          "publishedOn": "2023-11-21T21:25:28.000Z",
+          "wordCount": 2292,
+          "title": "How to Build Successful Projects as a Junior Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/scott-graham-5fNmWej4tAA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/",
+          "author": "Jessica Wilkins",
+          "description": "With the current state of the job market, there are a lot of people grinding out  LeetCode [https://leetcode.com/] as a way to prepare for technical interviews.  But sometimes it would be nice if there were a visualization showing the algorithms behind these problems.  In this tutorial, we",
+          "link": "https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/",
+          "publishedOn": "2023-11-21T21:08:22.000Z",
+          "wordCount": 5377,
+          "title": "How to Build a Visualization for Leetcode's Two Sum Problem – HTML, CSS, & JavaScript Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/",
           "author": "Justice Nwogu",
@@ -278,76 +348,6 @@
           "wordCount": 1379,
           "title": "How to Build and Deploy a python-telegram-bot v20 Webhook",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/iPhone-8---1--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/",
-          "author": "Quincy Larson",
-          "description": "Today I'm joined by Dr. Curran Kelleher. He's a data visualization expert and has taught a number of in-depth data visualization courses on freeCodeCamp's YouTube channel. We talk about what it's like to get a Ph.D. under one of the pioneers of data visualization. We also talk about how he",
-          "link": "https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/",
-          "publishedOn": "2023-11-17T21:09:40.000Z",
-          "wordCount": 799,
-          "title": "Podcast: Data Visualization with Dr. Curran Kelleher",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/quincy_and_curran_jpeg-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
-          "author": "Hunor Márton Borbély",
-          "description": "In this tutorial, you'll learn how to create a game that's inspired by Stick Hero – using plain JavaScript and HTML canvas. We are going to recreate Stick Hero [https://apps.apple.com/us/app/stick-hero/id918338898], a mobile game published by KetchApp. We'll go through how the game works in general, how to use JavaScript to",
-          "link": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
-          "publishedOn": "2023-11-16T19:00:55.000Z",
-          "wordCount": 6781,
-          "title": "JavaScript Game Tutorial – Build a Stick Hero Clone with HTML Canvas + JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/_Users_hunormartonborbely_Documents_Courses_Youtube_Sticky-20Hero_index.html-High-Res-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/localize-django-app/",
-          "author": "Jess Wilk",
-          "description": "Have you ever wondered how websites can offer their content in multiple languages, perfectly tailored to different cultures and regions?  Well, that magic is called localization, and it's a game-changer for web development – especially when using Django, a super versatile Python framework.  It's not just about translating",
-          "link": "https://www.freecodecamp.org/news/localize-django-app/",
-          "publishedOn": "2023-11-16T18:07:43.000Z",
-          "wordCount": 3281,
-          "title": "How to Localize Your Django App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/hypermkt_mockup_of_a_phone_with_an_visualization_of_a_localizat_0fc2f372-dc38-473f-a203-31d62a6d518c-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/chatgpt-vs-bard/",
-          "author": "Maybell Obadoni",
-          "description": "In November of 2022, Artificial Intelligence took center stage in the tech world. AI was not a new concept, but OpenAI had just released its ChatGPT Large Language Model, and devs started diving into using it.  Large Language Models, or LLMs, let users enter a prompt (some question or",
-          "link": "https://www.freecodecamp.org/news/chatgpt-vs-bard/",
-          "publishedOn": "2023-11-16T17:19:15.000Z",
-          "wordCount": 2479,
-          "title": "ChatGPT vs BARD AI – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/gpt.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-suspense/",
-          "author": "Okosa Leonard Onyekachukwu",
-          "description": "React's ecosystem is always growing, and it seems like there are always new features and enhancements to make development more effective and user-friendly.  React Suspense is one such feature that has become quite popular among React devs. In this guide, you'll learn all about React Suspense and examine its",
-          "link": "https://www.freecodecamp.org/news/react-suspense/",
-          "publishedOn": "2023-11-16T17:04:50.000Z",
-          "wordCount": 2787,
-          "title": "How to Use React Suspense to Improve your React Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/pexels-pixabay-289323.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-technical-interviews/",
-          "author": "Beau Carnes",
-          "description": "You need to prepare if you want to perform well in technical developer job interviews. We just published a course on the freeCodeCamp.org YouTube channel that will guide you through every aspect of the technical interview process, as well as prepare you for the type of questions you might get",
-          "link": "https://www.freecodecamp.org/news/master-technical-interviews/",
-          "publishedOn": "2023-11-16T15:30:08.000Z",
-          "wordCount": 888,
-          "title": "Master Technical Interviews",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/technicalinterviews.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-typescript-with-react/",
-          "author": "Yogesh Chavan",
-          "description": "In this article, you will learn how to use TypeScript with React. By the end, you will have a solid understanding of how to write React code with TypeScript. Want to watch the video version of this tutorial? You can check out the video below: Table of Contents  *",
-          "link": "https://www.freecodecamp.org/news/use-typescript-with-react/",
-          "publishedOn": "2023-11-15T18:53:19.000Z",
-          "wordCount": 4663,
-          "title": "How to Use TypeScript with React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/article_introdcotion_to_typescript_with_react_cover.png"
         }
       ]
     }
