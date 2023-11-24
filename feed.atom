@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T00:10:09.972Z</id>
+    <id>urn:2023-11-24T00:09:54.247Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T00:10:09.972Z</updated>
+    <updated>2023-11-24T00:09:54.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Full Stack Composability]]></title>
+        <id>https://smashingmagazine.com/2023/11/introduction-full-stack-composability/</id>
+        <link href="https://smashingmagazine.com/2023/11/introduction-full-stack-composability/"/>
+        <updated>2023-11-23T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A well-designed composable system should not only consider the technical aspects but also take into account the nature of the content it handles. To help us with that, we can use a Headless Content Management system such as Storyblok.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOM Manipulation in JavaScript – A Comprehensive Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/dom-manipulation-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/dom-manipulation-in-javascript/"/>
+        <updated>2023-11-23T08:16:19.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript, the language of the web, empowers developers to create dynamic and interactive web pages. One of the key features that enables this interactivity is Document Object Model (DOM) manipulation.  DOM manipulation allows developers to interact with and modify the structure, style, and content of web pages. In this]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django Model Fields – Common Use Cases and How They Work]]></title>
+        <id>https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/</id>
+        <link href="https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/"/>
+        <updated>2023-11-23T00:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Django model fields define the structure of a database within a Django web application. Using this essential component will keep your work organized and help you make fewer mistakes in your code. This article will discuss some common Django model fields and how to use them in your code. To]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code]]></title>
+        <id>https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/</id>
+        <link href="https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/"/>
+        <updated>2023-11-22T23:23:20.000Z</updated>
+        <summary type="html"><![CDATA[> Hey {username}, we've merged a PR before yours. Please resolve the merge conflicts so we can review and merge your PR. Have you ever received that kind of message from a maintainer while waiting for your pull request to be reviewed and merged? And then, you're panicking because you]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Data Science Internship]]></title>
+        <id>https://www.freecodecamp.org/news/get-your-first-data-science-internship/</id>
+        <link href="https://www.freecodecamp.org/news/get-your-first-data-science-internship/"/>
+        <updated>2023-11-22T23:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to break into Data Science in 2024? Then you should consider trying to get your first Data Science internship.  Internships can help you gain invaluable experience and set you up for success in the ever-evolving field of Data Science. But with fierce competition, limited opportunities, unclear]]></summary>
+        <author>
+            <name>Tatev Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Structures Handbook – The Key to Scalable Software]]></title>
         <id>https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/</id>
@@ -76,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Visualization for Leetcode's Two Sum Problem – HTML, CSS, & JavaScript Project]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/"/>
-        <updated>2023-11-21T21:08:22.000Z</updated>
-        <summary type="html"><![CDATA[With the current state of the job market, there are a lot of people grinding out  LeetCode [https://leetcode.com/] as a way to prepare for technical interviews.  But sometimes it would be nice if there were a visualization showing the algorithms behind these problems.  In this tutorial, we]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Secure User Authentication Flow in Flutter with Firebase and Bloc State Management]]></title>
-        <id>https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/</id>
-        <link href="https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/"/>
-        <updated>2023-11-21T15:21:20.000Z</updated>
-        <summary type="html"><![CDATA[User authentication is critical to mobile app development. It helps make sure that only authorized users can access sensitive information and perform actions within an application. In this tutorial, we will explore how to build secure user authentication in Flutter using Firebase for authentication and the Bloc state management pattern]]></summary>
-        <author>
-            <name>Justice Nwogu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating And Maintaining A Voice Of Customer Program]]></title>
         <id>https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/</id>
         <link href="https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/"/>
@@ -103,26 +133,6 @@
         <summary type="html"><![CDATA[Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco &amp; Dana Daniels)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use If Statements in JavaScript – a Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/if-statements-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/if-statements-javascript/"/>
-        <updated>2023-11-20T21:45:44.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a powerful and versatile programming language that is widely used for creating dynamic and interactive web pages.  One of the fundamental building blocks of JavaScript programming is the if  statement. if statements allow developers to control the flow of their programs by making decisions based on]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a python-telegram-bot v20 Webhook]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/"/>
-        <updated>2023-11-20T20:43:21.000Z</updated>
-        <summary type="html"><![CDATA[The python-telegram-bot v20 release introduced major structural changes. According to the documentation, > “All networking and I/O-related logic now works via coroutine functions (i.e.  async def ... functions). In particular, all methods of the telegram.Bot class that make requests to the Bot API are now coroutine functions and need]]></summary>
-        <author>
-            <name>Chua Hui Shun</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[Inuit (short for “**In**terface **U**sability **I**nstrumen**t**”) is a new questionnaire you can use to assess the usability of your user interface. It has been designed to be more diagnostic than existing usability instruments like, e.g., SUS and for use with machine learning, all the while asking fewer questions than other questionnaires. This article explores how and why Inuit has been developed and why we can be sure that it actually measures usability, and reliably so.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Maximilian Speicher &amp; Johanna Jagow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fight For The Main Thread]]></title>
-        <id>https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/</id>
-        <link href="https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/"/>
-        <updated>2023-10-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
