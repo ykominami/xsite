@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-26T00:10:51.065Z</id>
+    <id>urn:2023-11-27T00:10:33.100Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T00:10:51.065Z</updated>
+    <updated>2023-11-27T00:10:33.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/"/>
         <updated>2023-11-24T21:17:27.000Z</updated>
         <summary type="html"><![CDATA[On this week's episode of the freeCodeCamp Podcast, I interview hardware engineer and tech founder from Austria. We talk about growing up in the European countryside, his early passion for computers, and ultimately his move to San Francisco, where he's founded several tech companies. Bruno's super excited about embedded systems]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Programming Language Should I Learn First in 2024? [Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/</id>
+        <link href="https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/"/>
+        <updated>2023-11-24T08:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Most people’s journey toward learning to program starts with a single late-night Google search. Usually it’s something like “Learn ______” But how do they decide which language to search for? > “They always joke about Java on Silicon Valley. I guess I should learn that.” Or: > “Haskell. So hot]]></summary>
         <author>
             <name>Quincy Larson</name>
         </author>
@@ -126,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn LangChain to link LLMs with external data]]></title>
-        <id>https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/</id>
-        <link href="https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/"/>
-        <updated>2023-11-22T04:10:10.000Z</updated>
-        <summary type="html"><![CDATA[LangChain is an AI-first framework designed to enable developers to create context-aware reasoning applications by linking powerful Large Language Models with external data sources. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about LangChain. The course will equip you with the cutting-edge skills]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating And Maintaining A Voice Of Customer Program]]></title>
         <id>https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/</id>
         <link href="https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/"/>
@@ -243,16 +243,6 @@
         <summary type="html"><![CDATA[Passkeys are beginning to make their way into popular apps, from password managers to multi-factor authenticators, but what exactly are they? As this new technology promises to make passwords a thing of the past, Neal Fennimore explains the concepts behind passkeys, demonstrates how they work, and speculates what we might expect from them in the future.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Neal Fennimore)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Wish I Knew About Working In Development Right Out Of School]]></title>
-        <id>https://smashingmagazine.com/2023/10/beginner-web-development-working-career/</id>
-        <link href="https://smashingmagazine.com/2023/10/beginner-web-development-working-career/"/>
-        <updated>2023-10-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Victoria Johnson began a career in front-end development upon graduating from college. Now, roughly one year later, she reflects back on the decisions she made to crack into the field and find her first full-time job. This is her story, and she’s sharing it to provide those who are just starting out with another beginner’s perspective.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victoria Johnson)</name>
         </author>
     </entry>
 </feed>
