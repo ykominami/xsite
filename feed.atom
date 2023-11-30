@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-29T00:10:20.070Z</id>
+    <id>urn:2023-11-30T00:51:04.317Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T00:10:20.070Z</updated>
+    <updated>2023-11-30T00:51:04.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use JavaScript's Array reduce() Method – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/"/>
+        <updated>2023-11-29T18:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Hello again, friends! The reduce() method is one of the most confusing Array methods in JavaScript. So in this article, I’m going to help you clearly see how the method works.  I'm also going to show some examples that'll help you understand how and where you may want to]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in JavaScript in 2023 – Changes with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/</id>
+        <link href="https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/"/>
+        <updated>2023-11-29T18:09:51.000Z</updated>
+        <summary type="html"><![CDATA[ECMAScript 2023, the 14th edition of the language, has some great changes that will make your programming life easier.  In this article, I'll go through each of the changes and explain why they're helpful. So let’s dive in and see some new methods we got as an early Christmas]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Promises Work – Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-promise-object-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-promise-object-explained/"/>
+        <updated>2023-11-29T15:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article, I’m going to teach you one of the most confusing JavaScript topics, which is the Promise object. Promises may seem difficult at first, but they're actually quite simple once you understand how they work. Here's what we'll cover:  1. How a Promise Works]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Movie Recommendation System Based on Collaborative Filtering]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/"/>
+        <updated>2023-11-29T15:45:18.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world of technology, we get more recommendations from Artificial Intelligence models than from our friends.  Surprised? Think of the content you see and the apps you use daily. We get product recommendations on Amazon, clothing recommendations on Myntra, and movie suggestions on Netflix based on our past]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practice HTML, CSS, and JavaScript in Spanish by Building 7 Projects]]></title>
+        <id>https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/</id>
+        <link href="https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/"/>
+        <updated>2023-11-29T15:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Creating projects is very important for expanding your web development portfolio. Transforming an idea into a real project can help you to practice and understand key concepts and techniques. We just published a 3-hour course in Spanish on freeCodeCamp's Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to build]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is base64 Encoding and Why is it Necessary?]]></title>
         <id>https://www.freecodecamp.org/news/what-is-base64-encoding/</id>
@@ -63,56 +113,6 @@
         <summary type="html"><![CDATA[Feature engineering is an essential step in the data preprocessing process, especially when dealing with tabular data.  It involves creating new features (columns), transforming existing ones, and selecting the most relevant attributes to improve the performance and accuracy of machine learning models.  Feature engineering helps the model understand]]></summary>
         <author>
             <name>Oluwafunmilola Obisesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch Data from an API Using the Fetch API in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-fetch-data-from-an-api-using-the-fetch-api-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fetch-data-from-an-api-using-the-fetch-api-in-javascript/"/>
-        <updated>2023-11-27T21:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Interacting with external APIs, or Application Programming Interfaces, has become an essential skill in web development.  APIs allow different software applications to communicate with each other, enabling developers to access and retrieve data from various sources.  One popular way to perform API requests in JavaScript is by using]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Scroll Animations with React, Tailwind CSS, and Framer Motion]]></title>
-        <id>https://www.freecodecamp.org/news/create-scroll-animations-with-framer-motion-and-react/</id>
-        <link href="https://www.freecodecamp.org/news/create-scroll-animations-with-framer-motion-and-react/"/>
-        <updated>2023-11-27T18:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Scroll-based animations are triggered when a user scrolls on a webpage. Recently, I built a Scroll Animation with Framer Motion [https://www.aceternity.com/components/container-scroll-animation] that moves grids in uneven directions. This project prompted me to write a tutorial about how I did that here on freeCodeCamp. The Framer Motion library makes it super]]></summary>
-        <author>
-            <name>Manu Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free 107-Hour AWS Cloud Project Bootcamp]]></title>
-        <id>https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/</id>
-        <link href="https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/"/>
-        <updated>2023-11-27T18:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The AWS Cloud Project Bootcamp is a free comprehensive training program to equip you with the skills and knowledge to successfully design, build, and implement a cloud project. We just published the entire 107-hour bootcamp on the freeCodeCamp.org YouTube channel. Andrew Brown from ExamPro developed this course. The AWS Cloud]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Hardware Engineering with Bruno Haid]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/"/>
-        <updated>2023-11-24T21:17:27.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the freeCodeCamp Podcast, I interview hardware engineer and tech founder from Austria. We talk about growing up in the European countryside, his early passion for computers, and ultimately his move to San Francisco, where he's founded several tech companies. Bruno's super excited about embedded systems]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Programming Language Should I Learn First in 2024? [Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/</id>
-        <link href="https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/"/>
-        <updated>2023-11-24T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Most people’s journey toward learning to program starts with a single late-night Google search. Usually it’s something like “Learn ______” But how do they decide which language to search for? > “They always joke about Java on Silicon Valley. I guess I should learn that.” Or: > “Haskell. So hot]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +233,6 @@
         <summary type="html"><![CDATA[Take a closer look at how various performance tools audit and report on performance metrics, such as core web vitals. Geoff Graham answers a set of common questions that pop up during performance audits.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tales Of November (2023 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/</id>
-        <link href="https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/"/>
-        <updated>2023-10-31T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make this November colorful!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
