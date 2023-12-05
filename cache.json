@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.",
+          "link": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
+          "publishedOn": "2023-12-04T14:00:00.000Z",
+          "wordCount": 6530,
+          "title": "How Marketing Changed OOP In JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/marketing-changed-oop-javascript/marketing-changed-oop-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/marketing-changed-oop-javascript/marketing-changed-oop-javascript.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/",
           "author": "hello@smashingmagazine.com (Oluwasanmi Akande)",
           "description": "Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.",
           "link": "https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/",
           "publishedOn": "2023-12-01T10:00:00.000Z",
-          "wordCount": 5635,
+          "wordCount": 5739,
           "title": "Recovering Deleted Files From Your Git Working Tree",
           "enclosure": {
             "url": "http://files.smashing.media/articles/recovering-deleted-files-git-working-tree/recovering-deleted-files-git-working-tree.jpg",
@@ -38,7 +53,7 @@
           "description": "Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.",
           "link": "https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/",
           "publishedOn": "2023-11-30T09:30:00.000Z",
-          "wordCount": 5089,
+          "wordCount": 4983,
           "title": "Cold Days, Shining Lights (December 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-dec-2023/dec-23-sweet-ride-into-the-holidays-preview-opt.png",
@@ -53,7 +68,7 @@
           "description": "In this article, Sasha guides you through crucial processes and factors to achieve a consistent brand presence across platforms. She offers an overview of the entire brand identity process, explores collaboration with UI teams, and provides essential details on the assets required for the successful implementation of a digital brand.",
           "link": "https://smashingmagazine.com/2023/11/crafting-killer-brand-identity-digital-product/",
           "publishedOn": "2023-11-28T10:00:00.000Z",
-          "wordCount": 6570,
+          "wordCount": 6575,
           "title": "Crafting A Killer Brand Identity For A Digital Product",
           "enclosure": {
             "url": "http://files.smashing.media/articles/crafting-killer-brand-identity-digital-product/craft-killer-brand-identity-digital-product.jpg",
@@ -68,7 +83,7 @@
           "description": "We’re living in somewhat of a CSS renaissance with new features, techniques, experiments, and ideas coming at us to an extent we haven’t seen since “CSS3”. It’s easy to feel overwhelmed when your profession seems to be advancing at breakneck speed, but Geoff Graham considers the ways “modern” CSS in 2023 has actually made CSS “easier” to write.",
           "link": "https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/",
           "publishedOn": "2023-11-24T08:00:00.000Z",
-          "wordCount": 5644,
+          "wordCount": 5641,
           "title": "A Few Ways CSS Is Easier To Write In 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/few-ways-css-easier-write-2023/few-ways-css-easier-write-2023.jpg",
@@ -98,7 +113,7 @@
           "description": "In Part 1 of the series, Temani Afif demonstrated how creating ribbon patterns in CSS has evolved with the availability of new CSS features. In this second installment of this brief two-part series, we look at two additional ribbon variations that introduce techniques for masking a repeated background gradient in CSS.",
           "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/",
           "publishedOn": "2023-11-22T10:00:00.000Z",
-          "wordCount": 5205,
+          "wordCount": 5206,
           "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
@@ -113,7 +128,7 @@
           "description": "Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.",
           "link": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
           "publishedOn": "2023-11-21T12:00:00.000Z",
-          "wordCount": 7487,
+          "wordCount": 7596,
           "title": "Creating And Maintaining A Voice Of Customer Program",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg",
@@ -143,7 +158,7 @@
           "description": "Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.",
           "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
           "publishedOn": "2023-11-15T10:00:00.000Z",
-          "wordCount": 4616,
+          "wordCount": 4614,
           "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
@@ -158,7 +173,7 @@
           "description": "Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.",
           "link": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
           "publishedOn": "2023-11-13T13:00:00.000Z",
-          "wordCount": 5245,
+          "wordCount": 5135,
           "title": "Designing Web Design Documentation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-web-design-documentation/designing-web-design-documentation.jpg",
@@ -173,7 +188,7 @@
           "description": "Animation and accessibility are often seen as two separate powers at odds with one another. How is it possible to strike a balance between elements that move and the possible negative effects they expose to users who are sensitive to motion? Oriana García explains how her team at Mercado Libre tackled the challenge by creating guiding principles for applying animation to user interfaces and incorporating them into the team’s design system.",
           "link": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
           "publishedOn": "2023-11-10T10:00:00.000Z",
-          "wordCount": 5165,
+          "wordCount": 5171,
           "title": "Creating Accessible UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg",
@@ -188,7 +203,7 @@
           "description": "WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.",
           "link": "https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
           "publishedOn": "2023-11-09T12:00:00.000Z",
-          "wordCount": 7744,
+          "wordCount": 7635,
           "title": "WordPress Playground: From 5-Minute Install To Instant Spin-Up",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wordpress-playground-5-minute-install-instant-spin-up/wordpress-playground-5-minute-install-instant-spin-up.jpg",
@@ -203,7 +218,7 @@
           "description": "The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.",
           "link": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
           "publishedOn": "2023-11-07T18:00:00.000Z",
-          "wordCount": 4857,
+          "wordCount": 4872,
           "title": "Addressing Accessibility Concerns With Using Fluid Type",
           "enclosure": {
             "url": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg",
@@ -220,6 +235,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
+          "author": "Jayant Chowdhary",
+          "description": "Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock",
+          "link": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
+          "publishedOn": "2023-12-04T23:38:45.000Z",
+          "wordCount": 2034,
+          "title": "Keeping Time in C++: How to use the std::chrono API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/ClangCover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
+          "author": "Joan Ayebola",
+          "description": "React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore",
+          "link": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
+          "publishedOn": "2023-12-04T18:38:16.000Z",
+          "wordCount": 1847,
+          "title": "How to Use React Hooks – useEffect, useState, and useContext Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Orange-and-Yellow-Retro-Flower-Power-Daily-Class-Agenda-Template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
+          "author": "Beau Carnes",
+          "description": "MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data",
+          "link": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
+          "publishedOn": "2023-12-04T17:50:08.000Z",
+          "wordCount": 1029,
+          "title": "MLOps Course – Learn to Build Machine Learning Production Grade Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mlops2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "author": "Hunor Márton Borbély",
+          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without",
+          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "publishedOn": "2023-12-04T12:29:00.000Z",
+          "wordCount": 4207,
+          "title": "SVG Tutorial – How to Code Images with 12 Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/10/Learn-SVG.001.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/",
           "author": "Ayu Adiati",
           "description": "A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.",
@@ -228,16 +283,6 @@
           "wordCount": 2381,
           "title": "How to Add a Table of Contents to Your Article on Ghost",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-Add-a-Table-of-Contents-to-Your-Article-on-Ghost-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
-          "author": "Hunor Márton Borbély",
-          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without",
-          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
-          "publishedOn": "2023-12-01T19:13:00.000Z",
-          "wordCount": 4028,
-          "title": "SVG Tutorial – How to Code Images with 7 Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/10/Learn-SVG.001.jpeg"
         },
         {
           "id": "https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/",
@@ -288,36 +333,6 @@
           "wordCount": 957,
           "title": "API Documentation Best Practices Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/apidocs.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/logic-in-javascript/",
-          "author": "Joan Ayebola",
-          "description": "JavaScript is a versatile programming language that empowers developers to create dynamic and interactive web pages.  One of the foundational elements of JavaScript programming is the application of logical operations to make decisions and control program flow.  In this guide, we'll delve into the basics of logical operations",
-          "link": "https://www.freecodecamp.org/news/logic-in-javascript/",
-          "publishedOn": "2023-11-29T21:50:16.000Z",
-          "wordCount": 3067,
-          "title": "How to Use Logic in JavaScript – Operators, Conditions, Truthy/Falsy, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Beige-aesthetic-thesis-defense-presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/advanced-music-production-fl-studio/",
-          "author": "Beau Carnes",
-          "description": "With the right tools and training, anyone can become a music producer. We just release a course on the freeCodeCamp.org YouTube channel that will teach you advanced music production skills using FL Studio. Tristan Willcox developed this course. Tristan is a professional music producer with over 10,000 hours in music",
-          "link": "https://www.freecodecamp.org/news/advanced-music-production-fl-studio/",
-          "publishedOn": "2023-11-29T21:30:51.000Z",
-          "wordCount": 879,
-          "title": "Advanced Music Production with FL Studio – Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/flstudio.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/",
-          "author": "David Clinton",
-          "description": "Is a public cloud like AWS or Microsoft's Azure the right place to host every  deployment workload at every stage of its life? To be honest, I once thought that that was true – at least 95% of the time. But things have changed. Even though new services are",
-          "link": "https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/",
-          "publishedOn": "2023-11-29T21:24:11.000Z",
-          "wordCount": 1651,
-          "title": "Why You Might Want to Move Your Workloads Out of the Cloud",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/pexels-pixabay-52531.jpg"
         }
       ]
     }

@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-04T00:51:44.395Z</id>
+    <id>urn:2023-12-05T00:51:55.545Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T00:51:44.395Z</updated>
+    <updated>2023-12-05T00:51:55.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Keeping Time in C++: How to use the std::chrono API]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-std-chrono-api/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-std-chrono-api/"/>
+        <updated>2023-12-04T23:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Hooks – useEffect, useState, and useContext Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/</id>
+        <link href="https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/"/>
+        <updated>2023-12-04T18:38:16.000Z</updated>
+        <summary type="html"><![CDATA[React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLOps Course – Learn to Build Machine Learning Production Grade Projects]]></title>
+        <id>https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/</id>
+        <link href="https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/"/>
+        <updated>2023-12-04T17:50:08.000Z</updated>
+        <summary type="html"><![CDATA[MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Marketing Changed OOP In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/</id>
+        <link href="https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/"/>
+        <updated>2023-12-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 12 Examples]]></title>
+        <id>https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/</id>
+        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
+        <updated>2023-12-04T12:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add a Table of Contents to Your Article on Ghost]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/</id>
@@ -13,16 +63,6 @@
         <summary type="html"><![CDATA[A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.]]></summary>
         <author>
             <name>Ayu Adiati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 7 Examples]]></title>
-        <id>https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/</id>
-        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
-        <updated>2023-12-01T19:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
         </author>
     </entry>
     <entry>
@@ -93,36 +133,6 @@
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Logic in JavaScript – Operators, Conditions, Truthy/Falsy, and More]]></title>
-        <id>https://www.freecodecamp.org/news/logic-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/logic-in-javascript/"/>
-        <updated>2023-11-29T21:50:16.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a versatile programming language that empowers developers to create dynamic and interactive web pages.  One of the foundational elements of JavaScript programming is the application of logical operations to make decisions and control program flow.  In this guide, we'll delve into the basics of logical operations]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Music Production with FL Studio – Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/advanced-music-production-fl-studio/</id>
-        <link href="https://www.freecodecamp.org/news/advanced-music-production-fl-studio/"/>
-        <updated>2023-11-29T21:30:51.000Z</updated>
-        <summary type="html"><![CDATA[With the right tools and training, anyone can become a music producer. We just release a course on the freeCodeCamp.org YouTube channel that will teach you advanced music production skills using FL Studio. Tristan Willcox developed this course. Tristan is a professional music producer with over 10,000 hours in music]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Might Want to Move Your Workloads Out of the Cloud]]></title>
-        <id>https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/</id>
-        <link href="https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/"/>
-        <updated>2023-11-29T21:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Is a public cloud like AWS or Microsoft's Azure the right place to host every  deployment workload at every stage of its life? To be honest, I once thought that that was true – at least 95% of the time. But things have changed. Even though new services are]]></summary>
-        <author>
-            <name>David Clinton</name>
         </author>
     </entry>
     <entry>
