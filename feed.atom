@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T00:51:51.428Z</id>
+    <id>urn:2023-12-07T00:51:14.623Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T00:51:51.428Z</updated>
+    <updated>2023-12-07T00:51:14.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Launch Your Coding Career and Land Your First Software Engineering Internship]]></title>
+        <id>https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/</id>
+        <link href="https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/"/>
+        <updated>2023-12-06T18:21:06.000Z</updated>
+        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2023/12/five-second-testing-case-study/</id>
+        <link href="https://smashingmagazine.com/2023/12/five-second-testing-case-study/"/>
+        <updated>2023-12-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the SWR Library for Better Data Fetching in React]]></title>
+        <id>https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/"/>
+        <updated>2023-12-05T21:59:00.000Z</updated>
+        <summary type="html"><![CDATA[React is un-opinionated about how you fetch and manage the remote data in your application. You may think of using the useEffect hook for simple fetching operations, but it will not help you with caching, request deduplication, always serving real-time data, and so on. Things will get more complicated when]]></summary>
+        <author>
+            <name>Furkan Emin Can</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Use Cases – What is Python Best For?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-python-best-for/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-python-best-for/"/>
+        <updated>2023-12-05T21:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Developers are often very passionate about their tech stack, and they'll likely recommend it for anything.  It is very common to see devs on social media sharing how you can build anything with JavaScript or how Python is great for data scientists. As a Python fanatic myself, I actually]]></summary>
+        <author>
+            <name>Juan Cruz Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up GitHub OAuth in a Django App for User Authentication]]></title>
+        <id>https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/</id>
+        <link href="https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/"/>
+        <updated>2023-12-05T21:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Maintaining safe and frictionless user authentication is paramount in today's fast-changing web application landscape.  Among the many authentication methods available, GitHub OAuth has emerged as a useful tool for improving user login experience while strengthening security measures.  Django [https://docs.djangoproject.com/en/4.2/], a Python web framework, has recently gained popularity in]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source as a Community Manager]]></title>
+        <id>https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/</id>
+        <link href="https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/"/>
+        <updated>2023-12-05T21:14:18.000Z</updated>
+        <summary type="html"><![CDATA[The proverb "it takes a village" applies to more than child-rearing. It also takes a village to maintain an open source project.  Community is a large part of open source. After all, Open Source projects can't thrive without a strong network of people (community) who contribute towards it, either]]></summary>
+        <author>
+            <name>Amarachi Johnson-Ubah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course]]></title>
         <id>https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/</id>
@@ -66,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add a Table of Contents to Your Article on Ghost]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/"/>
-        <updated>2023-12-01T19:47:28.000Z</updated>
-        <summary type="html"><![CDATA[A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.]]></summary>
-        <author>
-            <name>Ayu Adiati</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Recovering Deleted Files From Your Git Working Tree]]></title>
         <id>https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/</id>
         <link href="https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/"/>
@@ -83,46 +133,6 @@
         <summary type="html"><![CDATA[Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Oluwasanmi Akande)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JavaScript Arrow Functions – Explained in Detail]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/"/>
-        <updated>2023-11-30T19:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! In this article, I’m going to explain one of the most useful features in JavaScript: the arrow function. I’ll compare the arrow function with the regular function syntax, I'll show you how to convert a regular function into an arrow function easily, and I'll discuss why the arrow]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create HTML Accordion Elements With and Without JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/"/>
-        <updated>2023-11-30T19:10:31.000Z</updated>
-        <summary type="html"><![CDATA[Accordion elements are very handy for displaying topic titles and expandable details below them when you click the title. In this article, I'll walk you through creating an FAQ section with some expandable accordion elements. I'll show you how to do this without any JavaScript, and then we'll add a]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Clang AST-Based C++ Static Analysis Tool]]></title>
-        <id>https://www.freecodecamp.org/news/clang-ast-based-static-analysis-tools/</id>
-        <link href="https://www.freecodecamp.org/news/clang-ast-based-static-analysis-tools/"/>
-        <updated>2023-11-30T19:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Clang is a set of tools and projects that provides infrastructure for languages in the C family like C, C++, OpenCL, and CUDA. It is a part of the LLVM [https://www.llvm.org/] project. This article will show you how to use Clang's front end libraries to build a simple static analysis]]></summary>
-        <author>
-            <name>Jayant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code and Deploy an Instagram Clone with React and Firebase]]></title>
-        <id>https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/</id>
-        <link href="https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/"/>
-        <updated>2023-11-30T16:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Creating an Instagram clone is a fun project that can help you master important front end development skills. We just published a course on the freeCodeCamp.org YouTube channel that teaches you how to create an Instagram clone using React and Firebase. Burak Orkmez developed this course. This course is perfect]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
