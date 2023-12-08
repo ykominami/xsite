@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T00:51:14.623Z</id>
+    <id>urn:2023-12-08T00:51:37.935Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T00:51:14.623Z</updated>
+    <updated>2023-12-08T00:51:37.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Launch Your Coding Career and Land Your First Software Engineering Internship]]></title>
-        <id>https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/</id>
-        <link href="https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/"/>
+        <title type="html"><![CDATA[Preparing For Interaction To Next Paint, A New Web Core Vital]]></title>
+        <id>https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/</id>
+        <link href="https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/"/>
+        <updated>2023-12-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐍 🕹️ 💻]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/"/>
+        <updated>2023-12-07T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use setTimeout in React Using Hooks]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/"/>
+        <updated>2023-12-06T23:37:13.000Z</updated>
+        <summary type="html"><![CDATA[React has emerged as a powerful and widely used JavaScript library for building user interfaces. Its component-based architecture allows developers to create modular and reusable code, making it easier to manage and maintain complex applications.  One common requirement in web development projects is the ability to delay the execution]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Static Initialization Order Fiasco in C++? [Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/"/>
+        <updated>2023-12-06T23:11:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll be covering a subtle but egregious problem that can occur in C++ programs. This problem is popularly called the 'Static Initialization Order Fiasco'.  I'll first go over what the problem is, then go onto some solutions and explore how they work. Let's get started.]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Software Engineer Internship Handbook – How to Launch Your Coding Career]]></title>
+        <id>https://www.freecodecamp.org/news/software-engineer-internship-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/software-engineer-internship-handbook/"/>
         <updated>2023-12-06T18:21:06.000Z</updated>
-        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully]]></summary>
+        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. Many large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully curated guide, grounded in data and expert consensus, is designed to be your]]></summary>
         <author>
             <name>Vahe Aslanyan</name>
         </author>
@@ -86,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use React Hooks – useEffect, useState, and useContext Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/</id>
-        <link href="https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/"/>
-        <updated>2023-12-04T18:38:16.000Z</updated>
-        <summary type="html"><![CDATA[React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLOps Course – Learn to Build Machine Learning Production Grade Projects]]></title>
-        <id>https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/</id>
-        <link href="https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/"/>
-        <updated>2023-12-04T17:50:08.000Z</updated>
-        <summary type="html"><![CDATA[MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Marketing Changed OOP In JavaScript]]></title>
         <id>https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/</id>
         <link href="https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/"/>
@@ -113,16 +133,6 @@
         <summary type="html"><![CDATA[Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 12 Examples]]></title>
-        <id>https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/</id>
-        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
-        <updated>2023-12-04T12:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing Accessibility Concerns With Using Fluid Type]]></title>
-        <id>https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/</id>
-        <link href="https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/"/>
-        <updated>2023-11-07T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Maxwell Barvian)</name>
         </author>
     </entry>
 </feed>
