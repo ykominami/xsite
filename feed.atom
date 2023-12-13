@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-12T00:51:50.883Z</id>
+    <id>urn:2023-12-13T00:51:33.759Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T00:51:50.883Z</updated>
+    <updated>2023-12-13T00:51:33.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/"/>
+        <updated>2023-12-12T15:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[innerHTML vs innerText vs textContent – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/</id>
+        <link href="https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/"/>
+        <updated>2023-12-11T21:57:38.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, innerHTML, innerText, and textContent are properties of the DOM (Document Object Model). They allow you to read and update the content of HTML elements. But they have different behaviours in terms of the content they include and how they handle HTML markup. By the end of this article,]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Comment Your JavaScript Code]]></title>
+        <id>https://www.freecodecamp.org/news/comment-your-javascript-code/</id>
+        <link href="https://www.freecodecamp.org/news/comment-your-javascript-code/"/>
+        <updated>2023-12-11T21:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Writing comments in JavaScript is crucial for code readability, maintainability, and developer collaboration. Comments serve as notes within the codebase, explaining its functionality and logic, or providing context.  In this article, I will explain the significance of commenting your code, best practices to follow, and examples showcasing effective commenting]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous JavaScript – How to Use Promises in Your JS Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/"/>
+        <updated>2023-12-11T21:52:05.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a versatile programming language that powers the dynamic behavior of websites.  As web applications become more sophisticated, the need to handle asynchronous operations efficiently becomes crucial. Asynchronous JavaScript allows you to execute code without blocking the main thread, ensuring a smoother user experience.  Promises are a]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an API Gateway and Why is it Useful?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-api-gateways/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-api-gateways/"/>
+        <updated>2023-12-11T21:40:25.000Z</updated>
+        <summary type="html"><![CDATA[APIs are often referred to as the front-door for applications to access data and business logic from backend services. As explained here [https://lightcloud.substack.com/p/api-integration-patterns], an API is essentially the interface that a piece of software presents to other humans or programs, allowing them to interact with that software. When creating an]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
@@ -63,56 +113,6 @@
         <summary type="html"><![CDATA[You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn REST APIs by Building a JavaScript Project]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/"/>
-        <updated>2023-12-11T15:18:44.000Z</updated>
-        <summary type="html"><![CDATA[So, you've been learning JavaScript. I bet you're loving it. You've learned the basics and you're starting to get the hang of it. So you might be wondering what to do next.  Well, let me introduce you to REST APIs, a powerful tool that you are going to add]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Control GPT in the OpenAI Playground]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/"/>
-        <updated>2023-12-08T17:15:34.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT is the interface most people use to work with OpenAI's large language model. But for someone who needs the versatility and power of programmatic access, there's no replacement for OpenAI's API.  The API is the interface you can use to connect programming code running on your own PC]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start Learning to Code – Coding for Everyone Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/"/>
-        <updated>2023-12-08T17:07:46.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, I'll address a question you may be asking yourself: should you learn how to code? After explaining why you definitely should, I'll cover some of the benefits and challenges of being a software developer. I'll also discuss some key strategies for approaching learning to code to help]]></summary>
-        <author>
-            <name>Fatos Morina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: The History of Online Courses with Class Central Founder Dhawal Shah]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/"/>
-        <updated>2023-12-08T10:29:06.000Z</updated>
-        <summary type="html"><![CDATA[On this week's podcast, I'm joined by Dhawal Shah, the creator of Class Central, a popular search engine for online courses. Dhawal shares the history of online courses and the Massive Open Online Course revolution of the early 2010s.  We also talk about his childhood growing up in India,]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manipulate the DOM in JavaScript – Most Commonly Used Techniques]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-document-object-model-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-document-object-model-explained/"/>
-        <updated>2023-12-07T22:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article, I’m going to cover everything you need to know about manipulating the DOM. Basically, each Element object in the DOM has properties and methods that you can use to interact with that element. The following are the most common and practical ways you might want]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
         </author>
     </entry>
     <entry>
