@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T00:51:33.759Z</id>
+    <id>urn:2023-12-14T00:10:12.874Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T00:51:33.759Z</updated>
+    <updated>2023-12-14T00:10:12.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Virtual Host Enumeration – How to Uncover Hidden Web Assets]]></title>
+        <id>https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/"/>
+        <updated>2023-12-13T18:48:10.000Z</updated>
+        <summary type="html"><![CDATA[When performing external penetration testing or bug bounty hunting, security experts explore the targeted system from various angles to collect as much information as possible and identify potential attack vectors. This involves identifying all the available assets, domains, and subdomains. During the testing reconnaissance phase, testers spend time on virtual]]></summary>
+        <author>
+            <name>Nairuz Abulhul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Go Tools to Use for Your Frontend Projects]]></title>
+        <id>https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/</id>
+        <link href="https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/"/>
+        <updated>2023-12-13T18:45:10.000Z</updated>
+        <summary type="html"><![CDATA[The Go programming language [https://go.dev/] is renowned for its efficiency in  backend development [https://blog.boot.dev/golang/become-golang-backend-dev/]. But it's pretty easy to extend its capabilities to frontend projects as well. This article explores essential Go tools that empower frontend developers to enhance their workflows, emphasizing simplicity and productivity. Prequisites Before diving into]]></summary>
+        <author>
+            <name>Ekemini Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Google Sheets Concepts – How to Build a Vigenère Cipher]]></title>
+        <id>https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/</id>
+        <link href="https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/"/>
+        <updated>2023-12-13T18:13:22.000Z</updated>
+        <summary type="html"><![CDATA[A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study]]></title>
+        <id>https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/</id>
+        <link href="https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/"/>
+        <updated>2023-12-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
         <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[When we write programs, many operations which are performed at runtime can actually be done at compile time – that is, baked into code.  This improves program performance since operations are no longer being computed on the fly, during runtime.  While these techniques of offloading operations to compile]]></summary>
         <author>
             <name>Jayant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automation with Python – How to Build an Automated Email System for Job Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/"/>
-        <updated>2023-12-11T18:39:33.000Z</updated>
-        <summary type="html"><![CDATA[We all receive promotional emails from companies like Swiggy and Amazon encouraging us to check out their new dish or flash sales.  Have you ever wondered how they manage to send emails to millions of customers? It’s impossible to do it manually! Instead, they use Automated Email Systems to]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Null References in the Latest Version of C#]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/"/>
-        <updated>2023-12-11T18:16:55.000Z</updated>
-        <summary type="html"><![CDATA[C# 12 has just been released, and it continues the long tradition of improvements in the safety of the language's software design and execution. One of these improvements relates to manipulating null references, a programming concept that many developers don't really love. Using null references in your code can cause]]></summary>
-        <author>
-            <name>Zoran Horvat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector Search and RAG Tutorial – Using LLMs with Your Data]]></title>
-        <id>https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/</id>
-        <link href="https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/"/>
-        <updated>2023-12-11T18:12:49.000Z</updated>
-        <summary type="html"><![CDATA[You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Web Design Documentation]]></title>
-        <id>https://smashingmagazine.com/2023/11/designing-web-design-documentation/</id>
-        <link href="https://smashingmagazine.com/2023/11/designing-web-design-documentation/"/>
-        <updated>2023-11-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
