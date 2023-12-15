@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T00:10:12.874Z</id>
+    <id>urn:2023-12-15T00:10:54.374Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T00:10:12.874Z</updated>
+    <updated>2023-12-15T00:10:54.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/</id>
+        <link href="https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/"/>
+        <updated>2023-12-14T17:53:14.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Azure Fundamentals Certification is for technology professionals who want to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure. We just posted a full exam-prep course on the freeCodeCamp.org]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test JavaScript  Code with Jest]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/"/>
+        <updated>2023-12-14T13:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fetch API Data in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/"/>
+        <updated>2023-12-14T10:18:47.000Z</updated>
+        <summary type="html"><![CDATA[When developing applications, you often need to get data from an API. This lets you deliver dynamic and often-updated content within your application. You'll want to retrieve this data as you may need to interact with external services, communicate with a distant server, or access a database. In this article,]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Message Queues for Async Tasks with RabbitMQ in Nest.js Apps]]></title>
+        <id>https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/</id>
+        <link href="https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/"/>
+        <updated>2023-12-14T01:20:25.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing programs, certain services can block or slow down the speed of your application. For example, CPU-intensive tasks like audio transcribing or file processing. So you might wonder – how do you make sure your application runs without breaking? To handle this, you can send tasks to a]]></summary>
+        <author>
+            <name>Okoye Victor Chukwuebuka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors in React Applications]]></title>
+        <id>https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/</id>
+        <link href="https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/"/>
+        <updated>2023-12-13T23:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Error handling is a critical aspect of developing user-friendly React applications. As a developer, you can't always predict or prevent errors, but you can certainly control how they are handled.  In this article, we'll explore practical and effective strategies for handling errors in React applications. We'll cover various types]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Virtual World for Self-Driving Cars with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/"/>
+        <updated>2023-12-13T22:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create a virtual world using HMTL, CSS, and JavaScript. We just published a course on the freeCodeCamp.org Youtube channel that will teach you how to craft a world entirely from the ground up. Dr. Radu Mariescu-Istodor created this course. He is a creative and popular instructor. You]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual Host Enumeration – How to Uncover Hidden Web Assets]]></title>
         <id>https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/</id>
@@ -56,46 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[innerHTML vs innerText vs textContent – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/</id>
-        <link href="https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/"/>
-        <updated>2023-12-11T21:57:38.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, innerHTML, innerText, and textContent are properties of the DOM (Document Object Model). They allow you to read and update the content of HTML elements. But they have different behaviours in terms of the content they include and how they handle HTML markup. By the end of this article,]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Comment Your JavaScript Code]]></title>
-        <id>https://www.freecodecamp.org/news/comment-your-javascript-code/</id>
-        <link href="https://www.freecodecamp.org/news/comment-your-javascript-code/"/>
-        <updated>2023-12-11T21:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Writing comments in JavaScript is crucial for code readability, maintainability, and developer collaboration. Comments serve as notes within the codebase, explaining its functionality and logic, or providing context.  In this article, I will explain the significance of commenting your code, best practices to follow, and examples showcasing effective commenting]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous JavaScript – How to Use Promises in Your JS Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/"/>
-        <updated>2023-12-11T21:52:05.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a versatile programming language that powers the dynamic behavior of websites.  As web applications become more sophisticated, the need to handle asynchronous operations efficiently becomes crucial. Asynchronous JavaScript allows you to execute code without blocking the main thread, ensuring a smoother user experience.  Promises are a]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an API Gateway and Why is it Useful?]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-api-gateways/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-api-gateways/"/>
-        <updated>2023-12-11T21:40:25.000Z</updated>
-        <summary type="html"><![CDATA[APIs are often referred to as the front-door for applications to access data and business logic from backend services. As explained here [https://lightcloud.substack.com/p/api-integration-patterns], an API is essentially the interface that a piece of software presents to other humans or programs, allowing them to interact with that software. When creating an]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
         <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/"/>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install MongoDB with OpenSSL 3 Support on Fedora 39]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/"/>
-        <updated>2023-12-11T18:52:50.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to install MongoDB with support for the latest version of OpenSSL on the Fedora Linux operating system.  If you already have it installed, this tutorial will help you fix the mongosh OpenSSL configuration error. To follow along, you will need a terminal]]></summary>
-        <author>
-            <name>Matheus A. S. Freitas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Tutorial – What Are the constexpr and constinit Specifiers?]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/"/>
-        <updated>2023-12-11T18:50:12.000Z</updated>
-        <summary type="html"><![CDATA[When we write programs, many operations which are performed at runtime can actually be done at compile time – that is, baked into code.  This improves program performance since operations are no longer being computed on the fly, during runtime.  While these techniques of offloading operations to compile]]></summary>
-        <author>
-            <name>Jayant Chowdhary</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +233,6 @@
         <summary type="html"><![CDATA[Effective collaboration between designers and developers is vital to creating good user experiences. However, bridging the handoff between design and development with the many tools and workflows available today has its pitfalls. Matthew Mattei introduces you to the Uno Platform, which offers a robust set of productivity boosters.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matthew Mattei)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Responsive Multi-Line Ribbon Shapes (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/</id>
-        <link href="https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/"/>
-        <updated>2023-11-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
         </author>
     </entry>
 </feed>
