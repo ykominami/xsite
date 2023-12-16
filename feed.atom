@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-15T00:10:54.374Z</id>
+    <id>urn:2023-12-16T00:10:22.800Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T00:10:54.374Z</updated>
+    <updated>2023-12-16T00:10:22.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Kylie Ying on MIT, CERN, Figure Skating, and Poker AI]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/"/>
+        <updated>2023-12-15T17:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Kylie Ying. She's a software engineer and a teacher at freeCodeCamp. We talk about Kylie's 5 years at MIT, her time at CERN working on the Large Hadron Collider, competitive figure skating, and even poker-playing AIs. Tell your friends about the freeCodeCamp podcast. Let's inspire more]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await in JavaScript – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-async-await/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await/"/>
+        <updated>2023-12-15T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends! In this article, I'm going to show you how to use the “async/await” special syntax when handling JavaScript Promises. If you don't know or need a refresher on JavaScript promises, you can read my previous article: How JavaScript Promises Work – Tutorial for Beginners [/news/javascript-promise-object-explained/]. You'll need to]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course]]></title>
         <id>https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/</id>
@@ -86,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced Google Sheets Concepts – How to Build a Vigenère Cipher]]></title>
-        <id>https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/</id>
-        <link href="https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/"/>
-        <updated>2023-12-13T18:13:22.000Z</updated>
-        <summary type="html"><![CDATA[A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study]]></title>
         <id>https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/</id>
         <link href="https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/"/>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/"/>
-        <updated>2023-12-12T15:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development]]></summary>
-        <author>
-            <name>Victoria Poromon</name>
         </author>
     </entry>
     <entry>
