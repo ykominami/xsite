@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T00:10:54.005Z</id>
+    <id>urn:2023-12-19T00:10:28.725Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T00:10:54.005Z</updated>
+    <updated>2023-12-19T00:10:28.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Use Remix and Strapi to Create Full Stack Apps]]></title>
+        <id>https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/</id>
+        <link href="https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/"/>
+        <updated>2023-12-18T20:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/</id>
+        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/"/>
+        <updated>2023-12-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Props – The Animated Guide]]></title>
+        <id>https://www.freecodecamp.org/news/react-props-animated-guide/</id>
+        <link href="https://www.freecodecamp.org/news/react-props-animated-guide/"/>
+        <updated>2023-12-17T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Props are a common stumbling block when moving from JavaScript to React. In reality, using props in React components is almost identical to using arguments in plain JavaScript functions. Let's take a quick look at what props are in React through some helpful animations. These will help you visualize how]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Accessibility Best Practices – How to Ensure Everyone Can Use Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices/"/>
+        <updated>2023-12-17T21:27:27.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic world of web development, creating websites that are accessible to all users, including those with disabilities, is not just a best practice – it's a necessity.  Web accessibility ensures that everyone, regardless of their abilities, can perceive, understand, navigate, and interact with the web. This inclusivity]]></summary>
+        <author>
+            <name>SUDHEER KUMAR REDDY GOWRIGARI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Variables in Figma – A Handbook for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/variables-in-figma-handbook/</id>
@@ -73,36 +113,6 @@
         <summary type="html"><![CDATA[When you're developing programs, certain services can block or slow down the speed of your application. For example, CPU-intensive tasks like audio transcribing or file processing. So you might wonder – how do you make sure your application runs without breaking? To handle this, you can send tasks to a]]></summary>
         <author>
             <name>Okoye Victor Chukwuebuka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Errors in React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/"/>
-        <updated>2023-12-13T23:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Error handling is a critical aspect of developing user-friendly React applications. As a developer, you can't always predict or prevent errors, but you can certainly control how they are handled.  In this article, we'll explore practical and effective strategies for handling errors in React applications. We'll cover various types]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Virtual World for Self-Driving Cars with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/"/>
-        <updated>2023-12-13T22:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a virtual world using HMTL, CSS, and JavaScript. We just published a course on the freeCodeCamp.org Youtube channel that will teach you how to craft a world entirely from the ground up. Dr. Radu Mariescu-Istodor created this course. He is a creative and popular instructor. You]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Host Enumeration – How to Uncover Hidden Web Assets]]></title>
-        <id>https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/"/>
-        <updated>2023-12-13T18:48:10.000Z</updated>
-        <summary type="html"><![CDATA[When performing external penetration testing or bug bounty hunting, security experts explore the targeted system from various angles to collect as much information as possible and identify potential attack vectors. This involves identifying all the available assets, domains, and subdomains. During the testing reconnaissance phase, testers spend time on virtual]]></summary>
-        <author>
-            <name>Nairuz Abulhul</name>
         </author>
     </entry>
     <entry>
