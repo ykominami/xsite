@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-23T00:09:49.712Z</id>
+    <id>urn:2023-12-24T00:11:30.971Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T00:09:49.712Z</updated>
+    <updated>2023-12-24T00:11:30.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Innovate as a Developer – a Roadmap to a Successful Tech Career [Full Book]]]></title>
+        <id>https://www.freecodecamp.org/news/creators-guide-to-innovation-book/</id>
+        <link href="https://www.freecodecamp.org/news/creators-guide-to-innovation-book/"/>
+        <updated>2023-12-22T22:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this book that teaches you how to innovate as a developer. It isn’t just another step-by-step manual on creating specific products. It’s much more.  I’ve crafted this guide with a focus on equipping you with the mindset, skills, and habits necessary for innovation at any scale –]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idempotence in HTTP Methods – Explained with CRUD Examples]]></title>
+        <id>https://www.freecodecamp.org/news/idempotency-in-http-methods/</id>
+        <link href="https://www.freecodecamp.org/news/idempotency-in-http-methods/"/>
+        <updated>2023-12-22T21:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Idempotence refers to a program's ability to maintain a particular result even after repeated actions.  For example, let's say you have a button that only opens a door when pressed. This button does not have the ability to close the door, so it stays open even when it's pressed]]></summary>
+        <author>
+            <name>Yemi Ojedapo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The View Transitions API And Delightful UI Animations (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</id>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use Remix and Strapi to Create Full Stack Apps]]></title>
-        <id>https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/</id>
-        <link href="https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/"/>
-        <updated>2023-12-18T20:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 2)]]></title>
         <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/</id>
         <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/"/>
@@ -123,16 +133,6 @@
         <summary type="html"><![CDATA[Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Props – The Animated Guide]]></title>
-        <id>https://www.freecodecamp.org/news/react-props-animated-guide/</id>
-        <link href="https://www.freecodecamp.org/news/react-props-animated-guide/"/>
-        <updated>2023-12-17T21:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Props are a common stumbling block when moving from JavaScript to React. In reality, using props in React components is almost identical to using arguments in plain JavaScript functions. Let's take a quick look at what props are in React through some helpful animations. These will help you visualize how]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
     <entry>
@@ -213,26 +213,6 @@
         <summary type="html"><![CDATA[In this article, Sasha guides you through crucial processes and factors to achieve a consistent brand presence across platforms. She offers an overview of the entire brand identity process, explores collaboration with UI teams, and provides essential details on the assets required for the successful implementation of a digital brand.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sasha Denisova)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Few Ways CSS Is Easier To Write In 2023]]></title>
-        <id>https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/</id>
-        <link href="https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/"/>
-        <updated>2023-11-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re living in somewhat of a CSS renaissance with new features, techniques, experiments, and ideas coming at us to an extent we haven’t seen since “CSS3”. It’s easy to feel overwhelmed when your profession seems to be advancing at breakneck speed, but Geoff Graham considers the ways “modern” CSS in 2023 has actually made CSS “easier” to write.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Full Stack Composability]]></title>
-        <id>https://smashingmagazine.com/2023/11/introduction-full-stack-composability/</id>
-        <link href="https://smashingmagazine.com/2023/11/introduction-full-stack-composability/"/>
-        <updated>2023-11-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A well-designed composable system should not only consider the technical aspects but also take into account the nature of the content it handles. To help us with that, we can use a Headless Content Management system such as Storyblok.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
         </author>
     </entry>
 </feed>
