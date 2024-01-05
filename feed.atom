@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T00:10:51.850Z</id>
+    <id>urn:2024-01-05T00:10:35.576Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T00:10:51.850Z</updated>
+    <updated>2024-01-05T00:10:35.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Accessible Custom Dropdown Select Element]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/"/>
+        <updated>2024-01-04T17:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might want to use a different select element to match your style based on the theme of your design. Or perhaps the default design is different on separate browsers and you want uniformity.  But when designing this new element, you might forget to consider the accessibility of]]></summary>
+        <author>
+            <name>Elizabeth  Meshioye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new() vs make() Functions in Go – When to Use Each One]]></title>
+        <id>https://www.freecodecamp.org/news/new-vs-make-functions-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/new-vs-make-functions-in-go/"/>
+        <updated>2024-01-04T15:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Go, also known as Golang, is a statically-typed, compiled programming language designed for simplicity and efficiency.  When it comes to working with data structures like slices, maps, and channels, you'll likely encounter the new() and make() functions. While both are used for memory allocation, they serve distinct purposes.]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced JavaScript Operators – Nullish Coalescing, Optional Chaining, and Destructuring Assignment]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-advanced-operators/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-advanced-operators/"/>
+        <updated>2024-01-04T15:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Hi Everyone! In this article, I'm going to teach you how to use three advanced JavaScript operators: the Nullish Coalescing, Optional Chaining, and Destructuring Assignment operators. These three operators will help you write clearer and less error-prone code.  The Nullish Coalescing Operator When you’re inspecting JavaScript code, you may]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Lazy Loading Works in Web Development]]></title>
+        <id>https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/</id>
+        <link href="https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/"/>
+        <updated>2024-01-04T01:08:30.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of web development, performance optimization remains a top priority.  Among the plethora of strategies you can use to enhance web performance, lazy loading stands out for its efficiency and impact.  But what exactly is lazy loading, and how does it revolutionize the way we]]></summary>
+        <author>
+            <name>SUDHEER KUMAR REDDY GOWRIGARI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERN Stack Roadmap – How to Learn MERN and Become a Full-Stack Developer]]></title>
+        <id>https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/</id>
+        <link href="https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/"/>
+        <updated>2024-01-04T00:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how modern web applications are built? How you can learn and master the technologies that you can use to build your own full stack projects from scratch? In this handbook, I'm going to introduce you to the MERN stack, a widely-used technology stack embraced by many]]></summary>
+        <author>
+            <name>Chris Blakely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Computing? Introduction to the Cloud for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-cloud-computing/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-cloud-computing/"/>
+        <updated>2024-01-03T21:40:31.000Z</updated>
+        <summary type="html"><![CDATA[As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git Cherry Pick and Avoid Duplicate Commits]]></title>
+        <id>https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/</id>
+        <link href="https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/"/>
+        <updated>2024-01-03T21:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open]]></summary>
+        <author>
+            <name>CHRISTINE T. BELZIE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Secrets in Docker]]></title>
+        <id>https://www.freecodecamp.org/news/manage-secrets-in-docker/</id>
+        <link href="https://www.freecodecamp.org/news/manage-secrets-in-docker/"/>
+        <updated>2024-01-03T16:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Protecting sensitive data like API keys, passwords, and certificates in your Docker projects can be quite daunting and error-prone. And many devs neglect it when dealing with applications deployed in containers. There is no global way of storing and sharing secrets in containers. Traditional methods of storing them, such as]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Hat Enterprise Linux – Essential RHEL Concepts and Commands to Know]]></title>
         <id>https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/</id>
@@ -23,36 +103,6 @@
         <summary type="html"><![CDATA[React and Appwrite make a great combination for creating full stack apps.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use React and Appwrite to create full stack applications. This course is designed and delivered by Hitesh Choudhary, a excellent instructor]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyGame Tutorial – How to Build an Alien Abduction game]]></title>
-        <id>https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/</id>
-        <link href="https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/"/>
-        <updated>2024-01-02T23:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Ever since I was a kid, I've been hooked on video games. My first experience with coding involved kind of a wild project – a Tron races simulator in Quick Basic on an ancient IBM computer (I was like 6 years old, so I didn't really understand what I was]]></summary>
-        <author>
-            <name>Juan P. Romano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Proto DataStore – Should You Use It?]]></title>
-        <id>https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/</id>
-        <link href="https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/"/>
-        <updated>2024-01-02T19:52:43.000Z</updated>
-        <summary type="html"><![CDATA[A few years back, Google announced the DataStore, which is a replacement for the tried and true SharedPreferences.  If you use or have used SharedPreferences in your applications, you might be thinking of making the switch. But as with everything, the main question here is: what is going to]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free WebDev and JS Bootcamps for 2024 – Learn HTML, CSS, and JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/</id>
-        <link href="https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/"/>
-        <updated>2024-01-02T16:56:47.000Z</updated>
-        <summary type="html"><![CDATA[New year's resolutions are hard. But if your goal for 2024 is to learn some Web Development or JavaScript, we want to help.  The Bad Website Club [http://badwebsite.club/] will be running a free, online, part time bootcamp based on the freeCodeCamp Web Development and JavaScript curricula back to back]]></summary>
-        <author>
-            <name>Jessica Rose</name>
         </author>
     </entry>
     <entry>
@@ -76,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Memory of Robert Yannaccone, freeCodeCamp camper,  Telecom Analyst, and philanthropist]]></title>
-        <id>https://www.freecodecamp.org/news/in-memory-of-robert-yannaccone/</id>
-        <link href="https://www.freecodecamp.org/news/in-memory-of-robert-yannaccone/"/>
-        <updated>2023-12-29T18:41:32.000Z</updated>
-        <summary type="html"><![CDATA[This year we lost Robert Yannacconne, a freeCodeCamp camper who supported our mission to the end. Robert was born in Detroit in 1949. After graduating high school, he joined the United States Air Force, learned Mandarin Chinese, and served as a translator in the Philippines. After 3 years of service,]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Sense Of “Senseless” JavaScript Features]]></title>
         <id>https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/</id>
         <link href="https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/"/>
@@ -96,36 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#100DaysOfCode Challenge for 2024 – Discord Edition]]></title>
-        <id>https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/</id>
-        <link href="https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/"/>
-        <updated>2023-12-24T21:37:06.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp always gets a huge rush of ambitious learners on New Year's Day. And each year, I try to create challenge that will help people stick with their learning. In the past, we've had cloud certification challenges, gamedev challenges, and back end development challenges. This year, we're going back to]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Innovate as a Developer – a Roadmap to a Successful Tech Career [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/creators-guide-to-innovation-book/</id>
-        <link href="https://www.freecodecamp.org/news/creators-guide-to-innovation-book/"/>
-        <updated>2023-12-22T22:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this book that teaches you how to innovate as a developer. It isn’t just another step-by-step manual on creating specific products. It’s much more.  I’ve crafted this guide with a focus on equipping you with the mindset, skills, and habits necessary for innovation at any scale –]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idempotence in HTTP Methods – Explained with CRUD Examples]]></title>
-        <id>https://www.freecodecamp.org/news/idempotency-in-http-methods/</id>
-        <link href="https://www.freecodecamp.org/news/idempotency-in-http-methods/"/>
-        <updated>2023-12-22T21:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Idempotence refers to a program's ability to maintain a particular result even after repeated actions.  For example, let's say you have a button that only opens a door when pressed. This button does not have the ability to close the door, so it stays open even when it's pressed]]></summary>
-        <author>
-            <name>Yemi Ojedapo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The View Transitions API And Delightful UI Animations (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</id>
         <link href="https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/"/>
@@ -133,16 +143,6 @@
         <summary type="html"><![CDATA[The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Behavioral Interviews for Software Developers]]></title>
-        <id>https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/</id>
-        <link href="https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/"/>
-        <updated>2023-12-21T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[In the competitive world of software development, acing technical interviews is often considered the key to landing a dream job. However, there's another crucial aspect that aspiring developers frequently overlook – behavioral interviews. We just posted a new course on the freeCodeCamp.org YouTube channel that provides a guide to mastering]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -193,16 +193,6 @@
         <summary type="html"><![CDATA[Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2023/12/five-second-testing-case-study/</id>
-        <link href="https://smashingmagazine.com/2023/12/five-second-testing-case-study/"/>
-        <updated>2023-12-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
         </author>
     </entry>
 </feed>
