@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T00:10:09.770Z</id>
+    <id>urn:2024-01-07T00:11:26.215Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T00:10:09.770Z</updated>
+    <updated>2024-01-07T00:11:26.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn React – A Guide to the Key Concepts]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-key-concepts/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-key-concepts/"/>
+        <updated>2024-01-06T01:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this comprehensive guide to learning React. If you're looking for an efficient and well-thought-out approach to understanding React fundamentals, you've just hit the jackpot. This guide follows the 80/20 rule – we'll focus on a few key React concepts that you'll use in the majority of your work]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Context in Your Project – Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-react-context/</id>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Concurrency in Kotlin Server-Side Development]]></title>
+        <id>https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/</id>
+        <link href="https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/"/>
+        <updated>2024-01-04T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[K-Means Clustering – How to Unveil Hidden Patterns in Your Data]]></title>
         <id>https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/</id>
         <link href="https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/"/>
@@ -83,26 +103,6 @@
         <summary type="html"><![CDATA[K-means clustering is a powerful technique that can help you discover hidden patterns and groupings in your datasets. Let’s look at how it works. K-means clustering is a basic but powerful tool in data science. It has changed the way we look at and understand large datasets. In this article,]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Kotlin Server Applications]]></title>
-        <id>https://www.freecodecamp.org/news/securing-kotlin-server-applications/</id>
-        <link href="https://www.freecodecamp.org/news/securing-kotlin-server-applications/"/>
-        <updated>2024-01-04T22:33:33.000Z</updated>
-        <summary type="html"><![CDATA[In server-side application development using Kotlin, taking robust security measures is important. Developers encounter various threats and vulnerabilities that can compromise applications. This article delves into comprehensive security strategies tailored for Kotlin server applications, aiming to equip developers with the knowledge to fortify their systems against potential risks. Security in]]></summary>
-        <author>
-            <name>Faith Oyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn React in 2024 – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/"/>
-        <updated>2024-01-04T21:48:22.000Z</updated>
-        <summary type="html"><![CDATA[There's never been a better time to learn React than in 2024. In this comprehensive guide, I'll show you how I would go from knowing nothing about React to becoming a job-ready, junior React developer in 3 to 6 months. Keep in mind that becoming a skilled developer is not]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
     <entry>
@@ -183,16 +183,6 @@
         <summary type="html"><![CDATA[Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preparing For Interaction To Next Paint, A New Web Core Vital]]></title>
-        <id>https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/</id>
-        <link href="https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/"/>
-        <updated>2023-12-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
