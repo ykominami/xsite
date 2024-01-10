@@ -1,58 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-09T00:11:01.058Z</id>
+    <id>urn:2024-01-10T00:10:44.611Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T00:11:01.058Z</updated>
+    <updated>2024-01-10T00:10:44.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Use CSS Flexbox to Break Elements Out of Their Containers]]></title>
-        <id>https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/</id>
-        <link href="https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/"/>
-        <updated>2024-01-08T18:15:47.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a webpage, sometimes you might want images or other elements to go beyond the boundaries of a container. So in this tutorial, I'll show you a couple ways you can accomplish this. To illustrate a situation when you might find this useful, let's say we are given]]></summary>
+        <title type="html"><![CDATA[How Do Zsh Configuration Files Work?]]></title>
+        <id>https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/"/>
+        <updated>2024-01-09T20:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Beginners often get confused when configuring Zsh shell on a Mac. Zsh shell offers four configuration files with no discernible differences. Particularly, ~/.zshrc and ~/.zprofile appear to be identical, leaving us wondering which one to use.  In this article, you'll learn the difference and a simple guideline for your]]></summary>
         <author>
-            <name>Kheoh Yee Wei</name>
+            <name>Daniel Kehoe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Code with AI]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/"/>
-        <updated>2024-01-08T18:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Ever dreamt of building your own apps but felt intimidated by the complex world of programming? Or maybe you just want to quickly enhance your coding output? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to write code using AI. Guil Hernandez teaches]]></summary>
+        <title type="html"><![CDATA[How Work with RESTful APIs in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/</id>
+        <link href="https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/"/>
+        <updated>2024-01-09T19:09:25.000Z</updated>
+        <summary type="html"><![CDATA[RESTful APIs are a crucial component in modern web development. They allow communication between different applications over the internet.  REST (which stands for Representational State Transfer) APIs operate on a stateless client-server architecture, providing a standardized way to create, read, update, and delete resources. Integrating RESTful APIs with React]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React Roadmap for 2024 – How to Learn React]]></title>
+        <id>https://www.freecodecamp.org/news/the-react-roadmap-learn-react/</id>
+        <link href="https://www.freecodecamp.org/news/the-react-roadmap-learn-react/"/>
+        <updated>2024-01-09T18:57:12.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, I'll break down a complete roadmap that will cover all the concepts, libraries, and tools to help you become a React developer in 2024. My goal is to show you the happy path in React, navigating you away from pitfalls so you can spend your time on]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GitHub Template Repository for Scaffolding with React, Vite, and TailwindCSS]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/"/>
+        <updated>2024-01-09T18:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Developers love productivity. When it comes to coding, we want to do things fast and we look out for opportunities to re-use things as much as possible. Say, you are getting started with a ReactJS project and want to use TailwindCSS  for the same. The first time, it would]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use New CSS Features to Build a Progress Indicator]]></title>
+        <id>https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/</id>
+        <link href="https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/"/>
+        <updated>2024-01-09T15:39:50.000Z</updated>
+        <summary type="html"><![CDATA[For the last 7 months, I’ve had my head down building Component Odyssey [https://component-odyssey.com/]. It’s been a richly fulfilling project and I’m eager for people to take the course and learn heaps about building component libraries using web components. I’ve seen some incredible demos over the past year, and wanted]]></summary>
+        <author>
+            <name>Andrico Karoulla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Analysis with Comprehensive 19-Hour Bootcamp]]></title>
+        <id>https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/</id>
+        <link href="https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/"/>
+        <updated>2024-01-09T15:39:48.000Z</updated>
+        <summary type="html"><![CDATA[The world of data analysis is vast and continually evolving, and staying ahead in this field requires a solid foundation in its core technologies and methodologies. We just published a 19-hour data analysis bootcamp on the freeCodeCamp.org YouTube channel. This bootcamp, developed by Alex Freberg, provides an immersive learning experience]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memcached Crash Course]]></title>
-        <id>https://www.freecodecamp.org/news/memcached-crash-course/</id>
-        <link href="https://www.freecodecamp.org/news/memcached-crash-course/"/>
-        <updated>2024-01-08T18:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Memcached is an important technology for back end developers to understand. It is a distributed memory caching system, primarily used to speed up web applications by reducing database load. It stores data in memory, allowing quicker access compared to traditional database-driven methods. We just published a Memcached crash course on]]></summary>
+        <title type="html"><![CDATA[How to Use pnpm – Installation and Common Commands]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-pnpm/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pnpm/"/>
+        <updated>2024-01-09T15:31:52.000Z</updated>
+        <summary type="html"><![CDATA[pnpm is like npm, but it's way faster and more efficient. After all, the starting p stands for performant. According to its creator, Zoltan Kochan, pnpm "allows you to save gigabytes of disk space." Many popular projects including Next.js, Vite, Svelte, and even freeCodeCamp use pnpm. So now is a]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Ashutosh Biswas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manage Users and Groups in Red Hat Enterprise Linux]]></title>
-        <id>https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/</id>
-        <link href="https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/"/>
-        <updated>2024-01-08T17:41:44.000Z</updated>
-        <summary type="html"><![CDATA[To effectively safeguard your system and regulate access when working in Red Hat Enterprise Linux (RHEL), you'll need to understand user and group management.  This is a critical component that's significant for both individual and complex network environments, as it's key to adeptly handle user accounts and groups. In]]></summary>
+        <title type="html"><![CDATA[How to Make React Apps SEO-Friendly – A Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/"/>
+        <updated>2024-01-09T15:25:55.000Z</updated>
+        <summary type="html"><![CDATA[When developing your web applications, you should always consider search engine optimization (SEO) techniques. Many things come into play when you're making sure your web application operates as intended and has an online presence. Search engines such as Google, Bing, and Yahoo serve as the primary medium for users seeking]]></summary>
         <author>
-            <name>Kedar Makode</name>
+            <name>Okosa Leonard Onyekachukwu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gitting Things Done – A Visual and Practical Guide to Git]]></title>
-        <id>https://www.freecodecamp.org/news/gitting-things-done-book/</id>
-        <link href="https://www.freecodecamp.org/news/gitting-things-done-book/"/>
-        <updated>2024-01-08T17:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you use git commit? What is]]></summary>
+        <title type="html"><![CDATA[Serverless Architecture Patterns and Best Practices]]></title>
+        <id>https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/"/>
+        <updated>2024-01-09T01:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architecture has become a hot topic in the developer world, and for good reason.  It promises a paradigm shift – one where we leave behind the burdens of server management and focus solely on building and deploying code. No more provisioning VMs, patching software, or scaling infrastructure manually.]]></summary>
         <author>
-            <name>Omer Rosenbaum</name>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collect.js Tutorial – How to Work with JavaScript Arrays and Objects]]></title>
+        <id>https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/</id>
+        <link href="https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/"/>
+        <updated>2024-01-08T22:38:20.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript arrays are one of the most important data structures in the language, since everything is already an object in JavaScript. They're useful in so many applications, and many other data structures build on top of JavaScript arrays and objects. While the language provides a lot of helpful array and]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
         </author>
     </entry>
     <entry>
@@ -63,56 +113,6 @@
         <summary type="html"><![CDATA[Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React – A Guide to the Key Concepts]]></title>
-        <id>https://www.freecodecamp.org/news/learn-react-key-concepts/</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-key-concepts/"/>
-        <updated>2024-01-06T01:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this comprehensive guide to learning React. If you're looking for an efficient and well-thought-out approach to understanding React fundamentals, you've just hit the jackpot. This guide follows the 80/20 rule – we'll focus on a few key React concepts that you'll use in the majority of your work]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concurrency in Kotlin Server-Side Development]]></title>
-        <id>https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/</id>
-        <link href="https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/"/>
-        <updated>2024-01-05T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just]]></summary>
-        <author>
-            <name>Faith Oyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Context in Your Project – Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-react-context/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-context/"/>
-        <updated>2024-01-05T20:06:06.000Z</updated>
-        <summary type="html"><![CDATA[As beginners, managing state in React applications can be challenging, especially when passing and utilizing props in deeply nested components.  The usual way of passing information from a main component to its smaller parts — like a parent passing data to a child, then to a grandchild — can]]></summary>
-        <author>
-            <name>Benedicta Onyebuchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Template Literals in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/template-literals-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/template-literals-in-javascript/"/>
-        <updated>2024-01-05T18:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Template literals are a feature in JavaScript that were introduced with ES6. They gives you a more flexible and maintainable way of working with strings in JavaScript. By the end of this article, you will know how to use template literals. You will learn the syntax, the benefits, and some]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune EasyOCR with a Synthetic Dataset]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/"/>
-        <updated>2024-01-05T17:48:17.000Z</updated>
-        <summary type="html"><![CDATA[OCR is a valuable tool that you can use to extract text from images. But the OCR you are using may not work as intended for your specific needs. In such situations, fine-tuning your OCR engine is the way to go.  In this tutorial, I will show you how]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
         </author>
     </entry>
     <entry>
