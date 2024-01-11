@@ -23,7 +23,7 @@
           "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
           "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4225,
+          "wordCount": 4227,
           "title": "SolidStart: A Different Breed Of Meta-Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
@@ -53,7 +53,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2024!",
           "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
           "publishedOn": "2023-12-31T08:00:00.000Z",
-          "wordCount": 4696,
+          "wordCount": 4695,
           "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -68,7 +68,7 @@
           "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
           "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5524,
+          "wordCount": 5415,
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
@@ -83,7 +83,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
           "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
           "publishedOn": "2023-12-22T13:00:00.000Z",
-          "wordCount": 7926,
+          "wordCount": 7922,
           "title": "The View Transitions API And Delightful UI Animations (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -98,7 +98,7 @@
           "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
           "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
           "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 7403,
+          "wordCount": 7405,
           "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
@@ -128,7 +128,7 @@
           "description": "Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.",
           "link": "https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/",
           "publishedOn": "2023-12-13T10:00:00.000Z",
-          "wordCount": 5199,
+          "wordCount": 5201,
           "title": "CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-scroll-snapping-aligned-global-page-layout-case-study/css-scroll-snapping-aligned-global-page-layout-case-study.jpg",
@@ -136,21 +136,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-scroll-snapping-aligned-global-page-layout-case-study/css-scroll-snapping-aligned-global-page-layout-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
-          "author": "hello@smashingmagazine.com (Luis Ouriach)",
-          "description": "Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.",
-          "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
-          "publishedOn": "2023-12-11T21:00:00.000Z",
-          "wordCount": 7357,
-          "title": "Building Components For Consumption, Not Complexity (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
         }
       ]
     },
@@ -159,6 +144,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
+          "author": "Nathan Sebhastian",
+          "description": "JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen",
+          "link": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
+          "publishedOn": "2024-01-10T20:38:04.000Z",
+          "wordCount": 2468,
+          "title": "Understanding DOM Events and JavaScript Event Listeners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/DOM-events-feature-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
+          "author": "Manish Shivanandhan",
+          "description": "In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both",
+          "link": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
+          "publishedOn": "2024-01-10T18:46:30.000Z",
+          "wordCount": 1721,
+          "title": "PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pytorchvs_cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
+          "author": "Olabisi Olaoye",
+          "description": "I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering",
+          "link": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
+          "publishedOn": "2024-01-10T15:28:54.000Z",
+          "wordCount": 2122,
+          "title": "How to Build a Stepper Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Your-paragraph-text-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
+          "author": "Chidera Humphrey",
+          "description": "Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto",
+          "link": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
+          "publishedOn": "2024-01-10T15:24:13.000Z",
+          "wordCount": 2939,
+          "title": "How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/20240105_040821_0000-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
+          "author": "Nathan Sebhastian",
+          "description": "In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want",
+          "link": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
+          "publishedOn": "2024-01-10T15:14:00.000Z",
+          "wordCount": 1685,
+          "title": "What is the Document Object Model? DOM for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dom-introduction-feature-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
+          "author": "Benjamin Semah",
+          "description": "DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows",
+          "link": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
+          "publishedOn": "2024-01-10T15:12:57.000Z",
+          "wordCount": 7053,
+          "title": "The JavaScript DOM Manipulation Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-JavaScript-DOM-Manipulation-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-custom-css-animations/",
+          "author": "Eric Hu",
+          "description": "Animations are a crucial component of modern web design. They enable you to create dynamic and engaging web elements that attract more customers and drive more sales. In this article, we will discuss how to create cool custom animations using CSS. Prerequisites Before going forward with this article, make sure",
+          "link": "https://www.freecodecamp.org/news/how-to-create-custom-css-animations/",
+          "publishedOn": "2024-01-09T21:59:50.000Z",
+          "wordCount": 2112,
+          "title": "How to Create Custom CSS Animations with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/",
           "author": "Daniel Kehoe",
@@ -175,9 +230,9 @@
           "description": "RESTful APIs are a crucial component in modern web development. They allow communication between different applications over the internet.  REST (which stands for Representational State Transfer) APIs operate on a stateless client-server architecture, providing a standardized way to create, read, update, and delete resources. Integrating RESTful APIs with React",
           "link": "https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/",
           "publishedOn": "2024-01-09T19:09:25.000Z",
-          "wordCount": 5184,
-          "title": "How Work with RESTful APIs in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--1-.png"
+          "wordCount": 5187,
+          "title": "How to Work with RESTful APIs in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/How-to-Work-with-RESTful-APIs-in-React.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/the-react-roadmap-learn-react/",
@@ -188,76 +243,6 @@
           "wordCount": 2355,
           "title": "The React Roadmap for 2024 – How to Learn React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/react-roadmap-2024.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/",
-          "author": "TAPAS ADHIKARY",
-          "description": "Developers love productivity. When it comes to coding, we want to do things fast and we look out for opportunities to re-use things as much as possible. Say, you are getting started with a ReactJS project and want to use TailwindCSS  for the same. The first time, it would",
-          "link": "https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/",
-          "publishedOn": "2024-01-09T18:04:08.000Z",
-          "wordCount": 2129,
-          "title": "How to Build a GitHub Template Repository for Scaffolding with React, Vite, and TailwindCSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/github-template-vite-react-tailwind.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/",
-          "author": "Andrico Karoulla",
-          "description": "For the last 7 months, I’ve had my head down building Component Odyssey [https://component-odyssey.com/]. It’s been a richly fulfilling project and I’m eager for people to take the course and learn heaps about building component libraries using web components. I’ve seen some incredible demos over the past year, and wanted",
-          "link": "https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/",
-          "publishedOn": "2024-01-09T15:39:50.000Z",
-          "wordCount": 3412,
-          "title": "How to Use New CSS Features to Build a Progress Indicator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/open-graph.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/",
-          "author": "Beau Carnes",
-          "description": "The world of data analysis is vast and continually evolving, and staying ahead in this field requires a solid foundation in its core technologies and methodologies. We just published a 19-hour data analysis bootcamp on the freeCodeCamp.org YouTube channel. This bootcamp, developed by Alex Freberg, provides an immersive learning experience",
-          "link": "https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/",
-          "publishedOn": "2024-01-09T15:39:48.000Z",
-          "wordCount": 1100,
-          "title": "Learn Data Analysis with Comprehensive 19-Hour Bootcamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/data.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-pnpm/",
-          "author": "Ashutosh Biswas",
-          "description": "pnpm is like npm, but it's way faster and more efficient. After all, the starting p stands for performant. According to its creator, Zoltan Kochan, pnpm \"allows you to save gigabytes of disk space.\" Many popular projects including Next.js, Vite, Svelte, and even freeCodeCamp use pnpm. So now is a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-pnpm/",
-          "publishedOn": "2024-01-09T15:31:52.000Z",
-          "wordCount": 2121,
-          "title": "How to Use pnpm – Installation and Common Commands",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-pnpm-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/",
-          "author": "Okosa Leonard Onyekachukwu",
-          "description": "When developing your web applications, you should always consider search engine optimization (SEO) techniques. Many things come into play when you're making sure your web application operates as intended and has an online presence. Search engines such as Google, Bing, and Yahoo serve as the primary medium for users seeking",
-          "link": "https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/",
-          "publishedOn": "2024-01-09T15:25:55.000Z",
-          "wordCount": 7684,
-          "title": "How to Make React Apps SEO-Friendly – A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/How-to-Make-React-Apps-SEO-Friendly-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/",
-          "author": "Faith Oyama",
-          "description": "Serverless architecture has become a hot topic in the developer world, and for good reason.  It promises a paradigm shift – one where we leave behind the burdens of server management and focus solely on building and deploying code. No more provisioning VMs, patching software, or scaling infrastructure manually.",
-          "link": "https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/",
-          "publishedOn": "2024-01-09T01:07:58.000Z",
-          "wordCount": 1805,
-          "title": "Serverless Architecture Patterns and Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Light-Blue-Futuristic-Technology-Project-Proposal-Presentation.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/",
-          "author": "Zubair Idris Aweda",
-          "description": "JavaScript arrays are one of the most important data structures in the language, since everything is already an object in JavaScript. They're useful in so many applications, and many other data structures build on top of JavaScript arrays and objects. While the language provides a lot of helpful array and",
-          "link": "https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/",
-          "publishedOn": "2024-01-08T22:38:20.000Z",
-          "wordCount": 2729,
-          "title": "Collect.js Tutorial – How to Work with JavaScript Arrays and Objects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/zub.png"
         }
       ]
     }

@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T00:10:44.611Z</id>
+    <id>urn:2024-01-11T00:10:39.779Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T00:10:44.611Z</updated>
+    <updated>2024-01-11T00:10:39.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding DOM Events and JavaScript Event Listeners]]></title>
+        <id>https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/</id>
+        <link href="https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/"/>
+        <updated>2024-01-10T20:38:04.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?]]></title>
+        <id>https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/</id>
+        <link href="https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/"/>
+        <updated>2024-01-10T18:46:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Stepper Component in React]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-stepper-component-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-stepper-component-in-react/"/>
+        <updated>2024-01-10T15:28:54.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering]]></summary>
+        <author>
+            <name>Olabisi Olaoye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App]]></title>
+        <id>https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/"/>
+        <updated>2024-01-10T15:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Document Object Model? DOM for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-the-dom/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-the-dom/"/>
+        <updated>2024-01-10T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript DOM Manipulation Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/"/>
+        <updated>2024-01-10T15:12:57.000Z</updated>
+        <summary type="html"><![CDATA[DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Custom CSS Animations with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-custom-css-animations/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-custom-css-animations/"/>
+        <updated>2024-01-09T21:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Animations are a crucial component of modern web design. They enable you to create dynamic and engaging web elements that attract more customers and drive more sales. In this article, we will discuss how to create cool custom animations using CSS. Prerequisites Before going forward with this article, make sure]]></summary>
+        <author>
+            <name>Eric Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do Zsh Configuration Files Work?]]></title>
         <id>https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/</id>
@@ -16,7 +86,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Work with RESTful APIs in React]]></title>
+        <title type="html"><![CDATA[How to Work with RESTful APIs in React]]></title>
         <id>https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/</id>
         <link href="https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/"/>
         <updated>2024-01-09T19:09:25.000Z</updated>
@@ -33,76 +103,6 @@
         <summary type="html"><![CDATA[In this guide, I'll break down a complete roadmap that will cover all the concepts, libraries, and tools to help you become a React developer in 2024. My goal is to show you the happy path in React, navigating you away from pitfalls so you can spend your time on]]></summary>
         <author>
             <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GitHub Template Repository for Scaffolding with React, Vite, and TailwindCSS]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/"/>
-        <updated>2024-01-09T18:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Developers love productivity. When it comes to coding, we want to do things fast and we look out for opportunities to re-use things as much as possible. Say, you are getting started with a ReactJS project and want to use TailwindCSS  for the same. The first time, it would]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use New CSS Features to Build a Progress Indicator]]></title>
-        <id>https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/</id>
-        <link href="https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/"/>
-        <updated>2024-01-09T15:39:50.000Z</updated>
-        <summary type="html"><![CDATA[For the last 7 months, I’ve had my head down building Component Odyssey [https://component-odyssey.com/]. It’s been a richly fulfilling project and I’m eager for people to take the course and learn heaps about building component libraries using web components. I’ve seen some incredible demos over the past year, and wanted]]></summary>
-        <author>
-            <name>Andrico Karoulla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Analysis with Comprehensive 19-Hour Bootcamp]]></title>
-        <id>https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/"/>
-        <updated>2024-01-09T15:39:48.000Z</updated>
-        <summary type="html"><![CDATA[The world of data analysis is vast and continually evolving, and staying ahead in this field requires a solid foundation in its core technologies and methodologies. We just published a 19-hour data analysis bootcamp on the freeCodeCamp.org YouTube channel. This bootcamp, developed by Alex Freberg, provides an immersive learning experience]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use pnpm – Installation and Common Commands]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-pnpm/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-pnpm/"/>
-        <updated>2024-01-09T15:31:52.000Z</updated>
-        <summary type="html"><![CDATA[pnpm is like npm, but it's way faster and more efficient. After all, the starting p stands for performant. According to its creator, Zoltan Kochan, pnpm "allows you to save gigabytes of disk space." Many popular projects including Next.js, Vite, Svelte, and even freeCodeCamp use pnpm. So now is a]]></summary>
-        <author>
-            <name>Ashutosh Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make React Apps SEO-Friendly – A Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/"/>
-        <updated>2024-01-09T15:25:55.000Z</updated>
-        <summary type="html"><![CDATA[When developing your web applications, you should always consider search engine optimization (SEO) techniques. Many things come into play when you're making sure your web application operates as intended and has an online presence. Search engines such as Google, Bing, and Yahoo serve as the primary medium for users seeking]]></summary>
-        <author>
-            <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Architecture Patterns and Best Practices]]></title>
-        <id>https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/"/>
-        <updated>2024-01-09T01:07:58.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architecture has become a hot topic in the developer world, and for good reason.  It promises a paradigm shift – one where we leave behind the burdens of server management and focus solely on building and deploying code. No more provisioning VMs, patching software, or scaling infrastructure manually.]]></summary>
-        <author>
-            <name>Faith Oyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collect.js Tutorial – How to Work with JavaScript Arrays and Objects]]></title>
-        <id>https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/</id>
-        <link href="https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/"/>
-        <updated>2024-01-08T22:38:20.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript arrays are one of the most important data structures in the language, since everything is already an object in JavaScript. They're useful in so many applications, and many other data structures build on top of JavaScript arrays and objects. While the language provides a lot of helpful array and]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
         </author>
     </entry>
     <entry>
@@ -183,16 +183,6 @@
         <summary type="html"><![CDATA[Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
-        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/"/>
-        <updated>2023-12-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
 </feed>
