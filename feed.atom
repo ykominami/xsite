@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T00:10:36.198Z</id>
+    <id>urn:2024-01-13T00:10:40.442Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T00:10:36.198Z</updated>
+    <updated>2024-01-13T00:10:40.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Callbacks and Higher Order Functions in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/"/>
+        <updated>2024-01-12T18:07:08.000Z</updated>
+        <summary type="html"><![CDATA[The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this]]></summary>
+        <author>
+            <name>Franklin Okolie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Markdown in VSCode – Syntax and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/"/>
+        <updated>2024-01-12T17:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is widely used for creating README files, documentation, and other forms of text. Visual Studio Code (VSCode) is a popular source code editor that provides excellent support for Markdown, making it easy for developers, writers,]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Storage API – How to Store Data on the Browser]]></title>
+        <id>https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/</id>
+        <link href="https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/"/>
+        <updated>2024-01-12T17:43:34.000Z</updated>
+        <summary type="html"><![CDATA[The Web Storage API is a set of APIs exposed by the browser so that you can store data in the browser. The data stored in the Web Storage use the key/value pair format, and both data will be stored as strings. There are two types of storage introduced in]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS DOM Manipulation Best Practices – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/dom-manipulation-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/dom-manipulation-best-practices/"/>
+        <updated>2024-01-12T17:41:27.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, you can manipulate the content of a web page using the Document Object Model (DOM). But how do you write code that is readable, easy to maintain, and not prone to performance issues?  That's what we'll cover in this article. I'll discuss some important best practices so]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for Data Analyst Job Interviews]]></title>
+        <id>https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/"/>
+        <updated>2024-01-12T17:31:48.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, every business and organization collects and uses data to build better products, target the right customers, improve efficiency, and even forecast future demand.  They say that data is the new oil – and now is the perfect time to enter the data analytics job market.]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NGINX for Backend Developers]]></title>
+        <id>https://www.freecodecamp.org/news/nginx/</id>
+        <link href="https://www.freecodecamp.org/news/nginx/"/>
+        <updated>2024-01-12T16:46:05.000Z</updated>
+        <summary type="html"><![CDATA[NGINX is a versatile and powerful open-source software used for web serving, reverse proxying, caching, load balancing, media streaming, and more. It's important to understand for backend developers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you what you need to know about NGINX. Laith]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up Magic Link Authentication with React, Flask, and Authsignal]]></title>
         <id>https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/</id>
@@ -53,66 +113,6 @@
         <summary type="html"><![CDATA[What is Hugging Face 🤗? If you are interested in Artificial Intelligence and Natural Language Processing, you have probably heard of Hugging Face – the company named after a cute emoji.  Hugging Face is not only a company, but also a platform that is transforming the fields of AI]]></summary>
         <author>
             <name>Ambreen Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding DOM Events and JavaScript Event Listeners]]></title>
-        <id>https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/</id>
-        <link href="https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/"/>
-        <updated>2024-01-10T20:38:04.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?]]></title>
-        <id>https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/</id>
-        <link href="https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/"/>
-        <updated>2024-01-10T18:46:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Stepper Component in React]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-stepper-component-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-stepper-component-in-react/"/>
-        <updated>2024-01-10T15:28:54.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering]]></summary>
-        <author>
-            <name>Olabisi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App]]></title>
-        <id>https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/"/>
-        <updated>2024-01-10T15:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Document Object Model? DOM for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-the-dom/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-the-dom/"/>
-        <updated>2024-01-10T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript DOM Manipulation Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/"/>
-        <updated>2024-01-10T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
         </author>
     </entry>
     <entry>

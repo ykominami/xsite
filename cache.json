@@ -23,7 +23,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2024/01/top-frontend-tools-2023/",
           "publishedOn": "2024-01-11T18:00:00.000Z",
-          "wordCount": 5788,
+          "wordCount": 5831,
           "title": "Top Front-End Tools Of 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg",
@@ -38,7 +38,7 @@
           "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
           "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4320,
+          "wordCount": 4211,
           "title": "SolidStart: A Different Breed Of Meta-Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
@@ -53,7 +53,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
           "link": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "publishedOn": "2024-01-02T10:00:00.000Z",
-          "wordCount": 8421,
+          "wordCount": 8416,
           "title": "The View Transitions API And Delightful UI Animations (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -68,7 +68,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2024!",
           "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
           "publishedOn": "2023-12-31T08:00:00.000Z",
-          "wordCount": 4811,
+          "wordCount": 4704,
           "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -83,7 +83,7 @@
           "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
           "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5517,
+          "wordCount": 5411,
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
@@ -98,7 +98,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
           "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
           "publishedOn": "2023-12-22T13:00:00.000Z",
-          "wordCount": 7926,
+          "wordCount": 7928,
           "title": "The View Transitions API And Delightful UI Animations (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -113,7 +113,7 @@
           "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
           "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
           "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 7402,
+          "wordCount": 7405,
           "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
@@ -128,7 +128,7 @@
           "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
           "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
           "publishedOn": "2023-12-18T15:00:00.000Z",
-          "wordCount": 8434,
+          "wordCount": 8431,
           "title": "Building Components For Consumption, Not Complexity (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
@@ -144,6 +144,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
+          "author": "Franklin Okolie",
+          "description": "The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this",
+          "link": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
+          "publishedOn": "2024-01-12T18:07:08.000Z",
+          "wordCount": 2803,
+          "title": "How to Use Callbacks and Higher Order Functions in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/higher-order-callbacks.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/",
+          "author": "Victoria Poromon",
+          "description": "Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is widely used for creating README files, documentation, and other forms of text. Visual Studio Code (VSCode) is a popular source code editor that provides excellent support for Markdown, making it easy for developers, writers,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/",
+          "publishedOn": "2024-01-12T17:46:22.000Z",
+          "wordCount": 1940,
+          "title": "How to Use Markdown in VSCode – Syntax and Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Markdown-in-vscode-cover-photo.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/",
+          "author": "Nathan Sebhastian",
+          "description": "The Web Storage API is a set of APIs exposed by the browser so that you can store data in the browser. The data stored in the Web Storage use the key/value pair format, and both data will be stored as strings. There are two types of storage introduced in",
+          "link": "https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/",
+          "publishedOn": "2024-01-12T17:43:34.000Z",
+          "wordCount": 2025,
+          "title": "Web Storage API – How to Store Data on the Browser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/web-storage-api-feature-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dom-manipulation-best-practices/",
+          "author": "Benjamin Semah",
+          "description": "In JavaScript, you can manipulate the content of a web page using the Document Object Model (DOM). But how do you write code that is readable, easy to maintain, and not prone to performance issues?  That's what we'll cover in this article. I'll discuss some important best practices so",
+          "link": "https://www.freecodecamp.org/news/dom-manipulation-best-practices/",
+          "publishedOn": "2024-01-12T17:41:27.000Z",
+          "wordCount": 2219,
+          "title": "JS DOM Manipulation Best Practices – with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/freecodecamp-javascript-benjamin-semah.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/",
+          "author": "Jess Wilk",
+          "description": "In today’s digital world, every business and organization collects and uses data to build better products, target the right customers, improve efficiency, and even forecast future demand.  They say that data is the new oil – and now is the perfect time to enter the data analytics job market.",
+          "link": "https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/",
+          "publishedOn": "2024-01-12T17:31:48.000Z",
+          "wordCount": 2719,
+          "title": "How to Prepare for Data Analyst Job Interviews",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nginx/",
+          "author": "Beau Carnes",
+          "description": "NGINX is a versatile and powerful open-source software used for web serving, reverse proxying, caching, load balancing, media streaming, and more. It's important to understand for backend developers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you what you need to know about NGINX. Laith",
+          "link": "https://www.freecodecamp.org/news/nginx/",
+          "publishedOn": "2024-01-12T16:46:05.000Z",
+          "wordCount": 1000,
+          "title": "NGINX for Backend Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nginx.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/",
           "author": "Ashutosh Krishna",
@@ -183,66 +243,6 @@
           "wordCount": 3084,
           "title": "How to Get Started with Hugging Face – Open Source AI Models and Datasets",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/HuggingFace_Title-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
-          "author": "Nathan Sebhastian",
-          "description": "JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen",
-          "link": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
-          "publishedOn": "2024-01-10T20:38:04.000Z",
-          "wordCount": 2468,
-          "title": "Understanding DOM Events and JavaScript Event Listeners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/DOM-events-feature-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
-          "author": "Manish Shivanandhan",
-          "description": "In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both",
-          "link": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
-          "publishedOn": "2024-01-10T18:46:30.000Z",
-          "wordCount": 1721,
-          "title": "PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pytorchvs_cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
-          "author": "Olabisi Olaoye",
-          "description": "I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering",
-          "link": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
-          "publishedOn": "2024-01-10T15:28:54.000Z",
-          "wordCount": 2122,
-          "title": "How to Build a Stepper Component in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Your-paragraph-text-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
-          "author": "Chidera Humphrey",
-          "description": "Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto",
-          "link": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
-          "publishedOn": "2024-01-10T15:24:13.000Z",
-          "wordCount": 2939,
-          "title": "How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/20240105_040821_0000-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
-          "author": "Nathan Sebhastian",
-          "description": "In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want",
-          "link": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
-          "publishedOn": "2024-01-10T15:14:00.000Z",
-          "wordCount": 1685,
-          "title": "What is the Document Object Model? DOM for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dom-introduction-feature-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
-          "author": "Benjamin Semah",
-          "description": "DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows",
-          "link": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
-          "publishedOn": "2024-01-10T15:12:57.000Z",
-          "wordCount": 7054,
-          "title": "The JavaScript DOM Manipulation Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-JavaScript-DOM-Manipulation-Handbook-Cover.png"
         }
       ]
     }
