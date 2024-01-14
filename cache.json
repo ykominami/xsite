@@ -23,7 +23,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2024/01/top-frontend-tools-2023/",
           "publishedOn": "2024-01-11T18:00:00.000Z",
-          "wordCount": 5831,
+          "wordCount": 5840,
           "title": "Top Front-End Tools Of 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg",
@@ -38,7 +38,7 @@
           "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
           "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4211,
+          "wordCount": 4223,
           "title": "SolidStart: A Different Breed Of Meta-Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
@@ -53,7 +53,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
           "link": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "publishedOn": "2024-01-02T10:00:00.000Z",
-          "wordCount": 8416,
+          "wordCount": 8420,
           "title": "The View Transitions API And Delightful UI Animations (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -68,7 +68,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2024!",
           "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
           "publishedOn": "2023-12-31T08:00:00.000Z",
-          "wordCount": 4704,
+          "wordCount": 4701,
           "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -83,7 +83,7 @@
           "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
           "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5411,
+          "wordCount": 5523,
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
@@ -98,7 +98,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
           "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
           "publishedOn": "2023-12-22T13:00:00.000Z",
-          "wordCount": 7928,
+          "wordCount": 7924,
           "title": "The View Transitions API And Delightful UI Animations (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -113,7 +113,7 @@
           "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
           "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
           "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 7405,
+          "wordCount": 7407,
           "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
@@ -128,7 +128,7 @@
           "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
           "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
           "publishedOn": "2023-12-18T15:00:00.000Z",
-          "wordCount": 8431,
+          "wordCount": 8436,
           "title": "Building Components For Consumption, Not Complexity (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
@@ -144,6 +144,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
+          "author": "Deborah Kurata",
+          "description": "We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,",
+          "link": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
+          "publishedOn": "2024-01-12T23:21:23.000Z",
+          "wordCount": 2268,
+          "title": "Immutability in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/thumbnail.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
           "author": "Franklin Okolie",
@@ -233,16 +243,6 @@
           "wordCount": 1766,
           "title": "How to Optimize Search Queries in MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mongosearch.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/get-started-with-hugging-face/",
-          "author": "Ambreen Khan",
-          "description": "What is Hugging Face 🤗? If you are interested in Artificial Intelligence and Natural Language Processing, you have probably heard of Hugging Face – the company named after a cute emoji.  Hugging Face is not only a company, but also a platform that is transforming the fields of AI",
-          "link": "https://www.freecodecamp.org/news/get-started-with-hugging-face/",
-          "publishedOn": "2024-01-10T21:05:36.000Z",
-          "wordCount": 3084,
-          "title": "How to Get Started with Hugging Face – Open Source AI Models and Datasets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/HuggingFace_Title-1.png"
         }
       ]
     }

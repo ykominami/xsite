@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T00:10:40.442Z</id>
+    <id>urn:2024-01-14T00:11:27.786Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T00:10:40.442Z</updated>
+    <updated>2024-01-14T00:11:27.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Immutability in JavaScript – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/"/>
+        <updated>2024-01-12T23:21:23.000Z</updated>
+        <summary type="html"><![CDATA[We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Callbacks and Higher Order Functions in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Searching through a database to extract relevant data can be quite cumbersome if you don't have – or know how to use – the right tools. MongoDB is a non-relational, no-SQL database that differs from relational SQL-based databases such as PostgresSQL, MySQL. These SQL-based databases use conventional rows and columns]]></summary>
         <author>
             <name>oluwatobi Joshua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with Hugging Face – Open Source AI Models and Datasets]]></title>
-        <id>https://www.freecodecamp.org/news/get-started-with-hugging-face/</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-hugging-face/"/>
-        <updated>2024-01-10T21:05:36.000Z</updated>
-        <summary type="html"><![CDATA[What is Hugging Face 🤗? If you are interested in Artificial Intelligence and Natural Language Processing, you have probably heard of Hugging Face – the company named after a cute emoji.  Hugging Face is not only a company, but also a platform that is transforming the fields of AI]]></summary>
-        <author>
-            <name>Ambreen Khan</name>
         </author>
     </entry>
     <entry>
