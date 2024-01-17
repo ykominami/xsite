@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/css-border-image-property/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.",
+          "link": "https://smashingmagazine.com/2024/01/css-border-image-property/",
+          "publishedOn": "2024-01-16T13:00:00.000Z",
+          "wordCount": 7326,
+          "title": "The Complex But Awesome CSS border-image Property",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/top-frontend-tools-2023/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2024/01/top-frontend-tools-2023/",
           "publishedOn": "2024-01-11T18:00:00.000Z",
-          "wordCount": 5836,
+          "wordCount": 5832,
           "title": "Top Front-End Tools Of 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg",
@@ -38,7 +53,7 @@
           "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
           "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4214,
+          "wordCount": 4221,
           "title": "SolidStart: A Different Breed Of Meta-Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
@@ -53,7 +68,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
           "link": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "publishedOn": "2024-01-02T10:00:00.000Z",
-          "wordCount": 8420,
+          "wordCount": 8418,
           "title": "The View Transitions API And Delightful UI Animations (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -68,7 +83,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2024!",
           "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
           "publishedOn": "2023-12-31T08:00:00.000Z",
-          "wordCount": 4699,
+          "wordCount": 4701,
           "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -83,7 +98,7 @@
           "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
           "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5412,
+          "wordCount": 5413,
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
@@ -98,7 +113,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
           "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
           "publishedOn": "2023-12-22T13:00:00.000Z",
-          "wordCount": 7922,
+          "wordCount": 7923,
           "title": "The View Transitions API And Delightful UI Animations (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -113,7 +128,7 @@
           "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
           "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
           "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 7403,
+          "wordCount": 7405,
           "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
@@ -128,7 +143,7 @@
           "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
           "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
           "publishedOn": "2023-12-18T15:00:00.000Z",
-          "wordCount": 8441,
+          "wordCount": 8438,
           "title": "Building Components For Consumption, Not Complexity (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
@@ -145,6 +160,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/file-ownership-permissions-rhel/",
+          "author": "Kedar Makode",
+          "description": "Linux commands give you precise control over file ownership and permissions, ensuring data security and access control.  This guide will delve into several essential commands: chown, chgrp, chmod, and  umask. The examples will showcase their functionality, variations, and practical applications. Table Of Contents Here's what we'll cover in",
+          "link": "https://www.freecodecamp.org/news/file-ownership-permissions-rhel/",
+          "publishedOn": "2024-01-16T20:56:12.000Z",
+          "wordCount": 2838,
+          "title": "How File Ownership and Permissions Work in RHEL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004566.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/",
+          "author": "Sahil Mahapatra",
+          "description": "A JavaScript engine is simply a computer program that executes JavaScript code. It's responsible for translating human-readable JavaScript code into machine-readable instructions that the computer's hardware can execute. When you write JavaScript code and run it in a browser, the code doesn't directly interact with your computer's hardware. Instead, it",
+          "link": "https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/",
+          "publishedOn": "2024-01-16T19:03:02.000Z",
+          "wordCount": 1913,
+          "title": "JavaScript Engine and Runtime Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-2--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-projects-to-build-in-2024/",
+          "author": "Reed Barger",
+          "description": "To be confident with using React, you need to build real-world projects. But what projects are worth building in 2024? I have put together a list of seven projects that I think are ideal for becoming a confident React developer, from simple to complex applications. This will give you some",
+          "link": "https://www.freecodecamp.org/news/react-projects-to-build-in-2024/",
+          "publishedOn": "2024-01-16T12:07:51.000Z",
+          "wordCount": 2181,
+          "title": "7 React Projects to Build in 2024",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mugshotbot.com_customize_color-orange-mode-light-pattern-bubbles-theme-two_up-url-https___gifcoins.io--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
           "author": "Deborah Kurata",
           "description": "We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,",
@@ -157,10 +202,10 @@
         {
           "id": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
           "author": "Franklin Okolie",
-          "description": "The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this",
+          "description": "The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign functions as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this because",
           "link": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
           "publishedOn": "2024-01-12T18:07:08.000Z",
-          "wordCount": 2803,
+          "wordCount": 2801,
           "title": "How to Use Callbacks and Higher Order Functions in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/higher-order-callbacks.png"
         },
@@ -213,36 +258,6 @@
           "wordCount": 1000,
           "title": "NGINX for Backend Developers",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nginx.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/",
-          "author": "Ashutosh Krishna",
-          "description": "Authentication is the process of verifying the identity of a user or system. It ensures that only authorized individuals or systems can access certain resources or perform specific actions. Magic Link Authentication offers a simple yet secure way for users to log in without passwords. This tutorial will walk you",
-          "link": "https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/",
-          "publishedOn": "2024-01-11T18:40:41.000Z",
-          "wordCount": 4588,
-          "title": "How to Set Up Magic Link Authentication with React, Flask, and Authsignal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/magic-link-authsignal.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sliding-window-technique/",
-          "author": "Arunachalam B",
-          "description": "Recently, I was practicing coding problems that focused on Data Structures and Algorithms in preparation for a job change.  During this process, I came across the Sliding Window technique. I found this algorithm to be very interesting, so I wanted to share my learnings with the community.  This",
-          "link": "https://www.freecodecamp.org/news/sliding-window-technique/",
-          "publishedOn": "2024-01-11T15:11:48.000Z",
-          "wordCount": 1946,
-          "title": "How to Use the Sliding Window Technique – Algorithm Example and Solution",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Sliding-Window-Technique---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/",
-          "author": "oluwatobi Joshua",
-          "description": "Searching through a database to extract relevant data can be quite cumbersome if you don't have – or know how to use – the right tools. MongoDB is a non-relational, no-SQL database that differs from relational SQL-based databases such as PostgresSQL, MySQL. These SQL-based databases use conventional rows and columns",
-          "link": "https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/",
-          "publishedOn": "2024-01-10T21:12:23.000Z",
-          "wordCount": 1766,
-          "title": "How to Optimize Search Queries in MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mongosearch.jpg"
         }
       ]
     }

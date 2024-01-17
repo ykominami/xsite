@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T00:10:29.223Z</id>
+    <id>urn:2024-01-17T00:10:28.693Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T00:10:29.223Z</updated>
+    <updated>2024-01-17T00:10:28.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How File Ownership and Permissions Work in RHEL]]></title>
+        <id>https://www.freecodecamp.org/news/file-ownership-permissions-rhel/</id>
+        <link href="https://www.freecodecamp.org/news/file-ownership-permissions-rhel/"/>
+        <updated>2024-01-16T20:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Linux commands give you precise control over file ownership and permissions, ensuring data security and access control.  This guide will delve into several essential commands: chown, chgrp, chmod, and  umask. The examples will showcase their functionality, variations, and practical applications. Table Of Contents Here's what we'll cover in]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Engine and Runtime Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/"/>
+        <updated>2024-01-16T19:03:02.000Z</updated>
+        <summary type="html"><![CDATA[A JavaScript engine is simply a computer program that executes JavaScript code. It's responsible for translating human-readable JavaScript code into machine-readable instructions that the computer's hardware can execute. When you write JavaScript code and run it in a browser, the code doesn't directly interact with your computer's hardware. Instead, it]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complex But Awesome CSS border-image Property]]></title>
+        <id>https://smashingmagazine.com/2024/01/css-border-image-property/</id>
+        <link href="https://smashingmagazine.com/2024/01/css-border-image-property/"/>
+        <updated>2024-01-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 React Projects to Build in 2024]]></title>
+        <id>https://www.freecodecamp.org/news/react-projects-to-build-in-2024/</id>
+        <link href="https://www.freecodecamp.org/news/react-projects-to-build-in-2024/"/>
+        <updated>2024-01-16T12:07:51.000Z</updated>
+        <summary type="html"><![CDATA[To be confident with using React, you need to build real-world projects. But what projects are worth building in 2024? I have put together a list of seven projects that I think are ideal for becoming a confident React developer, from simple to complex applications. This will give you some]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Immutability in JavaScript – Explained with Examples]]></title>
         <id>https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/</id>
@@ -20,7 +60,7 @@
         <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
         <link href="https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/"/>
         <updated>2024-01-12T18:07:08.000Z</updated>
-        <summary type="html"><![CDATA[The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this]]></summary>
+        <summary type="html"><![CDATA[The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign functions as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this because]]></summary>
         <author>
             <name>Franklin Okolie</name>
         </author>
@@ -76,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Up Magic Link Authentication with React, Flask, and Authsignal]]></title>
-        <id>https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/</id>
-        <link href="https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/"/>
-        <updated>2024-01-11T18:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is the process of verifying the identity of a user or system. It ensures that only authorized individuals or systems can access certain resources or perform specific actions. Magic Link Authentication offers a simple yet secure way for users to log in without passwords. This tutorial will walk you]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top Front-End Tools Of 2023]]></title>
         <id>https://smashingmagazine.com/2024/01/top-frontend-tools-2023/</id>
         <link href="https://smashingmagazine.com/2024/01/top-frontend-tools-2023/"/>
@@ -93,26 +123,6 @@
         <summary type="html"><![CDATA[Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Sliding Window Technique – Algorithm Example and Solution]]></title>
-        <id>https://www.freecodecamp.org/news/sliding-window-technique/</id>
-        <link href="https://www.freecodecamp.org/news/sliding-window-technique/"/>
-        <updated>2024-01-11T15:11:48.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I was practicing coding problems that focused on Data Structures and Algorithms in preparation for a job change.  During this process, I came across the Sliding Window technique. I found this algorithm to be very interesting, so I wanted to share my learnings with the community.  This]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Search Queries in MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/"/>
-        <updated>2024-01-10T21:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Searching through a database to extract relevant data can be quite cumbersome if you don't have – or know how to use – the right tools. MongoDB is a non-relational, no-SQL database that differs from relational SQL-based databases such as PostgresSQL, MySQL. These SQL-based databases use conventional rows and columns]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
         </author>
     </entry>
     <entry>
