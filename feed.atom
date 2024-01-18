@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T00:10:28.693Z</id>
+    <id>urn:2024-01-18T00:10:36.615Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T00:10:28.693Z</updated>
+    <updated>2024-01-18T00:10:36.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ACID Databases – Atomicity, Consistency, Isolation & Durability Explained]]></title>
+        <id>https://www.freecodecamp.org/news/acid-databases-explained/</id>
+        <link href="https://www.freecodecamp.org/news/acid-databases-explained/"/>
+        <updated>2024-01-17T17:45:53.000Z</updated>
+        <summary type="html"><![CDATA[ACID stands for Atomicity, Consistency, Isolation and Durability. These are four key properties that most database management systems (DBMS) offer as guarantees when handling transactions. Most popular DBMS like MySQL [https://dev.mysql.com/doc/refman/8.0/en/mysql-acid.html], PostgresSQL [https://www.postgresql.org/about/] and Oracle [https://docs.oracle.com/cd/F51125_01/docs.85/SDS%20PI/acid-compliant-transactions.html#GUID-ECB79D66-46DE-4F48-93DC-8677E7BB44EF]  have ACID guarantees out of the]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TUI Applications with Click and Trogon – Linux Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/</id>
+        <link href="https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/"/>
+        <updated>2024-01-17T17:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Custom Buttons to a Date Picker in Flatpickr]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/"/>
+        <updated>2024-01-17T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it]]></summary>
+        <author>
+            <name>Idris Abdul-Lateef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomics and Concurrency in C++]]></title>
+        <id>https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/</id>
+        <link href="https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/"/>
+        <updated>2024-01-16T23:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes]]></summary>
+        <author>
+            <name>Zaid Humayun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Object-Oriented Programming in Java – Full Book]]></title>
+        <id>https://www.freecodecamp.org/news/object-oriented-programming-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-java/"/>
+        <updated>2024-01-16T23:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Arrow Functions vs Regular Functions]]></title>
+        <id>https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/"/>
+        <updated>2024-01-16T22:19:05.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Essentials of Data Engineering]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/"/>
+        <updated>2024-01-16T21:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize AWS Simple Storage Service for Better Performance]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/"/>
+        <updated>2024-01-16T21:36:44.000Z</updated>
+        <summary type="html"><![CDATA[S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your]]></summary>
+        <author>
+            <name>Feyijimi Erinle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How File Ownership and Permissions Work in RHEL]]></title>
         <id>https://www.freecodecamp.org/news/file-ownership-permissions-rhel/</id>
@@ -33,86 +113,6 @@
         <summary type="html"><![CDATA[The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 React Projects to Build in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/react-projects-to-build-in-2024/</id>
-        <link href="https://www.freecodecamp.org/news/react-projects-to-build-in-2024/"/>
-        <updated>2024-01-16T12:07:51.000Z</updated>
-        <summary type="html"><![CDATA[To be confident with using React, you need to build real-world projects. But what projects are worth building in 2024? I have put together a list of seven projects that I think are ideal for becoming a confident React developer, from simple to complex applications. This will give you some]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immutability in JavaScript – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/"/>
-        <updated>2024-01-12T23:21:23.000Z</updated>
-        <summary type="html"><![CDATA[We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Callbacks and Higher Order Functions in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/"/>
-        <updated>2024-01-12T18:07:08.000Z</updated>
-        <summary type="html"><![CDATA[The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign functions as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this because]]></summary>
-        <author>
-            <name>Franklin Okolie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Markdown in VSCode – Syntax and Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/"/>
-        <updated>2024-01-12T17:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is widely used for creating README files, documentation, and other forms of text. Visual Studio Code (VSCode) is a popular source code editor that provides excellent support for Markdown, making it easy for developers, writers,]]></summary>
-        <author>
-            <name>Victoria Poromon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Storage API – How to Store Data on the Browser]]></title>
-        <id>https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/</id>
-        <link href="https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/"/>
-        <updated>2024-01-12T17:43:34.000Z</updated>
-        <summary type="html"><![CDATA[The Web Storage API is a set of APIs exposed by the browser so that you can store data in the browser. The data stored in the Web Storage use the key/value pair format, and both data will be stored as strings. There are two types of storage introduced in]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS DOM Manipulation Best Practices – with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/dom-manipulation-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/dom-manipulation-best-practices/"/>
-        <updated>2024-01-12T17:41:27.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you can manipulate the content of a web page using the Document Object Model (DOM). But how do you write code that is readable, easy to maintain, and not prone to performance issues?  That's what we'll cover in this article. I'll discuss some important best practices so]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for Data Analyst Job Interviews]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/"/>
-        <updated>2024-01-12T17:31:48.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital world, every business and organization collects and uses data to build better products, target the right customers, improve efficiency, and even forecast future demand.  They say that data is the new oil – and now is the perfect time to enter the data analytics job market.]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NGINX for Backend Developers]]></title>
-        <id>https://www.freecodecamp.org/news/nginx/</id>
-        <link href="https://www.freecodecamp.org/news/nginx/"/>
-        <updated>2024-01-12T16:46:05.000Z</updated>
-        <summary type="html"><![CDATA[NGINX is a versatile and powerful open-source software used for web serving, reverse proxying, caching, load balancing, media streaming, and more. It's important to understand for backend developers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you what you need to know about NGINX. Laith]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -183,16 +183,6 @@
         <summary type="html"><![CDATA[Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Šime Vidas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/</id>
-        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/"/>
-        <updated>2023-12-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
 </feed>
