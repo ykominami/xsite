@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T00:10:40.697Z</id>
+    <id>urn:2024-01-20T00:10:21.536Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T00:10:40.697Z</updated>
+    <updated>2024-01-20T00:10:21.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Analysis and Visualization with Python Using Astronomical Data]]></title>
+        <id>https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/</id>
+        <link href="https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/"/>
+        <updated>2024-01-19T19:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Are you fascinated by both Python and the night sky? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python to analyze and visualize astronomical Data. This course was created by Spartificial, whose mission is to provide engineering education in the most]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI]]></title>
+        <id>https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/</id>
+        <link href="https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/"/>
+        <updated>2024-01-19T16:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Web servers are responsible for delivering web pages and various resources to clients through the internet. They can exist either as software or hardware components. But unfortunately, they often become targets for hackers and malicious individuals seeking to exploit any vulnerabilities to compromise data and disrupt functionality. As a result,]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with FPM]]></title>
+        <id>https://www.freecodecamp.org/news/getting-started-with-fpm/</id>
+        <link href="https://www.freecodecamp.org/news/getting-started-with-fpm/"/>
+        <updated>2024-01-19T16:42:55.000Z</updated>
+        <summary type="html"><![CDATA[FPM [https://fpm.readthedocs.io/en/latest/getting-started.html] is a powerful wrapper that allows you to create packages for multiple programs in multiple operating systems.  In this tutorial I will show you how you can replace some of the tedious packaging of third party applications. What You Need to Complete this Tutorial  * A]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use SonarLint to Write Cleaner Code]]></title>
+        <id>https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/</id>
+        <link href="https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/"/>
+        <updated>2024-01-18T23:58:39.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a coding project, the better it is, the more fun it'll be to use. And the prouder you'll be of your hard work, right?  Also, writing quality and performant code helps your program or website work as expected – which should be every developer's goal. SonarLint]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get a Developer Job]]></title>
         <id>https://www.freecodecamp.org/news/how-to-get-a-developer-job/</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[Forms allow you to collect user data on your websites and apps. And validation is essential to guarantee type safety and the proper format for collected data. You can perform validation on both the client and server side of the application.  This is where Zod and React-Hook-Form come in]]></summary>
         <author>
             <name>Gift Uhiene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create Python User Interfaces with PyQt5]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/"/>
-        <updated>2024-01-17T21:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Python can be used for everything from scripting, machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern Music]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACID Databases – Atomicity, Consistency, Isolation & Durability Explained]]></title>
-        <id>https://www.freecodecamp.org/news/acid-databases-explained/</id>
-        <link href="https://www.freecodecamp.org/news/acid-databases-explained/"/>
-        <updated>2024-01-17T17:45:53.000Z</updated>
-        <summary type="html"><![CDATA[ACID stands for Atomicity, Consistency, Isolation and Durability. These are four key properties that most database management systems (DBMS) offer as guarantees when handling transactions. Most popular DBMS like MySQL [https://dev.mysql.com/doc/refman/8.0/en/mysql-acid.html], PostgresSQL [https://www.postgresql.org/about/] and Oracle [https://docs.oracle.com/cd/F51125_01/docs.85/SDS%20PI/acid-compliant-transactions.html#GUID-ECB79D66-46DE-4F48-93DC-8677E7BB44EF]  have ACID guarantees out of the]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TUI Applications with Click and Trogon – Linux Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/</id>
-        <link href="https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/"/>
-        <updated>2024-01-17T17:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Custom Buttons to a Date Picker in Flatpickr]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/"/>
-        <updated>2024-01-17T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it]]></summary>
-        <author>
-            <name>Idris Abdul-Lateef</name>
         </author>
     </entry>
     <entry>
