@@ -23,7 +23,7 @@
           "description": "The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.",
           "link": "https://smashingmagazine.com/2024/01/css-border-image-property/",
           "publishedOn": "2024-01-16T13:00:00.000Z",
-          "wordCount": 7324,
+          "wordCount": 7326,
           "title": "The Complex But Awesome CSS border-image Property",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg",
@@ -38,7 +38,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2024/01/top-frontend-tools-2023/",
           "publishedOn": "2024-01-11T18:00:00.000Z",
-          "wordCount": 5841,
+          "wordCount": 5833,
           "title": "Top Front-End Tools Of 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg",
@@ -53,7 +53,7 @@
           "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
           "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4217,
+          "wordCount": 4221,
           "title": "SolidStart: A Different Breed Of Meta-Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
@@ -68,7 +68,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
           "link": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "publishedOn": "2024-01-02T10:00:00.000Z",
-          "wordCount": 8422,
+          "wordCount": 8418,
           "title": "The View Transitions API And Delightful UI Animations (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -83,7 +83,7 @@
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2024!",
           "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
           "publishedOn": "2023-12-31T08:00:00.000Z",
-          "wordCount": 4705,
+          "wordCount": 4702,
           "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
@@ -98,7 +98,7 @@
           "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
           "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5521,
+          "wordCount": 5416,
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
@@ -114,6 +114,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
+          "author": "Ijeoma Igboagu",
+          "description": "AI tools have become quite popular recently. Developers use these tools to help generate ideas, create simple code examples, and so on.  In 2023, ChatGPT and other Large Language Models found their way into many of our toolkits. And we can use them to be more productive and save",
+          "link": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
+          "publishedOn": "2024-01-22T19:56:13.000Z",
+          "wordCount": 3168,
+          "title": "AI Tools You Can Use in Visual Studio Code Besides GitHub Copilot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/ai-tool-cover-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
+          "author": "Beau Carnes",
+          "description": "OpenAI's Assistants API is a powerful tool that allows developers to build AI assistants within their apps efficiently. It simplifies managing conversation history and provides access to advanced features like Code Interpreter and Retrieval. The API also improves function-calling for third-party tools. We just published a course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
+          "publishedOn": "2024-01-22T17:41:32.000Z",
+          "wordCount": 934,
+          "title": "Create AI Assistants with OpenAI's Assistants API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/assistants2.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
           "author": "Beau Carnes",
@@ -193,26 +213,6 @@
           "wordCount": 2279,
           "title": "What are Progressive Web Apps? PWA Guide for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Essentials.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
-          "author": "Jayant Chowdhary",
-          "description": "Electronic devices that run software are all around us. Your mobile phone, your car, your microwave, and virtually anything around you – there’s a very good chance that they have electronic components running some form of software. These devices inevitably use power and have batteries and circuits, which degrade over",
-          "link": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
-          "publishedOn": "2024-01-18T01:28:38.000Z",
-          "wordCount": 4622,
-          "title": "How to Design and Build Sustainable Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cover-4.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
-          "author": "Gift Uhiene",
-          "description": "Forms allow you to collect user data on your websites and apps. And validation is essential to guarantee type safety and the proper format for collected data. You can perform validation on both the client and server side of the application.  This is where Zod and React-Hook-Form come in",
-          "link": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
-          "publishedOn": "2024-01-17T21:58:56.000Z",
-          "wordCount": 2882,
-          "title": "How to Validate Forms with Zod and React-Hook-Form",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-7.png"
         }
       ]
     }
