@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
+          "author": "hello@smashingmagazine.com (Filip Paldia & Jamie Clarke)",
+          "description": "AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.",
+          "link": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
+          "publishedOn": "2024-01-23T13:00:00.000Z",
+          "wordCount": 4492,
+          "title": "The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/css-border-image-property/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.",
           "link": "https://smashingmagazine.com/2024/01/css-border-image-property/",
           "publishedOn": "2024-01-16T13:00:00.000Z",
-          "wordCount": 7326,
+          "wordCount": 7324,
           "title": "The Complex But Awesome CSS border-image Property",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg",
@@ -38,7 +53,7 @@
           "description": "Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!",
           "link": "https://smashingmagazine.com/2024/01/top-frontend-tools-2023/",
           "publishedOn": "2024-01-11T18:00:00.000Z",
-          "wordCount": 5833,
+          "wordCount": 5838,
           "title": "Top Front-End Tools Of 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg",
@@ -53,7 +68,7 @@
           "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
           "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
           "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4221,
+          "wordCount": 4216,
           "title": "SolidStart: A Different Breed Of Meta-Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
@@ -68,7 +83,7 @@
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
           "link": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "publishedOn": "2024-01-02T10:00:00.000Z",
-          "wordCount": 8418,
+          "wordCount": 8419,
           "title": "The View Transitions API And Delightful UI Animations (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
@@ -98,7 +113,7 @@
           "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
           "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5416,
+          "wordCount": 5410,
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
@@ -114,6 +129,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/",
+          "author": "Joan Ayebola",
+          "description": "State management is a crucial aspect of building robust and scalable React applications, especially when dealing with APIs.  As your application grows in complexity, efficiently managing the state becomes essential for a smooth user experience.  In the React ecosystem, there are several options for state management, each with",
+          "link": "https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/",
+          "publishedOn": "2024-01-23T00:18:52.000Z",
+          "wordCount": 5903,
+          "title": "How to Manage State in React Apps with APIs – Redux, Context API, and Recoil Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/",
+          "author": "Isaiah Clifford Opoku",
+          "description": "Welcome to this in-depth guide on crafting a RESTful API with NestJS, Docker, Swagger, and Prisma. My goal here is to teach you how to build robust and efficient backends, regardless of whether you're a seasoned developer or a beginner just dipping your toes into the world of coding. In",
+          "link": "https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/",
+          "publishedOn": "2024-01-23T00:17:33.000Z",
+          "wordCount": 7076,
+          "title": "How to Build a CRUD REST API with NestJS, Docker, Swagger, and Prisma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Nestjs_Free_code.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/",
+          "author": "Jose Vicente Nunez",
+          "description": "In this short tutorial, I want to share with you a few tricks and tips to help you deal with some common situations when you're working in the Linux command line. We will cover the following:  * find  * xargs and nproc  * taskset  * numactl",
+          "link": "https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/",
+          "publishedOn": "2024-01-22T23:15:48.000Z",
+          "wordCount": 2047,
+          "title": "Command Line Tricks You Can Learn Faster than Drinking Your Morning Coffee",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger-z.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
           "author": "Ijeoma Igboagu",
@@ -183,36 +228,6 @@
           "wordCount": 988,
           "title": "How to Get a Developer Job",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/job.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/models-in-django/",
-          "author": "chepkirui dorothy",
-          "description": "Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests",
-          "link": "https://www.freecodecamp.org/news/models-in-django/",
-          "publishedOn": "2024-01-18T16:10:49.000Z",
-          "wordCount": 2162,
-          "title": "How to Perform CRUD Operations with Django Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/coding-924920.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
-          "author": "Jaja Ibifubara David",
-          "description": "Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab",
-          "link": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
-          "publishedOn": "2024-01-18T16:01:46.000Z",
-          "wordCount": 3690,
-          "title": "How to Build a High-Performance Tab Component in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
-          "author": "Ophy Boamah",
-          "description": "Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the",
-          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
-          "publishedOn": "2024-01-18T15:56:46.000Z",
-          "wordCount": 2279,
-          "title": "What are Progressive Web Apps? PWA Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Essentials.png"
         }
       ]
     }
