@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-05T00:10:24.338Z</id>
+    <id>urn:2024-02-06T00:09:54.606Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T00:10:24.338Z</updated>
+    <updated>2024-02-06T00:09:54.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Filtering, Sorting, Limiting, and Pagination to Your Nest.js App]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/"/>
+        <updated>2024-02-05T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are reading this article, you are probably a developer who has used an API to call data for your application. You may have also used features such as filtering and pagination to limit the amount of data you want to receive.  These API features are important when]]></summary>
+        <author>
+            <name>Okure U. Edet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is box-sizing: border-box in CSS?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/"/>
+        <updated>2024-02-05T18:26:43.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, there is a property called box-sizing that allows you to determine how the width and the height for an element is calculated.  A lot of CSS resets [/news/how-i-style-my-websites-with-my-favorite-css-resets-7ace41dbc43d/] will change the default box model from content-box to border-box to make the layouts easier to work with. But]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable JavaScript – How to Improve the Performance of Your JS Applications]]></title>
+        <id>https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/</id>
+        <link href="https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/"/>
+        <updated>2024-02-05T15:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Javascript has become a very popular programming language thanks to its growing use in frontend and backend development.  And as devs build JavaScript applications for different companies and organizations, the size and complexity of these applications can pose interesting performance challenges. As developers, we seek to create applications that]]></summary>
+        <author>
+            <name>Clinton Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install React – A Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/"/>
+        <updated>2024-02-05T12:43:22.000Z</updated>
+        <summary type="html"><![CDATA[React is an open-source JavaScript library that helps you build dynamic user interfaces (UIs). You can use it to build components that represent logically reusable parts of the UI. Because React is open source, anyone can access its source code, inspect it, modify it, and enhance it for their personal]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use OpenTelementry to Trace Node.js Applications]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/</id>
@@ -73,46 +113,6 @@
         <summary type="html"><![CDATA[As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Maximillian Piras)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Fast.ai – A Beginner-Friendly Gateway to Deep Learning]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/"/>
-        <updated>2024-02-02T00:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Fast.ai is a user-friendly library that brings the power of deep learning to your fingertips, regardless of your skill level. Let’s learn how it works. Have you ever felt curious about deep learning but found the technical complexity overwhelming? Fast.ai [https://fast.ai/] is your answer. Fast.ai simplifies the journey into deep]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Web Sites Accessible]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/"/>
-        <updated>2024-02-01T16:16:08.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring that web content is accessible to everyone, including people with disabilities, is not just a noble goal—it's a necessity. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about web accessibility. This course is designed to empower developers with the knowledge and skills]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array Length – How to Find the Length of an Array in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-array-length-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-length-tutorial/"/>
-        <updated>2024-02-01T15:56:36.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript arrays are fundamental data structures that allow you to store and manipulate collections of elements efficiently. While working with arrays, you'll often need to know their length. The length of an array tells us how many elements are present in the array. You can use this to check if]]></summary>
-        <author>
-            <name>Tantoluwa Heritage Alabi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documentation Libraries to Help You Write Good Docs]]></title>
-        <id>https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/</id>
-        <link href="https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/"/>
-        <updated>2024-02-01T15:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Good project documentation is key to success for every company, startup, or individual project. Without documentation, it's much harder for new developers or others to use your project. In this article, I'll discuss some of my favourite libraries you can use for building your documentation site.  And don't worry]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
         </author>
     </entry>
     <entry>
