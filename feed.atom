@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T00:09:49.740Z</id>
+    <id>urn:2024-02-10T00:09:50.768Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T00:09:49.740Z</updated>
+    <updated>2024-02-10T00:09:50.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: AI Engineering with Engineer + Scrimba CEO Per Borgan]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/"/>
+        <updated>2024-02-09T17:28:56.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Per Borgen about the burgeoning field of AI Engineering, and his work in interactive developer education. Per is the co-founder and CEO of Scrimba and is a software engineer. Be sure to follow The freeCodeCamp podcast in your favorite podcast app.]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Search Form in Google Sheets – Google Apps Script Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/create-search-form-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/create-search-form-in-google-sheets/"/>
+        <updated>2024-02-09T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled with navigating a massive spreadsheet? You can do away with the endless scrolling and unlock the power of targeted data retrieval with a custom search form using Google Apps Script.  In this hands-on guide, we'll craft a search tool that seamlessly integrates with your spreadsheet,]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Data Types in Python – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-data-types-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-data-types-in-python/"/>
+        <updated>2024-02-09T15:15:55.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a data type communicates with the interpreter about how the programmer intends to use the data and information stored. The classification of data specifies the type of value a variable can hold. In Python programming, you don't need to explicitly declare the data type of your variable. Instead,]]></summary>
+        <author>
+            <name>Kamaldeen Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Draw Radar Charts In Web]]></title>
+        <id>https://smashingmagazine.com/2024/02/draw-radar-charts-web/</id>
+        <link href="https://smashingmagazine.com/2024/02/draw-radar-charts-web/"/>
+        <updated>2024-02-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Animations in React 18]]></title>
+        <id>https://www.freecodecamp.org/news/create-animations-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/create-animations-in-react/"/>
+        <updated>2024-02-08T23:51:27.000Z</updated>
+        <summary type="html"><![CDATA[We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Spread and Rest Operators – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/"/>
+        <updated>2024-02-08T23:27:05.000Z</updated>
+        <summary type="html"><![CDATA[In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Download a Kaggle Dataset Directly to a Google Colab Notebook]]></title>
         <id>https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/</id>
@@ -63,56 +123,6 @@
         <summary type="html"><![CDATA[Are you ready to dive into the world of Python back-end development? Whether you’re a beginner looking to learn the basics or an experienced developer wanting to upgrade your skills, this handbook is your ultimate guide. Imagine being able to build full-featured web applications, handle large-scale data analysis, and create]]></summary>
         <author>
             <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Motion Sensitivity? How to Design Accessible Web Animations]]></title>
-        <id>https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/</id>
-        <link href="https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/"/>
-        <updated>2024-02-07T21:51:54.000Z</updated>
-        <summary type="html"><![CDATA[As web developers, we love a good animation, right? But let's be honest, sometimes we get caught up in the wow factor and forget that our websites exist for real people with diverse needs.  One hidden hurdle for some users is motion sensitivity. It might not be something we]]></summary>
-        <author>
-            <name>Elizabeth  Meshioye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with the Console Object in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/"/>
-        <updated>2024-02-07T21:29:48.000Z</updated>
-        <summary type="html"><![CDATA[When you run into errors inside your code, it's important to know how to debug and find the source of the problem. The console object is a powerful tool that can help you with this. In this article, we will explore the console object and the variety of methods that]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Destructuring Works in JavaScript – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/destructuring-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/destructuring-in-javascript/"/>
-        <updated>2024-02-07T19:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Destructuring is a powerful JavaScript feature introduced in ES6 (ECMAScript 2015). It makes it easier to extract values from arrays or properties from objects and assign them to variables in a readable way.  Let's delve into how destructuring works and explore various use cases with examples. You can get]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with useMemo in React – with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/"/>
-        <updated>2024-02-07T18:13:41.000Z</updated>
-        <summary type="html"><![CDATA[useMemo is a valuable tool in the React framework, designed to optimize performance by memoizing expensive computations.  With useMemo, React can store the result of a function call and reuse it when the dependencies of that function haven't changed, rather than recalculating the value on every render.  useMemo]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Career Change to Code Guide]]></title>
-        <id>https://www.freecodecamp.org/news/career-change-to-code-guide/</id>
-        <link href="https://www.freecodecamp.org/news/career-change-to-code-guide/"/>
-        <updated>2024-02-07T17:47:57.000Z</updated>
-        <summary type="html"><![CDATA[There are many people who want to change careers to become a software developer but don't know what the optimal path is. There are many challenges and uncertainties that accompany such a significant change. We just posted a course on the freeCodeCamp.org YouTube channel that is a guide for those]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
