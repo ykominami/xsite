@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-16T00:09:52.669Z</id>
+    <id>urn:2024-02-17T00:09:37.211Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T00:09:52.669Z</updated>
+    <updated>2024-02-17T00:09:37.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: How the Insane Pressure of Classical Music Prepared Jessica Wilkins for Tech]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/"/>
+        <updated>2024-02-16T18:47:35.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview orchestral musician-turned software engineer Jessica Wilkins. Jessica found success in the extremely competitive field of classical music, playing the Oboe in orchestras, recording sessions, and even at major events such as the NFL awards on national television. She started her own]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexbox vs Grid in CSS – Which Should You Use?]]></title>
+        <id>https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/</id>
+        <link href="https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/"/>
+        <updated>2024-02-16T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever had issues with replicating a particular user interface from a Figma design? Do you find it difficult displaying elements in different sections of your browser screen? A major cause of rift between user interface (UI) designers and frontend developers is the issue of having an awesome UI]]></summary>
+        <author>
+            <name>Maybell Obadoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Optimization Techniques to Help You Write More Performant Code]]></title>
+        <id>https://www.freecodecamp.org/news/react-performance-optimization-techniques/</id>
+        <link href="https://www.freecodecamp.org/news/react-performance-optimization-techniques/"/>
+        <updated>2024-02-16T00:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Performance optimization is a critical aspect of developing web applications. Users expect applications to load quickly and respond to their interactions smoothly.  In the React ecosystem, performance optimization techniques can significantly enhance the user experience by reducing load times and improving responsiveness. In this article, we will discuss eight]]></summary>
+        <author>
+            <name>Temitope Oyedele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get the Most of Video Coding Tutorials]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/"/>
+        <updated>2024-02-16T00:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever spent hours watching a coding tutorial, only to get to the end and feel like you haven't learned very much?  We've all been there, and it can be a frustrating experience when learning to code.  In this article, I will show you some of the]]></summary>
+        <author>
+            <name>Chris Blakely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Argo Workflows on Kubernetes]]></title>
+        <id>https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/</id>
+        <link href="https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/"/>
+        <updated>2024-02-15T23:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Argo Workflows is an open source project that enables the orchestration of multiple Kubernetes jobs. Argo Workflows is implemented as a Kubernetes custom resource definition (CRD), which means it is native to the Kubernetes ecosystem and can run on any Kubernetes cluster. Workflows are set steps by which individual jobs]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the JavaScript Filter Method Works – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-filter-method/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-filter-method/"/>
+        <updated>2024-02-15T23:08:24.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript's filter method serves as a powerful tool for selectively extracting elements from arrays based on certain conditions.  Introduced alongside other array methods in ECMAScript 5, the filter method has since become a fundamental feature in JavaScript programming. In this article, we will delve into the JavaScript filter method,]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript in the Browser – How the Document Object Model (DOM) and Events Work]]></title>
         <id>https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/</id>
@@ -30,7 +90,7 @@
         <id>https://www.freecodecamp.org/news/art-of-coding-with-p5js/</id>
         <link href="https://www.freecodecamp.org/news/art-of-coding-with-p5js/"/>
         <updated>2024-02-15T18:39:36.000Z</updated>
-        <summary type="html"><![CDATA[p5.js is a JavaScript library that's transforming the way artists and designers approach make art with code. If you're intrigued by the intersection of art and programming, freeCodeCamp's YouTube course on p5.js is an ideal starting point.  Patt Vira created this course. She loves making art with code and]]></summary>
+        <summary type="html"><![CDATA[p5.js is a JavaScript library that's transforming the way artists and designers approach making art with code. If you're intrigued by the intersection of art and programming, freeCodeCamp's YouTube course on p5.js is an ideal starting point.  Patt Vira created this course. She loves making art with code and]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -46,56 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Chrome DevTools – Simple Strategies for Smarter Web Development]]></title>
-        <id>https://www.freecodecamp.org/news/chrome-devtools/</id>
-        <link href="https://www.freecodecamp.org/news/chrome-devtools/"/>
-        <updated>2024-02-15T16:12:02.000Z</updated>
-        <summary type="html"><![CDATA[As a web developer, there are many tools out there – in addition to your code editor – that can make you more efficient.  It doesn't matter if you're just starting out or have been coding for years. Knowing how to effectively use Developer Tools (DevTools for short) can]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the App Directory in Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/app-directory-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/app-directory-nextjs/"/>
-        <updated>2024-02-15T00:52:55.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a project using the latest version of Next.js, you'll be prompted to select between using the app/ directory or the pages/ directory. The  app/ directory is now the recommended way of building apps in Next.js. In this article, you'll learn how to maximize the potential of]]></summary>
-        <author>
-            <name>Quincy Oghenetejiri Ukumakube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Map Method – Syntax and Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-map-method/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-map-method/"/>
-        <updated>2024-02-15T00:50:30.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript's map method, introduced in ECMAScript 5, is a fundamental tool for array manipulation and transformation. This method is versatile and simple, and has become a staple in modern JavaScript programming.  In this article, we'll explore the map method's syntax and its wide array of applications, ranging from basic]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Custom React Hook – a Hands-on Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/"/>
-        <updated>2024-02-14T17:39:52.000Z</updated>
-        <summary type="html"><![CDATA[If you have been working with React, I bet you've had the opportunity to use hooks. But have you ever tried to create your own hook?  Today I will help you create your first custom hook and explain how they can improve your codebase. Why Create Custom Hooks? You]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Backend Development by Building a CRUD API with Node and MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/"/>
-        <updated>2024-02-14T15:05:52.000Z</updated>
-        <summary type="html"><![CDATA[A key part of most backend development projects is CRUD. Simply put, CRUD stands for Create, Read, Update, Delete. These fundamental operations form the basis of how data is handled in many applications, making understanding them crucial for backend development. We just posted a course on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Accessibility Standards Can Empower Better Chart Visual Design]]></title>
         <id>https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/</id>
         <link href="https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/"/>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kent Eisenhuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with Golang – a Developer Roadmap]]></title>
-        <id>https://www.freecodecamp.org/news/golang-developer-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/golang-developer-roadmap/"/>
-        <updated>2024-02-14T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language – also known as Golang – is now almost 15 years old. And it's become a popular choice for web development and microservices thanks to its performance and efficient resource utilisation.  Go jobs are also quite well-paid. As per the Glassdoor report [https://www.glassdoor.com/Salaries/golang-developer-salary-SRCH_KO0,16.htm?countryPickerRedirect=true] , the]]></summary>
-        <author>
-            <name>Shubham Chadokar</name>
         </author>
     </entry>
     <entry>
