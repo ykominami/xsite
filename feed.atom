@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-20T00:10:06.701Z</id>
+    <id>urn:2024-02-21T00:10:02.676Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T00:10:06.701Z</updated>
+    <updated>2024-02-21T00:10:02.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Python Basics – A Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-python-basics/</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-basics/"/>
+        <updated>2024-02-20T19:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Are you eager to dive into the world of programming but unsure where to begin? Look no further – Python is an excellent starting point for both newcomers and seasoned developers.  In this guide, I'll take you through the basics so you can get started on your Python journey.]]></summary>
+        <author>
+            <name>chepkirui dorothy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entering into the World of Concurrency with Python]]></title>
+        <id>https://www.freecodecamp.org/news/concurrency-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/concurrency-in-python/"/>
+        <updated>2024-02-20T18:53:34.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will explore concurrency in Python. We'll discuss Threads and Processes and how they're similar and different. You'll also learn about Multi-threading, Multi-processing, Asynchronous Programming, and Concurrency in general in Python.  Many tutorials discuss these concepts, but they can be challenging to grasp due to the]]></summary>
+        <author>
+            <name>Hemachandra Routhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Structures and Algorithms in 48 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/</id>
+        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/"/>
+        <updated>2024-02-20T18:20:57.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of software development, mastering Data Structures and Algorithms could be a critical step towards securing your dream job.  We just posted a course on the freeCodeCamp.org YouTube channel that will equip you with the knowledge to excel in coding interviews and problem-solving. You will learn the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Console Logging Tips – How to Debug and Understand Your Code]]></title>
+        <id>https://www.freecodecamp.org/news/console-logging-tips/</id>
+        <link href="https://www.freecodecamp.org/news/console-logging-tips/"/>
+        <updated>2024-02-20T18:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Console logging is an essential tool for developers to use to debug and understand the behavior of their code.  While most developers are familiar with basic console logging using  console.log(), there are many other powerful methods provided by the console object that can make debugging more efficient and]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS Flexbox in Spanish – Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-flexbox-in-spanish-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-flexbox-in-spanish-course-for-beginners/"/>
+        <updated>2024-02-20T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[With CSS Flexbox, you can easily create responsive websites that adapt to different screen sizes and devices. It's an essential skill for any modern web developer. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you Flexbox from the fundamentals. By the end of]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Designing For Colorblind People]]></title>
+        <id>https://smashingmagazine.com/2024/02/designing-for-colorblindness/</id>
+        <link href="https://smashingmagazine.com/2024/02/designing-for-colorblindness/"/>
+        <updated>2024-02-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect a Domain Name to a Website Hosted on AWS EC2]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-connect-a-domain-to-a-website-hosted-on-aws-ec2/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-connect-a-domain-to-a-website-hosted-on-aws-ec2/"/>
+        <updated>2024-02-19T23:51:10.000Z</updated>
+        <summary type="html"><![CDATA[You may want to host your website on a virtual private server or a virtual machine like AWS EC2. But it can be a challenge to connect a domain name that you purchased from providers like Namecheap or Godaddy. But if you know the steps to follow, this doesn't have]]></summary>
+        <author>
+            <name>Obed Ehoneah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How JavaScript's Reduce Method Works – Explained with Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/</id>
@@ -53,66 +123,6 @@
         <summary type="html"><![CDATA[On this week's episode of the podcast, I interview orchestral musician-turned software engineer Jessica Wilkins. Jessica found success in the extremely competitive field of classical music, playing the Oboe in orchestras, recording sessions, and even at major events such as the NFL awards on national television. She started her own]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexbox vs Grid in CSS – Which Should You Use?]]></title>
-        <id>https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/"/>
-        <updated>2024-02-16T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever had issues with replicating a particular user interface from a Figma design? Do you find it difficult displaying elements in different sections of your browser screen? A major cause of rift between user interface (UI) designers and frontend developers is the issue of having an awesome UI]]></summary>
-        <author>
-            <name>Maybell Obadoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Optimization Techniques to Help You Write More Performant Code]]></title>
-        <id>https://www.freecodecamp.org/news/react-performance-optimization-techniques/</id>
-        <link href="https://www.freecodecamp.org/news/react-performance-optimization-techniques/"/>
-        <updated>2024-02-16T00:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Performance optimization is a critical aspect of developing web applications. Users expect applications to load quickly and respond to their interactions smoothly.  In the React ecosystem, performance optimization techniques can significantly enhance the user experience by reducing load times and improving responsiveness. In this article, we will discuss eight]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Most of Video Coding Tutorials]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/"/>
-        <updated>2024-02-16T00:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever spent hours watching a coding tutorial, only to get to the end and feel like you haven't learned very much?  We've all been there, and it can be a frustrating experience when learning to code.  In this article, I will show you some of the]]></summary>
-        <author>
-            <name>Chris Blakely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Argo Workflows on Kubernetes]]></title>
-        <id>https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/</id>
-        <link href="https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/"/>
-        <updated>2024-02-15T23:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Argo Workflows is an open source project that enables the orchestration of multiple Kubernetes jobs. Argo Workflows is implemented as a Kubernetes custom resource definition (CRD), which means it is native to the Kubernetes ecosystem and can run on any Kubernetes cluster. Workflows are set steps by which individual jobs]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the JavaScript Filter Method Works – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-filter-method/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-filter-method/"/>
-        <updated>2024-02-15T23:08:24.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript's filter method serves as a powerful tool for selectively extracting elements from arrays based on certain conditions.  Introduced alongside other array methods in ECMAScript 5, the filter method has since become a fundamental feature in JavaScript programming. In this article, we will delve into the JavaScript filter method,]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript in the Browser – How the Document Object Model (DOM) and Events Work]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/"/>
-        <updated>2024-02-15T20:07:14.000Z</updated>
-        <summary type="html"><![CDATA[In this in-depth tutorial, you'll learn all about the Document Object Model, or DOM for short. As a web developer, understanding the DOM is fundamental for interacting with web browsers and creating dynamic web applications.  Throughout this guide, we will explore the DOM's hierarchical tree structure, essential properties, and]]></summary>
-        <author>
-            <name>Samyak Jain</name>
         </author>
     </entry>
     <entry>
