@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-22T00:09:40.078Z</id>
+    <id>urn:2024-02-23T00:09:46.578Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T00:09:40.078Z</updated>
+    <updated>2024-02-23T00:09:46.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
+        <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
+        <link href="https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/"/>
+        <updated>2024-02-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederik Dohr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the :has() Selector in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/"/>
+        <updated>2024-02-22T14:34:24.000Z</updated>
+        <summary type="html"><![CDATA[For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: 
+     
+Paragraph 1
+       
+     	
+Paragraph 2]]></summary>
+        <author>
+            <name>James Charlesworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use the Fullscreen API in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/"/>
+        <updated>2024-02-22T14:17:32.000Z</updated>
+        <summary type="html"><![CDATA[How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JavaScript Map and Set Objects – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/"/>
+        <updated>2024-02-21T21:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Map and Set are two JavaScript data structures you can use to store a collection of values, similar to Objects and Arrays. They are specialized data structures that can help you store and manipulate related values.  In this tutorial, we will see how Map and Set work in detail]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course]]></title>
         <id>https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/</id>
@@ -73,36 +118,6 @@
         <summary type="html"><![CDATA[Are you eager to dive into the world of programming but unsure where to begin? Look no further – Python is an excellent starting point for both newcomers and seasoned developers.  In this guide, I'll take you through the basics so you can get started on your Python journey.]]></summary>
         <author>
             <name>chepkirui dorothy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entering into the World of Concurrency with Python]]></title>
-        <id>https://www.freecodecamp.org/news/concurrency-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/concurrency-in-python/"/>
-        <updated>2024-02-20T18:53:34.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will explore concurrency in Python. We'll discuss Threads and Processes and how they're similar and different. You'll also learn about Multi-threading, Multi-processing, Asynchronous Programming, and Concurrency in general in Python.  Many tutorials discuss these concepts, but they can be challenging to grasp due to the]]></summary>
-        <author>
-            <name>Hemachandra Routhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Structures and Algorithms in 48 Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/"/>
-        <updated>2024-02-20T18:20:57.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of software development, mastering Data Structures and Algorithms could be a critical step towards securing your dream job.  We just posted a course on the freeCodeCamp.org YouTube channel that will equip you with the knowledge to excel in coding interviews and problem-solving. You will learn the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Console Logging Tips – How to Debug and Understand Your Code]]></title>
-        <id>https://www.freecodecamp.org/news/console-logging-tips/</id>
-        <link href="https://www.freecodecamp.org/news/console-logging-tips/"/>
-        <updated>2024-02-20T18:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Console logging is an essential tool for developers to use to debug and understand the behavior of their code.  While most developers are familiar with basic console logging using  console.log(), there are many other powerful methods provided by the console object that can make debugging more efficient and]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +248,6 @@
         <summary type="html"><![CDATA[Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yair Even Or)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond]]></title>
-        <id>https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</id>
-        <link href="https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/"/>
-        <updated>2024-01-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Filip Paldia &amp; Jamie Clarke)</name>
         </author>
     </entry>
 </feed>
