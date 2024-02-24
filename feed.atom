@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T00:09:46.578Z</id>
+    <id>urn:2024-02-24T00:09:17.350Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:09:46.578Z</updated>
+    <updated>2024-02-24T00:09:17.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Google Workspace Addon For Tier 2 CASA Security Assessment – Step by Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/tier-casa-security-assessment/</id>
+        <link href="https://www.freecodecamp.org/news/tier-casa-security-assessment/"/>
+        <updated>2024-02-23T16:43:39.000Z</updated>
+        <summary type="html"><![CDATA[As part of the Google CASA process [https://appdefensealliance.dev/casa], developers can run static analysis on their application’s source code using an inline integration with OpenText’s Fortify Source Code Analyzer (SCA) via the CASA portal. Naturally, I had to prepare my source code as per instruction. In this article, I will share]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What it's like working at ChatGPT Creator Open AI. My Interview with Logan Kilpatrick]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/"/>
+        <updated>2024-02-23T16:18:47.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Fetch API For Beginners – Explained With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/"/>
+        <updated>2024-02-23T12:14:53.000Z</updated>
+        <summary type="html"><![CDATA[The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Interfaces Work – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-typescript-interfaces-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-typescript-interfaces-work/"/>
+        <updated>2024-02-23T10:59:53.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Camera App on the Web – No Plugins Required]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/"/>
+        <updated>2024-02-23T00:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional]]></summary>
+        <author>
+            <name>Favour C. Felix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
         <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
@@ -68,56 +118,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[One of TypeScript's powerful features is type aliases, which allow developers to create custom names for types, enhancing code readability and maintainability. In this article, we'll explore TypeScript type aliases through examples. Table of Contents  * TypeScript Type Aliases  * Examples  * Conclusion What are Type Aliases]]></summary>
         <author>
             <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Node Version Manager In Your React Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/"/>
-        <updated>2024-02-21T13:51:21.000Z</updated>
-        <summary type="html"><![CDATA[In this guide,  you'll learn how to effectively manage multiple Node versions for different projects using Node Version Manager (NVM). Whether you're developing React, Angular, Vue.js, or Node applications, you can always use NVM to set up the project and tailor it down to a specific Node version. Prerequisites Before]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Coding Problems When Building Your Own Projects]]></title>
-        <id>https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/</id>
-        <link href="https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/"/>
-        <updated>2024-02-20T21:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Ah, the joy of coding! There you are, cruising through your project, when suddenly – bam! – you hit a bug. It's like hitting a wall in a maze. But fear not, fellow coder, for I bring you the trusty map to navigate the treacherous bug-infested waters of programming. Whether]]></summary>
-        <author>
-            <name>Chris Blakely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use LocalStorage in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/</id>
-        <link href="https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/"/>
-        <updated>2024-02-20T21:37:46.000Z</updated>
-        <summary type="html"><![CDATA[In modern web development, having a way to persist data helps developers improve performance and create a better user experience. And using local storage is an effective way of persisting data in an application. In this article, you will learn what local storage is and how to use it in]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Types Work in TypeScript – Explained with JavaScript + TypeScript Code]]></title>
-        <id>https://www.freecodecamp.org/news/basic-typescript-types/</id>
-        <link href="https://www.freecodecamp.org/news/basic-typescript-types/"/>
-        <updated>2024-02-20T21:05:51.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript is a superset of JavaScript that introduces static typing to JavaScript. TypeScript's enhanced type safety and code maintainability empower developers to write code more confidently. A fundamental aspect of TypeScript's static typing system is its support for basic types. These provide a foundation for defining the shape and behavior]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python Basics – A Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/learn-python-basics/</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-basics/"/>
-        <updated>2024-02-20T19:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Are you eager to dive into the world of programming but unsure where to begin? Look no further – Python is an excellent starting point for both newcomers and seasoned developers.  In this guide, I'll take you through the basics so you can get started on your Python journey.]]></summary>
-        <author>
-            <name>chepkirui dorothy</name>
         </author>
     </entry>
     <entry>
