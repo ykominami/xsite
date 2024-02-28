@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.",
+          "link": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "publishedOn": "2024-02-27T12:00:00.000Z",
+          "wordCount": 5331,
+          "title": "Reporting Core Web Vitals With The Performance API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
           "author": "hello@smashingmagazine.com (Yichan Wang)",
           "description": "Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.",
           "link": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
           "publishedOn": "2024-02-26T18:00:00.000Z",
-          "wordCount": 8468,
+          "wordCount": 8416,
           "title": "A Web Designer’s Accessibility Advocacy Toolkit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-designer-accessibility-advocacy-toolkit/web-designer-accessibility-advocacy-toolkit.jpg",
@@ -38,7 +53,7 @@
           "description": "It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.",
           "link": "https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
           "publishedOn": "2024-02-22T18:00:00.000Z",
-          "wordCount": 4739,
+          "wordCount": 4842,
           "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
           "enclosure": {
             "url": "http://files.smashing.media/articles/vanilla-javascript-libraries-quest-stateful-dom-rendering/vanilla-javascript-libraries-quest-stateful-dom-rendering.jpg",
@@ -53,7 +68,7 @@
           "description": "Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.",
           "link": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
           "publishedOn": "2024-02-20T12:00:00.000Z",
-          "wordCount": 3559,
+          "wordCount": 3554,
           "title": "A Practical Guide To Designing For Colorblind People",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg",
@@ -68,7 +83,7 @@
           "description": "Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.",
           "link": "https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/",
           "publishedOn": "2024-02-19T10:00:00.000Z",
-          "wordCount": 4673,
+          "wordCount": 4783,
           "title": "Mobile Accessibility Barriers For Assistive Technology Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mobile-accessibility-barriers-assistive-technology-users/mobile-accessibility-barriers-assistive-technology-users.jpg",
@@ -83,7 +98,7 @@
           "description": "Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.",
           "link": "https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/",
           "publishedOn": "2024-02-14T15:00:00.000Z",
-          "wordCount": 6083,
+          "wordCount": 6078,
           "title": "How Accessibility Standards Can Empower Better Chart Visual Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-standards-empower-better-chart-visual-design/accessibility-standards-empower-better-chart-visual-design.jpg",
@@ -98,7 +113,7 @@
           "description": "How to design for children aged 3–12, with insights into user behavior, considerations for parents, and practical UX guidelines.",
           "link": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
           "publishedOn": "2024-02-13T12:00:00.000Z",
-          "wordCount": 3574,
+          "wordCount": 3579,
           "title": "A Practical Guide To Designing For Children",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg",
@@ -113,7 +128,7 @@
           "description": "A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.",
           "link": "https://smashingmagazine.com/2024/02/draw-radar-charts-web/",
           "publishedOn": "2024-02-09T15:00:00.000Z",
-          "wordCount": 5597,
+          "wordCount": 5599,
           "title": "How To Draw Radar Charts In Web",
           "enclosure": {
             "url": "http://files.smashing.media/articles/draw-radar-charts-web/draw-radar-charts-web.jpg",
@@ -128,7 +143,7 @@
           "description": "What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.",
           "link": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
           "publishedOn": "2024-02-08T13:00:00.000Z",
-          "wordCount": 4318,
+          "wordCount": 4315,
           "title": "Frequently Heard In My Beginning Front-End Web Development Class",
           "enclosure": {
             "url": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg",
@@ -143,7 +158,7 @@
           "description": "An overwhelming number of frameworks and tooling available today gives the impression that web development has gotten perhaps too complex. Juan Diego Rodríguez explores if web development really is that complex and, most importantly, how we can prevent it from getting even more difficult than we already perceive it to be.",
           "link": "https://smashingmagazine.com/2024/02/web-development-getting-too-complex/",
           "publishedOn": "2024-02-07T13:00:00.000Z",
-          "wordCount": 7280,
+          "wordCount": 7285,
           "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-development-getting-too-complex/web-development-getting-too-complex.jpg",
@@ -158,7 +173,7 @@
           "description": "With one billion people aged 60 or older worldwide, inclusivity is more important than ever. Learn how to create digital experiences that empower independence and competence for older adults while enhancing usability for all. An upcoming part of Smart Interface Design Patterns.",
           "link": "https://smashingmagazine.com/2024/02/guide-designing-older-adults/",
           "publishedOn": "2024-02-06T08:00:00.000Z",
-          "wordCount": 3555,
+          "wordCount": 3552,
           "title": "A Guide To Designing For Older Adults",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-designing-older-adults/guide-designing-older-adults.jpg",
@@ -173,7 +188,7 @@
           "description": "As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.",
           "link": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
           "publishedOn": "2024-02-02T13:00:00.000Z",
-          "wordCount": 7598,
+          "wordCount": 7592,
           "title": "When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg",
@@ -188,7 +203,7 @@
           "description": "With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/",
           "publishedOn": "2024-01-31T12:30:00.000Z",
-          "wordCount": 4922,
+          "wordCount": 4917,
           "title": "29 Days Of Inspiration (February 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2024/feb-24-love-myself-preview-opt.png",
@@ -203,7 +218,7 @@
           "description": "Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.",
           "link": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
           "publishedOn": "2024-01-29T15:00:00.000Z",
-          "wordCount": 5225,
+          "wordCount": 5221,
           "title": "The Feature Trap: Why Feature Centricity Is Harming Your Product",
           "enclosure": {
             "url": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg",
@@ -220,104 +235,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/performance-testing-for-web-applications/",
-          "author": "oluwatobi Joshua",
-          "description": "Performance testing is an important yet underrated field of software development. And it’s a must-have skill that can help you prevent common software failures that occur in production applications.  Performance testing is a routine software practice which is carried out to determine the stability of a system in terms",
-          "link": "https://www.freecodecamp.org/news/performance-testing-for-web-applications/",
-          "publishedOn": "2024-02-26T19:52:39.000Z",
-          "wordCount": 2097,
-          "title": "How to Perform Performance Testing on Your Web Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/performance-test2.jpg"
+          "id": "https://www.freecodecamp.org/news/regex-in-javascript/",
+          "author": "Samyak Jain",
+          "description": "Regular expressions, also known as regex, are powerful tools for pattern matching and text manipulation. Whether you're validating user input, extracting data from strings, or performing advanced text processing tasks, understanding regex is essential for developers. This comprehensive guide will walk you through the fundamentals of regular expressions in JavaScript,",
+          "link": "https://www.freecodecamp.org/news/regex-in-javascript/",
+          "publishedOn": "2024-02-27T20:17:37.000Z",
+          "wordCount": 6302,
+          "title": "Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Regular-Expressions-in-JavaScript-Cover-2.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/advanced-css-selectors/",
-          "author": "Ophy Boamah",
-          "description": "Writing CSS is often painful for a lot of developers, because many of us lose our curiosity very early in the learning journey. For instance, as soon as we learn basic CSS selectors, we settle into a pattern of using only those, thinking they're all we need. But what if",
-          "link": "https://www.freecodecamp.org/news/advanced-css-selectors/",
-          "publishedOn": "2024-02-26T17:12:11.000Z",
-          "wordCount": 2942,
-          "title": "Advanced CSS Selectors – How and When to Use Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Advanced-CSS.png"
+          "id": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
+          "author": "Matéush",
+          "description": "In this tutorial, I will show you how using indices to render an array of components in React can be problematic. I'll also teach you how to mitigate array rendering issues with unique ids. As always, we'll work on a real world example and solve problem I stumbled across while",
+          "link": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
+          "publishedOn": "2024-02-27T19:18:13.000Z",
+          "wordCount": 1876,
+          "title": "How to Render an Array of Components in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Array-components.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-work-with-redux-thunk/",
-          "author": "Joan Ayebola",
-          "description": "Redux has become the go-to state management library for many JavaScript applications due to its predictable state container and unidirectional data flow. However, handling asynchronous actions in Redux can be a bit tricky. That's where Redux middleware like Redux-Thunk comes to the rescue. In essence, Redux-Thunk enhances the capabilities of",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-redux-thunk/",
-          "publishedOn": "2024-02-26T02:35:31.000Z",
-          "wordCount": 5732,
-          "title": "How to Work with Redux-Thunk – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--11-.png"
+          "id": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
+          "author": "Beau Carnes",
+          "description": "In the ever-evolving landscape of artificial intelligence, staying ahead of the curve is important for both enthusiasts and professionals alike. And one of the most popular elements of AI right now is Generative AI. We just posted a comprehensive course about Generative AI on the freeCodeCamp.org YouTube channel. This course,",
+          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
+          "publishedOn": "2024-02-27T18:25:16.000Z",
+          "wordCount": 1028,
+          "title": "Learn Generative AI in 30 Hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/genai.jpg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/tier-casa-security-assessment/",
-          "author": "Nibesh Khadka",
-          "description": "As part of the Google CASA process [https://appdefensealliance.dev/casa], developers can run static analysis on their application’s source code using an inline integration with OpenText’s Fortify Source Code Analyzer (SCA) via the CASA portal. Naturally, I had to prepare my source code as per instruction. In this article, I will share",
-          "link": "https://www.freecodecamp.org/news/tier-casa-security-assessment/",
-          "publishedOn": "2024-02-23T16:43:39.000Z",
-          "wordCount": 1764,
-          "title": "How to Configure Google Workspace Addon For Tier 2 CASA Security Assessment – Step by Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Addon-Assesment-Poster--4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech",
-          "link": "https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/",
-          "publishedOn": "2024-02-23T16:18:47.000Z",
-          "wordCount": 802,
-          "title": "Podcast: What it's like working at ChatGPT Creator Open AI. My Interview with Logan Kilpatrick",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/logan-kilpatrick-freecodecamp-podcast-open-ai.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/",
-          "author": "Nathan Sebhastian",
-          "description": "The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how",
-          "link": "https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/",
-          "publishedOn": "2024-02-23T12:14:53.000Z",
-          "wordCount": 2285,
-          "title": "JavaScript Fetch API For Beginners – Explained With Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/javascript-fetch-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-typescript-interfaces-work/",
+          "id": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
           "author": "Sahil Mahapatra",
-          "description": "TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.",
-          "link": "https://www.freecodecamp.org/news/how-typescript-interfaces-work/",
-          "publishedOn": "2024-02-23T10:59:53.000Z",
-          "wordCount": 1574,
-          "title": "How TypeScript Interfaces Work – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-2--1.png"
+          "description": "TypeScript, with its powerful type system, offers a feature called Generics, which enables developers to write reusable and type-safe code. Generics allow you to create components that can work over a variety of types rather than a single one. This article delves into TypeScript Generics, providing thorough explanations and code",
+          "link": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
+          "publishedOn": "2024-02-27T13:45:54.000Z",
+          "wordCount": 1450,
+          "title": "How TypeScript Generics Work – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/",
-          "author": "Favour C. Felix",
-          "description": "Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional",
-          "link": "https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/",
-          "publishedOn": "2024-02-23T00:36:03.000Z",
-          "wordCount": 2334,
-          "title": "How to Build a Camera App on the Web – No Plugins Required",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/supercharged-animations.png"
+          "id": "https://www.freecodecamp.org/news/javascript-ternary-operator-explained/",
+          "author": "Franklin Okolie",
+          "description": "Tired of bulky if-else statements? JavaScript's ternary operator offers a powerful solution. This handy tool lets you condense complex conditional logic into a single line, making your code cleaner, more elegant, and efficient. In this article, we'll take a deep dive into the ternary operator, understanding its syntax and showcasing",
+          "link": "https://www.freecodecamp.org/news/javascript-ternary-operator-explained/",
+          "publishedOn": "2024-02-27T13:04:50.000Z",
+          "wordCount": 2872,
+          "title": "How to Use the Ternary Operator in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ternary-operator-1.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/",
-          "author": "James Charlesworth",
-          "description": "For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: \n     \nParagraph 1\n       \n     \t\nParagraph 2",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/",
-          "publishedOn": "2024-02-22T14:34:24.000Z",
-          "wordCount": 1098,
-          "title": "How to Use the :has() Selector in CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-alizee-marchand-947457.jpg"
+          "id": "https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/",
+          "author": "John Caleb",
+          "description": "Tailwind CSS has been quite popular in the web development world due to its utility-first approach and seamless integration.  However, when developing mobile apps with React Native, integrating Tailwind CSS may be challenging. But guess what? Not anymore. With the development of tools such as NativeWind [https://www.nativewind.dev/], React Native",
+          "link": "https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/",
+          "publishedOn": "2024-02-27T09:22:11.000Z",
+          "wordCount": 2085,
+          "title": "How to Add Tailwind CSS to Your React Native Expo App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/FREECODE-CAMP-DEFAULT-1-.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/",
-          "author": "Hunor Márton Borbély",
-          "description": "How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long",
-          "link": "https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/",
-          "publishedOn": "2024-02-22T14:17:32.000Z",
-          "wordCount": 2233,
-          "title": "How to use the Fullscreen API in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Untitled.022.png"
+          "id": "https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/",
+          "author": "Joel Hereth",
+          "description": "In the vast and ever-growing realm of data analytics, Structured Query Language [/news/what-is-sql-database-definition-for-beginners/] (SQL) serves as a fundamental building block.  While SQL's roots lie in database management, it has expanded its reach, becoming the go-to tool for data extraction, manipulation, and analysis.  Whether you're just starting your journey",
+          "link": "https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/",
+          "publishedOn": "2024-02-27T00:45:00.000Z",
+          "wordCount": 3065,
+          "title": "Essential SQL Concepts for Data Analysts – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Group-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/",
+          "author": "Vikram Aruchamy",
+          "description": "WordPress is a popular content management system (CMS) known for its flexibility and user-friendly interface. But its built-in editor is not ideal for collaborative editing. Many publishers who work with writers need collaborative writing and editing features. This is where Google Docs comes into the picture. It’s a collaborative platform,",
+          "link": "https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/",
+          "publishedOn": "2024-02-26T23:21:35.000Z",
+          "wordCount": 1846,
+          "title": "How to Publish Google Docs to WordPress in an SEO-Optimized Way",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/fcc-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/",
+          "author": "Nathan Sebhastian",
+          "description": "The Geolocation API is a standard API implemented in browsers to retrieve the location of the people who are interacting with a web application. This API enable users to send their location to a web application to enable relevant services, such as seeking a restaurant or hotel near the user.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/",
+          "publishedOn": "2024-02-26T22:34:24.000Z",
+          "wordCount": 1745,
+          "title": "How to Use the Geolocation API in JavaScript – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/js-geolocation-api-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hard-parts-of-react/",
+          "author": "Jaja Ibifubara David",
+          "description": "Have you started learning React, only to face bugs that made you contemplate a career in goat herding? Don't worry – we've all been there.  In this guide, you'll join me on a quest through the quirky wonders of React. I'll help you navigate the perplexing moments, ensuring you",
+          "link": "https://www.freecodecamp.org/news/hard-parts-of-react/",
+          "publishedOn": "2024-02-26T21:07:53.000Z",
+          "wordCount": 3481,
+          "title": "How to Learn the Hard Parts of React – and Tips to Conquer Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Article-Cover.png"
         }
       ]
     }

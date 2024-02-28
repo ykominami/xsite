@@ -1,18 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T00:10:18.154Z</id>
+    <id>urn:2024-02-28T00:09:46.014Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T00:10:18.154Z</updated>
+    <updated>2024-02-28T00:09:46.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How to Perform Performance Testing on Your Web Applications]]></title>
-        <id>https://www.freecodecamp.org/news/performance-testing-for-web-applications/</id>
-        <link href="https://www.freecodecamp.org/news/performance-testing-for-web-applications/"/>
-        <updated>2024-02-26T19:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Performance testing is an important yet underrated field of software development. And it’s a must-have skill that can help you prevent common software failures that occur in production applications.  Performance testing is a routine software practice which is carried out to determine the stability of a system in terms]]></summary>
+        <title type="html"><![CDATA[Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/regex-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/regex-in-javascript/"/>
+        <updated>2024-02-27T20:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions, also known as regex, are powerful tools for pattern matching and text manipulation. Whether you're validating user input, extracting data from strings, or performing advanced text processing tasks, understanding regex is essential for developers. This comprehensive guide will walk you through the fundamentals of regular expressions in JavaScript,]]></summary>
         <author>
-            <name>oluwatobi Joshua</name>
+            <name>Samyak Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Render an Array of Components in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/"/>
+        <updated>2024-02-27T19:18:13.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I will show you how using indices to render an array of components in React can be problematic. I'll also teach you how to mitigate array rendering issues with unique ids. As always, we'll work on a real world example and solve problem I stumbled across while]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Generative AI in 30 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-generative-ai-in/</id>
+        <link href="https://www.freecodecamp.org/news/learn-generative-ai-in/"/>
+        <updated>2024-02-27T18:25:16.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of artificial intelligence, staying ahead of the curve is important for both enthusiasts and professionals alike. And one of the most popular elements of AI right now is Generative AI. We just posted a comprehensive course about Generative AI on the freeCodeCamp.org YouTube channel. This course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Generics Work – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-typescript-generics-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-typescript-generics-work/"/>
+        <updated>2024-02-27T13:45:54.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript, with its powerful type system, offers a feature called Generics, which enables developers to write reusable and type-safe code. Generics allow you to create components that can work over a variety of types rather than a single one. This article delves into TypeScript Generics, providing thorough explanations and code]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Ternary Operator in JavaScript – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-ternary-operator-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-ternary-operator-explained/"/>
+        <updated>2024-02-27T13:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Tired of bulky if-else statements? JavaScript's ternary operator offers a powerful solution. This handy tool lets you condense complex conditional logic into a single line, making your code cleaner, more elegant, and efficient. In this article, we'll take a deep dive into the ternary operator, understanding its syntax and showcasing]]></summary>
+        <author>
+            <name>Franklin Okolie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reporting Core Web Vitals With The Performance API]]></title>
+        <id>https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/</id>
+        <link href="https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/"/>
+        <updated>2024-02-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Tailwind CSS to Your React Native Expo App]]></title>
+        <id>https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/</id>
+        <link href="https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/"/>
+        <updated>2024-02-27T09:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Tailwind CSS has been quite popular in the web development world due to its utility-first approach and seamless integration.  However, when developing mobile apps with React Native, integrating Tailwind CSS may be challenging. But guess what? Not anymore. With the development of tools such as NativeWind [https://www.nativewind.dev/], React Native]]></summary>
+        <author>
+            <name>John Caleb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essential SQL Concepts for Data Analysts – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/</id>
+        <link href="https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/"/>
+        <updated>2024-02-27T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In the vast and ever-growing realm of data analytics, Structured Query Language [/news/what-is-sql-database-definition-for-beginners/] (SQL) serves as a fundamental building block.  While SQL's roots lie in database management, it has expanded its reach, becoming the go-to tool for data extraction, manipulation, and analysis.  Whether you're just starting your journey]]></summary>
+        <author>
+            <name>Joel Hereth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Publish Google Docs to WordPress in an SEO-Optimized Way]]></title>
+        <id>https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/</id>
+        <link href="https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/"/>
+        <updated>2024-02-26T23:21:35.000Z</updated>
+        <summary type="html"><![CDATA[WordPress is a popular content management system (CMS) known for its flexibility and user-friendly interface. But its built-in editor is not ideal for collaborative editing. Many publishers who work with writers need collaborative writing and editing features. This is where Google Docs comes into the picture. It’s a collaborative platform,]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Geolocation API in JavaScript – with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/"/>
+        <updated>2024-02-26T22:34:24.000Z</updated>
+        <summary type="html"><![CDATA[The Geolocation API is a standard API implemented in browsers to retrieve the location of the people who are interacting with a web application. This API enable users to send their location to a web application to enable relevant services, such as seeking a restaurant or hotel near the user.]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn the Hard Parts of React – and Tips to Conquer Them]]></title>
+        <id>https://www.freecodecamp.org/news/hard-parts-of-react/</id>
+        <link href="https://www.freecodecamp.org/news/hard-parts-of-react/"/>
+        <updated>2024-02-26T21:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Have you started learning React, only to face bugs that made you contemplate a career in goat herding? Don't worry – we've all been there.  In this guide, you'll join me on a quest through the quirky wonders of React. I'll help you navigate the perplexing moments, ensuring you]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
         </author>
     </entry>
     <entry>
@@ -26,76 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advanced CSS Selectors – How and When to Use Them]]></title>
-        <id>https://www.freecodecamp.org/news/advanced-css-selectors/</id>
-        <link href="https://www.freecodecamp.org/news/advanced-css-selectors/"/>
-        <updated>2024-02-26T17:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Writing CSS is often painful for a lot of developers, because many of us lose our curiosity very early in the learning journey. For instance, as soon as we learn basic CSS selectors, we settle into a pattern of using only those, thinking they're all we need. But what if]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Redux-Thunk – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-redux-thunk/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-redux-thunk/"/>
-        <updated>2024-02-26T02:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Redux has become the go-to state management library for many JavaScript applications due to its predictable state container and unidirectional data flow. However, handling asynchronous actions in Redux can be a bit tricky. That's where Redux middleware like Redux-Thunk comes to the rescue. In essence, Redux-Thunk enhances the capabilities of]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Configure Google Workspace Addon For Tier 2 CASA Security Assessment – Step by Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/tier-casa-security-assessment/</id>
-        <link href="https://www.freecodecamp.org/news/tier-casa-security-assessment/"/>
-        <updated>2024-02-23T16:43:39.000Z</updated>
-        <summary type="html"><![CDATA[As part of the Google CASA process [https://appdefensealliance.dev/casa], developers can run static analysis on their application’s source code using an inline integration with OpenText’s Fortify Source Code Analyzer (SCA) via the CASA portal. Naturally, I had to prepare my source code as per instruction. In this article, I will share]]></summary>
-        <author>
-            <name>Nibesh Khadka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: What it's like working at ChatGPT Creator Open AI. My Interview with Logan Kilpatrick]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/"/>
-        <updated>2024-02-23T16:18:47.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Fetch API For Beginners – Explained With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/"/>
-        <updated>2024-02-23T12:14:53.000Z</updated>
-        <summary type="html"><![CDATA[The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How TypeScript Interfaces Work – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-typescript-interfaces-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-typescript-interfaces-work/"/>
-        <updated>2024-02-23T10:59:53.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Camera App on the Web – No Plugins Required]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/"/>
-        <updated>2024-02-23T00:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional]]></summary>
-        <author>
-            <name>Favour C. Felix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
         <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
         <link href="https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/"/>
@@ -103,31 +133,6 @@
         <summary type="html"><![CDATA[It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederik Dohr)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the :has() Selector in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/"/>
-        <updated>2024-02-22T14:34:24.000Z</updated>
-        <summary type="html"><![CDATA[For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: 
-     
-Paragraph 1
-       
-     	
-Paragraph 2]]></summary>
-        <author>
-            <name>James Charlesworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the Fullscreen API in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/"/>
-        <updated>2024-02-22T14:17:32.000Z</updated>
-        <summary type="html"><![CDATA[How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
         </author>
     </entry>
     <entry>
