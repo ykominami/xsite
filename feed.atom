@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-01T00:11:20.139Z</id>
+    <id>urn:2024-03-02T00:09:32.339Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T00:11:20.139Z</updated>
+    <updated>2024-03-02T00:09:32.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Lists in Python – Explained with Example Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-lists-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lists-in-python/"/>
+        <updated>2024-03-01T20:02:25.000Z</updated>
+        <summary type="html"><![CDATA[In Python, lists are a cornerstones of data organization and manipulation – so I think they deserve a thorough exploration.  This article delves into how to create and manipulate lists in Python, some advanced functionalities, and some practical applications of lists. You can get all the source code from]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caching vs Content Delivery Networks – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/caching-vs-content-delivery-network/</id>
+        <link href="https://www.freecodecamp.org/news/caching-vs-content-delivery-network/"/>
+        <updated>2024-03-01T19:27:51.000Z</updated>
+        <summary type="html"><![CDATA[In the world of network optimization, Content Delivery Networks (CDNs) and caching play a vital role in improving website performance and user experience.  And while both aim to speed up website loading times, they have distinct purposes and mechanisms.  In this tutorial, we'll dive deep into the details]]></summary>
+        <author>
+            <name>Anamika Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Compress Files to ".gz" on the Windows Operating System]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/"/>
+        <updated>2024-03-01T19:15:53.000Z</updated>
+        <summary type="html"><![CDATA[You may often need to compress files and folders for various reasons. And "Gzip" compression is a good choice for many scenarios.  Recently, I have faced an issue where I needed to compress a lot of files individually, and manual intervention to compress each file one by one using]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast – AI and the Future of Education with Seth Goldin]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/"/>
+        <updated>2024-03-01T17:47:29.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of the podcast, freeCodeCamp founder Quincy Larson discusses AI and the future of education with Seth Goldin.  Among other things, Seth is co-founder of College Compendium, an education charity, and studies computer science at Yale. Also, the quote Quincy mentioned during the conversation about AI]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern CSS Tooltips And Speech Bubbles (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</id>
+        <link href="https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/"/>
+        <updated>2024-03-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React – A Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/react-for-beginners-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/react-for-beginners-handbook/"/>
+        <updated>2024-03-01T00:34:46.000Z</updated>
+        <summary type="html"><![CDATA[The goal of this handbook is to provide gentle step-by-step instructions that will help you learn the key concepts of React. Instead of covering all the theories and concepts of React in their entirety, I'll be teaching you important building blocks of the library. You'll learn about JSX, components, props,]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Methods in Java – Explained with Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/java-methods/</id>
@@ -56,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build A House Price Prediction Model – Linear Regression Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-house-price-prediction-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-house-price-prediction-model/"/>
-        <updated>2024-02-29T13:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how algorithms predict future house prices, stock market trends, or even your next movie preference? The answer lies in a fundamental yet powerful tool called linear regression.  Don't be fooled by its seemingly simple equation – this article will unveil its magic, empowering you to build and]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel Praise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply Math with Python – Numerical Analysis Explained]]></title>
-        <id>https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/"/>
-        <updated>2024-02-29T11:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Numerical analysis is the bridge between math and computer science.  Essentially, it is the development of algorithms that approximate solutions that pure math would also solve, but using less computational resources and faster. This field is very important. Because for most solutions in the real world, we only need]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Waiting For Spring (March 2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/</id>
         <link href="https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/"/>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access Properties from an Array of Objects in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/"/>
-        <updated>2024-02-29T00:59:30.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with JavaScript applications, it's common to work with arrays, nested arrays, and an array of objects. But a lot of beginners sometimes struggle with knowing how to access properties from these different data structures. In this article, we will discuss how to access properties from a variety]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Idempotence? Explained with Real-World Examples]]></title>
-        <id>https://www.freecodecamp.org/news/idempotence-explained/</id>
-        <link href="https://www.freecodecamp.org/news/idempotence-explained/"/>
-        <updated>2024-02-29T00:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Idempotence is a property of an operation that ensures that, if the operation is repeated once or more than once, you get the same result. Apply it once or more and the outcome's the same, idempotence is the name. All rhyming aside, idempotence is an important concept often used in]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Node.js Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/serverless-node-js-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/serverless-node-js-tutorial/"/>
-        <updated>2024-02-28T20:59:09.000Z</updated>
-        <summary type="html"><![CDATA[The shift towards serverless architectures is rapidly becoming a pivotal aspect of application development. Even Node.js, which is traditionally used with servers, can be used to build a serverless application. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop serverless applications using]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Maximillian Piras)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29 Days Of Inspiration (February 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/</id>
-        <link href="https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/"/>
-        <updated>2024-01-31T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
