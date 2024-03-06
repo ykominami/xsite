@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-05T00:09:50.952Z</id>
+    <id>urn:2024-03-06T00:10:11.684Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T00:09:50.952Z</updated>
+    <updated>2024-03-06T00:10:11.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Audio to Text using OpenAI Whisper]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/"/>
+        <updated>2024-03-05T13:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Do you know what OpenAI Whisper is? It’s the latest AI model from OpenAI that helps you to automatically convert speech to text. Transforming audio into text is now simpler and more accurate, thanks to OpenAI’s Whisper. This article will guide you through using Whisper to convert spoken words into]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ensure Open Source License Compliance in Your Business]]></title>
+        <id>https://www.freecodecamp.org/news/ensure-open-source-license-compliance-in-business/</id>
+        <link href="https://www.freecodecamp.org/news/ensure-open-source-license-compliance-in-business/"/>
+        <updated>2024-03-05T11:01:08.000Z</updated>
+        <summary type="html"><![CDATA[If you're using open source code in your operations, you'll want to manage things properly or potentially face legal issues, financial penalties, and damage to your reputation.  You don't need a law degree to avoid problems, but you should definitely familiarize yourself with some basic principles. This article comes]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Microsoft Fabric? How to Build a Customer Segmentation Project]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-microsoft-fabric/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-microsoft-fabric/"/>
+        <updated>2024-03-05T01:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Fabric is a data analytics tool that can help you streamline all your data needs and workflows, from data integration to analytics and engineering. In this guide, I'll explain what Microsoft Fabric is in more detail, how it works, and walk you through building a project with it. If]]></summary>
+        <author>
+            <name>Benny Ifeanyi Iheagwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn C# Programming]]></title>
         <id>https://www.freecodecamp.org/news/learn-c-sharp-programming/</id>
@@ -13,6 +43,16 @@
         <summary type="html"><![CDATA[C# is a popular programming language used for developing a wide array of applications, including web, mobile, desktop, and gaming applications, providing a robust platform for developers to build dynamic and scalable solutions across various industries. We just posted a course on the freeCodeCamp.org YouTube channel that will help you]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve the Producer-Consumer Problem in Java using Multithreading]]></title>
+        <id>https://www.freecodecamp.org/news/java-multithreading-producer-consumer-problem/</id>
+        <link href="https://www.freecodecamp.org/news/java-multithreading-producer-consumer-problem/"/>
+        <updated>2024-03-04T17:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Concurrency is an important part of Java applications. Each application has multiple processes running at the same time. This helps utilize resources efficiently and improve performance. Multithreading is a method of achieving concurrency. It uses the concept of threads – lightweight processes – to execute multiple tasks in parallel. A]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
         </author>
     </entry>
     <entry>
@@ -66,36 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caching vs Content Delivery Networks – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/caching-vs-content-delivery-network/</id>
-        <link href="https://www.freecodecamp.org/news/caching-vs-content-delivery-network/"/>
-        <updated>2024-03-01T19:27:51.000Z</updated>
-        <summary type="html"><![CDATA[In the world of network optimization, Content Delivery Networks (CDNs) and caching play a vital role in improving website performance and user experience.  And while both aim to speed up website loading times, they have distinct purposes and mechanisms.  In this tutorial, we'll dive deep into the details]]></summary>
-        <author>
-            <name>Anamika Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Compress Files to ".gz" on the Windows Operating System]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/"/>
-        <updated>2024-03-01T19:15:53.000Z</updated>
-        <summary type="html"><![CDATA[You may often need to compress files and folders for various reasons. And "Gzip" compression is a good choice for many scenarios.  Recently, I have faced an issue where I needed to compress a lot of files individually, and manual intervention to compress each file one by one using]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast – AI and the Future of Education with Seth Goldin]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/"/>
-        <updated>2024-03-01T17:47:29.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of the podcast, freeCodeCamp founder Quincy Larson discusses AI and the future of education with Seth Goldin.  Among other things, Seth is co-founder of College Compendium, an education charity, and studies computer science at Yale. Also, the quote Quincy mentioned during the conversation about AI]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modern CSS Tooltips And Speech Bubbles (Part 1)]]></title>
         <id>https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</id>
         <link href="https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/"/>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React – A Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/react-for-beginners-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/react-for-beginners-handbook/"/>
-        <updated>2024-03-01T00:34:46.000Z</updated>
-        <summary type="html"><![CDATA[The goal of this handbook is to provide gentle step-by-step instructions that will help you learn the key concepts of React. Instead of covering all the theories and concepts of React in their entirety, I'll be teaching you important building blocks of the library. You'll learn about JSX, components, props,]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
         </author>
     </entry>
     <entry>
