@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-09T00:09:24.410Z</id>
+    <id>urn:2024-03-10T00:11:05.545Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T00:09:24.410Z</updated>
+    <updated>2024-03-10T00:11:05.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom API Gateway with Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/"/>
+        <updated>2024-03-08T23:16:38.000Z</updated>
+        <summary type="html"><![CDATA[In the era of microservices [https://www.brightsidecodes.com/blog/understanding-microservices-and-api-gateway] , where applications are divided into smaller, independently deployable services, managing and securing the communication between these services becomes crucial. This is where an API gateway comes into play.  An API gateway serves as a central entry point for all client requests. It]]></summary>
+        <author>
+            <name>Iroro Chadere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Form Handling with JavaScript – Explained with Example Code]]></title>
+        <id>https://www.freecodecamp.org/news/form-validation-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/form-validation-in-javascript/"/>
+        <updated>2024-03-08T21:10:35.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand.  This comprehensive guide covers various aspects of HTML forms, from how to create and structure forms to JavaScript interaction and]]></summary>
+        <author>
+            <name>Samyak Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Success At Scale: Last Chance For Pre-Sale Price]]></title>
         <id>https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/</id>
@@ -16,11 +36,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast: Having Fun in Tech with  CTO and Meme Queen Cassidy Williams (Cassidoo)]]></title>
+        <title type="html"><![CDATA[From Microsoft to Amazon to CTO – Quincy Interviews Meme Queen Cassidoo (Cassidy Williams)]]></title>
         <id>https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/</id>
         <link href="https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/"/>
         <updated>2024-03-08T15:45:47.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of The freeCodeCamp Podcast, I interview developer-turned-CTO Cassidy Williams, also known as Cassidoo on Twitter and TikTok. She's worked in tech for over a decade as a developer at several tech companies, including Amazon and Netlify. She has gradually progressed to senior developer and now CTO.]]></summary>
+        <summary type="html"><![CDATA[In this week's episode of The freeCodeCamp Podcast, I interview developer-turned-CTO Cassidy Williams, also known as Cassidoo on Twitter and TikTok. She's worked in tech for over a decade as a developer at several tech companies, including Amazon, Microsoft, and Netlify. She has gradually progressed to senior developer and now]]></summary>
         <author>
             <name>Quincy Larson</name>
         </author>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[When it comes to web development, it's hard to ignore React.js. It has been one of the leading user interface libraries for a decade, and it supports a lot of popular frameworks like Next.js in the background. If you are a React developer, you likely appreciate its component-based architecture, uni-directional]]></summary>
         <author>
             <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Tailwind CSS in Spanish – Full Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/"/>
-        <updated>2024-03-07T15:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Tailwind is a CSS framework with pre-defined classes that you can combine to build modern and responsive websites. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you Tailwind CSS. You will go from the basics to actually building your own real-world projects. By]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Interactive Button Component in Figma]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-an-interactive-button-component-in-figma/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-interactive-button-component-in-figma/"/>
-        <updated>2024-03-06T18:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Designers are always searching for tools that help ease their workflow and create innovative solutions for their users. This ranges from components, style guides, and design systems, to plugins and extensions. In this article, we're going to look at components as features which can help boost your efficiency as a]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +233,6 @@
         <summary type="html"><![CDATA[A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frequently Heard In My Beginning Front-End Web Development Class]]></title>
-        <id>https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/</id>
-        <link href="https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/"/>
-        <updated>2024-02-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
