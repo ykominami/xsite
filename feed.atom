@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-14T00:09:46.146Z</id>
+    <id>urn:2024-03-15T00:09:46.351Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T00:09:46.146Z</updated>
+    <updated>2024-03-15T00:09:46.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Back End Developer Roadmap]]></title>
+        <id>https://www.freecodecamp.org/news/back-end-developer/</id>
+        <link href="https://www.freecodecamp.org/news/back-end-developer/"/>
+        <updated>2024-03-14T14:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a back end developer, this is where to start. We just released our back end developer]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Neovim Using the nvchad Framework]]></title>
+        <id>https://www.freecodecamp.org/news/install-neovim-with-nvchad/</id>
+        <link href="https://www.freecodecamp.org/news/install-neovim-with-nvchad/"/>
+        <updated>2024-03-14T14:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Neovim [https://neovim.io/] is a popular IDE and is a solid alternative to VS Code. Neovim supports every major programming language and allows you to build anything, anywhere.  Neovim can be a bit problematic to start with, especially for newcomers. Writing a Neovim configuration from scratch is often difficult. To]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use and Create Streams from Scratch in Dart and Flutter – a Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-and-create-streams-in-dart-and-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-and-create-streams-in-dart-and-flutter/"/>
+        <updated>2024-03-14T13:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Programming can be a rollercoaster ride. It catapults you from feeling like a genius to feeling utterly clueless, and back again — all in the blink of an eye.  What's even more wild is that this cycle repeats itself countless times throughout the day, and for the entirety of]]></summary>
+        <author>
+            <name>Daniel Asaboro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localize Your Websites with Crowdin]]></title>
+        <id>https://www.freecodecamp.org/news/localize-websites-with-crowdin/</id>
+        <link href="https://www.freecodecamp.org/news/localize-websites-with-crowdin/"/>
+        <updated>2024-03-13T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Reaching a global audience is crucial for the success of any online platform, whether it is an app or a website. Understanding and implementing effective localization strategies can significantly enhance user engagement by providing content in the user's native language. We just posted a course on the freeCodeCamp.org YouTube channel]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Better AI Workflows with Langchain]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-better-ai-workflows-with-langchain/</id>
@@ -40,7 +80,7 @@
         <id>https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/</id>
         <link href="https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/"/>
         <updated>2024-03-12T17:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Are you gearing up for coding interviews and looking to strengthen your grasp on JavaScript algorithms? We just posted a course on the FfreeCodeCamp.org YouTube channel that will equip you with the essential skills to excel in Leetcode-style coding challenges. Mukhtar from Coding Monkey developed this course. The course begins]]></summary>
+        <summary type="html"><![CDATA[Are you gearing up for coding interviews and looking to strengthen your grasp on JavaScript algorithms? We just posted a course on the freeCodeCamp Community YouTube channel that will equip you with the essential skills to excel in Leetcode-style coding challenges. Mukhtar from Coding Monkey developed this course. The course]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -76,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Run GitHub Actions Locally Using the act CLI Tool]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-run-github-actions-locally/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-github-actions-locally/"/>
-        <updated>2024-03-11T20:21:13.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions help automate tasks like building, testing, and deploying in your GitHub repository.  With one click, you can publish your production-ready code or package on npm, GitHub pages, docker images, deploy your production code on a cloud provider, and so on. The problem starts when you're testing GitHub]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom API Gateway with Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/"/>
-        <updated>2024-03-08T23:16:38.000Z</updated>
-        <summary type="html"><![CDATA[In the era of microservices [https://www.brightsidecodes.com/blog/understanding-microservices-and-api-gateway] , where applications are divided into smaller, independently deployable services, managing and securing the communication between these services becomes crucial. This is where an API gateway comes into play.  An API gateway serves as a central entry point for all client requests. It]]></summary>
-        <author>
-            <name>Iroro Chadere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client-Side Form Handling with JavaScript – Explained with Example Code]]></title>
-        <id>https://www.freecodecamp.org/news/form-validation-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/form-validation-in-javascript/"/>
-        <updated>2024-03-08T21:10:35.000Z</updated>
-        <summary type="html"><![CDATA[HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand.  This comprehensive guide covers various aspects of HTML forms, from how to create and structure forms to JavaScript interaction and]]></summary>
-        <author>
-            <name>Samyak Jain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Success At Scale: Last Chance For Pre-Sale Price]]></title>
         <id>https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/</id>
         <link href="https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/"/>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[Our next book, “Success at Scale” is finally at the printer, which means we’ll be shipping books soon. It’s also your last chance to get the book at the presale price. Get your copy and save now!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Microsoft to Amazon to CTO – Quincy Interviews Meme Queen Cassidoo (Cassidy Williams)]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/"/>
-        <updated>2024-03-08T15:45:47.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of The freeCodeCamp Podcast, I interview developer-turned-CTO Cassidy Williams, also known as Cassidoo on Twitter and TikTok. She's worked in tech for over a decade as a developer at several tech companies, including Amazon, Microsoft, and Netlify. She has gradually progressed to senior developer and now]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
