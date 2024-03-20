@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-19T00:10:03.491Z</id>
+    <id>urn:2024-03-20T00:09:38.236Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T00:10:03.491Z</updated>
+    <updated>2024-03-20T00:09:38.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn App Development with Spring Boot 3]]></title>
+        <id>https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/</id>
+        <link href="https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/"/>
+        <updated>2024-03-19T14:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Spring Boot 3 is an advanced framework that simplifies the development of new Spring applications through convention over configuration, providing a range of out-of-the-box functionalities for building enterprise-grade applications efficiently. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to develop apps with Spring]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Always Have A BuildContext in Flutter Outside of UI Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/"/>
+        <updated>2024-03-19T14:42:46.000Z</updated>
+        <summary type="html"><![CDATA[The BuildContext provides important app-wide configuration information to all widgets in the widget tree. It is always naturally available in build methods and within State classes.  In this article, we will explore how we can obtain a valid BuildContext outside the scope of its natural availability. Table Of Contents]]></summary>
+        <author>
+            <name>Obumuneme Nwabude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Data in Transit using HMAC and Diffie-Hellman in Node.js [Full Handbook]]]></title>
+        <id>https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/</id>
+        <link href="https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/"/>
+        <updated>2024-03-18T23:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Data integrity refers to the assurance that data remains accurate, unaltered, and consistent throughout its lifecycle. In communication, it is crucial to ensure data integrity to safeguard against unintended alterations and malicious interventions during transmission. The integrity of Digital Data is accomplished using Hashing Algorithms. The  crypto module in]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Control the Brightness of an LED with a Potentiometer]]></title>
+        <id>https://www.freecodecamp.org/news/control-led-with-potentiometer/</id>
+        <link href="https://www.freecodecamp.org/news/control-led-with-potentiometer/"/>
+        <updated>2024-03-18T19:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Potentiometers are used in various electronic circuits and systems. You can use them in electronic devices to control volume, brightness, motor speed, voltage regulation, and so on. You've most likely used a potentiometer before with appliances like radios, microwaves, blenders, electric fans, game controllers, and others. They are generally used]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023]]></title>
+        <id>https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/</id>
+        <link href="https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/"/>
+        <updated>2024-03-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Krisztina Szerovay)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Linked list? Types of Linked List with Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/</id>
@@ -63,46 +113,6 @@
         <summary type="html"><![CDATA[Miro and Figma are online collaborative canvas type tools that became very popular during the pandemic.  Instead of sticking post it notes on a physical wall, you can now add virtual post its (and a dizzying array of other things) to a virtual canvas. This lets teams collaborate virtually]]></summary>
         <author>
             <name>cedd burge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the iOS Privacy Manifest Means for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/what-the-ios-privacy-manifest-means-for-developers/</id>
-        <link href="https://www.freecodecamp.org/news/what-the-ios-privacy-manifest-means-for-developers/"/>
-        <updated>2024-03-15T16:56:05.000Z</updated>
-        <summary type="html"><![CDATA[At WWDC 2023 [https://developer.apple.com/videos/play/wwdc2023/10060], Apple introduced us to a new bundle resource that is going to be added to every application and library: the privacy manifest. A lot has been written since then about this subject but without that much clarity. When first announced, Apple stated that in the Spring]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]]]></title>
-        <id>https://www.freecodecamp.org/news/stay-at-home-mom-to-developer-podcast/</id>
-        <link href="https://www.freecodecamp.org/news/stay-at-home-mom-to-developer-podcast/"/>
-        <updated>2024-03-15T14:35:20.000Z</updated>
-        <summary type="html"><![CDATA[This week I interview Phoebe Voong-Fadel about her childhood as the daughter of refugees, and how she self-studied coding and became a professional developer at the age of 36. Phoebe worked from age 12 at her parent's Chinese take-out restaurant. She was able to study history at the London]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Claude AI – Introduction to Claude AI + Code Example]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-claude-ai/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-claude-ai/"/>
-        <updated>2024-03-15T00:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Claude is one of the leading Large Language Models (LLMs) in the market, developed by Anthropic — an AI startup that was co-founded by ex OpenAI employees. The company is known for its stringent set of AI ethics and is currently backed by tech giants such as Google and Amazon.]]></summary>
-        <author>
-            <name>Firas Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back End Developer Roadmap]]></title>
-        <id>https://www.freecodecamp.org/news/back-end-developer/</id>
-        <link href="https://www.freecodecamp.org/news/back-end-developer/"/>
-        <updated>2024-03-14T14:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a back end developer, this is where to start. We just released our back end developer]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -203,16 +213,6 @@
         <summary type="html"><![CDATA[Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Accessibility Barriers For Assistive Technology Users]]></title>
-        <id>https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/</id>
-        <link href="https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/"/>
-        <updated>2024-02-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
         </author>
     </entry>
 </feed>
