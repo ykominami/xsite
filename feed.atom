@@ -1,16 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T00:09:51.578Z</id>
+    <id>urn:2024-03-28T00:10:41.606Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T00:09:51.578Z</updated>
+    <updated>2024-03-28T00:10:41.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prop Drilling in React Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/"/>
+        <updated>2024-03-27T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future Of User Research: Expert Insights And Key Trends]]></title>
+        <id>https://smashingmagazine.com/2024/03/the-future-of-user-research/</id>
+        <link href="https://smashingmagazine.com/2024/03/the-future-of-user-research/"/>
+        <updated>2024-03-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Based on responses from over 1,200 product professionals, Maze’s Future of User Research Report uncovers how product teams conduct research to inform decision-making and build successful products. Learn about the top three trends defining the user research industry in 2024 and beyond.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenizers Explained – How Tokenizers Help AI Understand Language]]></title>
+        <id>https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/</id>
+        <link href="https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/"/>
+        <updated>2024-03-27T11:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Tokenizers are the fundamental tools that enable artificial intelligence to dissect and interpret human language. Let’s look at how tokenizers help AI systems comprehend and process language. In the fast-evolving world of natural language processing (NLP), tokenizers play a pivotal role. Tokenizers are the unsung heroes behind the scenes, making]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/</id>
+        <link href="https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/"/>
+        <updated>2024-03-26T21:44:04.000Z</updated>
+        <summary type="html"><![CDATA[In this in-depth tutorial, you'll learn how to build a full-stack Kanban task management app. Along the way, we'll explore the synergies between technologies like Next.js [https://nextjs.org] (featuring a dive into the app router),  Next-auth [https://next-auth.js.org] for user authentication, and Firebase [https://firebase.google.com/], a backend as a service platform to]]></summary>
+        <author>
+            <name>Olasunkanmi Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive NestJS Course]]></title>
+        <id>https://www.freecodecamp.org/news/comprehensive-nestjs-course/</id>
+        <link href="https://www.freecodecamp.org/news/comprehensive-nestjs-course/"/>
+        <updated>2024-03-26T20:27:32.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications using TypeScript and JavaScript.  Learning NestJS can significantly enhance your ability to create structured, maintainable, and testable backend applications, offering a robust toolkit that integrates seamlessly with other modern technologies and methodologies. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Open Source Software Lifecycles Work?]]></title>
+        <id>https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/</id>
+        <link href="https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/"/>
+        <updated>2024-03-26T17:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Software projects follow identifiable milestones as they move towards a successful completion. If you want to give your project the best chances of success, it's important to understand what those milestones mean and how they're defined. This article comes from my Complete LPI Open Source Essentials Exam Study Guide]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Navigation – How to Build a Breadcrumb Component]]></title>
         <id>https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/</id>
         <link href="https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/"/>
         <updated>2024-03-25T22:33:05.000Z</updated>
-        <summary type="html"><![CDATA[I know what you're thinking, but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications, dissecting]]></summary>
+        <summary type="html"><![CDATA[I know what you're thinking – but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications.]]></summary>
         <author>
             <name>Jaja Ibifubara David</name>
         </author>
@@ -77,16 +137,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[She wrote code you use every day – GitHub Dev and Electron JS Pioneer Jessica Lord [freeCodeCamp Podcast #116]]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/"/>
-        <updated>2024-03-22T14:51:00.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Jessica Lord, AKA JLord. She's worked as a software engineer for more than a decade at companies like GitHub and Glitch. Among her many accomplishments, Jessica created the Electron team at GitHub. Electron is a library for building]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles]]></title>
         <id>https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/</id>
         <link href="https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/"/>
@@ -94,46 +144,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Chiara Aliotta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript for Practical Projects]]></title>
-        <id>https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/"/>
-        <updated>2024-03-21T13:58:37.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript is an increasingly popular programming language. We just posted a TypeScript course on the freeCodeCamp.org YouTube channel. I was designed to take you from the basics to the advanced aspects of this powerful language. John Smilga created this course. He has also created many of the most popular courses]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Online Banking System – Python Object-Oriented Programming Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-online-banking-system-python-oop-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-online-banking-system-python-oop-tutorial/"/>
-        <updated>2024-03-20T18:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Object-Oriented Programming (OOP) is a fundamental concept in software engineering that allows software engineers to structure code in a more organized and modular way.  Python, with its clear and concise syntax, is an excellent language for learning and implementing OOP principles.  In this article, we'll  look at the]]></summary>
-        <author>
-            <name>Jacob Isah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master ASP.NET Core by Building Three Projects]]></title>
-        <id>https://www.freecodecamp.org/news/master-asp-net-core-by-building-three-projects/</id>
-        <link href="https://www.freecodecamp.org/news/master-asp-net-core-by-building-three-projects/"/>
-        <updated>2024-03-20T16:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to enhance your web development skills with ASP.NET Core MVC?  We just posted a course on the freeCodeCamp.org YouTube channel that's designed to take you from a novice to a skilled ASP.NET Core developer. Alen Omeri created this course. What You Will Learn This course is]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous vs Batch Data Processing in Distributed Systems – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/asynchronous-vs-batch-processing-in-distributed-systems/</id>
-        <link href="https://www.freecodecamp.org/news/asynchronous-vs-batch-processing-in-distributed-systems/"/>
-        <updated>2024-03-20T15:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Distributed Systems often process and store huge amounts of data. Processing this data efficiently is typically an ongoing endeavor, and how it is designed almost always affects the end-user experience of a product. Two popular modes of processing data are Batch Processing and Asynchronous Processing. We'll learn more about both]]></summary>
-        <author>
-            <name>Anant Chowdhary</name>
         </author>
     </entry>
     <entry>
@@ -214,26 +224,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reporting Core Web Vitals With The Performance API]]></title>
-        <id>https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/</id>
-        <link href="https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/"/>
-        <updated>2024-02-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Web Designer’s Accessibility Advocacy Toolkit]]></title>
-        <id>https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/</id>
-        <link href="https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/"/>
-        <updated>2024-02-26T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yichan Wang)</name>
         </author>
     </entry>
 </feed>
