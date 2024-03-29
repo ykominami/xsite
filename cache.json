@@ -49,7 +49,7 @@
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
           "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4582,
+          "wordCount": 4589,
           "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
@@ -64,7 +64,7 @@
           "description": "Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.",
           "link": "https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/",
           "publishedOn": "2024-03-21T15:00:00.000Z",
-          "wordCount": 6221,
+          "wordCount": 6109,
           "title": "Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg",
@@ -94,7 +94,7 @@
           "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
           "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
           "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7695,
+          "wordCount": 7701,
           "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
@@ -139,7 +139,7 @@
           "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
           "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5155,
+          "wordCount": 5158,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -154,7 +154,7 @@
           "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
           "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
           "publishedOn": "2024-03-06T08:00:00.000Z",
-          "wordCount": 6078,
+          "wordCount": 5962,
           "title": "The End Of My Gatsby Journey",
           "enclosure": {
             "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
@@ -184,7 +184,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
           "publishedOn": "2024-02-29T10:00:00.000Z",
-          "wordCount": 4768,
+          "wordCount": 4771,
           "title": "Waiting For Spring (March 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png",
@@ -201,12 +201,62 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
+          "author": "Beau Carnes",
+          "description": "If you are tired of doing monotonous business tasks, automation can make your life easier. We just posted a no-code automation course on the freeCodeCamp.org YouTube channel that will help you increase your productivity while working less. Ania Kubów, one of freeCodeCamp's most popular instructors, developed this course. She'll guide",
+          "link": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
+          "publishedOn": "2024-03-28T15:15:00.000Z",
+          "wordCount": 953,
+          "title": "Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/make.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "In JavaScript, you may encounter the term \"dead zone.\" While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
+          "publishedOn": "2024-03-28T14:48:44.000Z",
+          "wordCount": 1434,
+          "title": "What is Dead Zone in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
+          "author": "San B",
+          "description": "In March of 2024, Laravel 11 was released [https://blog.laravel.com/laravel-11-now-available]. And with it arrived a new tool in the Laravel ecosystem: Laravel Reverb [https://reverb.laravel.com/]. Reverb is a separate open-source package that's a first-party WebSocket server for Laravel applications. It helps facilitate real-time communication between client and server. Before this new package,",
+          "link": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
+          "publishedOn": "2024-03-27T18:13:43.000Z",
+          "wordCount": 3619,
+          "title": "How to Build Real-Time Chat App with Laravel Reverb",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/laravel-reverb-react-chat-boolfalse.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-react-19-features/",
+          "author": "Neha sharma",
+          "description": "ReactJS is one of the most popular UI libraries in the front-end development world. And one of the reasons I love React is because of the team behind it and the community's enthusiasm for it. And when the community speaks up about the need for new features and improvements, the",
+          "link": "https://www.freecodecamp.org/news/new-react-19-features/",
+          "publishedOn": "2024-03-27T16:43:00.000Z",
+          "wordCount": 4881,
+          "title": "New Features in React 19 – Updates with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-27.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
+          "author": "Losalini Rokocakau",
+          "description": "In this tutorial, I'll teach you how to use the react-data-table-component  library in your React projects. You'll learn how to render a table that has features such as pagination, searching/filtering, and sorting.  I'll walk you through each step, from setting up a React and TypeScript project with Vite",
+          "link": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
+          "publishedOn": "2024-03-27T15:40:38.000Z",
+          "wordCount": 2721,
+          "title": "How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cover-image-21.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
           "author": "Joan Ayebola",
           "description": "Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead",
           "link": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
           "publishedOn": "2024-03-27T14:00:52.000Z",
-          "wordCount": 1439,
+          "wordCount": 1438,
           "title": "Prop Drilling in React Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--14-.png"
         },
@@ -216,7 +266,7 @@
           "description": "Tokenizers are the fundamental tools that enable artificial intelligence to dissect and interpret human language. Let’s look at how tokenizers help AI systems comprehend and process language. In the fast-evolving world of natural language processing (NLP), tokenizers play a pivotal role. Tokenizers are the unsung heroes behind the scenes, making",
           "link": "https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/",
           "publishedOn": "2024-03-27T11:35:07.000Z",
-          "wordCount": 1501,
+          "wordCount": 1500,
           "title": "Tokenizers Explained – How Tokenizers Help AI Understand Language",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/ab427b80-a502-11ea-8467-694f4e40dfa7.png"
         },
@@ -226,17 +276,17 @@
           "description": "In this in-depth tutorial, you'll learn how to build a full-stack Kanban task management app. Along the way, we'll explore the synergies between technologies like Next.js [https://nextjs.org] (featuring a dive into the app router),  Next-auth [https://next-auth.js.org] for user authentication, and Firebase [https://firebase.google.com/], a backend as a service platform to",
           "link": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
           "publishedOn": "2024-03-26T21:44:04.000Z",
-          "wordCount": 13654,
+          "wordCount": 13653,
           "title": "How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Option-1.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
           "author": "Beau Carnes",
-          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications using TypeScript and JavaScript.  Learning NestJS can significantly enhance your ability to create structured, maintainable, and testable backend applications, offering a robust toolkit that integrates seamlessly with other modern technologies and methodologies. We just",
+          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications using TypeScript and JavaScript.  Learning NestJS can significantly enhance your ability to create structured, maintainable, and testable backend applications, offering a robust toolkit that integrates seamlessly with other modern technologies and methodologies. We just posted",
           "link": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
           "publishedOn": "2024-03-26T20:27:32.000Z",
-          "wordCount": 1120,
+          "wordCount": 1118,
           "title": "Comprehensive NestJS Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/nextjsfull.png"
         },
@@ -246,59 +296,9 @@
           "description": "Software projects follow identifiable milestones as they move towards a successful completion. If you want to give your project the best chances of success, it's important to understand what those milestones mean and how they're defined. This article comes from my Complete LPI Open Source Essentials Exam Study Guide",
           "link": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
           "publishedOn": "2024-03-26T17:01:50.000Z",
-          "wordCount": 1744,
+          "wordCount": 1743,
           "title": "How Do Open Source Software Lifecycles Work?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/danial-igdery-FCHlYvR5gJI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
-          "author": "Jaja Ibifubara David",
-          "description": "I know what you're thinking – but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications.",
-          "link": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
-          "publishedOn": "2024-03-25T22:33:05.000Z",
-          "wordCount": 4309,
-          "title": "React Navigation – How to Build a Breadcrumb Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Breadcrumb-article-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
-          "author": "Beau Carnes",
-          "description": "The ability to analyze and interpret data is indispensable across many different industries. And you don't even need to buy any software to expertly analyize data. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you about data analytics through hands-on projects, leveraging a suite of",
-          "link": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
-          "publishedOn": "2024-03-25T19:57:04.000Z",
-          "wordCount": 978,
-          "title": "Unlock the Power of Data Analytics with Free Google Services",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/dataanalytics.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/",
-          "author": "Akande Olalekan Toheeb",
-          "description": "What comes to mind when you hear the term \"the Cloud\"? Do you envision the vast expanse of the sky, with its billowy clouds and soaring birds? In the realm of technology, the term \"Cloud\" has no relation to the atmospheric phenomena or avian inhabitants of the world. Instead, it",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/",
-          "publishedOn": "2024-03-25T18:03:41.000Z",
-          "wordCount": 2664,
-          "title": "How to Start a Career in Cloud Computing in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/",
-          "author": "Nitheesh Poojary",
-          "description": "In the world of networking, you may find yourself troubleshooting problems such as difficulty connecting to other computers or to SSH, problems with IP tables, or being unable to access websites. However, have you ever attempted to troubleshoot your network by applying the OSI Model? Through the use of a",
-          "link": "https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/",
-          "publishedOn": "2024-03-25T17:34:59.000Z",
-          "wordCount": 1852,
-          "title": "How to Troubleshoot Your Network on Linux – OSI Model Troubleshooting Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-great-personal-portfolio-page-a-step-by-step-guide/",
-          "author": "Vahe Aslanyan",
-          "description": "As a developer, you'll want to create a digital space that mirrors your unique skills and persona. And a stellar personal portfolio website can help you make your mark in the digital universe.  Imagine a space that not only highlights your finest achievements but also attracts potential clients and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-great-personal-portfolio-page-a-step-by-step-guide/",
-          "publishedOn": "2024-03-22T21:40:39.000Z",
-          "wordCount": 7645,
-          "title": "How to Create a Great Personal Portfolio Page – a Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/How-to-Create-a-Great-Personal-Portfolio-Page-Cover--1-.png"
         }
       ]
     }
