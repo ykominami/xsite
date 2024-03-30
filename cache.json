@@ -17,7 +17,7 @@
           "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
           "publishedOn": "2024-03-22T18:52:31.000Z",
-          "wordCount": 2217,
+          "wordCount": 2234,
           "title": "Accessible Forms with Pseudo Classes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377565"
         }
@@ -28,6 +28,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
+          "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
+          "publishedOn": "2024-03-29T08:00:00.000Z",
+          "wordCount": 6158,
+          "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -49,7 +64,7 @@
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
           "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4589,
+          "wordCount": 4581,
           "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
@@ -64,7 +79,7 @@
           "description": "Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.",
           "link": "https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/",
           "publishedOn": "2024-03-21T15:00:00.000Z",
-          "wordCount": 6109,
+          "wordCount": 6114,
           "title": "Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg",
@@ -94,7 +109,7 @@
           "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
           "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
           "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7701,
+          "wordCount": 7695,
           "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
@@ -139,7 +154,7 @@
           "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
           "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5158,
+          "wordCount": 5156,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -154,7 +169,7 @@
           "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
           "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
           "publishedOn": "2024-03-06T08:00:00.000Z",
-          "wordCount": 5962,
+          "wordCount": 5969,
           "title": "The End Of My Gatsby Journey",
           "enclosure": {
             "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
@@ -169,7 +184,7 @@
           "description": "Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
           "publishedOn": "2024-03-01T12:00:00.000Z",
-          "wordCount": 6329,
+          "wordCount": 6336,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -177,21 +192,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
-          "publishedOn": "2024-02-29T10:00:00.000Z",
-          "wordCount": 4771,
-          "title": "Waiting For Spring (March 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png"
         }
       ]
     },
@@ -200,6 +200,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Leon Noel, founder of 100Devs and head of engineering at Resilient Coders. Growing up, Leon had it drilled into him that he had to become a doctor, lawyer, or dentist. But his ambitions grew and he went on to have an",
+          "link": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "publishedOn": "2024-03-29T14:10:54.000Z",
+          "wordCount": 928,
+          "title": "Leon Noel has Helped THOUSANDS of People Learn to Code [100Devs founder on freeCodeCamp Podcast #117]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/leon-noel-freecodecamp-podcast-100devs.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
+          "author": "Olabisi Olaoye",
+          "description": "I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns",
+          "link": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
+          "publishedOn": "2024-03-29T00:34:05.000Z",
+          "wordCount": 1081,
+          "title": "How to Extract an Error Object from a Blob API Response in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/React-form-validation--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
           "author": "Beau Carnes",
@@ -279,26 +299,6 @@
           "wordCount": 13653,
           "title": "How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Option-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
-          "author": "Beau Carnes",
-          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications using TypeScript and JavaScript.  Learning NestJS can significantly enhance your ability to create structured, maintainable, and testable backend applications, offering a robust toolkit that integrates seamlessly with other modern technologies and methodologies. We just posted",
-          "link": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
-          "publishedOn": "2024-03-26T20:27:32.000Z",
-          "wordCount": 1118,
-          "title": "Comprehensive NestJS Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/nextjsfull.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
-          "author": "David Clinton",
-          "description": "Software projects follow identifiable milestones as they move towards a successful completion. If you want to give your project the best chances of success, it's important to understand what those milestones mean and how they're defined. This article comes from my Complete LPI Open Source Essentials Exam Study Guide",
-          "link": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
-          "publishedOn": "2024-03-26T17:01:50.000Z",
-          "wordCount": 1743,
-          "title": "How Do Open Source Software Lifecycles Work?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/danial-igdery-FCHlYvR5gJI-unsplash.jpg"
         }
       ]
     }
