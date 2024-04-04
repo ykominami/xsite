@@ -39,12 +39,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
+          "author": "hello@smashingmagazine.com (Tatsiana Tarkan)",
+          "description": "Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.",
+          "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
+          "publishedOn": "2024-04-03T08:00:00.000Z",
+          "wordCount": 5830,
+          "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
           "author": "hello@smashingmagazine.com (Silvestar Bistrović)",
           "description": "Remember the HTML `` element? It’s deprecated, so it’s not like you’re going to use it when you need some sort of horizontal auto-scrolling feature. That’s where CSS comes in because it has all the tools we need to pull it off. Silvestar Bistrović demonstrates a technique that makes it possible with a set of images and as little HTML as possible.",
           "link": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
           "publishedOn": "2024-04-02T12:00:00.000Z",
-          "wordCount": 4900,
+          "wordCount": 4913,
           "title": "Infinite-Scrolling Logos In Flat HTML And Pure CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/infinite-scrolling-logos-html-css/infinite-scrolling-logos-html-css.jpg",
@@ -59,7 +74,7 @@
           "description": "Could there be a better way to welcome the new month than with a little inspiration boost? We might have one for you: desktop wallpapers created by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/",
           "publishedOn": "2024-03-31T08:00:00.000Z",
-          "wordCount": 4889,
+          "wordCount": 4794,
           "title": "Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-22-swing-into-spring-preview-opt.png",
@@ -74,7 +89,7 @@
           "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
           "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
           "publishedOn": "2024-03-29T08:00:00.000Z",
-          "wordCount": 6154,
+          "wordCount": 6160,
           "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
@@ -104,7 +119,7 @@
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
           "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4581,
+          "wordCount": 4577,
           "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
@@ -119,7 +134,7 @@
           "description": "Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.",
           "link": "https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/",
           "publishedOn": "2024-03-21T15:00:00.000Z",
-          "wordCount": 6093,
+          "wordCount": 6114,
           "title": "Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg",
@@ -149,7 +164,7 @@
           "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
           "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
           "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7692,
+          "wordCount": 7690,
           "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
@@ -194,7 +209,7 @@
           "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
           "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5153,
+          "wordCount": 5158,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -209,7 +224,7 @@
           "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
           "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
           "publishedOn": "2024-03-06T08:00:00.000Z",
-          "wordCount": 5965,
+          "wordCount": 5967,
           "title": "The End Of My Gatsby Journey",
           "enclosure": {
             "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
@@ -225,6 +240,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/",
+          "author": "Segun Ajibola",
+          "description": "Pokemon is a Japanese media franchise consisting of video games, animated series and films, a trading card game, and other related media. In this blog, we will be building with a Pokemon GraphQL API that gives us data about different Pokemons. We will be using Apollo and GraphQL to handle",
+          "link": "https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/",
+          "publishedOn": "2024-04-03T12:28:07.000Z",
+          "wordCount": 2354,
+          "title": "How to Build a Pokemon App with GraphQL and Apollo",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Parameters-vs-Arguments--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-api-security-guide/",
+          "author": "oluwatobi Joshua",
+          "description": "Adequate data protection and user confidentiality are key responsibilities for web developers. Hence, it is important to ensure the highest possible security while building API endpoints. The act of application security is a shared responsibility amongst the client and server developers and negligence of one’s role can be disastrous. Statistics",
+          "link": "https://www.freecodecamp.org/news/web-api-security-guide/",
+          "publishedOn": "2024-04-03T09:13:45.000Z",
+          "wordCount": 1735,
+          "title": "How to Prevent Web API Attacks with Data Validation – Web API Security Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/apidat.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-git-basics/",
+          "author": "Samyak Jain",
+          "description": "Welcome to my comprehensive guide on Git, the distributed version control system that has revolutionized collaboration and code management in software development.  Whether you're a seasoned developer or just starting your journey in programming, understanding Git is essential to gain proper control over your code, efficiently managing your projects",
+          "link": "https://www.freecodecamp.org/news/learn-git-basics/",
+          "publishedOn": "2024-04-03T03:57:39.000Z",
+          "wordCount": 6421,
+          "title": "Learn Git Fundamentals – A Handbook on Day-to-Day Development Tasks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Learn-Git-Basics-Cover-3--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-css-variables/",
+          "author": "Matéush",
+          "description": "If you are building websites or web apps, you should already know that code repetition is considered a bad practice. That's why you should learn how to use CSS variables to reduce the amount of CSS code you write and take your styling to a new level. The most successful",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-variables/",
+          "publishedOn": "2024-04-02T19:53:03.000Z",
+          "wordCount": 1653,
+          "title": "How To Use CSS Variables – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/CSS-Variables.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
+          "author": "Beau Carnes",
+          "description": "Dr. Radu is one of the most popular machine learning instructors on the Internet. And now he is back to teach AI and Neural Networks for beginners in an intuitive way. We just posted Dr. Radu's newest course on the freeCodeCamp.org YouTube channel. It's designed to provide a hands-on experience,",
+          "link": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
+          "publishedOn": "2024-04-02T17:14:59.000Z",
+          "wordCount": 905,
+          "title": "Understand AI and Neural Networks by Manually Adjusting Parameters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/understandingai.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/",
           "author": "Sahil Mahapatra",
@@ -274,56 +339,6 @@
           "wordCount": 953,
           "title": "Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/make.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
-          "author": "Joan Ayebola",
-          "description": "In JavaScript, you may encounter the term \"dead zone.\" While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively. Table of Contents",
-          "link": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
-          "publishedOn": "2024-03-28T14:48:44.000Z",
-          "wordCount": 1434,
-          "title": "What is Dead Zone in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
-          "author": "San B",
-          "description": "In March of 2024, Laravel 11 was released [https://blog.laravel.com/laravel-11-now-available]. And with it arrived a new tool in the Laravel ecosystem: Laravel Reverb [https://reverb.laravel.com/]. Reverb is a separate open-source package that's a first-party WebSocket server for Laravel applications. It helps facilitate real-time communication between client and server. Before this new package,",
-          "link": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
-          "publishedOn": "2024-03-27T18:13:43.000Z",
-          "wordCount": 3622,
-          "title": "How to Build a Real-Time Chat App with Laravel Reverb",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/laravel-reverb-react-chat-boolfalse.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/new-react-19-features/",
-          "author": "Neha sharma",
-          "description": "ReactJS is one of the most popular UI libraries in the front-end development world. And one of the reasons I love React is because of the team behind it and the community's enthusiasm for it. And when the community speaks up about the need for new features and improvements, the",
-          "link": "https://www.freecodecamp.org/news/new-react-19-features/",
-          "publishedOn": "2024-03-27T16:43:00.000Z",
-          "wordCount": 4879,
-          "title": "New Features in React 19 – Updates with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-27.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
-          "author": "Losalini Rokocakau",
-          "description": "In this tutorial, I'll teach you how to use the react-data-table-component  library in your React projects. You'll learn how to render a table that has features such as pagination, searching/filtering, and sorting.  I'll walk you through each step, from setting up a React and TypeScript project with Vite",
-          "link": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
-          "publishedOn": "2024-03-27T15:40:38.000Z",
-          "wordCount": 2721,
-          "title": "How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cover-image-21.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
-          "author": "Joan Ayebola",
-          "description": "Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead",
-          "link": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
-          "publishedOn": "2024-03-27T14:00:52.000Z",
-          "wordCount": 1438,
-          "title": "Prop Drilling in React Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--14-.png"
         }
       ]
     }
