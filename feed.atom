@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-04T00:11:03.824Z</id>
+    <id>urn:2024-04-05T00:10:33.114Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T00:11:03.825Z</updated>
+    <updated>2024-04-05T00:10:33.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Bento Grids Design in Your Web Projects]]></title>
+        <id>https://www.freecodecamp.org/news/bento-grids-in-web-design/</id>
+        <link href="https://www.freecodecamp.org/news/bento-grids-in-web-design/"/>
+        <updated>2024-04-04T10:06:39.000Z</updated>
+        <summary type="html"><![CDATA[I believe we may have all noticed the trend of meticulously organized web layouts reminiscent of Japanese bento boxes. These 'Bento Grids' have swiftly gained traction, offering a visually appealing and structurally cohesive way to present content online. In this article, we'll delve into the origins, rise, and practical implementation]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Developer Portfolio as a 2D Game]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/"/>
+        <updated>2024-04-03T19:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of the same old developer portfolios? Want to stand out to potential employers or clients? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Kaboom.js to craft a 2D game that doubles as your developer portfolio! JSLegendDev developed this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Pokemon App with GraphQL and Apollo]]></title>
         <id>https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/</id>
@@ -137,26 +157,6 @@ The Power of :has() in CSS originally published on CSS-Tricks, which is part of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Extract an Error Object from a Blob API Response in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/"/>
-        <updated>2024-03-29T00:34:05.000Z</updated>
-        <summary type="html"><![CDATA[I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns]]></summary>
-        <author>
-            <name>Olabisi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]]]></title>
-        <id>https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/</id>
-        <link href="https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/"/>
-        <updated>2024-03-28T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are tired of doing monotonous business tasks, automation can make your life easier. We just posted a no-code automation course on the freeCodeCamp.org YouTube channel that will help you increase your productivity while working less. Ania Kubów, one of freeCodeCamp's most popular instructors, developed this course. She'll guide]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Future Of User Research: Expert Insights And Key Trends]]></title>
         <id>https://smashingmagazine.com/2024/03/the-future-of-user-research/</id>
         <link href="https://smashingmagazine.com/2024/03/the-future-of-user-research/"/>
@@ -245,16 +245,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End Of My Gatsby Journey]]></title>
-        <id>https://smashingmagazine.com/2024/03/end-of-gatsby-journey/</id>
-        <link href="https://smashingmagazine.com/2024/03/end-of-gatsby-journey/"/>
-        <updated>2024-03-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
