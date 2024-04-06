@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377702",
+          "author": "Chris DeMars",
+          "description": "This is going to be the 2nd post in a small series we are doing on form accessibility. If you missed the first post, check out Accessible Forms with Pseudo Classes. In this post we are going to look …\nManaging User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-user-focus-with-focus-visible/",
+          "publishedOn": "2024-04-05T22:13:47.000Z",
+          "wordCount": 1983,
+          "title": "Managing User Focus with :focus-visible",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377702"
+        },
+        {
           "id": "https://css-tricks.com/?p=377635",
           "author": "Chris DeMars",
           "description": "Hey all you wonderful developers out there! In this post we are going to explore the use of :has() in your next web project. :has() is relatively newish but has gained popularity in the front end community by delivering control …\nThe Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-power-of-has-in-css/",
           "publishedOn": "2024-03-30T02:07:57.000Z",
-          "wordCount": 1931,
+          "wordCount": 1953,
           "title": "The Power of :has() in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377635"
         },
@@ -27,7 +37,7 @@
           "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
           "publishedOn": "2024-03-22T18:52:31.000Z",
-          "wordCount": 2288,
+          "wordCount": 2436,
           "title": "Accessible Forms with Pseudo Classes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377565"
         }
@@ -39,12 +49,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "What can we do to make a mobile app better? What subsidiary features are worth providing for our users? I have some ideas. You might, too. So, let’s compare our notes. Without any prescriptions attached, here are seven features I believe can palpably improve a user’s experience with a mobile app.",
+          "link": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
+          "publishedOn": "2024-04-05T12:00:00.000Z",
+          "wordCount": 4908,
+          "title": "The Things Users Would Appreciate In Mobile Apps",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
           "author": "hello@smashingmagazine.com (Tatsiana Tarkan)",
           "description": "Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.",
           "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
           "publishedOn": "2024-04-03T08:00:00.000Z",
-          "wordCount": 5828,
+          "wordCount": 5817,
           "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
           "enclosure": {
             "url": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg",
@@ -59,7 +84,7 @@
           "description": "Remember the HTML `` element? It’s deprecated, so it’s not like you’re going to use it when you need some sort of horizontal auto-scrolling feature. That’s where CSS comes in because it has all the tools we need to pull it off. Silvestar Bistrović demonstrates a technique that makes it possible with a set of images and as little HTML as possible.",
           "link": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
           "publishedOn": "2024-04-02T12:00:00.000Z",
-          "wordCount": 4903,
+          "wordCount": 4908,
           "title": "Infinite-Scrolling Logos In Flat HTML And Pure CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/infinite-scrolling-logos-html-css/infinite-scrolling-logos-html-css.jpg",
@@ -74,7 +99,7 @@
           "description": "Could there be a better way to welcome the new month than with a little inspiration boost? We might have one for you: desktop wallpapers created by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/",
           "publishedOn": "2024-03-31T08:00:00.000Z",
-          "wordCount": 4825,
+          "wordCount": 4813,
           "title": "Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-22-swing-into-spring-preview-opt.png",
@@ -89,7 +114,7 @@
           "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
           "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
           "publishedOn": "2024-03-29T08:00:00.000Z",
-          "wordCount": 6265,
+          "wordCount": 6153,
           "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
@@ -119,7 +144,7 @@
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
           "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4582,
+          "wordCount": 4580,
           "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
@@ -134,7 +159,7 @@
           "description": "Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.",
           "link": "https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/",
           "publishedOn": "2024-03-21T15:00:00.000Z",
-          "wordCount": 6110,
+          "wordCount": 6117,
           "title": "Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg",
@@ -164,7 +189,7 @@
           "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
           "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
           "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7696,
+          "wordCount": 7695,
           "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
@@ -209,7 +234,7 @@
           "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
           "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5153,
+          "wordCount": 5147,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -225,6 +250,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Jabril. He's an indie game developer who's building a turn-based fighting game called Ultrabouters. Jabril has developed tons of other games as well. He runs the popular Jabrils gamedev focused-YouTube. He's also published a 5-hour introduction to programming course on freeCodeCamp.",
+          "link": "https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/",
+          "publishedOn": "2024-04-05T14:40:59.000Z",
+          "wordCount": 888,
+          "title": "Indie Game Dev Jabrils talks AI, Anime, and How to Build Games [freeCodeCamp Podcast #118]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/jabrils-freecodecamp-podcast.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/secure-container-deployment-with-chainguard/",
+          "author": "David Clinton",
+          "description": "You don't need to convince me that containers are absolutely the best thing to come out of the virtualization revolution. I use containers of one flavor or another just about every day.  But the beauty of template-it-once-and-deploy-it-everywhere comes with a cost: what if a single layer within that template",
+          "link": "https://www.freecodecamp.org/news/secure-container-deployment-with-chainguard/",
+          "publishedOn": "2024-04-05T01:46:19.000Z",
+          "wordCount": 1676,
+          "title": "How to Secure Your Container Deployments with Chainguard",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/frank-mckenna-tjX_sniNzgQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/s-expressions-in-javascript/",
+          "author": "Jakub T. Jankiewicz",
+          "description": "S-expressions are the base of the Lisp family of programming languages. In this article, I will show you how to create a simple S-expression parser step by step. This can be a base for the Lisp parser.  Lisp is the easiest language for implementation, and creating a parser is",
+          "link": "https://www.freecodecamp.org/news/s-expressions-in-javascript/",
+          "publishedOn": "2024-04-04T22:22:06.000Z",
+          "wordCount": 2713,
+          "title": "How to Use S-expressions in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/lisp-parser_2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-router-v6-course/",
+          "author": "Beau Carnes",
+          "description": "If you're building projects with React, you should learn how to use React Router. We just posted a course on the freeCodeCamp.org YouTube channel that covers everything you need to know about routing with React using React Router v6. The course will help you master this essential library for single-page",
+          "link": "https://www.freecodecamp.org/news/learn-react-router-v6-course/",
+          "publishedOn": "2024-04-04T18:40:00.000Z",
+          "wordCount": 1067,
+          "title": "Learn React Router v6 – Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/reactrouter.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/bento-grids-in-web-design/",
           "author": "Jaja Ibifubara David",
@@ -284,46 +349,6 @@
           "wordCount": 1653,
           "title": "How To Use CSS Variables – Explained with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/CSS-Variables.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
-          "author": "Beau Carnes",
-          "description": "Dr. Radu is one of the most popular machine learning instructors on the Internet. And now he is back to teach AI and Neural Networks for beginners in an intuitive way. We just posted Dr. Radu's newest course on the freeCodeCamp.org YouTube channel. It's designed to provide a hands-on experience,",
-          "link": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
-          "publishedOn": "2024-04-02T17:14:59.000Z",
-          "wordCount": 905,
-          "title": "Understand AI and Neural Networks by Manually Adjusting Parameters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/understandingai.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/",
-          "author": "Sahil Mahapatra",
-          "description": "This article will guide you through downloading and using Ollama, a powerful tool for interacting with open-source large language models (LLMs) on your local machine.  Unlike closed-source models like ChatGPT, Ollama offers transparency and customization, making it a valuable resource for developers and enthusiasts. We'll explore how to download",
-          "link": "https://www.freecodecamp.org/news/how-to-run-open-source-llms-locally-using-ollama/",
-          "publishedOn": "2024-04-02T09:25:07.000Z",
-          "wordCount": 1454,
-          "title": "How to Run Open Source LLMs Locally Using Ollama",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Neon-Green-Motivational-Quote--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/from-full-time-software-engineer-to-first-indie-project/",
-          "author": "Gaël Thomas",
-          "description": "Introduction: The Spark of Indie Hacking I’m Gaël, a 25-year-old software engineer who’s been working in a startup environment in Southeast Asia for a few years. 🌏  Working remotely has its perks, and while hopping from one exotic location to another, I’ve been nurturing a little dream: to kick-start",
-          "link": "https://www.freecodecamp.org/news/from-full-time-software-engineer-to-first-indie-project/",
-          "publishedOn": "2024-04-01T19:33:07.000Z",
-          "wordCount": 3037,
-          "title": "One Step at a Time: My Journey from Full-time Software Engineer to First Indie Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Blog-Banner-Final.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Leon Noel, founder of 100Devs and head of engineering at Resilient Coders. Growing up, Leon had it drilled into him that he had to become a doctor, lawyer, or dentist. But his ambitions grew and he went on to have an",
-          "link": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
-          "publishedOn": "2024-03-29T14:10:54.000Z",
-          "wordCount": 1002,
-          "title": "Leon Noel has Helped THOUSANDS of People Learn to Code [100Devs founder on freeCodeCamp Podcast #117]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/leon-noel-freecodecamp-podcast-100devs.jpeg"
         }
       ]
     }
