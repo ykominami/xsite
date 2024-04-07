@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-06T00:09:47.891Z</id>
+    <id>urn:2024-04-07T00:11:58.834Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T00:09:47.891Z</updated>
+    <updated>2024-04-07T00:11:58.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git and GitHub – a Guide for Beginners and Experienced Developers]]></title>
+        <id>https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/</id>
+        <link href="https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/"/>
+        <updated>2024-04-06T01:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Git and GitHub for Beginners! This comprehensive guide is tailored to help you navigate the world of version control and collaboration. Whether you're a newbie just starting out or an experienced developer looking to brush up on your skills, this guide offers a step-by-step approach to understanding and]]></summary>
+        <author>
+            <name>Isaiah Cliford  Opoku</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Managing User Focus with :focus-visible]]></title>
         <id>https://css-tricks.com/?p=377702</id>
@@ -14,6 +24,26 @@
 Managing User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Chris DeMars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Foundations Certification – Exam Prep Guide]]></title>
+        <id>https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/</id>
+        <link href="https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/"/>
+        <updated>2024-04-05T18:39:59.000Z</updated>
+        <summary type="html"><![CDATA[In 2024, knowing how to use Git and GitHub effectively is an indispensable skill set, and is vital for nearly every role.  Whether you’re a developer, DevOps engineer, project manager, data scientist, or even an architect, a solid understanding of Git and GitHub is no longer a nice-to-have, but]]></summary>
+        <author>
+            <name>Chris Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A How to Start a Career in Site Reliability Engineering – SRE Career Guide]]></title>
+        <id>https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/"/>
+        <updated>2024-04-05T18:24:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're considering a career in the Site Reliability Engineering (SRE) field, you should understand what SREs do, how to get started, and how to grow as an SRE.  In this article, we'll explore what you need to know to be an SRE, and how you can develop your]]></summary>
+        <author>
+            <name>Iroro Chadere</name>
         </author>
     </entry>
     <entry>
@@ -47,7 +77,7 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use S-expressions in JavaScript]]></title>
+        <title type="html"><![CDATA[How to Parse S-expressions in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/s-expressions-in-javascript/</id>
         <link href="https://www.freecodecamp.org/news/s-expressions-in-javascript/"/>
         <updated>2024-04-04T22:22:06.000Z</updated>
@@ -77,6 +107,16 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Hash Passwords with bcrypt in Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/"/>
+        <updated>2024-04-03T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Security is critical in the field of web development, particularly when dealing with user credentials such as passwords. One security procedure that's critical in web development is password hashing.  Password hashing guarantees that plaintext passwords are difficult for attackers to find, even in a situation where a database is]]></summary>
+        <author>
+            <name>Dennis Temoye Charity</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create a Developer Portfolio as a 2D Game]]></title>
         <id>https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/</id>
         <link href="https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/"/>
@@ -87,26 +127,6 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Pokemon App with GraphQL and Apollo]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/"/>
-        <updated>2024-04-03T12:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Pokemon is a Japanese media franchise consisting of video games, animated series and films, a trading card game, and other related media. In this blog, we will be building with a Pokemon GraphQL API that gives us data about different Pokemons. We will be using Apollo and GraphQL to handle]]></summary>
-        <author>
-            <name>Segun Ajibola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prevent Web API Attacks with Data Validation – Web API Security Guide]]></title>
-        <id>https://www.freecodecamp.org/news/web-api-security-guide/</id>
-        <link href="https://www.freecodecamp.org/news/web-api-security-guide/"/>
-        <updated>2024-04-03T09:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Adequate data protection and user confidentiality are key responsibilities for web developers. Hence, it is important to ensure the highest possible security while building API endpoints. The act of application security is a shared responsibility amongst the client and server developers and negligence of one’s role can be disastrous. Statistics]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Iconography In Design Systems: Easy Troubleshooting And Maintenance]]></title>
         <id>https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/</id>
         <link href="https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/"/>
@@ -114,26 +134,6 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tatsiana Tarkan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Git Fundamentals – A Handbook on Day-to-Day Development Tasks]]></title>
-        <id>https://www.freecodecamp.org/news/learn-git-basics/</id>
-        <link href="https://www.freecodecamp.org/news/learn-git-basics/"/>
-        <updated>2024-04-03T03:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to my comprehensive guide on Git, the distributed version control system that has revolutionized collaboration and code management in software development.  Whether you're a seasoned developer or just starting your journey in programming, understanding Git is essential to gain proper control over your code, efficiently managing your projects]]></summary>
-        <author>
-            <name>Samyak Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use CSS Variables – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-variables/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-variables/"/>
-        <updated>2024-04-02T19:53:03.000Z</updated>
-        <summary type="html"><![CDATA[If you are building websites or web apps, you should already know that code repetition is considered a bad practice. That's why you should learn how to use CSS variables to reduce the amount of CSS code you write and take your styling to a new level. The most successful]]></summary>
-        <author>
-            <name>Matéush</name>
         </author>
     </entry>
     <entry>
@@ -256,16 +256,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Our next book, “Success at Scale” is finally at the printer, which means we’ll be shipping books soon. It’s also your last chance to get the book at the presale price. Get your copy and save now!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern CSS Tooltips And Speech Bubbles (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/</id>
-        <link href="https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/"/>
-        <updated>2024-03-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
         </author>
     </entry>
 </feed>
