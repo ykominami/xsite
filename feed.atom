@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-11T00:10:35.502Z</id>
+    <id>urn:2024-04-12T00:10:13.093Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T00:10:35.502Z</updated>
+    <updated>2024-04-12T00:10:13.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/</id>
+        <link href="https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/"/>
+        <updated>2024-04-11T19:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Markdown [https://en.wikipedia.org/wiki/Markdown] is a lightweight, open-source, easy-to-read and easy-to-write method of formatting text that you can use as plain text in any IDE or editor. When writing on GitHub, you can use Markdown syntax and HTML elements to extend Markdown's functionality. You can use Markdown syntax everywhere in GitHub, such]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Backend Development by Building Three Projects [Full Course]]]></title>
+        <id>https://www.freecodecamp.org/news/backend-web-development-three-projects/</id>
+        <link href="https://www.freecodecamp.org/news/backend-web-development-three-projects/"/>
+        <updated>2024-04-11T15:26:09.000Z</updated>
+        <summary type="html"><![CDATA[To become a great backend developer, you need to build a lot of projects. We just posted a course on the freeCodeCamp.org YouTube channel that will help you improve your backend development skills by teaching you to build three full projects. Tomi Tokko developed this course. He's a popular teacher,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI [Full Course]]]></title>
+        <id>https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/</id>
+        <link href="https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/"/>
+        <updated>2024-04-11T14:12:38.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways that AI can help speed up web development. We just posted a course on the freeCodeCamp.org YouTube channel that will show you how to convert Figma designs into working code with just one click using AI. Ania Kubów developed this course. She is one of our]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React State vs Refs – Differences and Use Cases]]></title>
+        <id>https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/</id>
+        <link href="https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/"/>
+        <updated>2024-04-11T13:07:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll delve into a thorough comparison of React state and refs, exploring their suitability for specific scenarios. When faced with the need to store data in your React application, the first question that comes to mind is: "Will the data change at some point during the component's]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Handling in Python – try, except, else, & finally Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/error-handling-in-python-introduction/</id>
+        <link href="https://www.freecodecamp.org/news/error-handling-in-python-introduction/"/>
+        <updated>2024-04-11T00:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Just recently, my manager tasked me to create an automatic report. I designed the report to be simple. It included a few numbers from a database and some basic mathematical operations. I was excited to finally be able to show off my  amazing Python skills to the company. I]]></summary>
+        <author>
+            <name>Gage Schaffer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust Tutorial – Learn Multi-Scale Processing of Astronomical Images]]></title>
         <id>https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/</id>
@@ -66,36 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Test Proto DataStore]]></title>
-        <id>https://www.freecodecamp.org/news/testing-proto-datastore/</id>
-        <link href="https://www.freecodecamp.org/news/testing-proto-datastore/"/>
-        <updated>2024-04-08T20:54:23.000Z</updated>
-        <summary type="html"><![CDATA[In a previous article [https://medium.com/proandroiddev/android-proto-datastore-should-you-use-it-36ae997d00f2] , I described how you can use Proto DataStore in your application. I wrote that article as part of my experience in using Proto DataStore in one of my applications [https://play.google.com/store/apps/details?id=com.tomerpacific.todo]. Following that, I wanted to see what it would be like to write tests]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World in Rust – Example Program]]></title>
-        <id>https://www.freecodecamp.org/news/hello-world-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/hello-world-in-rust/"/>
-        <updated>2024-04-08T09:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Starting with a new programming language is like taking your first step into a whole new world. One of the very first things you'll do is write a simple program that says "Hello World!". Rust, known for being fast and safe, is no exception. Let's jump right in and create]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Git and GitHub – a Guide for Beginners and Experienced Developers]]></title>
-        <id>https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/</id>
-        <link href="https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/"/>
-        <updated>2024-04-06T01:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Git and GitHub for Beginners! This comprehensive guide is tailored to help you navigate the world of version control and collaboration. Whether you're a newbie just starting out or an experienced developer looking to brush up on your skills, this guide offers a step-by-step approach to understanding and]]></summary>
-        <author>
-            <name>Isaiah Cliford  Opoku</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Managing User Focus with :focus-visible]]></title>
         <id>https://css-tricks.com/?p=377702</id>
         <link href="https://css-tricks.com/managing-user-focus-with-focus-visible/"/>
@@ -104,26 +124,6 @@
 Managing User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Chris DeMars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Foundations Certification – Exam Prep Guide]]></title>
-        <id>https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/</id>
-        <link href="https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/"/>
-        <updated>2024-04-05T18:39:59.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, knowing how to use Git and GitHub effectively is an indispensable skill set, and is vital for nearly every role.  Whether you’re a developer, DevOps engineer, project manager, data scientist, or even an architect, a solid understanding of Git and GitHub is no longer a nice-to-have, but]]></summary>
-        <author>
-            <name>Chris Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A How to Start a Career in Site Reliability Engineering – SRE Career Guide]]></title>
-        <id>https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/"/>
-        <updated>2024-04-05T18:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you're considering a career in the Site Reliability Engineering (SRE) field, you should understand what SREs do, how to get started, and how to grow as an SRE.  In this article, we'll explore what you need to know to be an SRE, and how you can develop your]]></summary>
-        <author>
-            <name>Iroro Chadere</name>
         </author>
     </entry>
     <entry>
