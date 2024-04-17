@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-16T00:10:10.583Z</id>
+    <id>urn:2024-04-17T00:10:36.634Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T00:10:10.583Z</updated>
+    <updated>2024-04-17T00:10:36.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Length of C String – How to Find the Size of a String in C]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/"/>
+        <updated>2024-04-16T15:00:09.000Z</updated>
+        <summary type="html"><![CDATA[When working with strings in C, you need to know how to find their length. Finding the length of a string in C is essential for many reasons. You may need to perform string manipulation, and many string manipulation functions require the length of th...]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Monitor And Optimize Google Core Web Vitals]]></title>
+        <id>https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/</id>
+        <link href="https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/"/>
+        <updated>2024-04-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The three Core Web Vitals metrics don’t only tell you how visitors experience your website but also impact your Google search result rankings. In this article, we’ll look at what Core Web Vitals are, how they are measured, and how you can use DebugBear to monitor them continuously.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Responsive HTML Email Template]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-responsive-html-email-template/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-responsive-html-email-template/"/>
+        <updated>2024-04-15T23:11:04.000Z</updated>
+        <summary type="html"><![CDATA[In this beginner-friendly guide, you'll learn how to create a responsive email template. You'll follow step-by-step instructions with code snippets to design an email template that looks great on any device.  This project is perfect for newcomers eager to master email design basics! Step 1: Set Up the Basic]]></summary>
+        <author>
+            <name>Fanny Nyayic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does "Shift Left" Mean in Software Development?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-shift-left-in-software/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-shift-left-in-software/"/>
+        <updated>2024-04-15T22:25:08.000Z</updated>
+        <summary type="html"><![CDATA[I once had a manager who, in a discussion about our project, mentioned that we needed to try and shift our work left as much as we could.  A few months later in an interview, the interviewer asked me if I knew what " shift left" meant. Unless there's]]></summary>
+        <author>
+            <name>Kealan Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a GitHub Wiki and How Do You Use it?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/"/>
+        <updated>2024-04-15T20:46:02.000Z</updated>
+        <summary type="html"><![CDATA[A GitHub wiki is a great place for your project's documentation. You can use the wiki to create, manage, and host documentation for your repository so others can use and contribute to your project. GitHub wikis are easy to start using without installing any other software. The best part is]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Aliases to Terminal Commands in Linux and Mac]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-aliases-to-terminal-commands/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-aliases-to-terminal-commands/"/>
+        <updated>2024-04-15T15:37:42.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll explore a simple trick that can save you hours of typing repetitive commands in the terminal. As developers, we spend a substantial amount of time executing commands on the terminal. Whether it's navigating through directories, running scripts, changing Node.js versions, or version control commands, manually typing]]></summary>
+        <author>
+            <name>Kaushal Joshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up a Custom Email with Cloudflare and Mailgun]]></title>
         <id>https://www.freecodecamp.org/news/how-to-set-up-custom-email/</id>
@@ -56,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manually Deploy a React and TypeScript Project on Netlify]]></title>
-        <id>https://www.freecodecamp.org/news/manually-deploy-a-react-and-typescript-project-on-netlify/</id>
-        <link href="https://www.freecodecamp.org/news/manually-deploy-a-react-and-typescript-project-on-netlify/"/>
-        <updated>2024-04-12T18:02:59.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I'll teach you how to manually deploy a React and TypeScript project with Vite on Netlify. I will show you a few quick and simple steps to get live versions of your projects up and running. To follow along with this tutorial, there are a few prerequisites:]]></summary>
-        <author>
-            <name>Losalini Rokocakau</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sliding 3D Image Frames In CSS]]></title>
         <id>https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/</id>
         <link href="https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/"/>
@@ -73,46 +123,6 @@
         <summary type="html"><![CDATA[Creating 3D effects in CSS isn’t an entirely new concept, but typical approaches use additional elements in the markup and pseudo-elements in the styles to pull it off. Temani Afif applies 3D effects and sliding transitions to a single `` using clever CSS techniques that demonstrate advanced, modern styling practices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Def in C – How to Define a Function in C]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-define-a-function-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-define-a-function-in-c/"/>
-        <updated>2024-04-12T17:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Functions play a fundamental role in programming in C. They allow you to write code that is organized and easier to maintain. In this article, you'll learn the basics of defining functions in C. What is a Function in C? In programming, a function is ...]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a TODO App from Scratch with React.js]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/"/>
-        <updated>2024-04-12T16:23:13.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to React.js and you're eager to dive into application development, then you've come to the right place!  Join me in this tutorial as I walk you through building a basic TODO app from the ground up. The Importance of a TODO App for Beginners A TODO]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Artist Kass Moreno talks Art & Code [freeCodeCamp Podcast #119]]]></title>
-        <id>https://www.freecodecamp.org/news/css-artist-kass-moreno-freecodecamp-podcast-119/</id>
-        <link href="https://www.freecodecamp.org/news/css-artist-kass-moreno-freecodecamp-podcast-119/"/>
-        <updated>2024-04-12T15:26:21.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Kass Moreno, a Senior Front End Developer and CSS Artist. Kass started learning coding at age 28 and has since built a reputation as one of the most skilled artists who work with CSS. We talk about:  * Her childhood]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use LangChain to Build With LLMs – A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/beginners-guide-to-langchain/</id>
-        <link href="https://www.freecodecamp.org/news/beginners-guide-to-langchain/"/>
-        <updated>2024-04-11T23:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Large language models (LLMs) are incredibly powerful general reasoning tools that are useful in a wide range of situations.  But working with LLMs presents challenges that are different from building traditional software:  * Calls tend to be long-running, and stream generate output as it becomes]]></summary>
-        <author>
-            <name>Jacob Lee</name>
         </author>
     </entry>
     <entry>
