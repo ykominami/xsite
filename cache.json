@@ -17,7 +17,7 @@
           "description": "This is going to be the 2nd post in a small series we are doing on form accessibility. If you missed the first post, check out Accessible Forms with Pseudo Classes. In this post we are going to look …\nManaging User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/managing-user-focus-with-focus-visible/",
           "publishedOn": "2024-04-05T22:13:47.000Z",
-          "wordCount": 2102,
+          "wordCount": 2112,
           "title": "Managing User Focus with :focus-visible",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377702"
         },
@@ -27,7 +27,7 @@
           "description": "Hey all you wonderful developers out there! In this post we are going to explore the use of :has() in your next web project. :has() is relatively newish but has gained popularity in the front end community by delivering control …\nThe Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-power-of-has-in-css/",
           "publishedOn": "2024-03-30T02:07:57.000Z",
-          "wordCount": 1968,
+          "wordCount": 1978,
           "title": "The Power of :has() in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377635"
         },
@@ -37,7 +37,7 @@
           "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
           "publishedOn": "2024-03-22T18:52:31.000Z",
-          "wordCount": 2496,
+          "wordCount": 2506,
           "title": "Accessible Forms with Pseudo Classes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377565"
         }
@@ -48,6 +48,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "author": "hello@smashingmagazine.com (Alexis Kypridemos)",
+          "description": "What do you do when you need to convert plain text into formatted HTML? Perhaps you reach for Markdown or manually write in the element tags yourself. Or maybe you have one or two of the dozens of online tools that will do it for you. In this tutorial, Alexis Kypridemos picks those tools apart and details the steps for how we can do it ourselves with a little vanilla HTML, CSS, and JavaScript.",
+          "link": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "publishedOn": "2024-04-17T13:00:00.000Z",
+          "wordCount": 5859,
+          "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
           "author": "hello@smashingmagazine.com (Matt Zeunert)",
@@ -69,7 +84,7 @@
           "description": "Creating 3D effects in CSS isn’t an entirely new concept, but typical approaches use additional elements in the markup and pseudo-elements in the styles to pull it off. Temani Afif applies 3D effects and sliding transitions to a single `` using clever CSS techniques that demonstrate advanced, modern styling practices.",
           "link": "https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
           "publishedOn": "2024-04-12T18:00:00.000Z",
-          "wordCount": 5341,
+          "wordCount": 5339,
           "title": "Sliding 3D Image Frames In CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sliding-3d-image-frames-css/sliding-3d-image-frames-css.jpg",
@@ -99,7 +114,7 @@
           "description": "Victor Yocco reviews the components of the Transactional Model of communication, explaining how we might apply this framework to preparing, conducting, and analysing our UX research. You will understand how many UX research best practices align with the model and get an example of a tool for tracking alignment.",
           "link": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
           "publishedOn": "2024-04-09T10:00:00.000Z",
-          "wordCount": 8684,
+          "wordCount": 8681,
           "title": "Connecting With Users: Applying Principles Of Communication To UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/applying-principles-communication-ux-research/applying-principles-communication-ux-research.jpg",
@@ -114,7 +129,7 @@
           "description": "What can we do to make a mobile app better? What subsidiary features are worth providing for our users? I have some ideas. You might, too. So, let’s compare our notes. Without any prescriptions attached, here are seven features I believe can palpably improve a user’s experience with a mobile app.",
           "link": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
           "publishedOn": "2024-04-05T12:00:00.000Z",
-          "wordCount": 4899,
+          "wordCount": 4912,
           "title": "The Things Users Would Appreciate In Mobile Apps",
           "enclosure": {
             "url": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg",
@@ -129,7 +144,7 @@
           "description": "Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.",
           "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
           "publishedOn": "2024-04-03T08:00:00.000Z",
-          "wordCount": 5829,
+          "wordCount": 5826,
           "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
           "enclosure": {
             "url": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg",
@@ -144,7 +159,7 @@
           "description": "Remember the HTML `` element? It’s deprecated, so it’s not like you’re going to use it when you need some sort of horizontal auto-scrolling feature. That’s where CSS comes in because it has all the tools we need to pull it off. Silvestar Bistrović demonstrates a technique that makes it possible with a set of images and as little HTML as possible.",
           "link": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
           "publishedOn": "2024-04-02T12:00:00.000Z",
-          "wordCount": 4912,
+          "wordCount": 4911,
           "title": "Infinite-Scrolling Logos In Flat HTML And Pure CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/infinite-scrolling-logos-html-css/infinite-scrolling-logos-html-css.jpg",
@@ -159,7 +174,7 @@
           "description": "Could there be a better way to welcome the new month than with a little inspiration boost? We might have one for you: desktop wallpapers created by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/",
           "publishedOn": "2024-03-31T08:00:00.000Z",
-          "wordCount": 4818,
+          "wordCount": 4816,
           "title": "Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-22-swing-into-spring-preview-opt.png",
@@ -204,7 +219,7 @@
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
           "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4583,
+          "wordCount": 4585,
           "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
@@ -219,7 +234,7 @@
           "description": "Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.",
           "link": "https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/",
           "publishedOn": "2024-03-21T15:00:00.000Z",
-          "wordCount": 6109,
+          "wordCount": 6112,
           "title": "Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg",
@@ -242,21 +257,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/success-at-scale-book-release/success-at-ascale-22-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
-          "author": "hello@smashingmagazine.com (Krisztina Szerovay)",
-          "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
-          "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
-          "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7700,
-          "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg"
         }
       ]
     },
@@ -266,12 +266,72 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-print-a-string-in-c/",
+          "author": "Dionysia Lemonaki",
+          "description": "Printing strings is a fundamental operation in programming. It helps you output information, inspect and debug your code, and display prompts to users. In this article, you will learn some of the different techniques to print strings in C. What is a ...",
+          "link": "https://www.freecodecamp.org/news/how-to-print-a-string-in-c/",
+          "publishedOn": "2024-04-17T13:50:03.000Z",
+          "wordCount": 1595,
+          "title": "C Print String – How to Print a String in C",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Hcfwew744z4/upload/73cd11d4c62fcaa9d6fa85514d7cb732.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
+          "author": "Joan Ayebola",
+          "description": "In React, there are two primary ways to create components: function and class components. Each has its own syntax and use cases, although with the introduction of React Hooks, the gap between them has narrowed significantly. But the selection of appropriate component types is still very crucial for building efficient",
+          "link": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
+          "publishedOn": "2024-04-16T22:37:11.000Z",
+          "wordCount": 3998,
+          "title": "Function Components vs Class Components in React – With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
+          "author": "Beau Carnes",
+          "description": "A/B testing is a key technique used in data science for making data-driven decisions in business. We just published a course on the freeCodeCamp.org YouTube channel that will tech you this important data science technique. Developed by Tatev, a seaso...",
+          "link": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
+          "publishedOn": "2024-04-16T20:53:54.000Z",
+          "wordCount": 905,
+          "title": "Applied Data Science: A / B Testing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713300810848/fe87abbf-4f7e-4e67-8fdd-c995328a6994.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/",
+          "author": "Beau Carnes",
+          "description": "DigitalOcean is a cloud infrastructure provider that offers developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers. We just posted a course on the freeCodeCamp.org YouTube channel that will ...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/",
+          "publishedOn": "2024-04-16T20:42:51.000Z",
+          "wordCount": 830,
+          "title": "Learn how to deploy to Digital Ocean",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713300046751/a2c9ed82-8ff1-476f-90a1-2821b90ff3a3.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/",
+          "author": "Ihechikara Abba",
+          "description": "You can use bytes in Python to represent data in binary form. In this article, you'll learn how to convert bytes to a string, and vice versa. Before we look at the conversions, let's talk about how bytes work in Python. You can skip to the next secti...",
+          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/",
+          "publishedOn": "2024-04-16T20:07:39.000Z",
+          "wordCount": 1086,
+          "title": "Python Bytes to String – How to Convert a Str to Bytes and Back Again",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zGuBURGGmdY/upload/6d5b13a8926b01576cba45ee0d72bfc8.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/",
+          "author": "Anshul Sanghi",
+          "description": "Star detection is a crucial step in many of the processing and analysis routines that we perform on astronomical images. It is extremely important for a process called plate-solving, which is the process of figuring out which part of the sky an image shows, or which part of the sky",
+          "link": "https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/",
+          "publishedOn": "2024-04-16T19:34:07.000Z",
+          "wordCount": 4683,
+          "title": "Rust Tutorial – How to Build a Naïve Star Detector for Images",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/cover.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
           "author": "Dionysia Lemonaki",
           "description": "When working with strings in C, you need to know how to find their length. Finding the length of a string in C is essential for many reasons. You may need to perform string manipulation, and many string manipulation functions require the length of th...",
           "link": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
           "publishedOn": "2024-04-16T15:00:09.000Z",
-          "wordCount": 1558,
+          "wordCount": 1560,
           "title": "Length of C String – How to Find the Size of a String in C",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JfhNqZtV56s/upload/0d58732b5a311298756b16ad3540b820.jpeg"
         },
@@ -304,66 +364,6 @@
           "wordCount": 1868,
           "title": "What is a GitHub Wiki and How Do You Use it?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/What-is-GitHub-Wiki-and-How-Do-You-Use-it.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-aliases-to-terminal-commands/",
-          "author": "Kaushal Joshi",
-          "description": "In this article, we'll explore a simple trick that can save you hours of typing repetitive commands in the terminal. As developers, we spend a substantial amount of time executing commands on the terminal. Whether it's navigating through directories, running scripts, changing Node.js versions, or version control commands, manually typing",
-          "link": "https://www.freecodecamp.org/news/how-to-add-aliases-to-terminal-commands/",
-          "publishedOn": "2024-04-15T15:37:42.000Z",
-          "wordCount": 1751,
-          "title": "How to Add Aliases to Terminal Commands in Linux and Mac",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/terminal-alias.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-custom-email/",
-          "author": "San B",
-          "description": "As a software engineer, you may consider having a professional email account along with your own website, like \"info@example.com\". But this may cost a certain amount that you'll not be willing to pay. But do you know you can do it for free? There is actually a way to do",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-custom-email/",
-          "publishedOn": "2024-04-15T13:49:03.000Z",
-          "wordCount": 2975,
-          "title": "How to Set Up a Custom Email with Cloudflare and Mailgun",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/boolfalse-gmail-manage-custom-email.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/",
-          "author": "Tatev Aslanyan",
-          "description": "Karl Pearson was a British mathematician who once said \"Statistics is the grammar of science\". This holds true especially for Computer and Information Sciences, Physical Science, and Biological Science.  When you are getting started with your journey in Data Science, Data Analytics, Machine Learning, or AI (including Generative AI)",
-          "link": "https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/",
-          "publishedOn": "2024-04-12T23:08:39.000Z",
-          "wordCount": 15219,
-          "title": "Learn Statistics for Data Science, Machine Learning, and AI – Full Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Learn-Statistics-Cover-Version-2--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/explore-mocking-in-net/",
-          "author": "Grant Riordan",
-          "description": "Let's go on a journey to demystify the concept of mocking in .NET software development. Let's delve into how straightforward and accessible mocking truly is. Join me as we navigate through this subject, as I cover:  * Understanding mocking: Why it's necessary for building a robust testing",
-          "link": "https://www.freecodecamp.org/news/explore-mocking-in-net/",
-          "publishedOn": "2024-04-12T19:37:51.000Z",
-          "wordCount": 3426,
-          "title": "What is Mocking? Mocking in .NET Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Mocking-in-Dotnet.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-movie-recommendation-system-with-python/",
-          "author": "Vahe Aslanyan",
-          "description": "Building projects is one of the most effective ways to thoroughly learn a concept and develop essential skills.  Projects immerse you in real-world problem-solving, solidifying your knowledge and cultivating critical thinking, adaptability, and project management expertise. This guide will walk you through building a movie recommendation system that's tailored",
-          "link": "https://www.freecodecamp.org/news/build-a-movie-recommendation-system-with-python/",
-          "publishedOn": "2024-04-12T19:33:18.000Z",
-          "wordCount": 9319,
-          "title": "How to Build a Production-Grade Movie Recommender in Python – A Machine Learning Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/newspaper-mockups-scenes-vol_2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/discord-supporter-role/",
-          "author": "Naomi Carrigan",
-          "description": "If you have donated to support freeCodeCamp's efforts, you can now claim a special Supporter role in our Discord community. Claim Your Role In any channel within our Discord server, type /supporter and you should see a command window pop up. Click C...",
-          "link": "https://www.freecodecamp.org/news/discord-supporter-role/",
-          "publishedOn": "2024-04-12T19:27:01.000Z",
-          "wordCount": 860,
-          "title": "How to Claim Your Supporter Role on Discord",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         }
       ]
     }
