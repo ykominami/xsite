@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-27T00:10:37.312Z</id>
+    <id>urn:2024-04-28T00:12:00.233Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T00:10:37.312Z</updated>
+    <updated>2024-04-28T00:12:00.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between <b> and <Strong> in HTML – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/</id>
+        <link href="https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/"/>
+        <updated>2024-04-26T23:24:38.000Z</updated>
+        <summary type="html"><![CDATA[This is important text. The text within the  tag will no longer appear bold and will be displayed in red, as specified by the CSS rules. Similarly, you can override the default styles for the  tag using CSS, although it's less common to do so since the]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Piping and Redirection in the Linux Terminal]]></title>
+        <id>https://www.freecodecamp.org/news/linux-terminal-piping-and-redirection-guide/</id>
+        <link href="https://www.freecodecamp.org/news/linux-terminal-piping-and-redirection-guide/"/>
+        <updated>2024-04-26T23:15:26.000Z</updated>
+        <summary type="html"><![CDATA[The command line interface in Linux provides a powerful way of perfoming a range of tasks on your system. Because of its roots, Linux has many features baked into the terminal. Two of these powerful features are piping and redirection. These features enable you to redirect the output and input]]></summary>
+        <author>
+            <name>Alvin Wanjala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Tutorial – How to Develop an App with Flutter From Scratch]]></title>
         <id>https://www.freecodecamp.org/news/how-to-develop-a-flutter-app-from-scratch/</id>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Next.js by Building a Cloud Photo App]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/"/>
-        <updated>2024-04-24T17:07:29.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp just published a video course that will teach you how to create a powerful photo management app using Next.js – similar to the popular Google Photos app. Colby Fayock created this course. He's an experienced teacher and works for Cloudin...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Responsive Website with HTML and CSS - Course in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/"/>
-        <updated>2024-04-24T15:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Building websites that look great on any device – like a phone, tablet, or computer screen – is what responsive web development is all about. In this course, you will learn how to build a responsive website step by step in Spanish using HTML and CSS....]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
     <entry>
@@ -276,16 +276,6 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
 The Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Chris DeMars</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects]]></title>
-        <id>https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/</id>
-        <link href="https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/"/>
-        <updated>2024-03-29T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
