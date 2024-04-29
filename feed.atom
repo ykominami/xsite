@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-28T00:12:00.233Z</id>
+    <id>urn:2024-04-29T00:10:22.120Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T00:12:00.233Z</updated>
+    <updated>2024-04-29T00:10:22.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work on a Multi-Library Project in Android – Locally and Remotely]]></title>
+        <id>https://www.freecodecamp.org/news/working-on-a-multiple-library-project-in-android/</id>
+        <link href="https://www.freecodecamp.org/news/working-on-a-multiple-library-project-in-android/"/>
+        <updated>2024-04-27T22:37:15.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we're going to talk about multi-library projects in Android. It's not something ordinary, but not something out of the ordinary either.  You may have come across multi-library projects in your line of work, or you may be looking into converting your library into sub-modules for better]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Difference Between <b> and <Strong> in HTML – Explained with Examples]]></title>
         <id>https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/</id>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[In this handbook, you'll learn about procedural macros in Rust, and what purposes they serve. You'll also learn how to write your own procedural macros with both hypothetical and real-world examples. This guide assumes that you're familiar with Rust and its basic concepts, such as data-types, iterators, and traits. If]]></summary>
         <author>
             <name>Anshul Sanghi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webflow Crash Course]]></title>
-        <id>https://www.freecodecamp.org/news/webflow-crash-course/</id>
-        <link href="https://www.freecodecamp.org/news/webflow-crash-course/"/>
-        <updated>2024-04-24T17:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -265,17 +265,6 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a little inspiration boost? We might have one for you: desktop wallpapers created by the community for the community. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of :has() in CSS]]></title>
-        <id>https://css-tricks.com/?p=377635</id>
-        <link href="https://css-tricks.com/the-power-of-has-in-css/"/>
-        <updated>2024-03-30T02:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Hey all you wonderful developers out there! In this post we are going to explore the use of :has() in your next web project. :has() is relatively newish but has gained popularity in the front end community by delivering control …
-The Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris DeMars</name>
         </author>
     </entry>
 </feed>
