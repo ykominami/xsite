@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-02T00:10:26.940Z</id>
+    <id>urn:2024-05-03T00:10:45.723Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T00:10:26.940Z</updated>
+    <updated>2024-05-03T00:10:45.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run SQL-Like Queries on C/C++ Files]]></title>
+        <id>https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/</id>
+        <link href="https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/"/>
+        <updated>2024-05-02T19:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context, give]]></summary>
+        <author>
+            <name>Amr Hesham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code A Chess Game with AI Opponent]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/"/>
+        <updated>2024-05-02T18:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in combining your love for chess with your passion for coding? We just posted a comprehensive video course on the freeCodeCamp.org YouTube channel that will teach you how to code your own chess game with JavaScript and Angular. Eve...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Higher Order Functions in JavaScript? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/higher-order-functions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/higher-order-functions-explained/"/>
+        <updated>2024-05-02T18:31:54.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling]]></title>
+        <id>https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</id>
+        <link href="https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"/>
+        <updated>2024-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amit Sheen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Realtime Chart with React, HighCharts, and Pusher]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/"/>
+        <updated>2024-05-02T00:07:30.000Z</updated>
+        <summary type="html"><![CDATA[In today's tutorial, you are going to learn about WebSockets and how you can use them to create interactive realtime data applications.  To illustrate just how innovative real time technologies are, we will build a chart application which automatically updates with new dynamic online data. This is going to]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use DefaultDict in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-defaultdict-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-defaultdict-python/"/>
+        <updated>2024-05-01T21:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In]]></summary>
+        <author>
+            <name>Gage Schaffer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Your Personalized  GitHub Profile Page – GitHub Profile README Guide]]></title>
         <id>https://www.freecodecamp.org/news/create-personalized-github-profile-page/</id>
@@ -56,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git Checkout Remote Branch – How to Fetch and List Remote Branches]]></title>
-        <id>https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/</id>
-        <link href="https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/"/>
-        <updated>2024-04-30T16:53:44.000Z</updated>
-        <summary type="html"><![CDATA[You can use branches in Git to work on different features without affecting your main codebase. For example, you can experiment with a new layout for your webpage on a different branch without affecting the main branch where your website is being dep...]]></summary>
-        <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the difference between React and Next.js?]]></title>
-        <id>https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/"/>
-        <updated>2024-04-30T16:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Are interested in web development but find yourself a bit confused by the variety of technologies and terms like React, Next.js, and Vite? Our brand new video course on the freeCodeCamp.org YouTube channel is here to clear up the confusion and set yo...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Longing For May (2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/</id>
         <link href="https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/"/>
@@ -86,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn AI Engineering with OpenAI and JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/"/>
-        <updated>2024-04-29T15:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Adding AI to your applications can open up a bunch of great features and uses. We just posted a course on the freeCodeCamp.org YouTube channel that will introduce you to AI Engineering using the OpenAI API and JavaScript. Created by expert Scrimba in...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lessons Learned After Selling My Startup]]></title>
         <id>https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/</id>
         <link href="https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/"/>
@@ -103,26 +133,6 @@
         <summary type="html"><![CDATA[Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yaakov Karda)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Interactive Terminal-Based Portfolio Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/"/>
-        <updated>2024-04-29T14:49:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to create an interactive terminal-based portfolio and resume in JavaScript. We'll use the jQuery Terminal library [https://terminal.jcubic.pl/] (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal]]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Login Page with the Material Tailwind Framework – Step by Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/"/>
-        <updated>2024-04-29T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Login pages are like the front doors to our web apps. They should be inviting, easy to use, and safe. If you're looking to create one that combines both style and function, you're in the right place. In this guide, we'll explore how to build a login page with Material]]></summary>
-        <author>
-            <name>Alexandru Paduraru</name>
         </author>
     </entry>
     <entry>
@@ -255,16 +265,6 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[What can we do to make a mobile app better? What subsidiary features are worth providing for our users? I have some ideas. You might, too. So, let’s compare our notes. Without any prescriptions attached, here are seven features I believe can palpably improve a user’s experience with a mobile app.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iconography In Design Systems: Easy Troubleshooting And Maintenance]]></title>
-        <id>https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/</id>
-        <link href="https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/"/>
-        <updated>2024-04-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tatsiana Tarkan)</name>
         </author>
     </entry>
 </feed>
