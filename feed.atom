@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-06T00:10:46.121Z</id>
+    <id>urn:2024-05-07T00:10:45.428Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T00:10:46.121Z</updated>
+    <updated>2024-05-07T00:10:45.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Developer Tools – Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-react-devtools/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-devtools/"/>
+        <updated>2024-05-06T20:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Amazon EC2 Auto Scaling?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/"/>
+        <updated>2024-05-06T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding Chaos: How True Randomness Works in Software Engineering]]></title>
+        <id>https://www.freecodecamp.org/news/true-randomness-in-software-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/true-randomness-in-software-engineering/"/>
+        <updated>2024-05-06T16:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Randomness When you hear the word "randomness," what usually comes to mind? You may think of  something intangible, an abstract concept without a specific shape or form  – it's random.  But randomness is much more than an abstract idea – it's a fundamental aspect of our daily decisions]]></summary>
+        <author>
+            <name>Gor Grigoryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Harness Mouse Interaction Data For Practical Machine Learning Solutions]]></title>
+        <id>https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/</id>
+        <link href="https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/"/>
+        <updated>2024-05-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Eduard Kuric discusses mouse interaction data, what kind of magic can be done with it, and some of the hidden pitfalls to watch out for so you get a head start incorporating them in your solutions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the useReducer Hook in React]]></title>
         <id>https://www.freecodecamp.org/news/react-usereducer-hook/</id>
@@ -83,36 +123,6 @@
         <summary type="html"><![CDATA[Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In]]></summary>
         <author>
             <name>Gage Schaffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Your Personalized  GitHub Profile Page – GitHub Profile README Guide]]></title>
-        <id>https://www.freecodecamp.org/news/create-personalized-github-profile-page/</id>
-        <link href="https://www.freecodecamp.org/news/create-personalized-github-profile-page/"/>
-        <updated>2024-05-01T18:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to spruce up your GitHub profile page and make it stand out? Well, you're in luck!  With just a few simple steps, you can create a personalized GitHub profile that showcases your skills, projects, and personality. Let's dive in.  Create A New Repository Go]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Throttling in JavaScript? Explained with a Simple React Use Case]]></title>
-        <id>https://www.freecodecamp.org/news/throttling-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/throttling-in-javascript/"/>
-        <updated>2024-05-01T15:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back, fellow developers! Today, we are once again delving into JavaScript and Web Development and learning about throttling.  As a developer, making your website user-friendly is important. This goes a long way toward the product's success, and a key part of the user experience is the website's performance.]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Full Stack Fiverr Clone]]></title>
-        <id>https://www.freecodecamp.org/news/code-a-full-stack-fiverr-clone/</id>
-        <link href="https://www.freecodecamp.org/news/code-a-full-stack-fiverr-clone/"/>
-        <updated>2024-05-01T15:38:30.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a course available now on the freeCodeCamp.org YouTube channel. This comprehensive tutorial will walk you through the process of building a Fiverr clone using a stack of cutting-edge technologies. Vuk Rosić created this course. Vuk is ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
