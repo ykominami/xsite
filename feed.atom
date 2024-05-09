@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-08T00:09:09.802Z</id>
+    <id>urn:2024-05-09T00:10:36.897Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T00:09:09.802Z</updated>
+    <updated>2024-05-09T00:10:36.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run a Postgres Database in Azure Kubernetes Service and Integrate it with a Node.js Express Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/"/>
+        <updated>2024-05-08T20:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you]]></summary>
+        <author>
+            <name>Ayomide Wilfred</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a React Native Splash Screen]]></title>
+        <id>https://www.freecodecamp.org/news/react-native-splash-screen/</id>
+        <link href="https://www.freecodecamp.org/news/react-native-splash-screen/"/>
+        <updated>2024-05-08T19:17:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll get a hands-on practical guide for creating a native splash screen for React Native CLI applications.  Note that this tutorial is not applicable for apps created with Expo. SVG Icon Image and Background The first thing you need is an image. It can be in]]></summary>
+        <author>
+            <name>Lucas Garcez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analysis with Python – How I Analyzed My Empire State Building Run-Up Performance]]></title>
+        <id>https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/"/>
+        <updated>2024-05-08T16:56:28.000Z</updated>
+        <summary type="html"><![CDATA[A tower running race [https://en.wikipedia.org/wiki/Tower_running] is a race that you run up the stairs of a building. These happen around the world. I got the chance to participate in the Empire State Run Up in NYC, 2023 edition.  > The Empire State Building Run-Up (ESBRU)—the world’s first and most]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement an OAuth2 Resource Server with Spring Security]]></title>
+        <id>https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/</id>
+        <link href="https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/"/>
+        <updated>2024-05-08T15:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Git in Detail to Manage Your Code]]></title>
+        <id>https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/</id>
+        <link href="https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/"/>
+        <updated>2024-05-08T14:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Version control is an essential skill for anyone involved in software development, from solo hobbyists to professional developers working in large teams. Understanding how to effectively manage changes and collaborate on code is critical, and Git is ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass the GitHub Actions Certification Exam]]></title>
+        <id>https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/"/>
+        <updated>2024-05-08T14:29:39.000Z</updated>
+        <summary type="html"><![CDATA[GitHub recently launched a GitHub Actions certification exam. And we just released a course on the freeCodeCamp.org YouTube channel that will prepare you to pass this exam. This course is ideal for developers, DevOps professionals, and anyone interes...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Course – Math and Applications]]></title>
+        <id>https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/</id>
+        <link href="https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/"/>
+        <updated>2024-05-08T14:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the math behind deep learning is important if you want to become proficient in machine learning techniques. We just published a 14-hour deep learning course on the freeCodeCamp.org YouTube channel. This course is specifically tailored t...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML for Beginners – HTML Basics With Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/introduction-to-html-basics/</id>
@@ -20,7 +90,7 @@
         <id>https://www.freecodecamp.org/news/how-to-use-git-submodules/</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-git-submodules/"/>
         <updated>2024-05-07T17:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Git is undeniably a very important tool for developers, as it helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. However, as projects grow in complexity and scope, so does their dependencies. For this reason, there is a need for a mechanism to properly manage]]></summary>
+        <summary type="html"><![CDATA[Git is undeniably a very important tool for developers. It helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. But as projects grow in complexity and scope, so do their dependencies. So we need a mechanism to properly manage these dependencies as they grow. This]]></summary>
         <author>
             <name>Jima Victor</name>
         </author>
@@ -46,56 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How is Flutter Platform-Agnostic?]]></title>
-        <id>https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/</id>
-        <link href="https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/"/>
-        <updated>2024-05-07T07:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Flutter builds applications for multiple platforms (desktop, mobile, and web) from the same codebase. Flutter does this in a pixel-perfect and platform-agnostic manner.  In this article, we will explore how Flutter is platform-agnostic through how it renders user interfaces and through platform channels. Table of Contents  * What]]></summary>
-        <author>
-            <name>Obum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Closures Work in JavaScript? Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/understand-javascript-closures/</id>
-        <link href="https://www.freecodecamp.org/news/understand-javascript-closures/"/>
-        <updated>2024-05-07T07:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted]]></summary>
-        <author>
-            <name>Asoluka Tochukwu Austin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Developer Tools – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-react-devtools/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-devtools/"/>
-        <updated>2024-05-06T20:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Amazon EC2 Auto Scaling?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/"/>
-        <updated>2024-05-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding Chaos: How True Randomness Works in Software Engineering]]></title>
-        <id>https://www.freecodecamp.org/news/true-randomness-in-software-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/true-randomness-in-software-engineering/"/>
-        <updated>2024-05-06T16:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Randomness When you hear the word "randomness," what usually comes to mind? You may think of  something intangible, an abstract concept without a specific shape or form  – it's random.  But randomness is much more than an abstract idea – it's a fundamental aspect of our daily decisions]]></summary>
-        <author>
-            <name>Gor Grigoryan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Harness Mouse Interaction Data For Practical Machine Learning Solutions]]></title>
         <id>https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/</id>
         <link href="https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/"/>
@@ -103,26 +123,6 @@
         <summary type="html"><![CDATA[In this article, Eduard Kuric discusses mouse interaction data, what kind of magic can be done with it, and some of the hidden pitfalls to watch out for so you get a head start incorporating them in your solutions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the useReducer Hook in React]]></title>
-        <id>https://www.freecodecamp.org/news/react-usereducer-hook/</id>
-        <link href="https://www.freecodecamp.org/news/react-usereducer-hook/"/>
-        <updated>2024-05-03T17:48:03.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll take a deep look at the useReducer hook in React. It can look confusing, especially if you are coming across the hook for the first time. This article breaks down the useReducer hook concept into understandable bits with both code and real-world examples to enable you]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Construction Worker to Teaching Millions of Developers with John Smilga [Podcast #122]]]></title>
-        <id>https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/</id>
-        <link href="https://www.freecodecamp.org/news/from-construction-worker-to-teaching-millions-of-developers-with-john-smilga-podcast-122/"/>
-        <updated>2024-05-03T16:07:34.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview prolific programming teacher John Smilga. John grew up in the Soviet Union. He worked construction for 5 years before becoming a developer. Today he has taught millions of fellow devs through his man...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -254,16 +254,6 @@ Demystifying Screen Readers: Accessible Forms & Best Practices originally publis
         <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let's explore Penpot’s latest feature, CSS Grid Layout. Penpot’s latest release is about efficiency and so much more. It gives designers superpowers and a better place at the table. Excited? Let’s take a look at it together.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connecting With Users: Applying Principles Of Communication To UX Research]]></title>
-        <id>https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/</id>
-        <link href="https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/"/>
-        <updated>2024-04-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Victor Yocco reviews the components of the Transactional Model of communication, explaining how we might apply this framework to preparing, conducting, and analysing our UX research. You will understand how many UX research best practices align with the model and get an example of a tool for tracking alignment.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
 </feed>
