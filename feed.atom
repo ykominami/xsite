@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-13T00:10:52.858Z</id>
+    <id>urn:2024-05-14T00:10:40.039Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T00:10:52.858Z</updated>
+    <updated>2024-05-14T00:10:40.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript with Clear Explanations]]></title>
+        <id>https://www.freecodecamp.org/news/learn-javascript-with-clear-explanations/</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-with-clear-explanations/"/>
+        <updated>2024-05-13T19:53:51.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a versatile and powerful programming language primarily used to create interactive and dynamic content on websites. It is one of the core technologies of the World Wide Web, alongside HTML and CSS. While HTML provides the structure of w...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Store Data Locally in React Native Expo]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/"/>
+        <updated>2024-05-13T11:42:45.000Z</updated>
+        <summary type="html"><![CDATA[React Native has grown in popularity as a mobile application development tool because of its ability to create cross-platform applications using familiar JavaScript and React principles.  When building mobile applications, one common requirement is the ability to save data locally on the device. This is when local storage comes]]></summary>
+        <author>
+            <name>John Caleb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Events in React – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/"/>
+        <updated>2024-05-13T09:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Event handling is fundamental to understanding how React processes browser events and updates the DOM. As a React developer, it's a critical skill to have, as it enables efficient management of user interactions within web apps. This article covers how to set up event handlers and proceeds to more elegant]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Times You Need A Custom @property Instead Of A CSS Variable]]></title>
+        <id>https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/</id>
+        <link href="https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/"/>
+        <updated>2024-05-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a React Chatbot – a Step by Step Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/</id>
@@ -86,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Remove Char from String – How to Trim a Character from a String in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-remove-char-from-string/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-remove-char-from-string/"/>
-        <updated>2024-05-09T19:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Manipulating strings is a fundamental skill in programming. A common task you might encounter when coding in JavaScript is trimming characters from a string. Trimming involves removing specific characters from the beginning and/or end of a string. Th...]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tezos Blockchain Development Course]]></title>
-        <id>https://www.freecodecamp.org/news/tezos-blockchain-development-course/</id>
-        <link href="https://www.freecodecamp.org/news/tezos-blockchain-development-course/"/>
-        <updated>2024-05-09T14:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Tezos is a blockchain network that distinguishes itself through a unique self-amending ledger, allowing it to upgrade without the need for hard forks—an approach that promotes continuity and reduces division within the community. Tezos aims to addres...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Forensics Of React Server Components (RSCs)]]></title>
         <id>https://smashingmagazine.com/2024/05/forensics-react-server-components/</id>
         <link href="https://smashingmagazine.com/2024/05/forensics-react-server-components/"/>
@@ -113,16 +133,6 @@
         <summary type="html"><![CDATA[React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lazar Nikolov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Python on a Mac]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/"/>
-        <updated>2024-05-09T06:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
         </author>
     </entry>
     <entry>
