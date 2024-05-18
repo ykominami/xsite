@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-17T00:10:36.562Z</id>
+    <id>urn:2024-05-18T00:10:31.983Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T00:10:36.562Z</updated>
+    <updated>2024-05-18T00:10:31.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn College Precalculus with Python]]></title>
+        <id>https://www.freecodecamp.org/news/learn-college-precalculus-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/learn-college-precalculus-with-python/"/>
+        <updated>2024-05-17T19:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Precalculus is an important mathematical course that lays the groundwork for calculus and other higher-level math subjects. We just released a college precalculus course on the freeCodeCamp.org YouTube channel. This course is unique in that you will ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A User Segmentation Matrix To Foster Cross-Org Alignment]]></title>
+        <id>https://smashingmagazine.com/2024/05/building-user-segmentation-matrix-foster-cross-org-alignment/</id>
+        <link href="https://smashingmagazine.com/2024/05/building-user-segmentation-matrix-foster-cross-org-alignment/"/>
+        <updated>2024-05-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is there such a thing as harmony between designers and developers in the workplace, and if so, how can it be achieved? In this article, Chris Day explores the challenges of effective collaboration, outlines the key factors at play, and (hopefully!) empowers you to find the right solutions to help you and your team deliver to their full potential.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Talke Hoppmann-Walton)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deal with Traffic Surges in Distributed Systems]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deal-with-traffic-surges-in-distributed-systems/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deal-with-traffic-surges-in-distributed-systems/"/>
+        <updated>2024-05-17T06:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Web and Distributed Systems can often get overwhelmed with traffic.  What leads to systems being overwhelmed, why does it happen, and what are some common strategies we can use to deal with this? We'll answer these questions in this article. Table of Contents  1. What is traffic in]]></summary>
+        <author>
+            <name>Anant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why am I not getting Quincy Larson's email anymore?]]></title>
+        <id>https://www.freecodecamp.org/news/why-am-i-not-getting-quincy-larsons-email-anymore/</id>
+        <link href="https://www.freecodecamp.org/news/why-am-i-not-getting-quincy-larsons-email-anymore/"/>
+        <updated>2024-05-16T23:17:54.000Z</updated>
+        <summary type="html"><![CDATA[If you're not getting Quincy Larson's email each week, and you want to get them again, do the following: Fill out this form. It takes less than a minute. Search your spam folder for "Quincy Larson" and if you find any of my emails in there, mark th...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Join the freeCodeCamp Discord Server and Chat with Fellow Campers]]></title>
         <id>https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/</id>
@@ -106,26 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Store Data Locally in React Native Expo]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/"/>
-        <updated>2024-05-13T11:42:45.000Z</updated>
-        <summary type="html"><![CDATA[React Native has grown in popularity as a mobile application development tool because of its ability to create cross-platform applications using familiar JavaScript and React principles.  When building mobile applications, one common requirement is the ability to save data locally on the device. This is when local storage comes]]></summary>
-        <author>
-            <name>John Caleb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Events in React – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/"/>
-        <updated>2024-05-13T09:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Event handling is fundamental to understanding how React processes browser events and updates the DOM. As a React developer, it's a critical skill to have, as it enables efficient management of user interactions within web apps. This article covers how to set up event handlers and proceeds to more elegant]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Times You Need A Custom @property Instead Of A CSS Variable]]></title>
         <id>https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/</id>
         <link href="https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/"/>
@@ -133,16 +153,6 @@
         <summary type="html"><![CDATA[Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a React Chatbot – a Step by Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/"/>
-        <updated>2024-05-10T22:27:30.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving realm of web technologies, the integration of AI-powered chatbots has become a defining trend in 2024.  With rapid advancements in Large Language Models (LLMs), chatbots have grown to become pivotal tools adopted across many websites and services. From FAQ bots to live chat support, they can]]></summary>
-        <author>
-            <name>Tan Jin</name>
         </author>
     </entry>
     <entry>
@@ -274,16 +284,6 @@ Demystifying Screen Readers: Accessible Forms & Best Practices originally publis
         <summary type="html"><![CDATA[What options do we have for integrating GraphQL with WordPress in 2024? Leonardo Losoviz describes the developments that have taken place in this space over the last three years.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting Plain Text To Encoded HTML With Vanilla JavaScript]]></title>
-        <id>https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/</id>
-        <link href="https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/"/>
-        <updated>2024-04-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What do you do when you need to convert plain text into formatted HTML? Perhaps you reach for Markdown or manually write in the element tags yourself. Or maybe you have one or two of the dozens of online tools that will do it for you. In this tutorial, Alexis Kypridemos picks those tools apart and details the steps for how we can do it ourselves with a little vanilla HTML, CSS, and JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexis Kypridemos)</name>
         </author>
     </entry>
 </feed>
