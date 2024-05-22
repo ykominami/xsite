@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/hidden-vs-disabled-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
+          "link": "https://smashingmagazine.com/2024/05/hidden-vs-disabled-ux/",
+          "publishedOn": "2024-05-21T08:20:00.000Z",
+          "wordCount": 3414,
+          "title": "Hidden vs. Disabled In UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/hidden-vs-disabled-ux/hidden-vs-disabled-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/hidden-vs-disabled-ux/hidden-vs-disabled-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/building-user-segmentation-matrix-foster-cross-org-alignment/",
           "author": "hello@smashingmagazine.com (Talke Hoppmann-Walton)",
           "description": "Many organizations prioritize internal structures and services over customer-centricity, hindering effective decision-making. Through a case study, Talke Hoppmann-Walton advocates for a shift towards an outside-in perspective and proposes the use of a user segmentation matrix to foster alignment across departments and prioritize customer needs.",
           "link": "https://smashingmagazine.com/2024/05/building-user-segmentation-matrix-foster-cross-org-alignment/",
           "publishedOn": "2024-05-17T17:00:00.000Z",
-          "wordCount": 6105,
+          "wordCount": 6102,
           "title": "Building A User Segmentation Matrix To Foster Cross-Org Alignment",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-user-segmentation-matrix-foster-cross-org-alignment/building-user-segmentation-matrix-foster-cross-org-alignment.jpg",
@@ -53,7 +68,7 @@
           "description": "Is there such a thing as harmony between designers and developers in the workplace, and if so, how can it be achieved? In this article, Chris Day explores the challenges of effective collaboration, outlines the key factors at play, and (hopefully!) empowers you to find the right solutions to help you and your team deliver to their full potential.",
           "link": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
           "publishedOn": "2024-05-15T10:00:00.000Z",
-          "wordCount": 6581,
+          "wordCount": 6675,
           "title": "Transforming The Relationship Between Designers And Developers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transforming-relationship-between-designers-developers/transforming-relationship-between-designers-developers.jpg",
@@ -83,7 +98,7 @@
           "description": "Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.",
           "link": "https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/",
           "publishedOn": "2024-05-13T08:00:00.000Z",
-          "wordCount": 4212,
+          "wordCount": 4214,
           "title": "The Times You Need A Custom @property Instead Of A CSS Variable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/times-need-custom-property-instead-css-variable/times-need-custom-property-instead-css-variable.jpg",
@@ -98,7 +113,7 @@
           "description": "In this comprehensive guide, Temani Afif explores different techniques for creating common shapes with the smallest and most flexible code possible.",
           "link": "https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/",
           "publishedOn": "2024-05-10T13:00:00.000Z",
-          "wordCount": 8904,
+          "wordCount": 8899,
           "title": "The Modern Guide For Making CSS Shapes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-guide-making-css-shapes/modern-guide-making-css-shapes.jpg",
@@ -113,14 +128,14 @@
           "description": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
           "link": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
           "publishedOn": "2024-05-09T13:00:00.000Z",
-          "wordCount": 7597,
+          "wordCount": 7598,
           "title": "The Forensics Of React Server Components (RSCs)",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg",
+            "url": "http://files.smashing.media/articles/forensics-react-server-components/forensics-of-react-server-components.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg"
+          "imageUrl": "http://files.smashing.media/articles/forensics-react-server-components/forensics-of-react-server-components.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
@@ -128,7 +143,7 @@
           "description": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
           "link": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
           "publishedOn": "2024-05-07T12:00:00.000Z",
-          "wordCount": 3850,
+          "wordCount": 3857,
           "title": "How To Run UX Research Without Access To Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg",
@@ -143,7 +158,7 @@
           "description": "In this article, Eduard Kuric discusses mouse interaction data, what kind of magic can be done with it, and some of the hidden pitfalls to watch out for so you get a head start incorporating them in your solutions.",
           "link": "https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/",
           "publishedOn": "2024-05-06T10:00:00.000Z",
-          "wordCount": 6326,
+          "wordCount": 6331,
           "title": "How To Harness Mouse Interaction Data For Practical Machine Learning Solutions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/harness-mouse-interaction-data-machine-learning/harness-mouse-interaction-data-machine-learning.jpg",
@@ -158,7 +173,7 @@
           "description": "Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.",
           "link": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
           "publishedOn": "2024-05-02T10:00:00.000Z",
-          "wordCount": 3819,
+          "wordCount": 3814,
           "title": "Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg",
@@ -173,7 +188,7 @@
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
           "publishedOn": "2024-04-30T13:00:00.000Z",
-          "wordCount": 4954,
+          "wordCount": 4955,
           "title": "Longing For May (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -188,7 +203,7 @@
           "description": "Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.",
           "link": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
           "publishedOn": "2024-04-29T15:00:00.000Z",
-          "wordCount": 5840,
+          "wordCount": 5728,
           "title": "Lessons Learned After Selling My Startup",
           "enclosure": {
             "url": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg",
@@ -203,7 +218,7 @@
           "description": "Free-tier pricing is a common marketing strategy. “Free” gets people in the door and allows them to settle in and see how things work. But, as Juan Diego Rodriguez explains, the practice of free *tiers* is often conflated with free *trials*. And while the distinction may be nuanced, the consequences of sunsetting free-tier pricing may be huge.",
           "link": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
           "publishedOn": "2024-04-26T08:00:00.000Z",
-          "wordCount": 5565,
+          "wordCount": 5461,
           "title": "The End Of The Free Tier",
           "enclosure": {
             "url": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg",
@@ -218,7 +233,7 @@
           "description": "Conducting UX research that includes participants with a variety of disabilities is vital to building inclusive technology, but most prototypes used for testing are inaccessible. Rather than continuing to leave out feedback from disabled consumers, which ultimately leads to exclusive technology, researchers must get creative in their workarounds and be relentless in their efforts.",
           "link": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
           "publishedOn": "2024-04-25T12:00:00.000Z",
-          "wordCount": 6433,
+          "wordCount": 6431,
           "title": "Conducting Accessibility Research In An Inaccessible Ecosystem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg",
@@ -248,7 +263,7 @@
           "description": "Scrolling, scanning, skipping: How do users consume content online? Here’s what you need to know about reading behavior and design strategies to prevent harmful scanning patterns. An upcoming part of Smart Interface Design Patterns.",
           "link": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
           "publishedOn": "2024-04-23T10:00:00.000Z",
-          "wordCount": 3736,
+          "wordCount": 3741,
           "title": "F-Shape Pattern And How Users Read",
           "enclosure": {
             "url": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg",
@@ -264,6 +279,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/fine-tuning-llm-models-course/",
+          "author": "Beau Carnes",
+          "description": "Fine-tuning is a process in machine learning that allows you to adapt pre-trained models to specific tasks or datasets, enhancing their performance and usability. We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that will...",
+          "link": "https://www.freecodecamp.org/news/fine-tuning-llm-models-course/",
+          "publishedOn": "2024-05-21T16:22:01.000Z",
+          "wordCount": 1120,
+          "title": "Fine-Tuning LLM Models Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1716308506161/f7e61904-4b87-4578-a04b-e60b6221a1df.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-real-time-chat-app-with-supabase-and-angular/",
+          "author": "Beau Carnes",
+          "description": "We are just published a course on the freeCodeCamp.org YouTube channel that will help you improve your skills with Supabase and Angular. In this course, you will learn how to build a real-time chat application. The course is perfect for anyone lookin...",
+          "link": "https://www.freecodecamp.org/news/create-a-real-time-chat-app-with-supabase-and-angular/",
+          "publishedOn": "2024-05-21T14:32:51.000Z",
+          "wordCount": 1122,
+          "title": "Create a Real Time Chat App with Supabase and Angular",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1716301947626/b68a7c6f-c3cc-40b2-94bd-1f42ea297cce.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-collaborate-with-web-development-teams-using-productivity-tools/",
+          "author": "Tarif Kahn",
+          "description": "If you're a web developer, designer, or project manager, you're likely quite busy these days and have a lot on your plate.  This is partly because the number of websites is growing rapidly, with 71% of all businesses [https://www.forbes.com/advisor/business/software/website-statistics/] in the world having one. In fact, every three seconds",
+          "link": "https://www.freecodecamp.org/news/how-to-collaborate-with-web-development-teams-using-productivity-tools/",
+          "publishedOn": "2024-05-21T12:52:10.000Z",
+          "wordCount": 3778,
+          "title": "How to Collaborate with Web Development Teams Using Productivity Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/christopher-gower-m_HRfLhgABo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solid-principles-for-microservices/",
+          "author": "oluwatobi Joshua",
+          "description": "We are in the era of transformative technology with several innovations springing up to improve service delivery and enhance customers’ satisfaction. More so is the introduction of microservices and other distributed systems into the software industry to revolutionize enterprise application development. Its introduction has helped to solve problems associated with",
+          "link": "https://www.freecodecamp.org/news/solid-principles-for-microservices/",
+          "publishedOn": "2024-05-21T09:56:55.000Z",
+          "wordCount": 1827,
+          "title": "How to Build Resilient Microservice Systems – SOLID Principles for Microservices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/solid.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-class-handbook/",
           "author": "Oluwatobi Sofela",
@@ -285,6 +340,16 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/fcc_maintain.png"
         },
         {
+          "id": "https://www.freecodecamp.org/news/online-safety-a-guide-to-protecting-yourself/",
+          "author": "Rohit Jacob Mathew",
+          "description": "Navigating digital accounts safely is a concern for many in the modern age.  Digital accounts have become an integral part of our daily lives. From email and online banking to accounts on ride-sharing platforms like Uber and e-commerce platforms like Amazon, protecting our digital lives online is becoming imperative.",
+          "link": "https://www.freecodecamp.org/news/online-safety-a-guide-to-protecting-yourself/",
+          "publishedOn": "2024-05-20T15:13:00.000Z",
+          "wordCount": 2068,
+          "title": "Online Safety – A Guide to Protecting Yourself",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/rohit-2400-x-1260.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-rest-api-without-a-server/",
           "author": "Jakub T. Jankiewicz",
           "description": "If you're a Front-End developer and want to showcase your skills, it may be a problem if you use GitHub pages or Netlify to show your apps.  Instead, you can create a REST API directly in the browser without the need of any server. With this, you can showcase",
@@ -292,7 +357,7 @@
           "publishedOn": "2024-05-20T10:13:43.000Z",
           "wordCount": 3035,
           "title": "How to Create a REST API Without a Server",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/cover-4.png"
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/cover-5.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-make-your-flutter-package-privacy-manifest-compatible/",
@@ -313,56 +378,6 @@
           "wordCount": 969,
           "title": "AI is Overrated – Why ThePrimeagen Ripped Out GitHub Copilot From His Code Editor [Podcast #124]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715987988596/858a16a4-dda9-47a1-9b56-a5128365fab1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-college-precalculus-with-python/",
-          "author": "Beau Carnes",
-          "description": "Precalculus is an important mathematical course that lays the groundwork for calculus and other higher-level math subjects. We just released a college precalculus course on the freeCodeCamp.org YouTube channel. This course is unique in that you will ...",
-          "link": "https://www.freecodecamp.org/news/learn-college-precalculus-with-python/",
-          "publishedOn": "2024-05-17T19:07:23.000Z",
-          "wordCount": 867,
-          "title": "Learn College Precalculus with Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715972815207/e6697fc1-8928-4ef5-9c8d-c9c8e8d01eaf.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deal-with-traffic-surges-in-distributed-systems/",
-          "author": "Anant Chowdhary",
-          "description": "Web and Distributed Systems can often get overwhelmed with traffic.  What leads to systems being overwhelmed, why does it happen, and what are some common strategies we can use to deal with this? We'll answer these questions in this article. Table of Contents  1. What is traffic in",
-          "link": "https://www.freecodecamp.org/news/how-to-deal-with-traffic-surges-in-distributed-systems/",
-          "publishedOn": "2024-05-17T06:50:28.000Z",
-          "wordCount": 1801,
-          "title": "How to Deal with Traffic Surges in Distributed Systems",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/pixlr-image-generator-69edc004-3fbf-4324-92e0-bb7bc998b82d-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-am-i-not-getting-quincy-larsons-email-anymore/",
-          "author": "Quincy Larson",
-          "description": "If you're not getting Quincy Larson's email each week, and you want to get them again, do the following: Fill out this form. It takes less than a minute. Search your spam folder for \"Quincy Larson\" and if you find any of my emails in there, mark th...",
-          "link": "https://www.freecodecamp.org/news/why-am-i-not-getting-quincy-larsons-email-anymore/",
-          "publishedOn": "2024-05-16T23:17:54.000Z",
-          "wordCount": 1075,
-          "title": "Why am I not getting Quincy Larson's email anymore?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715894818175/efa147c8-f17e-4748-8c96-442ec5510a47.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/",
-          "author": "Quincy Larson",
-          "description": "freeCodeCamp runs a popular Discord community where we hang out and chat about technology. You can join in the fun and learn from fellow campers who are going through freeCodeCamp's core curriculum. You can use this link: https://discord.com/invite/f...",
-          "link": "https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/",
-          "publishedOn": "2024-05-16T21:13:29.000Z",
-          "wordCount": 733,
-          "title": "How to Join the freeCodeCamp Discord Server and Chat with Fellow Campers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715893958266/2a5fa416-1c34-4672-80d3-dbaf209c3079.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-an-image-lightbox/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article, I'll show you two ways to create a lightbox effect in a spreadsheet. The first will trigger the image to be displayed in a large area in the sheet. The second will be an actual HTML popup on top of the sheet. If you want to follow",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-image-lightbox/",
-          "publishedOn": "2024-05-16T10:17:53.000Z",
-          "wordCount": 1742,
-          "title": "How to Create a Pop-up Image in Your Spreadsheet",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Lightbox-2-1.jpg"
         }
       ]
     }
