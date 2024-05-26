@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-25T00:10:18.251Z</id>
+    <id>urn:2024-05-26T00:11:44.798Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T00:10:18.251Z</updated>
+    <updated>2024-05-26T00:11:44.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Manipulate Strings in JavaScript – With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manipulate-strings-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manipulate-strings-in-javascript/"/>
+        <updated>2024-05-24T21:46:24.000Z</updated>
+        <summary type="html"><![CDATA[String manipulation is a common task for programmers, whether it is extracting information from the string, converting letter cases, joining strings, or trimming extra white spaces. This tutorial covers various methods and techniques for manipulating strings using JavaScript, offering you a comprehensive guide on how to work with strings in]]></summary>
+        <author>
+            <name>Eric Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build CRUD Operations with .NET Core – A Todo API Handbook]]></title>
         <id>https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/</id>
@@ -66,7 +76,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Practices For Naming Design Tokens, Components, Variables, And More]]></title>
+        <title type="html"><![CDATA[Best Practices For Naming Design Tokens, Components And Variables]]></title>
         <id>https://smashingmagazine.com/2024/05/naming-best-practices/</id>
         <link href="https://smashingmagazine.com/2024/05/naming-best-practices/"/>
         <updated>2024-05-23T09:00:00.000Z</updated>
@@ -123,16 +133,6 @@
         <summary type="html"><![CDATA[An application programming interface (API) is software that acts as an intermediary, allowing two applications to communicate. This project will teach you how to develop an API step by step and connect it to a database. We just published a course on ...]]></summary>
         <author>
             <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Tuning LLM Models Course]]></title>
-        <id>https://www.freecodecamp.org/news/fine-tuning-llm-models-course/</id>
-        <link href="https://www.freecodecamp.org/news/fine-tuning-llm-models-course/"/>
-        <updated>2024-05-21T16:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Fine-tuning is a process in machine learning that allows you to adapt pre-trained models to specific tasks or datasets, enhancing their performance and usability. We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that will...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -263,16 +263,6 @@
         <summary type="html"><![CDATA[Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yaakov Karda)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End Of The Free Tier]]></title>
-        <id>https://smashingmagazine.com/2024/04/end-of-free-tier/</id>
-        <link href="https://smashingmagazine.com/2024/04/end-of-free-tier/"/>
-        <updated>2024-04-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Free-tier pricing is a common marketing strategy. “Free” gets people in the door and allows them to settle in and see how things work. But, as Juan Diego Rodriguez explains, the practice of free *tiers* is often conflated with free *trials*. And while the distinction may be nuanced, the consequences of sunsetting free-tier pricing may be huge.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
