@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-08T00:11:46.203Z</id>
+    <id>urn:2024-06-09T00:12:40.180Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T00:11:46.203Z</updated>
+    <updated>2024-06-09T00:12:40.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Outsmart AI as a Developer [Dr. Chuck Interview #127]]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-outsmart-ai-as-a-developer-dr-chuck-interview-127/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-outsmart-ai-as-a-developer-dr-chuck-interview-127/"/>
+        <updated>2024-06-08T00:54:09.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dr. Chuck. He's a software engineer and Computer Science professor at University of Michigan, which has one of the top-ranked CS programs in the world. Dr. Charles "...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use WeakMap and WeakSet in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/</id>
@@ -113,16 +123,6 @@
         <summary type="html"><![CDATA[Learning Python can be challenging, especially if you're not actually writing enough code. As a beginner, you may go through lessons and tutorials without practicing on your own – and this makes it harder to learn the language. The truth is, you cannot truly learn programming without writing code. It]]></summary>
         <author>
             <name>Abhilekh Gautam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a YouTube Clone with Flutter, Firebase, and Riverpod]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-youtube-clone-with-flutter-firebase-and-riverpod/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-youtube-clone-with-flutter-firebase-and-riverpod/"/>
-        <updated>2024-06-04T19:07:51.000Z</updated>
-        <summary type="html"><![CDATA[We just released a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a full stack application. This beginner-friendly course will guide you through the process of creating a fully functional YouTube clone app, utiliz...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -284,16 +284,6 @@ CSS Length Units originally published on CSS-Tricks, which is part of the Digita
         <summary type="html"><![CDATA[In this comprehensive guide, Temani Afif explores different techniques for creating common shapes with the smallest and most flexible code possible.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Forensics Of React Server Components (RSCs)]]></title>
-        <id>https://smashingmagazine.com/2024/05/forensics-react-server-components/</id>
-        <link href="https://smashingmagazine.com/2024/05/forensics-react-server-components/"/>
-        <updated>2024-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lazar Nikolov)</name>
         </author>
     </entry>
 </feed>
