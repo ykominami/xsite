@@ -17,7 +17,7 @@
           "description": "The main idea of CSS Container Queries is to register an element as a “container” and apply styles to other elements when the container element meets certain conditions. \nCSS Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-container-queries/",
           "publishedOn": "2024-06-10T16:12:50.000Z",
-          "wordCount": 3852,
+          "wordCount": 4038,
           "title": "CSS Container Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378111"
         },
@@ -39,6 +39,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/",
+          "author": "hello@smashingmagazine.com (Kristian Mikhel)",
+          "description": "Kristian Mikhel covers various practical applications of scents in product experience, from immersive entertainment to healing spaces and medical appliances, and how designers can drive innovation across spheres and disciplines.",
+          "link": "https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/",
+          "publishedOn": "2024-06-12T13:00:00.000Z",
+          "wordCount": 6710,
+          "title": "The Scent Of UX: The Unrealized Potential Of Olfactory Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/scent-ux-unrealized-potential-olfactory-design/scent-ux-unrealized-potential-olfactory-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/scent-ux-unrealized-potential-olfactory-design/scent-ux-unrealized-potential-olfactory-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
           "author": "hello@smashingmagazine.com (Salma Alam-Naylor)",
           "description": "Do perfect Lighthouse scores mean the performance of your website is perfect? As it turns out, Lighthouse is influenced by a number of things that can be manipulated and bent to make sites seem more performant than they really are, as Salma Alam-Naylor demonstrates in several experiments.",
@@ -59,7 +74,7 @@
           "description": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
           "link": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
           "publishedOn": "2024-06-07T11:00:00.000Z",
-          "wordCount": 4008,
+          "wordCount": 4005,
           "title": "Useful CSS Tips And Techniques",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png",
@@ -74,7 +89,7 @@
           "description": "There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.",
           "link": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
           "publishedOn": "2024-06-05T15:00:00.000Z",
-          "wordCount": 7768,
+          "wordCount": 7776,
           "title": "Presenting UX Research And Design To Stakeholders: The Power Of Persuasion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/presenting-ux-research-design-stakeholders/presenting-ux-research-design-stakeholders.jpg",
@@ -89,7 +104,7 @@
           "description": "The web is still a young platform, and we’re only now beginning to recognize what “success” looks like for large projects. In his recent Smashing book, [Success at Scale](https://www.smashingmagazine.com/printed-books/success-at-scale/), Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.",
           "link": "https://smashingmagazine.com/2024/06/scaling-success-key-insights-pratical-takeaways/",
           "publishedOn": "2024-06-04T12:00:00.000Z",
-          "wordCount": 6381,
+          "wordCount": 6271,
           "title": "Scaling Success: Key Insights And Practical Takeaways",
           "enclosure": {
             "url": "http://files.smashing.media/articles/scaling-success-mindsets-decisions-learnings/scaling-success-mindsets-decisions-learnings.jpg",
@@ -104,7 +119,7 @@
           "description": "Let’s kick off June with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to celebrate the beginning of the new month with a collection of beautiful and unique wallpaper calendars.",
           "link": "https://smashingmagazine.com/2024/05/desktop-wallpaper-calendars-june-2024/",
           "publishedOn": "2024-05-31T16:00:00.000Z",
-          "wordCount": 4680,
+          "wordCount": 4790,
           "title": "Ice Cream Ahead (June 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9405f1a1-e310-4f41-8033-da3d60ad53ac/june-16-join-the-wave-preview-opt.png",
@@ -119,7 +134,7 @@
           "description": "What does it mean to learn the “basics”, or fundamentals, of front-end web development? Is starting with HTML and CSS still the best entry point to learn how to make websites and apps when we have a seemingly endless supply of frameworks? Geoff Graham thinks so and discusses why you might consider going “back to basics” to start or move forward in your career.",
           "link": "https://smashingmagazine.com/2024/05/in-praise-of-the-basics/",
           "publishedOn": "2024-05-30T15:00:00.000Z",
-          "wordCount": 3944,
+          "wordCount": 3943,
           "title": "In Praise Of The Basics",
           "enclosure": {
             "url": "http://files.smashing.media/articles/in-praise-of-the-basics/in-praise-of-the-basics.jpg",
@@ -164,7 +179,7 @@
           "description": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
           "link": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
           "publishedOn": "2024-05-24T12:00:00.000Z",
-          "wordCount": 4743,
+          "wordCount": 4851,
           "title": "Switching It Up With HTML’s Latest Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/switching-it-up-html-latest-control/switching-it-up-html-latest-control.jpg",
@@ -179,7 +194,7 @@
           "description": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
           "link": "https://smashingmagazine.com/2024/05/naming-best-practices/",
           "publishedOn": "2024-05-23T09:00:00.000Z",
-          "wordCount": 3885,
+          "wordCount": 3886,
           "title": "Best Practices For Naming Design Tokens, Components And Variables",
           "enclosure": {
             "url": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png",
@@ -194,7 +209,7 @@
           "description": "It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.",
           "link": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
           "publishedOn": "2024-05-22T15:00:00.000Z",
-          "wordCount": 7130,
+          "wordCount": 7129,
           "title": "Modern CSS Layouts: You Might Not Need A Framework For That",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-layouts-no-framework-needed/modern-css-layouts-no-framework-needed.jpg",
@@ -224,7 +239,7 @@
           "description": "Many organizations prioritize internal structures and services over customer-centricity, hindering effective decision-making. Through a case study, Talke Hoppmann-Walton advocates for a shift towards an outside-in perspective and proposes the use of a user segmentation matrix to foster alignment across departments and prioritize customer needs.",
           "link": "https://smashingmagazine.com/2024/05/building-user-segmentation-matrix-foster-cross-org-alignment/",
           "publishedOn": "2024-05-17T17:00:00.000Z",
-          "wordCount": 6108,
+          "wordCount": 6106,
           "title": "Building A User Segmentation Matrix To Foster Cross-Org Alignment",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-user-segmentation-matrix-foster-cross-org-alignment/building-user-segmentation-matrix-foster-cross-org-alignment.jpg",
@@ -239,7 +254,7 @@
           "description": "Juan Diego Rodriguez explains why media queries still occupy a vital role in responsive layouts; only they are now one tool in a larger toolbox with modern techniques that are best when used together.",
           "link": "https://smashingmagazine.com/2024/05/beyond-css-media-queries/",
           "publishedOn": "2024-05-16T15:00:00.000Z",
-          "wordCount": 6071,
+          "wordCount": 6072,
           "title": "Beyond CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-css-media-queries/beyond-css-media-queries.jpg",
@@ -254,7 +269,7 @@
           "description": "Is there such a thing as harmony between designers and developers in the workplace, and if so, how can it be achieved? In this article, Chris Day explores the challenges of effective collaboration, outlines the key factors at play, and (hopefully!) empowers you to find the right solutions to help you and your team deliver to their full potential.",
           "link": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
           "publishedOn": "2024-05-15T10:00:00.000Z",
-          "wordCount": 6580,
+          "wordCount": 6585,
           "title": "Transforming The Relationship Between Designers And Developers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/transforming-relationship-between-designers-developers/transforming-relationship-between-designers-developers.jpg",
@@ -262,21 +277,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/transforming-relationship-between-designers-developers/transforming-relationship-between-designers-developers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/designers-business-ux-language/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
-          "link": "https://smashingmagazine.com/2024/05/designers-business-ux-language/",
-          "publishedOn": "2024-05-14T12:00:00.000Z",
-          "wordCount": 3450,
-          "title": "Why Designers Aren’t Understood",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designers-business-ux-language/designers-business-ux-language.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designers-business-ux-language/designers-business-ux-language.jpg"
         }
       ]
     },
@@ -286,6 +286,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "While going through a website or an application, people tend to take in the information displayed differently. You may notice that sometimes a person may miss information that others wouldn't miss. This may have happened to you before, as well. This is because everyone has a particular way they process",
+          "link": "https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/",
+          "publishedOn": "2024-06-12T14:33:18.000Z",
+          "wordCount": 2282,
+          "title": "How to Use Viewing Patterns in Your Website Designs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/pexels-ramilugot-5011944.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-threejs-by-building-five-projects/",
+          "author": "Beau Carnes",
+          "description": "Three.js is a powerful JavaScript library that simplifies the process of creating 3D graphics in the browser. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to use Three.js by guiding you through build...",
+          "link": "https://www.freecodecamp.org/news/learn-threejs-by-building-five-projects/",
+          "publishedOn": "2024-06-12T13:33:30.000Z",
+          "wordCount": 970,
+          "title": "Learn Three.js By Building Five Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718199206429/fa28f06e-1fe1-48cd-a1f7-59d513e4124e.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/",
+          "author": "Vahe Aslanyan",
+          "description": "Retrieval Augmented Generation (RAG) signifies a transformative advancement in large language models (LLMs). It combines the generative prowess of transformer architectures with dynamic information retrieval.  This integration allows LLMs to access and incorporate relevant external knowledge during text generation, resulting in outputs that are more accurate, contextual, and factually",
+          "link": "https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/",
+          "publishedOn": "2024-06-11T21:18:00.000Z",
+          "wordCount": 9431,
+          "title": "Next-Gen Large Language Models: The Retrieval-Augmented Generation (RAG) Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Next-Gen-Large-Language-Models-Cover-1--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/",
           "author": "Beau Carnes",
           "description": "High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...",
@@ -293,7 +323,7 @@
           "publishedOn": "2024-06-11T16:33:23.000Z",
           "wordCount": 871,
           "title": "Learn High-Level System Design by Building a YouTube Clone",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718206158910/699b887d-0621-4647-a184-306ad88c55f1.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/",
@@ -321,7 +351,7 @@
           "description": "Unit testing is a software testing technique in which individual components or units of a software application are tested independently from the rest of the application.  In software development, it's beneficial to break your application into small, isolated units. This approach allows you to write independent tests to check",
           "link": "https://www.freecodecamp.org/news/unit-testing-in-python/",
           "publishedOn": "2024-06-10T16:33:04.000Z",
-          "wordCount": 2220,
+          "wordCount": 2221,
           "title": "How to Write Unit Tests in Python – with Example Test Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/WhatsApp-Image-2024-06-10-at-10.46.58-AM.jpeg"
         },
@@ -354,36 +384,6 @@
           "wordCount": 3640,
           "title": "How to Use WeakMap and WeakSet in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
-          "author": "Akinwumi Iyanuoluwa Ayomiposi",
-          "description": "In this tutorial, you'll build a simple real-time chat app using Go, Fiber and HTMX.  You will learn how to leverage the versatility of Fiber by making use of a WebSocket. You'll also learn how to create a reactive frontend without the use of JavaScript. Prerequisites  * A",
-          "link": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
-          "publishedOn": "2024-06-06T18:06:35.000Z",
-          "wordCount": 2147,
-          "title": "How to Build a Real-Time Chat App With Go, Fiber and HTMX",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/websocket.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-the-azure-devops-engineer-expert-certification-az-400/",
-          "author": "Beau Carnes",
-          "description": "The Azure DevOps Engineer Expert Certification (AZ-400) is for professionals who aim to demonstrate their expertise in integrating people, processes, and technologies to continuously deliver valuable products and services. It’s ideal for those who ar...",
-          "link": "https://www.freecodecamp.org/news/master-the-azure-devops-engineer-expert-certification-az-400/",
-          "publishedOn": "2024-06-06T14:48:33.000Z",
-          "wordCount": 861,
-          "title": "Master the Azure DevOps Engineer Expert Certification (AZ-400)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717685292411/87c8d3d3-50e3-4561-a807-98f4bbcc170e.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
-          "author": "Beau Carnes",
-          "description": "We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a decentralized, fully distributed, content-addressable file storage system using Go. This course is perfect for those interested in system desig...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
-          "publishedOn": "2024-06-05T21:00:31.000Z",
-          "wordCount": 861,
-          "title": "Learn How to Build a Decentralized File Storage System with Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717621212467/3ddb756b-de1e-4976-8196-4113e5851a9d.png"
         }
       ]
     }
