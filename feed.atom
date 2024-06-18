@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-17T00:11:37.860Z</id>
+    <id>urn:2024-06-18T00:11:14.394Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T00:11:37.860Z</updated>
+    <updated>2024-06-18T00:11:14.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Auto Scaling and Load Balancing Work in Software Architecture]]></title>
+        <id>https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/</id>
+        <link href="https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/"/>
+        <updated>2024-06-17T18:52:13.000Z</updated>
+        <summary type="html"><![CDATA[While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write QA Documentation That Will Actually Work]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/"/>
+        <updated>2024-06-17T18:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Imagine developing a complex software product without taking any action to protect against errors. Human error and unexpected code combinations can cause a wide range of defects. This is where quality assurance (QA) documentation comes in.  Usually, a QA tester creates a report after discovering a bug. The next]]></summary>
+        <author>
+            <name>Oleg Romanyuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle KeyErrors in Python – with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/"/>
+        <updated>2024-06-17T18:24:14.000Z</updated>
+        <summary type="html"><![CDATA[When working with dictionaries in Python, you’d often run into KeyError  exceptions. Dictionaries are built-in data structures of key value pairs. So you can look up a value—in constant time—using the corresponding key like so: dict[key] returns  value. But what if the key doesn't exist in the dictionary?]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Email Newsletters For Designers]]></title>
+        <id>https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/</id>
+        <link href="https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/"/>
+        <updated>2024-06-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you want to take your user research skills to the next level, get better at UX writing, or stay up-to-date on the latest design trends, a newsletter is the perfect opportunity to get the best of the best resources delivered straight to your inbox on a regular basis. In this post, we highlight some design newsletters that you might want to consider subscribing to.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Black-Scholes Equation Works – Explained with Python Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/</id>
+        <link href="https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/"/>
+        <updated>2024-06-17T16:42:59.000Z</updated>
+        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - r S \frac{\partial V}{\partial S}$$  Black-Scholes Equation]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Frameworks vs Laravel – Which Should You Choose for Web Development?]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/"/>
+        <updated>2024-06-17T14:28:11.000Z</updated>
+        <summary type="html"><![CDATA[For a long time, developers in the JavaScript ecosystem have tried to launch Laravel-like frameworks for JavaScript. We've seen Blitz for NextJS, Adonis for NodeJS, RedwoodJS, and more. All these frameworks tried to build a Laravel for JavaScript. But none of them were really successful. Why? We'll figure it out]]></summary>
+        <author>
+            <name>Afan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Multi-Page Animations Using Framer Motion & React-Router-Dom]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/"/>
+        <updated>2024-06-17T05:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Animations are what make plain websites turn into exciting and unforgettable experiences. They give your website a bit of personality and uniqueness and leave the visitor admiring the overall aesthetic. It's a no-brainer that humans love beautiful things. We all love products that look easy on the eyes.  In]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Attention Mechanisms in Deep Learning?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/"/>
+        <updated>2024-06-17T05:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Attention mechanism is a fundamental invention in artificial intelligence and machine learning, redefining the capabilities of deep learning models. This mechanism, inspired by the human mental process of selective focus, has emerged as a pillar in a variety of applications, accelerating developments in natural language processing, computer vision, and beyond.]]></summary>
+        <author>
+            <name>Oyedele Tioluwani Taiwo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lambda Functions in Python – How to Use Lambdas with Map, Filter, and Reduce]]></title>
         <id>https://www.freecodecamp.org/news/lambda-functions-in-python/</id>
@@ -56,26 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Viewing Patterns in Your Website Designs]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/"/>
-        <updated>2024-06-12T14:33:18.000Z</updated>
-        <summary type="html"><![CDATA[While going through a website or an application, people tend to take in the information displayed differently. You may notice that sometimes a person may miss information that others wouldn't miss. This may have happened to you before, as well. This is because everyone has a particular way they process]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Three.js By Building Five Projects]]></title>
-        <id>https://www.freecodecamp.org/news/learn-threejs-by-building-five-projects/</id>
-        <link href="https://www.freecodecamp.org/news/learn-threejs-by-building-five-projects/"/>
-        <updated>2024-06-12T13:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Three.js is a powerful JavaScript library that simplifies the process of creating 3D graphics in the browser. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to use Three.js by guiding you through build...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Scent Of UX: The Unrealized Potential Of Olfactory Design]]></title>
         <id>https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/</id>
         <link href="https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/"/>
@@ -86,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next-Gen Large Language Models: The Retrieval-Augmented Generation (RAG) Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/"/>
-        <updated>2024-06-11T21:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Retrieval Augmented Generation (RAG) signifies a transformative advancement in large language models (LLMs). It combines the generative prowess of transformer architectures with dynamic information retrieval.  This integration allows LLMs to access and incorporate relevant external knowledge during text generation, resulting in outputs that are more accurate, contextual, and factually]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Hack Your Google Lighthouse Scores In 2024]]></title>
         <id>https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/</id>
         <link href="https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/"/>
@@ -103,46 +153,6 @@
         <summary type="html"><![CDATA[Do perfect Lighthouse scores mean the performance of your website is perfect? As it turns out, Lighthouse is influenced by a number of things that can be manipulated and bent to make sites seem more performant than they really are, as Salma Alam-Naylor demonstrates in several experiments.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Salma Alam-Naylor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn High-Level System Design by Building a YouTube Clone]]></title>
-        <id>https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/</id>
-        <link href="https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/"/>
-        <updated>2024-06-11T16:33:23.000Z</updated>
-        <summary type="html"><![CDATA[High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence]]></title>
-        <id>https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/"/>
-        <updated>2024-06-11T15:13:34.000Z</updated>
-        <summary type="html"><![CDATA[Data science skills are increasingly in-demand. We just published a hands-on data science with Python course on the freeCodeCamp.org YouTube channel. This comprehensive, 5.5+ hour course is designed to provide aspiring data scientists with essential ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Common Python Installation Errors on macOS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/"/>
-        <updated>2024-06-10T22:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Python's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled "How to Install Python on a Mac [/news/how-to-install-python-on-a-mac/]", which provides a clear guide to installing Python]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Unit Tests in Python – with Example Test Code]]></title>
-        <id>https://www.freecodecamp.org/news/unit-testing-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/unit-testing-in-python/"/>
-        <updated>2024-06-10T16:33:04.000Z</updated>
-        <summary type="html"><![CDATA[Unit testing is a software testing technique in which individual components or units of a software application are tested independently from the rest of the application.  In software development, it's beneficial to break your application into small, isolated units. This approach allows you to write independent tests to check]]></summary>
-        <author>
-            <name>Damilola Oladele</name>
         </author>
     </entry>
     <entry>
