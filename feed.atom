@@ -1,38 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-18T00:11:14.394Z</id>
+    <id>urn:2024-06-19T00:11:01.777Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T00:11:14.394Z</updated>
+    <updated>2024-06-19T00:11:01.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How Auto Scaling and Load Balancing Work in Software Architecture]]></title>
-        <id>https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/</id>
-        <link href="https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/"/>
-        <updated>2024-06-17T18:52:13.000Z</updated>
-        <summary type="html"><![CDATA[While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load]]></summary>
+        <title type="html"><![CDATA[PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/"/>
+        <updated>2024-06-18T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of my PHP array handbook. You can find the first part here [/news/php-array-handbook/], where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how]]></summary>
         <author>
-            <name>Daniel Adetunji</name>
+            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write QA Documentation That Will Actually Work]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/"/>
-        <updated>2024-06-17T18:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Imagine developing a complex software product without taking any action to protect against errors. Human error and unexpected code combinations can cause a wide range of defects. This is where quality assurance (QA) documentation comes in.  Usually, a QA tester creates a report after discovering a bug. The next]]></summary>
+        <title type="html"><![CDATA[What are Decorators in Python? Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/decorators-in-python-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/decorators-in-python-tutorial/"/>
+        <updated>2024-06-18T18:53:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn about Python decorators: what they are, how they work, and when to use them.  But before diving into decorators, it's helpful to understand two foundational concepts in Python: first-class functions and closures. First-Class Functions in Python First-class functions mean that functions in Python]]></summary>
         <author>
-            <name>Oleg Romanyuk</name>
+            <name>Samyak Jain</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Handle KeyErrors in Python – with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/"/>
-        <updated>2024-06-17T18:24:14.000Z</updated>
-        <summary type="html"><![CDATA[When working with dictionaries in Python, you’d often run into KeyError  exceptions. Dictionaries are built-in data structures of key value pairs. So you can look up a value—in constant time—using the corresponding key like so: dict[key] returns  value. But what if the key doesn't exist in the dictionary?]]></summary>
+        <title type="html"><![CDATA[A Non-Technical Introduction to Generative AI]]></title>
+        <id>https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/</id>
+        <link href="https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/"/>
+        <updated>2024-06-18T15:39:23.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn about the concepts around generative AI without getting bogged down with the technical details, we have a great course for you. We just published a course on the freeCodeCamp.org YouTube channel that is a non-technical intro to g...]]></summary>
         <author>
-            <name>Bala Priya C</name>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Intelligent Apps with Mistral AI]]></title>
+        <id>https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/</id>
+        <link href="https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/"/>
+        <updated>2024-06-18T15:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Trunk Based Development? A Different Approach to the Software Development Lifecycle]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-trunk-based-development/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-trunk-based-development/"/>
+        <updated>2024-06-18T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The Software Development Lifecycle (SDLC) is different at every company. The version control system used, peer review process, code review process, design review process, how you do CI, automated testing, and manual testing – all vary greatly depending on where you work. How a company plans, writes, builds, reviews, deploys,]]></summary>
+        <author>
+            <name>Kealan Parr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Masonry Layout Using HTML and CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-mansory-layout-using-html-and-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-mansory-layout-using-html-and-css/"/>
+        <updated>2024-06-18T12:22:43.000Z</updated>
+        <summary type="html"><![CDATA[A masonry layout is a grid-based design where items are arranged in a way that minimizes vertical gaps between them.  an example of a masonry layoutUnlike traditional grids with fixed row heights, masonry layouts adjust the positioning of items dynamically based on their content height, creating a visually appealing]]></summary>
+        <author>
+            <name>Fanny Nyayic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your Digital Security and Privacy – Best Practices for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-improve-your-digital-security-and-privacy/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-your-digital-security-and-privacy/"/>
+        <updated>2024-06-18T12:05:09.000Z</updated>
+        <summary type="html"><![CDATA[These days, there are many different types of attacks that can jeopardize your digital security and privacy. So it’s a good idea to stay up-to-date with best practices to keep you safe online.  But it can be hard to understand exactly how to do this. So I built this]]></summary>
+        <author>
+            <name>Privacy Tipster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host Static Sites on Azure Static Web Apps for Free]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/"/>
+        <updated>2024-06-18T10:59:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show you how you can host your React/Next.js app or any static web app on Azure Static Web Apps.  I will be showing you both ways of doing it – through the GUI and with the CLI. I assume you already have built a]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Object-Oriented Programming Principles]]></title>
+        <id>https://www.freecodecamp.org/news/a-guide-to-object-oriented-programming-principles/</id>
+        <link href="https://www.freecodecamp.org/news/a-guide-to-object-oriented-programming-principles/"/>
+        <updated>2024-06-18T09:13:37.000Z</updated>
+        <summary type="html"><![CDATA[A programming language is generally classified based on its support for one or more paradigms. Object-oriented programming is one such paradigm, where the code is organized as objects. It is used to develop desktop and mobile applications or more complex web or enterprise applications. Using object-oriented programming, you can build]]></summary>
+        <author>
+            <name>Anjan Baradwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enhance Embedded Links in React with Microlink]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-enhance-embedded-links-in-react-with-microlinks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enhance-embedded-links-in-react-with-microlinks/"/>
+        <updated>2024-06-18T02:56:25.000Z</updated>
+        <summary type="html"><![CDATA[The web has evolved from rigid color coding and 2D rendering to an era of complex, aesthetically pleasing animations and 3D rendering options. Additionally, there have been integrations with new technologies, such as virtual reality tools and frameworks, to make the user experience worthwhile. In this article, we'll optimize]]></summary>
+        <author>
+            <name>oluwatobi Joshua</name>
         </author>
     </entry>
     <entry>
@@ -46,56 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Black-Scholes Equation Works – Explained with Python Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/</id>
-        <link href="https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/"/>
-        <updated>2024-06-17T16:42:59.000Z</updated>
-        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - r S \frac{\partial V}{\partial S}$$  Black-Scholes Equation]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Frameworks vs Laravel – Which Should You Choose for Web Development?]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/"/>
-        <updated>2024-06-17T14:28:11.000Z</updated>
-        <summary type="html"><![CDATA[For a long time, developers in the JavaScript ecosystem have tried to launch Laravel-like frameworks for JavaScript. We've seen Blitz for NextJS, Adonis for NodeJS, RedwoodJS, and more. All these frameworks tried to build a Laravel for JavaScript. But none of them were really successful. Why? We'll figure it out]]></summary>
-        <author>
-            <name>Afan Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Multi-Page Animations Using Framer Motion & React-Router-Dom]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/"/>
-        <updated>2024-06-17T05:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Animations are what make plain websites turn into exciting and unforgettable experiences. They give your website a bit of personality and uniqueness and leave the visitor admiring the overall aesthetic. It's a no-brainer that humans love beautiful things. We all love products that look easy on the eyes.  In]]></summary>
-        <author>
-            <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Attention Mechanisms in Deep Learning?]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/"/>
-        <updated>2024-06-17T05:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Attention mechanism is a fundamental invention in artificial intelligence and machine learning, redefining the capabilities of deep learning models. This mechanism, inspired by the human mental process of selective focus, has emerged as a pillar in a variety of applications, accelerating developments in natural language processing, computer vision, and beyond.]]></summary>
-        <author>
-            <name>Oyedele Tioluwani Taiwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambda Functions in Python – How to Use Lambdas with Map, Filter, and Reduce]]></title>
-        <id>https://www.freecodecamp.org/news/lambda-functions-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/lambda-functions-in-python/"/>
-        <updated>2024-06-14T14:44:05.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will explore the various aspects of lambda functions in Python, including their syntax, use cases, and limitations.  By understanding how to effectively utilize lambda functions, you can write more concise and efficient Python code. This will enhance your programming skills and make your codebase cleaner]]></summary>
-        <author>
-            <name>Samyak Jain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Are CSS Container Style Queries Good For?]]></title>
         <id>https://smashingmagazine.com/2024/06/what-are-css-container-style-queries-good-for/</id>
         <link href="https://smashingmagazine.com/2024/06/what-are-css-container-style-queries-good-for/"/>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quincy Interviews Colby Fayock: Dev, Designer, Male Model, Prolific fCC Contributor [Podcast #128]]]></title>
-        <id>https://www.freecodecamp.org/news/quincy-interviews-colby-fayock-dev-designer-male-model-prolific-fcc-contributor-podcast-128/</id>
-        <link href="https://www.freecodecamp.org/news/quincy-interviews-colby-fayock-dev-designer-male-model-prolific-fcc-contributor-podcast-128/"/>
-        <updated>2024-06-13T23:13:00.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Colby Fayock. He's a Software Engineer and prolific teacher who has created 68 tutorials for freeCodeCamp, and more than 100 videos on his YouTube – all freely available. We talk about: Colby's earl...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2-Page Login Pattern, And How To Fix It]]></title>
         <id>https://smashingmagazine.com/2024/06/2-page-login-pattern-how-fix-it/</id>
         <link href="https://smashingmagazine.com/2024/06/2-page-login-pattern-how-fix-it/"/>
@@ -123,16 +133,6 @@
         <summary type="html"><![CDATA[The 2-page login pattern is becoming pervasive. Here are the reasons behind this design choice and alternative solutions to create a more efficient and user-friendly authentication experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Linux Crash Course with Labs]]></title>
-        <id>https://www.freecodecamp.org/news/free-linux-crash-course-with-labs/</id>
-        <link href="https://www.freecodecamp.org/news/free-linux-crash-course-with-labs/"/>
-        <updated>2024-06-13T13:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Learning Linux is important because it powers the majority of the world's servers, from web hosting to cloud infrastructure. Its open-source nature ensures that it remains versatile, secure, and continually updated by a global community of developers...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
