@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-19T00:11:01.777Z</id>
+    <id>urn:2024-06-20T00:10:43.988Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T00:11:01.777Z</updated>
+    <updated>2024-06-20T00:10:43.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Time To Live in Event-Driven Architecture in AWS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-time-to-live-in-event-driven-architecture/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-time-to-live-in-event-driven-architecture/"/>
+        <updated>2024-06-19T18:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Distributed systems generally involve the storage and exchange of huge amounts of data. Not all data is created the same, and some of it can even expire – by design.  As the Buddha said, "All conditioned things are impermanent." In this article, we'll look at how the concept of]]></summary>
+        <author>
+            <name>Anant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Python's For-Else Loop Construct Work?]]></title>
+        <id>https://www.freecodecamp.org/news/for-else-loop-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/for-else-loop-in-python/"/>
+        <updated>2024-06-19T13:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Python supports the for-else loop construct that is lesser known but super helpful. If you’ve programmed in Python, you may have used the for loop to iterate over items in iterables such as lists. But for some use cases, using the for loop in conjunction with the else clause can]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Shaped vs. V-Shaped Designers]]></title>
+        <id>https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/</id>
+        <link href="https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/"/>
+        <updated>2024-06-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB]]></title>
         <id>https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/</id>
@@ -83,26 +113,6 @@
         <summary type="html"><![CDATA[In this article, I will show you how you can host your React/Next.js app or any static web app on Azure Static Web Apps.  I will be showing you both ways of doing it – through the GUI and with the CLI. I assume you already have built a]]></summary>
         <author>
             <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide to Object-Oriented Programming Principles]]></title>
-        <id>https://www.freecodecamp.org/news/a-guide-to-object-oriented-programming-principles/</id>
-        <link href="https://www.freecodecamp.org/news/a-guide-to-object-oriented-programming-principles/"/>
-        <updated>2024-06-18T09:13:37.000Z</updated>
-        <summary type="html"><![CDATA[A programming language is generally classified based on its support for one or more paradigms. Object-oriented programming is one such paradigm, where the code is organized as objects. It is used to develop desktop and mobile applications or more complex web or enterprise applications. Using object-oriented programming, you can build]]></summary>
-        <author>
-            <name>Anjan Baradwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enhance Embedded Links in React with Microlink]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-enhance-embedded-links-in-react-with-microlinks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enhance-embedded-links-in-react-with-microlinks/"/>
-        <updated>2024-06-18T02:56:25.000Z</updated>
-        <summary type="html"><![CDATA[The web has evolved from rigid color coding and 2D rendering to an era of complex, aesthetically pleasing animations and 3D rendering options. Additionally, there have been integrations with new technologies, such as virtual reality tools and frameworks, to make the user experience worthwhile. In this article, we'll optimize]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
         </author>
     </entry>
     <entry>
@@ -275,16 +285,6 @@ CSS Length Units originally published on CSS-Tricks, which is part of the Digita
         <summary type="html"><![CDATA[It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden vs. Disabled In UX]]></title>
-        <id>https://smashingmagazine.com/2024/05/hidden-vs-disabled-ux/</id>
-        <link href="https://smashingmagazine.com/2024/05/hidden-vs-disabled-ux/"/>
-        <updated>2024-05-21T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
