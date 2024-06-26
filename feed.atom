@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-25T00:10:46.285Z</id>
+    <id>urn:2024-06-26T00:10:50.171Z</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T00:10:46.285Z</updated>
+    <updated>2024-06-26T00:10:50.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What's New in React 19]]></title>
+        <id>https://www.freecodecamp.org/news/whats-new-in-react-19/</id>
+        <link href="https://www.freecodecamp.org/news/whats-new-in-react-19/"/>
+        <updated>2024-06-25T15:54:07.000Z</updated>
+        <summary type="html"><![CDATA[React 19 has just been released, bringing a wealth of new features and enhancements to this popular JavaScript library. For developers looking to stay ahead of the curve, understanding these updates is crucial. This course is designed to help you nav...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a ML Model with Azure Machine Learning Designer]]></title>
+        <id>https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/</id>
+        <link href="https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/"/>
+        <updated>2024-06-25T14:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that you can create machine learning models without writing any code? If you’re here, you’re probably curious about how to achieve this. In this article, I will guide you through building a regression model that predicts automobile prices using Azure Machine Learning’s Low-Code/No-Code tools.  Regression is]]></summary>
+        <author>
+            <name>Eniola Ajala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Validate Forms in React and React Native Using Yup and Formik]]></title>
         <id>https://www.freecodecamp.org/news/react-how-to-validate-user-input/</id>
@@ -124,16 +144,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniting Web And Native Apps With 4 Unknown JavaScript APIs]]></title>
-        <id>https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/</id>
-        <link href="https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/"/>
-        <updated>2024-06-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When to Use NPM Packages – A Guide for Developers]]></title>
         <id>https://www.freecodecamp.org/news/when-to-use-npm-packages/</id>
         <link href="https://www.freecodecamp.org/news/when-to-use-npm-packages/"/>
@@ -148,7 +158,7 @@
         <id>https://www.freecodecamp.org/news/mastering-vim-your-guide-to-efficient-text-editing/</id>
         <link href="https://www.freecodecamp.org/news/mastering-vim-your-guide-to-efficient-text-editing/"/>
         <updated>2024-06-24T15:51:35.000Z</updated>
-        <summary type="html"><![CDATA[VIM is a highly configurable text editor that enables efficient text editing, and it's favored by many developers and system administrators for its powerful capabilities and extensive customization options. We just posted a course on the freeCodeCamp...]]></summary>
+        <summary type="html"><![CDATA[VIM is a highly configurable text editor that enables efficient text editing. It's favored by many developers and system administrators for its powerful capabilities and extensive customization options. We just published a course on the freeCodeCamp....]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -174,7 +184,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX Or: How I Learned To Stop Worrying And Love Multimedia Writing]]></title>
+        <title type="html"><![CDATA[How I Learned To Stop Worrying And Love Multimedia Writing]]></title>
         <id>https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/</id>
         <link href="https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/"/>
         <updated>2024-06-21T18:00:00.000Z</updated>
@@ -194,6 +204,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Uniting Web And Native Apps With 4 Unknown JavaScript APIs]]></title>
+        <id>https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/</id>
+        <link href="https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/"/>
+        <updated>2024-06-20T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Generative AI Handbook – How GenAI is Impacting Business and Innovation]]></title>
         <id>https://www.freecodecamp.org/news/generative-ai-handbook/</id>
         <link href="https://www.freecodecamp.org/news/generative-ai-handbook/"/>
@@ -201,26 +221,6 @@
         <summary type="html"><![CDATA[The emergence of Generative Artificial Intelligence (GenAI) is both shaping the future of innovation management and revolutionizing it. This handbook delves into the groundbreaking research presented in "Generative Artificial Intelligence in Innovation Management: A Preview of Future Research Developments" by Marcello Mariani and Yogesh K. Dwivedi (2024) [https://ideas.repec.org/a/eee/jbrese/v175y2024ics0148296324000468.html]. It's a]]></summary>
         <author>
             <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Technical Writer – A Guide for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-technical-writer-guide-for-devs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-technical-writer-guide-for-devs/"/>
-        <updated>2024-06-20T15:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Being a top-notch developer was my dream – until I realized I could combine my passion for writing with my technical knowledge to earn a living. That's right: I'm talking about becoming a technical writer. And if you're a developer, you may be in a good position to get into]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Create a 3D RPG Game with Godot]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-create-a-3d-rpg-game-with-godot/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-create-a-3d-rpg-game-with-godot/"/>
-        <updated>2024-06-20T15:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Godot is an open-source game engine that is perfect for creating both 2D and 3D games. It is known for its user-friendly interface, robust features, and active community support. We just published a course on the freeCodeCamp.org YouTube channel that...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
