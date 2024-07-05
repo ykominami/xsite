@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-04T00:10:56.540Z</id>
+    <id>urn:2024-07-05T00:10:56.474Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T00:10:56.540Z</updated>
+    <updated>2024-07-05T00:10:56.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Callback Functions in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/"/>
+        <updated>2024-07-03T21:24:22.000Z</updated>
+        <summary type="html"><![CDATA[When you're building dynamic applications with JavaScript that display real-time data – like a weather app or live sports dashboard – you'll need a way to automatically fetch new data from an external source without disrupting the user experience.  You can do this using JavaScript's callback functions, which showcase]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel Praise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Meditation App with React Native & Expo Router]]></title>
         <id>https://www.freecodecamp.org/news/build-a-meditation-app-with-react-native-expo-router/</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[As the web evolves, new tools and ideas are released with the goal of making our lives as web developers easier. This means we have to choose whether to stick with the old ways or discard them entirely for the shiny new stuff. But does this always demand an either-or]]></summary>
         <author>
             <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript GameDev with Kaboom.js]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-gamedev-with-kaboomjs/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-gamedev-with-kaboomjs/"/>
-        <updated>2024-06-28T16:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Creating a game can be one of the most rewarding experiences in programming, and building a Metroidvania-style game takes that excitement to another level. These games are known for their intricate maps, challenging enemies, and complex mechanics tha...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
