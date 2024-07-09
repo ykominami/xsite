@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-08T00:11:49.333Z</id>
+    <id>urn:2024-07-09T00:11:12.332Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-08T00:11:49.333Z</updated>
+    <updated>2024-07-09T00:11:12.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Load Testing in Spring Boot with Gatling]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-integrate-spring-boot-with-gatling/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-spring-boot-with-gatling/"/>
+        <updated>2024-07-08T19:46:57.000Z</updated>
+        <summary type="html"><![CDATA[To evaluate the performance of a system, you need a tool that can simulate its behavior in production.  For this purpose, you can use a software tool based on Scala [https://www.scala-lang.org/] called Gatling [https://gatling.io/]. This article will teach you how to integrate it into a Spring Boot [https://spring.io/projects/spring-boot] application]]></summary>
+        <author>
+            <name>Mario Casari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Vue E-commerce App Using MSW]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-vue-ecommerce-app-using-msw/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-vue-ecommerce-app-using-msw/"/>
+        <updated>2024-07-08T18:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Building an e-commerce app can be a time-consuming task, but with the right tools, it becomes much more manageable. In this guide, we'll explore how to create a robust Vue.js e-commerce application using Mock Service Worker (MSW) to simulate backend interactions.  Whether you're a seasoned developer or just starting]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Markov Chains? Explained With Python Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-markov-chain/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-markov-chain/"/>
+        <updated>2024-07-08T12:53:27.000Z</updated>
+        <summary type="html"><![CDATA[There are various mathematical tools that can be used to predict the near future based on a current state. One of the most widely used are Markov chains. Markov chains allow you to predict the uncertainty of future events under certain conditions. For this reason, it is widely used in]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload]]></title>
+        <id>https://www.freecodecamp.org/news/upload-large-files-with-aws/</id>
+        <link href="https://www.freecodecamp.org/news/upload-large-files-with-aws/"/>
+        <updated>2024-07-08T12:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Imagine running a media streaming platform where users upload large high-definition videos. Uploading such large files can be slow and may fail if the network is unreliable.  Using traditional single-part uploads can be cumbersome and inefficient for large files, often leading to timeout errors or the need to restart]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Customer Journey Maps (+ Figma & Miro Templates)]]></title>
+        <id>https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/</id>
+        <link href="https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/"/>
+        <updated>2024-07-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Visualize the user experience with user journey maps. Here are some helpful templates, real-world applications, and insights on the importance of mapping both successful and unsuccessful touchpoints. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Scott Hanselman learned from 900 podcast interviews with devs [Podcast #131]]]></title>
         <id>https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/</id>
@@ -63,46 +113,6 @@
         <summary type="html"><![CDATA[Google Sheets recently released an all new feature: tables. Well, new is a bit of an overstatement. Excel has had proper tables for many, many years, and it's been a point of contention in the spreadsheet community. In this article, I'll break down what exactly tables are, why they're important,]]></summary>
         <author>
             <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your JavaScript Code with Powerful Build Tool Configs]]></title>
-        <id>https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/"/>
-        <updated>2024-07-02T15:56:38.000Z</updated>
-        <summary type="html"><![CDATA[I have been a frontend developer for over 6 years now, mostly working with Javascript, TypeScript, and React. When stepping into the world of the front end, the number of libraries and build tools available can be overwhelming – especially since each has its own configuration options. At first these]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go for Absolute Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/go-for-absolute-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/go-for-absolute-beginners/"/>
-        <updated>2024-07-01T16:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to dive into a new programming language that is both powerful and efficient? Go, also known as Golang, is a modern language that has quickly become a favorite among developers for its simplicity and performance. Whether you're a seaso...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JAWS on Windows]]></title>
-        <id>https://www.freecodecamp.org/news/howto-use-jaws-on-windows/</id>
-        <link href="https://www.freecodecamp.org/news/howto-use-jaws-on-windows/"/>
-        <updated>2024-07-01T16:07:39.000Z</updated>
-        <summary type="html"><![CDATA[JAWS (Job Access With Speech) is a screen reader for the Windows operating system. JAWS assists individuals with visual impairments in interacting with computers by helping them navigate applications, read documents, and browse the web. According to WebAIM [https://webaim.org/projects/screenreadersurvey9/#primary], JAWS is the most popular screen reader on the market as]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Infinite Scrolling in React Using the Intersection Observer API]]></title>
-        <id>https://www.freecodecamp.org/news/infinite-scrolling-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/infinite-scrolling-in-react/"/>
-        <updated>2024-07-01T09:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Hi fellow developers! Have you ever wondered how social media apps like Facebook and Instagram keep you scrolling endlessly through your feed?  This user experience, designed to load new content on demand, uses a technique called infinite scrolling. This helps keep you hooked to these apps for hours. Traditionally,]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
         </author>
     </entry>
     <entry>
