@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-12T00:11:26.693Z</id>
+    <id>urn:2024-07-13T00:11:45.187Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-12T00:11:26.693Z</updated>
+    <updated>2024-07-13T00:11:45.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Generics in Java – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/generics-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/generics-in-java/"/>
+        <updated>2024-07-12T18:57:24.000Z</updated>
+        <summary type="html"><![CDATA[In your Java program, you might have encountered the dreaded ClassCastException  at runtime while working with different types of objects such as Integer, String, and so on. This error is mostly caused by casting an object to the wrong data type. In this article, you'll learn about generics and]]></summary>
+        <author>
+            <name>Anjan Baradwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From doing data entry to becoming a developer with Jessica Chan AKA Coder Coder [Podcast #132]]]></title>
+        <id>https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/</id>
+        <link href="https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/"/>
+        <updated>2024-07-12T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jessica Chan AKA Coder Coder. She's a software engineer has worked in the field for more than a decade. Interestingly, she studied photography in school and never took a programming class. We talk ab...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Linux for Beginners: From Basics to Advanced Techniques [Full Book]]]></title>
+        <id>https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/</id>
+        <link href="https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/"/>
+        <updated>2024-07-12T13:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Learning Linux is one of the most valuable skills in the tech industry. It can help you get things done faster and more efficiently. Many of the world's powerful servers and supercomputers run on Linux. While empowering you in your current role, lear...]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is the tRPC Library? Explained with a Demo Project]]></title>
         <id>https://www.freecodecamp.org/news/what-is-trpc/</id>
@@ -73,36 +103,6 @@
         <summary type="html"><![CDATA[Python generators are a powerful feature that allow lazy iteration through a sequence of values. They produce items one at a time and only when needed, which makes them the best choice for working with large datasets or streams of data where it would be inefficient and impractical to load]]></summary>
         <author>
             <name>Rochdi Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send HTTP Requests Using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-send-http-requests-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-send-http-requests-using-javascript/"/>
-        <updated>2024-07-10T17:06:03.000Z</updated>
-        <summary type="html"><![CDATA[Nowadays, the interaction between web applications relies on HTTP [/news/what-is-http/]. For instance, let's say you have an online shop application and you want to create a new product. You have to fill in all the necessary information and probably click on a button that says "Create". This action will send]]></summary>
-        <author>
-            <name>Eric Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack Development with Next.js, Clerk, and Neon Postgres]]></title>
-        <id>https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/</id>
-        <link href="https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/"/>
-        <updated>2024-07-10T15:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Full stack development is constantly evolving, with new developer tools and products being introduced that allow us to build secure and reliable applications more efficiently. In this tutorial, I’ll walk you through how to build highly performant web applications with Neon – a serverless PostgreSQL [https://neon.tech] database designed for the]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Counter Button with React, TailwindCSS, and TypeScript]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-counter-button-with-react/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-counter-button-with-react/"/>
-        <updated>2024-07-10T14:41:14.000Z</updated>
-        <summary type="html"><![CDATA[How can you keep track of the number of times a user clicks a button? How are the hearts on Instagram or the likes on Facebook counted?  In this tutorial, we will build a button that tracks the number of times a button has been clicked. Along the way,]]></summary>
-        <author>
-            <name>Devin Lane</name>
         </author>
     </entry>
     <entry>
@@ -344,16 +344,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[The 2-page login pattern is becoming pervasive. Here are the reasons behind this design choice and alternative solutions to create a more efficient and user-friendly authentication experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Scent Of UX: The Unrealized Potential Of Olfactory Design]]></title>
-        <id>https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/</id>
-        <link href="https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/"/>
-        <updated>2024-06-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kristian Mikhel covers various practical applications of scents in product experience, from immersive entertainment to healing spaces and medical appliances, and how designers can drive innovation across spheres and disciplines.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kristian Mikhel)</name>
         </author>
     </entry>
 </feed>
