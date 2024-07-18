@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T00:11:42.184Z</id>
+    <id>urn:2024-07-18T00:11:23.376Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-17T00:11:42.184Z</updated>
+    <updated>2024-07-18T00:11:23.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pass the GitHub Advanced Security Certification Exam]]></title>
+        <id>https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/"/>
+        <updated>2024-07-17T18:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring the security of your code is important, and mastering GitHub Advanced Security (GHAS) can significantly enhance your ability to safeguard your projects. If you want to strengthen your security skills, obtaining the GitHub Advanced Security C...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sara Joy: Everybody’s Free (To Write Websites)]]></title>
+        <id>https://css-tricks.com/?p=379199</id>
+        <link href="https://css-tricks.com/sara-joy-everybodys-free-to-write-websites/"/>
+        <updated>2024-07-17T18:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Sara Joy’s adaptation of the song “Everybody’s Free (To Wear Sunscreen)” (YouTube) originally by Baz Luhrman with lyrics pulled directly from Mary Schmich‘s classic essay, “Wear Sunscreen”. Anyone who has graduated high school since 1999 doesn’t even have …
+Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create 24 CSS Projects]]></title>
+        <id>https://www.freecodecamp.org/news/create-24-css-projects/</id>
+        <link href="https://www.freecodecamp.org/news/create-24-css-projects/"/>
+        <updated>2024-07-17T18:25:33.000Z</updated>
+        <summary type="html"><![CDATA[CSS is an essential skill for web developers, and mastering it can greatly enhance the look and feel of your web projects. Whether you're a beginner looking to sharpen your skills or an experienced developer aiming to stay up-to-date with the latest ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Server-Side Rendering in Next.js Apps for Better SEO]]></title>
+        <id>https://www.freecodecamp.org/news/server-side-rendering-in-next-js-for-improved-seo/</id>
+        <link href="https://www.freecodecamp.org/news/server-side-rendering-in-next-js-for-improved-seo/"/>
+        <updated>2024-07-17T18:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Server-side rendering (SSR) is a web development technique that can help improve your site's SEO. It does this by generating HTML content on the server in response to a user's request.  This approach contrasts with client-side rendering (CSR), where content is delivered as a basic HTML shell, and JavaScript]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your Node.js App on Azure]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/"/>
+        <updated>2024-07-17T11:56:43.000Z</updated>
+        <summary type="html"><![CDATA[The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more]]></summary>
+        <author>
+            <name>oluwatobi Joshua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Monte Carlo Methods? How to Predict the Future with Python Simulations]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-monte-carlo-methods/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-monte-carlo-methods/"/>
+        <updated>2024-07-16T21:42:38.000Z</updated>
+        <summary type="html"><![CDATA[-0.5 × (x2 + y2)]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multithreading for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/multithreading-for-beginners/</id>
@@ -74,56 +135,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yinjian Huang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Generics in Java – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/generics-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/generics-in-java/"/>
-        <updated>2024-07-12T18:57:24.000Z</updated>
-        <summary type="html"><![CDATA[In your Java program, you might have encountered the dreaded ClassCastException  at runtime while working with different types of objects such as Integer, String, and so on. This error is mostly caused by casting an object to the wrong data type. In this article, you'll learn about generics and]]></summary>
-        <author>
-            <name>Anjan Baradwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From doing data entry to becoming a developer with Jessica Chan AKA Coder Coder [Podcast #132]]]></title>
-        <id>https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/</id>
-        <link href="https://www.freecodecamp.org/news/from-doing-data-entry-to-becoming-a-developer-with-jessica-chan-aka-coder-coder-podcast-132/"/>
-        <updated>2024-07-12T16:01:03.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jessica Chan AKA Coder Coder. She's a software engineer has worked in the field for more than a decade. Interestingly, she studied photography in school and never took a programming class. We talk ab...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Linux for Beginners: From Basics to Advanced Techniques [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/</id>
-        <link href="https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/"/>
-        <updated>2024-07-12T13:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Learning Linux is one of the most valuable skills in the tech industry. It can help you get things done faster and more efficiently. Many of the world's powerful servers and supercomputers run on Linux. While empowering you in your current role, lear...]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the tRPC Library? Explained with a Demo Project]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-trpc/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-trpc/"/>
-        <updated>2024-07-11T19:09:18.000Z</updated>
-        <summary type="html"><![CDATA[For a while now, I've been noticing a technology named tRPC [https://trpc.io/]  that's cited in many modern tech stacks, including T3 [https://create.t3.gg/]. But I didn't know what it was or why it had become so popular. So I began researching and learning about it. I didn't know what it]]></summary>
-        <author>
-            <name>Afan Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Asynchronous JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/learn-asynchronous-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/learn-asynchronous-javascript/"/>
-        <updated>2024-07-11T15:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Asynchronous programming is a critical skill in modern JavaScript development, enabling developers to create more efficient and responsive applications. Whether you're a seasoned developer looking to brush up on your skills or a beginner eager to lea...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -335,16 +346,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Email Newsletters For Designers]]></title>
-        <id>https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/</id>
-        <link href="https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/"/>
-        <updated>2024-06-17T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you want to take your user research skills to the next level, get better at UX writing, or stay up-to-date on the latest design trends, a newsletter is the perfect opportunity to get the best of the best resources delivered straight to your inbox on a regular basis. In this post, we highlight some design newsletters that you might want to consider subscribing to.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
