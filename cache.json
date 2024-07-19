@@ -27,7 +27,7 @@
           "description": "A complete guide covering all of the various methods we have to select elements in CSS and how to use them for applying styles.\nCSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-selectors/",
           "publishedOn": "2024-07-15T16:13:15.000Z",
-          "wordCount": 6893,
+          "wordCount": 6674,
           "title": "CSS Selectors",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378745"
         },
@@ -37,7 +37,7 @@
           "description": "A few sirens went off a couple of weeks ago when the CSS Working Group (CSSWG) resolved to add an if() conditional to the CSS Values Module Level 5 specification. It was Lea Verou’s X post that same day that …\n“If” CSS Gets Inline Conditionals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/if-css-gets-inline-conditionals/",
           "publishedOn": "2024-07-09T15:18:11.000Z",
-          "wordCount": 3417,
+          "wordCount": 3407,
           "title": "“If” CSS Gets Inline Conditionals",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379002"
         },
@@ -47,7 +47,7 @@
           "description": "I know this is something Chris has wanted forever, so it’s no surprise he’s already got a fantastic write-up just a day after the news broke. In fact, I first learned about it from his post and was unable …\nTransitioning to Auto Height originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/transitioning-to-auto-height/",
           "publishedOn": "2024-06-28T13:44:01.000Z",
-          "wordCount": 2711,
+          "wordCount": 2699,
           "title": "Transitioning to Auto Height",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/06/transition-auto-canary.mov",
@@ -62,7 +62,7 @@
           "description": "Oh, hey there! It’s been a hot minute, hasn’t it? Thought I’d pop in and say hello while we get to know the Popover API a bit.\nPoppin’ In originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/poppin-in/",
           "publishedOn": "2024-06-26T16:37:05.000Z",
-          "wordCount": 2463,
+          "wordCount": 2438,
           "title": "Poppin’ In",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378637"
         },
@@ -154,12 +154,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.",
+          "link": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
+          "publishedOn": "2024-07-18T10:00:00.000Z",
+          "wordCount": 3818,
+          "title": "Build Design Systems With Penpot Components",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
           "author": "hello@smashingmagazine.com (Yinjian Huang)",
           "description": "This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.",
           "link": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
           "publishedOn": "2024-07-15T09:00:00.000Z",
-          "wordCount": 5516,
+          "wordCount": 5517,
           "title": "How To Design Effective Conversational AI Experiences: A Comprehensive Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-design-effective-conversational-ai-experiences-guide/how-design-effective-conversational-ai-experiences-guide.jpg",
@@ -174,7 +189,7 @@
           "description": "Today, UX design contributes to the problem of excessive consumption through persuasive e-commerce practices and designing for companies with linear and exploitative business models. Anna Rátkai explores practical steps we can take to reduce material consumption and the massive environmental impact that comes along with it by designing mindful shopping experiences.",
           "link": "https://smashingmagazine.com/2024/07/designing-sustainable-e-commerce-experiences/",
           "publishedOn": "2024-07-10T13:00:00.000Z",
-          "wordCount": 5400,
+          "wordCount": 5402,
           "title": "When Friction Is A Good Thing: Designing Sustainable E-Commerce Experiences",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-sustainable-e-commerce-experiences/designing-sustainable-e-commerce-experiences.jpg",
@@ -204,7 +219,7 @@
           "description": "Let’s welcome the new month with some fresh desktop wallpapers! Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
           "publishedOn": "2024-06-30T08:00:00.000Z",
-          "wordCount": 5072,
+          "wordCount": 4962,
           "title": "Tales Of An Eternal Summer (July 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c52c6aad-ac2c-4fd9-9aa6-528d7bf7bf6e/july-20-birdie-july-preview-opt.png",
@@ -219,7 +234,7 @@
           "description": "Interface copy plays a crucial role in the overall user experience, helping guide users smoothly, allowing them to navigate easily through the app, discover and start using product features, and more. In this article, you’ll find simple, practical tips and a checklist to help you create a clear and concise microcopy, ensuring a seamless user experience.",
           "link": "https://smashingmagazine.com/2024/06/how-improve-microcopy-ux-writing-tips-non-ux-writers/",
           "publishedOn": "2024-06-28T10:00:00.000Z",
-          "wordCount": 7076,
+          "wordCount": 7078,
           "title": "How To Improve Your Microcopy: UX Writing Tips For Non-UX Writers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-improve-microcopy-ux-writing-tips-non-ux-writers/how-improve-microcopy-ux-writing-tips-non-ux-writers.jpg",
@@ -264,7 +279,7 @@
           "description": "Balancing the age-old simplicity of words on paper with the myriad creative possibilities of the web is a tension as old as the web itself. Leaning into that overlap can bring new dimensions not just to the things we write but also to how we write them.",
           "link": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
           "publishedOn": "2024-06-21T18:00:00.000Z",
-          "wordCount": 5434,
+          "wordCount": 5335,
           "title": "How I Learned To Stop Worrying And Love Multimedia Writing",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mdx-or-how-i-learned-love-multimedia-writing/mdx-or-how-i-learned-love-multimedia-writing.jpg",
@@ -279,7 +294,7 @@
           "description": "Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.",
           "link": "https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
           "publishedOn": "2024-06-20T18:00:00.000Z",
-          "wordCount": 4871,
+          "wordCount": 4876,
           "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-web-native-apps-unknown-javascript-apis/uniting-web-native-apps-unknown-javascript-apis.jpg",
@@ -287,21 +302,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/uniting-web-native-apps-unknown-javascript-apis/uniting-web-native-apps-unknown-javascript-apis.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?",
-          "link": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
-          "publishedOn": "2024-06-19T12:00:00.000Z",
-          "wordCount": 3259,
-          "title": "T-Shaped vs. V-Shaped Designers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/t-shaped-vs-v-shaped-designers/t-shaped-vs-v-shaped-designers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/t-shaped-vs-v-shaped-designers/t-shaped-vs-v-shaped-designers.jpg"
         }
       ]
     },
@@ -310,6 +310,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/",
+          "author": "Rahul Gupta",
+          "description": "If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/",
+          "publishedOn": "2024-07-18T21:17:44.000Z",
+          "wordCount": 2268,
+          "title": "Learn JavaScript Reactivity: How to Build Signals from Scratch",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Frame-1--1-.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
+          "author": "Timothy Olanrewaju",
+          "description": "Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents",
+          "link": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
+          "publishedOn": "2024-07-18T14:42:16.000Z",
+          "wordCount": 2098,
+          "title": "How to Use React Router to Build Single Page Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/",
+          "author": "Clarence Bakosi",
+          "description": "Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency",
+          "link": "https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/",
+          "publishedOn": "2024-07-18T13:19:23.000Z",
+          "wordCount": 1686,
+          "title": "How to Move a Single Fly Machine and Volume to a New Region with flyctl",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Building projects is very important for learning how to code. When you create a project, you expand your portfolio and learn how to apply your skills to new situations. We just published a 2-hour course on the freeCodeCamp.org Spanish YouTube channel...",
+          "link": "https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/",
+          "publishedOn": "2024-07-18T11:34:00.000Z",
+          "wordCount": 1230,
+          "title": "Practice Your HTML, CSS, and JavaScript Skills in Spanish by Building 3 Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721080988346/32a464e0-38af-4eba-b42a-af48cafecaef.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/",
           "author": "Beau Carnes",
@@ -369,46 +409,6 @@
           "wordCount": 1065,
           "title": "Multithreading for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721161834666/59be7256-988c-491c-a745-985c5cbac06d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-in-cybersecurity/",
-          "author": "Hikmah Olawore",
-          "description": "From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity [https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity] comes in, one of the most fascinating fields of",
-          "link": "https://www.freecodecamp.org/news/getting-started-in-cybersecurity/",
-          "publishedOn": "2024-07-16T11:13:19.000Z",
-          "wordCount": 1385,
-          "title": "How to Get Started With Cybersecurity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Cybersec.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-linq/",
-          "author": "Grant Riordan",
-          "description": ".Net (pronounced as \"dot net\") has many internal libraries and tools, but one that wields great power is LINQ (Language Integrated Query). It can be used in two ways: the language-level query syntax, or the LINQ API. In this article, we'll explore:  * What LINQ is.  * How",
-          "link": "https://www.freecodecamp.org/news/how-to-use-linq/",
-          "publishedOn": "2024-07-15T20:59:47.000Z",
-          "wordCount": 1990,
-          "title": "How To Use LINQ in C# – With Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/How-to-use-linq.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/",
-          "author": "Kunal Nalawade",
-          "description": "React provides various hooks that make it easier to manage application state and other React features in functional components. Hooks provide class component features to functional components, and they don't need a lot of code compared to class components. Hooks also make your life easier by providing some convenient features.",
-          "link": "https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/",
-          "publishedOn": "2024-07-15T19:14:59.000Z",
-          "wordCount": 2297,
-          "title": "What's the Difference Between the useMemo and useCallback Hooks?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/photo-1619410283995-43d9134e7656.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/",
-          "author": "Viviana Yanez",
-          "description": "CI/CD is a core practice in the modern software development ecosystem. It helps agile teams deliver high-quality software in short release cycles. In this tutorial, you'll learn what CI/CD is, and I'll help you set up a CI/CD pipeline using Husky and GitHub Actions in a Next.js application.  This",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/",
-          "publishedOn": "2024-07-15T17:46:34.000Z",
-          "wordCount": 3616,
-          "title": "How to Set Up a CI/CD Pipeline with Husky and GitHub Actions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/how-to-set-a-cicd-pipeline-1.jpg"
         }
       ]
     }

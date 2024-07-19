@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T00:11:23.376Z</id>
+    <id>urn:2024-07-19T11:13:57.261Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T00:11:23.376Z</updated>
+    <updated>2024-07-19T11:13:57.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Reactivity: How to Build Signals from Scratch]]></title>
+        <id>https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/"/>
+        <updated>2024-07-18T21:17:44.000Z</updated>
+        <summary type="html"><![CDATA[If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn]]></summary>
+        <author>
+            <name>Rahul Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Router to Build Single Page Applications]]></title>
+        <id>https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/</id>
+        <link href="https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/"/>
+        <updated>2024-07-18T14:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Move a Single Fly Machine and Volume to a New Region with flyctl]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/"/>
+        <updated>2024-07-18T13:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency]]></summary>
+        <author>
+            <name>Clarence Bakosi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practice Your HTML, CSS, and JavaScript Skills in Spanish by Building 3 Projects]]></title>
+        <id>https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/</id>
+        <link href="https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/"/>
+        <updated>2024-07-18T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is very important for learning how to code. When you create a project, you expand your portfolio and learn how to apply your skills to new situations. We just published a 2-hour course on the freeCodeCamp.org Spanish YouTube channel...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Design Systems With Penpot Components]]></title>
+        <id>https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/</id>
+        <link href="https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pass the GitHub Advanced Security Certification Exam]]></title>
         <id>https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/</id>
@@ -74,46 +124,6 @@ Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tri
         <summary type="html"><![CDATA[Multithreading is a crucial concept in computer science that allows for the concurrent execution of two or more threads, enabling more efficient and optimized use of resources. It can significantly improve the performance of applications, particularl...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started With Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-in-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-in-cybersecurity/"/>
-        <updated>2024-07-16T11:13:19.000Z</updated>
-        <summary type="html"><![CDATA[From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity [https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity] comes in, one of the most fascinating fields of]]></summary>
-        <author>
-            <name>Hikmah Olawore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use LINQ in C# – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-linq/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-linq/"/>
-        <updated>2024-07-15T20:59:47.000Z</updated>
-        <summary type="html"><![CDATA[.Net (pronounced as "dot net") has many internal libraries and tools, but one that wields great power is LINQ (Language Integrated Query). It can be used in two ways: the language-level query syntax, or the LINQ API. In this article, we'll explore:  * What LINQ is.  * How]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the Difference Between the useMemo and useCallback Hooks?]]></title>
-        <id>https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/"/>
-        <updated>2024-07-15T19:14:59.000Z</updated>
-        <summary type="html"><![CDATA[React provides various hooks that make it easier to manage application state and other React features in functional components. Hooks provide class component features to functional components, and they don't need a lot of code compared to class components. Hooks also make your life easier by providing some convenient features.]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a CI/CD Pipeline with Husky and GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/"/>
-        <updated>2024-07-15T17:46:34.000Z</updated>
-        <summary type="html"><![CDATA[CI/CD is a core practice in the modern software development ecosystem. It helps agile teams deliver high-quality software in short release cycles. In this tutorial, you'll learn what CI/CD is, and I'll help you set up a CI/CD pipeline using Husky and GitHub Actions in a Next.js application.  This]]></summary>
-        <author>
-            <name>Viviana Yanez</name>
         </author>
     </entry>
     <entry>
@@ -336,16 +346,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Shaped vs. V-Shaped Designers]]></title>
-        <id>https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/</id>
-        <link href="https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/"/>
-        <updated>2024-06-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
