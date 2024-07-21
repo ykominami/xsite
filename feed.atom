@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-20T00:11:02.347Z</id>
+    <id>urn:2024-07-21T00:12:29.688Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T00:11:02.347Z</updated>
+    <updated>2024-07-21T00:12:29.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Flutter Application from GetIt to Bloc]]></title>
+        <id>https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/</id>
+        <link href="https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/"/>
+        <updated>2024-07-19T23:05:13.000Z</updated>
+        <summary type="html"><![CDATA[When I first built an application [https://play.google.com/store/apps/details?id=com.tomerpacific.birthday_calendar&hl=en] using Flutter, I quickly ran into situations where I needed to pass state from widget to widget. These widgets weren’t directly related and all I knew back then was that there were only Stateless widgets or Stateful ones. I found it hard to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Next.js App Performance With Lazy Loading]]></title>
+        <id>https://www.freecodecamp.org/news/next-js-performance-optimization/</id>
+        <link href="https://www.freecodecamp.org/news/next-js-performance-optimization/"/>
+        <updated>2024-07-19T22:31:12.000Z</updated>
+        <summary type="html"><![CDATA[People don't like using slow applications. And the initial load time matters a lot for web applications and websites.  An application that takes more than 3 seconds to load is considered slow and may cause users to leave the application or website. Next.js is a React-based framework you can]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Stuff I’m Excited After the Last CSSWG Meeting]]></title>
         <id>https://css-tricks.com/?p=379180</id>
@@ -125,26 +145,6 @@ Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tri
         <summary type="html"><![CDATA[Server-side rendering (SSR) is a web development technique that can help improve your site's SEO. It does this by generating HTML content on the server in response to a user's request.  This approach contrasts with client-side rendering (CSR), where content is delivered as a basic HTML shell, and JavaScript]]></summary>
         <author>
             <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Node.js App on Azure]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/"/>
-        <updated>2024-07-17T11:56:43.000Z</updated>
-        <summary type="html"><![CDATA[The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Monte Carlo Methods? How to Predict the Future with Python Simulations]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-monte-carlo-methods/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-monte-carlo-methods/"/>
-        <updated>2024-07-16T21:42:38.000Z</updated>
-        <summary type="html"><![CDATA[-0.5 × (x2 + y2)]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
         </author>
     </entry>
     <entry>
@@ -357,16 +357,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[Balancing the age-old simplicity of words on paper with the myriad creative possibilities of the web is a tension as old as the web itself. Leaning into that overlap can bring new dimensions not just to the things we write but also to how we write them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniting Web And Native Apps With 4 Unknown JavaScript APIs]]></title>
-        <id>https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/</id>
-        <link href="https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/"/>
-        <updated>2024-06-20T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
