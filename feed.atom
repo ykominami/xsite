@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-25T00:11:16.249Z</id>
+    <id>urn:2024-07-26T00:11:20.451Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T00:11:16.249Z</updated>
+    <updated>2024-07-26T00:11:20.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn System Design Principles and Prepare for an Job Interview]]></title>
+        <id>https://www.freecodecamp.org/news/learn-system-design-principles/</id>
+        <link href="https://www.freecodecamp.org/news/learn-system-design-principles/"/>
+        <updated>2024-07-25T14:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pop(over) the Balloons]]></title>
+        <id>https://css-tricks.com/?p=379281</id>
+        <link href="https://css-tricks.com/popover-the-balloons/"/>
+        <updated>2024-07-25T13:31:46.000Z</updated>
+        <summary type="html"><![CDATA[I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.
+You …
+Pop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Sticky Notes App with React and Appwrite]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/"/>
+        <updated>2024-07-25T01:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 1)]]></title>
         <id>https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/</id>
@@ -103,26 +135,6 @@ Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally publ
         <summary type="html"><![CDATA[Instant search is a feature that shows search results as users type their query. Instead of waiting for a full page reload or submitting a form, results appear instantly, allowing users to find what they are looking for quickly. For example, when you start typing in a search box, suggestions]]></summary>
         <author>
             <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate a Flutter Application from GetIt to Bloc]]></title>
-        <id>https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/</id>
-        <link href="https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/"/>
-        <updated>2024-07-19T23:05:13.000Z</updated>
-        <summary type="html"><![CDATA[When I first built an application [https://play.google.com/store/apps/details?id=com.tomerpacific.birthday_calendar&hl=en] using Flutter, I quickly ran into situations where I needed to pass state from widget to widget. These widgets weren’t directly related and all I knew back then was that there were only Stateless widgets or Stateful ones. I found it hard to]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Next.js App Performance With Lazy Loading]]></title>
-        <id>https://www.freecodecamp.org/news/next-js-performance-optimization/</id>
-        <link href="https://www.freecodecamp.org/news/next-js-performance-optimization/"/>
-        <updated>2024-07-19T22:31:12.000Z</updated>
-        <summary type="html"><![CDATA[People don't like using slow applications. And the initial load time matters a lot for web applications and websites.  An application that takes more than 3 seconds to load is considered slow and may cause users to leave the application or website. Next.js is a React-based framework you can]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
         </author>
     </entry>
     <entry>
@@ -259,16 +271,6 @@ Transitioning to Auto Height originally published on CSS-Tricks, which is part o
 Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/</id>
-        <link href="https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/"/>
-        <updated>2024-06-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gaining buy-in for accessibility can be challenging due to common myths and misunderstandings. For many, accessibility remains a big mystery. Here are some practical techniques for winning stakeholder support. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
