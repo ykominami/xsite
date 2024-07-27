@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-26T00:11:20.451Z</id>
+    <id>urn:2024-07-27T00:11:17.293Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-26T00:11:20.451Z</updated>
+    <updated>2024-07-27T00:11:17.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Develop a CRUD App with Spring Boot, Neon Postgres, and Azure App Service]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/"/>
+        <updated>2024-07-26T19:14:36.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll explore how to develop a CRUD (Create, Read, Update, Delete) application using Spring Boot and Neon Postgres [https://neon.tech/]. We'll also deploy the application on Azure App Service [https://azure.microsoft.com/en-us/products/app-service] and make it production-ready by setting up features like autoscaling and multiple environments. You'll learn how Neon Postgres]]></summary>
+        <author>
+            <name>Abhinav Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get a FAANG Dev Job in your 40s with Coding Interview University creator John Washam [#134]]]></title>
+        <id>https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/</id>
+        <link href="https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/"/>
+        <updated>2024-07-26T14:25:13.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview John Washam, a software engineer at Amazon. John's also creator of one of the most popular open source projects of all time, Coding Interview University. This is John's first-ever podcast interview, ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Overcome Impostor Syndrome as a Developer]]></title>
+        <id>https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/</id>
+        <link href="https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/"/>
+        <updated>2024-07-26T14:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Impostor syndrome is a pervasive feeling of self-doubt and inadequacy that makes you believe you are a fraud despite your achievements and skills.  For new developers – and sometimes even seasoned professionals – this phenomenon can be particularly challenging as you navigate a fast-paced and ever-evolving industry.  But]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Creational Design Patterns in Java? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/creational-design-patterns-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/creational-design-patterns-in-java/"/>
+        <updated>2024-07-26T13:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Design Patterns provide you with an idea or a strategy for solving commonly occurring problems. They are proven solutions that follow the best practices and help you make your code flexible, reusable, and maintainable. The design patterns are classified into three categories based on their purpose:  * Creational]]></summary>
+        <author>
+            <name>Anjan Baradwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained]]></title>
+        <id>https://www.freecodecamp.org/news/generative-models-for-data-augmentation/</id>
+        <link href="https://www.freecodecamp.org/news/generative-models-for-data-augmentation/"/>
+        <updated>2024-07-26T12:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data]]></summary>
+        <author>
+            <name>Oyedele Tioluwani Taiwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Recursion Work? Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-recursion/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-recursion/"/>
+        <updated>2024-07-25T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming]]></summary>
+        <author>
+            <name>Palistha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn System Design Principles and Prepare for an Job Interview]]></title>
         <id>https://www.freecodecamp.org/news/learn-system-design-principles/</id>
@@ -67,46 +127,6 @@ Pop(over) the Balloons originally published on CSS-Tricks, which is part of the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Quantum Artificial Intelligence Model – With Python Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/"/>
-        <updated>2024-07-23T18:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning (ML) is one of the most important subareas of AI used in building great AI systems. In ML, deep learning is a narrow area focused solely on neural networks. Through the field of deep learning, systems like ChatGPT and many other AI models can be created. In other]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparable vs Comparator Interfaces in Java – Which Should You Use and When?]]></title>
-        <id>https://www.freecodecamp.org/news/comparable-vs-comparator-explained-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/comparable-vs-comparator-explained-in-java/"/>
-        <updated>2024-07-23T13:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Sorting is a fundamental operation in programming, essential for organizing data in a specific order. In Java, built-in sorting methods provide efficient ways to sort primitive data types and arrays, making it easy to manage and manipulate collections of data. For instance, you can quickly sort an array of integers]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Bitcoin-to-USD Calculator]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-bitcoin-to-usd-calculator/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-bitcoin-to-usd-calculator/"/>
-        <updated>2024-07-22T22:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this fun and hands-on project where we'll build a calculator that converts Bitcoin to USD. You'll learn about API fetching, DOM manipulation, and localStorage, and you'll use some basic math along the way.  By the end of this tutorial, you'll have a functioning Bitcoin price calculator that]]></summary>
-        <author>
-            <name>Eesa Zahed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React's Context API – Tutorial with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/react-context-api-tutorial-examples/</id>
-        <link href="https://www.freecodecamp.org/news/react-context-api-tutorial-examples/"/>
-        <updated>2024-07-22T15:25:40.000Z</updated>
-        <summary type="html"><![CDATA[In React, data is typically passed down from parent to child via props. But this can lead to "prop drilling" – where we have to pass props down through lots of components to get them where they're needed. Also, some props (for example, the current authenticated user, UI theme, or]]></summary>
-        <author>
-            <name>Danny Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project]]></title>
         <id>https://css-tricks.com/?p=379278</id>
         <link href="https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/"/>
@@ -115,26 +135,6 @@ Pop(over) the Balloons originally published on CSS-Tricks, which is part of the 
 Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Enhanced Enums in Dart – Explained With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/"/>
-        <updated>2024-07-22T11:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Enums are one of the most efficient ways to represent a fixed set of values. For example: days of the week, user online status, traffic light states, role hierarchy in an organization, and so on. What's interesting is that most typed languages such as Typescript, Java, C#, and Dart give]]></summary>
-        <author>
-            <name>Daniel Asaboro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Instant Search with Flask and HTMX]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/"/>
-        <updated>2024-07-22T11:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Instant search is a feature that shows search results as users type their query. Instead of waiting for a full page reload or submitting a form, results appear instantly, allowing users to find what they are looking for quickly. For example, when you start typing in a search box, suggestions]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
     <entry>
@@ -260,17 +260,6 @@ Transitioning to Auto Height originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[Interface copy plays a crucial role in the overall user experience, helping guide users smoothly, allowing them to navigate easily through the app, discover and start using product features, and more. In this article, you’ll find simple, practical tips and a checklist to help you create a clear and concise microcopy, ensuring a seamless user experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Irina Silyanova)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poppin’ In]]></title>
-        <id>https://css-tricks.com/?p=378637</id>
-        <link href="https://css-tricks.com/poppin-in/"/>
-        <updated>2024-06-26T16:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Oh, hey there! It’s been a hot minute, hasn’t it? Thought I’d pop in and say hello while we get to know the Popover API a bit.
-Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
