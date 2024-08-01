@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-31T00:09:37.258Z</id>
+    <id>urn:2024-08-01T00:12:53.773Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T00:09:37.258Z</updated>
+    <updated>2024-08-01T00:12:53.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Functions and Mixins Module Notes]]></title>
+        <id>https://css-tricks.com/?p=378995</id>
+        <link href="https://css-tricks.com/css-functions-and-mixins-module-notes/"/>
+        <updated>2024-07-31T20:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …
+CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where You Can Still Get A Book Apart Titles]]></title>
+        <id>https://css-tricks.com/?p=379392</id>
+        <link href="https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/"/>
+        <updated>2024-07-31T14:52:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …
+Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add JWT-Based Authentication in NestJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/"/>
+        <updated>2024-07-31T14:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
+        <author>
+            <name>Abimbola Adedotun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn C# for Unity in Spanish]]></title>
+        <id>https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/</id>
+        <link href="https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/"/>
+        <updated>2024-07-31T12:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet Nostalgia In August (2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/</id>
+        <link href="https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/"/>
+        <updated>2024-07-31T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's New in macOS? How to Install the Sequoia Beta]]></title>
         <id>https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/</id>
@@ -116,26 +168,6 @@ Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe origi
         <summary type="html"><![CDATA[Design Patterns provide you with an idea or a strategy for solving commonly occurring problems. They are proven solutions that follow the best practices and help you make your code flexible, reusable, and maintainable. The design patterns are classified into three categories based on their purpose:  * Creational]]></summary>
         <author>
             <name>Anjan Baradwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained]]></title>
-        <id>https://www.freecodecamp.org/news/generative-models-for-data-augmentation/</id>
-        <link href="https://www.freecodecamp.org/news/generative-models-for-data-augmentation/"/>
-        <updated>2024-07-26T12:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data]]></summary>
-        <author>
-            <name>Oyedele Tioluwani Taiwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Recursion Work? Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-recursion/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-recursion/"/>
-        <updated>2024-07-25T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming]]></summary>
-        <author>
-            <name>Palistha</name>
         </author>
     </entry>
     <entry>
