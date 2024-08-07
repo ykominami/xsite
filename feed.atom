@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-06T00:11:42.287Z</id>
+    <id>urn:2024-08-07T00:11:46.244Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T00:11:42.287Z</updated>
+    <updated>2024-08-07T00:11:46.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
+        <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
+        <link href="https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/"/>
+        <updated>2024-08-06T14:29:33.000Z</updated>
+        <summary type="html"><![CDATA[For many types of software engineers it is important to understand the fundamentals of operating systems. We just published a massive 25-hour course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of operating syste...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Rocket Control System: Basic Control Theory with Python]]></title>
+        <id>https://www.freecodecamp.org/news/basic-control-theory-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/basic-control-theory-with-python/"/>
+        <updated>2024-08-06T14:26:44.000Z</updated>
+        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - rS \frac{\partial V}{\partial S}$$  Rocket transfer function]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Index Your Next.js Apps Faster Using IndexNow]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/"/>
+        <updated>2024-08-06T13:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages.]]></summary>
+        <author>
+            <name>Vivek Sahu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Application With Node.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/</id>
@@ -154,16 +184,6 @@ Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn C# for Unity in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/"/>
-        <updated>2024-07-31T12:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweet Nostalgia In August (2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/</id>
         <link href="https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/"/>
@@ -171,16 +191,6 @@ Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in macOS? How to Install the Sequoia Beta]]></title>
-        <id>https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/"/>
-        <updated>2024-07-30T14:55:13.000Z</updated>
-        <summary type="html"><![CDATA[The macOS Sequoia public beta is now available. Though the final release of macOS Sequoia (macOS 15) won't be available until late September or early October 2024, I'll show you how to install the public beta for an advance look. It's actually stable enough for daily use. The macOS Sequoia]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
         </author>
     </entry>
     <entry>
@@ -193,16 +203,6 @@ I first …
 Smashing Hour With Dave Rupert originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering Basics – How to Write Effective AI Prompts]]></title>
-        <id>https://www.freecodecamp.org/news/prompt-engineering-basics/</id>
-        <link href="https://www.freecodecamp.org/news/prompt-engineering-basics/"/>
-        <updated>2024-07-29T19:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the popularity of various Large-Language Models like ChatGPT, prompt engineering has become a key skill for developers (and non-developers) to have. It's important if you want to be able to tap into the full potential of these models. Whether you're a developer, researcher, or general user, knowing how]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
         </author>
     </entry>
     <entry>
@@ -341,16 +341,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
 “If” CSS Gets Inline Conditionals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Customer Journey Maps (+ Figma & Miro Templates)]]></title>
-        <id>https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/</id>
-        <link href="https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/"/>
-        <updated>2024-07-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visualize the user experience with user journey maps. Here are some helpful templates, real-world applications, and insights on the importance of mapping both successful and unsuccessful touchpoints. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
