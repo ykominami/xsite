@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-07T00:11:46.244Z</id>
+    <id>urn:2024-08-08T00:11:32.438Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T00:11:46.244Z</updated>
+    <updated>2024-08-08T00:11:32.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a PC game using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/"/>
+        <updated>2024-08-07T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/"/>
+        <updated>2024-08-07T13:42:54.000Z</updated>
+        <summary type="html"><![CDATA[In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve.]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Olympic Rings]]></title>
+        <id>https://css-tricks.com/?p=379541</id>
+        <link href="https://css-tricks.com/css-olympic-rings/"/>
+        <updated>2024-08-07T13:10:56.000Z</updated>
+        <summary type="html"><![CDATA[It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…
+CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common React Mistakes to Avoid]]></title>
+        <id>https://www.freecodecamp.org/news/react-common-mistakes/</id>
+        <link href="https://www.freecodecamp.org/news/react-common-mistakes/"/>
+        <updated>2024-08-06T22:19:05.000Z</updated>
+        <summary type="html"><![CDATA[React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
         <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
@@ -109,16 +150,6 @@ Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/"/>
-        <updated>2024-08-01T20:58:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Multilingual Website With Nuxt.js]]></title>
         <id>https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/</id>
         <link href="https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/"/>
@@ -126,16 +157,6 @@ Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is
         <summary type="html"><![CDATA[Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tim Benniks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn RAG Fundamentals and Advanced Techniques]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/"/>
-        <updated>2024-08-01T14:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -171,16 +192,6 @@ CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which 
 Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add JWT-Based Authentication in NestJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/"/>
-        <updated>2024-07-31T14:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
-        <author>
-            <name>Abimbola Adedotun</name>
         </author>
     </entry>
     <entry>
