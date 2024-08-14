@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379750",
+          "author": "Geoff Graham",
+          "description": "You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:\nI wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space \n…\nfont-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/font-size-limbo/",
+          "publishedOn": "2024-08-13T13:15:58.000Z",
+          "wordCount": 2283,
+          "title": "font-size Limbo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379750"
+        },
+        {
           "id": "https://css-tricks.com/?p=379717",
           "author": "Geoff Graham",
           "description": "Mental health is always tough to talk about, especially in an industry that, to me, often rewards ego over vulnerability. I still find it tough even after having written about my own chronic depression and exploring UX case studies about …\nMental Health in Tech Podcast Interview originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 3713,
           "title": "Pop(over) the Balloons",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379281"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379278",
-          "author": "Geoff Graham",
-          "description": "These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …\nCSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/",
-          "publishedOn": "2024-07-22T14:38:52.000Z",
-          "wordCount": 1999,
-          "title": "CSS One-Liners to Improve (Almost) Every Project",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379278"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "publishedOn": "2024-08-09T11:00:00.000Z",
-          "wordCount": 6162,
+          "wordCount": 6161,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -204,7 +204,7 @@
           "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
           "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
           "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 5084,
+          "wordCount": 5083,
           "title": "It’s Time To Talk About “CSS5”",
           "enclosure": {
             "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
@@ -219,7 +219,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
           "publishedOn": "2024-08-02T11:00:00.000Z",
-          "wordCount": 6501,
+          "wordCount": 6495,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -249,7 +249,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
           "publishedOn": "2024-07-31T09:30:00.000Z",
-          "wordCount": 4807,
+          "wordCount": 4890,
           "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
@@ -264,7 +264,7 @@
           "description": "Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.",
           "link": "https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/",
           "publishedOn": "2024-07-29T18:00:00.000Z",
-          "wordCount": 4297,
+          "wordCount": 4292,
           "title": "Rethinking The Role Of Your UX Teams And Move Beyond Firefighting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg",
@@ -279,7 +279,7 @@
           "description": "Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.",
           "link": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
           "publishedOn": "2024-07-24T10:00:00.000Z",
-          "wordCount": 6410,
+          "wordCount": 6503,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg",
@@ -294,7 +294,7 @@
           "description": "WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.",
           "link": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
           "publishedOn": "2024-07-19T13:00:00.000Z",
-          "wordCount": 5283,
+          "wordCount": 5280,
           "title": "Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg",
@@ -317,21 +317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
-          "author": "hello@smashingmagazine.com (Yinjian Huang)",
-          "description": "This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.",
-          "link": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
-          "publishedOn": "2024-07-15T09:00:00.000Z",
-          "wordCount": 5506,
-          "title": "How To Design Effective Conversational AI Experiences: A Comprehensive Guide",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-design-effective-conversational-ai-experiences-guide/how-design-effective-conversational-ai-experiences-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-design-effective-conversational-ai-experiences-guide/how-design-effective-conversational-ai-experiences-guide.jpg"
         }
       ]
     },
@@ -340,6 +325,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
+          "author": "Alex Pliutau",
+          "description": "Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...",
+          "link": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
+          "publishedOn": "2024-08-13T20:30:58.000Z",
+          "wordCount": 1947,
+          "title": "How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723496940277/5fe7a894-9c67-40fd-95c4-64ef32444a4d.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
+          "author": "Vikram Aruchamy",
+          "description": "In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...",
+          "link": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
+          "publishedOn": "2024-08-13T17:19:23.000Z",
+          "wordCount": 2137,
+          "title": "How to Merge Word Documents in Python – Three Effective Methods with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723552225928/558a428b-d6a1-487c-a563-5aa6bee8e029.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
+          "author": "Andrico Karoulla",
+          "description": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
+          "link": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
+          "publishedOn": "2024-08-13T14:58:56.000Z",
+          "wordCount": 4952,
+          "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723543483889/400c638b-4a6f-430a-92c3-4d8a7b750464.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
+          "author": "Nitheesh Poojary",
+          "description": "In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...",
+          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
+          "publishedOn": "2024-08-13T08:16:05.000Z",
+          "wordCount": 3461,
+          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723319622530/a9905b60-958a-4953-a960-5c2cdf5268ec.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
+          "author": "Ijeoma Igboagu",
+          "description": "In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...",
+          "link": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
+          "publishedOn": "2024-08-12T21:21:39.000Z",
+          "wordCount": 1315,
+          "title": "How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723497228942/b766b557-8230-4bef-8392-d3f4f020c1f4.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/",
           "author": "Jakub T. Jankiewicz",
@@ -389,56 +424,6 @@
           "wordCount": 786,
           "title": "Developer and inventor with 27 software patents [Angie Jones Interview #136]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722162433549/93f4c74b-70dc-463f-8703-242cfa47f29b.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-for-beginners-guide/",
-          "author": "Isaiah Cliford  Opoku",
-          "description": "TypeScript has become an industry standard for building large-scale applications, with many organizations choosing it as their primary language for application development. This tutorial will serve as your introductory guide to TypeScript. It's designed to cater to learners at all stages – from beginners to advanced users. It teaches both",
-          "link": "https://www.freecodecamp.org/news/typescript-for-beginners-guide/",
-          "publishedOn": "2024-08-08T16:45:28.000Z",
-          "wordCount": 5451,
-          "title": "Learn TypeScript – A Comprehensive Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/Attractive.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/",
-          "author": "Tiago Capelo Monteiro",
-          "description": "Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/",
-          "publishedOn": "2024-08-08T13:18:14.000Z",
-          "wordCount": 2219,
-          "title": "How to Build a Quantum AI Model for Predicting Iris Flower Data with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/pexels-guvo-20731157.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/host-your-first-project-on-github/",
-          "author": "Spruce Emmanuel",
-          "description": "Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching",
-          "link": "https://www.freecodecamp.org/news/host-your-first-project-on-github/",
-          "publishedOn": "2024-08-08T11:37:16.000Z",
-          "wordCount": 2832,
-          "title": "How to Host Your Project on GitHub – Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/Screenshot-2024-08-04-at-11.47.51-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/",
-          "author": "Beau Carnes",
-          "description": "Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...",
-          "link": "https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/",
-          "publishedOn": "2024-08-07T14:00:45.000Z",
-          "wordCount": 988,
-          "title": "Create a PC game using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722015430914/330bdc6e-e396-4f82-9d32-879ac847f10c.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/",
-          "author": "Tiago Capelo Monteiro",
-          "description": "In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is importan...",
-          "link": "https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/",
-          "publishedOn": "2024-08-07T13:42:54.000Z",
-          "wordCount": 2607,
-          "title": "What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/pexels-skitterphoto-63901.jpg"
         }
       ]
     }

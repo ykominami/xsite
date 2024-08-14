@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-13T00:12:05.986Z</id>
+    <id>urn:2024-08-14T00:11:48.918Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T00:12:05.986Z</updated>
+    <updated>2024-08-14T00:11:48.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
+        <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
+        <link href="https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/"/>
+        <updated>2024-08-13T20:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Merge Word Documents in Python – Three Effective Methods with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/merge-word-documents-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/merge-word-documents-in-python/"/>
+        <updated>2024-08-13T17:19:23.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Component Library? When to Build Your Own and When to Use Someone Else's]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/"/>
+        <updated>2024-08-13T14:58:56.000Z</updated>
+        <summary type="html"><![CDATA[If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...]]></summary>
+        <author>
+            <name>Andrico Karoulla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[font-size Limbo]]></title>
+        <id>https://css-tricks.com/?p=379750</id>
+        <link href="https://css-tricks.com/font-size-limbo/"/>
+        <updated>2024-08-13T13:15:58.000Z</updated>
+        <summary type="html"><![CDATA[You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:
+I wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space 
+…
+font-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
+        <id>https://www.freecodecamp.org/news/simplify-aws-multi-account-management/</id>
+        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management/"/>
+        <updated>2024-08-13T08:16:05.000Z</updated>
+        <summary type="html"><![CDATA[In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/</id>
+        <link href="https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/"/>
+        <updated>2024-08-12T21:21:39.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mental Health in Tech Podcast Interview]]></title>
         <id>https://css-tricks.com/?p=379717</id>
@@ -133,16 +196,6 @@ It’s Time To Talk About “CSS5” originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn TypeScript – A Comprehensive Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-for-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-for-beginners-guide/"/>
-        <updated>2024-08-08T16:45:28.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has become an industry standard for building large-scale applications, with many organizations choosing it as their primary language for application development. This tutorial will serve as your introductory guide to TypeScript. It's designed to cater to learners at all stages – from beginners to advanced users. It teaches both]]></summary>
-        <author>
-            <name>Isaiah Cliford  Opoku</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Let’s make a simpler, more accessible web]]></title>
         <id>https://css-tricks.com/?p=379570</id>
         <link href="https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/"/>
@@ -151,46 +204,6 @@ It’s Time To Talk About “CSS5” originally published on CSS-Tricks, which i
 Let’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Quantum AI Model for Predicting Iris Flower Data with Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/"/>
-        <updated>2024-08-08T13:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep...]]></summary>
-        <author>
-            <name>Tiago Capelo Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host Your Project on GitHub – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/host-your-first-project-on-github/</id>
-        <link href="https://www.freecodecamp.org/news/host-your-first-project-on-github/"/>
-        <updated>2024-08-08T11:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a PC game using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/"/>
-        <updated>2024-08-07T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/"/>
-        <updated>2024-08-07T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is importan...]]></summary>
-        <author>
-            <name>Tiago Capelo Monteiro</name>
         </author>
     </entry>
     <entry>
@@ -348,17 +361,6 @@ Pop(over) the Balloons originally published on CSS-Tricks, which is part of the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS One-Liners to Improve (Almost) Every Project]]></title>
-        <id>https://css-tricks.com/?p=379278</id>
-        <link href="https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/"/>
-        <updated>2024-07-22T14:38:52.000Z</updated>
-        <summary type="html"><![CDATA[These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …
-CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size]]></title>
         <id>https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/</id>
         <link href="https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/"/>
@@ -376,16 +378,6 @@ CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tri
         <summary type="html"><![CDATA[In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Design Effective Conversational AI Experiences: A Comprehensive Guide]]></title>
-        <id>https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/</id>
-        <link href="https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/"/>
-        <updated>2024-07-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yinjian Huang)</name>
         </author>
     </entry>
 </feed>
