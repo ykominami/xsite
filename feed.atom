@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-14T00:11:48.918Z</id>
+    <id>urn:2024-08-15T00:11:41.722Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T00:11:48.918Z</updated>
+    <updated>2024-08-15T00:11:41.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Emulate Real Dependencies in Integration Tests using Testcontainers]]></title>
+        <id>https://www.freecodecamp.org/news/integration-tests-using-testcontainers/</id>
+        <link href="https://www.freecodecamp.org/news/integration-tests-using-testcontainers/"/>
+        <updated>2024-08-14T19:55:12.000Z</updated>
+        <summary type="html"><![CDATA[What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #11]]></title>
+        <id>https://css-tricks.com/?p=379862</id>
+        <link href="https://css-tricks.com/quick-hit-11/"/>
+        <updated>2024-08-14T18:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…
+Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #10]]></title>
+        <id>https://css-tricks.com/?p=379857</id>
+        <link href="https://css-tricks.com/quick-hit-10/"/>
+        <updated>2024-08-14T15:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Killed by Google is called a “graveyard” but I also see it as a resume in experimentation.…
+Quick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn ml5.js for Machine Learning in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/"/>
+        <updated>2024-08-14T14:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is becoming an essential skill for developers and enthusiasts alike. ml5.js offers a great opportunity to start implementing machine learning in your projects, thanks to its user-friendly JavaScript library that simplifies the integr...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Smart” Layouts With Container Queries]]></title>
+        <id>https://css-tricks.com/?p=379649</id>
+        <link href="https://css-tricks.com/smart-layouts-with-container-queries/"/>
+        <updated>2024-08-14T13:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Modern CSS keeps giving us a lot of new, easier ways to solve old problems, but often the new features we’re getting don’t only solve old problems, they open up new possibilities as well.
+Container queries are one of those …
+“Smart” Layouts With Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialogues Blog]]></title>
+        <id>https://css-tricks.com/?p=379846</id>
+        <link href="https://css-tricks.com/dialogues-blog/"/>
+        <updated>2024-08-14T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[“This isn’t a website. Or even a blog. It’s a conversation.”
+That’s the idea! Jay Hoffman and I’ve been chatting a long time now, back since he began writing a series on web history. It’s easy-going talking with someone …
+Dialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Message Queues in Your Backend Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/"/>
+        <updated>2024-08-14T09:56:07.000Z</updated>
+        <summary type="html"><![CDATA[The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
         <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
@@ -124,26 +200,6 @@ HTML Attribute to Allow/Disallow Handwriting Input originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Relative Vs Dynamic Routing in React – Different Routing Methods with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/"/>
-        <updated>2024-08-12T13:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Single-Page Applications (SPAs) have been growing in popularity as people become accustomed to better user experiences and improved application responsiveness. This is in part thanks to the introduction of Client-Side Routing (CSR). CSR enables navig...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Java HashMaps Work – Internal Mechanics Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/</id>
-        <link href="https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/"/>
-        <updated>2024-08-09T20:10:23.000Z</updated>
-        <summary type="html"><![CDATA[A HashMap is one of the most commonly used data structures in Java, and it's known for its efficiency. Data in a HashMap is stored in the form of key-value pairs. In this article, I will introduce you to HashMaps in Java. We will explore the common o...]]></summary>
-        <author>
-            <name>Anjan Baradwaj</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Chronicles XLII]]></title>
         <id>https://css-tricks.com/?p=379385</id>
         <link href="https://css-tricks.com/css-chronicles-xlii/"/>
@@ -163,16 +219,6 @@ CSS Chronicles XLII originally published on CSS-Tricks, which is part of the Dig
 It’s Time To Talk About “CSS5” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer and inventor with 27 software patents [Angie Jones Interview #136]]]></title>
-        <id>https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/</id>
-        <link href="https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/"/>
-        <updated>2024-08-09T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Angie Jones. She's a developer and holder of 27 software patents. She's worked at companies like IBM and Twitter, doing both test engineering and developer advocacy....]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -285,17 +331,6 @@ CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where You Can Still Get A Book Apart Titles]]></title>
-        <id>https://css-tricks.com/?p=379392</id>
-        <link href="https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/"/>
-        <updated>2024-07-31T14:52:44.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …
-Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweet Nostalgia In August (2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/</id>
         <link href="https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/"/>
@@ -306,18 +341,6 @@ Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Hour With Dave Rupert]]></title>
-        <id>https://css-tricks.com/?p=379381</id>
-        <link href="https://css-tricks.com/smashing-hour-with-dave-rupert/"/>
-        <updated>2024-07-30T14:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine invited me to sit down for a one-on-one with “Uncle” Dave Rupert to discuss web components, yes, but also check in on Dave’s new Microsoft gig and what the ShopTalk co-host is working on these days.
-I first …
-Smashing Hour With Dave Rupert originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking The Role Of Your UX Teams And Move Beyond Firefighting]]></title>
         <id>https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/</id>
         <link href="https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/"/>
@@ -325,29 +348,6 @@ Smashing Hour With Dave Rupert originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe]]></title>
-        <id>https://css-tricks.com/?p=379318</id>
-        <link href="https://css-tricks.com/letter-spacing-is-broken-and-theres-nothing-we-can-do-about-it-maybe/"/>
-        <updated>2024-07-29T16:41:34.000Z</updated>
-        <summary type="html"><![CDATA[This post came up following a conversation I had with Emilio Cobos — a senior developer at Mozilla and member of the CSSWG — about the last CSSWG group meeting. I wanted to know what he thought were the …
-Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pop(over) the Balloons]]></title>
-        <id>https://css-tricks.com/?p=379281</id>
-        <link href="https://css-tricks.com/popover-the-balloons/"/>
-        <updated>2024-07-25T13:31:46.000Z</updated>
-        <summary type="html"><![CDATA[I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.
-You …
-Pop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
