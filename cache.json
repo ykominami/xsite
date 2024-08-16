@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379603",
+          "author": "Geoff Graham",
+          "description": "Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.\nAccording to the HTML Standard:\nIf the current cell has a colspan attribute, then \n…\nHow are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/",
+          "publishedOn": "2024-08-15T13:10:58.000Z",
+          "wordCount": 1740,
+          "title": "How are the `colspan` and `rowspan` attributes different?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379603"
+        },
+        {
           "id": "https://css-tricks.com/?p=379862",
           "author": "Geoff Graham",
           "description": "Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -57,7 +67,7 @@
           "description": "You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:\nI wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space \n…\nfont-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/font-size-limbo/",
           "publishedOn": "2024-08-13T13:15:58.000Z",
-          "wordCount": 2374,
+          "wordCount": 2870,
           "title": "font-size Limbo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379750"
         },
@@ -97,7 +107,7 @@
           "description": "Remember these? Chris would write a post now and then to chronicle things happening around the ol’ CSS-Tricks site. It’s only been 969 days since the last one, give or take. Just think: back then we were poking at …\nCSS Chronicles XLII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-chronicles-xlii/",
           "publishedOn": "2024-08-09T15:27:49.000Z",
-          "wordCount": 3256,
+          "wordCount": 3355,
           "title": "CSS Chronicles XLII",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379385"
         },
@@ -117,7 +127,7 @@
           "description": "Christian Heilmann gave this talk at Typo3 Developer Days. I’m linking it up because it strikes an already stricken nerve in me. The increasing complexity of web development has an inverse relationship with the decreasing number of entry points …\nLet’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/",
           "publishedOn": "2024-08-08T15:07:50.000Z",
-          "wordCount": 2330,
+          "wordCount": 2325,
           "title": "Let’s make a simpler, more accessible web",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379570"
         },
@@ -137,7 +147,7 @@
           "description": "Heydon on the virtues of hyperlinking hypertext in an anchor element:\nSometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are \n…\n(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/hyper-links-about-hyper-links/",
           "publishedOn": "2024-08-02T16:41:54.000Z",
-          "wordCount": 2208,
+          "wordCount": 2203,
           "title": "(Hyper) Links About (Hyper) Links",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379420"
         },
@@ -147,19 +157,9 @@
           "description": "I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:\nWhen you wrap some existing markup in a \n…\nHTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/",
           "publishedOn": "2024-08-01T13:21:37.000Z",
-          "wordCount": 3843,
+          "wordCount": 3858,
           "title": "HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379335"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378995",
-          "author": "Geoff Graham",
-          "description": "Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …\nCSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-functions-and-mixins-module-notes/",
-          "publishedOn": "2024-07-31T20:25:35.000Z",
-          "wordCount": 2957,
-          "title": "CSS Functions and Mixins Module Notes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378995"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Ever felt pressure to speed up your design process? Here’s how to address unrealistic expectations and foster a shared understanding with stakeholders, ensuring everyone is aligned on the path to a successful delivery. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
+          "publishedOn": "2024-08-15T10:00:00.000Z",
+          "wordCount": 3695,
+          "title": "How To Defend Your Design Process",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-defend-your-design-process/how-defend-your-design-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-defend-your-design-process/how-defend-your-design-process.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "author": "hello@smashingmagazine.com (Andrii Zhdan)",
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "publishedOn": "2024-08-09T11:00:00.000Z",
-          "wordCount": 6163,
+          "wordCount": 6172,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -204,7 +219,7 @@
           "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
           "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
           "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 5077,
+          "wordCount": 5088,
           "title": "It’s Time To Talk About “CSS5”",
           "enclosure": {
             "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
@@ -219,7 +234,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
           "publishedOn": "2024-08-02T11:00:00.000Z",
-          "wordCount": 6497,
+          "wordCount": 6494,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -249,7 +264,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
           "publishedOn": "2024-07-31T09:30:00.000Z",
-          "wordCount": 4780,
+          "wordCount": 4785,
           "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
@@ -264,7 +279,7 @@
           "description": "Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.",
           "link": "https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/",
           "publishedOn": "2024-07-29T18:00:00.000Z",
-          "wordCount": 4302,
+          "wordCount": 4291,
           "title": "Rethinking The Role Of Your UX Teams And Move Beyond Firefighting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg",
@@ -279,7 +294,7 @@
           "description": "Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.",
           "link": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
           "publishedOn": "2024-07-24T10:00:00.000Z",
-          "wordCount": 6405,
+          "wordCount": 6404,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg",
@@ -294,7 +309,7 @@
           "description": "WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.",
           "link": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
           "publishedOn": "2024-07-19T13:00:00.000Z",
-          "wordCount": 5398,
+          "wordCount": 5283,
           "title": "Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg",
@@ -326,12 +341,42 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
+          "author": "Bhavishya Pandit",
+          "description": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",
+          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
+          "publishedOn": "2024-08-15T19:41:19.000Z",
+          "wordCount": 2035,
+          "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723750839199/0dc3a4ff-3e4e-4055-b3c1-955474946b0f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
+          "author": "Oduah Chigozie",
+          "description": "If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...",
+          "link": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
+          "publishedOn": "2024-08-15T15:18:18.000Z",
+          "wordCount": 1589,
+          "title": "How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723746256888/b046d857-161c-41be-96d0-1c05b1e448b8.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/",
+          "author": "Fanny Nyayic",
+          "description": "Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...",
+          "link": "https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/",
+          "publishedOn": "2024-08-15T11:01:37.000Z",
+          "wordCount": 1487,
+          "title": "How to Create A Color Picker Tool Using HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723709466316/80aae148-6211-4070-ba33-eb4290408912.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
           "author": "Alex Pliutau",
           "description": "What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...",
           "link": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
           "publishedOn": "2024-08-14T19:55:12.000Z",
-          "wordCount": 2038,
+          "wordCount": 2040,
           "title": "How to Emulate Real Dependencies in Integration Tests using Testcontainers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723631770942/c82aabb6-a9b4-4085-8b06-b4ba1b1cdbd3.png"
         },
@@ -341,7 +386,7 @@
           "description": "Machine learning is becoming an essential skill for developers and enthusiasts alike. ml5.js offers a great opportunity to start implementing machine learning in your projects, thanks to its user-friendly JavaScript library that simplifies the integr...",
           "link": "https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/",
           "publishedOn": "2024-08-14T14:48:38.000Z",
-          "wordCount": 830,
+          "wordCount": 832,
           "title": "Learn ml5.js for Machine Learning in JavaScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723646904774/4f225758-a451-4dc5-a06c-287ba2977c55.png"
         },
@@ -351,7 +396,7 @@
           "description": "The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...",
           "link": "https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/",
           "publishedOn": "2024-08-14T09:56:07.000Z",
-          "wordCount": 1795,
+          "wordCount": 1797,
           "title": "How to Implement Message Queues in Your Backend Applications",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723280791863/cdc4faaa-2f95-4219-8753-881dfcafbf45.jpeg"
         },
@@ -361,7 +406,7 @@
           "description": "Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...",
           "link": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
           "publishedOn": "2024-08-13T20:30:58.000Z",
-          "wordCount": 1947,
+          "wordCount": 1949,
           "title": "How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723496940277/5fe7a894-9c67-40fd-95c4-64ef32444a4d.png"
         },
@@ -371,7 +416,7 @@
           "description": "In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...",
           "link": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
           "publishedOn": "2024-08-13T17:19:23.000Z",
-          "wordCount": 2137,
+          "wordCount": 2139,
           "title": "How to Merge Word Documents in Python – Three Effective Methods with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723552225928/558a428b-d6a1-487c-a563-5aa6bee8e029.png"
         },
@@ -381,19 +426,9 @@
           "description": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
           "link": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
           "publishedOn": "2024-08-13T14:58:56.000Z",
-          "wordCount": 4952,
+          "wordCount": 4954,
           "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723543483889/400c638b-4a6f-430a-92c3-4d8a7b750464.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
-          "author": "Nitheesh Poojary",
-          "description": "In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...",
-          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
-          "publishedOn": "2024-08-13T08:16:05.000Z",
-          "wordCount": 3461,
-          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723319622530/a9905b60-958a-4953-a960-5c2cdf5268ec.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
@@ -401,29 +436,9 @@
           "description": "In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...",
           "link": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
           "publishedOn": "2024-08-12T21:21:39.000Z",
-          "wordCount": 1315,
+          "wordCount": 1462,
           "title": "How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723497228942/b766b557-8230-4bef-8392-d3f4f020c1f4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/",
-          "author": "Jakub T. Jankiewicz",
-          "description": "While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...",
-          "link": "https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/",
-          "publishedOn": "2024-08-12T15:23:47.000Z",
-          "wordCount": 2124,
-          "title": "How to Match Parentheses in JavaScript without Using Regex",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723400046627/d6cdb4d5-9c6e-4ce0-92a4-1438e5c998e3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to elevate your AWS skills and become a certified AWS Developer Associate? Look no further! The comprehensive AWS Certified Developer Associate (DVA-C02) course by Andrew Brown is now available for free on the freeCodeCamp.org YouTube c...",
-          "link": "https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/",
-          "publishedOn": "2024-08-12T14:33:22.000Z",
-          "wordCount": 909,
-          "title": "Ultimate AWS Certified Developer Associate (DVA-C02) Course from Andrew Brown",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723473171618/f4faf6dd-6f7e-4b42-bfac-6c6868f35aac.png"
         }
       ]
     }
