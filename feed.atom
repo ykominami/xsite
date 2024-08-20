@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-19T00:12:24.460Z</id>
+    <id>urn:2024-08-20T00:11:49.531Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T00:12:24.460Z</updated>
+    <updated>2024-08-20T00:11:49.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Secure a Next.js AI Application Deployed on Vercel]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/"/>
+        <updated>2024-08-19T21:06:52.000Z</updated>
+        <summary type="html"><![CDATA[In this in-depth guide, I’ll be showing how to secure a Next.js AI app deployed on Vercel. We’ll be taking a hands-on approach by starting with a simple AI app riddled with vulnerabilities. This article will guide you through how you can detect vulne...]]></summary>
+        <author>
+            <name>Gideon Akinsanmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Ground at Frostapalooza]]></title>
+        <id>https://css-tricks.com/?p=379959</id>
+        <link href="https://css-tricks.com/on-the-ground-at-frostapalooza/"/>
+        <updated>2024-08-19T17:01:09.000Z</updated>
+        <summary type="html"><![CDATA[I can’t say I would have ever expected to see Jeremy Keith performing the Yeah Yeah Yeahs song “Maps”, but then again, I don’t know what I expected to happen at Frostapalooza.
+The Event
+Brad Frost, web …
+On the Ground at Frostapalooza originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All About JavaScript Loops]]></title>
+        <id>https://css-tricks.com/?p=379851</id>
+        <link href="https://css-tricks.com/all-about-javascript-loops/"/>
+        <updated>2024-08-19T14:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Every programming language has loops. Loops perform an operation (i.e., a chunk of work) a number of times, usually once for every item in an array or list, or to simply repeat an operation until a certain condition is met.…
+All About JavaScript Loops originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Erick Merchant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read and Write Files with Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-and-write-files-with-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-files-with-nodejs/"/>
+        <updated>2024-08-19T13:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a powerful JavaScript runtime environment that lets you run JS code outside the browser. And a fundamental part of many Node.js applications involves reading and writing files – whether that's text, JSON, HTML, or other file formats. So yo...]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Variables and Data Types in JavaScript – Explained With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-variables-and-data-types-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-variables-and-data-types-in-javascript/"/>
+        <updated>2024-08-19T13:33:18.000Z</updated>
+        <summary type="html"><![CDATA[A variable is like a box where you can store data or a reference to data. In this article, you will learn how to create and use variables. You'll also learn about the different data types in JavaScript and how to use them. Let's get started! Table of...]]></summary>
+        <author>
+            <name>Austin Asoluka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Variables and Constants in Go? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/variables-and-constants-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/variables-and-constants-in-go/"/>
+        <updated>2024-08-19T07:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Variables and constants are fundamental concepts in most programming languages. They are the building blocks for storing and managing data. In this article, we'll take a look at how variables and constant work in Go. Table of contents: What are Vari...]]></summary>
+        <author>
+            <name>Temitope Oyedele</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-14)]]></title>
         <id>https://css-tricks.com/?p=379881</id>
@@ -133,16 +197,6 @@ Quick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOc
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn ml5.js for Machine Learning in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/"/>
-        <updated>2024-08-14T14:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is becoming an essential skill for developers and enthusiasts alike. ml5.js offers a great opportunity to start implementing machine learning in your projects, thanks to its user-friendly JavaScript library that simplifies the integr...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Smart” Layouts With Container Queries]]></title>
         <id>https://css-tricks.com/?p=379649</id>
         <link href="https://css-tricks.com/smart-layouts-with-container-queries/"/>
@@ -164,36 +218,6 @@ That’s the idea! Jay Hoffman and I’ve been chatting a long time now, back si
 Dialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Message Queues in Your Backend Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/"/>
-        <updated>2024-08-14T09:56:07.000Z</updated>
-        <summary type="html"><![CDATA[The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...]]></summary>
-        <author>
-            <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
-        <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
-        <link href="https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/"/>
-        <updated>2024-08-13T20:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Word Documents in Python – Three Effective Methods with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/merge-word-documents-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/merge-word-documents-in-python/"/>
-        <updated>2024-08-13T17:19:23.000Z</updated>
-        <summary type="html"><![CDATA[In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
         </author>
     </entry>
     <entry>
@@ -298,17 +322,6 @@ Let’s make a simpler, more accessible web originally published on CSS-Tricks, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Olympic Rings]]></title>
-        <id>https://css-tricks.com/?p=379541</id>
-        <link href="https://css-tricks.com/css-olympic-rings/"/>
-        <updated>2024-08-07T13:10:56.000Z</updated>
-        <summary type="html"><![CDATA[It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…
-CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It’s Time To Talk About “CSS5”]]></title>
         <id>https://smashingmagazine.com/2024/08/time-to-talk-about-css5/</id>
         <link href="https://smashingmagazine.com/2024/08/time-to-talk-about-css5/"/>
@@ -316,19 +329,6 @@ CSS Olympic Rings originally published on CSS-Tricks, which is part of the Digit
         <summary type="html"><![CDATA[Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Hyper) Links About (Hyper) Links]]></title>
-        <id>https://css-tricks.com/?p=379420</id>
-        <link href="https://css-tricks.com/hyper-links-about-hyper-links/"/>
-        <updated>2024-08-02T16:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Heydon on the virtues of hyperlinking hypertext in an anchor element:
-Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are 
-…
-(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
