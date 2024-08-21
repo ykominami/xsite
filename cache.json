@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379926",
+          "author": "Juan Diego Rodríguez",
+          "description": "A couple of weeks ago I was super excited about publishing my first CSS-Tricks post: “Letter Spacing is Broken. Forget about that though, what’s important is the post’s topic: letter spacing is broken and doesn’t work as the CSS …\nRTL Styling 101 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/rtl-styling-101/",
+          "publishedOn": "2024-08-20T14:16:34.000Z",
+          "wordCount": 1556,
+          "title": "RTL Styling 101",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379926"
+        },
+        {
           "id": "https://css-tricks.com/?p=379959",
           "author": "Ryan Trimble",
           "description": "I can’t say I would have ever expected to see Jeremy Keith performing the Yeah Yeah Yeahs song “Maps”, but then again, I don’t know what I expected to happen at Frostapalooza.\nThe Event\nBrad Frost, web …\nOn the Ground at Frostapalooza originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/on-the-ground-at-frostapalooza/",
           "publishedOn": "2024-08-19T17:01:09.000Z",
-          "wordCount": 2184,
+          "wordCount": 2196,
           "title": "On the Ground at Frostapalooza",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379959"
         },
@@ -27,7 +37,7 @@
           "description": "Every programming language has loops. Loops perform an operation (i.e., a chunk of work) a number of times, usually once for every item in an array or list, or to simply repeat an operation until a certain condition is met.…\nAll About JavaScript Loops originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/all-about-javascript-loops/",
           "publishedOn": "2024-08-19T14:21:07.000Z",
-          "wordCount": 2567,
+          "wordCount": 8983,
           "title": "All About JavaScript Loops",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379851"
         },
@@ -47,7 +57,7 @@
           "description": "Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.\nAccording to the HTML Standard:\nIf the current cell has a colspan attribute, then \n…\nHow are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/",
           "publishedOn": "2024-08-15T13:10:58.000Z",
-          "wordCount": 1740,
+          "wordCount": 1727,
           "title": "How are the `colspan` and `rowspan` attributes different?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379603"
         },
@@ -77,7 +87,7 @@
           "description": "Modern CSS keeps giving us a lot of new, easier ways to solve old problems, but often the new features we’re getting don’t only solve old problems, they open up new possibilities as well.\nContainer queries are one of those …\n“Smart” Layouts With Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/smart-layouts-with-container-queries/",
           "publishedOn": "2024-08-14T13:22:55.000Z",
-          "wordCount": 3082,
+          "wordCount": 3074,
           "title": "“Smart” Layouts With Container Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379649"
         },
@@ -87,7 +97,7 @@
           "description": "“This isn’t a website. Or even a blog. It’s a conversation.”\nThat’s the idea! Jay Hoffman and I’ve been chatting a long time now, back since he began writing a series on web history. It’s easy-going talking with someone …\nDialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/dialogues-blog/",
           "publishedOn": "2024-08-14T10:34:00.000Z",
-          "wordCount": 1568,
+          "wordCount": 1560,
           "title": "Dialogues Blog",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379846"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1650,
           "title": "It’s Time To Talk About “CSS5”",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379630"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379570",
-          "author": "Geoff Graham",
-          "description": "Christian Heilmann gave this talk at Typo3 Developer Days. I’m linking it up because it strikes an already stricken nerve in me. The increasing complexity of web development has an inverse relationship with the decreasing number of entry points …\nLet’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/",
-          "publishedOn": "2024-08-08T15:07:50.000Z",
-          "wordCount": 2325,
-          "title": "Let’s make a simpler, more accessible web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379570"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
+          "author": "hello@smashingmagazine.com (Steven Levithan)",
+          "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
+          "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
+          "publishedOn": "2024-08-20T15:00:00.000Z",
+          "wordCount": 5716,
+          "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
           "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
           "publishedOn": "2024-08-16T13:00:00.000Z",
-          "wordCount": 4695,
+          "wordCount": 4804,
           "title": "Pricing Projects As A Freelancer Or Agency Owner",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
@@ -204,7 +219,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "publishedOn": "2024-08-09T11:00:00.000Z",
-          "wordCount": 6163,
+          "wordCount": 6162,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -234,7 +249,7 @@
           "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
           "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
           "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 5078,
+          "wordCount": 5088,
           "title": "It’s Time To Talk About “CSS5”",
           "enclosure": {
             "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
@@ -249,7 +264,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
           "publishedOn": "2024-08-02T11:00:00.000Z",
-          "wordCount": 6498,
+          "wordCount": 6494,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -279,7 +294,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
           "publishedOn": "2024-07-31T09:30:00.000Z",
-          "wordCount": 4791,
+          "wordCount": 4770,
           "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
@@ -294,7 +309,7 @@
           "description": "Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.",
           "link": "https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/",
           "publishedOn": "2024-07-29T18:00:00.000Z",
-          "wordCount": 4302,
+          "wordCount": 4306,
           "title": "Rethinking The Role Of Your UX Teams And Move Beyond Firefighting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg",
@@ -309,7 +324,7 @@
           "description": "Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.",
           "link": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
           "publishedOn": "2024-07-24T10:00:00.000Z",
-          "wordCount": 6407,
+          "wordCount": 6403,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg",
@@ -325,6 +340,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-good-coding-habits/",
+          "author": "Eleanor Hecks",
+          "description": "When you're starting out as a new Python developer, you'll likely develop some habits, both good and bad. Coding is something of an art form. Flexibility and customization are encouraged — and you can usually write code how you want within the contex...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-good-coding-habits/",
+          "publishedOn": "2024-08-20T20:46:01.000Z",
+          "wordCount": 1976,
+          "title": "How to Build Good Coding Habits as a New Python Developer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724179204764/68fe386c-336f-4f05-9652-bbf5644b5a1b.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/",
+          "author": "Gor Grigoryan",
+          "description": "What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...",
+          "link": "https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/",
+          "publishedOn": "2024-08-20T18:21:25.000Z",
+          "wordCount": 5957,
+          "title": "How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724012658962/2e754dc4-248a-4a2b-8819-993514474a22.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/",
+          "author": "Flavio Copes",
+          "description": "This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...",
+          "link": "https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/",
+          "publishedOn": "2024-08-20T14:47:35.000Z",
+          "wordCount": 9581,
+          "title": "Git Cheat Sheet – Helpful Git Commands with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723993272242/896730cc-3e03-43be-83d9-06d37ebab5a5.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/",
+          "author": "Beau Carnes",
+          "description": "DaVinci Resolve is a popular video editing software that is often used to edit feature films. There is also a super powerful free version. DaVinci Resolve is a great software to use for video editing. We just published a course on the freeCodeCamp.or...",
+          "link": "https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/",
+          "publishedOn": "2024-08-20T13:01:53.000Z",
+          "wordCount": 887,
+          "title": "Master Video Editing with DaVinci Resolve",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724158572406/4cd99bcb-c8a7-4898-bc78-1dc0f49bcbe6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/",
+          "author": "Marco Venturi",
+          "description": "In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/",
+          "publishedOn": "2024-08-20T12:39:49.000Z",
+          "wordCount": 2388,
+          "title": "How to Generate Financial Press Reviews Using AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724059022091/7ce2eba8-46ff-4d08-8e56-afa814cb68cc.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/",
           "author": "Gideon Akinsanmi",
@@ -374,56 +439,6 @@
           "wordCount": 3035,
           "title": "VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723559872911/f9953e98-7948-47a0-a054-62028df854b9.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rahul Pandey. He's a software engineer who left his $800K / year FAANG job to build his own startup. We talk about: The post-layoff developer job landscape Develop...",
-          "link": "https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/",
-          "publishedOn": "2024-08-15T21:57:33.000Z",
-          "wordCount": 781,
-          "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #137]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723758894150/3f49d5b1-b7bc-4ffe-bfc4-09fdf5a509ac.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
-          "author": "Bhavishya Pandit",
-          "description": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
-          "publishedOn": "2024-08-15T19:41:19.000Z",
-          "wordCount": 2035,
-          "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723750839199/0dc3a4ff-3e4e-4055-b3c1-955474946b0f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
-          "author": "Oduah Chigozie",
-          "description": "If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...",
-          "link": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
-          "publishedOn": "2024-08-15T15:18:18.000Z",
-          "wordCount": 1589,
-          "title": "How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723746256888/b046d857-161c-41be-96d0-1c05b1e448b8.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/",
-          "author": "Fanny Nyayic",
-          "description": "Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...",
-          "link": "https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/",
-          "publishedOn": "2024-08-15T11:01:37.000Z",
-          "wordCount": 1487,
-          "title": "How to Create A Color Picker Tool Using HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723709466316/80aae148-6211-4070-ba33-eb4290408912.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
-          "author": "Alex Pliutau",
-          "description": "What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...",
-          "link": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
-          "publishedOn": "2024-08-14T19:55:12.000Z",
-          "wordCount": 2040,
-          "title": "How to Emulate Real Dependencies in Integration Tests using Testcontainers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723631770942/c82aabb6-a9b4-4085-8b06-b4ba1b1cdbd3.png"
         }
       ]
     }

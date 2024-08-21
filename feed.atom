@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-20T00:11:49.531Z</id>
+    <id>urn:2024-08-21T00:11:37.439Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T00:11:49.531Z</updated>
+    <updated>2024-08-21T00:11:37.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Good Coding Habits as a New Python Developer]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-good-coding-habits/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-good-coding-habits/"/>
+        <updated>2024-08-20T20:46:01.000Z</updated>
+        <summary type="html"><![CDATA[When you're starting out as a new Python developer, you'll likely develop some habits, both good and bad. Coding is something of an art form. Flexibility and customization are encouraged — and you can usually write code how you want within the contex...]]></summary>
+        <author>
+            <name>Eleanor Hecks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/"/>
+        <updated>2024-08-20T18:21:25.000Z</updated>
+        <summary type="html"><![CDATA[What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...]]></summary>
+        <author>
+            <name>Gor Grigoryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regexes Got Good: The History And Future Of Regular Expressions In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/</id>
+        <link href="https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/"/>
+        <updated>2024-08-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Levithan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Cheat Sheet – Helpful Git Commands with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/"/>
+        <updated>2024-08-20T14:47:35.000Z</updated>
+        <summary type="html"><![CDATA[This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTL Styling 101]]></title>
+        <id>https://css-tricks.com/?p=379926</id>
+        <link href="https://css-tricks.com/rtl-styling-101/"/>
+        <updated>2024-08-20T14:16:34.000Z</updated>
+        <summary type="html"><![CDATA[A couple of weeks ago I was super excited about publishing my first CSS-Tricks post: “Letter Spacing is Broken. Forget about that though, what’s important is the post’s topic: letter spacing is broken and doesn’t work as the CSS …
+RTL Styling 101 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Video Editing with DaVinci Resolve]]></title>
+        <id>https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/</id>
+        <link href="https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/"/>
+        <updated>2024-08-20T13:01:53.000Z</updated>
+        <summary type="html"><![CDATA[DaVinci Resolve is a popular video editing software that is often used to edit feature films. There is also a super powerful free version. DaVinci Resolve is a great software to use for video editing. We just published a course on the freeCodeCamp.or...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Financial Press Reviews Using AI]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/"/>
+        <updated>2024-08-20T12:39:49.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure a Next.js AI Application Deployed on Vercel]]></title>
         <id>https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/</id>
@@ -101,36 +172,6 @@ CSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #137]]]></title>
-        <id>https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/</id>
-        <link href="https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/"/>
-        <updated>2024-08-15T21:57:33.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rahul Pandey. He's a software engineer who left his $800K / year FAANG job to build his own startup. We talk about: The post-layoff developer job landscape Develop...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?]]></title>
-        <id>https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/</id>
-        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/"/>
-        <updated>2024-08-15T19:41:19.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...]]></summary>
-        <author>
-            <name>Bhavishya Pandit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/"/>
-        <updated>2024-08-15T15:18:18.000Z</updated>
-        <summary type="html"><![CDATA[If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...]]></summary>
-        <author>
-            <name>Oduah Chigozie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How are the `colspan` and `rowspan` attributes different?]]></title>
         <id>https://css-tricks.com/?p=379603</id>
         <link href="https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/"/>
@@ -145,16 +186,6 @@ How are the `colspan` and `rowspan` attributes different? originally published o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create A Color Picker Tool Using HTML, CSS, and JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/"/>
-        <updated>2024-08-15T11:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...]]></summary>
-        <author>
-            <name>Fanny Nyayic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Defend Your Design Process]]></title>
         <id>https://smashingmagazine.com/2024/08/how-defend-your-design-process/</id>
         <link href="https://smashingmagazine.com/2024/08/how-defend-your-design-process/"/>
@@ -162,16 +193,6 @@ How are the `colspan` and `rowspan` attributes different? originally published o
         <summary type="html"><![CDATA[Ever felt pressure to speed up your design process? Here’s how to address unrealistic expectations and foster a shared understanding with stakeholders, ensuring everyone is aligned on the path to a successful delivery. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Emulate Real Dependencies in Integration Tests using Testcontainers]]></title>
-        <id>https://www.freecodecamp.org/news/integration-tests-using-testcontainers/</id>
-        <link href="https://www.freecodecamp.org/news/integration-tests-using-testcontainers/"/>
-        <updated>2024-08-14T19:55:12.000Z</updated>
-        <summary type="html"><![CDATA[What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
         </author>
     </entry>
     <entry>
@@ -308,17 +329,6 @@ It’s Time To Talk About “CSS5” originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[For teams working remotely across the globe or together in an office, as well as for any group of collaborating users, a scheduler can be a valuable tool indeed. In this post, you’ll find some of the best commercial web scheduler libraries (JavaScript based) with amazing UX and high efficiency that are currently available.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s make a simpler, more accessible web]]></title>
-        <id>https://css-tricks.com/?p=379570</id>
-        <link href="https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/"/>
-        <updated>2024-08-08T15:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Christian Heilmann gave this talk at Typo3 Developer Days. I’m linking it up because it strikes an already stricken nerve in me. The increasing complexity of web development has an inverse relationship with the decreasing number of entry points …
-Let’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
