@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-28T00:11:50.579Z</id>
+    <id>urn:2024-08-29T00:12:07.024Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T00:11:50.579Z</updated>
+    <updated>2024-08-29T00:12:07.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use GPT to Analyze Large Datasets]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/"/>
+        <updated>2024-08-28T17:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Absorbing and then summarizing very large quantities of content in just a few seconds truly is a big deal. As an example, a while back I received a link to the recording of an important 90 minute business video conference that I'd missed a few hours ...]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Other” C in CSS]]></title>
+        <id>https://css-tricks.com/?p=380061</id>
+        <link href="https://css-tricks.com/the-other-c-in-css/"/>
+        <updated>2024-08-28T14:09:42.000Z</updated>
+        <summary type="html"><![CDATA[I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …
+The “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Server-Sent Events in Go]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/"/>
+        <updated>2024-08-28T14:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Server-Sent Events (SSE) is a powerful technology that enables real-time, unidirectional communication from servers to clients. In this article, we'll explore how to implement SSE in Go, discussing its benefits, use cases, and providing practical exa...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing <skelly-wc>]]></title>
+        <id>https://css-tricks.com/?p=380178</id>
+        <link href="https://css-tricks.com/introducing-shelly-wc/"/>
+        <updated>2024-08-28T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[I created a little library at work to make those “skeleton screens” that I’m not sure anyone likes. […] We named it skellyCSS because… skeletons and CSS, I guess. We still aren’t even really using it very much, but it 
+…
+Introducing <skelly-wc> originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
+        <id>https://css-tricks.com/?p=365579</id>
+        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
+        <updated>2024-08-28T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
+Useful Tools for Creating AVIF Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle File Uploads in NestJS with Multer]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-file-uploads-in-nestjs-with-multer/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-file-uploads-in-nestjs-with-multer/"/>
+        <updated>2024-08-28T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Uploading files is an important need in many applications. Using Multer, you can set up a NestJS file upload feature in an easy and straightforward way. In this guide, we’ll walk through the steps to create a resource dedicated to file uploads, ensur...]]></summary>
+        <author>
+            <name>Abimbola Adedotun Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Compiler – A Complete Guide]]></title>
+        <id>https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/</id>
+        <link href="https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/"/>
+        <updated>2024-08-27T22:35:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how the React compiler can help you write more optimized React applications. React is a user interface library that has been doing its job quite well for over a decade. The component architecture, uni-directional data f...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel for Data Visualization]]></title>
+        <id>https://www.freecodecamp.org/news/excel-for-data-visualization/</id>
+        <link href="https://www.freecodecamp.org/news/excel-for-data-visualization/"/>
+        <updated>2024-08-27T21:28:30.000Z</updated>
+        <summary type="html"><![CDATA[Excel can be great for data visualization. We just published course on the freeCodeCamp.org YouTube channel that is a comprehensive guide to Excel data visualization and dashboard creation. This course is designed to equip you with the skills needed ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Java Testing with Selenium]]></title>
+        <id>https://www.freecodecamp.org/news/learn-java-testing-with-selenium/</id>
+        <link href="https://www.freecodecamp.org/news/learn-java-testing-with-selenium/"/>
+        <updated>2024-08-27T21:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to enhance your skills in automated web testing? We just published a comprehensive video course on the freeCodeCamp.org YouTube channel, designed to teach you how to use Selenium with Java using the Page Object Model. Created by Rex J...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Accessible Modal – with Example Code]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/</id>
@@ -81,16 +175,6 @@ Quick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOc
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Brain Tumor to Teaching 500,000 Sysadmin Students with Hiroko Nishimura [Podcast #138]]]></title>
-        <id>https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/</id>
-        <link href="https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/"/>
-        <updated>2024-08-23T16:40:35.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Hiroko Nishimura. She's a special ed teacher turned system administrator turned technical instructor. Hiroko grew up in Japan and moved to the US as a kid. In her ea...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quick Hit #12]]></title>
         <id>https://css-tricks.com/?p=380064</id>
         <link href="https://css-tricks.com/quick-hit-12/"/>
@@ -112,26 +196,6 @@ That’s an understatement! This is an incredible amount of work, even …
 Basic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a MacOS App with React Native]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/"/>
-        <updated>2024-08-22T19:30:39.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Use the Gemini AI MultiModal Model]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/"/>
-        <updated>2024-08-22T19:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -166,36 +230,6 @@ Callbacks on Web Components? originally published on CSS-Tricks, which is part o
 Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Serverless CRUD REST API with the Serverless Framework, Node.js, and GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/"/>
-        <updated>2024-08-21T19:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Serverless computing emerged as a response to the challenges of traditional server-based architectures. With serverless, developers no longer need to manage or scale servers manually. Instead, cloud providers handle infrastructure management, allowin...]]></summary>
-        <author>
-            <name>Ifeanyi Otuonye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Software Architecture Diagrams Using the C4 Model]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/"/>
-        <updated>2024-08-21T18:50:04.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is CSS Subgrid? A Practical Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-css-subgrid/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-css-subgrid/"/>
-        <updated>2024-08-21T18:17:03.000Z</updated>
-        <summary type="html"><![CDATA[When designers create layouts in their mockups, everything including the content typically looks perfectly aligned and consistent. But in the real world, user-generated content varies wildly. For example, one testimonial card might have a brief sente...]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
         </author>
     </entry>
     <entry>
@@ -287,20 +321,6 @@ CSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How are the `colspan` and `rowspan` attributes different?]]></title>
-        <id>https://css-tricks.com/?p=379603</id>
-        <link href="https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/"/>
-        <updated>2024-08-15T13:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.
-According to the HTML Standard:
-If the current cell has a colspan attribute, then 
-…
-How are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Defend Your Design Process]]></title>
         <id>https://smashingmagazine.com/2024/08/how-defend-your-design-process/</id>
         <link href="https://smashingmagazine.com/2024/08/how-defend-your-design-process/"/>
@@ -308,28 +328,6 @@ How are the `colspan` and `rowspan` attributes different? originally published o
         <summary type="html"><![CDATA[Ever felt pressure to speed up your design process? Here’s how to address unrealistic expectations and foster a shared understanding with stakeholders, ensuring everyone is aligned on the path to a successful delivery. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #11]]></title>
-        <id>https://css-tricks.com/?p=379862</id>
-        <link href="https://css-tricks.com/quick-hit-11/"/>
-        <updated>2024-08-14T18:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…
-Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #10]]></title>
-        <id>https://css-tricks.com/?p=379857</id>
-        <link href="https://css-tricks.com/quick-hit-10/"/>
-        <updated>2024-08-14T15:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Killed by Google is called a “graveyard” but I also see it as a resume in experimentation.…
-Quick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -390,16 +388,6 @@ Quick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking The Role Of Your UX Teams And Move Beyond Firefighting]]></title>
-        <id>https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/</id>
-        <link href="https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/"/>
-        <updated>2024-07-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
