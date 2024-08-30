@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380195",
+          "author": "Geoff Graham",
+          "description": "Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:\nThis won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some \n…\nShipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/shipping-tumblr-and-wordpress/",
+          "publishedOn": "2024-08-29T15:05:58.000Z",
+          "wordCount": 1627,
+          "title": "Shipping Tumblr and WordPress",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
+        },
+        {
           "id": "https://css-tricks.com/?p=380061",
           "author": "Geoff Graham",
           "description": "I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …\nThe “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -47,7 +57,7 @@
           "description": "Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.\nJohannes Gutenberg (probably)\n\nLong time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …\nUnderstanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/",
           "publishedOn": "2024-08-26T17:27:16.000Z",
-          "wordCount": 1755,
+          "wordCount": 1759,
           "title": "Understanding Gutenberg Blocks, Patterns, and Templates",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380047"
         },
@@ -155,16 +165,6 @@
           "wordCount": 2592,
           "title": "All About JavaScript Loops",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379851"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379881",
-          "author": "Geoff Graham",
-          "description": "I was just going over the latest CSSWG minutes (you can subscribe to them at W3C.org) and came across a few interesting nuggets I wanted to jot down for another time. The group discussed the CSS Values, CSS Easing, and …\nCSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-08-14/",
-          "publishedOn": "2024-08-16T16:12:51.000Z",
-          "wordCount": 1771,
-          "title": "CSSWG Minutes Telecon (2024-08-14)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379881"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
           "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
           "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3862,
+          "wordCount": 3856,
           "title": "Generating Unique Random Numbers In JavaScript Using Sets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
@@ -194,7 +194,7 @@
           "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
           "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
           "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6656,
+          "wordCount": 6655,
           "title": "Mastering Typography In Logo Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
@@ -209,7 +209,7 @@
           "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
           "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
           "publishedOn": "2024-08-20T15:00:00.000Z",
-          "wordCount": 5712,
+          "wordCount": 5706,
           "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
@@ -254,7 +254,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "publishedOn": "2024-08-09T11:00:00.000Z",
-          "wordCount": 6161,
+          "wordCount": 6165,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -284,7 +284,7 @@
           "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
           "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
           "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 5094,
+          "wordCount": 5085,
           "title": "It’s Time To Talk About “CSS5”",
           "enclosure": {
             "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
@@ -299,7 +299,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
           "publishedOn": "2024-08-02T11:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6505,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -322,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-build-multilingual-website-nuxtjs/how-build-multilingual-website-nuxt.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
-          "publishedOn": "2024-07-31T09:30:00.000Z",
-          "wordCount": 4780,
-          "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png"
         }
       ]
     },
@@ -345,6 +330,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
+          "author": "Timothy Olanrewaju",
+          "description": "Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...",
+          "link": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
+          "publishedOn": "2024-08-29T12:41:07.000Z",
+          "wordCount": 2323,
+          "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724861983210/118e84bc-0153-4b01-b880-e12fe012b7a5.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...",
+          "link": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
+          "publishedOn": "2024-08-28T18:28:12.000Z",
+          "wordCount": 1134,
+          "title": "Build a Shopping Cart Backend with Spring Boot and Spring Security",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724869670804/390e87e2-487d-410f-84f9-20f636b72439.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/",
           "author": "David Clinton",
@@ -424,26 +429,6 @@
           "wordCount": 4831,
           "title": "How to Create Interactive HTML Prototypes – How Far Can You Go Without JavaScript?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724485095228/2bc8f1c3-d0b8-41a2-a741-f9eaa2b6dde0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/",
-          "author": "Anshul Sanghi",
-          "description": "For anyone looking to learn about image processing as a programming niche, blending images is a very good place to start. It's one of the simplest yet most rewarding techniques when it comes to image processing. To help your intuition, it's best to i...",
-          "link": "https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/",
-          "publishedOn": "2024-08-27T10:25:56.000Z",
-          "wordCount": 3385,
-          "title": "How to Blend Images in Rust Using Pixel Math",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724689572465/f03e4b74-1091-4673-af5b-c8827e74caf0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
-          "author": "Victoria Drake",
-          "description": "In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...",
-          "link": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
-          "publishedOn": "2024-08-23T23:01:03.000Z",
-          "wordCount": 3405,
-          "title": "How to Future-Proof Your Software Engineering Career for the Age of AGI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724267267326/85a8c7ec-bc36-4d93-9ba1-b5410859d2a4.jpeg"
         }
       ]
     }
