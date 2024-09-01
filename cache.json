@@ -32,7 +32,7 @@
           "description": "I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:\n<pI am a paragraph.</p<spanI am also a paragraph.</span<div\n…\nParagraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/paragraphs/",
           "publishedOn": "2024-08-30T14:23:52.000Z",
-          "wordCount": 1525,
+          "wordCount": 1540,
           "title": "Paragraphs",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380206"
         },
@@ -42,7 +42,7 @@
           "description": "Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:\nThis won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some \n…\nShipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/shipping-tumblr-and-wordpress/",
           "publishedOn": "2024-08-29T15:05:58.000Z",
-          "wordCount": 1627,
+          "wordCount": 1645,
           "title": "Shipping Tumblr and WordPress",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
         },
@@ -179,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
+          "publishedOn": "2024-08-31T08:00:00.000Z",
+          "wordCount": 5334,
+          "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
           "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
           "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5629,
+          "wordCount": 5640,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
@@ -199,7 +214,7 @@
           "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
           "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
           "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3866,
+          "wordCount": 3848,
           "title": "Generating Unique Random Numbers In JavaScript Using Sets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
@@ -214,7 +229,7 @@
           "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
           "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
           "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6655,
+          "wordCount": 6661,
           "title": "Mastering Typography In Logo Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
@@ -229,7 +244,7 @@
           "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
           "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
           "publishedOn": "2024-08-20T15:00:00.000Z",
-          "wordCount": 5707,
+          "wordCount": 5819,
           "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
@@ -244,7 +259,7 @@
           "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
           "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
           "publishedOn": "2024-08-16T13:00:00.000Z",
-          "wordCount": 4686,
+          "wordCount": 4695,
           "title": "Pricing Projects As A Freelancer Or Agency Owner",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
@@ -274,7 +289,7 @@
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "publishedOn": "2024-08-09T11:00:00.000Z",
-          "wordCount": 6159,
+          "wordCount": 6166,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -304,7 +319,7 @@
           "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
           "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
           "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 5084,
+          "wordCount": 5083,
           "title": "It’s Time To Talk About “CSS5”",
           "enclosure": {
             "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
@@ -312,36 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
-          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
-          "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.",
-          "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
-          "publishedOn": "2024-08-02T11:00:00.000Z",
-          "wordCount": 6499,
-          "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
-          "author": "hello@smashingmagazine.com (Tim Benniks)",
-          "description": "Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.",
-          "link": "https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
-          "publishedOn": "2024-08-01T15:00:00.000Z",
-          "wordCount": 5732,
-          "title": "How To Build A Multilingual Website With Nuxt.js",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-build-multilingual-website-nuxtjs/how-build-multilingual-website-nuxt.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-build-multilingual-website-nuxtjs/how-build-multilingual-website-nuxt.jpg"
         }
       ]
     },
