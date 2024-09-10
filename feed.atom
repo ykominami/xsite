@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-09T00:13:20.093Z</id>
+    <id>urn:2024-09-10T00:12:10.736Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T00:13:20.093Z</updated>
+    <updated>2024-09-10T00:12:10.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How the Comma Ok Idiom and Package System Work in Go]]></title>
+        <id>https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/"/>
+        <updated>2024-09-09T15:54:41.000Z</updated>
+        <summary type="html"><![CDATA[The "comma ok" idiom and the package system are two fundamental concepts in Go. They help enhance the readability of your code, and reflect Go's philosophy of simplicity and explicitness. In this article, you'll learn about both the comma ok idiom an...]]></summary>
+        <author>
+            <name>Temitope Oyedele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
+        <id>https://css-tricks.com/?p=380334</id>
+        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
+        <updated>2024-09-09T15:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
+Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://css-tricks.com/?p=380517</id>
+        <link href="https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/"/>
+        <updated>2024-09-09T14:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …
+Sticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #17]]></title>
+        <id>https://css-tricks.com/?p=380584</id>
+        <link href="https://css-tricks.com/quick-hit-17/"/>
+        <updated>2024-09-09T13:53:42.000Z</updated>
+        <summary type="html"><![CDATA[“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…
+Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use HTML Attributes to Make Your Websites and Apps More Accessible]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/</id>
@@ -135,16 +178,6 @@ Quick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/"/>
-        <updated>2024-09-04T16:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...]]></summary>
-        <author>
-            <name>Oluwatobi</name>
         </author>
     </entry>
     <entry>
@@ -315,43 +348,6 @@ Quick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #12]]></title>
-        <id>https://css-tricks.com/?p=380064</id>
-        <link href="https://css-tricks.com/quick-hit-12/"/>
-        <updated>2024-08-23T15:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Giant kudos to Scott Jehl on releasing his new Web Components De-Mystified online course! Eight full hours of training from one of the best in the business.…
-Quick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic keyboard shortcut support for focused links]]></title>
-        <id>https://css-tricks.com/?p=380042</id>
-        <link href="https://css-tricks.com/basic-keyboard-shortcut-support-for-focused-links/"/>
-        <updated>2024-08-23T13:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Eric gifting us with his research on all the various things that anchors (not links) do when they are in :focus.
-Turns out, there’s a lot!
-That’s an understatement! This is an incredible amount of work, even …
-Basic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callbacks on Web Components?]]></title>
-        <id>https://css-tricks.com/?p=380029</id>
-        <link href="https://css-tricks.com/callbacks-on-web-components/"/>
-        <updated>2024-08-22T14:01:35.000Z</updated>
-        <summary type="html"><![CDATA[A gem from Chris Ferdinandi that details how to use custom events to hook into Web Components. More importantly, Chris dutifully explains why custom events are a better fit than, say, callback functions.
-With a typical JavaScript library, you pass 
-…
-Callbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
