@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380325",
+          "author": "Fatuma Abdullaho",
+          "description": "HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …\nTwo Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/",
+          "publishedOn": "2024-09-11T14:42:20.000Z",
+          "wordCount": 2441,
+          "title": "Two Ways to Create Custom Translated Messaging for HTML Forms",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380325"
+        },
+        {
           "id": "https://css-tricks.com/?p=380660",
           "author": "Geoff Graham",
           "description": "PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…\nQuick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …\nAnchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/anchor-positioning-quirks/",
           "publishedOn": "2024-09-10T18:33:01.000Z",
-          "wordCount": 2921,
+          "wordCount": 2916,
           "title": "Anchor Positioning Quirks",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380521"
         },
@@ -47,7 +57,7 @@
           "description": "Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…\nTime Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/time-travelling-css-with-target/",
           "publishedOn": "2024-09-09T15:16:51.000Z",
-          "wordCount": 2732,
+          "wordCount": 2816,
           "title": "Time Travelling CSS With :target",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380334"
         },
@@ -155,16 +165,6 @@
           "wordCount": 3761,
           "title": "The “Other” C in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380061"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380178",
-          "author": "Geoff Graham",
-          "description": "I created a little library at work to make those “skeleton screens” that I’m not sure anyone likes. […] We named it skellyCSS because… skeletons and CSS, I guess. We still aren’t even really using it very much, but it \n…\nIntroducing <skelly-wc> originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/introducing-shelly-wc/",
-          "publishedOn": "2024-08-28T14:05:00.000Z",
-          "wordCount": 1429,
-          "title": "Introducing <skelly-wc>",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380178"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.",
           "link": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
           "publishedOn": "2024-09-10T10:00:00.000Z",
-          "wordCount": 6420,
+          "wordCount": 6309,
           "title": "Why Anticipatory Design Isn’t Working For Businesses",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg",
@@ -194,7 +194,7 @@
           "description": "Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.",
           "link": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
           "publishedOn": "2024-09-06T17:00:00.000Z",
-          "wordCount": 4891,
+          "wordCount": 4895,
           "title": "How To Create A Weekly Google Analytics Report That Posts To Slack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg",
@@ -209,7 +209,7 @@
           "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
           "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
           "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4329,
+          "wordCount": 4327,
           "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
@@ -224,7 +224,7 @@
           "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
           "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
           "publishedOn": "2024-09-03T09:00:00.000Z",
-          "wordCount": 4097,
+          "wordCount": 4106,
           "title": "The Big Difference Between Digital Product And Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
@@ -239,7 +239,7 @@
           "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
           "publishedOn": "2024-08-31T08:00:00.000Z",
-          "wordCount": 5343,
+          "wordCount": 5347,
           "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
           "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
           "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5741,
+          "wordCount": 5744,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
@@ -284,7 +284,7 @@
           "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
           "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
           "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6658,
+          "wordCount": 6657,
           "title": "Mastering Typography In Logo Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
@@ -299,7 +299,7 @@
           "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
           "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
           "publishedOn": "2024-08-20T15:00:00.000Z",
-          "wordCount": 5828,
+          "wordCount": 5725,
           "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
@@ -314,7 +314,7 @@
           "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
           "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
           "publishedOn": "2024-08-16T13:00:00.000Z",
-          "wordCount": 4690,
+          "wordCount": 4687,
           "title": "Pricing Projects As A Freelancer Or Agency Owner",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
@@ -345,6 +345,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...",
+          "link": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
+          "publishedOn": "2024-09-11T20:08:18.000Z",
+          "wordCount": 1215,
+          "title": "Learn Music Production for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726085276839/735597b4-50a4-4792-be6a-7bca34a732f9.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
+          "author": "Joan Ayebola",
+          "description": "Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
+          "publishedOn": "2024-09-11T17:25:59.000Z",
+          "wordCount": 5439,
+          "title": "How to Build an Expense Tracker with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726055511234/dcaa759f-58f9-477d-92da-c8b98b71d310.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
+          "author": "Matthes B.",
+          "description": "🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...",
+          "link": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
+          "publishedOn": "2024-09-11T17:23:24.000Z",
+          "wordCount": 4279,
+          "title": "API Testing with Postman: A Step-by-Step Guide Using the Spotify API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uv5_bsypFUM/upload/ef5e3375e4ea08db6b5addd47afbc82f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
+          "author": "Asfak Ahmed",
+          "description": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
+          "link": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
+          "publishedOn": "2024-09-11T17:21:14.000Z",
+          "wordCount": 1949,
+          "title": "How Event Handling Works in Vue 3: A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725980520061/87728aa1-f3c5-451d-9f11-5163f527d029.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
           "author": "Beau Carnes",
@@ -404,46 +444,6 @@
           "wordCount": 2136,
           "title": "How Statically and Dynamically Linked Go Binaries Work",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725977444176/20f3bebf-e250-45c3-926e-146d50e4db93.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/",
-          "author": "Anujkumarsinh Donvir",
-          "description": "Angular is a famous framework for building robust and complex enterprise applications. It is widely used by large companies. Therefore, having the skills to build a performant application using Angular is one of the top skills for a developer.. Angul...",
-          "link": "https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/",
-          "publishedOn": "2024-09-10T11:49:37.000Z",
-          "wordCount": 2932,
-          "title": "How to Transform an Angular Application with Signals",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725482117668/26d8fde9-0ff5-4496-9de2-c9e0deb8a02c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/",
-          "author": "Akande Olalekan Toheeb",
-          "description": "You may have seen the shiny technologies like React, Vue, and Angular that promise to revolutionize your front-end development. It's tempting to dive headfirst into these frameworks, eager to build stunning user interfaces. But hold on! Before you em...",
-          "link": "https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/",
-          "publishedOn": "2024-09-10T02:27:06.000Z",
-          "wordCount": 3943,
-          "title": "Essential JavaScript Concepts to Know Before Learning React – With Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723690396380/c9b8a333-4cbe-42c4-bfab-da39f34d3fd4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/",
-          "author": "Temitope Oyedele",
-          "description": "The \"comma ok\" idiom and the package system are two fundamental concepts in Go. They help enhance the readability of your code, and reflect Go's philosophy of simplicity and explicitness. In this article, you'll learn about both the comma ok idiom an...",
-          "link": "https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/",
-          "publishedOn": "2024-09-09T15:54:41.000Z",
-          "wordCount": 2207,
-          "title": "How the Comma Ok Idiom and Package System Work in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725897093899/c5eaedaf-7695-4eb8-b0a8-f3d6efffc2a8.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/",
-          "author": "Elizabeth Lola",
-          "description": "Have you ever used an attribute in HTML without fully understanding its purpose? You're not alone! Over time, I've dug into the meaning behind many HTML attributes, especially those that are crucial for accessibility. In this in-depth tutorial, I'll ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/",
-          "publishedOn": "2024-09-06T20:04:11.000Z",
-          "wordCount": 6566,
-          "title": "How to Use HTML Attributes to Make Your Websites and Apps More Accessible",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725281991044/7edb0d70-c31e-4a41-bc24-232c75d0fae3.jpeg"
         }
       ]
     }

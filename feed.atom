@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-11T00:12:05.052Z</id>
+    <id>urn:2024-09-12T00:12:32.933Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T00:12:05.052Z</updated>
+    <updated>2024-09-12T00:12:32.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Music Production for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-music-production-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-music-production-for-beginners/"/>
+        <updated>2024-09-11T20:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Expense Tracker with HTML, CSS, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/"/>
+        <updated>2024-09-11T17:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Testing with Postman: A Step-by-Step Guide Using the Spotify API]]></title>
+        <id>https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/</id>
+        <link href="https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/"/>
+        <updated>2024-09-11T17:23:24.000Z</updated>
+        <summary type="html"><![CDATA[🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...]]></summary>
+        <author>
+            <name>Matthes B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Event Handling Works in Vue 3: A Guide for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/</id>
+        <link href="https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/"/>
+        <updated>2024-09-11T17:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Ways to Create Custom Translated Messaging for HTML Forms]]></title>
+        <id>https://css-tricks.com/?p=380325</id>
+        <link href="https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/"/>
+        <updated>2024-09-11T14:42:20.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …
+Two Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Fatuma Abdullaho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pass the Azure AI Engineer Associate Certification (AI-102)]]></title>
         <id>https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/</id>
@@ -100,16 +151,6 @@ Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Transform an Angular Application with Signals]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/"/>
-        <updated>2024-09-10T11:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a famous framework for building robust and complex enterprise applications. It is widely used by large companies. Therefore, having the skills to build a performant application using Angular is one of the top skills for a developer.. Angul...]]></summary>
-        <author>
-            <name>Anujkumarsinh Donvir</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Anticipatory Design Isn’t Working For Businesses]]></title>
         <id>https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/</id>
         <link href="https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/"/>
@@ -117,26 +158,6 @@ Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean
         <summary type="html"><![CDATA[Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joana Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential JavaScript Concepts to Know Before Learning React – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/</id>
-        <link href="https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/"/>
-        <updated>2024-09-10T02:27:06.000Z</updated>
-        <summary type="html"><![CDATA[You may have seen the shiny technologies like React, Vue, and Angular that promise to revolutionize your front-end development. It's tempting to dive headfirst into these frameworks, eager to build stunning user interfaces. But hold on! Before you em...]]></summary>
-        <author>
-            <name>Akande Olalekan Toheeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Comma Ok Idiom and Package System Work in Go]]></title>
-        <id>https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/"/>
-        <updated>2024-09-09T15:54:41.000Z</updated>
-        <summary type="html"><![CDATA[The "comma ok" idiom and the package system are two fundamental concepts in Go. They help enhance the readability of your code, and reflect Go's philosophy of simplicity and explicitness. In this article, you'll learn about both the comma ok idiom an...]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
         </author>
     </entry>
     <entry>
@@ -170,16 +191,6 @@ Sticky Headers And Full-Height Elements: A Tricky Combination originally publish
 Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use HTML Attributes to Make Your Websites and Apps More Accessible]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/"/>
-        <updated>2024-09-06T20:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever used an attribute in HTML without fully understanding its purpose? You're not alone! Over time, I've dug into the meaning behind many HTML attributes, especially those that are crucial for accessibility. In this in-depth tutorial, I'll ...]]></summary>
-        <author>
-            <name>Elizabeth Lola</name>
         </author>
     </entry>
     <entry>
@@ -332,18 +343,6 @@ Shipping Tumblr and WordPress originally published on CSS-Tricks, which is part
         <updated>2024-08-28T14:09:42.000Z</updated>
         <summary type="html"><![CDATA[I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …
 The “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing <skelly-wc>]]></title>
-        <id>https://css-tricks.com/?p=380178</id>
-        <link href="https://css-tricks.com/introducing-shelly-wc/"/>
-        <updated>2024-08-28T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[I created a little library at work to make those “skeleton screens” that I’m not sure anyone likes. […] We named it skellyCSS because… skeletons and CSS, I guess. We still aren’t even really using it very much, but it 
-…
-Introducing <skelly-wc> originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
