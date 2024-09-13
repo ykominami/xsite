@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380692",
+          "author": "Geoff Graham",
+          "description": "I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …\nWhat’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-old-is-new-2/",
+          "publishedOn": "2024-09-12T14:05:12.000Z",
+          "wordCount": 3003,
+          "title": "What’s Old is New",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380692"
+        },
+        {
           "id": "https://css-tricks.com/?p=380325",
           "author": "Fatuma Abdullaho",
           "description": "HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …\nTwo Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -57,7 +67,7 @@
           "description": "Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…\nTime Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/time-travelling-css-with-target/",
           "publishedOn": "2024-09-09T15:16:51.000Z",
-          "wordCount": 2816,
+          "wordCount": 2852,
           "title": "Time Travelling CSS With :target",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380334"
         },
@@ -155,16 +165,6 @@
           "wordCount": 1613,
           "title": "Shipping Tumblr and WordPress",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380061",
-          "author": "Geoff Graham",
-          "description": "I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …\nThe “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-other-c-in-css/",
-          "publishedOn": "2024-08-28T14:09:42.000Z",
-          "wordCount": 3761,
-          "title": "The “Other” C in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380061"
         }
       ]
     },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.",
+          "link": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
+          "publishedOn": "2024-09-12T11:00:00.000Z",
+          "wordCount": 5778,
+          "title": "How To Build Custom Data Visualizations Using Luzmo Flex",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
           "author": "hello@smashingmagazine.com (Joana Cerejo)",
           "description": "Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.",
           "link": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
           "publishedOn": "2024-09-10T10:00:00.000Z",
-          "wordCount": 6309,
+          "wordCount": 6420,
           "title": "Why Anticipatory Design Isn’t Working For Businesses",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg",
@@ -194,7 +209,7 @@
           "description": "Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.",
           "link": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
           "publishedOn": "2024-09-06T17:00:00.000Z",
-          "wordCount": 4895,
+          "wordCount": 4883,
           "title": "How To Create A Weekly Google Analytics Report That Posts To Slack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg",
@@ -209,7 +224,7 @@
           "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
           "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
           "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4327,
+          "wordCount": 4328,
           "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
@@ -224,7 +239,7 @@
           "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
           "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
           "publishedOn": "2024-09-03T09:00:00.000Z",
-          "wordCount": 4106,
+          "wordCount": 4111,
           "title": "The Big Difference Between Digital Product And Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
@@ -239,7 +254,7 @@
           "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
           "publishedOn": "2024-08-31T08:00:00.000Z",
-          "wordCount": 5347,
+          "wordCount": 5336,
           "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -254,7 +269,7 @@
           "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
           "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
           "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5744,
+          "wordCount": 5638,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
@@ -269,7 +284,7 @@
           "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
           "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
           "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3861,
+          "wordCount": 3859,
           "title": "Generating Unique Random Numbers In JavaScript Using Sets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
@@ -284,7 +299,7 @@
           "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
           "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
           "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6657,
+          "wordCount": 6669,
           "title": "Mastering Typography In Logo Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
@@ -299,7 +314,7 @@
           "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
           "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
           "publishedOn": "2024-08-20T15:00:00.000Z",
-          "wordCount": 5725,
+          "wordCount": 5716,
           "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
@@ -314,7 +329,7 @@
           "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
           "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
           "publishedOn": "2024-08-16T13:00:00.000Z",
-          "wordCount": 4687,
+          "wordCount": 4690,
           "title": "Pricing Projects As A Freelancer Or Agency Owner",
           "enclosure": {
             "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
@@ -345,6 +360,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
+          "author": "Oluwadamisi Samuel",
+          "description": "Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
+          "publishedOn": "2024-09-12T12:57:36.000Z",
+          "wordCount": 6380,
+          "title": "How to Use Chart js for Interactive Data Visualization",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725821135508/79767987-8760-4626-a924-212e402b051f.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
           "author": "Beau Carnes",
@@ -381,7 +406,7 @@
           "description": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
           "link": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
           "publishedOn": "2024-09-11T17:21:14.000Z",
-          "wordCount": 1949,
+          "wordCount": 1924,
           "title": "How Event Handling Works in Vue 3: A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725980520061/87728aa1-f3c5-451d-9f11-5163f527d029.png"
         },
@@ -434,16 +459,6 @@
           "wordCount": 2902,
           "title": "How to Implement API Rate Limiting in Strapi CMS",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725233479497/7c12e6e4-a6d7-433a-b23b-f25c33037ffa.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/",
-          "author": "Alex Pliutau",
-          "description": "One of the biggest strengths of Go is its compiler. It abstracts many things for you and lets you compile your program easily for almost any platform and architecture. And though it seems easy, there are some nuances to it and multiple ways of compil...",
-          "link": "https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/",
-          "publishedOn": "2024-09-10T14:14:23.000Z",
-          "wordCount": 2136,
-          "title": "How Statically and Dynamically Linked Go Binaries Work",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725977444176/20f3bebf-e250-45c3-926e-146d50e4db93.png"
         }
       ]
     }
