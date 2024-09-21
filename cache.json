@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380952",
+          "author": "Geoff Graham",
+          "description": "Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…\nQuick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-21/",
+          "publishedOn": "2024-09-20T16:15:26.000Z",
+          "wordCount": 1293,
+          "title": "Quick Hit #21",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380952"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381098",
+          "author": "Juan Diego Rodríguez",
+          "description": "For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …\nCSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-09-18/",
+          "publishedOn": "2024-09-20T15:15:33.000Z",
+          "wordCount": 3073,
+          "title": "CSSWG Minutes Telecon (2024-09-18)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381098"
+        },
+        {
           "id": "https://css-tricks.com/?p=381079",
           "author": "Geoff Graham",
           "description": "Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…\nQuick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +57,7 @@
           "description": "Getting right to it: the CSS-Tricks Almanac got a big refresh this week!\nI’m guessing you’re already familiar with this giant ol’ section of CSS-Tricks called the Almanac. This is where we publish references for CSS selectors and properties…\nRe-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/re-working-the-css-almanac/",
           "publishedOn": "2024-09-19T14:19:24.000Z",
-          "wordCount": 3406,
+          "wordCount": 3498,
           "title": "Re-Working the CSS Almanac",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380959"
         },
@@ -145,26 +165,6 @@
           "wordCount": 2852,
           "title": "Time Travelling CSS With :target",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380334"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380517",
-          "author": "Geoff Graham",
-          "description": "Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …\nSticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/",
-          "publishedOn": "2024-09-09T14:09:12.000Z",
-          "wordCount": 1450,
-          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380517"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380584",
-          "author": "Juan Diego Rodríguez",
-          "description": "“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…\nQuick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-17/",
-          "publishedOn": "2024-09-09T13:53:42.000Z",
-          "wordCount": 1307,
-          "title": "Quick Hit #17",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380584"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
           "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8584,
+          "wordCount": 8586,
           "title": "Embracing Introversion In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
@@ -194,7 +194,7 @@
           "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
           "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
           "publishedOn": "2024-09-18T09:00:00.000Z",
-          "wordCount": 7076,
+          "wordCount": 7080,
           "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
@@ -254,7 +254,7 @@
           "description": "Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.",
           "link": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
           "publishedOn": "2024-09-06T17:00:00.000Z",
-          "wordCount": 4886,
+          "wordCount": 4892,
           "title": "How To Create A Weekly Google Analytics Report That Posts To Slack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg",
@@ -269,7 +269,7 @@
           "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
           "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
           "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4336,
+          "wordCount": 4328,
           "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
@@ -284,7 +284,7 @@
           "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
           "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
           "publishedOn": "2024-09-03T09:00:00.000Z",
-          "wordCount": 4105,
+          "wordCount": 4102,
           "title": "The Big Difference Between Digital Product And Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
@@ -299,7 +299,7 @@
           "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
           "publishedOn": "2024-08-31T08:00:00.000Z",
-          "wordCount": 5347,
+          "wordCount": 5339,
           "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -314,7 +314,7 @@
           "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
           "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
           "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5629,
+          "wordCount": 5634,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
@@ -329,7 +329,7 @@
           "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
           "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
           "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3859,
+          "wordCount": 3860,
           "title": "Generating Unique Random Numbers In JavaScript Using Sets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
@@ -337,21 +337,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
-          "author": "hello@smashingmagazine.com (Levi Honing)",
-          "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
-          "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6663,
-          "title": "Mastering Typography In Logo Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg"
         }
       ]
     },
@@ -360,6 +345,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Megan Risdal. She's a data scientist and Product Manager at Kaggle, Google's Data Science competition platform. Megan works closely with the global data science community, and on Google's Gemma open ...",
+          "link": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
+          "publishedOn": "2024-09-20T12:10:45.000Z",
+          "wordCount": 969,
+          "title": "From PhD drop-out to Google Data Scientist with Megan Risdal [Podcast #142]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726834180511/4191b50c-6784-4fe1-98af-0ca74a63ff7b.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
           "author": "Beau Carnes",
@@ -449,16 +444,6 @@
           "wordCount": 903,
           "title": "Lessons from freelancing for dozens of startups with Eddie Jaoude [Podcast #141]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726252226726/21c2eca2-f209-429a-977a-03f92144d2d0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-be-a-productive-developer/",
-          "author": "Beau Carnes",
-          "description": "If you are having trouble accomplishing as much as you want to accomplish, we have a course for you. We just published a course on the freeCodeCamp.org YouTube channel that is designed to equip software developers with essential soft skills for boost...",
-          "link": "https://www.freecodecamp.org/news/how-to-be-a-productive-developer/",
-          "publishedOn": "2024-09-13T13:13:01.000Z",
-          "wordCount": 1100,
-          "title": "How to Be a Productive Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726233167534/1e4979fc-9cef-482f-b6b8-6721b290ede1.png"
         }
       ]
     }
