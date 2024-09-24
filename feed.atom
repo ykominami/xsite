@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-23T00:13:21.453Z</id>
+    <id>urn:2024-09-24T00:13:05.604Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T00:13:21.453Z</updated>
+    <updated>2024-09-24T00:13:05.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time]]></title>
+        <id>https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/</id>
+        <link href="https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/"/>
+        <updated>2024-09-23T15:48:11.000Z</updated>
+        <summary type="html"><![CDATA[We've all encountered the frustration of waiting through long loading screens, only to find ourselves stuck with unresponsive pages. You see loading spinners everywhere, but nothing seems to move forward. Let me paint a clearer picture for you: This...]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The selectmenu Element is No More…Long Live select!]]></title>
+        <id>https://css-tricks.com/?p=381134</id>
+        <link href="https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/"/>
+        <updated>2024-09-23T15:43:05.000Z</updated>
+        <summary type="html"><![CDATA[I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…
+The selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Benchmark Tests for Your Golang Functions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/"/>
+        <updated>2024-09-23T14:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello Gophers 👋 Let me start by asking you a question: How would you test the performance of a piece of code or a function in Go? Well, you could use benchmark tests. In this tutorial, I will show you how to use an awesome benchmarking tool that’s b...]]></summary>
+        <author>
+            <name>Pedro Bertao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Chatbot with Spring AI, React, and Docker]]></title>
+        <id>https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/</id>
+        <link href="https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/"/>
+        <updated>2024-09-23T14:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...]]></summary>
+        <author>
+            <name>Vikas Rajput</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Memory Map of Your System using BIOS Interrupts]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/"/>
+        <updated>2024-09-23T14:14:25.000Z</updated>
+        <summary type="html"><![CDATA[When you are developing a kernel, one of the most important things is memory. The kernel must know how much memory is available and where it's located to avoid overwriting crucial system resources. But not all memory is freely available for use. Some...]]></summary>
+        <author>
+            <name>Nikolaos Panagopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ECS Monitoring? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/"/>
+        <updated>2024-09-23T11:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (ECS) is a container orchestration service provided by Amazon Web Services (AWS). It is a solution developed by AWS to take care of the problem of managing large clusters of containers. Why Use ECS? There are other co...]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Timeless Power Of Spreadsheets]]></title>
+        <id>https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/</id>
+        <link href="https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/"/>
+        <updated>2024-09-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Create a Progressive Web App (PWA) Using Next.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/</id>
@@ -123,16 +194,6 @@ Re-Working the CSS Almanac originally published on CSS-Tricks, which is part of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use the FARM Stack to Develop Full Stack Apps]]></title>
-        <id>https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/</id>
-        <link href="https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/"/>
-        <updated>2024-09-18T13:55:42.000Z</updated>
-        <summary type="html"><![CDATA[The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SVG Coding Examples: Useful Recipes For Writing Vectors By Hand]]></title>
         <id>https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/</id>
         <link href="https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/"/>
@@ -164,36 +225,6 @@ Clever Polypane Debugging Features I’m Loving originally published on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Handle Side Effects in Jest – A Guide to Effective Mocking]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/"/>
-        <updated>2024-09-16T21:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Unit testing is a major topic for every developer. It is a fundamental practice in building software applications. Unit testing helps you to identify bugs early and makes code maintenance easier. By isolating and testing single units or components of...]]></summary>
-        <author>
-            <name>ِAya Nabil Othman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up ESLint, Prettier, StyleLint, and lint-staged in Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs/"/>
-        <updated>2024-09-16T19:43:05.000Z</updated>
-        <summary type="html"><![CDATA[A linter is a tool that scans code for potential issues. This is invaluable with a programming language like JavaScript which is so loosely typed. Even for TypeScript, which is a strongly typed language whose compiler does a great job of detecting er...]]></summary>
-        <author>
-            <name>Naveed Ausaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Timer – How to Set a Timer Function in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-timer-how-to-set-a-timer-function-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-timer-how-to-set-a-timer-function-in-js/"/>
-        <updated>2024-09-16T18:59:45.000Z</updated>
-        <summary type="html"><![CDATA[In Javascript, the timer function prevents your code from running everything at once when an event triggers or the page loads. This gives you more control over the timing of your program's actions and can enhance the user experience by creating smoot...]]></summary>
-        <author>
-            <name>Tantoluwa Heritage Alabi NB</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Multiple Anchors]]></title>
         <id>https://css-tricks.com/?p=380763</id>
         <link href="https://css-tricks.com/multiple-anchors/"/>
@@ -216,16 +247,6 @@ That’s because I had a chance to sit …
 Smashing Hour With Lynn Fisher originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection]]></title>
-        <id>https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/</id>
-        <link href="https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/"/>
-        <updated>2024-09-16T16:19:02.000Z</updated>
-        <summary type="html"><![CDATA[When you interact with web pages, a common task you’ll perform often is selecting text. Whether it's highlighting a section of a paragraph to copy, marking important parts of a document, or working with interactive features like note-taking or text e...]]></summary>
-        <author>
-            <name>Asfak Ahmed</name>
         </author>
     </entry>
     <entry>
@@ -313,17 +334,6 @@ Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean
         <summary type="html"><![CDATA[Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joana Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
-        <id>https://css-tricks.com/?p=380334</id>
-        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
-        <updated>2024-09-09T15:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
-Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>

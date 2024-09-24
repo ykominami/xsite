@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381134",
+          "author": "Geoff Graham",
+          "description": "I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…\nThe selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/",
+          "publishedOn": "2024-09-23T15:43:05.000Z",
+          "wordCount": 1622,
+          "title": "The selectmenu Element is No More…Long Live select!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381134"
+        },
+        {
           "id": "https://css-tricks.com/?p=380952",
           "author": "Geoff Graham",
           "description": "Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…\nQuick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -102,7 +112,7 @@
           "description": "The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text …\nTwo CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/",
           "publishedOn": "2024-09-13T14:11:32.000Z",
-          "wordCount": 2780,
+          "wordCount": 2824,
           "title": "Two CSS Properties for Trimming Text Box Whitespace",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380589"
         },
@@ -155,16 +165,6 @@
           "wordCount": 1540,
           "title": "Sanding UI",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380662"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380334",
-          "author": "Lee Meyer",
-          "description": "Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…\nTime Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/time-travelling-css-with-target/",
-          "publishedOn": "2024-09-09T15:16:51.000Z",
-          "wordCount": 2852,
-          "title": "Time Travelling CSS With :target",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380334"
         }
       ]
     },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
+          "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
+          "publishedOn": "2024-09-23T09:00:00.000Z",
+          "wordCount": 3923,
+          "title": "The Timeless Power Of Spreadsheets",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
           "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8580,
+          "wordCount": 8588,
           "title": "Embracing Introversion In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
@@ -194,7 +209,7 @@
           "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
           "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
           "publishedOn": "2024-09-18T09:00:00.000Z",
-          "wordCount": 7078,
+          "wordCount": 7074,
           "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
@@ -239,7 +254,7 @@
           "description": "Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.",
           "link": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
           "publishedOn": "2024-09-10T10:00:00.000Z",
-          "wordCount": 6311,
+          "wordCount": 6415,
           "title": "Why Anticipatory Design Isn’t Working For Businesses",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg",
@@ -269,7 +284,7 @@
           "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
           "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
           "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4336,
+          "wordCount": 4330,
           "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
@@ -284,7 +299,7 @@
           "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
           "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
           "publishedOn": "2024-09-03T09:00:00.000Z",
-          "wordCount": 4094,
+          "wordCount": 4104,
           "title": "The Big Difference Between Digital Product And Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
@@ -299,7 +314,7 @@
           "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
           "publishedOn": "2024-08-31T08:00:00.000Z",
-          "wordCount": 5336,
+          "wordCount": 5344,
           "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -314,7 +329,7 @@
           "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
           "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
           "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5747,
+          "wordCount": 5647,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
@@ -329,7 +344,7 @@
           "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
           "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
           "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3968,
+          "wordCount": 3854,
           "title": "Generating Unique Random Numbers In JavaScript Using Sets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
@@ -345,6 +360,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/",
+          "author": "Keyur Paralkar",
+          "description": "We've all encountered the frustration of waiting through long loading screens, only to find ourselves stuck with unresponsive pages. You see loading spinners everywhere, but nothing seems to move forward. Let me paint a clearer picture for you: This...",
+          "link": "https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/",
+          "publishedOn": "2024-09-23T15:48:11.000Z",
+          "wordCount": 3095,
+          "title": "How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-Vqn2WrfxTQ/upload/0657c02758973f4ea5701f2bd98469a7.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/",
+          "author": "Pedro Bertao",
+          "description": "Hello Gophers 👋 Let me start by asking you a question: How would you test the performance of a piece of code or a function in Go? Well, you could use benchmark tests. In this tutorial, I will show you how to use an awesome benchmarking tool that’s b...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/",
+          "publishedOn": "2024-09-23T14:37:10.000Z",
+          "wordCount": 2254,
+          "title": "How to Write Benchmark Tests for Your Golang Functions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726668982641/58540086-9f98-4ac9-8c8a-84ef45e27875.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/",
+          "author": "Vikas Rajput",
+          "description": "Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...",
+          "link": "https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/",
+          "publishedOn": "2024-09-23T14:27:25.000Z",
+          "wordCount": 3163,
+          "title": "How to Build an AI Chatbot with Spring AI, React, and Docker",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6UDansS-rPI/upload/d57a180a4cda63056c786838a71c6679.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/",
+          "author": "Nikolaos Panagopoulos",
+          "description": "When you are developing a kernel, one of the most important things is memory. The kernel must know how much memory is available and where it's located to avoid overwriting crucial system resources. But not all memory is freely available for use. Some...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/",
+          "publishedOn": "2024-09-23T14:14:25.000Z",
+          "wordCount": 2695,
+          "title": "How to Get a Memory Map of Your System using BIOS Interrupts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/iar-afB0QQw/upload/7b7f724f7260216b7427408112d5f8c4.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/",
+          "author": "Chidiadi Anyanwu",
+          "description": "Amazon Elastic Container Service (ECS) is a container orchestration service provided by Amazon Web Services (AWS). It is a solution developed by AWS to take care of the problem of managing large clusters of containers. Why Use ECS? There are other co...",
+          "link": "https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/",
+          "publishedOn": "2024-09-23T11:09:30.000Z",
+          "wordCount": 1564,
+          "title": "What is ECS Monitoring? Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727103254033/39d8dac3-4e18-46dc-8ad6-129386a165b3.avif"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
           "author": "Spruce Emmanuel",
@@ -394,56 +459,6 @@
           "wordCount": 2536,
           "title": "How to Use CSS to Improve Web Accessibility",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726577970240/02631676-6492-4b83-a057-b9c2048709ee.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/",
-          "author": "Beau Carnes",
-          "description": "The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...",
-          "link": "https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/",
-          "publishedOn": "2024-09-18T13:55:42.000Z",
-          "wordCount": 3773,
-          "title": "Use the FARM Stack to Develop Full Stack Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726760870442/726967ee-7f01-432d-a73e-9f73f037f942.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/",
-          "author": "ِAya Nabil Othman",
-          "description": "Unit testing is a major topic for every developer. It is a fundamental practice in building software applications. Unit testing helps you to identify bugs early and makes code maintenance easier. By isolating and testing single units or components of...",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/",
-          "publishedOn": "2024-09-16T21:03:08.000Z",
-          "wordCount": 3217,
-          "title": "How to Handle Side Effects in Jest – A Guide to Effective Mocking",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726038899380/6210fc66-17fb-4db9-9f91-1e7d38dc256c.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs/",
-          "author": "Naveed Ausaf",
-          "description": "A linter is a tool that scans code for potential issues. This is invaluable with a programming language like JavaScript which is so loosely typed. Even for TypeScript, which is a strongly typed language whose compiler does a great job of detecting er...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs/",
-          "publishedOn": "2024-09-16T19:43:05.000Z",
-          "wordCount": 5988,
-          "title": "How to Set Up ESLint, Prettier, StyleLint, and lint-staged in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726515328917/f3ecbc80-6d06-45ee-b307-89ed1a7bc854.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-timer-how-to-set-a-timer-function-in-js/",
-          "author": "Tantoluwa Heritage Alabi NB",
-          "description": "In Javascript, the timer function prevents your code from running everything at once when an event triggers or the page loads. This gives you more control over the timing of your program's actions and can enhance the user experience by creating smoot...",
-          "link": "https://www.freecodecamp.org/news/javascript-timer-how-to-set-a-timer-function-in-js/",
-          "publishedOn": "2024-09-16T18:59:45.000Z",
-          "wordCount": 1289,
-          "title": "JavaScript Timer – How to Set a Timer Function in JS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726513174015/54470912-08b3-4a23-9a0c-9b6f9b57617b.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/",
-          "author": "Asfak Ahmed",
-          "description": "When you interact with web pages, a common task you’ll perform often is selecting text. Whether it's highlighting a section of a paragraph to copy, marking important parts of a document, or working with interactive features like note-taking or text e...",
-          "link": "https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/",
-          "publishedOn": "2024-09-16T16:19:02.000Z",
-          "wordCount": 4502,
-          "title": "How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726225376443/ae5d57c8-e79e-4dc4-b218-c3a5e34f8293.png"
         }
       ]
     }
