@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-24T00:13:05.604Z</id>
+    <id>urn:2024-09-25T00:13:05.958Z</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T00:13:05.604Z</updated>
+    <updated>2024-09-25T00:13:05.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Color Mixing With Animation Composition]]></title>
+        <id>https://css-tricks.com/?p=381068</id>
+        <link href="https://css-tricks.com/color-mixing-with-animation-composition/"/>
+        <updated>2024-09-24T18:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.
+background-color: 
+…
+Color Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with SQL Databases in Go – Different Approaches and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/"/>
+        <updated>2024-09-24T16:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CUDA Programming]]></title>
+        <id>https://www.freecodecamp.org/news/learn-cuda-programming/</id>
+        <link href="https://www.freecodecamp.org/news/learn-cuda-programming/"/>
+        <updated>2024-09-24T15:08:44.000Z</updated>
+        <summary type="html"><![CDATA[CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Reusable Modal Component in React]]></title>
+        <id>https://www.freecodecamp.org/news/create-react-reusable-modal-component/</id>
+        <link href="https://www.freecodecamp.org/news/create-react-reusable-modal-component/"/>
+        <updated>2024-09-24T13:17:14.000Z</updated>
+        <summary type="html"><![CDATA[When using React, we strive to create reusable components as much as we can to limit the number of components and repetition. This keeps your code “DRY”. DRY is a concept you may have come across—it means “Don’t Repeat Yourself”. DRY is a coding prin...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time]]></title>
         <id>https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/</id>
@@ -87,17 +130,6 @@ The selectmenu Element is No More…Long Live select! originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Hit #21]]></title>
-        <id>https://css-tricks.com/?p=380952</id>
-        <link href="https://css-tricks.com/quick-hit-21/"/>
-        <updated>2024-09-20T16:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…
-Quick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-09-18)]]></title>
         <id>https://css-tricks.com/?p=381098</id>
         <link href="https://css-tricks.com/csswg-minutes-telecon-2024-09-18/"/>
@@ -119,37 +151,6 @@ CSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Hit #20]]></title>
-        <id>https://css-tricks.com/?p=381079</id>
-        <link href="https://css-tricks.com/quick-hit-20/"/>
-        <updated>2024-09-19T17:13:24.000Z</updated>
-        <summary type="html"><![CDATA[Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…
-Quick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Object-Oriented Programming and Design Patterns in C#]]></title>
-        <id>https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/"/>
-        <updated>2024-09-19T15:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Understanding design patterns are important for efficient software development. They offer proven solutions to common coding challenges, promote code reusability, and enhance maintainability. By mastering these patterns, developers can create more ro...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How To Secure API Servers]]></title>
-        <id>https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/"/>
-        <updated>2024-09-19T15:30:32.000Z</updated>
-        <summary type="html"><![CDATA[APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embracing Introversion In UX]]></title>
         <id>https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/</id>
         <link href="https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/"/>
@@ -157,18 +158,6 @@ Quick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #19]]></title>
-        <id>https://css-tricks.com/?p=381057</id>
-        <link href="https://css-tricks.com/quick-hit-19/"/>
-        <updated>2024-09-19T14:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Two possible syntaxes for CSS masonry, one draft specification, and you get to share your opinions.
-…
-Quick Hit #19 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -181,16 +170,6 @@ I’m guessing you’re already familiar with this giant ol’ section of CSS-Tr
 Re-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS to Improve Web Accessibility]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/"/>
-        <updated>2024-09-18T17:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that CSS can play a significant role in web accessibility? While CSS primarily handles the visual presentation of a webpage, when you use it properly it can enhance the user’s experience and improve accessibility. In this article, I'll s...]]></summary>
-        <author>
-            <name>Elizabeth Lola</name>
         </author>
     </entry>
     <entry>
@@ -293,17 +272,6 @@ Two Ways to Create Custom Translated Messaging for HTML Forms originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Hit #18]]></title>
-        <id>https://css-tricks.com/?p=380660</id>
-        <link href="https://css-tricks.com/quick-hit-18/"/>
-        <updated>2024-09-10T18:40:28.000Z</updated>
-        <summary type="html"><![CDATA[PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…
-Quick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anchor Positioning Quirks]]></title>
         <id>https://css-tricks.com/?p=380521</id>
         <link href="https://css-tricks.com/anchor-positioning-quirks/"/>
@@ -337,6 +305,28 @@ Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
+        <id>https://css-tricks.com/?p=380334</id>
+        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
+        <updated>2024-09-09T15:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
+Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://css-tricks.com/?p=380517</id>
+        <link href="https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/"/>
+        <updated>2024-09-09T14:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …
+Sticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Create A Weekly Google Analytics Report That Posts To Slack]]></title>
         <id>https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/</id>
         <link href="https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/"/>
@@ -354,6 +344,29 @@ Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean
         <summary type="html"><![CDATA[Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Philip Braunen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at Truncated Text]]></title>
+        <id>https://css-tricks.com/?p=380214</id>
+        <link href="https://css-tricks.com/another-stab-at-truncated-text/"/>
+        <updated>2024-09-03T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.
+    
+        Article
+
+    on
+    Sep 19, 2012  
+    
+
+      accessibility content truncation    
+    
+
+    
+…
+Another Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
