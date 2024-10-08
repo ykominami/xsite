@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381674",
+          "author": "Juan Diego Rodríguez",
+          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
+          "publishedOn": "2024-10-07T19:46:07.000Z",
+          "wordCount": 2618,
+          "title": "Recipes for Detecting Support for CSS At-Rules",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381662",
+          "author": "Ryan Trimble",
+          "description": "There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …\nSearching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/searching-for-a-new-css-logo/",
+          "publishedOn": "2024-10-07T16:49:59.000Z",
+          "wordCount": 2130,
+          "title": "Searching for a New CSS Logo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381662"
+        },
+        {
           "id": "https://css-tricks.com/?p=381210",
           "author": "Geoff Graham",
           "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me:\nThe challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special\n…\nThe Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,31 +175,6 @@
           "wordCount": 1874,
           "title": "Clever Polypane Debugging Features I’m Loving",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380271"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380763",
-          "author": "Geoff Graham",
-          "description": "Only Chris, right? You’ll want to view this in a Chromium browser:\nCodePen Embed Fallback\nThis is exactly the sort of thing I love, not for its practicality (cuz it ain’t), but for how it illustrates a concept. Generally, tutorials …\nMultiple Anchors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/multiple-anchors/",
-          "publishedOn": "2024-09-16T16:38:08.000Z",
-          "wordCount": 1927,
-          "title": "Multiple Anchors",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/09/multiple-anchors.mov",
-            "length": "5095633",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380841",
-          "author": "Geoff Graham",
-          "description": "I’m a big Lynn Fisher fan. You probably are, too, if you’re reading this. Or maybe you’re reading her name for the first time, in which case you’re in for a treat.\nThat’s because I had a chance to sit …\nSmashing Hour With Lynn Fisher originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-hour-with-lynn-fisher/",
-          "publishedOn": "2024-09-16T16:35:18.000Z",
-          "wordCount": 1478,
-          "title": "Smashing Hour With Lynn Fisher",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380841"
         }
       ]
     },
@@ -189,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+          "author": "hello@smashingmagazine.com (Karin Hendrikse)",
+          "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
+          "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+          "publishedOn": "2024-10-07T13:00:00.000Z",
+          "wordCount": 4685,
+          "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5165,
+          "wordCount": 5164,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -209,7 +219,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4741,
+          "wordCount": 4627,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -224,7 +234,7 @@
           "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
           "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "publishedOn": "2024-09-30T09:00:00.000Z",
-          "wordCount": 5095,
+          "wordCount": 5099,
           "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
@@ -239,7 +249,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6832,
+          "wordCount": 6932,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -254,7 +264,7 @@
           "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
           "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "publishedOn": "2024-09-23T09:00:00.000Z",
-          "wordCount": 3928,
+          "wordCount": 3926,
           "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
@@ -269,7 +279,7 @@
           "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
           "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8596,
+          "wordCount": 8594,
           "title": "Embracing Introversion In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
@@ -284,7 +294,7 @@
           "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
           "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
           "publishedOn": "2024-09-18T09:00:00.000Z",
-          "wordCount": 7075,
+          "wordCount": 7088,
           "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
@@ -329,7 +339,7 @@
           "description": "Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.",
           "link": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
           "publishedOn": "2024-09-10T10:00:00.000Z",
-          "wordCount": 6314,
+          "wordCount": 6316,
           "title": "Why Anticipatory Design Isn’t Working For Businesses",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg",
@@ -345,6 +355,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
+          "author": "Beau Carnes",
+          "description": "Desktop applications remain important for many types of software projects, providing rich, native user experiences. If you're interested in building desktop applications but want to leverage your web development skills, Electron is an excellent solut...",
+          "link": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
+          "publishedOn": "2024-10-07T19:41:04.000Z",
+          "wordCount": 1223,
+          "title": "Create Desktop Apps with Electron, React, and TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728330045533/e9a3a017-8a2c-4151-b249-4395bf7e20ea.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/",
+          "author": "Salvador Villalon Jr",
+          "description": "Have you ever wondered how Frameworks like Next.js, Gatsby.js, and Remix work? These frameworks use the concepts of Pre-rendering and Hydration, which represent significant advancements in the history of web development. These frameworks leverage the...",
+          "link": "https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/",
+          "publishedOn": "2024-10-07T14:21:31.000Z",
+          "wordCount": 3439,
+          "title": "What are Pre-Rendering and Hydration in Web Development? A Deep Dive for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727985850590/fdb7eb16-52bd-41ec-8e1a-e4fb9068a535.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/",
+          "author": "Anjan Baradwaj",
+          "description": "Software applications have made our lives easier and better in many ways. We use them almost daily, and some people find themselves using applications more frequently than they interact with other people. But how do applications interact with each ot...",
+          "link": "https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/",
+          "publishedOn": "2024-10-07T13:48:24.000Z",
+          "wordCount": 2322,
+          "title": "How to Design and Develop Web APIs: Essential Guidelines for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZM55FiQB8ig/upload/709f2a6f6de426904c95b785196f8736.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/",
           "author": "Quincy Larson",
@@ -414,36 +454,6 @@
           "wordCount": 4453,
           "title": "Understand How Express.js Works by Building Your Own Server Multiplexer from Scratch",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/urBiLDuUhMU/upload/65f541a7f0d11691008b4e93d89f2d29.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-start-your-open-source-journey-beginners-guide/",
-          "author": "Sahil Mahapatra",
-          "description": "Open source software has become the backbone of modern technology, powering everything from small startups to giant corporations. Contributing to open source projects is not just a way to give back to the community – it's also an excellent opportunit...",
-          "link": "https://www.freecodecamp.org/news/how-to-start-your-open-source-journey-beginners-guide/",
-          "publishedOn": "2024-10-03T15:01:31.000Z",
-          "wordCount": 3341,
-          "title": "How to Start Your Open Source Journey: A Beginner's Guide to Contributing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727909892455/221e81fb-d41d-463a-a1fa-d5ef2d316eaf.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/retrieve-system-information-using-cpuid/",
-          "author": "Nikolaos Panagopoulos",
-          "description": "When developing a bootloader/kernel, understanding the underlying architecture is crucial for optimizing performance and compatibility between software and hardware. One important yet sometimes overlooked tool available to engineers for querying and ...",
-          "link": "https://www.freecodecamp.org/news/retrieve-system-information-using-cpuid/",
-          "publishedOn": "2024-10-03T10:13:02.000Z",
-          "wordCount": 2494,
-          "title": "How to Retrieve System Information Using The CPUID Instruction",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JMwCe3w7qKk/upload/bb94515f8210b64d35039199912a3b6c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-linux-device-drivers/",
-          "author": "Beau Carnes",
-          "description": "Linux device drivers are critical pieces of software that allow your operating system to communicate with hardware like keyboards, printers, and other peripherals. Developing these drivers is a highly specialized skill that provides deep insights int...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-linux-device-drivers/",
-          "publishedOn": "2024-10-02T21:27:04.000Z",
-          "wordCount": 1309,
-          "title": "How to Create Linux Device Drivers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727904405801/4d2d8e84-b476-472b-ae06-772e90f30497.png"
         }
       ]
     }
