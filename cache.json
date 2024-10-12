@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381773",
+          "author": "Temani Afif",
+          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
+          "publishedOn": "2024-10-11T21:48:01.000Z",
+          "wordCount": 3461,
+          "title": "CSS Tricks That Use Only One Gradient",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
+        },
+        {
           "id": "https://css-tricks.com/?p=381752",
           "author": "Geoff Graham",
           "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -147,7 +157,7 @@
           "description": "The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …\nHow to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/",
           "publishedOn": "2024-09-25T14:31:54.000Z",
-          "wordCount": 2961,
+          "wordCount": 2981,
           "title": "How to Make a “Scroll to Select” Form Control",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/09/scroll-to-select.mov",
@@ -165,16 +175,6 @@
           "wordCount": 1866,
           "title": "Color Mixing With Animation Composition",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381068"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381134",
-          "author": "Geoff Graham",
-          "description": "I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…\nThe selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/",
-          "publishedOn": "2024-09-23T15:43:05.000Z",
-          "wordCount": 1826,
-          "title": "The selectmenu Element is No More…Long Live select!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381134"
         }
       ]
     },
@@ -184,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
+          "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+          "publishedOn": "2024-10-11T10:00:00.000Z",
+          "wordCount": 5709,
+          "title": "Using Multimodal AI Models For Your Applications (Part 3)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "author": "hello@smashingmagazine.com (Karin Hendrikse)",
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4677,
+          "wordCount": 4668,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -204,7 +219,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5156,
+          "wordCount": 5150,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -219,7 +234,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4638,
+          "wordCount": 4633,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -234,7 +249,7 @@
           "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
           "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "publishedOn": "2024-09-30T09:00:00.000Z",
-          "wordCount": 5091,
+          "wordCount": 5104,
           "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
@@ -249,7 +264,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6818,
+          "wordCount": 6825,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -264,7 +279,7 @@
           "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
           "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "publishedOn": "2024-09-23T09:00:00.000Z",
-          "wordCount": 3922,
+          "wordCount": 3931,
           "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
@@ -279,7 +294,7 @@
           "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
           "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8588,
+          "wordCount": 8598,
           "title": "Embracing Introversion In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
@@ -294,7 +309,7 @@
           "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
           "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
           "publishedOn": "2024-09-18T09:00:00.000Z",
-          "wordCount": 7192,
+          "wordCount": 7086,
           "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
@@ -317,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.",
-          "link": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
-          "publishedOn": "2024-09-12T11:00:00.000Z",
-          "wordCount": 5778,
-          "title": "How To Build Custom Data Visualizations Using Luzmo Flex",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg"
         }
       ]
     },
@@ -340,6 +340,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "author": "Prankur Pandey",
+          "description": "Application development is a complex, multi-stage process, and it all begins with UI/UX design. Once the design phase is complete, the focus shifts to UI development, where tools like HTML, CSS, and JavaScript come into play. At a higher level, libra...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "publishedOn": "2024-10-11T19:16:44.000Z",
+          "wordCount": 3315,
+          "title": "How to Build a CSS Component Library and Improve Your Web Development Skills",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728400677433/de06f432-0861-4ba4-ad7c-6e10157e2822.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "author": "Nazneen Ahmad",
+          "description": "Language learning models (LLMs) are evolving rapidly, reshaping AI in various industries. In this article, we’ll go over five LLMs that are currently making an impact with their advanced features and wide-ranging use cases. LLM Basics Before looking ...",
+          "link": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "publishedOn": "2024-10-11T16:01:18.000Z",
+          "wordCount": 2227,
+          "title": "Large Language Models for Developers and Businesses",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728677455013/ad0471d0-d888-4bfb-a47c-d41eb1b333fc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Kamran Ahmed. He's a software engineer and founder of Roadmap.sh, which has skill tree roadmaps for lots of developer fields, such as DevOps. As a teacher, he's also a Google Developer Expert and a G...",
+          "link": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "publishedOn": "2024-10-11T14:14:16.000Z",
+          "wordCount": 1008,
+          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728655903076/d4966eb0-43d1-4925-9ab6-e811ce6f1783.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "author": "Okoro Emmanuel Nzube Derek",
+          "description": "Sometimes when you’re coding, you need to leave a particular task incomplete to focus on another task – but you don't want to lose your progress. So what do you do? Fortunately, git stash comes to the rescue. In this article, you’ll learn all about t...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "publishedOn": "2024-10-11T13:40:01.000Z",
+          "wordCount": 2519,
+          "title": "How to Use Git Stash to Efficiently Manage Your Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "author": "Kunal Nalawade",
+          "description": "Hi everyone! In the ever-changing landscape of web development, React is in very high demand. Companies are often seeking skilled React developers to build dynamic and engaging web applications. If you are a web developer or aspiring to be one, it's ...",
+          "link": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "publishedOn": "2024-10-11T10:50:19.000Z",
+          "wordCount": 6533,
+          "title": "The React Interview Prep Handbook – Essential Topics and Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728643567956/00c98d19-4694-4942-9ad2-d2f25bcf05c0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to enhance your web design skills and create responsive websites more efficiently? Tailwind CSS, a utility-first CSS framework, has become a favorite among developers for its flexibility and speed in building modern web layouts. One o...",
+          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "publishedOn": "2024-10-11T01:33:57.000Z",
+          "wordCount": 1131,
+          "title": "Learn Tailwind CSS by Building a Responsive Product Card",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728610417740/2c081996-9a92-42d5-bee1-a380f2a0c1e4.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
           "author": "Sahil Mahapatra",
@@ -379,66 +439,6 @@
           "wordCount": 2435,
           "title": "How to Strengthen Your Code: Essential Secure Design Principles for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728461315564/0ec07485-8537-475e-8b15-3ab653ababfc.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/",
-          "author": "Chisom Uma",
-          "description": "Having a properly designed and comprehensive documentation site is important for any project. But creating good documentation can be challenging, and problems like poor user onboarding experience and increased support tickets can become daily hassles...",
-          "link": "https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/",
-          "publishedOn": "2024-10-09T16:56:14.000Z",
-          "wordCount": 4132,
-          "title": "How to Build a Documentation Site using React and Docusaraus",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728407506914/49f6f7cd-af92-405e-ac89-d71bd74e3f18.avif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/",
-          "author": "José Toledo",
-          "description": "This tutorial is designed to be your stepping stone into the fascinating world of cybersecurity. I’ll introduce you to key concepts and terminology you’ll need to know, giving you a solid foundation to build upon as you continue your learning journey...",
-          "link": "https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/",
-          "publishedOn": "2024-10-08T23:35:17.000Z",
-          "wordCount": 3911,
-          "title": "Key Security Concepts to Learn for a Career in Cybersecurity",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728332788775/d815c2f6-dea0-4c9d-ad33-1715cb0778c5.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/",
-          "author": "Niladri S. Jyoti",
-          "description": "The Back Story A few years ago, I was introduced to React and immediately fell in love with its component-based, state-driven approach to building web applications. But as I delved deeper into its ecosystem, I encountered not just React, but a range ...",
-          "link": "https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/",
-          "publishedOn": "2024-10-08T15:17:20.000Z",
-          "wordCount": 5682,
-          "title": "JavaScript Refresher for React Beginners – Key JS Concepts to Know",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727978962525/ee0aad46-7497-4c91-9354-dd8b0f9b4ea6.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/",
-          "author": "Ihechikara Abba",
-          "description": "You can use a switch case statement to execute different blocks of code based on the value of a variable. It offers a more direct and cleaner approach to handling multiple conditions. In this article, you'll learn how to control LEDs using a switch c...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/",
-          "publishedOn": "2024-10-08T14:39:47.000Z",
-          "wordCount": 1879,
-          "title": "How to Use Switch Case in Arduino – Control LEDs With the Switch Statement",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728178146204/a1c1a6af-b4ce-4fe4-a73d-8861d63cc01e.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/",
-          "author": "Manish Shivanandhan",
-          "description": "Hacking is a skill that fascinates many people. You’ve seen hackers in movies. They type at keyboards, breaking into high-security systems in seconds. But real hacking isn’t quite like that. It takes patience, creativity, and most importantly, a lot ...",
-          "link": "https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/",
-          "publishedOn": "2024-10-08T13:57:34.000Z",
-          "wordCount": 1530,
-          "title": "How to Improve Your Hacking Skills by Playing OverTheWire Wargames",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728392145727/bb646db1-f69a-4654-b01c-15fbe94a9c00.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-matplotlib/",
-          "author": "Oyedele Tioluwani",
-          "description": "One of the key steps in data analysis is data visualization, as it helps you notice certain features, tendencies, and relevant patterns that may not be obvious in raw data. Matplotlib is one of the most effective libraries for Python, and it allows t...",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-matplotlib/",
-          "publishedOn": "2024-10-07T23:15:31.000Z",
-          "wordCount": 3560,
-          "title": "How to Get Started with Matplotlib – With Code Examples and Visualizations",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727947002230/9ab7fb41-65fe-4bf5-bb59-8f514a3e9396.jpeg"
         }
       ]
     }
