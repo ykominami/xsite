@@ -57,7 +57,7 @@
           "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
           "publishedOn": "2024-10-07T19:46:07.000Z",
-          "wordCount": 2618,
+          "wordCount": 2702,
           "title": "Recipes for Detecting Support for CSS At-Rules",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
         },
@@ -77,7 +77,7 @@
           "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me:\nThe challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special\n…\nThe Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-proliferation-and-problem-of-the-sparkles-icon/",
           "publishedOn": "2024-10-03T15:18:16.000Z",
-          "wordCount": 2036,
+          "wordCount": 2074,
           "title": "The Proliferation and Problem of the ✨ Sparkles ✨ Icon",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/10/notion-ai-icon-animated.mp4",
@@ -117,7 +117,7 @@
           "description": "An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …\nCSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-masonry-css-grid/",
           "publishedOn": "2024-09-30T13:56:11.000Z",
-          "wordCount": 3623,
+          "wordCount": 3661,
           "title": "CSS Masonry & CSS Grid",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381216"
         },
@@ -184,12 +184,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.",
+          "link": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+          "publishedOn": "2024-10-15T14:00:00.000Z",
+          "wordCount": 5824,
+          "title": "It’s Here! How To Measure UX &amp; Design Impact, With Vitaly Friedman",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5605,
+          "wordCount": 5606,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -204,7 +219,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4683,
+          "wordCount": 4792,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -219,7 +234,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5162,
+          "wordCount": 5152,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -234,7 +249,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4632,
+          "wordCount": 4634,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -249,7 +264,7 @@
           "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
           "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "publishedOn": "2024-09-30T09:00:00.000Z",
-          "wordCount": 5205,
+          "wordCount": 5100,
           "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
@@ -264,7 +279,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6840,
+          "wordCount": 6821,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -279,7 +294,7 @@
           "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
           "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "publishedOn": "2024-09-23T09:00:00.000Z",
-          "wordCount": 3930,
+          "wordCount": 3924,
           "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
@@ -309,7 +324,7 @@
           "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
           "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
           "publishedOn": "2024-09-18T09:00:00.000Z",
-          "wordCount": 7192,
+          "wordCount": 7078,
           "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
           "enclosure": {
             "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
@@ -340,6 +355,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/",
+          "author": "Eamonn Cottrell",
+          "description": "Microsoft Excel is the quintessential spreadsheet software used everywhere from universities to small businesses to enterprises. It’s a lifesaver for countless financial professionals, data analysts, and teachers. But it’s also one of those programs ...",
+          "link": "https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/",
+          "publishedOn": "2024-10-15T17:57:43.000Z",
+          "wordCount": 2387,
+          "title": "Microsoft Excel: 14 Time-Saving Keyboard Shortcuts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728930420116/82fe0d9f-89fe-4332-82dc-43b44d4ee2dc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/",
+          "author": "Alex Pliutau",
+          "description": "A container registry is a storage catalog from where you can push and pull container images. There are many public and private registries available to developers such as Docker Hub, Amazon ECR, and Google Cloud Artifact Registry. But sometimes, inste...",
+          "link": "https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/",
+          "publishedOn": "2024-10-15T17:28:30.000Z",
+          "wordCount": 2256,
+          "title": "How to Self-host a Container Registry",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728918386211/cf6fd053-453e-4257-abcd-16942c345845.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-merge-word-files-using-nodejs/",
+          "author": "Vikram Aruchamy",
+          "description": "Merging Word files is essential for applications like document automation, where multiple reports, proposals, or forms need to be consolidated into a single document. Content management systems also rely on this functionality to combine documents for...",
+          "link": "https://www.freecodecamp.org/news/how-to-merge-word-files-using-nodejs/",
+          "publishedOn": "2024-10-15T16:22:56.000Z",
+          "wordCount": 2526,
+          "title": "How to Merge Word Files Using NodeJS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728997884597/9eb261f8-b299-4f43-bd0d-e2122b2c0c7b.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/",
+          "author": "Nitheesh Poojary",
+          "description": "Welcome to my latest tutorial! After a three-year hiatus from certifications, I'm thrilled to announce that I've successfully obtained the AWS Certified Security Specialty certification. As someone who strongly believes in the power of community lear...",
+          "link": "https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/",
+          "publishedOn": "2024-10-15T15:44:32.000Z",
+          "wordCount": 4626,
+          "title": "AWS Security Specialty Certification: How to Prepare for the Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729003266992/5be45b39-6a46-42a0-89f8-82dde56f0207.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rounded-and-curved-edge-css-shapes/",
+          "author": "Temani Afif",
+          "description": "In a previous article, I showed you how to create some fancy shapes that you can use as section dividers on your websites (a slanted divider, an arrow divider, and others). In this article, we will study and learn how to make more CSS shapes using th...",
+          "link": "https://www.freecodecamp.org/news/rounded-and-curved-edge-css-shapes/",
+          "publishedOn": "2024-10-14T22:07:54.000Z",
+          "wordCount": 2477,
+          "title": "How to Create Curved-Edge and Rounded-Edge Shapes Using CSS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728902609915/17a0da8c-143b-4160-8133-bc865c1b535b.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-design-and-build-ui-components-with-ai/",
           "author": "Ekemini Samuel",
@@ -389,56 +454,6 @@
           "wordCount": 2787,
           "title": "How to Build a Countdown Timer with React – A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724788718279/35a8ba3c-db35-49b6-ae41-14bcda547795.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
-          "author": "Prankur Pandey",
-          "description": "Application development is a complex, multi-stage process, and it all begins with UI/UX design. Once the design phase is complete, the focus shifts to UI development, where tools like HTML, CSS, and JavaScript come into play. At a higher level, libra...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
-          "publishedOn": "2024-10-11T19:16:44.000Z",
-          "wordCount": 3315,
-          "title": "How to Build a CSS Component Library and Improve Your Web Development Skills",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728400677433/de06f432-0861-4ba4-ad7c-6e10157e2822.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
-          "author": "Nazneen Ahmad",
-          "description": "Language learning models (LLMs) are evolving rapidly, reshaping AI in various industries. In this article, we’ll go over five LLMs that are currently making an impact with their advanced features and wide-ranging use cases. LLM Basics Before looking ...",
-          "link": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
-          "publishedOn": "2024-10-11T16:01:18.000Z",
-          "wordCount": 2244,
-          "title": "Large Language Models for Developers and Businesses",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728913212129/681829d0-a02a-45db-af23-e101454a8f22.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Kamran Ahmed. He's a software engineer and founder of Roadmap.sh, which has skill tree roadmaps for lots of developer fields, such as DevOps. As a teacher, he's also a Google Developer Expert and a G...",
-          "link": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
-          "publishedOn": "2024-10-11T14:14:16.000Z",
-          "wordCount": 1008,
-          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728655903076/d4966eb0-43d1-4925-9ab6-e811ce6f1783.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
-          "author": "Okoro Emmanuel Nzube Derek",
-          "description": "Sometimes when you’re coding, you need to leave a particular task incomplete to focus on another task – but you don't want to lose your progress. So what do you do? Fortunately, git stash comes to the rescue. In this article, you’ll learn all about t...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
-          "publishedOn": "2024-10-11T13:40:01.000Z",
-          "wordCount": 2519,
-          "title": "How to Use Git Stash to Efficiently Manage Your Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
-          "author": "Kunal Nalawade",
-          "description": "Hi everyone! In the ever-changing landscape of web development, React is in very high demand. Companies are often seeking skilled React developers to build dynamic and engaging web applications. If you are a web developer or aspiring to be one, it's ...",
-          "link": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
-          "publishedOn": "2024-10-11T10:50:19.000Z",
-          "wordCount": 6533,
-          "title": "The React Interview Prep Handbook – Essential Topics and Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728643567956/00c98d19-4694-4942-9ad2-d2f25bcf05c0.png"
         }
       ]
     }
