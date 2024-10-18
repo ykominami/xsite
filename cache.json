@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381763",
+          "author": "Zell Liew",
+          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
+          "publishedOn": "2024-10-17T15:24:02.000Z",
+          "wordCount": 1737,
+          "title": "Solving Background Overflow With Inherited Border Radii",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
+        },
+        {
           "id": "https://css-tricks.com/?p=381817",
           "author": "Preethi",
           "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
           "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3431,
+          "wordCount": 3521,
           "title": "Close, Exit, Cancel: How to End User Interactions Well",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
         },
@@ -102,7 +112,7 @@
           "description": "Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in …\nCatching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/",
           "publishedOn": "2024-10-03T13:10:48.000Z",
-          "wordCount": 5345,
+          "wordCount": 5561,
           "title": "Catching Up on the WordPress 🚫 WP Engine Sitch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381247"
         },
@@ -160,21 +170,6 @@
           "wordCount": 1504,
           "title": "BCD Watch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381230"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381060",
-          "author": "Preethi",
-          "description": "The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …\nHow to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/",
-          "publishedOn": "2024-09-25T14:31:54.000Z",
-          "wordCount": 2981,
-          "title": "How to Make a “Scroll to Select” Form Control",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/09/scroll-to-select.mov",
-            "length": "865130",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381060"
         }
       ]
     },
@@ -183,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
+          "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
+          "publishedOn": "2024-10-17T10:00:00.000Z",
+          "wordCount": 4707,
+          "title": "CSS min() All The Things",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -204,7 +214,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5607,
+          "wordCount": 5615,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -219,7 +229,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4678,
+          "wordCount": 4688,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -234,7 +244,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5157,
+          "wordCount": 5165,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -249,7 +259,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4633,
+          "wordCount": 4634,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -264,7 +274,7 @@
           "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
           "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "publishedOn": "2024-09-30T09:00:00.000Z",
-          "wordCount": 5103,
+          "wordCount": 5211,
           "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
@@ -279,7 +289,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6830,
+          "wordCount": 6821,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -294,7 +304,7 @@
           "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
           "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "publishedOn": "2024-09-23T09:00:00.000Z",
-          "wordCount": 3940,
+          "wordCount": 3939,
           "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
@@ -309,7 +319,7 @@
           "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
           "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8603,
+          "wordCount": 8586,
           "title": "Embracing Introversion In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
@@ -317,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
-          "author": "hello@smashingmagazine.com (Myriam Frisano)",
-          "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
-          "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
-          "publishedOn": "2024-09-18T09:00:00.000Z",
-          "wordCount": 7080,
-          "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg"
         }
       ]
     },
@@ -340,6 +335,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "671140909e01688d7732fd36",
+          "author": "Beau Carnes",
+          "description": "Infinite runner games have been a favorite for gamers and developers alike due to their fast-paced action and replayability. These games often feature engaging mechanics like endless levels, smooth character movement, and dynamic environments that ke...",
+          "link": "https://www.freecodecamp.org/news/code-a-sonic-infinite-runner-game-in-javascript/",
+          "publishedOn": "2024-10-17T16:51:28.000Z",
+          "wordCount": 1268,
+          "title": "Code a Sonic Infinite Runner Game in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729182842440/b8ec758a-735c-4e23-84c5-aaf15ec7bf75.png"
+        },
         {
           "id": "670fce62ee042ff16bdfd24f",
           "author": "Beau Carnes",
@@ -356,7 +361,7 @@
           "description": "While it might seem challenging to remain SOC 2 compliant, it is a critical process that helps earn your client’s trust and also ensures the security of your systems. SOC 2 assesses how well a company protects its data based on five trust service cri...",
           "link": "https://www.freecodecamp.org/news/how-to-maintain-soc-2-compliance/",
           "publishedOn": "2024-10-16T14:22:23.000Z",
-          "wordCount": 2567,
+          "wordCount": 2586,
           "title": "How to Maintain SOC 2 Compliance: A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728552754176/bc82c080-e6df-4944-ba45-b76540cb1314.png"
         },
@@ -429,16 +434,6 @@
           "wordCount": 2621,
           "title": "How to Create Curved-Edge and Rounded-Edge Shapes Using CSS",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728902609915/17a0da8c-143b-4160-8133-bc865c1b535b.jpeg"
-        },
-        {
-          "id": "670d75f8ed568d2eaf032897",
-          "author": "Ekemini Samuel",
-          "description": "How should a website look? What size should the buttons be? What layout should you use? Do your users need an OTP to reset their passwords? These are all questions that proper user interface and user experience (UI/UX) design answer. Design prototypi...",
-          "link": "https://www.freecodecamp.org/news/how-to-design-and-build-ui-components-with-ai/",
-          "publishedOn": "2024-10-14T19:50:16.000Z",
-          "wordCount": 3637,
-          "title": "From Concept to Code: How to Use AI Tools to Design and Build UI Components",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727885187463/f41f59b0-1ec0-4dbf-9d2a-437738584310.png"
         }
       ]
     }
