@@ -12,12 +12,32 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381832",
+          "author": "Ryan Trimble",
+          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
+          "publishedOn": "2024-10-18T13:09:22.000Z",
+          "wordCount": 1596,
+          "title": "Combining forces, GSAP & Webflow!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381882",
+          "author": "Geoff Graham",
+          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
+          "publishedOn": "2024-10-18T11:36:04.000Z",
+          "wordCount": 1632,
+          "title": "Mastering theme.json: You might not need CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
+        },
+        {
           "id": "https://css-tricks.com/?p=381763",
           "author": "Zell Liew",
           "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
           "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1737,
+          "wordCount": 1767,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
         },
@@ -97,7 +117,7 @@
           "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me:\nThe challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special\n…\nThe Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-proliferation-and-problem-of-the-sparkles-icon/",
           "publishedOn": "2024-10-03T15:18:16.000Z",
-          "wordCount": 2074,
+          "wordCount": 2120,
           "title": "The Proliferation and Problem of the ✨ Sparkles ✨ Icon",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/10/notion-ai-icon-animated.mp4",
@@ -109,10 +129,10 @@
         {
           "id": "https://css-tricks.com/?p=381247",
           "author": "Geoff Graham",
-          "description": "Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in …\nCatching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "Editor’s note: This post is updated from time to time to catch up with notable developments. For timely updates, check out mullenweg.wtf or the less-anti-Matt equivalent, wpvwpe.report.\nMany of you — perhaps most of you — have been sitting …\nCatching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/",
           "publishedOn": "2024-10-03T13:10:48.000Z",
-          "wordCount": 5561,
+          "wordCount": 5584,
           "title": "Catching Up on the WordPress 🚫 WP Engine Sitch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381247"
         },
@@ -150,26 +170,6 @@
           "wordCount": 2357,
           "title": "Slide Through Unlimited Dimensions With CSS Scroll Timelines",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381191"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381293",
-          "author": "Geoff Graham",
-          "description": "Miriam Suzanne’s in the middle of a redesign of her personal website. It began in August 2022. She’s made an entire series out of the work that’s worth your time, but I wanted to call out the fifth and latest …\nAggregating my distributed self originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/aggregating-my-distributed-self/",
-          "publishedOn": "2024-09-27T15:24:07.000Z",
-          "wordCount": 2580,
-          "title": "Aggregating my distributed self",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381293"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381230",
-          "author": "Geoff Graham",
-          "description": "A new tool from Eric Meyer, Brian Kardell, and Stephanie Stimac backed with Igalia’s support. Brian announced it on his blog, as did Eric, describing it like this:\nWhat BCD Watch does is, it grabs releases of the Browser \n…\nBCD Watch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/bcd-watch/",
-          "publishedOn": "2024-09-26T14:28:48.000Z",
-          "wordCount": 1504,
-          "title": "BCD Watch",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381230"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4707,
+          "wordCount": 4713,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -214,7 +214,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5615,
+          "wordCount": 5613,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -229,7 +229,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4688,
+          "wordCount": 4676,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -244,7 +244,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5165,
+          "wordCount": 5155,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -259,7 +259,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4634,
+          "wordCount": 4627,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -289,7 +289,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6821,
+          "wordCount": 6824,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -304,7 +304,7 @@
           "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
           "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "publishedOn": "2024-09-23T09:00:00.000Z",
-          "wordCount": 3939,
+          "wordCount": 3926,
           "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
@@ -319,7 +319,7 @@
           "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
           "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
           "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8586,
+          "wordCount": 8589,
           "title": "Embracing Introversion In UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
@@ -335,6 +335,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "671271336d32f3591177c37a",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Tadas Petra. He's a software engineer and a Senior Developer Advocate at Agora.io. After learning embedded development in university, Tadas switched to building mobile apps. He's gone on to build doz...",
+          "link": "https://www.freecodecamp.org/news/tadas-petra-podcast-146/",
+          "publishedOn": "2024-10-18T14:31:15.000Z",
+          "wordCount": 1183,
+          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729261845654/2491f9ad-4c33-446b-bbae-3fa0117b2b47.png"
+        },
+        {
+          "id": "6712601db2117f64c9ba5c68",
+          "author": "Kedar Makode",
+          "description": "Ever wondered what people mean when they say, “It’s stored in the cloud”? If you’re imagining fluffy white clouds up in the sky storing your pictures, documents, or your Netflix favorites, then you’re in for a surprise! Spoiler alert: the cloud is mu...",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-computing-with-aws/",
+          "publishedOn": "2024-10-18T13:18:21.000Z",
+          "wordCount": 6052,
+          "title": "What is Cloud Computing? Beginner's Guide to Cloud Computing with AWS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729159103929/5b4c74fe-3bf5-4ac5-9739-4313d46a8dd1.png"
+        },
         {
           "id": "671140909e01688d7732fd36",
           "author": "Beau Carnes",
@@ -414,26 +434,6 @@
           "wordCount": 2670,
           "title": "How to Merge Word Files Using NodeJS",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728997884597/9eb261f8-b299-4f43-bd0d-e2122b2c0c7b.png"
-        },
-        {
-          "id": "670e8de0b14141d162654266",
-          "author": "Nitheesh Poojary",
-          "description": "Welcome to my latest tutorial! After a three-year hiatus from certifications, I'm thrilled to announce that I've successfully obtained the AWS Certified Security Specialty certification. As someone who strongly believes in the power of community lear...",
-          "link": "https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/",
-          "publishedOn": "2024-10-15T15:44:32.000Z",
-          "wordCount": 4770,
-          "title": "AWS Security Specialty Certification: How to Prepare for the Exam",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729003266992/5be45b39-6a46-42a0-89f8-82dde56f0207.jpeg"
-        },
-        {
-          "id": "670d963aff55e287d6962c67",
-          "author": "Temani Afif",
-          "description": "In a previous article, I showed you how to create some fancy shapes that you can use as section dividers on your websites (a slanted divider, an arrow divider, and others). In this article, we will study and learn how to make more CSS shapes using th...",
-          "link": "https://www.freecodecamp.org/news/rounded-and-curved-edge-css-shapes/",
-          "publishedOn": "2024-10-14T22:07:54.000Z",
-          "wordCount": 2621,
-          "title": "How to Create Curved-Edge and Rounded-Edge Shapes Using CSS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728902609915/17a0da8c-143b-4160-8133-bc865c1b535b.jpeg"
         }
       ]
     }
