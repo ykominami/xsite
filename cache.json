@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381613",
+          "author": "Geoff Graham",
+          "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
+          "publishedOn": "2024-10-21T13:50:53.000Z",
+          "wordCount": 5808,
+          "title": "Unleash the Power of Scroll-Driven Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
+        },
+        {
           "id": "https://css-tricks.com/?p=381832",
           "author": "Ryan Trimble",
           "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
           "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1596,
+          "wordCount": 1641,
           "title": "Combining forces, GSAP & Webflow!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
         },
@@ -37,7 +47,7 @@
           "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
           "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1767,
+          "wordCount": 1825,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
         },
@@ -160,16 +170,6 @@
           "wordCount": 3718,
           "title": "CSS Masonry & CSS Grid",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381216"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381191",
-          "author": "Lee Meyer",
-          "description": "The creator of CSS has said he originally envisaged CSS as the main web technology to control behavior on web pages, with scripting as a fallback when things weren’t possible declaratively in CSS. The rationale for a CSS-first approach was …\nSlide Through Unlimited Dimensions With CSS Scroll Timelines originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/slide-through-unlimited-dimensions-with-css-scroll-timelines/",
-          "publishedOn": "2024-09-27T18:39:23.000Z",
-          "wordCount": 2357,
-          "title": "Slide Through Unlimited Dimensions With CSS Scroll Timelines",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381191"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4719,
+          "wordCount": 4713,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -214,7 +214,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5611,
+          "wordCount": 5605,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -229,7 +229,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4691,
+          "wordCount": 4672,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -244,7 +244,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5156,
+          "wordCount": 5161,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -259,7 +259,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4622,
+          "wordCount": 4637,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -274,7 +274,7 @@
           "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
           "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "publishedOn": "2024-09-30T09:00:00.000Z",
-          "wordCount": 5107,
+          "wordCount": 5105,
           "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
@@ -289,7 +289,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6829,
+          "wordCount": 6827,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -304,7 +304,7 @@
           "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
           "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "publishedOn": "2024-09-23T09:00:00.000Z",
-          "wordCount": 3928,
+          "wordCount": 3934,
           "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
@@ -320,6 +320,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6716a484c9b0ead280c3a92f",
+          "author": "Saki Basken",
+          "description": "After months of endless job applications, networking, and studying, I accepted an offer in January to work full-time as a developer. It wasn’t smooth sailing, and I won’t lie — the road was very bumpy.  So to help others out, I want to share my story...",
+          "link": "https://www.freecodecamp.org/news/from-stay-at-home-freelancing-parent-to-developer-tips/",
+          "publishedOn": "2024-10-21T18:59:16.000Z",
+          "wordCount": 4796,
+          "title": "How to Transition from Stay-at-Home Freelancing Parent to Developer: A Bootcamp Survivor’s Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729459143433/56e305bd-b7db-453e-81c9-e30787d6e4cd.jpeg"
+        },
+        {
+          "id": "67169d1456af142bfd7fe418",
+          "author": "Grant Riordan",
+          "description": "Being able to update variables, call particular branches of code, or simply output different code based on a certain condition is a vital part of programming in any language. C# (C Sharp) offers multiple ways to do these things, and I’m about to show...",
+          "link": "https://www.freecodecamp.org/news/conditional-statements-in-csharp-if-switch-and-more/",
+          "publishedOn": "2024-10-21T18:27:32.000Z",
+          "wordCount": 3492,
+          "title": "How to Use Conditional Statements in C#: If, Switch, and More Explained with Example Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729432206658/e802fcca-bf0c-424f-9915-b02fd847bdcc.png"
+        },
+        {
+          "id": "6716909d6cc6de90a6dad8be",
+          "author": "Bhavishya Pandit",
+          "description": "If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...",
+          "link": "https://www.freecodecamp.org/news/llm-powered-apps-langchain-vs-llamaindex-vs-nim/",
+          "publishedOn": "2024-10-21T17:34:21.000Z",
+          "wordCount": 3420,
+          "title": "Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729527716896/58932669-914c-4380-88c8-33ffbad99b5f.webp"
+        },
         {
           "id": "6712fdc4ad96e38e0b7422ae",
           "author": "Victoria Nduka",
@@ -389,36 +419,6 @@
           "wordCount": 2836,
           "title": "How to Use Object Relational Mapping in Node.js – Optimize Database Interactions With Sequelize ORM",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728644693143/667b7624-6dc2-407a-828b-f5b6c1844ac8.jpeg"
-        },
-        {
-          "id": "670ecbf674f5ce6cffbe5c4c",
-          "author": "Beau Carnes",
-          "description": "Building fullstack web applications is one of the most valuable skills in modern web development. If you're looking for a project that can take you through the complete development process—from setting up the front end to managing a robust back end—t...",
-          "link": "https://www.freecodecamp.org/news/build-a-full-stack-book-store-app-using-react-node-mongodb/",
-          "publishedOn": "2024-10-15T20:09:26.000Z",
-          "wordCount": 1474,
-          "title": "Build a Full Stack Book Store App Using React, Node, MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729022947109/b692b74c-2ffb-476f-b91f-9da94948163f.png"
-        },
-        {
-          "id": "670ead175b03d2b334e6560f",
-          "author": "Eamonn Cottrell",
-          "description": "Microsoft Excel is the quintessential spreadsheet software used everywhere from universities to small businesses to enterprises. It’s a lifesaver for countless financial professionals, data analysts, and teachers. But it’s also one of those programs ...",
-          "link": "https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/",
-          "publishedOn": "2024-10-15T17:57:43.000Z",
-          "wordCount": 2531,
-          "title": "Microsoft Excel: 14 Time-Saving Keyboard Shortcuts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728930420116/82fe0d9f-89fe-4332-82dc-43b44d4ee2dc.jpeg"
-        },
-        {
-          "id": "670ea63e203bba3017cc96ff",
-          "author": "Alex Pliutau",
-          "description": "A container registry is a storage catalog from where you can push and pull container images. There are many public and private registries available to developers such as Docker Hub, Amazon ECR, and Google Cloud Artifact Registry. But sometimes, inste...",
-          "link": "https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/",
-          "publishedOn": "2024-10-15T17:28:30.000Z",
-          "wordCount": 2400,
-          "title": "How to Self-host a Container Registry",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728918386211/cf6fd053-453e-4257-abcd-16942c345845.png"
         }
       ]
     }
