@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382008",
+          "author": "Zell Liew",
+          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
+          "publishedOn": "2024-10-23T13:20:46.000Z",
+          "wordCount": 2456,
+          "title": "Clarifying the Relationship Between Popovers and Dialogs",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381992",
+          "author": "Geoff Graham",
+          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
+          "publishedOn": "2024-10-23T13:15:20.000Z",
+          "wordCount": 1459,
+          "title": "Clamp it! VS Code extension",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
+            "length": "549889",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
+        },
+        {
           "id": "https://css-tricks.com/?p=381613",
           "author": "Geoff Graham",
           "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,31 +170,6 @@
           "wordCount": 5584,
           "title": "Catching Up on the WordPress 🚫 WP Engine Sitch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381247"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381364",
-          "author": "Juan Diego Rodríguez",
-          "description": "Learn about CSS Anchor Positioning, including its syntax, properties, how it is used to position one element next to another, and even how it's used to resize elements relative to other elements.\nCSS Anchor Positioning Guide originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-anchor-positioning-guide/",
-          "publishedOn": "2024-10-02T15:26:48.000Z",
-          "wordCount": 5983,
-          "title": "CSS Anchor Positioning Guide",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/09/multiple-anchors-gumby.mov",
-            "length": "14897344",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381364"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381216",
-          "author": "Geoff Graham",
-          "description": "An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …\nCSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-masonry-css-grid/",
-          "publishedOn": "2024-09-30T13:56:11.000Z",
-          "wordCount": 3718,
-          "title": "CSS Masonry & CSS Grid",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381216"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4710,
+          "wordCount": 4707,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -214,7 +214,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5602,
+          "wordCount": 5613,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -229,7 +229,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4671,
+          "wordCount": 4678,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -244,7 +244,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5160,
+          "wordCount": 5170,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -259,7 +259,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4635,
+          "wordCount": 4639,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -274,7 +274,7 @@
           "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
           "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "publishedOn": "2024-09-30T09:00:00.000Z",
-          "wordCount": 5101,
+          "wordCount": 5207,
           "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
@@ -289,7 +289,7 @@
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
           "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "publishedOn": "2024-09-27T15:00:00.000Z",
-          "wordCount": 6830,
+          "wordCount": 6827,
           "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
@@ -305,6 +305,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "671955939f7c056f46dd8604",
+          "author": "Timothy Olanrewaju",
+          "description": "When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-skeleton-screens-to-improve-perceived-website-performance/",
+          "publishedOn": "2024-10-23T19:59:15.000Z",
+          "wordCount": 2571,
+          "title": "How to Use Skeleton Screens to Improve Perceived Website Performance",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729603651952/5f5f3c38-20e0-41ac-a4a0-7190347b3a59.png"
+        },
+        {
+          "id": "671949e0521b33716a071ccc",
+          "author": "Preston Mayieka",
+          "description": "In any software project, documentation plays a crucial role in guiding developers, users, and stakeholders through the project's features and functionalities. As projects grow and evolve, managing documentation across various formats—whether it’s mar...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-documentation-conversion-with-pandoc-in-cicd-pipelines/",
+          "publishedOn": "2024-10-23T19:09:20.000Z",
+          "wordCount": 3212,
+          "title": "How to Automate Documentation Conversion with Pandoc in CI/CD Pipelines",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729707865753/d1703b32-ccb4-4cd1-9c3e-3e66fef7e02f.png"
+        },
+        {
+          "id": "6719336f56c24fb7d4fc62b3",
+          "author": "Temani Afif",
+          "description": "In a previous article, I showed you how to create two types of CSS loaders: a spinner and a progress bar. In this article, you’ll learn about another variation called a filling CSS loader. I think a demo is worth thousands of words, so check out this...",
+          "link": "https://www.freecodecamp.org/news/filling-css-loaders/",
+          "publishedOn": "2024-10-23T17:33:35.000Z",
+          "wordCount": 2201,
+          "title": "How to Create Filling CSS Loaders Using One Element",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729637821745/50ff0461-350c-441c-9726-b838d3ef0a5c.jpeg"
+        },
+        {
+          "id": "67190fa49a9d435e2ceeafb6",
+          "author": "Mihail Gaberov",
+          "description": "A while ago, I stumbled upon a website listing various coding challenges, and I decided to give some a try. Last week, I came across one that involved building a \"Wheel of Names.\" It reminded me of a similar project I built years ago using Flash and ...",
+          "link": "https://www.freecodecamp.org/news/build-your-own-wheel-of-names/",
+          "publishedOn": "2024-10-23T15:00:52.000Z",
+          "wordCount": 3468,
+          "title": "How to Build Your Own Wheel of Names with React and TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729695428229/56ac185a-bed1-4bbc-ab6d-a12f2ac5adee.png"
+        },
+        {
+          "id": "671901e20aa5e141c2db418f",
+          "author": "Harsh Deep",
+          "description": "STOMP is an amazingly simple yet powerful protocol for sending messages implemented by popular servers like RabbitMQ, ActiveMQ, and Apollo. Using STOMP over WebSocket is a straightforward protocol, making it a popular choice for sending messages from...",
+          "link": "https://www.freecodecamp.org/news/build-chat-app-with-stomp-and-react/",
+          "publishedOn": "2024-10-23T14:02:10.000Z",
+          "wordCount": 2764,
+          "title": "How to Use RxStomp with React – Build Chat App with STOMP and React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729648105968/2926c346-0058-4a84-981e-2ff4bd6833df.png"
+        },
         {
           "id": "6717fde839354c63841ba816",
           "author": "Tapas Adhikary",
@@ -354,56 +404,6 @@
           "wordCount": 4806,
           "title": "How to Transition from Stay-at-Home Freelancing Parent to Developer: A Bootcamp Survivor’s Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729459143433/56e305bd-b7db-453e-81c9-e30787d6e4cd.jpeg"
-        },
-        {
-          "id": "67169d1456af142bfd7fe418",
-          "author": "Grant Riordan",
-          "description": "Being able to update variables, call particular branches of code, or simply output different code based on a certain condition is a vital part of programming in any language. C# (C Sharp) offers multiple ways to do these things, and I’m about to show...",
-          "link": "https://www.freecodecamp.org/news/conditional-statements-in-csharp-if-switch-and-more/",
-          "publishedOn": "2024-10-21T18:27:32.000Z",
-          "wordCount": 3492,
-          "title": "How to Use Conditional Statements in C#: If, Switch, and More Explained with Example Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729432206658/e802fcca-bf0c-424f-9915-b02fd847bdcc.png"
-        },
-        {
-          "id": "6716909d6cc6de90a6dad8be",
-          "author": "Bhavishya Pandit",
-          "description": "If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...",
-          "link": "https://www.freecodecamp.org/news/llm-powered-apps-langchain-vs-llamaindex-vs-nim/",
-          "publishedOn": "2024-10-21T17:34:21.000Z",
-          "wordCount": 3420,
-          "title": "Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729527716896/58932669-914c-4380-88c8-33ffbad99b5f.webp"
-        },
-        {
-          "id": "6712fdc4ad96e38e0b7422ae",
-          "author": "Victoria Nduka",
-          "description": "Over one billion people worldwide live with some form of disability. That is about 16% of the global population. Now, imagine how many of these individuals might be trying to access your website. Would they navigate easily through your site, or would...",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-a-web-accessibility-audit/",
-          "publishedOn": "2024-10-19T00:31:00.000Z",
-          "wordCount": 2642,
-          "title": "How to Perform a Web Accessibility Audit",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729112018927/8f769e94-9c4b-4651-a0f7-0c99d529c9c3.png"
-        },
-        {
-          "id": "671271336d32f3591177c37a",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Tadas Petra. He's a software engineer and a Senior Developer Advocate at Agora.io. After learning embedded development in university, Tadas switched to building mobile apps. He's gone on to build doz...",
-          "link": "https://www.freecodecamp.org/news/tadas-petra-podcast-146/",
-          "publishedOn": "2024-10-18T14:31:15.000Z",
-          "wordCount": 1183,
-          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729261845654/2491f9ad-4c33-446b-bbae-3fa0117b2b47.png"
-        },
-        {
-          "id": "6712601db2117f64c9ba5c68",
-          "author": "Kedar Makode",
-          "description": "Ever wondered what people mean when they say, “It’s stored in the cloud”? If you’re imagining fluffy white clouds up in the sky storing your pictures, documents, or your Netflix favorites, then you’re in for a surprise! Spoiler alert: the cloud is mu...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-computing-with-aws/",
-          "publishedOn": "2024-10-18T13:18:21.000Z",
-          "wordCount": 6083,
-          "title": "What is Cloud Computing? Beginner's Guide to Cloud Computing with AWS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729159103929/5b4c74fe-3bf5-4ac5-9739-4313d46a8dd1.png"
         }
       ]
     }
