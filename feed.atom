@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-29T00:13:21.523Z</id>
+    <id>urn:2024-10-30T00:13:18.292Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T00:13:21.523Z</updated>
+    <updated>2024-10-30T00:13:18.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Merge Multiple Google Docs into One Using Apps Script or the Google Docs API]]></title>
+        <id>672103feae01d783da13018b</id>
+        <link href="https://www.freecodecamp.org/news/merge-multiple-google-docs-with-apps-script-or-google-docs-api/"/>
+        <updated>2024-10-29T15:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Merging multiple Google Docs into a single document is often essential for compiling reports, gathering information from various sources, or creating unified documents for presentations or sharing. By combining multiple files into one, users can keep...]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve and and Restructure Your Codebase with AI Tools & Version Control]]></title>
+        <id>6720f7fb2e452955f9433899</id>
+        <link href="https://www.freecodecamp.org/news/improve-and-restructure-codebase-with-ai-tools/"/>
+        <updated>2024-10-29T14:58:03.000Z</updated>
+        <summary type="html"><![CDATA[A codebase can become messy and hard to manage over time. This happens because of quick fixes, outdated features, or just not enough time to clean things up. When code becomes difficult to read or change, it slows down progress and can even cause bug...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tooltip Best Practices]]></title>
+        <id>https://css-tricks.com/?p=382082</id>
+        <link href="https://css-tricks.com/tooltip-best-practices/"/>
+        <updated>2024-10-29T14:01:18.000Z</updated>
+        <summary type="html"><![CDATA[What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.
+Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tools You Can Use for Open Source Intelligence (OSINT) Gathering]]></title>
         <id>671fdfa416219baf5b89e52a</id>
@@ -90,7 +121,7 @@
         <id>https://css-tricks.com/?p=382039</id>
         <link href="https://css-tricks.com/come-to-the-light-dark-side/"/>
         <updated>2024-10-25T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …
+        <summary type="html"><![CDATA[Dark mode interfaces have matured a lot in the past few years. We all know the "traditional" approach using media queries but in this article, Sara Joy demonstrates modern CSS features that make respecting user color scheme preferences pretty darn easy.
 Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sara Joy</name>
@@ -101,31 +132,10 @@ Come to the light-dark() Side originally published on CSS-Tricks, which is part 
         <id>http://css-tricks.com/?p=198099</id>
         <link href="https://css-tricks.com/left-and-right/"/>
         <updated>2024-10-25T11:51:02.000Z</updated>
-        <summary type="html"><![CDATA[A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.
-Imagine a scenario where you need to split a layout in half. Content …
+        <summary type="html"><![CDATA[Imagine a scenario where you need to split a layout in half. Basically two equal height columns are needed inside of a container. Each side takes up exactly half of the container. Like many things in CSS, there are a number of ways to go about this.
 Left Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Object-Oriented Programming in Python – Key OOP Concepts and Interview Questions for Beginners]]></title>
-        <id>671aeea7c5f85f75b4b243e8</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-python-interview-questions/"/>
-        <updated>2024-10-25T01:04:39.000Z</updated>
-        <summary type="html"><![CDATA[OOP is a crucial concept that every developer should grasp, especially when getting ready for job interviews. It helps you organize code into modular and reusable sections, which simplifies the development, maintenance, and scaling of software applic...]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Fine-Grained Authorization in Java and SpringBoot]]></title>
-        <id>671a85db0db570158155ec00</id>
-        <link href="https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/"/>
-        <updated>2024-10-24T17:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Securing your application goes beyond simply granting or denying access at the surface level. As a developer, you need to implement fine-grained authorization (FGA) to manage permissions at a more detailed, granular level. FGA allows you to set up de...]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
         </author>
     </entry>
     <entry>
@@ -133,9 +143,7 @@ Left Half and Right Half Layout – Many Different Ways originally published on 
         <id>https://css-tricks.com/?p=382065</id>
         <link href="https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/"/>
         <updated>2024-10-24T14:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Terence Eden on using text-wrap: balance for more than headings:
-But the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at 
-…
+        <summary type="html"><![CDATA[The CSS text-wrap property is (rightfully) widely assumed to be used strictly for text elements. But Terrence Eden posted an article on his blog that shows how it can also be used to balance the way other types of elements wrap, including icons.
 You can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
@@ -146,7 +154,7 @@ You can use text-wrap: balance; on icons originally published on CSS-Tricks, whi
         <id>https://css-tricks.com/?p=382008</id>
         <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
         <updated>2024-10-23T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …
+        <summary type="html"><![CDATA[Pop quiz! What's the difference between a Popover element and a Dialog element? The answer is not all that clear and is widely misunderstood, but Zell has a clear way to explain it so that you know which element to reach for in your work.
 Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
@@ -295,17 +303,6 @@ Smashing Hour With Heydon Pickering originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recipes for Detecting Support for CSS At-Rules]]></title>
-        <id>https://css-tricks.com/?p=381674</id>
-        <link href="https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/"/>
-        <updated>2024-10-07T19:46:07.000Z</updated>
-        <summary type="html"><![CDATA[The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …
-Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build A Static RSS Reader To Fight Your Inner FOMO]]></title>
         <id>https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/</id>
         <link href="https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/"/>
@@ -333,16 +330,6 @@ Recipes for Detecting Support for CSS At-Rules originally published on CSS-Trick
         <summary type="html"><![CDATA[Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Philip Jägenstedt)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/</id>
-        <link href="https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/"/>
-        <updated>2024-09-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
