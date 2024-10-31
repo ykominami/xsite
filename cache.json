@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382144",
+          "author": "Geoff Graham",
+          "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/state-of-css-2024-results/",
+          "publishedOn": "2024-10-30T16:43:55.000Z",
+          "wordCount": 2964,
+          "title": "State of CSS 2024 Results",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
+        },
+        {
           "id": "https://css-tricks.com/?p=382082",
           "author": "Zell Liew",
           "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/tooltip-best-practices/",
           "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2171,
+          "wordCount": 2284,
           "title": "Tooltip Best Practices",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
         },
@@ -37,9 +47,9 @@
           "description": "Imagine a scenario where you need to split a layout in half. Basically two equal height columns are needed inside of a container. Each side takes up exactly half of the container. Like many things in CSS, there are a number of ways to go about this.\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/left-and-right/",
           "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3338,
+          "wordCount": null,
           "title": "Left Half and Right Half Layout – Many Different Ways",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
+          "imageUrl": null
         },
         {
           "id": "https://css-tricks.com/?p=382065",
@@ -152,19 +162,9 @@
           "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
           "publishedOn": "2024-10-09T14:10:33.000Z",
-          "wordCount": 2132,
+          "wordCount": null,
           "title": "2024: More CSS At-Rules Than the Past Decade Combined",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381729",
-          "author": "Geoff Graham",
-          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
-          "publishedOn": "2024-10-08T15:22:02.000Z",
-          "wordCount": 1562,
-          "title": "Smashing Hour With Heydon Pickering",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
+          "imageUrl": null
         }
       ]
     },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/designing-for-gen-z/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "There are many myths revolving around Gen Z and how they use tech. Time to take a look at actual behavior patterns that go beyond heavy use of social media. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2024/10/designing-for-gen-z/",
+          "publishedOn": "2024-10-30T09:00:00.000Z",
+          "wordCount": 4722,
+          "title": "Designing For Gen Z: Expectations And UX Guidelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-for-gen-z/3-clearleft-case-study-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-for-gen-z/3-clearleft-case-study-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4703,
+          "wordCount": 4707,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -224,7 +239,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4663,
+          "wordCount": 4669,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -239,7 +254,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5147,
+          "wordCount": 5148,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -254,7 +269,7 @@
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
           "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4634,
+          "wordCount": 4621,
           "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
             "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
@@ -271,6 +286,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67228665c48a2523d1dedb0a",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're an avid Facebook user, you've probably saved countless posts, videos, and links to revisit later. But sometimes, these saved posts accumulate and become overwhelming. You may decide to un-save them all at once rather than manually uncheckin...",
+          "link": "https://www.freecodecamp.org/news/remove-all-saved-posts-from-facebook-using-javascript/",
+          "publishedOn": "2024-10-30T19:17:57.000Z",
+          "wordCount": 1568,
+          "title": "How to Remove All Saved Posts from Facebook Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PTiQqAKzbmM/upload/94f3490edcd662844a0bf56f2e6b0ce2.jpeg"
+        },
+        {
+          "id": "67224a271058ad4196106527",
+          "author": "Kolade Chris",
+          "description": "The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/",
+          "publishedOn": "2024-10-30T15:00:55.000Z",
+          "wordCount": 2366,
+          "title": "How to Use Developer Tools to Debug JavaScript in the Browser",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gTs2w7bu3Qo/upload/f2ead89e25e967947691c8e4a1f8f862.jpeg"
+        },
+        {
+          "id": "6721aeb8d9c3d37db41183a6",
+          "author": "Oduah Chigozie",
+          "description": "Smart pointers are data structures that act like pointers but contain extra information and have functionalities that make them excel over regular pointers in certain situations. So what are regular pointers? Regular pointers (just called “pointers”)...",
+          "link": "https://www.freecodecamp.org/news/smart-pointers-in-rust-with-code-examples/",
+          "publishedOn": "2024-10-30T03:57:44.000Z",
+          "wordCount": 2661,
+          "title": "What are Smart Pointers in Rust? Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730260779440/3d82425c-fdff-4a17-bb88-8193d964e6ba.jpeg"
+        },
+        {
           "id": "672103feae01d783da13018b",
           "author": "Vikram Aruchamy",
           "description": "Merging multiple Google Docs into a single document is often essential for compiling reports, gathering information from various sources, or creating unified documents for presentations or sharing. By combining multiple files into one, users can keep...",
@@ -286,8 +331,8 @@
           "description": "A codebase can become messy and hard to manage over time. This happens because of quick fixes, outdated features, or just not enough time to clean things up. When code becomes difficult to read or change, it slows down progress and can even cause bug...",
           "link": "https://www.freecodecamp.org/news/improve-and-restructure-codebase-with-ai-tools/",
           "publishedOn": "2024-10-29T14:58:03.000Z",
-          "wordCount": 5169,
-          "title": "How to Improve and and Restructure Your Codebase with AI Tools & Version Control",
+          "wordCount": 5166,
+          "title": "How to Improve and Restructure Your Codebase with AI Tools & Version Control",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730194934749/feb606d0-bbbd-43ae-a58c-5932d8c2d76c.png"
         },
         {
@@ -339,36 +384,6 @@
           "wordCount": 2061,
           "title": "How to Deploy Your Project On Vercel With A Custom Domain",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729806244084/f4aca70a-801e-4577-8073-e078323db51a.jpeg"
-        },
-        {
-          "id": "671be68e68f1df3481f20947",
-          "author": "Quincy Larson",
-          "description": "2024 has been an extremely productive year for the freeCodeCamp community. We’ve built up an incredible amount of momentum toward our mission of creating open learning resources for everyone. Over the past 12 months, the freeCodeCamp community has: ...",
-          "link": "https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/",
-          "publishedOn": "2024-10-25T18:42:22.000Z",
-          "wordCount": 2258,
-          "title": "freeCodeCamp's Top Open Source Contributors of 2024",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729641249136/d8ef629c-64b8-4f80-bb57-b5f6b00bfa23.png"
-        },
-        {
-          "id": "671bc601bf239575d6efca0c",
-          "author": "Oluwadamisi Samuel",
-          "description": "When you're coding in JavaScript, handling decisions through conditional statements is one of the core tasks you'll frequently encounter. One of the most commonly used methods for this is the ternary operator. But what exactly is it, and when should ...",
-          "link": "https://www.freecodecamp.org/news/write-cleaner-javascript-code-with-the-ternary-operator/",
-          "publishedOn": "2024-10-25T16:23:29.000Z",
-          "wordCount": 2196,
-          "title": "How to Write Cleaner JavaScript Code with The Ternary Operator",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729865186546/5c28c610-6540-4363-814d-c3c0c532be69.png"
-        },
-        {
-          "id": "671bb68ab1de10b671182954",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Dorian Develops. He's a software engineer and prolific YouTube creator. Dorian grew up in the Little Havana neighborhood of Miami. He's the child of a single mother that arrived as a refugee from Cub...",
-          "link": "https://www.freecodecamp.org/news/from-stealing-cars-to-self-taught-software-engineer-dorian-develops-podcast-147/",
-          "publishedOn": "2024-10-25T15:17:30.000Z",
-          "wordCount": 1341,
-          "title": "From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729869313891/851e21fd-2e0a-4936-b088-f8895fd07240.jpeg"
         }
       ]
     }
