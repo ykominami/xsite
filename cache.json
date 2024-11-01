@@ -17,7 +17,7 @@
           "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/state-of-css-2024-results/",
           "publishedOn": "2024-10-30T16:43:55.000Z",
-          "wordCount": 2964,
+          "wordCount": 3176,
           "title": "State of CSS 2024 Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
         },
@@ -47,9 +47,9 @@
           "description": "Imagine a scenario where you need to split a layout in half. Basically two equal height columns are needed inside of a container. Each side takes up exactly half of the container. Like many things in CSS, there are a number of ways to go about this.\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/left-and-right/",
           "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": null,
+          "wordCount": 3338,
           "title": "Left Half and Right Half Layout – Many Different Ways",
-          "imageUrl": null
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
         },
         {
           "id": "https://css-tricks.com/?p=382065",
@@ -162,9 +162,9 @@
           "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
           "publishedOn": "2024-10-09T14:10:33.000Z",
-          "wordCount": null,
+          "wordCount": 2132,
           "title": "2024: More CSS At-Rules Than the Past Decade Combined",
-          "imageUrl": null
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
         }
       ]
     },
@@ -173,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
+          "publishedOn": "2024-10-31T14:00:00.000Z",
+          "wordCount": 5211,
+          "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2024/10/designing-for-gen-z/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -194,7 +209,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4707,
+          "wordCount": 4711,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -224,7 +239,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5601,
+          "wordCount": 5608,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -239,7 +254,7 @@
           "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
           "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4669,
+          "wordCount": 4674,
           "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
             "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
@@ -254,7 +269,7 @@
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
           "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "publishedOn": "2024-10-04T09:00:00.000Z",
-          "wordCount": 5148,
+          "wordCount": 5153,
           "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
@@ -262,21 +277,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
-          "author": "hello@smashingmagazine.com (Philip Jägenstedt)",
-          "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
-          "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
-          "publishedOn": "2024-10-02T10:00:00.000Z",
-          "wordCount": 4621,
-          "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg"
         }
       ]
     },
@@ -285,6 +285,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6723aaab6ac0ce6c240da454",
+          "author": "Manish Shivanandhan",
+          "description": "Cybersecurity remains one of the fastest-growing fields today, and for a good reason. The need for skilled cyber defenders grows as our lives and businesses go ever more digital. A cybersecurity certification can help you boost your skills and demons...",
+          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-for-devs/",
+          "publishedOn": "2024-10-31T16:04:59.000Z",
+          "wordCount": 2202,
+          "title": "Top Cybersecurity Certifications You Should Know About as a Developer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730345266064/3beca7ae-38c1-41f5-a5f6-c3ebd16827b0.png"
+        },
+        {
+          "id": "6723a4a233e12497593c1eae",
+          "author": "Beau Carnes",
+          "description": "Generative AI is reshaping the landscape of artificial intelligence, allowing machines to create text, images, audio, and even answer questions in natural language. But understanding the entire end-to-end process can be complex without structured gui...",
+          "link": "https://www.freecodecamp.org/news/learn-generative-ai-for-developers/",
+          "publishedOn": "2024-10-31T15:39:14.000Z",
+          "wordCount": 1509,
+          "title": "Learn Generative AI for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730389134951/ded0d27f-ffba-4f33-aa77-cce2eb4a28e0.png"
+        },
+        {
+          "id": "6722f316b717c1a9c6f35b34",
+          "author": "Grant Riordan",
+          "description": "Extension methods are a fundamental part of C# and Object Oriented Programming (OOP). Extension methods in C# allow you to \"extend\" existing types, including classes, interfaces, or structs, without modifying their original code. This is particularly...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-extension-methods-in-csharp/",
+          "publishedOn": "2024-10-31T03:01:42.000Z",
+          "wordCount": 3051,
+          "title": "How to Write Extension Methods in C#",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730322390431/42cfe64d-0fce-4f36-a4f7-25e1e56267a4.png"
+        },
         {
           "id": "67228665c48a2523d1dedb0a",
           "author": "Md. Fahim Bin Amin",
@@ -354,36 +384,6 @@
           "wordCount": 3280,
           "title": "freeCodeCamp Turns 10 + Major Certification Updates",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730133354055/767f41f9-70e6-4e1c-b0d5-1927a925c9cc.png"
-        },
-        {
-          "id": "671f94819cd90a859ae00b55",
-          "author": "Anant Chowdhary",
-          "description": "Reliable systems consistently perform their intended functions under various conditions while minimizing downtime and failures. As internet users, we tend to take for granted that the systems that we use daily will operate reliably. In this article, ...",
-          "link": "https://www.freecodecamp.org/news/how-message-queues-make-distributed-systems-more-reliable/",
-          "publishedOn": "2024-10-28T13:41:21.000Z",
-          "wordCount": 3369,
-          "title": "How Message Queues Help Make Distributed Systems More Reliable",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729895479626/5d476c5d-9749-4c2a-977b-bcdd8b2b8199.jpeg"
-        },
-        {
-          "id": "671bf3858ac006ad747be97f",
-          "author": "Manish Shivanandhan",
-          "description": "Let’s learn how to find hidden information online by using advanced search operators on Google. The internet holds vast amounts of information. Much of this information is accessible through Google. But did you know you can use Google in ways beyond ...",
-          "link": "https://www.freecodecamp.org/news/google-dorking-how-to-find-hidden-information-on-the-web/",
-          "publishedOn": "2024-10-25T19:37:41.000Z",
-          "wordCount": 1907,
-          "title": "Google Dorking: How to Find Hidden Information on the Web",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729872503418/1e5921bc-52ba-4410-86a3-5e96a2c22405.jpeg"
-        },
-        {
-          "id": "671bf3148df28644ca9012f9",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "Have you ever built a project but found it difficult to make it live on the internet? Well, worry no more because this article will help you do that. In this article, I will introduce you to one of the fastest and easiest deployment platforms for bri...",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-project-on-vercel/",
-          "publishedOn": "2024-10-25T19:35:48.000Z",
-          "wordCount": 2061,
-          "title": "How to Deploy Your Project On Vercel With A Custom Domain",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729806244084/f4aca70a-801e-4577-8073-e078323db51a.jpeg"
         }
       ]
     }
