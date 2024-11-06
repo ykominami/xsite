@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-05T00:12:56.825Z</id>
+    <id>urn:2024-11-06T00:13:04.121Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T00:12:56.825Z</updated>
+    <updated>2024-11-06T00:13:04.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fluid Everything Else]]></title>
+        <id>https://css-tricks.com/?p=382107</id>
+        <link href="https://css-tricks.com/fluid-everything-else/"/>
+        <updated>2024-11-05T20:49:40.000Z</updated>
+        <summary type="html"><![CDATA[We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.
+Fluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Richard Hubbard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Clean Code – Tips for Developers with Examples]]></title>
+        <id>672a51c02bb94277a075a484</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/"/>
+        <updated>2024-11-05T17:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...]]></summary>
+        <author>
+            <name>Programming with Shahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Tailwind with Django – With Code Examples]]></title>
+        <id>672a2317dd9236b285ebb527</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/"/>
+        <updated>2024-11-05T13:52:23.000Z</updated>
+        <summary type="html"><![CDATA[In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Launch an EC2 Instance and Set Up a Web Server Using HTTPD]]></title>
+        <id>672a1e5f52317a5d102c0dd9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-launch-an-ec2-instance-and-a-web-server-using-httpd/"/>
+        <updated>2024-11-05T13:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API CRUD Course in Spanish – Learn Node.js, Express, MongoDB, and Authentication]]></title>
+        <id>672a09ff678d23ad0f6618bd</id>
+        <link href="https://www.freecodecamp.org/news/api-crud-course-in-spanish-learn-nodejs-express-mongodb-and-authentication/"/>
+        <updated>2024-11-05T12:05:19.000Z</updated>
+        <summary type="html"><![CDATA[CRUD operations are the foundation of back-end web development. CRUD stands for Create, Read, Update, and Delete. They are essential operations for modern web development because they are used to manage data in most web applications. We just publishe...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website]]></title>
+        <id>https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/</id>
+        <link href="https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/"/>
+        <updated>2024-11-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fuzz Test Golang HTTP Services]]></title>
+        <id>672941e6066de072ede39685</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/"/>
+        <updated>2024-11-04T21:51:34.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you can’t always envision all of the possible inputs your programs or functions might receive. Even though you can define the major edge cases, you still can’t predict how your program will behave in the case of some weird unexpected ...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become an Open Source Master]]></title>
+        <id>67293d27f76256c5c96d08f9</id>
+        <link href="https://www.freecodecamp.org/news/become-an-open-source-master/"/>
+        <updated>2024-11-04T21:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Open-source software has transformed the tech industry, creating powerful opportunities for learning, growth, and collaboration. By contributing to open-source projects, you can build essential coding skills, gain real-world experience, and make mean...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Less Common HTML Elements and How to Use Them in Your Code]]></title>
         <id>67292117f26a058bcaa2e19d</id>
@@ -59,16 +140,6 @@ Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Generative AI for Developers]]></title>
-        <id>6723a4a233e12497593c1eae</id>
-        <link href="https://www.freecodecamp.org/news/learn-generative-ai-for-developers/"/>
-        <updated>2024-10-31T15:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is reshaping the landscape of artificial intelligence, allowing machines to create text, images, audio, and even answer questions in natural language. But understanding the entire end-to-end process can be complex without structured gui...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ingredients For A Cozy November (2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/</id>
         <link href="https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/"/>
@@ -76,26 +147,6 @@ Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally publish
         <summary type="html"><![CDATA[November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Extension Methods in C#]]></title>
-        <id>6722f316b717c1a9c6f35b34</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-extension-methods-in-csharp/"/>
-        <updated>2024-10-31T03:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Extension methods are a fundamental part of C# and Object Oriented Programming (OOP). Extension methods in C# allow you to "extend" existing types, including classes, interfaces, or structs, without modifying their original code. This is particularly...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove All Saved Posts from Facebook Using JavaScript]]></title>
-        <id>67228665c48a2523d1dedb0a</id>
-        <link href="https://www.freecodecamp.org/news/remove-all-saved-posts-from-facebook-using-javascript/"/>
-        <updated>2024-10-30T19:17:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're an avid Facebook user, you've probably saved countless posts, videos, and links to revisit later. But sometimes, these saved posts accumulate and become overwhelming. You may decide to un-save them all at once rather than manually uncheckin...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -110,16 +161,6 @@ State of CSS 2024 Results originally published on CSS-Tricks, which is part of t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Developer Tools to Debug JavaScript in the Browser]]></title>
-        <id>67224a271058ad4196106527</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/"/>
-        <updated>2024-10-30T15:00:55.000Z</updated>
-        <summary type="html"><![CDATA[The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing For Gen Z: Expectations And UX Guidelines]]></title>
         <id>https://smashingmagazine.com/2024/10/designing-for-gen-z/</id>
         <link href="https://smashingmagazine.com/2024/10/designing-for-gen-z/"/>
@@ -127,26 +168,6 @@ State of CSS 2024 Results originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[There are many myths revolving around Gen Z and how they use tech. Time to take a look at actual behavior patterns that go beyond heavy use of social media. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Smart Pointers in Rust? Explained with Code Examples]]></title>
-        <id>6721aeb8d9c3d37db41183a6</id>
-        <link href="https://www.freecodecamp.org/news/smart-pointers-in-rust-with-code-examples/"/>
-        <updated>2024-10-30T03:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Smart pointers are data structures that act like pointers but contain extra information and have functionalities that make them excel over regular pointers in certain situations. So what are regular pointers? Regular pointers (just called “pointers”)...]]></summary>
-        <author>
-            <name>Oduah Chigozie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Multiple Google Docs into One]]></title>
-        <id>672103feae01d783da13018b</id>
-        <link href="https://www.freecodecamp.org/news/merge-multiple-google-docs-with-apps-script-or-google-docs-api/"/>
-        <updated>2024-10-29T15:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Merging multiple Google Docs into a single document is often essential for compiling reports, gathering information from various sources, or creating unified documents for presentations or sharing. By combining multiple files into one, users can keep...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
         </author>
     </entry>
     <entry>
@@ -310,18 +331,6 @@ CSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WPGraphQL Becomes a Canonical Plugin: My Move to Automattic]]></title>
-        <id>https://css-tricks.com/?p=381752</id>
-        <link href="https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/"/>
-        <updated>2024-10-10T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.
-I’m …
-WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

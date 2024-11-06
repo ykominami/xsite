@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382107",
+          "author": "Richard Hubbard",
+          "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fluid-everything-else/",
+          "publishedOn": "2024-11-05T20:49:40.000Z",
+          "wordCount": 3585,
+          "title": "Fluid Everything Else",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
+        },
+        {
           "id": "https://css-tricks.com/?p=382156",
           "author": "Lee Meyer",
           "description": "Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.\nWeb-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +165,6 @@
           "wordCount": 3461,
           "title": "CSS Tricks That Use Only One Gradient",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381752",
-          "author": "Geoff Graham",
-          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
-          "publishedOn": "2024-10-10T14:00:32.000Z",
-          "wordCount": 1465,
-          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
         }
       ]
     },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.",
+          "link": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
+          "publishedOn": "2024-11-05T10:00:00.000Z",
+          "wordCount": 4240,
+          "title": "Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5107,
+          "wordCount": 5102,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -209,7 +224,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4710,
+          "wordCount": 4713,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -239,7 +254,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5601,
+          "wordCount": 5610,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -270,6 +285,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672a51c02bb94277a075a484",
+          "author": "Programming with Shahan",
+          "description": "Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/",
+          "publishedOn": "2024-11-05T17:11:28.000Z",
+          "wordCount": 4822,
+          "title": "How to Write Clean Code – Tips for Developers with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730737606075/5cb4369b-9f2e-4f97-9765-ac00a62800c6.png"
+        },
+        {
+          "id": "672a2317dd9236b285ebb527",
+          "author": "Abhijeet Dave",
+          "description": "In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/",
+          "publishedOn": "2024-11-05T13:52:23.000Z",
+          "wordCount": 2220,
+          "title": "How to Integrate Tailwind with Django – With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730270888412/a440ff74-6e8b-4879-8b47-15aedca45bc4.png"
+        },
+        {
+          "id": "672a1e5f52317a5d102c0dd9",
+          "author": "Kedar Makode",
+          "description": "Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...",
+          "link": "https://www.freecodecamp.org/news/how-to-launch-an-ec2-instance-and-a-web-server-using-httpd/",
+          "publishedOn": "2024-11-05T13:32:15.000Z",
+          "wordCount": 2533,
+          "title": "How to Launch an EC2 Instance and Set Up a Web Server Using HTTPD",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730780706184/e2ac9a27-7221-47c6-a8ae-db2f62892036.png"
+        },
+        {
+          "id": "672a09ff678d23ad0f6618bd",
+          "author": "Estefania Cassingena Navone",
+          "description": "CRUD operations are the foundation of back-end web development. CRUD stands for Create, Read, Update, and Delete. They are essential operations for modern web development because they are used to manage data in most web applications. We just publishe...",
+          "link": "https://www.freecodecamp.org/news/api-crud-course-in-spanish-learn-nodejs-express-mongodb-and-authentication/",
+          "publishedOn": "2024-11-05T12:05:19.000Z",
+          "wordCount": 1470,
+          "title": "API CRUD Course in Spanish – Learn Node.js, Express, MongoDB, and Authentication",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730504665686/121585fe-f005-465e-8f2f-9ede7de87d38.png"
+        },
+        {
+          "id": "672941e6066de072ede39685",
+          "author": "Alex Pliutau",
+          "description": "As a developer, you can’t always envision all of the possible inputs your programs or functions might receive. Even though you can define the major edge cases, you still can’t predict how your program will behave in the case of some weird unexpected ...",
+          "link": "https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/",
+          "publishedOn": "2024-11-04T21:51:34.000Z",
+          "wordCount": 2434,
+          "title": "How to Fuzz Test Golang HTTP Services",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730664559414/b64781c3-341f-4a5d-94fe-38ff78099b42.png"
+        },
+        {
+          "id": "67293d27f76256c5c96d08f9",
+          "author": "Beau Carnes",
+          "description": "Open-source software has transformed the tech industry, creating powerful opportunities for learning, growth, and collaboration. By contributing to open-source projects, you can build essential coding skills, gain real-world experience, and make mean...",
+          "link": "https://www.freecodecamp.org/news/become-an-open-source-master/",
+          "publishedOn": "2024-11-04T21:31:19.000Z",
+          "wordCount": 1319,
+          "title": "Become an Open Source Master",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730755865026/3a5d182f-4518-4b78-b6ac-2be3b16e3fce.png"
+        },
         {
           "id": "67292117f26a058bcaa2e19d",
           "author": "Joan Ayebola",
@@ -309,66 +384,6 @@
           "wordCount": 2110,
           "title": "Top Cybersecurity Certifications You Should Know About as a Developer",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730345266064/3beca7ae-38c1-41f5-a5f6-c3ebd16827b0.png"
-        },
-        {
-          "id": "6723a4a233e12497593c1eae",
-          "author": "Beau Carnes",
-          "description": "Generative AI is reshaping the landscape of artificial intelligence, allowing machines to create text, images, audio, and even answer questions in natural language. But understanding the entire end-to-end process can be complex without structured gui...",
-          "link": "https://www.freecodecamp.org/news/learn-generative-ai-for-developers/",
-          "publishedOn": "2024-10-31T15:39:14.000Z",
-          "wordCount": 1417,
-          "title": "Learn Generative AI for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730389134951/ded0d27f-ffba-4f33-aa77-cce2eb4a28e0.png"
-        },
-        {
-          "id": "6722f316b717c1a9c6f35b34",
-          "author": "Grant Riordan",
-          "description": "Extension methods are a fundamental part of C# and Object Oriented Programming (OOP). Extension methods in C# allow you to \"extend\" existing types, including classes, interfaces, or structs, without modifying their original code. This is particularly...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-extension-methods-in-csharp/",
-          "publishedOn": "2024-10-31T03:01:42.000Z",
-          "wordCount": 2959,
-          "title": "How to Write Extension Methods in C#",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730322390431/42cfe64d-0fce-4f36-a4f7-25e1e56267a4.png"
-        },
-        {
-          "id": "67228665c48a2523d1dedb0a",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you're an avid Facebook user, you've probably saved countless posts, videos, and links to revisit later. But sometimes, these saved posts accumulate and become overwhelming. You may decide to un-save them all at once rather than manually uncheckin...",
-          "link": "https://www.freecodecamp.org/news/remove-all-saved-posts-from-facebook-using-javascript/",
-          "publishedOn": "2024-10-30T19:17:57.000Z",
-          "wordCount": 1476,
-          "title": "How to Remove All Saved Posts from Facebook Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PTiQqAKzbmM/upload/94f3490edcd662844a0bf56f2e6b0ce2.jpeg"
-        },
-        {
-          "id": "67224a271058ad4196106527",
-          "author": "Kolade Chris",
-          "description": "The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/",
-          "publishedOn": "2024-10-30T15:00:55.000Z",
-          "wordCount": 2274,
-          "title": "How to Use Developer Tools to Debug JavaScript in the Browser",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gTs2w7bu3Qo/upload/f2ead89e25e967947691c8e4a1f8f862.jpeg"
-        },
-        {
-          "id": "6721aeb8d9c3d37db41183a6",
-          "author": "Oduah Chigozie",
-          "description": "Smart pointers are data structures that act like pointers but contain extra information and have functionalities that make them excel over regular pointers in certain situations. So what are regular pointers? Regular pointers (just called “pointers”)...",
-          "link": "https://www.freecodecamp.org/news/smart-pointers-in-rust-with-code-examples/",
-          "publishedOn": "2024-10-30T03:57:44.000Z",
-          "wordCount": 2569,
-          "title": "What are Smart Pointers in Rust? Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730260779440/3d82425c-fdff-4a17-bb88-8193d964e6ba.jpeg"
-        },
-        {
-          "id": "672103feae01d783da13018b",
-          "author": "Vikram Aruchamy",
-          "description": "Merging multiple Google Docs into a single document is often essential for compiling reports, gathering information from various sources, or creating unified documents for presentations or sharing. By combining multiple files into one, users can keep...",
-          "link": "https://www.freecodecamp.org/news/merge-multiple-google-docs-with-apps-script-or-google-docs-api/",
-          "publishedOn": "2024-10-29T15:49:18.000Z",
-          "wordCount": 2613,
-          "title": "How to Merge Multiple Google Docs into One",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730115525086/d5d63d7d-a5c0-4e16-868c-50901aebb248.jpeg"
         }
       ]
     }
