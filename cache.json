@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382247",
+          "author": "Juan Diego Rodríguez",
+          "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
+          "publishedOn": "2024-11-06T15:31:20.000Z",
+          "wordCount": 2964,
+          "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382247"
+        },
+        {
           "id": "https://css-tricks.com/?p=382107",
           "author": "Richard Hubbard",
           "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fluid-everything-else/",
           "publishedOn": "2024-11-05T20:49:40.000Z",
-          "wordCount": 3585,
+          "wordCount": 3668,
           "title": "Fluid Everything Else",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
         },
@@ -27,7 +37,7 @@
           "description": "Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.\nWeb-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/",
           "publishedOn": "2024-11-01T14:00:36.000Z",
-          "wordCount": 2722,
+          "wordCount": 2805,
           "title": "Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382156"
         },
@@ -37,7 +47,7 @@
           "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/state-of-css-2024-results/",
           "publishedOn": "2024-10-30T16:43:55.000Z",
-          "wordCount": 3381,
+          "wordCount": 3464,
           "title": "State of CSS 2024 Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
         },
@@ -47,7 +57,7 @@
           "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/tooltip-best-practices/",
           "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2284,
+          "wordCount": 2367,
           "title": "Tooltip Best Practices",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
         },
@@ -57,7 +67,7 @@
           "description": "Dark mode interfaces have matured a lot in the past few years. We all know the \"traditional\" approach using media queries but in this article, Sara Joy demonstrates modern CSS features that make respecting user color scheme preferences pretty darn easy.\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/come-to-the-light-dark-side/",
           "publishedOn": "2024-10-25T14:08:20.000Z",
-          "wordCount": 5715,
+          "wordCount": 5798,
           "title": "Come to the light-dark() Side",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
         },
@@ -67,7 +77,7 @@
           "description": "Imagine a scenario where you need to split a layout in half. Basically two equal height columns are needed inside of a container. Each side takes up exactly half of the container. Like many things in CSS, there are a number of ways to go about this.\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/left-and-right/",
           "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3338,
+          "wordCount": 3421,
           "title": "Left Half and Right Half Layout – Many Different Ways",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
         },
@@ -77,7 +87,7 @@
           "description": "The CSS text-wrap property is (rightfully) widely assumed to be used strictly for text elements. But Terrence Eden posted an article on his blog that shows how it can also be used to balance the way other types of elements wrap, including icons.\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
           "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1513,
+          "wordCount": 1596,
           "title": "You can use text-wrap: balance; on icons",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
         },
@@ -87,7 +97,7 @@
           "description": "Pop quiz! What's the difference between a Popover element and a Dialog element? The answer is not all that clear and is widely misunderstood, but Zell has a clear way to explain it so that you know which element to reach for in your work.\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
           "publishedOn": "2024-10-23T13:20:46.000Z",
-          "wordCount": 2503,
+          "wordCount": 2586,
           "title": "Clarifying the Relationship Between Popovers and Dialogs",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
         },
@@ -97,7 +107,7 @@
           "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
           "publishedOn": "2024-10-23T13:15:20.000Z",
-          "wordCount": 1459,
+          "wordCount": 1542,
           "title": "Clamp it! VS Code extension",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
@@ -112,7 +122,7 @@
           "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
           "publishedOn": "2024-10-21T13:50:53.000Z",
-          "wordCount": 5808,
+          "wordCount": 5891,
           "title": "Unleash the Power of Scroll-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
         },
@@ -122,7 +132,7 @@
           "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
           "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1667,
+          "wordCount": 1750,
           "title": "Combining forces, GSAP & Webflow!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
         },
@@ -132,7 +142,7 @@
           "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
           "publishedOn": "2024-10-18T11:36:04.000Z",
-          "wordCount": 1658,
+          "wordCount": 1741,
           "title": "Mastering theme.json: You might not need CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
         },
@@ -142,7 +152,7 @@
           "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
           "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1873,
+          "wordCount": 1956,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
         },
@@ -152,19 +162,9 @@
           "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
           "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3648,
+          "wordCount": 3731,
           "title": "Close, Exit, Cancel: How to End User Interactions Well",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381773",
-          "author": "Temani Afif",
-          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
-          "publishedOn": "2024-10-11T21:48:01.000Z",
-          "wordCount": 3461,
-          "title": "CSS Tricks That Use Only One Gradient",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
         }
       ]
     },
@@ -194,7 +194,7 @@
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5102,
+          "wordCount": 5094,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -224,7 +224,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4713,
+          "wordCount": 4710,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -254,7 +254,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5610,
+          "wordCount": 5597,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -262,21 +262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-          "author": "hello@smashingmagazine.com (Karin Hendrikse)",
-          "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
-          "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-          "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4679,
-          "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg"
         }
       ]
     },
@@ -285,6 +270,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672b941f0c32c8c8cd6159a9",
+          "author": "David Clinton",
+          "description": "Over the past year or so, the developer universe has exploded with ingenious new tools, applications, and processes for working with large language models and generative AI. One particularly versatile example is the LangChain project. The overall goa...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-langchain-and-gpt-to-analyze-multiple-documents/",
+          "publishedOn": "2024-11-06T16:06:55.000Z",
+          "wordCount": 1630,
+          "title": "How to Use LangChain and GPT to Analyze Multiple Documents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730909200914/e75f3725-7453-49c0-b4e9-8b14fbc3b783.jpeg"
+        },
         {
           "id": "672a51c02bb94277a075a484",
           "author": "Programming with Shahan",
@@ -374,16 +369,6 @@
           "wordCount": 1122,
           "title": "Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730482941201/5f5f727f-5676-42ba-a17a-dc973e8b818a.png"
-        },
-        {
-          "id": "6723aaab6ac0ce6c240da454",
-          "author": "Manish Shivanandhan",
-          "description": "Cybersecurity remains one of the fastest-growing fields today, and for a good reason. The need for skilled cyber defenders grows as our lives and businesses go ever more digital. A cybersecurity certification can help you boost your skills and demons...",
-          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-for-devs/",
-          "publishedOn": "2024-10-31T16:04:59.000Z",
-          "wordCount": 2110,
-          "title": "Top Cybersecurity Certifications You Should Know About as a Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730345266064/3beca7ae-38c1-41f5-a5f6-c3ebd16827b0.png"
         }
       ]
     }
