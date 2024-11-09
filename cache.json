@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382363",
+          "author": "Daniel Schwarz",
+          "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
+          "publishedOn": "2024-11-08T13:57:09.000Z",
+          "wordCount": 4266,
+          "title": "The Different (and Modern) Ways to Toggle Content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382363"
+        },
+        {
           "id": "https://css-tricks.com/?p=382247",
           "author": "Juan Diego Rodríguez",
           "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
           "publishedOn": "2024-11-06T15:31:20.000Z",
-          "wordCount": 3050,
+          "wordCount": 3137,
           "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382247"
         },
@@ -67,7 +77,7 @@
           "description": "Dark mode interfaces have matured a lot in the past few years. We all know the \"traditional\" approach using media queries but in this article, Sara Joy demonstrates modern CSS features that make respecting user color scheme preferences pretty darn easy.\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/come-to-the-light-dark-side/",
           "publishedOn": "2024-10-25T14:08:20.000Z",
-          "wordCount": 5798,
+          "wordCount": 5864,
           "title": "Come to the light-dark() Side",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
         },
@@ -155,16 +165,6 @@
           "wordCount": 1956,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381817",
-          "author": "Preethi",
-          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
-          "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3731,
-          "title": "Close, Exit, Cancel: How to End User Interactions Well",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
         }
       ]
     },
@@ -173,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
+          "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
+          "publishedOn": "2024-11-08T09:00:00.000Z",
+          "wordCount": 3668,
+          "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
@@ -194,7 +209,7 @@
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5100,
+          "wordCount": 5109,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -224,7 +239,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4708,
+          "wordCount": 4707,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -254,7 +269,7 @@
           "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5610,
+          "wordCount": 5606,
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
@@ -270,6 +285,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672e5a06d7a5828f344ec242",
+          "author": "Kedar Makode",
+          "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
+          "link": "https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/",
+          "publishedOn": "2024-11-08T18:35:50.000Z",
+          "wordCount": 1619,
+          "title": "How to Host a Website on AWS EC2 Using a CSS Template",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731090804046/9415a329-c3a7-4caa-9f78-757efc3c8da4.jpeg"
+        },
+        {
+          "id": "672e31c2d0e4fe6467edeb83",
+          "author": "David Jaja",
+          "description": "Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/",
+          "publishedOn": "2024-11-08T15:44:02.000Z",
+          "wordCount": 2263,
+          "title": "How to Use WebCurate to Discover Helpful Developer Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730908679140/f7c2ff53-9d06-4b2f-ae08-baaf219cba1f.png"
+        },
+        {
+          "id": "672e23dd41db65fcc7264dc0",
+          "author": "Manish Shivanandhan",
+          "description": "Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...",
+          "link": "https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/",
+          "publishedOn": "2024-11-08T14:44:45.000Z",
+          "wordCount": 2011,
+          "title": "Useful Nmap Scripts for Ethical Hackers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731077044881/75a0f1c6-0aae-4ed6-bcfd-777b2ae2b1b6.jpeg"
+        },
+        {
+          "id": "672df563eedb451674f63814",
+          "author": "Naveed Ausaf",
+          "description": "Semantic Versioning (or SemVer for short) is a software versioning scheme that stipulates three-part version numbers in the form ..\n, such as 1.0.2, with an optional prerelease suffix in the form -\n, as in 1.0.2-beta. S...",
+          "link": "https://www.freecodecamp.org/news/set-semantic-versioning-for-net/",
+          "publishedOn": "2024-11-08T11:26:27.000Z",
+          "wordCount": 2328,
+          "title": "How to Set Semantic Versioning for .NET Core Apps and Libraries",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731065367635/f8ce5091-d526-4d09-8282-2ffe63cead40.jpeg"
+        },
         {
           "id": "672cebbcd4b84c7df59edd79",
           "author": "Beau Carnes",
@@ -329,46 +384,6 @@
           "wordCount": 2220,
           "title": "How to Integrate Tailwind with Django – With Code Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730270888412/a440ff74-6e8b-4879-8b47-15aedca45bc4.png"
-        },
-        {
-          "id": "672a1e5f52317a5d102c0dd9",
-          "author": "Kedar Makode",
-          "description": "Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...",
-          "link": "https://www.freecodecamp.org/news/how-to-launch-an-ec2-instance-and-a-web-server-using-httpd/",
-          "publishedOn": "2024-11-05T13:32:15.000Z",
-          "wordCount": 2533,
-          "title": "How to Launch an EC2 Instance and Set Up a Web Server Using HTTPD",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730780706184/e2ac9a27-7221-47c6-a8ae-db2f62892036.png"
-        },
-        {
-          "id": "672a09ff678d23ad0f6618bd",
-          "author": "Estefania Cassingena Navone",
-          "description": "CRUD operations are the foundation of back-end web development. CRUD stands for Create, Read, Update, and Delete. They are essential operations for modern web development because they are used to manage data in most web applications. We just publishe...",
-          "link": "https://www.freecodecamp.org/news/api-crud-course-in-spanish-learn-nodejs-express-mongodb-and-authentication/",
-          "publishedOn": "2024-11-05T12:05:19.000Z",
-          "wordCount": 1470,
-          "title": "API CRUD Course in Spanish – Learn Node.js, Express, MongoDB, and Authentication",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730504665686/121585fe-f005-465e-8f2f-9ede7de87d38.png"
-        },
-        {
-          "id": "672941e6066de072ede39685",
-          "author": "Alex Pliutau",
-          "description": "As a developer, you can’t always envision all of the possible inputs your programs or functions might receive. Even though you can define the major edge cases, you still can’t predict how your program will behave in the case of some weird unexpected ...",
-          "link": "https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/",
-          "publishedOn": "2024-11-04T21:51:34.000Z",
-          "wordCount": 2434,
-          "title": "How to Fuzz Test Golang HTTP Services",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730664559414/b64781c3-341f-4a5d-94fe-38ff78099b42.png"
-        },
-        {
-          "id": "67293d27f76256c5c96d08f9",
-          "author": "Beau Carnes",
-          "description": "Open-source software has transformed the tech industry, creating powerful opportunities for learning, growth, and collaboration. By contributing to open-source projects, you can build essential coding skills, gain real-world experience, and make mean...",
-          "link": "https://www.freecodecamp.org/news/become-an-open-source-master/",
-          "publishedOn": "2024-11-04T21:31:19.000Z",
-          "wordCount": 1319,
-          "title": "Become an Open Source Master",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730755865026/3a5d182f-4518-4b78-b6ac-2be3b16e3fce.png"
         }
       ]
     }
