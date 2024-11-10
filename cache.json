@@ -179,7 +179,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3668,
+          "wordCount": 3659,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -209,7 +209,7 @@
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5109,
+          "wordCount": 5096,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -239,7 +239,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4707,
+          "wordCount": 4718,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -262,21 +262,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
-          "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
-          "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5606,
-          "title": "Using Multimodal AI Models For Your Applications (Part 3)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
         }
       ]
     },
@@ -286,6 +271,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "672e890a430ee66c1750bdbc",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...",
+          "link": "https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/",
+          "publishedOn": "2024-11-08T21:56:26.000Z",
+          "wordCount": 1127,
+          "title": "The State of AI with Stanford Researcher Yifan Mai (Podcast #149)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731102910271/db4e196d-0f6b-4366-8b80-98030f92282e.png"
+        },
+        {
           "id": "672e5a06d7a5828f344ec242",
           "author": "Kedar Makode",
           "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
@@ -293,7 +288,7 @@
           "publishedOn": "2024-11-08T18:35:50.000Z",
           "wordCount": 1619,
           "title": "How to Host a Website on AWS EC2 Using a CSS Template",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731090804046/9415a329-c3a7-4caa-9f78-757efc3c8da4.jpeg"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731103973241/e1277a4c-3456-4f11-b809-24caf56ae13a.png"
         },
         {
           "id": "672e31c2d0e4fe6467edeb83",
@@ -374,16 +369,6 @@
           "wordCount": 4822,
           "title": "How to Write Clean Code – Tips for Developers with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730737606075/5cb4369b-9f2e-4f97-9765-ac00a62800c6.png"
-        },
-        {
-          "id": "672a2317dd9236b285ebb527",
-          "author": "Abhijeet Dave",
-          "description": "In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/",
-          "publishedOn": "2024-11-05T13:52:23.000Z",
-          "wordCount": 2220,
-          "title": "How to Integrate Tailwind with Django – With Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730270888412/a440ff74-6e8b-4879-8b47-15aedca45bc4.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-09T00:12:55.503Z</id>
+    <id>urn:2024-11-10T00:14:11.390Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T00:12:55.503Z</updated>
+    <updated>2024-11-10T00:14:11.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The State of AI with Stanford Researcher Yifan Mai (Podcast #149)]]></title>
+        <id>672e890a430ee66c1750bdbc</id>
+        <link href="https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/"/>
+        <updated>2024-11-08T21:56:26.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Host a Website on AWS EC2 Using a CSS Template]]></title>
         <id>672e5a06d7a5828f344ec242</id>
@@ -138,16 +148,6 @@ Fluid Everything Else originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...]]></summary>
         <author>
             <name>Programming with Shahan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Tailwind with Django – With Code Examples]]></title>
-        <id>672a2317dd9236b285ebb527</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/"/>
-        <updated>2024-11-05T13:52:23.000Z</updated>
-        <summary type="html"><![CDATA[In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
         </author>
     </entry>
     <entry>
@@ -331,16 +331,6 @@ Solving Background Overflow With Inherited Border Radii originally published on 
         <summary type="html"><![CDATA[Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Multimodal AI Models For Your Applications (Part 3)]]></title>
-        <id>https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/</id>
-        <link href="https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/"/>
-        <updated>2024-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
