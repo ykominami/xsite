@@ -194,7 +194,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3674,
+          "wordCount": 3666,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -224,7 +224,7 @@
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5209,
+          "wordCount": 5105,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4708,
+          "wordCount": 4706,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -285,6 +285,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67350bbf437f61ba9155860d",
+          "author": "Jesse Hall",
+          "description": "JavaScript's handling of dates and times has long frustrated developers. The built-in Date object, created in JavaScript’s early days, has numerous limitations and quirks that complicate working with dates and times. Fortunately for us, the Temporal ...",
+          "link": "https://www.freecodecamp.org/news/how-javascripts-temporal-proposal-will-change-datetime-functions/",
+          "publishedOn": "2024-11-13T20:27:43.000Z",
+          "wordCount": 2341,
+          "title": "How JavaScript's Temporal Proposal Will Change Date/Time Functions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mRGtYItJRnA/upload/62e08fa08517011b9a4f54e9002b76ca.jpeg"
+        },
+        {
+          "id": "6734cea5ae439f84c4b2399b",
+          "author": "abdurrahman RAJAB",
+          "description": "While using one of your favorite websites, you might have often thought, \"What if this website had this particular functionality? That would be great!\" If you have ever had such thoughts, this article is for you. In it, you'll learn how websites comm...",
+          "link": "https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/",
+          "publishedOn": "2024-11-13T16:07:01.000Z",
+          "wordCount": 4096,
+          "title": "How to Reverse Engineer a Website – a Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FlPc9_VocJ4/upload/bfbb3d6320985e7e7db8d18465d20af4.jpeg"
+        },
+        {
+          "id": "6734bab8a54e29ff5593767c",
+          "author": "Beau Carnes",
+          "description": "Creating a modern, full-stack web application has never been more exciting, thanks to the wide array of powerful tools available to developers today. If you’ve ever thought about building a dynamic, feature-rich app but weren’t sure where to start, t...",
+          "link": "https://www.freecodecamp.org/news/build-deploy-a-full-stack-dating-app/",
+          "publishedOn": "2024-11-13T14:42:00.000Z",
+          "wordCount": 1476,
+          "title": "Build & Deploy a Full Stack Dating App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731508907850/33dee9f9-6bed-4b4c-9c3c-5e455ab866b0.png"
+        },
         {
           "id": "6733b552ba5d0212f3eab6e1",
           "author": "Temitope Oyedele",
@@ -354,36 +384,6 @@
           "wordCount": 1619,
           "title": "How to Host a Website on AWS EC2 Using a CSS Template",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731103973241/e1277a4c-3456-4f11-b809-24caf56ae13a.png"
-        },
-        {
-          "id": "672e31c2d0e4fe6467edeb83",
-          "author": "David Jaja",
-          "description": "Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/",
-          "publishedOn": "2024-11-08T15:44:02.000Z",
-          "wordCount": 2263,
-          "title": "How to Use WebCurate to Discover Helpful Developer Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730908679140/f7c2ff53-9d06-4b2f-ae08-baaf219cba1f.png"
-        },
-        {
-          "id": "672e23dd41db65fcc7264dc0",
-          "author": "Manish Shivanandhan",
-          "description": "Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...",
-          "link": "https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/",
-          "publishedOn": "2024-11-08T14:44:45.000Z",
-          "wordCount": 2011,
-          "title": "Useful Nmap Scripts for Ethical Hackers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731077044881/75a0f1c6-0aae-4ed6-bcfd-777b2ae2b1b6.jpeg"
-        },
-        {
-          "id": "672df563eedb451674f63814",
-          "author": "Naveed Ausaf",
-          "description": "Semantic Versioning (or SemVer for short) is a software versioning scheme that stipulates three-part version numbers in the form ..\n, such as 1.0.2, with an optional prerelease suffix in the form -\n, as in 1.0.2-beta. S...",
-          "link": "https://www.freecodecamp.org/news/set-semantic-versioning-for-net/",
-          "publishedOn": "2024-11-08T11:26:27.000Z",
-          "wordCount": 2328,
-          "title": "How to Set Semantic Versioning for .NET Core Apps and Libraries",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731065367635/f8ce5091-d526-4d09-8282-2ffe63cead40.jpeg"
         }
       ]
     }
