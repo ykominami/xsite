@@ -37,7 +37,7 @@
           "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
           "publishedOn": "2024-11-08T13:57:09.000Z",
-          "wordCount": 4418,
+          "wordCount": 4450,
           "title": "The Different (and Modern) Ways to Toggle Content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382363"
         },
@@ -97,7 +97,7 @@
           "description": "Dark mode interfaces have matured a lot in the past few years. We all know the \"traditional\" approach using media queries but in this article, Sara Joy demonstrates modern CSS features that make respecting user color scheme preferences pretty darn easy.\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/come-to-the-light-dark-side/",
           "publishedOn": "2024-10-25T14:08:20.000Z",
-          "wordCount": 5962,
+          "wordCount": 6139,
           "title": "Come to the light-dark() Side",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
         },
@@ -107,7 +107,7 @@
           "description": "Imagine a scenario where you need to split a layout in half. Basically two equal height columns are needed inside of a container. Each side takes up exactly half of the container. Like many things in CSS, there are a number of ways to go about this.\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/left-and-right/",
           "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3442,
+          "wordCount": 3582,
           "title": "Left Half and Right Half Layout – Many Different Ways",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
         },
@@ -117,7 +117,7 @@
           "description": "The CSS text-wrap property is (rightfully) widely assumed to be used strictly for text elements. But Terrence Eden posted an article on his blog that shows how it can also be used to balance the way other types of elements wrap, including icons.\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
           "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1596,
+          "wordCount": 1736,
           "title": "You can use text-wrap: balance; on icons",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
         },
@@ -152,7 +152,7 @@
           "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
           "publishedOn": "2024-10-21T13:50:53.000Z",
-          "wordCount": 5891,
+          "wordCount": 6079,
           "title": "Unleash the Power of Scroll-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
         },
@@ -162,7 +162,7 @@
           "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
           "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1753,
+          "wordCount": 1893,
           "title": "Combining forces, GSAP & Webflow!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
         }
@@ -173,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!",
+          "link": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
+          "publishedOn": "2024-11-14T10:00:00.000Z",
+          "wordCount": 3623,
+          "title": "Open-Source Meets Design Tooling With Penpot",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
           "author": "hello@smashingmagazine.com (The Smashing Team)",
@@ -224,7 +239,7 @@
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5105,
+          "wordCount": 5100,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -254,7 +269,7 @@
           "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
           "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
           "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4706,
+          "wordCount": 4712,
           "title": "CSS min() All The Things",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
@@ -262,21 +277,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.",
-          "link": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
-          "publishedOn": "2024-10-15T14:00:00.000Z",
-          "wordCount": 5824,
-          "title": "It’s Here! How To Measure UX &amp; Design Impact, With Vitaly Friedman",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png"
         }
       ]
     },
@@ -285,6 +285,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "673616b2ea38d82d84002cda",
+          "author": "Birks Sachdev",
+          "description": "As software projects grow, it becomes increasingly important to keep your code organized, maintainable, and scalable. This is where design patterns come into play. Design patterns provide proven, reusable solutions to common software design challenge...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-design-patterns-in-java-with-spring-boot/",
+          "publishedOn": "2024-11-14T15:26:42.000Z",
+          "wordCount": 4972,
+          "title": "How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1td5Iq5IvNc/upload/adaeb0229ea4ed1cd3c985d8eb92d23e.jpeg"
+        },
+        {
+          "id": "67360e398a8e3a6a2f6c32cd",
+          "author": "Md. Fahim Bin Amin",
+          "description": "XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...",
+          "link": "https://www.freecodecamp.org/news/how-to-install-and-configure-xampp-properly-to-avoid-errors-when-you-close-the-app/",
+          "publishedOn": "2024-11-14T14:50:33.000Z",
+          "wordCount": 1296,
+          "title": "How to Install and Configure XAMPP Properly to Avoid Errors When You Close the App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/ab4deba46100e61a5425d817f6406742.jpeg"
+        },
         {
           "id": "67350bbf437f61ba9155860d",
           "author": "Jesse Hall",
@@ -297,11 +317,11 @@
         },
         {
           "id": "6734cea5ae439f84c4b2399b",
-          "author": "abdurrahman RAJAB",
+          "author": "Abdurrahman Rajab",
           "description": "While using one of your favorite websites, you might have often thought, \"What if this website had this particular functionality? That would be great!\" If you have ever had such thoughts, this article is for you. In it, you'll learn how websites comm...",
           "link": "https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/",
           "publishedOn": "2024-11-13T16:07:01.000Z",
-          "wordCount": 4096,
+          "wordCount": 4107,
           "title": "How to Reverse Engineer a Website – a Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FlPc9_VocJ4/upload/bfbb3d6320985e7e7db8d18465d20af4.jpeg"
         },
@@ -364,26 +384,6 @@
           "wordCount": 2269,
           "title": "What is Cloud Computing? A Guide for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730228320580/871eed36-be9c-4ca8-a92d-b0329ad91ffe.png"
-        },
-        {
-          "id": "672e890a430ee66c1750bdbc",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...",
-          "link": "https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/",
-          "publishedOn": "2024-11-08T21:56:26.000Z",
-          "wordCount": 1127,
-          "title": "The State of AI with Stanford Researcher Yifan Mai (Podcast #149)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731102910271/db4e196d-0f6b-4366-8b80-98030f92282e.png"
-        },
-        {
-          "id": "672e5a06d7a5828f344ec242",
-          "author": "Kedar Makode",
-          "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
-          "link": "https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/",
-          "publishedOn": "2024-11-08T18:35:50.000Z",
-          "wordCount": 1619,
-          "title": "How to Host a Website on AWS EC2 Using a CSS Template",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731103973241/e1277a4c-3456-4f11-b809-24caf56ae13a.png"
         }
       ]
     }
