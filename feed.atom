@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-15T00:13:52.297Z</id>
+    <id>urn:2024-11-16T00:13:49.043Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-15T00:13:52.297Z</updated>
+    <updated>2024-11-16T00:13:49.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]]]></title>
+        <id>6737abf27f9bd5ad3f21cfd7</id>
+        <link href="https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/"/>
+        <updated>2024-11-15T20:15:46.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Tim Ruscica, the software engineer and prolific programming teacher behind the Tech with Tim YouTube channel. He's also developed courses on freeCodeCamp's YouTube channel. We talk about: How Tim ma...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Visit a Website? How the Web Works Explained]]></title>
+        <id>67378578138bc8b1c027a1e8</id>
+        <link href="https://www.freecodecamp.org/news/what-happens-when-you-visit-a-website/"/>
+        <updated>2024-11-15T17:31:36.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll guide you through an overview of what happens when you navigate to a website using your browser. Whether you’re new to web development or have some experience, this post will help you gain a better understanding of how the web a...]]></summary>
+        <author>
+            <name>Viviana Yanez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Support Multiple Languages In Your Flutter Application]]></title>
+        <id>673783bb1fb7eac514af465b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-support-multiple-languages-in-flutter/"/>
+        <updated>2024-11-15T17:24:11.000Z</updated>
+        <summary type="html"><![CDATA[When building my own applications, I usually don’t stress about having multiple language support. All of my applications are pet projects of mine and I mostly use them to learn and advance my knowledge. Without any intention, some of the applications...]]></summary>
+        <author>
+            <name>Tomer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Full Stack Spotify Clone with Flutter]]></title>
+        <id>673677f66aa5d15c65da2de2</id>
+        <link href="https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/"/>
+        <updated>2024-11-14T22:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how apps like Spotify are built? Now’s your chance to learn! With the power of modern technologies like Flutter, FastAPI, and PostgreSQL, you can create a full-featured music streaming app from scratch. We just published a cour...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples]]></title>
         <id>673616b2ea38d82d84002cda</id>
@@ -76,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Dropbox-like Distributed File Storage System Using MinIO and gRPC]]></title>
-        <id>6733b4dc73da063aa0407447</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-dropbox-like-distributed-file-storage-system-using-minio-and-grpc/"/>
-        <updated>2024-11-12T20:04:44.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll guide you through building a distributed file storage system inspired by Dropbox, using MinIO (an open-source, S3-compatible object storage server) and gRPC. The goal is to create a system that can store, replicate, and manage ...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Multi-Module Projects in Spring Boot for Scalable Microservices]]></title>
-        <id>6733855c0e235bf7a79c5c4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-multi-module-projects-in-spring-boot-for-scalable-microservices/"/>
-        <updated>2024-11-12T16:42:04.000Z</updated>
-        <summary type="html"><![CDATA[As software applications grow in complexity, managing scalability, modularity, and clarity becomes essential. Spring Boot’s multi-module structure allows you to manage different parts of the application independently, which lets your team develop, te...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
         <id>https://smashingmagazine.com/2024/11/bundle-up-and-save/</id>
         <link href="https://smashingmagazine.com/2024/11/bundle-up-and-save/"/>
@@ -114,26 +134,6 @@
 Anchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify Your Git Commands with Git Aliases]]></title>
-        <id>673342b4d519e9b4d12f23d8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-simplify-your-git-commands-with-git-aliases/"/>
-        <updated>2024-11-12T11:57:40.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you probably use the Git CLI (Command Line Interface) daily. However, writing the same old commands repeatedly can be laborious, especially when the commands are lengthy. This is where Git aliases come in to help out. In this article,...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Cloud Computing? A Guide for Beginners]]></title>
-        <id>6732b0dbe6dfc6edf3fe9c72</id>
-        <link href="https://www.freecodecamp.org/news/cloud-computing-guide-for-beginners/"/>
-        <updated>2024-11-12T01:35:23.000Z</updated>
-        <summary type="html"><![CDATA[When I was a kid, I loved looking at clouds and imagining funny shapes. Sometimes, I even wondered if someone was up there! Now that I’m an adult, I still ask, “What’s in the cloud?” When we talk about "the cloud" in technology, we’re not referring t...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
         </author>
     </entry>
     <entry>
@@ -329,16 +329,6 @@ If you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …
 Combining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS min() All The Things]]></title>
-        <id>https://smashingmagazine.com/2024/10/css-min-all-the-things/</id>
-        <link href="https://smashingmagazine.com/2024/10/css-min-all-the-things/"/>
-        <updated>2024-10-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
         </author>
     </entry>
 </feed>
