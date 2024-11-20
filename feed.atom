@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-19T00:13:49.827Z</id>
+    <id>urn:2024-11-20T00:13:47.695Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T00:13:49.827Z</updated>
+    <updated>2024-11-20T00:13:47.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
+        <id>673cc307f6df251b434f7f90</id>
+        <link href="https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/"/>
+        <updated>2024-11-19T16:55:35.000Z</updated>
+        <summary type="html"><![CDATA[As a developer for over 20 years, I've seen firsthand how choosing the right framework can make or break a project. The term "framework" has become so broad that it's often misunderstood. Let's clear up the confusion and help you make better technica...]]></summary>
+        <author>
+            <name>Jesse Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Scalable URL Shortener with Distributed Caching Using Redis]]></title>
+        <id>673cab723502f2a00d61ece1</id>
+        <link href="https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/"/>
+        <updated>2024-11-19T15:14:58.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll build a scalable URL shortening service using Node.js and Redis. This service will leverage distributed caching to handle high traffic efficiently, reduce latency, and scale seamlessly. We'll explore key concepts such as consi...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Distributed Rate Limiting System Using Redis and Lua Scripts]]></title>
+        <id>673ca31d6c7f56d7a860bbdf</id>
+        <link href="https://www.freecodecamp.org/news/build-rate-limiting-system-using-redis-and-lua/"/>
+        <updated>2024-11-19T14:39:25.000Z</updated>
+        <summary type="html"><![CDATA[In this comprehensive guide, you’ll build a distributed rate limiter using Redis and Lua scripting to control user requests in a high-traffic environment. Rate limiting is crucial in any system to prevent abuse, manage traffic, and protect your resou...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Course]]></title>
+        <id>https://css-tricks.com/?p=382566</id>
+        <link href="https://css-tricks.com/complete-css-course/"/>
+        <updated>2024-11-19T14:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.
+Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Meme Generator Using HTML Canvas]]></title>
+        <id>673c929fd0881b2b1feaf916</id>
+        <link href="https://www.freecodecamp.org/news/create-meme-generator-using-html-canvas/"/>
+        <updated>2024-11-19T13:29:03.000Z</updated>
+        <summary type="html"><![CDATA[We all come across memes almost every day on the internet. Whether you're scrolling through social media or chatting with friends, there's a good chance you'll stumble on a meme, or even share one yourself. A meme can be an image, a video, or gif tha...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Zigbee2MQTT with Docker for Home Automation]]></title>
+        <id>673c8cdcb7f79bc9aa2f300f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-zigbee2mqtt-with-docker/"/>
+        <updated>2024-11-19T13:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Zigbee2MQTT is an open-source tool that lets you manage all of your Zigbee devices locally, so you don’t need cloud services or multiple proprietary hubs. This gives you more control and flexibility, whether used on its own or integrated with platfor...]]></summary>
+        <author>
+            <name>Joyce Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker]]></title>
+        <id>673c7ac360ba8e6675690350</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/"/>
+        <updated>2024-11-19T11:47:15.000Z</updated>
+        <summary type="html"><![CDATA[In modern system design, Event-Driven Architecture (EDA) focuses on creating, detecting, using, and responding to events within a system. Events are significant occurrences that can affect a system’s hardware or software, such as user actions, state ...]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry]]></title>
+        <id>https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/</id>
+        <link href="https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/"/>
+        <updated>2024-11-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Benchmark Your Code in C#]]></title>
+        <id>673bdcd6088133abf555d52f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-benchmark-your-code-in-csharp/"/>
+        <updated>2024-11-19T00:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how your code performs is a crucial part of development. We strive to write the most optimal and performant code whilst keeping readability. In this article, I will show you how to test the performance of your code, benchmark your code, and i...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices]]></title>
+        <id>673bb7ca83cab2eb3eafb7af</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/"/>
+        <updated>2024-11-18T21:55:22.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]]]></title>
         <id>6737abf27f9bd5ad3f21cfd7</id>
@@ -26,46 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Support Multiple Languages In Your Flutter Application]]></title>
-        <id>673783bb1fb7eac514af465b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-support-multiple-languages-in-flutter/"/>
-        <updated>2024-11-15T17:24:11.000Z</updated>
-        <summary type="html"><![CDATA[When building my own applications, I usually don’t stress about having multiple language support. All of my applications are pet projects of mine and I mostly use them to learn and advance my knowledge. Without any intention, some of the applications...]]></summary>
-        <author>
-            <name>Tomer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Full Stack Spotify Clone with Flutter]]></title>
-        <id>673677f66aa5d15c65da2de2</id>
-        <link href="https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/"/>
-        <updated>2024-11-14T22:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how apps like Spotify are built? Now’s your chance to learn! With the power of modern technologies like Flutter, FastAPI, and PostgreSQL, you can create a full-featured music streaming app from scratch. We just published a cour...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples]]></title>
-        <id>673616b2ea38d82d84002cda</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-design-patterns-in-java-with-spring-boot/"/>
-        <updated>2024-11-14T15:26:42.000Z</updated>
-        <summary type="html"><![CDATA[As software projects grow, it becomes increasingly important to keep your code organized, maintainable, and scalable. This is where design patterns come into play. Design patterns provide proven, reusable solutions to common software design challenge...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install and Configure XAMPP Properly to Avoid Errors When You Close the App]]></title>
-        <id>67360e398a8e3a6a2f6c32cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-and-configure-xampp-properly-to-avoid-errors-when-you-close-the-app/"/>
-        <updated>2024-11-14T14:50:33.000Z</updated>
-        <summary type="html"><![CDATA[XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open-Source Meets Design Tooling With Penpot]]></title>
         <id>https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/</id>
         <link href="https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/"/>
@@ -73,46 +134,6 @@
         <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript's Temporal Proposal Will Change Date/Time Functions]]></title>
-        <id>67350bbf437f61ba9155860d</id>
-        <link href="https://www.freecodecamp.org/news/how-javascripts-temporal-proposal-will-change-datetime-functions/"/>
-        <updated>2024-11-13T20:27:43.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript's handling of dates and times has long frustrated developers. The built-in Date object, created in JavaScript’s early days, has numerous limitations and quirks that complicate working with dates and times. Fortunately for us, the Temporal ...]]></summary>
-        <author>
-            <name>Jesse Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reverse Engineer a Website – a Guide for Developers]]></title>
-        <id>6734cea5ae439f84c4b2399b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/"/>
-        <updated>2024-11-13T16:07:01.000Z</updated>
-        <summary type="html"><![CDATA[While using one of your favorite websites, you might have often thought, "What if this website had this particular functionality? That would be great!" If you have ever had such thoughts, this article is for you. In it, you'll learn how websites comm...]]></summary>
-        <author>
-            <name>Abdurrahman Rajab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build & Deploy a Full Stack Dating App]]></title>
-        <id>6734bab8a54e29ff5593767c</id>
-        <link href="https://www.freecodecamp.org/news/build-deploy-a-full-stack-dating-app/"/>
-        <updated>2024-11-13T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating a modern, full-stack web application has never been more exciting, thanks to the wide array of powerful tools available to developers today. If you’ve ever thought about building a dynamic, feature-rich app but weren’t sure where to start, t...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Golang Concepts You Should Learn as a Beginner Go Developer]]></title>
-        <id>6733b552ba5d0212f3eab6e1</id>
-        <link href="https://www.freecodecamp.org/news/key-golang-concepts-for-beginner-go-devs/"/>
-        <updated>2024-11-12T20:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Learning new programming concepts can be hard. So you'll need a guide or a roadmap to help you navigate through the process. Learning Golang is no exception. And as a beginner, you'll need to work diligently to learn the fundamental building blocks o...]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
         </author>
     </entry>
     <entry>
