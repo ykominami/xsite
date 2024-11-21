@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-20T00:13:47.695Z</id>
+    <id>urn:2024-11-21T00:14:00.919Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T00:13:47.695Z</updated>
+    <updated>2024-11-21T00:14:00.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux and Redux Toolkit for State Management]]></title>
+        <id>673e03874ee4d6be53b9fe65</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/"/>
+        <updated>2024-11-20T15:43:03.000Z</updated>
+        <summary type="html"><![CDATA[State management is one of the most important aspects of building scalable and efficient React applications. Whether you're managing user interactions, API data, or application-wide settings, having a robust tool for handling state can save time and ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
+        <id>https://css-tricks.com/?p=382572</id>
+        <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
+        <updated>2024-11-20T15:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.
+Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Address Common Accessibility Challenges in iOS Mobile Apps Using SwiftUI]]></title>
+        <id>673dc0d9ed2a01b66ee9f37c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-address-ios-accessibility-challenges-using-swiftui/"/>
+        <updated>2024-11-20T10:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Mobile apps are essential tools in daily life, making accessibility a top priority. However, many apps still do not provide inclusive experiences for people with disabilities. This article highlights nine common accessibility challenges in mobile app...]]></summary>
+        <author>
+            <name>Namaswi Chandarana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Flexible API with Feature Flags Using Open Source Tools]]></title>
+        <id>673d179a27c7af0d174dc2fc</id>
+        <link href="https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/"/>
+        <updated>2024-11-19T22:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Feature flagging has changed the paradigm of how backend developers can test and modify the things they build. With feature flags, we can enable and disable a feature or change the functionality of something on the fly with a single click (no need to...]]></summary>
+        <author>
+            <name>Pradumna Saraf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
         <id>673cc307f6df251b434f7f90</id>
@@ -94,36 +135,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[Knowing how your code performs is a crucial part of development. We strive to write the most optimal and performant code whilst keeping readability. In this article, I will show you how to test the performance of your code, benchmark your code, and i...]]></summary>
         <author>
             <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices]]></title>
-        <id>673bb7ca83cab2eb3eafb7af</id>
-        <link href="https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/"/>
-        <updated>2024-11-18T21:55:22.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]]]></title>
-        <id>6737abf27f9bd5ad3f21cfd7</id>
-        <link href="https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/"/>
-        <updated>2024-11-15T20:15:46.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Tim Ruscica, the software engineer and prolific programming teacher behind the Tech with Tim YouTube channel. He's also developed courses on freeCodeCamp's YouTube channel. We talk about: How Tim ma...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens When You Visit a Website? How the Web Works Explained]]></title>
-        <id>67378578138bc8b1c027a1e8</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-when-you-visit-a-website/"/>
-        <updated>2024-11-15T17:31:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I’ll guide you through an overview of what happens when you navigate to a website using your browser. Whether you’re new to web development or have some experience, this post will help you gain a better understanding of how the web a...]]></summary>
-        <author>
-            <name>Viviana Yanez</name>
         </author>
     </entry>
     <entry>
@@ -325,17 +336,6 @@ Clarifying the Relationship Between Popovers and Dialogs originally published on
         <updated>2024-10-23T13:15:20.000Z</updated>
         <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
 Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleash the Power of Scroll-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=381613</id>
-        <link href="https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/"/>
-        <updated>2024-10-21T13:50:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …
-Unleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
