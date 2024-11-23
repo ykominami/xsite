@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-22T00:14:16.922Z</id>
+    <id>urn:2024-11-23T00:14:20.174Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T00:14:16.922Z</updated>
+    <updated>2024-11-23T00:14:20.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Implement RBAC in a Community Dashboard with Nuxt]]></title>
+        <id>6740bf4cd3bb67c73837c3ef</id>
+        <link href="https://www.freecodecamp.org/news/rbac-community-dashboard-with-nuxt/"/>
+        <updated>2024-11-22T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Role Based Access Control (RBAC) is a useful authorization model for users with different access levels, such as those in a community dashboard. In this article, you’ll learn how to integrate this type of authorization with Permit.io in Nuxt. Table o...]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Forms in Next.js with Server Actions and Zod for Validation]]></title>
+        <id>6740b5ae31fc8f5b09184849</id>
+        <link href="https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/"/>
+        <updated>2024-11-22T16:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]]]></title>
+        <id>6740ac934465e258a6ed9ff7</id>
+        <link href="https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/"/>
+        <updated>2024-11-22T16:08:51.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Python for JavaScript Developers [Full Handbook]]]></title>
+        <id>67409b36d94f5ae0c0e97650</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/"/>
+        <updated>2024-11-22T14:54:46.000Z</updated>
+        <summary type="html"><![CDATA[As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...]]></summary>
+        <author>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solved by CSS: Donuts Scopes]]></title>
+        <id>https://css-tricks.com/?p=382613</id>
+        <link href="https://css-tricks.com/solved-by-css-donuts-scopes/"/>
+        <updated>2024-11-22T13:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.
+Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Speak At Events As An Early-Career Professional]]></title>
+        <id>https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/</id>
+        <link href="https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/"/>
+        <updated>2024-11-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victoria Nduka)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Zig-Zag CSS Loaders Using One Element]]></title>
         <id>673e738139346c3d3174676e</id>
@@ -77,16 +138,6 @@ Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? orig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Distributed Rate Limiting System Using Redis and Lua Scripts]]></title>
-        <id>673ca31d6c7f56d7a860bbdf</id>
-        <link href="https://www.freecodecamp.org/news/build-rate-limiting-system-using-redis-and-lua/"/>
-        <updated>2024-11-19T14:39:25.000Z</updated>
-        <summary type="html"><![CDATA[In this comprehensive guide, you’ll build a distributed rate limiter using Redis and Lua scripting to control user requests in a high-traffic environment. Rate limiting is crucial in any system to prevent abuse, manage traffic, and protect your resou...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Complete CSS Course]]></title>
         <id>https://css-tricks.com/?p=382566</id>
         <link href="https://css-tricks.com/complete-css-course/"/>
@@ -95,36 +146,6 @@ Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? orig
 Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Meme Generator Using HTML Canvas]]></title>
-        <id>673c929fd0881b2b1feaf916</id>
-        <link href="https://www.freecodecamp.org/news/create-meme-generator-using-html-canvas/"/>
-        <updated>2024-11-19T13:29:03.000Z</updated>
-        <summary type="html"><![CDATA[We all come across memes almost every day on the internet. Whether you're scrolling through social media or chatting with friends, there's a good chance you'll stumble on a meme, or even share one yourself. A meme can be an image, a video, or gif tha...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Zigbee2MQTT with Docker for Home Automation]]></title>
-        <id>673c8cdcb7f79bc9aa2f300f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-zigbee2mqtt-with-docker/"/>
-        <updated>2024-11-19T13:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Zigbee2MQTT is an open-source tool that lets you manage all of your Zigbee devices locally, so you don’t need cloud services or multiple proprietary hubs. This gives you more control and flexibility, whether used on its own or integrated with platfor...]]></summary>
-        <author>
-            <name>Joyce Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker]]></title>
-        <id>673c7ac360ba8e6675690350</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/"/>
-        <updated>2024-11-19T11:47:15.000Z</updated>
-        <summary type="html"><![CDATA[In modern system design, Event-Driven Architecture (EDA) focuses on creating, detecting, using, and responding to events within a system. Events are significant occurrences that can affect a system’s hardware or software, such as user actions, state ...]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
         </author>
     </entry>
     <entry>
@@ -314,28 +335,6 @@ Left Half and Right Half Layout – Many Different Ways originally published on 
         <updated>2024-10-24T14:05:56.000Z</updated>
         <summary type="html"><![CDATA[The CSS text-wrap property is (rightfully) widely assumed to be used strictly for text elements. But Terrence Eden posted an article on his blog that shows how it can also be used to balance the way other types of elements wrap, including icons.
 You can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
-        <id>https://css-tricks.com/?p=382008</id>
-        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
-        <updated>2024-10-23T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Pop quiz! What's the difference between a Popover element and a Dialog element? The answer is not all that clear and is widely misunderstood, but Zell has a clear way to explain it so that you know which element to reach for in your work.
-Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
-        <id>https://css-tricks.com/?p=381992</id>
-        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
-        <updated>2024-10-23T13:15:20.000Z</updated>
-        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
-Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
