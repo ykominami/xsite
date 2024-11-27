@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-26T00:13:56.738Z</id>
+    <id>urn:2024-11-27T00:14:01.457Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T00:13:56.738Z</updated>
+    <updated>2024-11-27T00:14:01.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS EC2: How to Quickly Host Your Website with User Data Scripts]]></title>
+        <id>67462204c9e1cbc5414b4e0c</id>
+        <link href="https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/"/>
+        <updated>2024-11-26T19:31:16.000Z</updated>
+        <summary type="html"><![CDATA[If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local AI Development with Ollama Course]]></title>
+        <id>6745ffa3608b32cb4a868bca</id>
+        <link href="https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/"/>
+        <updated>2024-11-26T17:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
+        <id>https://css-tricks.com/?p=382773</id>
+        <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
+        <updated>2024-11-26T15:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!
+Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
+        <id>6745e19265a8ceed4a65c3eb</id>
+        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/"/>
+        <updated>2024-11-26T14:56:18.000Z</updated>
+        <summary type="html"><![CDATA[In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Docker and Containers for Beginners]]></title>
+        <id>6745acca09ace2d743c17be9</id>
+        <link href="https://www.freecodecamp.org/news/an-introduction-to-docker-and-containers-for-beginners/"/>
+        <updated>2024-11-26T11:11:06.000Z</updated>
+        <summary type="html"><![CDATA[In the world of modern software development, efficiency and consistency are key. Developers and operations teams need solutions that help them manage, deploy, and run applications seamlessly across different environments. Containers and Docker are te...]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alt Text: Not Always Needed]]></title>
         <id>https://css-tricks.com/?p=382593</id>
@@ -116,46 +167,6 @@ Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part o
 Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Address Common Accessibility Challenges in iOS Mobile Apps Using SwiftUI]]></title>
-        <id>673dc0d9ed2a01b66ee9f37c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-address-ios-accessibility-challenges-using-swiftui/"/>
-        <updated>2024-11-20T10:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Mobile apps are essential tools in daily life, making accessibility a top priority. However, many apps still do not provide inclusive experiences for people with disabilities. This article highlights nine common accessibility challenges in mobile app...]]></summary>
-        <author>
-            <name>Namaswi Chandarana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Flexible API with Feature Flags Using Open Source Tools]]></title>
-        <id>673d179a27c7af0d174dc2fc</id>
-        <link href="https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/"/>
-        <updated>2024-11-19T22:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Feature flagging has changed the paradigm of how backend developers can test and modify the things they build. With feature flags, we can enable and disable a feature or change the functionality of something on the fly with a single click (no need to...]]></summary>
-        <author>
-            <name>Pradumna Saraf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
-        <id>673cc307f6df251b434f7f90</id>
-        <link href="https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/"/>
-        <updated>2024-11-19T16:55:35.000Z</updated>
-        <summary type="html"><![CDATA[As a developer for over 20 years, I've seen firsthand how choosing the right framework can make or break a project. The term "framework" has become so broad that it's often misunderstood. Let's clear up the confusion and help you make better technica...]]></summary>
-        <author>
-            <name>Jesse Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Scalable URL Shortener with Distributed Caching Using Redis]]></title>
-        <id>673cab723502f2a00d61ece1</id>
-        <link href="https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/"/>
-        <updated>2024-11-19T15:14:58.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we'll build a scalable URL shortening service using Node.js and Redis. This service will leverage distributed caching to handle high traffic efficiently, reduce latency, and scale seamlessly. We'll explore key concepts such as consi...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
         </author>
     </entry>
     <entry>
