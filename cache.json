@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382697",
+          "author": "Scott Fennell",
+          "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
+          "publishedOn": "2024-11-27T16:09:14.000Z",
+          "wordCount": 5785,
+          "title": "WordPress Multi-Multisite: A Case Study",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
+            "length": "783997",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/wp-multisite.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382773",
           "author": "Ryan Trimble",
           "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/follow-up-we-officially-have-a-css-logo/",
           "publishedOn": "2024-11-26T15:53:39.000Z",
-          "wordCount": 1753,
+          "wordCount": 1889,
           "title": "Follow Up: We Officially Have a CSS Logo!",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2024/11/css-logos.avif"
         },
@@ -27,7 +42,7 @@
           "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/alt-text-not-always-needed/",
           "publishedOn": "2024-11-25T15:23:39.000Z",
-          "wordCount": 3141,
+          "wordCount": 3458,
           "title": "Alt Text: Not Always Needed",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/02/image-alt-attribute.png"
         },
@@ -37,7 +52,7 @@
           "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
           "publishedOn": "2024-11-22T13:50:55.000Z",
-          "wordCount": 3145,
+          "wordCount": 3265,
           "title": "Solved by CSS: Donuts Scopes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/donut-scope.jpg"
         },
@@ -47,7 +62,7 @@
           "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/",
           "publishedOn": "2024-11-20T15:12:34.000Z",
-          "wordCount": 3319,
+          "wordCount": 3439,
           "title": "Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/invoker-commands.jpg"
         },
@@ -57,7 +72,7 @@
           "description": "Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.\nComplete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/complete-css-course/",
           "publishedOn": "2024-11-19T14:21:28.000Z",
-          "wordCount": 1895,
+          "wordCount": 2015,
           "title": "Complete CSS Course",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/picililli-stripes.jpg"
         },
@@ -67,7 +82,7 @@
           "description": "You've played Flexbox Froggy before, right? Or maybe Grid Garden? They're both absolute musts for learning the basics of modern CSS layout using Flexbox and CSS Grid. Thomas Park made those and he's back with another game: Anchoreum.\nAnchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/anchoreum-a-new-game-for-learning-anchor-positioning/",
           "publishedOn": "2024-11-12T14:56:22.000Z",
-          "wordCount": 2129,
+          "wordCount": 2249,
           "title": "Anchoreum: A New Game for Learning Anchor Positioning",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/anchoreum.jpg"
         },
@@ -77,7 +92,7 @@
           "description": "Another title from A Book Apart has been re-released for free. The latest? Tim Brown's Flexible Typesetting. I may not be the utmost expert on typography and its best practices but I do remember reading this book (it's still on the shelf next to me!) thinking maybe, just maybe, I might be able to hold a conversation about it with Robin when I finished it.\nTim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/tim-brown-flexible-typesetting-is-now-yours-for-free/",
           "publishedOn": "2024-11-11T14:03:37.000Z",
-          "wordCount": 1892,
+          "wordCount": 2012,
           "title": "Tim Brown: Flexible Typesetting is now yours, for free",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/flexible-typesetting-bg.jpg"
         },
@@ -87,7 +102,7 @@
           "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
           "publishedOn": "2024-11-08T13:57:09.000Z",
-          "wordCount": 4812,
+          "wordCount": 4932,
           "title": "The Different (and Modern) Ways to Toggle Content",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
@@ -97,7 +112,7 @@
           "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
           "publishedOn": "2024-11-06T15:31:20.000Z",
-          "wordCount": 3435,
+          "wordCount": 3555,
           "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/example1.png"
         },
@@ -107,7 +122,7 @@
           "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/fluid-everything-else/",
           "publishedOn": "2024-11-05T20:49:40.000Z",
-          "wordCount": 4197,
+          "wordCount": 4317,
           "title": "Fluid Everything Else",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/01/water-css.png"
         },
@@ -117,7 +132,7 @@
           "description": "Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.\nWeb-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/",
           "publishedOn": "2024-11-01T14:00:36.000Z",
-          "wordCount": 3101,
+          "wordCount": 3221,
           "title": "Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/web-slinger-css.jpg"
         },
@@ -127,7 +142,7 @@
           "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/state-of-css-2024-results/",
           "publishedOn": "2024-10-30T16:43:55.000Z",
-          "wordCount": 3892,
+          "wordCount": 4012,
           "title": "State of CSS 2024 Results",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/state-of-css-2024.png"
         },
@@ -137,7 +152,7 @@
           "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/tooltip-best-practices/",
           "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2699,
+          "wordCount": 2819,
           "title": "Tooltip Best Practices",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/tooltip.jpg"
         }
@@ -148,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
+          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "publishedOn": "2024-11-27T10:00:00.000Z",
+          "wordCount": 4225,
+          "title": "The Hype Around Signals",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
           "author": "hello@smashingmagazine.com (The Smashing Team)",
@@ -169,7 +199,7 @@
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
           "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5923,
+          "wordCount": 5824,
           "title": "Why You Should Speak At Events As An Early-Career Professional",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
@@ -184,7 +214,7 @@
           "description": "Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.",
           "link": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "publishedOn": "2024-11-19T09:00:00.000Z",
-          "wordCount": 4302,
+          "wordCount": 4319,
           "title": "AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg",
@@ -214,7 +244,7 @@
           "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
           "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
           "publishedOn": "2024-11-08T09:00:00.000Z",
-          "wordCount": 3661,
+          "wordCount": 3672,
           "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
@@ -244,7 +274,7 @@
           "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
           "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5099,
+          "wordCount": 5096,
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
@@ -275,6 +305,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674755a7cc41aab7422d5afb",
+          "author": "Mihail Gaberov",
+          "description": "Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/",
+          "publishedOn": "2024-11-27T17:23:51.000Z",
+          "wordCount": 4499,
+          "title": "How to Build a Memory Card Game Using React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732517515517/1ddfb635-6188-492a-9216-4b35ffb92096.png"
+        },
+        {
+          "id": "674742bddd0689ed5ac84f80",
+          "author": "Beau Carnes",
+          "description": "Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...",
+          "link": "https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/",
+          "publishedOn": "2024-11-27T16:03:09.000Z",
+          "wordCount": 1305,
+          "title": "Learn Event Driven Architecture by Building a SaaS Application",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732723339763/00a52032-bb51-4b07-b666-7bc771e58395.jpeg"
+        },
+        {
+          "id": "67473fd3641b955d44e3795b",
+          "author": "Beau Carnes",
+          "description": "Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...",
+          "link": "https://www.freecodecamp.org/news/learn-react-2024/",
+          "publishedOn": "2024-11-27T15:50:43.000Z",
+          "wordCount": 1303,
+          "title": "Learn React from Bob Ziroll",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732722597387/3673fe55-8729-41b5-8517-f59d2e5d9fb8.jpeg"
+        },
+        {
+          "id": "67472c4bfc3f1e96f2028a30",
+          "author": "Manish Shivanandhan",
+          "description": "When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...",
+          "link": "https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/",
+          "publishedOn": "2024-11-27T14:27:23.000Z",
+          "wordCount": 1837,
+          "title": "How Hackers Use Command Execution to Break Into Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732527958866/65644a19-376f-480b-a46e-d5f204ce9515.jpeg"
+        },
+        {
+          "id": "6747274cb7666002fd1cb1a6",
+          "author": "Orim Dominic Adah",
+          "description": "Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...",
+          "link": "https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/",
+          "publishedOn": "2024-11-27T14:06:04.000Z",
+          "wordCount": 2413,
+          "title": "How to Handle MongoDB Migrations with ts-migrate-mongoose",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732615343335/0a1b3e5e-bfa7-4f57-81a7-7f4bac9e8b0a.png"
+        },
         {
           "id": "67462204c9e1cbc5414b4e0c",
           "author": "Kedar Makode",
@@ -324,56 +404,6 @@
           "wordCount": 2973,
           "title": "How to Implement RBAC in a Community Dashboard with Nuxt",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732043730534/d88680d7-2590-4541-9120-40a43c3724ef.png"
-        },
-        {
-          "id": "6740b5ae31fc8f5b09184849",
-          "author": "Chidera Humphrey",
-          "description": "Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...",
-          "link": "https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/",
-          "publishedOn": "2024-11-22T16:47:42.000Z",
-          "wordCount": 2628,
-          "title": "How to Handle Forms in Next.js with Server Actions and Zod for Validation",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732137561737/293681e0-d2f4-4d88-9fbe-f7e5e9113554.png"
-        },
-        {
-          "id": "6740ac934465e258a6ed9ff7",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...",
-          "link": "https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/",
-          "publishedOn": "2024-11-22T16:08:51.000Z",
-          "wordCount": 1168,
-          "title": "Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732291205597/f1fc0cf3-a295-43be-9dd7-ecc4784bd71a.jpeg"
-        },
-        {
-          "id": "67409b36d94f5ae0c0e97650",
-          "author": "German Cocca",
-          "description": "As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...",
-          "link": "https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/",
-          "publishedOn": "2024-11-22T14:54:46.000Z",
-          "wordCount": 11479,
-          "title": "How to Learn Python for JavaScript Developers [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732278833514/c23ea6ad-25b9-45c9-a7a7-c32499ca1d8b.jpeg"
-        },
-        {
-          "id": "673e738139346c3d3174676e",
-          "author": "Temani Afif",
-          "description": "In a previous article, I showed you how to create filling CSS loaders collection where each loader was built using a single HTML element. Here, you’ll learn more about loaders by creating the Zig-Zag collection. Here is an overview of what you’ll be ...",
-          "link": "https://www.freecodecamp.org/news/zig-zag-css-loaders/",
-          "publishedOn": "2024-11-20T23:40:49.000Z",
-          "wordCount": 2317,
-          "title": "How to Create Zig-Zag CSS Loaders Using One Element",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732045303831/af9240a9-6a25-4b13-a397-102ee098db78.jpeg"
-        },
-        {
-          "id": "673e03874ee4d6be53b9fe65",
-          "author": "Beau Carnes",
-          "description": "State management is one of the most important aspects of building scalable and efficient React applications. Whether you're managing user interactions, API data, or application-wide settings, having a robust tool for handling state can save time and ...",
-          "link": "https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/",
-          "publishedOn": "2024-11-20T15:43:03.000Z",
-          "wordCount": 1363,
-          "title": "Learn Redux and Redux Toolkit for State Management",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732117361940/ab139527-5428-4787-bd2c-c2f1336ece8a.png"
         }
       ]
     }
