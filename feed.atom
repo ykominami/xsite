@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-03T00:15:19.341Z</id>
+    <id>urn:2024-12-04T00:14:14.344Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T00:15:19.341Z</updated>
+    <updated>2024-12-04T00:14:14.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
+        <id>674f6a16678426d72d800cd5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/"/>
+        <updated>2024-12-03T20:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Google Sheets – Course for Beginners]]></title>
+        <id>674f49768f5b31d71eee8f9a</id>
+        <link href="https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/"/>
+        <updated>2024-12-03T18:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Google Authentication in Laravel Applications]]></title>
+        <id>674f227adf280a40b7047b7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/"/>
+        <updated>2024-12-03T15:23:38.000Z</updated>
+        <summary type="html"><![CDATA[In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
+        <id>https://smashingmagazine.com/2024/12/bundle-up-and-save/</id>
+        <link href="https://smashingmagazine.com/2024/12/bundle-up-and-save/"/>
+        <updated>2024-12-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (The Smashing Team)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Effective Multistep Form For Better User Experience]]></title>
+        <id>https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/</id>
+        <link href="https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/"/>
+        <updated>2024-12-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Minimal API in .NET Core – A Step By Step Handbook]]></title>
         <id>674de68794b89afe5676934e</id>
@@ -44,16 +94,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         <summary type="html"><![CDATA[In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...]]></summary>
         <author>
             <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
-        <id>https://smashingmagazine.com/2024/11/bundle-up-and-save/</id>
-        <link href="https://smashingmagazine.com/2024/11/bundle-up-and-save/"/>
-        <updated>2024-11-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (The Smashing Team)</name>
         </author>
     </entry>
     <entry>
@@ -128,26 +168,6 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS EC2: How to Quickly Host Your Website with User Data Scripts]]></title>
-        <id>67462204c9e1cbc5414b4e0c</id>
-        <link href="https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/"/>
-        <updated>2024-11-26T19:31:16.000Z</updated>
-        <summary type="html"><![CDATA[If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local AI Development with Ollama Course]]></title>
-        <id>6745ffa3608b32cb4a868bca</id>
-        <link href="https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/"/>
-        <updated>2024-11-26T17:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
         <id>https://css-tricks.com/?p=382773</id>
         <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
@@ -156,16 +176,6 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
 Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
-        <id>6745e19265a8ceed4a65c3eb</id>
-        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/"/>
-        <updated>2024-11-26T14:56:18.000Z</updated>
-        <summary type="html"><![CDATA[In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
         </author>
     </entry>
     <entry>
