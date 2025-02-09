@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-08T00:12:48.352Z</id>
+    <id>urn:2025-02-09T00:14:19.204Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T00:12:48.352Z</updated>
+    <updated>2025-02-09T00:14:19.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
+        <id>67a689db1b3d34453f8da64a</id>
+        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/"/>
+        <updated>2025-02-07T22:31:55.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
         <id>67a62fc9c3ae66ee9e7a4b3e</id>
@@ -125,16 +135,6 @@ Container query units: cqi and cqb originally published on CSS-Tricks, which is 
 Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack App with Next.js and Strapi]]></title>
-        <id>67a4d4fb19ce74a3822b3eab</id>
-        <link href="https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/"/>
-        <updated>2025-02-05T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -380,16 +380,6 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
         <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
-        <id>https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/</id>
-        <link href="https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/"/>
-        <updated>2025-01-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
