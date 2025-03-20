@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T00:14:13.813Z</id>
+    <id>urn:2025-03-20T00:14:02.366Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T00:14:13.813Z</updated>
+    <updated>2025-03-20T00:14:02.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Security Audits Are Important]]></title>
+        <id>67db2704d898a5f4273111cf</id>
+        <link href="https://www.freecodecamp.org/news/why-security-audits-are-important/"/>
+        <updated>2025-03-19T20:20:20.000Z</updated>
+        <summary type="html"><![CDATA[In this digital world, companies rely on the latest technology to run their businesses, and the risk of cyber attacks is high. Every product, whether it’s software or an application, should go through some sort of security testing process. These chec...]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Effective Prompts for AI Agents using Langbase]]></title>
+        <id>67dae1dae49263fce2ef7dc3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/"/>
+        <updated>2025-03-19T15:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything You Need to Know About Web Acessibility]]></title>
         <id>67d9aa58a50edbbdc70e2941</id>
@@ -118,16 +138,6 @@ Web Components Demystified originally published on CSS-Tricks, which is part of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Synchronization for Edge Computing with SymmetricDS]]></title>
-        <id>67d2cc837d28795ed4ea4d3e</id>
-        <link href="https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/"/>
-        <updated>2025-03-13T12:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...]]></summary>
-        <author>
-            <name>Divya Valsala Saratchandran</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Prevent WordPress SQL Injection Attacks]]></title>
         <id>https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/</id>
         <link href="https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/"/>
@@ -135,16 +145,6 @@ Web Components Demystified originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anders Johansson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Essentials]]></title>
-        <id>67d23a5a68fbee7d6b2ec767</id>
-        <link href="https://www.freecodecamp.org/news/javascript-essentials/"/>
-        <updated>2025-03-13T01:52:26.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is the backbone of modern web development, powering everything from interactive websites to complex web applications. Object-oriented programming (OOP), prototypical inheritance, ES6 classes, Node.js, and asynchronous programming are all k...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -326,27 +326,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
         <summary type="html"><![CDATA[Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How OWASP Helps You Secure Your Full-Stack Web Applications]]></title>
-        <id>https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/</id>
-        <link href="https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/"/>
-        <updated>2025-02-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Burel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The What If Machine: Bringing the “Iffy” Future of CSS into the Present]]></title>
-        <id>https://css-tricks.com/?p=384446</id>
-        <link href="https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/"/>
-        <updated>2025-02-17T14:24:40.000Z</updated>
-        <summary type="html"><![CDATA[My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.
-The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>
