@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T00:14:17.173Z</id>
+    <id>urn:2025-03-22T00:13:39.942Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T00:14:17.173Z</updated>
+    <updated>2025-03-22T00:13:39.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]]]></title>
+        <id>67ddbf930d353b1d4dfa0ebd</id>
+        <link href="https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/"/>
+        <updated>2025-03-21T19:35:47.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More Francesco has published courses on learning Docker ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn API Fundamentals and Architecture – A Beginner-Friendly Guide]]></title>
+        <id>67dd93c136028f6326576025</id>
+        <link href="https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/"/>
+        <updated>2025-03-21T16:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Here are some questions for you: How do you log in to apps with your Google, Apple, or Microsoft account? How do online payments with Paystack or PayPal work? How do apps like Facebook and Instagram share information and notifications? The answer is:...]]></summary>
+        <author>
+            <name>Ikegah Oliver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting CSS border-image]]></title>
+        <id>https://css-tricks.com/?p=385158</id>
+        <link href="https://css-tricks.com/revisiting-css-border-image/"/>
+        <updated>2025-03-21T13:24:11.000Z</updated>
+        <summary type="html"><![CDATA[I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.
+Revisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previewing Content Changes In Your Work With document.designMode]]></title>
+        <id>https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/</id>
+        <link href="https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/"/>
+        <updated>2025-03-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn ANY Language with AI]]></title>
         <id>67dc708354ef5aaf882f3c39</id>
@@ -110,16 +151,6 @@ Styling Counters in CSS originally published on CSS-Tricks, which is part of the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Scraping With RSelenium (Chrome Driver) and Rvest]]></title>
-        <id>67d8272af45871e3e821d5fa</id>
-        <link href="https://www.freecodecamp.org/news/web-scraping-with-rselenium-chrome-driver-and-rvest/"/>
-        <updated>2025-03-17T13:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping lets you automatically extract data from websites, so you can store it in a structured format for later use. In this article, you'll explore how to use popular R libraries for web scraping to extract data from a website. The target websi...]]></summary>
-        <author>
-            <name>Elabonga Atuo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Components Vs. Framework Components: What’s The Difference?]]></title>
         <id>https://smashingmagazine.com/2025/03/web-components-vs-framework-components/</id>
         <link href="https://smashingmagazine.com/2025/03/web-components-vs-framework-components/"/>
@@ -127,16 +158,6 @@ Styling Counters in CSS originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to become a self-taught developer while supporting a family [Podcast #164]]]></title>
-        <id>67d4a92df560badb8e1f0360</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-self-taught-developer-while-supporting-a-family-podcast-164/"/>
-        <updated>2025-03-14T22:09:49.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jesse Hall. He's software engineer and a developer advocate at MongoDB. He taught himself to code while raising kids and working on the Best Buy Geek Squad fixing computers. Jesse has created tons of...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -316,17 +337,6 @@ Applying the Web Dev Mindset to Dealing With Life Challenges originally publishe
         <updated>2025-02-21T14:34:58.000Z</updated>
         <summary type="html"><![CDATA[The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.
 Toe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop]]></title>
-        <id>https://css-tricks.com/?p=382234</id>
-        <link href="https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/"/>
-        <updated>2025-02-19T13:55:31.000Z</updated>
-        <summary type="html"><![CDATA[I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.
-Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
