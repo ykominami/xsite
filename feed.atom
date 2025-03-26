@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-25T00:14:45.829Z</id>
+    <id>urn:2025-03-26T00:14:24.107Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T00:14:45.829Z</updated>
+    <updated>2025-03-26T00:14:24.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Your AWS EC2 Instance to VS Code]]></title>
+        <id>67e2ec52cd467794ee79d63e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/"/>
+        <updated>2025-03-25T17:48:02.000Z</updated>
+        <summary type="html"><![CDATA[As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide to Observability in Cloud Native Applications]]></title>
+        <id>67e2d66c64d44185d5a6d406</id>
+        <link href="https://www.freecodecamp.org/news/observability-in-cloud-native-applications/"/>
+        <updated>2025-03-25T16:14:36.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...]]></summary>
+        <author>
+            <name>Victoria Nduka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchestrating AWS Lambda with GraphQL and Apollo Connectors]]></title>
+        <id>67e2d5e080e11112e050be00</id>
+        <link href="https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/"/>
+        <updated>2025-03-25T16:12:16.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...]]></summary>
+        <author>
+            <name>Rob Walters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python's Built-in Profiling Tools: Examples and Best Practices]]></title>
+        <id>67e2d5a9436e3bed610a8a95</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/"/>
+        <updated>2025-03-25T16:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Python is known for its simplicity and readability, making it a favorite among developers. But this simplicity sometimes comes at the cost of performance. When your Python application grows or needs to handle larger workloads, understanding what's ha...]]></summary>
+        <author>
+            <name>Vivek Sahu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host a Static Website on AWS S3 and CloudFront]]></title>
+        <id>67e2cd0841be93b03e257b93</id>
+        <link href="https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/"/>
+        <updated>2025-03-25T15:34:32.000Z</updated>
+        <summary type="html"><![CDATA[DevOps might seem like a complex field with various specializations and tools. In this article, I’ll simplify one key aspect by demonstrating how to host a static website using Amazon S3 (Simple Storage Service) and CloudFront, AWS’s Content Delivery...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TestContainers in .Net]]></title>
+        <id>67e2cbfdaa97659cd53cf39f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-testcontainers-in-net/"/>
+        <updated>2025-03-25T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[At some point in your development lifecycle, you will need to test that your system can integrate with another system, whether it be another API, a database, or caching service, for example. This can be a laborious task of spinning up other servers h...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component]]></title>
+        <id>https://css-tricks.com/?p=385070</id>
+        <link href="https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/"/>
+        <updated>2025-03-25T12:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.
+Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Send Email Function using Nodemailer and OAuth2]]></title>
+        <id>67e1ec8917e7e6a0f12cddf5</id>
+        <link href="https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/"/>
+        <updated>2025-03-24T23:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers. In this article, you’ll learn how to implement the Send Email function in your web app us...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Support Logical Shorthands in CSS]]></title>
         <id>https://css-tricks.com/?p=385389</id>
@@ -68,26 +149,6 @@ Revisiting CSS border-image originally published on CSS-Tricks, which is part of
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Full Stack AI Note Taking App with Next.js and Supabase]]></title>
-        <id>67dc6f4f604a3dc95c9fc77d</id>
-        <link href="https://www.freecodecamp.org/news/build-a-full-stack-ai-note-taking-app-with-nextjs-and-supabase/"/>
-        <updated>2025-03-20T19:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Taking notes is a fundamental skill for staying organized, whether you're a student, professional, or developer. But what if your notes could do more than just store information? Imagine having an intelligent note-taking app that allows you to organi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Python Magic Methods Work: A Practical Guide]]></title>
-        <id>67dc33ff64b6723cee52486b</id>
-        <link href="https://www.freecodecamp.org/news/python-magic-methods-practical-guide/"/>
-        <updated>2025-03-20T15:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how Python makes objects work with operators like + or -? Or how it knows how to display objects when you print them? The answer lies in Python's magic methods, also known as dunder (double under) methods. Magic methods are spe...]]></summary>
-        <author>
-            <name>Vivek Sahu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference]]></title>
         <id>https://css-tricks.com/?p=385336</id>
         <link href="https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/"/>
@@ -98,56 +159,6 @@ Revisiting CSS border-image originally published on CSS-Tricks, which is part of
 Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Security Audits Are Important]]></title>
-        <id>67db2704d898a5f4273111cf</id>
-        <link href="https://www.freecodecamp.org/news/why-security-audits-are-important/"/>
-        <updated>2025-03-19T20:20:20.000Z</updated>
-        <summary type="html"><![CDATA[In this digital world, companies rely on the latest technology to run their businesses, and the risk of cyber attacks is high. Every product, whether it’s software or an application, should go through some sort of security testing process. These chec...]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Effective Prompts for AI Agents using Langbase]]></title>
-        <id>67dae1dae49263fce2ef7dc3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/"/>
-        <updated>2025-03-19T15:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About Web Accessibility]]></title>
-        <id>67d9aa58a50edbbdc70e2941</id>
-        <link href="https://www.freecodecamp.org/news/the-web-accessibility-handbook/"/>
-        <updated>2025-03-18T17:16:08.000Z</updated>
-        <summary type="html"><![CDATA[The web is a great place to access information and connect with people. It has opened up countless opportunities, making life more convenient in many ways. But not everyone experiences the web in the same way. Websites are difficult to use for people...]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Alert Provisioning with the SigNoz Terraform Provider]]></title>
-        <id>67d87353b13a6fd9fb559ada</id>
-        <link href="https://www.freecodecamp.org/news/automate-alert-provisioning-with-the-signoz-terraform-provider/"/>
-        <updated>2025-03-17T19:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Modern infrastructure requires continuous monitoring and rapid incident response. However, manually configuring and managing alerts is not only labor-intensive but also susceptible to human error. Automating alert provisioning allows you to enforce c...]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug and Prevent Buffer Overflows in Embedded Systems]]></title>
-        <id>67d84f228d156200bc7d3d8c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-and-prevent-buffer-overflows-in-embedded-systems/"/>
-        <updated>2025-03-17T16:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Buffer overflows are one of the most serious software bugs, especially in embedded systems, where hardware limitations and real-time execution make them hard to detect and fix. A buffer overflow happens when a program writes more data into a buffer t...]]></summary>
-        <author>
-            <name>Soham Banerjee</name>
         </author>
     </entry>
     <entry>
