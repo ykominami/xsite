@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-26T00:14:24.107Z</id>
+    <id>urn:2025-03-27T00:14:10.340Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T00:14:24.107Z</updated>
+    <updated>2025-03-27T00:14:10.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create Microservices with NestJS]]></title>
+        <id>67e434766d7e1561ea4bf0e6</id>
+        <link href="https://www.freecodecamp.org/news/create-microservices-with-nestjs/"/>
+        <updated>2025-03-26T17:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Microservices architecture has become a popular approach for building scalable and maintainable applications. By breaking down large applications into smaller, independent services, developers can improve performance, maintainability, and scalability...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host Local LLMs in a Docker Container on Azure]]></title>
+        <id>67e42705cb510eea06095d36</id>
+        <link href="https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/"/>
+        <updated>2025-03-26T16:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever run into a situation where you want to test some local AI models, but your computer doesn't have enough specs to run them? Or maybe you just don't like bloating your computer with a ton of AI models? You're not alone in this. I’ve faced...]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SRE? A Beginner's Guide to Site Reliability Engineering]]></title>
+        <id>67e4265f7281ac30028843e1</id>
+        <link href="https://www.freecodecamp.org/news/what-is-site-reliability-engineering/"/>
+        <updated>2025-03-26T16:07:59.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital age, we expect our online experiences to be fast, reliable, and always available. But what happens behind the scenes to make our expectations a reality? The answer is Site Reliability Engineering (SRE). SRE is a discipline that ens...]]></summary>
+        <author>
+            <name>Omolade Ekpeni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract  YouTube Analytics Data and Analyze in Python]]></title>
+        <id>67e425c92a171465d4fb4cce</id>
+        <link href="https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/"/>
+        <updated>2025-03-26T16:05:29.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect Your AWS EC2 Instance to VS Code]]></title>
         <id>67e2ec52cd467794ee79d63e</id>
@@ -77,16 +117,6 @@ Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Send Email Function using Nodemailer and OAuth2]]></title>
-        <id>67e1ec8917e7e6a0f12cddf5</id>
-        <link href="https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/"/>
-        <updated>2025-03-24T23:36:41.000Z</updated>
-        <summary type="html"><![CDATA[Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers. In this article, you’ll learn how to implement the Send Email function in your web app us...]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Support Logical Shorthands in CSS]]></title>
         <id>https://css-tricks.com/?p=385389</id>
         <link href="https://css-tricks.com/support-logical-shorthands-in-css/"/>
@@ -95,26 +125,6 @@ Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” C
 Support Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]]]></title>
-        <id>67ddbf930d353b1d4dfa0ebd</id>
-        <link href="https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/"/>
-        <updated>2025-03-21T19:35:47.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More Francesco has published courses on learning Docker ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn API Fundamentals and Architecture – A Beginner-Friendly Guide]]></title>
-        <id>67dd93c136028f6326576025</id>
-        <link href="https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/"/>
-        <updated>2025-03-21T16:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Here are some questions for you: How do you log in to apps with your Google, Apple, or Microsoft account? How do online payments with Paystack or PayPal work? How do apps like Facebook and Instagram share information and notifications? The answer is:...]]></summary>
-        <author>
-            <name>Ikegah Oliver</name>
         </author>
     </entry>
     <entry>
@@ -136,16 +146,6 @@ Revisiting CSS border-image originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn ANY Language with AI]]></title>
-        <id>67dc708354ef5aaf882f3c39</id>
-        <link href="https://www.freecodecamp.org/news/learn-any-language-with-ai/"/>
-        <updated>2025-03-20T19:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Learning a new language can feel overwhelming, but what if you had an intelligent, always-available language tutor to help? With AI-powered tools like ChatGPT and DeepSeek, you can improve your fluency, enhance your vocabulary, and practice real-worl...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -339,17 +339,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco &amp; Angelica Lo Duca)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applying the Web Dev Mindset to Dealing With Life Challenges]]></title>
-        <id>https://css-tricks.com/?p=384565</id>
-        <link href="https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/"/>
-        <updated>2025-02-24T13:42:16.000Z</updated>
-        <summary type="html"><![CDATA[The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.
-Applying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>
