@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-27T00:14:10.340Z</id>
+    <id>urn:2025-03-28T00:14:15.212Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T00:14:10.340Z</updated>
+    <updated>2025-03-28T00:14:15.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn the top Excel formulas and functions]]></title>
+        <id>67e5643f0a2aebb29e2c2264</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/"/>
+        <updated>2025-03-27T14:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Video Streaming With Dash.js In React]]></title>
+        <id>https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/</id>
+        <link href="https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/"/>
+        <updated>2025-03-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Teng Wei Herr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to Programming in C++]]></title>
+        <id>67e48bff04e3150220f40379</id>
+        <link href="https://www.freecodecamp.org/news/learn-programming-in-cpp/"/>
+        <updated>2025-03-26T23:21:35.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll give you a comprehensive introduction to programming in C++. You don't need to have any previous programming experience in order to begin. Along the way, you will learn about the flow of control, variables, conditional statemen...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Move Figma Components to Penpot]]></title>
+        <id>67e48bc10d600bc3806ccf54</id>
+        <link href="https://www.freecodecamp.org/news/how-to-recreate-figma-components-in-penpot/"/>
+        <updated>2025-03-26T23:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Penpot is an open-source design tool for creating complete design systems. It is free, self-hostable, and allows multiple projects. Penpot supports reusable components and assets and allows files and libraries to be shared across projects. Penpot fil...]]></summary>
+        <author>
+            <name>Fatuma Abdullahi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create Microservices with NestJS]]></title>
         <id>67e434766d7e1561ea4bf0e6</id>
@@ -73,36 +113,6 @@
         <summary type="html"><![CDATA[AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...]]></summary>
         <author>
             <name>Rob Walters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python's Built-in Profiling Tools: Examples and Best Practices]]></title>
-        <id>67e2d5a9436e3bed610a8a95</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/"/>
-        <updated>2025-03-25T16:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Python is known for its simplicity and readability, making it a favorite among developers. But this simplicity sometimes comes at the cost of performance. When your Python application grows or needs to handle larger workloads, understanding what's ha...]]></summary>
-        <author>
-            <name>Vivek Sahu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host a Static Website on AWS S3 and CloudFront]]></title>
-        <id>67e2cd0841be93b03e257b93</id>
-        <link href="https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/"/>
-        <updated>2025-03-25T15:34:32.000Z</updated>
-        <summary type="html"><![CDATA[DevOps might seem like a complex field with various specializations and tools. In this article, I’ll simplify one key aspect by demonstrating how to host a static website using Amazon S3 (Simple Storage Service) and CloudFront, AWS’s Content Delivery...]]></summary>
-        <author>
-            <name>oghenekparobo Stephen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TestContainers in .Net]]></title>
-        <id>67e2cbfdaa97659cd53cf39f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-testcontainers-in-net/"/>
-        <updated>2025-03-25T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[At some point in your development lifecycle, you will need to test that your system can integrate with another system, whether it be another API, a database, or caching service, for example. This can be a laborious task of spinning up other servers h...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
         </author>
     </entry>
     <entry>
@@ -329,16 +339,6 @@ A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-
 Using & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Human Element: Using Research And Psychology To Elevate Data Storytelling]]></title>
-        <id>https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/</id>
-        <link href="https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/"/>
-        <updated>2025-02-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco &amp; Angelica Lo Duca)</name>
         </author>
     </entry>
 </feed>
