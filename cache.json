@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385297",
+          "author": "Frederik Dohr",
+          "description": "With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.\nAutomated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/automated-visual-regression-testing-with-playwright/",
+          "publishedOn": "2025-03-28T15:04:24.000Z",
+          "wordCount": 3669,
+          "title": "Automated Visual Regression Testing With Playwright",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/playwright-browsers.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385070",
           "author": "Daniel Schwarz",
           "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\nCase Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
           "publishedOn": "2025-03-25T12:47:18.000Z",
-          "wordCount": 4276,
+          "wordCount": 4308,
           "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
         },
@@ -27,7 +37,7 @@
           "description": "There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.\nSupport Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/support-logical-shorthands-in-css/",
           "publishedOn": "2025-03-24T14:06:19.000Z",
-          "wordCount": 2075,
+          "wordCount": 2153,
           "title": "Support Logical Shorthands in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -57,7 +67,7 @@
           "description": "Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.\nStyling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/styling-counters-in-css/",
           "publishedOn": "2025-03-17T16:25:04.000Z",
-          "wordCount": 7580,
+          "wordCount": 7612,
           "title": "Styling Counters in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/guide-styling-counters-2.jpg"
         },
@@ -140,16 +150,6 @@
           "wordCount": 4261,
           "title": "A CSS-Only Star Rating Component and More! (Part 1)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383813",
-          "author": "Geoff Graham",
-          "description": "Now that we're 5+ years into the details element, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.\nUsing & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-styling-the-details-element/",
-          "publishedOn": "2025-02-26T16:07:14.000Z",
-          "wordCount": 4112,
-          "title": "Using & Styling the Details Element",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/details-box.jpg"
         }
       ]
     },
@@ -164,7 +164,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4475,
+          "wordCount": 4477,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -179,7 +179,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3951,
+          "wordCount": 3953,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -194,7 +194,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4682,
+          "wordCount": 4582,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -209,7 +209,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5229,
+          "wordCount": 5246,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -254,7 +254,7 @@
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
           "link": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "publishedOn": "2025-03-03T08:00:00.000Z",
-          "wordCount": 5350,
+          "wordCount": 5351,
           "title": "The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/case-minimal-wordpress-setups-contrarian-view-theme-frameworks.jpg",
@@ -269,7 +269,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
           "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
           "publishedOn": "2025-02-28T13:00:00.000Z",
-          "wordCount": 4667,
+          "wordCount": 4677,
           "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
@@ -285,6 +285,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67e6f817cd414b8fc3de97c7",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Ryan Furrer. He's a Front End Engineer working on tools that help companies monitor their buildings for energy usage, water leaks, and other environmental factors. Ryan dropped out of college and wor...",
+          "link": "https://www.freecodecamp.org/news/from-broke-musician-to-working-dev-ryan-furrer-podcast-166/",
+          "publishedOn": "2025-03-28T19:27:19.000Z",
+          "wordCount": 1136,
+          "title": "From broke musician to working dev. How college drop-out Ryan Furrer taught himself to code [Podcast #166]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743189826063/2080cde4-6fc0-46fb-b98d-b3d59841e8c4.png"
+        },
+        {
+          "id": "67e6c26a4c687a76c3f3934d",
+          "author": "Rahul",
+          "description": "Maybe you’ve experienced something like this before: you’ve written code that works, but when you hit “run,” it takes forever. You stare at the spinner, wondering if it’s faster to just solve the problem by hand. But you end up looking something like...",
+          "link": "https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/",
+          "publishedOn": "2025-03-28T15:38:18.000Z",
+          "wordCount": 6114,
+          "title": "Why Your Code is Slow: Common  Performance Mistakes Beginners Make",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743176201295/448f0407-8a15-4b59-a91f-8a197bc07578.png"
+        },
+        {
+          "id": "67e6c180423cd4f90a6350b5",
+          "author": "Alaran Ayobami",
+          "description": "Hey there! 👋, How’s it going? I hope you're doing well. Whether you're a seasoned coder, a curious learner, or just someone browsing through, welcome to my little corner of the internet. In this tutorial, we’ll dive into how you can deploy a web ser...",
+          "link": "https://www.freecodecamp.org/news/deploy-a-restful-web-service-on-microsoft-azure-app-service/",
+          "publishedOn": "2025-03-28T15:34:24.000Z",
+          "wordCount": 3610,
+          "title": "How to Deploy a Restful Web Service on Microsoft Azure App Service",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743176028047/61eba7a3-5505-4152-9df5-59a1cb8c61ac.png"
+        },
+        {
+          "id": "67e6c11d423cd4f90a6350ab",
+          "author": "Daniel Anomfueme",
+          "description": "In this article, you’ll learn how to set up a VPN which you can host on a Raspberry Pi. I am a fan of Raspberry Pis because these small form factor computers are a favourite tool for tinkerers, like me. This VPN will allow you to access your home net...",
+          "link": "https://www.freecodecamp.org/news/set-up-a-home-vpn-using-tailscale-on-a-raspberry-pi/",
+          "publishedOn": "2025-03-28T15:32:45.000Z",
+          "wordCount": 2323,
+          "title": "How to Set Up a Home VPN Using Tailscale on a Raspberry Pi",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743175949441/1a8c4705-556c-4a1f-899a-9ac8e968fdc3.png"
+        },
+        {
+          "id": "67e6ab43aa64aee164e7985e",
+          "author": "Alex Tray",
+          "description": "In this tutorial, I’ll walk you through the process of sending emails in Python using two different methods:  The traditional SMTP setup with the built-in ‘smtplib’ module.  Mailtrap email API via Mailtrap’s official SDK.  If you’re unfamiliar wi...",
+          "link": "https://www.freecodecamp.org/news/send-emails-in-python-using-mailtrap-smtp-and-the-email-api/",
+          "publishedOn": "2025-03-28T13:59:31.000Z",
+          "wordCount": 3539,
+          "title": "How to Send Emails in Python using Mailtrap SMTP and the Email API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743110284000/6fb2a037-ddca-4625-acfb-cffbd167ec55.png"
+        },
         {
           "id": "67e5643f0a2aebb29e2c2264",
           "author": "Beau Carnes",
@@ -334,56 +384,6 @@
           "wordCount": 4208,
           "title": "How to Host Local LLMs in a Docker Container on Azure",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005422195/56c65ac2-7a0d-4bd6-b969-a4c02eb3c42e.png"
-        },
-        {
-          "id": "67e4265f7281ac30028843e1",
-          "author": "Omolade Ekpeni",
-          "description": "In today’s digital age, we expect our online experiences to be fast, reliable, and always available. But what happens behind the scenes to make our expectations a reality? The answer is Site Reliability Engineering (SRE). SRE is a discipline that ens...",
-          "link": "https://www.freecodecamp.org/news/what-is-site-reliability-engineering/",
-          "publishedOn": "2025-03-26T16:07:59.000Z",
-          "wordCount": 3329,
-          "title": "What is SRE? A Beginner's Guide to Site Reliability Engineering",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005263079/95dfe528-a274-4172-8a06-46187c1668eb.png"
-        },
-        {
-          "id": "67e425c92a171465d4fb4cce",
-          "author": "Adejumo Ridwan Suleiman",
-          "description": "If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...",
-          "link": "https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/",
-          "publishedOn": "2025-03-26T16:05:29.000Z",
-          "wordCount": 2822,
-          "title": "How to Extract  YouTube Analytics Data and Analyze in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005089726/39e2323d-8f7b-4bf4-94cb-288aeb9cea4f.png"
-        },
-        {
-          "id": "67e2ec52cd467794ee79d63e",
-          "author": "Ijeoma Igboagu",
-          "description": "As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/",
-          "publishedOn": "2025-03-25T17:48:02.000Z",
-          "wordCount": 2575,
-          "title": "How to Connect Your AWS EC2 Instance to VS Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397603245/c1ca0496-dbab-4570-8b6b-cb4bac5f72c1.png"
-        },
-        {
-          "id": "67e2d66c64d44185d5a6d406",
-          "author": "Victoria Nduka",
-          "description": "If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...",
-          "link": "https://www.freecodecamp.org/news/observability-in-cloud-native-applications/",
-          "publishedOn": "2025-03-25T16:14:36.000Z",
-          "wordCount": 2846,
-          "title": "A Beginner's Guide to Observability in Cloud Native Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917070693/fa372981-fb20-4230-bd9f-43b7255b8ced.png"
-        },
-        {
-          "id": "67e2d5e080e11112e050be00",
-          "author": "Rob Walters",
-          "description": "AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...",
-          "link": "https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/",
-          "publishedOn": "2025-03-25T16:12:16.000Z",
-          "wordCount": 3864,
-          "title": "Orchestrating AWS Lambda with GraphQL and Apollo Connectors",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917115054/07184be6-5384-4861-a676-b72c06ff7c65.png"
         }
       ]
     }
