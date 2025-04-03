@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385540",
+          "author": "Geoff Graham",
+          "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smil-on/",
+          "publishedOn": "2025-04-02T12:37:19.000Z",
+          "wordCount": 2135,
+          "title": "SMIL on?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385086",
           "author": "Bryan Robinson",
           "description": "One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.\nCrafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/",
           "publishedOn": "2025-04-01T13:50:58.000Z",
-          "wordCount": 4153,
+          "wordCount": 4247,
           "title": "Crafting Strong DX With Astro Components and TypeScript",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/03/typed-component-1.mp4",
@@ -155,16 +165,6 @@
           "wordCount": 2730,
           "title": "Grouping Selection List Items Together With CSS Grid",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/selection-list.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384685",
-          "author": "Juan Diego Rodríguez",
-          "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/functions-in-css/",
-          "publishedOn": "2025-03-03T13:34:22.000Z",
-          "wordCount": 3999,
-          "title": "Functions in CSS?!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4571,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -209,7 +209,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4475,
+          "wordCount": 4478,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -224,7 +224,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3957,
+          "wordCount": 3954,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -239,7 +239,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4574,
+          "wordCount": 4570,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -254,7 +254,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5235,
+          "wordCount": 5230,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -300,6 +300,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ed67823b8c37d192779b99",
+          "author": "Oluwatobi",
+          "description": "Cloud platforms and infrastructure allow you to easily deploy and host backend services and applications. In this article, you’ll learn how to run a Node.js/Express application away from the confines of your local personal computer to make it accessi...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/",
+          "publishedOn": "2025-04-02T16:36:18.000Z",
+          "wordCount": 2600,
+          "title": "How to Deploy a Node.js Application on AWS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743611764466/96a89440-1c72-4ac0-861d-0ea29aeb90bf.png"
+        },
+        {
+          "id": "67ed4efef1d155fc22688c46",
+          "author": "Beau Carnes",
+          "description": "Are you ready to transform your web development skills by building a complex, real-world application? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Laravel and MongoDB to create a full stack Instagram ...",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-laravel-and-mongodb/",
+          "publishedOn": "2025-04-02T14:51:42.000Z",
+          "wordCount": 1613,
+          "title": "Code a full stack Instagram Clone with Laravel and MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743605110164/9ae2ed21-4956-4b0e-b7c4-4ccc14e9df9f.png"
+        },
+        {
+          "id": "67ed4e54f03ad9ca955f36d0",
+          "author": "Abdullah Salaudeen",
+          "description": "Before the days of the Fetch API and Axios, developers used callback-based HTTP requests. They manually managed requests with asynchronous operations and, in the process, wrote deeply nested code. This was known as callback hell. Then, in 2015, a pro...",
+          "link": "https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/",
+          "publishedOn": "2025-04-02T14:48:52.000Z",
+          "wordCount": 5398,
+          "title": "Fetch API vs. Axios vs. Alova: Which HTTP Client Should You Use in 2025?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743605319873/9f7583a0-1b01-4714-9fe6-f39bed3954e8.png"
+        },
+        {
+          "id": "67ed3edd597c0ff6bdcf4c45",
+          "author": "Tiago Capelo Monteiro",
+          "description": "It is better to be a samurai in a garden than an agricultural worker in a war - Miyamoto Musashi In this article, I’ll share my story. When I was younger, I thought I was destined to be a failure in life. To be isolated from everyone. But years late...",
+          "link": "https://www.freecodecamp.org/news/how-online-learning-platforms-saved-my-life/",
+          "publishedOn": "2025-04-02T13:42:53.000Z",
+          "wordCount": 4460,
+          "title": "From Failure to International Success: How Online Learning Platforms Saved My Life",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743601355025/2f8c32a4-c451-4860-b4e2-f02b690fb928.png"
+        },
         {
           "id": "67ec22879f76b0cdc2046ddb",
           "author": "Beau Carnes",
@@ -359,46 +399,6 @@
           "wordCount": 2323,
           "title": "How to Set Up a Home VPN Using Tailscale on a Raspberry Pi",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743175949441/1a8c4705-556c-4a1f-899a-9ac8e968fdc3.png"
-        },
-        {
-          "id": "67e6ab43aa64aee164e7985e",
-          "author": "Alex Tray",
-          "description": "In this tutorial, I’ll walk you through the process of sending emails in Python using two different methods:  The traditional SMTP setup with the built-in ‘smtplib’ module.  Mailtrap email API via Mailtrap’s official SDK.  If you’re unfamiliar wi...",
-          "link": "https://www.freecodecamp.org/news/send-emails-in-python-using-mailtrap-smtp-and-the-email-api/",
-          "publishedOn": "2025-03-28T13:59:31.000Z",
-          "wordCount": 3539,
-          "title": "How to Send Emails in Python using Mailtrap SMTP and the Email API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743110284000/6fb2a037-ddca-4625-acfb-cffbd167ec55.png"
-        },
-        {
-          "id": "67e5643f0a2aebb29e2c2264",
-          "author": "Beau Carnes",
-          "description": "Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...",
-          "link": "https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/",
-          "publishedOn": "2025-03-27T14:44:15.000Z",
-          "wordCount": 1220,
-          "title": "Learn the top Excel formulas and functions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743086651754/1f008643-281a-452a-bc45-c8247f23ddb9.png"
-        },
-        {
-          "id": "67e48bff04e3150220f40379",
-          "author": "Mark Mahoney",
-          "description": "In this tutorial, I’ll give you a comprehensive introduction to programming in C++. You don't need to have any previous programming experience in order to begin. Along the way, you will learn about the flow of control, variables, conditional statemen...",
-          "link": "https://www.freecodecamp.org/news/learn-programming-in-cpp/",
-          "publishedOn": "2025-03-26T23:21:35.000Z",
-          "wordCount": 6750,
-          "title": "An Animated Introduction to Programming in C++",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028744653/12f33ee5-4ef4-47da-b50d-060a9ee327ce.png"
-        },
-        {
-          "id": "67e48bc10d600bc3806ccf54",
-          "author": "Fatuma Abdullahi",
-          "description": "Penpot is an open-source design tool for creating complete design systems. It is free, self-hostable, and allows multiple projects. Penpot supports reusable components and assets and allows files and libraries to be shared across projects. Penpot fil...",
-          "link": "https://www.freecodecamp.org/news/how-to-recreate-figma-components-in-penpot/",
-          "publishedOn": "2025-03-26T23:20:33.000Z",
-          "wordCount": 2463,
-          "title": "How to Move Figma Components to Penpot",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028701920/ef200f8f-888d-4658-a5b0-ffa483edbdcf.png"
         }
       ]
     }
