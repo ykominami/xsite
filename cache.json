@@ -17,7 +17,7 @@
           "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/smil-on/",
           "publishedOn": "2025-04-02T12:37:19.000Z",
-          "wordCount": 2135,
+          "wordCount": 2365,
           "title": "SMIL on?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
         },
@@ -42,7 +42,7 @@
           "description": "Interactive CSS animations with elements ricocheting off each other seem more plausible in 2025. While it’s unnecessary to implement Pong in CSS, the increasing flexibility and power of CSS reinforce Lee's suspicion that one day it will be a lifestyle choice whether to achieve any given effect with scripting or CSS.\nWorlds Collide: Keyframe Collision Detection Using Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/",
           "publishedOn": "2025-03-31T14:59:47.000Z",
-          "wordCount": 3934,
+          "wordCount": 4012,
           "title": "Worlds Collide: Keyframe Collision Detection Using Style Queries",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/pong.jpg"
         },
@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/",
+          "author": "hello@smashingmagazine.com (Edoardo Dusi)",
+          "description": "In this article, Edoardo Dusi shares the engineering and architectural choices made by the team at Storyblok and how real-world migration challenges were addressed using modern PHP practices.",
+          "link": "https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/",
+          "publishedOn": "2025-04-02T12:00:00.000Z",
+          "wordCount": 4008,
+          "title": "Building A Drupal To Storyblok Migration Tool: An Engineering Perspective",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-drupal-storyblok-migration-tool-engineering-perspective/building-drupal-storyblok-migration-tool-engineering-perspective.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-drupal-storyblok-migration-tool-engineering-perspective/building-drupal-storyblok-migration-tool-engineering-perspective.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4571,
+          "wordCount": 4554,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -209,7 +224,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4478,
+          "wordCount": 4472,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -224,7 +239,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3954,
+          "wordCount": 3952,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -239,7 +254,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4570,
+          "wordCount": 4687,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -254,7 +269,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5230,
+          "wordCount": 5238,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -300,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ee83d004f007db33e0f920",
+          "author": "Hang Hu",
+          "description": "Wireshark is an open-source tool widely regarded as the gold standard for network packet analysis. It allows you to capture live network traffic or inspect pre-recorded capture files, breaking down the data into individual packets for detailed examin...",
+          "link": "https://www.freecodecamp.org/news/use-wireshark-filters-to-analyze-network-traffic/",
+          "publishedOn": "2025-04-03T12:49:20.000Z",
+          "wordCount": 4330,
+          "title": "How to Use Wireshark Filters to Analyze Your Network Traffic",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743684532493/cc26aa99-fc7a-4b47-ab16-60dac77561fd.png"
+        },
+        {
+          "id": "67edb47680c0ce2ff2faebb9",
+          "author": "Hamdaan Ali",
+          "description": "The RSA algorithm was introduced in 1978 in the seminal paper, \"A Method for Obtaining Digital Signatures and Public-Key Cryptosystems\". Over the decades, as RSA became integral to secure communications, various vulnerabilities and attacks have emerg...",
+          "link": "https://www.freecodecamp.org/news/the-cryptography-handbook-rsa-algorithm/",
+          "publishedOn": "2025-04-02T22:04:38.000Z",
+          "wordCount": 11316,
+          "title": "The Cryptography Handbook: Exploring RSA PKCSv1.5, OAEP, and PSS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743630655223/f7e0c094-2103-42cd-97bd-be79d14fff67.png"
+        },
         {
           "id": "67ed67823b8c37d192779b99",
           "author": "Oluwatobi",
@@ -379,26 +414,6 @@
           "wordCount": 6114,
           "title": "Why Your Code is Slow: Common  Performance Mistakes Beginners Make",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743176201295/448f0407-8a15-4b59-a91f-8a197bc07578.png"
-        },
-        {
-          "id": "67e6c180423cd4f90a6350b5",
-          "author": "Alaran Ayobami",
-          "description": "Hey there! 👋, How’s it going? I hope you're doing well. Whether you're a seasoned coder, a curious learner, or just someone browsing through, welcome to my little corner of the internet. In this tutorial, we’ll dive into how you can deploy a web ser...",
-          "link": "https://www.freecodecamp.org/news/deploy-a-restful-web-service-on-microsoft-azure-app-service/",
-          "publishedOn": "2025-03-28T15:34:24.000Z",
-          "wordCount": 3610,
-          "title": "How to Deploy a Restful Web Service on Microsoft Azure App Service",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743176028047/61eba7a3-5505-4152-9df5-59a1cb8c61ac.png"
-        },
-        {
-          "id": "67e6c11d423cd4f90a6350ab",
-          "author": "Daniel Anomfueme",
-          "description": "In this article, you’ll learn how to set up a VPN which you can host on a Raspberry Pi. I am a fan of Raspberry Pis because these small form factor computers are a favourite tool for tinkerers, like me. This VPN will allow you to access your home net...",
-          "link": "https://www.freecodecamp.org/news/set-up-a-home-vpn-using-tailscale-on-a-raspberry-pi/",
-          "publishedOn": "2025-03-28T15:32:45.000Z",
-          "wordCount": 2323,
-          "title": "How to Set Up a Home VPN Using Tailscale on a Raspberry Pi",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743175949441/1a8c4705-556c-4a1f-899a-9ac8e968fdc3.png"
         }
       ]
     }
