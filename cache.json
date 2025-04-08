@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385271",
+          "author": "Lee Meyer",
+          "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/",
+          "publishedOn": "2025-04-07T14:41:53.000Z",
+          "wordCount": 4780,
+          "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385268",
           "author": "Juan Diego Rodríguez",
           "description": "HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version?\nA New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-new-web-readiness-report/",
           "publishedOn": "2025-04-04T13:05:22.000Z",
-          "wordCount": 2990,
+          "wordCount": 3058,
           "title": "A New “Web” Readiness Report",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/03/juandivideo2.mp4",
@@ -67,7 +77,7 @@
           "description": "With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.\nAutomated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/automated-visual-regression-testing-with-playwright/",
           "publishedOn": "2025-03-28T15:04:24.000Z",
-          "wordCount": 3709,
+          "wordCount": 3729,
           "title": "Automated Visual Regression Testing With Playwright",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/playwright-browsers.jpg"
         },
@@ -164,7 +174,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8316,
+          "wordCount": 8320,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -224,7 +234,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4475,
+          "wordCount": 4485,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -239,7 +249,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3954,
+          "wordCount": 3959,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -254,7 +264,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4575,
+          "wordCount": 4562,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -269,7 +279,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5224,
+          "wordCount": 5232,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -300,6 +310,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f3d275332a812ead444418",
+          "author": "Spruce Emmanuel",
+          "description": "The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I",
+          "link": "https://www.freecodecamp.org/news/add-live-chat-to-your-applications-with-rocketchat/",
+          "publishedOn": "2025-04-07T13:26:13.000Z",
+          "wordCount": 2200,
+          "title": "How to Add Live Chat to Your Applications with Rocket.chat",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744032217209/1ad8ea61-a8bd-4bea-9bec-152e52db7377.png"
+        },
         {
           "id": "67f041c2f87b5fbfcc550e46",
           "author": "Quincy Larson",
@@ -389,16 +409,6 @@
           "wordCount": 1245,
           "title": "Understand and Code DeepSeek V3",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743528561674/7a60918e-265c-4201-a8a6-eec530f3149a.png"
-        },
-        {
-          "id": "67eb1b3398e2cf5154940366",
-          "author": "Andrew Baisden",
-          "description": "AI is quickly changing the way we work, and more and more companies are using it to help them get and retain clients. Teams are also using AI to create innovative and responsive websites capable of engaging visitors while also providing helpful infor...",
-          "link": "https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/",
-          "publishedOn": "2025-03-31T22:46:11.000Z",
-          "wordCount": 14889,
-          "title": "How to Build a Team of AI Agents for Your Website for Free Using Agno and Groq",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397437476/0ffa13b0-c668-40d7-864f-596f523f6101.png"
         }
       ]
     }
