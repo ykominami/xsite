@@ -117,7 +117,7 @@
           "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\nQuick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/",
           "publishedOn": "2025-03-20T13:51:29.000Z",
-          "wordCount": 2234,
+          "wordCount": 2269,
           "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
         },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
+          "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
+          "publishedOn": "2025-04-08T15:00:00.000Z",
+          "wordCount": 4861,
+          "title": "Using Manim For Making UI Animations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "author": "hello@smashingmagazine.com (Gloria Diaz Alonso)",
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8320,
+          "wordCount": 8318,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -204,7 +219,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4564,
+          "wordCount": 4565,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -234,7 +249,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4485,
+          "wordCount": 4484,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -249,7 +264,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3959,
+          "wordCount": 3951,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -264,7 +279,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4566,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -279,7 +294,7 @@
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
           "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5232,
+          "wordCount": 5236,
           "title": "How To Prevent WordPress SQL Injection Attacks",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
@@ -310,6 +325,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f5418259aa448cc705cefd",
+          "author": "Beau Carnes",
+          "description": "Setting up a C++ development environment can be one of the most challenging aspects for newcomers, especially when juggling different operating systems and toolchains. Whether you’re aiming to build robust applications or contribute to professional-g...",
+          "link": "https://www.freecodecamp.org/news/c-setup-and-installation-tools-cmake-vcpkg-docker-and-copilot/",
+          "publishedOn": "2025-04-08T15:32:18.000Z",
+          "wordCount": 1525,
+          "title": "C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744126327420/6ec2b56c-d226-4fea-935c-ab78d6b83951.png"
+        },
         {
           "id": "67f3d275332a812ead444418",
           "author": "Spruce Emmanuel",
@@ -399,16 +424,6 @@
           "wordCount": 4460,
           "title": "From Failure to International Success: How Online Learning Platforms Saved My Life",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743601355025/2f8c32a4-c451-4860-b4e2-f02b690fb928.png"
-        },
-        {
-          "id": "67ec22879f76b0cdc2046ddb",
-          "author": "Beau Carnes",
-          "description": "DeepSeek V3 is a cutting-edge large language model. It leverages sophisticated techniques like a unique Multi-Head Latent Attention mechanism and a Mixture of Experts architecture for enhanced efficiency and capability. Understanding this model provi...",
-          "link": "https://www.freecodecamp.org/news/understand-and-code-deepseek-v3/",
-          "publishedOn": "2025-04-01T17:29:43.000Z",
-          "wordCount": 1245,
-          "title": "Understand and Code DeepSeek V3",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743528561674/7a60918e-265c-4201-a8a6-eec530f3149a.png"
         }
       ]
     }
