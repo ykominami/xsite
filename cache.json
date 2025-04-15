@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385604",
+          "author": "Declan Chidlow",
+          "description": "Custom cursors with CSS are great, but we can take things to the next level with JavaScript. Using JavaScript, we can transition between cursor states, place dynamic text within the cursor, apply complex animations, and apply filters.\nNext Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/next-level-css-styling-for-cursors/",
+          "publishedOn": "2025-04-14T12:40:46.000Z",
+          "wordCount": 2530,
+          "title": "Next Level CSS Styling for Cursors",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385404",
           "author": "Geoff Graham",
           "description": "This CSS-Tricks update highlights significant progress in the Almanac, recent podcast appearances, a new CSS counters guide, and the addition of several new authors contributing valuable content.\nCSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 2284,
           "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384529",
-          "author": "Juan Diego Rodríguez",
-          "description": "Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.\nStyling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/styling-counters-in-css/",
-          "publishedOn": "2025-03-17T16:25:04.000Z",
-          "wordCount": 7612,
-          "title": "Styling Counters in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/guide-styling-counters-2.jpg"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4207,
+          "wordCount": 4325,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -199,7 +199,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4856,
+          "wordCount": 4869,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -214,7 +214,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8316,
+          "wordCount": 8318,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -244,7 +244,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4673,
+          "wordCount": 4556,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -274,7 +274,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4474,
+          "wordCount": 4482,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -289,7 +289,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3944,
+          "wordCount": 3959,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -304,7 +304,7 @@
           "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
           "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4678,
+          "wordCount": 4567,
           "title": "Web Components Vs. Framework Components: What’s The Difference?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
@@ -320,6 +320,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67fd5ac89a2c2895da61d799",
+          "author": "Elabonga Atuo",
+          "description": "A Large Language Model (LLM) is a type of machine learning model that is trained to understand and generate human-like text. These models are trained on vast datasets to capture the nuances of human language, enabling them to generate coherent and co...",
+          "link": "https://www.freecodecamp.org/news/build-a-local-rag-app-with-ollama-and-chromadb-in-r/",
+          "publishedOn": "2025-04-14T18:58:16.000Z",
+          "wordCount": 5328,
+          "title": "How to Build a Local RAG App with Ollama and ChromaDB in the R Programming Language",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744638731389/83993a5e-7a4d-4615-a8c5-582008115fc4.png"
+        },
+        {
+          "id": "67fd2db6c741f3f1aec5ecd2",
+          "author": "Chidiadi Anyanwu",
+          "description": "CI/CD stands for Continuous Integration and Continuous Delivery. It is a system or set of processes and methodologies that help developers quickly update codebases and deploy applications. The Continuous Integration (CI) part of CI/CD means that deve...",
+          "link": "https://www.freecodecamp.org/news/automate-cicd-with-github-actions-streamline-workflow/",
+          "publishedOn": "2025-04-14T15:45:58.000Z",
+          "wordCount": 1872,
+          "title": "How to Automate CI/CD with GitHub Actions and Streamline Your Workflow",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744638276204/5cf04403-6bf0-4bf1-b9d3-89722bd90425.png"
+        },
+        {
+          "id": "67fd1442fd23722b0a451053",
+          "author": "Azubuike Duru",
+          "description": "An inconsistent text layout can really ruin the look of your website’s design. Maybe a heading has an extra word that wraps to another line, or in a paragraph some lines are longer than others. This can leave the whole thing looking messy and hard to...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-text-wrap-property/",
+          "publishedOn": "2025-04-14T13:57:22.000Z",
+          "wordCount": 2341,
+          "title": "How to Use the CSS text-wrap Property to Create Balanced Text Layouts on Your Websites",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744638131989/38357168-abda-4f7b-8c4f-568f64b586df.png"
+        },
+        {
+          "id": "67fd1282e4687cd6aa7dcd1e",
+          "author": "Shamsuddoha Ranju",
+          "description": "Virtualization is a game-changer for developers, hobbyists, and IT enthusiasts. It lets you run multiple operating systems on one machine, which is perfect for testing apps, hosting servers, or learning new tech. If you want to take it further, clust...",
+          "link": "https://www.freecodecamp.org/news/set-up-a-proxmox-cluster-virtualization-basics/",
+          "publishedOn": "2025-04-14T13:49:54.000Z",
+          "wordCount": 2129,
+          "title": "How to Set Up a Proxmox Cluster for Free – Virtualization Basics",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744488492225/62339e66-50ae-4546-8845-f5c86c415511.png"
+        },
+        {
+          "id": "67fd101ad7ec2850d2df790d",
+          "author": "Udemezue John",
+          "description": "Django signals can be a lifesaver if you're building anything with Django and want your code to stay clean and organized. They help you connect different parts of your app without everything getting tangled together. Think of them like walkie-talkies...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-django-signals-in-your-projects/",
+          "publishedOn": "2025-04-14T13:39:38.000Z",
+          "wordCount": 1895,
+          "title": "How to Use Django Signals in Your Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744637958755/939ee783-cb11-4f8c-b509-c68c28092248.png"
+        },
         {
           "id": "67f9c04b3e25f02ff9a26b80",
           "author": "Quincy Larson",
@@ -369,56 +419,6 @@
           "wordCount": 2569,
           "title": "How to Use Lazygit to Improve Your Git Workflow",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293114488/5332db88-bff6-4aef-91eb-3423f3b95e1a.png"
-        },
-        {
-          "id": "67f7044b8d28cad83fb095a2",
-          "author": "Mark Mahoney",
-          "description": "This tutorial introduces the programming language, Clojure. Clojure is an awesome functional programming language that runs on Java's Virtual Machine (JVM). It is sometimes called a LISP, which is short for 'LISt Processing'. You'll need to have some...",
-          "link": "https://www.freecodecamp.org/news/learn-clojure-programming-basics/",
-          "publishedOn": "2025-04-09T23:35:39.000Z",
-          "wordCount": 3273,
-          "title": "An Animated Introduction to Clojure – Learn Clojure Programming Basics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744240649396/3e68ef22-3109-4b43-841e-e947f1821a76.png"
-        },
-        {
-          "id": "67f6a2b6a00282687c8e224d",
-          "author": "Beau Carnes",
-          "description": "In the rapidly evolving landscape of cross-platform development, a new player has emerged that promises to revolutionize the way developers create applications: Lynx. Developed by ByteDance, the company behind TikTok, Lynx is an open-source framework...",
-          "link": "https://www.freecodecamp.org/news/learn-lynx-to-create-javascript-mobile-apps/",
-          "publishedOn": "2025-04-09T16:39:18.000Z",
-          "wordCount": 1260,
-          "title": "Learn Lynx to Create JavaScript Mobile Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744216738661/fb1664d6-011e-4d79-8236-c6999f0acab6.png"
-        },
-        {
-          "id": "67f59a4c27d15057ec14c438",
-          "author": "Kevine Nzapdi",
-          "description": "Hey there! In this project, you will build a multilingual social recipe application using Flutter and Strapi. Flutter is an open-source UI software development kit created by Google. It allows you to build beautiful and highly interactive user interf...",
-          "link": "https://www.freecodecamp.org/news/build-a-multilingual-social-recipe-app-with-flutter-and-strapi/",
-          "publishedOn": "2025-04-08T21:51:08.000Z",
-          "wordCount": 8953,
-          "title": "How to Build a Multilingual Social Recipe Application with Flutter and Strapi",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743509325302/fd7d5d6c-9a48-4037-9cc2-3b35a92b6006.png"
-        },
-        {
-          "id": "67f5418259aa448cc705cefd",
-          "author": "Beau Carnes",
-          "description": "Setting up a C++ development environment can be one of the most challenging aspects for newcomers, especially when juggling different operating systems and toolchains. Whether you’re aiming to build robust applications or contribute to professional-g...",
-          "link": "https://www.freecodecamp.org/news/c-setup-and-installation-tools-cmake-vcpkg-docker-and-copilot/",
-          "publishedOn": "2025-04-08T15:32:18.000Z",
-          "wordCount": 1482,
-          "title": "C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744126327420/6ec2b56c-d226-4fea-935c-ab78d6b83951.png"
-        },
-        {
-          "id": "67f3d275332a812ead444418",
-          "author": "Spruce Emmanuel",
-          "description": "The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I",
-          "link": "https://www.freecodecamp.org/news/add-live-chat-to-your-applications-with-rocketchat/",
-          "publishedOn": "2025-04-07T13:26:13.000Z",
-          "wordCount": 2157,
-          "title": "How to Add Live Chat to Your Applications with Rocket.chat",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744032217209/1ad8ea61-a8bd-4bea-9bec-152e52db7377.png"
         }
       ]
     }
