@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-15T00:14:44.924Z</id>
+    <id>urn:2025-04-16T00:14:49.124Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T00:14:44.924Z</updated>
+    <updated>2025-04-16T00:14:49.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inclusive Dark Mode: Designing Accessible Dark Themes For All Users]]></title>
+        <id>https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/</id>
+        <link href="https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/"/>
+        <updated>2025-04-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alex Williams)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Local RAG App with Ollama and ChromaDB in the R Programming Language]]></title>
         <id>67fd5ac89a2c2895da61d799</id>
@@ -350,16 +360,6 @@ Revisiting CSS border-image originally published on CSS-Tricks, which is part of
 Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Components Vs. Framework Components: What’s The Difference?]]></title>
-        <id>https://smashingmagazine.com/2025/03/web-components-vs-framework-components/</id>
-        <link href="https://smashingmagazine.com/2025/03/web-components-vs-framework-components/"/>
-        <updated>2025-03-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
         </author>
     </entry>
 </feed>
