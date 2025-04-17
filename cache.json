@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385721",
+          "author": "Preethi",
+          "description": "Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.\nUsing CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/",
+          "publishedOn": "2025-04-16T12:34:50.000Z",
+          "wordCount": 2678,
+          "title": "Using CSS backdrop-filter for UI Effects",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/backdrop-filter-weather-widget.jpeg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385604",
           "author": "Declan Chidlow",
           "description": "Custom cursors with CSS are great, but we can take things to the next level with JavaScript. Using JavaScript, we can transition between cursor states, place dynamic text within the cursor, apply complex animations, and apply filters.\nNext Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/next-level-css-styling-for-cursors/",
           "publishedOn": "2025-04-14T12:40:46.000Z",
-          "wordCount": 2664,
+          "wordCount": 2667,
           "title": "Next Level CSS Styling for Cursors",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
         },
@@ -27,7 +37,7 @@
           "description": "This CSS-Tricks update highlights significant progress in the Almanac, recent podcast appearances, a new CSS counters guide, and the addition of several new authors contributing valuable content.\nCSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-tricks-chronicles-xliii/",
           "publishedOn": "2025-04-11T12:39:26.000Z",
-          "wordCount": 2774,
+          "wordCount": 2777,
           "title": "CSS-Tricks Chronicles XLIII",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/chronicles-XXXVIII.jpg"
         },
@@ -37,7 +47,7 @@
           "description": "Most of the time, people showcase Tailwind's @apply feature with one of Tailwind's single-property utilities (which changes a single CSS declaration). When showcased this way, @apply doesn't sound promising at all. So obviously, nobody wants to use it. Personally, I think Tailwind's @apply feature is better than described.\nTailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/",
           "publishedOn": "2025-04-10T12:39:43.000Z",
-          "wordCount": 3558,
+          "wordCount": 3622,
           "title": "Tailwind’s @apply Feature is Better Than it Sounds",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/tailwind-apply.jpg"
         },
@@ -47,7 +57,7 @@
           "description": "If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …\nCascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/",
           "publishedOn": "2025-04-10T11:26:00.000Z",
-          "wordCount": 1913,
+          "wordCount": 1916,
           "title": "Cascading Layouts: A Workshop on Resilient CSS Layouts",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/cascading-workshop-cat-1600w.webp"
         },
@@ -57,7 +67,7 @@
           "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-carousels/",
           "publishedOn": "2025-04-09T13:00:24.000Z",
-          "wordCount": 3065,
+          "wordCount": 3068,
           "title": "CSS Carousels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
         },
@@ -67,7 +77,7 @@
           "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/",
           "publishedOn": "2025-04-07T14:41:53.000Z",
-          "wordCount": 4780,
+          "wordCount": 4783,
           "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
         },
@@ -77,7 +87,7 @@
           "description": "HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version?\nA New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-new-web-readiness-report/",
           "publishedOn": "2025-04-04T13:05:22.000Z",
-          "wordCount": 3058,
+          "wordCount": 3061,
           "title": "A New “Web” Readiness Report",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/03/juandivideo2.mp4",
@@ -92,7 +102,7 @@
           "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/smil-on/",
           "publishedOn": "2025-04-02T12:37:19.000Z",
-          "wordCount": 2480,
+          "wordCount": 2483,
           "title": "SMIL on?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
         },
@@ -102,7 +112,7 @@
           "description": "One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.\nCrafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/",
           "publishedOn": "2025-04-01T13:50:58.000Z",
-          "wordCount": 4358,
+          "wordCount": 4361,
           "title": "Crafting Strong DX With Astro Components and TypeScript",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/03/typed-component-1.mp4",
@@ -117,7 +127,7 @@
           "description": "Interactive CSS animations with elements ricocheting off each other seem more plausible in 2025. While it’s unnecessary to implement Pong in CSS, the increasing flexibility and power of CSS reinforce Lee's suspicion that one day it will be a lifestyle choice whether to achieve any given effect with scripting or CSS.\nWorlds Collide: Keyframe Collision Detection Using Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/",
           "publishedOn": "2025-03-31T14:59:47.000Z",
-          "wordCount": 4268,
+          "wordCount": 4271,
           "title": "Worlds Collide: Keyframe Collision Detection Using Style Queries",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/pong.jpg"
         },
@@ -127,7 +137,7 @@
           "description": "With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.\nAutomated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/automated-visual-regression-testing-with-playwright/",
           "publishedOn": "2025-03-28T15:04:24.000Z",
-          "wordCount": 4013,
+          "wordCount": 4016,
           "title": "Automated Visual Regression Testing With Playwright",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/playwright-browsers.jpg"
         },
@@ -137,7 +147,7 @@
           "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\nCase Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
           "publishedOn": "2025-03-25T12:47:18.000Z",
-          "wordCount": 4308,
+          "wordCount": 4311,
           "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
         },
@@ -147,7 +157,7 @@
           "description": "There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.\nSupport Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/support-logical-shorthands-in-css/",
           "publishedOn": "2025-03-24T14:06:19.000Z",
-          "wordCount": 2153,
+          "wordCount": 2156,
           "title": "Support Logical Shorthands in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         },
@@ -157,19 +167,9 @@
           "description": "I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.\nRevisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/revisiting-css-border-image/",
           "publishedOn": "2025-03-21T13:24:11.000Z",
-          "wordCount": 4278,
+          "wordCount": 4281,
           "title": "Revisiting CSS border-image",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/border-image-menu.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385336",
-          "author": "Geoff Graham",
-          "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\nQuick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/",
-          "publishedOn": "2025-03-20T13:51:29.000Z",
-          "wordCount": 2284,
-          "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
         }
       ]
     },
@@ -199,7 +199,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4201,
+          "wordCount": 4207,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -214,7 +214,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4864,
+          "wordCount": 4850,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -229,7 +229,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8428,
+          "wordCount": 8320,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -259,7 +259,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4564,
+          "wordCount": 4562,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -289,7 +289,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4473,
+          "wordCount": 4474,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -304,7 +304,7 @@
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
           "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "publishedOn": "2025-03-21T08:00:00.000Z",
-          "wordCount": 3954,
+          "wordCount": 3956,
           "title": "Previewing Content Changes In Your Work With document.designMode",
           "enclosure": {
             "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
@@ -320,6 +320,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ffffdf95672e11eaf7719b",
+          "author": "Udemezue John",
+          "description": "When you're building an API, security should be at the top of your list. You want to make sure only the right people can access the right stuff – and that’s where authentication comes in. One of the most common and reliable ways to handle authenticat...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/",
+          "publishedOn": "2025-04-16T19:07:11.000Z",
+          "wordCount": 2644,
+          "title": "How to Create a JSON Web Token in the Django Rest Framework",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744827939254/f99ab71c-f3a6-4858-8682-592e2e41bd45.png"
+        },
+        {
+          "id": "67ffd01c61bb8e3a320b1eac",
+          "author": "Mark Mahoney",
+          "description": "In this tutorial, you’ll learn about the Structured Query Language (SQL), the standard language used to query relational databases. SQL is not a traditional programming language. In Python or Java, you write step-by-step instructions that tell the co...",
+          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-sql-learn-to-query-relational-databases/",
+          "publishedOn": "2025-04-16T15:43:24.000Z",
+          "wordCount": 4441,
+          "title": "An Animated Introduction to SQL – Learn to Query Relational Databases",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744818155429/10b16956-a249-4815-b50a-594b58330a01.png"
+        },
+        {
+          "id": "67ffc4588a19b331e60a51d2",
+          "author": "Udemezue John",
+          "description": "If you’re building a web or mobile app, chances are you’re going to need a way to send and receive data between your app and a server. That’s where REST APIs come in. They help apps talk to each other – kind of like a waiter taking your order and",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/",
+          "publishedOn": "2025-04-16T14:53:12.000Z",
+          "wordCount": 2581,
+          "title": "How to Build a REST API in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744814822505/5195929b-c1d8-4c9e-a12b-44697db44c5b.png"
+        },
+        {
+          "id": "67ffc2a75667d9e59ef9bc61",
+          "author": "Maham Codes",
+          "description": "The most powerful AI systems don’t just generate – they also retrieve, reason, and respond with context. Retrieval-Augmented Generation (RAG) is how we get there. It combines the strengths of search and generation to build more accurate, reliable, an...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-rag-ai-agents-with-typescript/",
+          "publishedOn": "2025-04-16T14:45:59.000Z",
+          "wordCount": 4290,
+          "title": "How to Build RAG AI Agents with TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744814746615/72626297-def9-466a-8c1a-2cdb1b411300.png"
+        },
+        {
+          "id": "67ffc1695667d9e59ef9bc46",
+          "author": "Gordan Tan",
+          "description": "Recently, I have been writing unit tests and E2E tests for a NestJS project. This was my first time writing tests for a backend project, and I found the process different from my experience with frontend testing, making it challenging to begin. After...",
+          "link": "https://www.freecodecamp.org/news/nestjs-unit-testing-e2e-testing-guide/",
+          "publishedOn": "2025-04-16T14:40:41.000Z",
+          "wordCount": 4047,
+          "title": "How to Write Unit Tests and E2E Tests for NestJS Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744738441654/1bb2b329-d363-46d7-b091-e0e95ad22c9e.png"
+        },
+        {
+          "id": "67ffaf1dde58821be3496dfb",
+          "author": "Udemezue John",
+          "description": "If you're building an app with Django and thinking about using GraphQL, you're not alone. REST has been the go-to for years, but GraphQL is quickly becoming a favourite option for developers who want more flexibility and less back-and-forth between f...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphql-api-in-django/",
+          "publishedOn": "2025-04-16T13:22:37.000Z",
+          "wordCount": 2313,
+          "title": "How to Build a GraphQL API in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744809748866/9a626cc9-4e67-4d63-bdde-1834180db645.png"
+        },
+        {
+          "id": "67fed115c3894cfa21b37d64",
+          "author": "Michael Para",
+          "description": "PHP is a dynamically typed language. This means that variable types are determined at runtime, and you don’t need to explicitly define types when declaring variables. One of PHP’s unique features is type juggling, a concept that can be both fascinati...",
+          "link": "https://www.freecodecamp.org/news/how-php-type-juggling-works-explained-with-code-examples/",
+          "publishedOn": "2025-04-15T21:35:17.000Z",
+          "wordCount": 1931,
+          "title": "How PHP Type Juggling Works – Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744752144618/3f40dca7-3148-44fc-8cc0-c10315e706e3.png"
+        },
         {
           "id": "67fd5ac89a2c2895da61d799",
           "author": "Elabonga Atuo",
@@ -349,76 +419,6 @@
           "wordCount": 2341,
           "title": "How to Use the CSS text-wrap Property to Create Balanced Text Layouts on Your Websites",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744638131989/38357168-abda-4f7b-8c4f-568f64b586df.png"
-        },
-        {
-          "id": "67fd1282e4687cd6aa7dcd1e",
-          "author": "Shamsuddoha Ranju",
-          "description": "Virtualization is a game-changer for developers, hobbyists, and IT enthusiasts. It lets you run multiple operating systems on one machine, which is perfect for testing apps, hosting servers, or learning new tech. If you want to take it further, clust...",
-          "link": "https://www.freecodecamp.org/news/set-up-a-proxmox-cluster-virtualization-basics/",
-          "publishedOn": "2025-04-14T13:49:54.000Z",
-          "wordCount": 2129,
-          "title": "How to Set Up a Proxmox Cluster for Free – Virtualization Basics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744488492225/62339e66-50ae-4546-8845-f5c86c415511.png"
-        },
-        {
-          "id": "67fd101ad7ec2850d2df790d",
-          "author": "Udemezue John",
-          "description": "Django signals can be a lifesaver if you're building anything with Django and want your code to stay clean and organized. They help you connect different parts of your app without everything getting tangled together. Think of them like walkie-talkies...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-django-signals-in-your-projects/",
-          "publishedOn": "2025-04-14T13:39:38.000Z",
-          "wordCount": 1895,
-          "title": "How to Use Django Signals in Your Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744637958755/939ee783-cb11-4f8c-b509-c68c28092248.png"
-        },
-        {
-          "id": "67f9c04b3e25f02ff9a26b80",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software e...",
-          "link": "https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/",
-          "publishedOn": "2025-04-12T01:22:19.000Z",
-          "wordCount": 1140,
-          "title": "From Accountant to Data Engineer with Alyson La [Podcast #168]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744420903260/fae4b593-d653-41eb-b70b-031591aa2f35.png"
-        },
-        {
-          "id": "67f96c998b09f2bdfa144c8b",
-          "author": "Adalbert Pungu",
-          "description": "If you're curious and passionate about technology like I am, and you’re looking for clarity in your code, you've likely already experienced the limitations of conventional tools for documenting and modeling APIs. Tools such as Swagger, JSON Schema, o...",
-          "link": "https://www.freecodecamp.org/news/use-typespec-for-documenting-and-modeling-apis/",
-          "publishedOn": "2025-04-11T19:25:13.000Z",
-          "wordCount": 4490,
-          "title": "How to Use TypeSpec for Documenting and Modeling APIs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744399481891/de5db16a-2eea-46d8-820d-50c1e66d5019.png"
-        },
-        {
-          "id": "67f8338f0d301512a59fb77f",
-          "author": "Beau Carnes",
-          "description": "Ever wondered how large language models like ChatGPT are actually built? Behind these impressive AI tools lies a complex but fascinating process of data preparation, model training, and fine-tuning. While it might seem like something only experts wit...",
-          "link": "https://www.freecodecamp.org/news/train-your-own-llm/",
-          "publishedOn": "2025-04-10T21:09:35.000Z",
-          "wordCount": 1295,
-          "title": "Train Your Own LLM",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744319158160/c3734576-b102-498b-a078-8b7acb19b2df.png"
-        },
-        {
-          "id": "67f7ccb69fc8333e720a4185",
-          "author": "Udemezue John",
-          "description": "If you're working with Django and building anything that involves user accounts – like a blog, a store, or a membership site – you’ll likely hit a point where the default user model just isn’t enough. Maybe you want to add a profile picture, a phone ...",
-          "link": "https://www.freecodecamp.org/news/how-to-extend-the-django-user-model/",
-          "publishedOn": "2025-04-10T13:50:46.000Z",
-          "wordCount": 2129,
-          "title": "How to Extend the Django User Model",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293031605/8b4f148d-2e5f-49bd-90a8-7c295be2c2db.png"
-        },
-        {
-          "id": "67f7cc7aaf72aa46d378eaa0",
-          "author": "Rajdeep Singh",
-          "description": "Lazygit is an open-source command line terminal UI for Git commands that I’ve used for the last couple of years, and it’s become my new best friend. Basically, the Lazygit tool is a wrapper for the Git command line that replaces it with a UI. Instead...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/",
-          "publishedOn": "2025-04-10T13:49:46.000Z",
-          "wordCount": 2569,
-          "title": "How to Use Lazygit to Improve Your Git Workflow",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293114488/5332db88-bff6-4aef-91eb-3423f3b95e1a.png"
         }
       ]
     }

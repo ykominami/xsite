@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T00:14:49.124Z</id>
+    <id>urn:2025-04-17T00:14:34.687Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T00:14:49.124Z</updated>
+    <updated>2025-04-17T00:14:34.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a JSON Web Token in the Django Rest Framework]]></title>
+        <id>67ffffdf95672e11eaf7719b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/"/>
+        <updated>2025-04-16T19:07:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're building an API, security should be at the top of your list. You want to make sure only the right people can access the right stuff – and that’s where authentication comes in. One of the most common and reliable ways to handle authenticat...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to SQL – Learn to Query Relational Databases]]></title>
+        <id>67ffd01c61bb8e3a320b1eac</id>
+        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-sql-learn-to-query-relational-databases/"/>
+        <updated>2025-04-16T15:43:24.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn about the Structured Query Language (SQL), the standard language used to query relational databases. SQL is not a traditional programming language. In Python or Java, you write step-by-step instructions that tell the co...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a REST API in Django]]></title>
+        <id>67ffc4588a19b331e60a51d2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/"/>
+        <updated>2025-04-16T14:53:12.000Z</updated>
+        <summary type="html"><![CDATA[If you’re building a web or mobile app, chances are you’re going to need a way to send and receive data between your app and a server. That’s where REST APIs come in. They help apps talk to each other – kind of like a waiter taking your order and]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build RAG AI Agents with TypeScript]]></title>
+        <id>67ffc2a75667d9e59ef9bc61</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-rag-ai-agents-with-typescript/"/>
+        <updated>2025-04-16T14:45:59.000Z</updated>
+        <summary type="html"><![CDATA[The most powerful AI systems don’t just generate – they also retrieve, reason, and respond with context. Retrieval-Augmented Generation (RAG) is how we get there. It combines the strengths of search and generation to build more accurate, reliable, an...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Unit Tests and E2E Tests for NestJS Applications]]></title>
+        <id>67ffc1695667d9e59ef9bc46</id>
+        <link href="https://www.freecodecamp.org/news/nestjs-unit-testing-e2e-testing-guide/"/>
+        <updated>2025-04-16T14:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I have been writing unit tests and E2E tests for a NestJS project. This was my first time writing tests for a backend project, and I found the process different from my experience with frontend testing, making it challenging to begin. After...]]></summary>
+        <author>
+            <name>Gordan Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL API in Django]]></title>
+        <id>67ffaf1dde58821be3496dfb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphql-api-in-django/"/>
+        <updated>2025-04-16T13:22:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're building an app with Django and thinking about using GraphQL, you're not alone. REST has been the go-to for years, but GraphQL is quickly becoming a favourite option for developers who want more flexibility and less back-and-forth between f...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS backdrop-filter for UI Effects]]></title>
+        <id>https://css-tricks.com/?p=385721</id>
+        <link href="https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/"/>
+        <updated>2025-04-16T12:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.
+Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How PHP Type Juggling Works – Explained with Code Examples]]></title>
+        <id>67fed115c3894cfa21b37d64</id>
+        <link href="https://www.freecodecamp.org/news/how-php-type-juggling-works-explained-with-code-examples/"/>
+        <updated>2025-04-15T21:35:17.000Z</updated>
+        <summary type="html"><![CDATA[PHP is a dynamically typed language. This means that variable types are determined at runtime, and you don’t need to explicitly define types when declaring variables. One of PHP’s unique features is type juggling, a concept that can be both fascinati...]]></summary>
+        <author>
+            <name>Michael Para</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inclusive Dark Mode: Designing Accessible Dark Themes For All Users]]></title>
         <id>https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/</id>
@@ -46,26 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Up a Proxmox Cluster for Free – Virtualization Basics]]></title>
-        <id>67fd1282e4687cd6aa7dcd1e</id>
-        <link href="https://www.freecodecamp.org/news/set-up-a-proxmox-cluster-virtualization-basics/"/>
-        <updated>2025-04-14T13:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Virtualization is a game-changer for developers, hobbyists, and IT enthusiasts. It lets you run multiple operating systems on one machine, which is perfect for testing apps, hosting servers, or learning new tech. If you want to take it further, clust...]]></summary>
-        <author>
-            <name>Shamsuddoha Ranju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Django Signals in Your Projects]]></title>
-        <id>67fd101ad7ec2850d2df790d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-django-signals-in-your-projects/"/>
-        <updated>2025-04-14T13:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Django signals can be a lifesaver if you're building anything with Django and want your code to stay clean and organized. They help you connect different parts of your app without everything getting tangled together. Think of them like walkie-talkies...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next Level CSS Styling for Cursors]]></title>
         <id>https://css-tricks.com/?p=385604</id>
         <link href="https://css-tricks.com/next-level-css-styling-for-cursors/"/>
@@ -74,26 +135,6 @@
 Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Accountant to Data Engineer with Alyson La [Podcast #168]]]></title>
-        <id>67f9c04b3e25f02ff9a26b80</id>
-        <link href="https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/"/>
-        <updated>2025-04-12T01:22:19.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software e...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeSpec for Documenting and Modeling APIs]]></title>
-        <id>67f96c998b09f2bdfa144c8b</id>
-        <link href="https://www.freecodecamp.org/news/use-typespec-for-documenting-and-modeling-apis/"/>
-        <updated>2025-04-11T19:25:13.000Z</updated>
-        <summary type="html"><![CDATA[If you're curious and passionate about technology like I am, and you’re looking for clarity in your code, you've likely already experienced the limitations of conventional tools for documenting and modeling APIs. Tools such as Swagger, JSON Schema, o...]]></summary>
-        <author>
-            <name>Adalbert Pungu</name>
         </author>
     </entry>
     <entry>
@@ -108,16 +149,6 @@ CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Train Your Own LLM]]></title>
-        <id>67f8338f0d301512a59fb77f</id>
-        <link href="https://www.freecodecamp.org/news/train-your-own-llm/"/>
-        <updated>2025-04-10T21:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how large language models like ChatGPT are actually built? Behind these impressive AI tools lies a complex but fascinating process of data preparation, model training, and fine-tuning. While it might seem like something only experts wit...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gild Just One Lily]]></title>
         <id>https://smashingmagazine.com/2025/04/gild-just-one-lily/</id>
         <link href="https://smashingmagazine.com/2025/04/gild-just-one-lily/"/>
@@ -125,26 +156,6 @@ CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Steven Garrity)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extend the Django User Model]]></title>
-        <id>67f7ccb69fc8333e720a4185</id>
-        <link href="https://www.freecodecamp.org/news/how-to-extend-the-django-user-model/"/>
-        <updated>2025-04-10T13:50:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with Django and building anything that involves user accounts – like a blog, a store, or a membership site – you’ll likely hit a point where the default user model just isn’t enough. Maybe you want to add a profile picture, a phone ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Lazygit to Improve Your Git Workflow]]></title>
-        <id>67f7cc7aaf72aa46d378eaa0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/"/>
-        <updated>2025-04-10T13:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Lazygit is an open-source command line terminal UI for Git commands that I’ve used for the last couple of years, and it’s become my new best friend. Basically, the Lazygit tool is a wrapper for the Git command line that replaces it with a UI. Instead...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
         </author>
     </entry>
     <entry>
@@ -347,19 +358,6 @@ Revisiting CSS border-image originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference]]></title>
-        <id>https://css-tricks.com/?p=385336</id>
-        <link href="https://css-tricks.com/quick-reminder-that-is-and-where-are-basically-the-same-with-one-key-difference/"/>
-        <updated>2025-03-20T13:51:29.000Z</updated>
-        <summary type="html"><![CDATA[I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.
-:is(section, article, aside, 
-…
-Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
