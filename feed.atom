@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-18T00:14:23.216Z</id>
+    <id>urn:2025-04-19T00:14:03.045Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T00:14:23.216Z</updated>
+    <updated>2025-04-19T00:14:03.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Dockerize Your Django Project]]></title>
+        <id>68027fe54ea28168254d68b0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dockerize-your-django-project/"/>
+        <updated>2025-04-18T16:37:57.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Celery in Django]]></title>
+        <id>68027fc44d4422c6f797b252</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-celery-in-django/"/>
+        <updated>2025-04-18T16:37:24.000Z</updated>
+        <summary type="html"><![CDATA[You’ve probably noticed that some tasks in your Django app seem to take a long time. For example, maybe sending confirmation emails, resizing images, or processing large data files slows things down. The good news? You don’t have to sit around waitin...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does It Really Mean For A Site To Be Keyboard Navigable]]></title>
+        <id>https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/</id>
+        <link href="https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/"/>
+        <updated>2025-04-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Pretty” is in the eye of the beholder]]></title>
+        <id>https://css-tricks.com/?p=385848</id>
+        <link href="https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/"/>
+        <updated>2025-04-18T12:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.
+“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Laravel by Building a Medium Clone]]></title>
         <id>68016b821cf57215a14fca5c</id>
@@ -104,26 +145,6 @@ So, You Want to Give Up CSS Pre- and Post-Processors… originally published on 
         <summary type="html"><![CDATA[In the IT and product industries, the positions of Chief Technology Officer (CTO) and Chief Product Officer (CPO) are crucial. Although they take distinct approaches, they both prioritize customer satisfaction and corporate success. This article will...]]></summary>
         <author>
             <name>Nazneen Ahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Serverless Architecture Handbook: How to Publish a Node Js Docker Image to AWS ECR and Deploy the Container to AWS Lambda]]></title>
-        <id>68006521c1f51bf42a74f4b0</id>
-        <link href="https://www.freecodecamp.org/news/serverless-architecture-with-aws-lambda/"/>
-        <updated>2025-04-17T02:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you’re tasked with building a web application that can handle incoming traffic surges as your users grow without accumulating too much cost. Sounds like a dream, right? But here’s the thing: traditionally, to do this, you would have to manage...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a JSON Web Token in the Django Rest Framework]]></title>
-        <id>67ffffdf95672e11eaf7719b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/"/>
-        <updated>2025-04-16T19:07:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're building an API, security should be at the top of your list. You want to make sure only the right people can access the right stuff – and that’s where authentication comes in. One of the most common and reliable ways to handle authenticat...]]></summary>
-        <author>
-            <name>Udemezue John</name>
         </author>
     </entry>
     <entry>
@@ -347,17 +368,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
 Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Support Logical Shorthands in CSS]]></title>
-        <id>https://css-tricks.com/?p=385389</id>
-        <link href="https://css-tricks.com/support-logical-shorthands-in-css/"/>
-        <updated>2025-03-24T14:06:19.000Z</updated>
-        <summary type="html"><![CDATA[There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.
-Support Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
