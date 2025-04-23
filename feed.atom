@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-22T00:14:31.512Z</id>
+    <id>urn:2025-04-23T00:14:35.660Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T00:14:31.512Z</updated>
+    <updated>2025-04-23T00:14:35.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Essential Machine Learning Concepts Animated]]></title>
+        <id>6807be591920ce8f50e00175</id>
+        <link href="https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/"/>
+        <updated>2025-04-22T16:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Understanding artificial intelligence (AI) and machine learning (ML) is becoming essential for software developers. But to truly grasp how these technologies work, it’s important to understand the core concepts and terminology that form their foundat...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Typecasting in Go? Explained with Code Examples]]></title>
+        <id>6807a27399db81a7d80529fe</id>
+        <link href="https://www.freecodecamp.org/news/what-is-typecasting-in-go/"/>
+        <updated>2025-04-22T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working with data in Go, especially when you need to handle dynamic inputs like JSON from third-party APIs, understanding how to properly convert between data types is key. This helps you avoid bugs and crashes. Often times, the values re...]]></summary>
+        <author>
+            <name>Pedro Bertao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Foreign Key in Django]]></title>
+        <id>6807a227b77713cc8e0f6059</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/"/>
+        <updated>2025-04-22T14:05:27.000Z</updated>
+        <summary type="html"><![CDATA[When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PostgreSQL in Django]]></title>
+        <id>68079d18a34a9e3143fe9e56</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/"/>
+        <updated>2025-04-22T13:43:52.000Z</updated>
+        <summary type="html"><![CDATA[If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Good Conference Talk Proposal – CFP Guide]]></title>
+        <id>68079cde283b1638560a2135</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/"/>
+        <updated>2025-04-22T13:42:54.000Z</updated>
+        <summary type="html"><![CDATA[When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes Code Vulnerable – And How to Fix It]]></title>
         <id>680679690b7357fefc92cf6b</id>
@@ -56,26 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Dockerize Your Django Project]]></title>
-        <id>68027fe54ea28168254d68b0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-your-django-project/"/>
-        <updated>2025-04-18T16:37:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Celery in Django]]></title>
-        <id>68027fc44d4422c6f797b252</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-celery-in-django/"/>
-        <updated>2025-04-18T16:37:24.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably noticed that some tasks in your Django app seem to take a long time. For example, maybe sending confirmation emails, resizing images, or processing large data files slows things down. The good news? You don’t have to sit around waitin...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Does It Really Mean For A Site To Be Keyboard Navigable]]></title>
         <id>https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/</id>
         <link href="https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/"/>
@@ -94,36 +124,6 @@
 “Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Laravel by Building a Medium Clone]]></title>
-        <id>68016b821cf57215a14fca5c</id>
-        <link href="https://www.freecodecamp.org/news/learn-laravel-by-building-a-medium-clone/"/>
-        <updated>2025-04-17T20:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Laravel is a popular PHP web development framework known for its elegant syntax, developer-friendly tools, and built-in features for routing, authentication, and database interactions. It's an excellent choice for both beginners and experienced devel...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Loading with Python and AI]]></title>
-        <id>68016ae0a7699ff474c9f1d0</id>
-        <link href="https://www.freecodecamp.org/news/data-loading-with-python-and-ai/"/>
-        <updated>2025-04-17T20:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern data pipelines are the backbone of data engineering, enabling organizations to collect, process, and leverage massive volumes of information efficiently. But building and maintaining these pipelines isn't always straightforward. From API rate ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Copy Objects in Python]]></title>
-        <id>68014f101e21d8d8454b2cf5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-copy-objects-in-python/"/>
-        <updated>2025-04-17T18:57:20.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn about copying objects in Python using the copy module. We’ll cover how to use the copy module and when to use its copy() function and deepcopy() function, depending on the scenario. You’ll also learn which way of copyin...]]></summary>
-        <author>
-            <name>Sara Jadhav</name>
         </author>
     </entry>
     <entry>
