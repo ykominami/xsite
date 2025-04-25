@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T00:14:34.502Z</id>
+    <id>urn:2025-04-25T00:15:22.922Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T00:14:34.502Z</updated>
+    <updated>2025-04-25T00:15:22.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How UX and Marketing Are Saying the Same Things, Differently]]></title>
+        <id>680aa2e68a164048d5799e47</id>
+        <link href="https://www.freecodecamp.org/news/how-ux-and-marketing-are-saying-the-same-things-differently/"/>
+        <updated>2025-04-24T20:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Could it be that the key to designing a great product experience might be hidden in a 60-year-old marketing playbook? Well, for years, marketing and user experience (UX) have been treated as separate worlds. Marketing grabs attention and drives sales...]]></summary>
+        <author>
+            <name>Anamol Rajbhandari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Your Own Llama 4 LLM from Scratch]]></title>
+        <id>680a97a8966c1c2bc7a60b19</id>
+        <link href="https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/"/>
+        <updated>2025-04-24T19:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are at the forefront of modern artificial intelligence, enabling applications that can understand and generate human-like language. Meta's latest release, Llama 4, represents a significant advancement in this field, intro...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial]]></title>
+        <id>680a540ef12791f5c752af5e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/"/>
+        <updated>2025-04-24T15:09:02.000Z</updated>
+        <summary type="html"><![CDATA[When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Q in Django? (And Why It's Super Useful)]]></title>
+        <id>680a4adad2926105c84b08ae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/"/>
+        <updated>2025-04-24T14:29:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lost CSS Tricks of Cohost.org]]></title>
+        <id>https://css-tricks.com/?p=385855</id>
+        <link href="https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"/>
+        <updated>2025-04-24T12:49:42.000Z</updated>
+        <summary type="html"><![CDATA[In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.
+The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Blackle Mori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Up Your Creativity Without Endless Reference Scrolling]]></title>
+        <id>https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/</id>
+        <link href="https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/"/>
+        <updated>2025-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marina Chernyshova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an AI-Powered Bot that Can Post on Twitter/X]]></title>
         <id>680931204adb8ffdef48642a</id>
@@ -71,46 +132,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/"/>
         <updated>2025-04-22T14:05:27.000Z</updated>
         <summary type="html"><![CDATA[When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PostgreSQL in Django]]></title>
-        <id>68079d18a34a9e3143fe9e56</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/"/>
-        <updated>2025-04-22T13:43:52.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Good Conference Talk Proposal – CFP Guide]]></title>
-        <id>68079cde283b1638560a2135</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/"/>
-        <updated>2025-04-22T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes Code Vulnerable – And How to Fix It]]></title>
-        <id>680679690b7357fefc92cf6b</id>
-        <link href="https://www.freecodecamp.org/news/what-makes-code-vulnerable-and-how-to-fix-it/"/>
-        <updated>2025-04-21T16:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Export Your Database in Django]]></title>
-        <id>680663026f6aa321e86950fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-export-your-database-in-django/"/>
-        <updated>2025-04-21T15:23:46.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a Django project – whether it's a small side project or a growing web app – there comes a point where you need to export your database. Maybe you’re switching hosting providers. Maybe you're backing things up or sharing data wi...]]></summary>
         <author>
             <name>Udemezue John</name>
         </author>
@@ -367,17 +388,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
         <summary type="html"><![CDATA[HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Teng Wei Herr)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component]]></title>
-        <id>https://css-tricks.com/?p=385070</id>
-        <link href="https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/"/>
-        <updated>2025-03-25T12:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.
-Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

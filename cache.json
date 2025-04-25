@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385855",
+          "author": "Blackle Mori",
+          "description": "In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.\nThe Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-lost-css-tricks-of-cohost-org/",
+          "publishedOn": "2025-04-24T12:49:42.000Z",
+          "wordCount": 3800,
+          "title": "The Lost CSS Tricks of Cohost.org",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-star-variations.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385848",
           "author": "Geoff Graham",
           "description": "Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.\n“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/",
           "publishedOn": "2025-04-18T12:12:35.000Z",
-          "wordCount": 2282,
+          "wordCount": 2333,
           "title": "“Pretty” is in the eye of the beholder",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/bad-typography-SM-light.png"
         },
@@ -27,7 +37,7 @@
           "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/",
           "publishedOn": "2025-04-17T12:38:05.000Z",
-          "wordCount": 3442,
+          "wordCount": 3478,
           "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
         },
@@ -160,16 +170,6 @@
           "wordCount": 4016,
           "title": "Automated Visual Regression Testing With Playwright",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/playwright-browsers.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385070",
-          "author": "Daniel Schwarz",
-          "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\nCase Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
-          "publishedOn": "2025-03-25T12:47:18.000Z",
-          "wordCount": 4311,
-          "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
         }
       ]
     },
@@ -179,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
+          "author": "hello@smashingmagazine.com (Marina Chernyshova)",
+          "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
+          "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
+          "publishedOn": "2025-04-24T10:00:00.000Z",
+          "wordCount": 6606,
+          "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4456,
+          "wordCount": 4444,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -199,7 +214,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4304,
+          "wordCount": 4295,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -214,7 +229,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5780,
+          "wordCount": 5768,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -229,7 +244,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4970,
+          "wordCount": 4978,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -244,7 +259,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4208,
+          "wordCount": 4211,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -259,7 +274,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4867,
+          "wordCount": 4869,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -274,7 +289,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8311,
+          "wordCount": 8427,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -304,7 +319,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4564,
+          "wordCount": 4557,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -334,7 +349,7 @@
           "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
           "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4477,
+          "wordCount": 4473,
           "title": "Adaptive Video Streaming With Dash.js In React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
@@ -350,6 +365,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "680aa2e68a164048d5799e47",
+          "author": "Anamol Rajbhandari",
+          "description": "Could it be that the key to designing a great product experience might be hidden in a 60-year-old marketing playbook? Well, for years, marketing and user experience (UX) have been treated as separate worlds. Marketing grabs attention and drives sales...",
+          "link": "https://www.freecodecamp.org/news/how-ux-and-marketing-are-saying-the-same-things-differently/",
+          "publishedOn": "2025-04-24T20:45:26.000Z",
+          "wordCount": 3325,
+          "title": "How UX and Marketing Are Saying the Same Things, Differently",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745520497294/c0cac6d6-feaf-4633-a8eb-18baf7f7f479.png"
+        },
+        {
+          "id": "680a97a8966c1c2bc7a60b19",
+          "author": "Beau Carnes",
+          "description": "Large language models (LLMs) are at the forefront of modern artificial intelligence, enabling applications that can understand and generate human-like language. Meta's latest release, Llama 4, represents a significant advancement in this field, intro...",
+          "link": "https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/",
+          "publishedOn": "2025-04-24T19:57:28.000Z",
+          "wordCount": 1212,
+          "title": "Code Your Own Llama 4 LLM from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745524611092/1d8941fe-1797-4a24-a294-91505999489e.png"
+        },
+        {
+          "id": "680a540ef12791f5c752af5e",
+          "author": "Manish Shivanandhan",
+          "description": "When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/",
+          "publishedOn": "2025-04-24T15:09:02.000Z",
+          "wordCount": 1921,
+          "title": "How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745507318904/b27dc949-dbbb-43c2-85e1-072f91f3971f.png"
+        },
+        {
+          "id": "680a4adad2926105c84b08ae",
+          "author": "Udemezue John",
+          "description": "If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...",
+          "link": "https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/",
+          "publishedOn": "2025-04-24T14:29:46.000Z",
+          "wordCount": 2066,
+          "title": "What Is Q in Django? (And Why It's Super Useful)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745504806983/58c92bf9-b2e6-486a-8722-d364decc5d1a.png"
+        },
         {
           "id": "680931204adb8ffdef48642a",
           "author": "Arunachalam B",
@@ -409,46 +464,6 @@
           "wordCount": 2051,
           "title": "How to Use a Foreign Key in Django",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745330646960/e2fc7f1d-73f9-4e25-b870-e0928833e7a5.png"
-        },
-        {
-          "id": "68079d18a34a9e3143fe9e56",
-          "author": "Udemezue John",
-          "description": "If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/",
-          "publishedOn": "2025-04-22T13:43:52.000Z",
-          "wordCount": 1866,
-          "title": "How to Use PostgreSQL in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745329406033/4d3cb010-d612-4ca8-8039-2d922e8b0337.png"
-        },
-        {
-          "id": "68079cde283b1638560a2135",
-          "author": "Sule-Balogun Olanrewaju",
-          "description": "When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/",
-          "publishedOn": "2025-04-22T13:42:54.000Z",
-          "wordCount": 3714,
-          "title": "How to Write a Good Conference Talk Proposal – CFP Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745329255973/f4fbb77f-8cab-4c29-bdd0-2791037bc6fd.png"
-        },
-        {
-          "id": "680679690b7357fefc92cf6b",
-          "author": "Manish Shivanandhan",
-          "description": "Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...",
-          "link": "https://www.freecodecamp.org/news/what-makes-code-vulnerable-and-how-to-fix-it/",
-          "publishedOn": "2025-04-21T16:59:21.000Z",
-          "wordCount": 2376,
-          "title": "What Makes Code Vulnerable – And How to Fix It",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745251285687/7ce5aca0-1edc-49e4-879d-b5690cbb64ea.png"
-        },
-        {
-          "id": "680663026f6aa321e86950fd",
-          "author": "Udemezue John",
-          "description": "When you're working on a Django project – whether it's a small side project or a growing web app – there comes a point where you need to export your database. Maybe you’re switching hosting providers. Maybe you're backing things up or sharing data wi...",
-          "link": "https://www.freecodecamp.org/news/how-to-export-your-database-in-django/",
-          "publishedOn": "2025-04-21T15:23:46.000Z",
-          "wordCount": 1907,
-          "title": "How to Export Your Database in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745248996492/6d3f5665-3329-4894-9f99-3ba257867e0d.png"
         }
       ]
     }
