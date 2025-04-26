@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T00:15:22.922Z</id>
+    <id>urn:2025-04-26T00:14:26.380Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T00:15:22.922Z</updated>
+    <updated>2025-04-26T00:14:26.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Models in Your Django Project]]></title>
+        <id>680be6e3dfe4e9c64b6b0997</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-models-in-your-django-project/"/>
+        <updated>2025-04-25T19:47:47.000Z</updated>
+        <summary type="html"><![CDATA[If you're building something with Django, there's one thing you can't skip: creating models. Models are the heart of any Django app. They define how your data is structured, how it's stored in the database, and how Django can interact with it. Now, i...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Harden Your Node.js APIs – Security Best Practices]]></title>
+        <id>680bb2b3917896a550779bcb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/"/>
+        <updated>2025-04-25T16:05:07.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve built an API with Node.js, chances are you’ve thought about security – at least a little. Maybe you’ve heard about SQL injection, brute force attacks, or data leaks. But here’s the thing: it’s not just about big hacks. Even small gaps in yo...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Your Django Secret Key (Without Breaking Your App)]]></title>
+        <id>680b9ed80564f7c150cbf95b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-your-django-secret-key-without-breaking-your-app/"/>
+        <updated>2025-04-25T14:40:23.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a Django project, you've probably come across the SECRET_KEY in your settings file. It might seem like just another line of code, but it's one of the most important pieces of your project. SECRET_KEY keeps your app secure by sign...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio]]></title>
+        <id>https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/</id>
+        <link href="https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/"/>
+        <updated>2025-04-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Talke Hoppmann-Walton)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How UX and Marketing Are Saying the Same Things, Differently]]></title>
         <id>680aa2e68a164048d5799e47</id>
@@ -104,36 +144,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential Machine Learning Concepts Animated]]></title>
-        <id>6807be591920ce8f50e00175</id>
-        <link href="https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/"/>
-        <updated>2025-04-22T16:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Understanding artificial intelligence (AI) and machine learning (ML) is becoming essential for software developers. But to truly grasp how these technologies work, it’s important to understand the core concepts and terminology that form their foundat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Typecasting in Go? Explained with Code Examples]]></title>
-        <id>6807a27399db81a7d80529fe</id>
-        <link href="https://www.freecodecamp.org/news/what-is-typecasting-in-go/"/>
-        <updated>2025-04-22T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working with data in Go, especially when you need to handle dynamic inputs like JSON from third-party APIs, understanding how to properly convert between data types is key. This helps you avoid bugs and crashes. Often times, the values re...]]></summary>
-        <author>
-            <name>Pedro Bertao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use a Foreign Key in Django]]></title>
-        <id>6807a227b77713cc8e0f6059</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/"/>
-        <updated>2025-04-22T14:05:27.000Z</updated>
-        <summary type="html"><![CDATA[When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...]]></summary>
-        <author>
-            <name>Udemezue John</name>
         </author>
     </entry>
     <entry>
