@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385394",
+          "author": "Geoff Graham",
+          "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/",
+          "publishedOn": "2025-04-28T12:43:01.000Z",
+          "wordCount": 2256,
+          "title": "Anchor Positioning Just Don’t Care About Source Order",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385855",
           "author": "Blackle Mori",
           "description": "In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.\nThe Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/",
           "publishedOn": "2025-04-17T12:38:05.000Z",
-          "wordCount": 3586,
+          "wordCount": 3779,
           "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
         },
@@ -169,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Lost in a sea of UX files, docs, PDFs, and scattered decisions across Slack, Dropbox, Notion, and Figma? We talk a lot about organizing Figma, but what about a sensible folder structure for all UX assets? Let’s fix that. Kindly powered by [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
+          "link": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
+          "publishedOn": "2025-04-28T13:00:00.000Z",
+          "wordCount": 3784,
+          "title": "UX And Design Files Organization Template",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "author": "hello@smashingmagazine.com (Talke Hoppmann-Walton)",
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6421,
+          "wordCount": 6321,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -204,7 +229,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4456,
+          "wordCount": 4444,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -219,7 +244,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4305,
+          "wordCount": 4306,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -234,7 +259,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5775,
+          "wordCount": 5781,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -249,7 +274,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4970,
+          "wordCount": 4979,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -264,7 +289,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4199,
+          "wordCount": 4192,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -279,7 +304,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4862,
+          "wordCount": 4865,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -294,7 +319,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8317,
+          "wordCount": 8308,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -324,7 +349,7 @@
           "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
           "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4671,
+          "wordCount": 4556,
           "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
@@ -340,6 +365,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "680fe1e69418a1165cb184a2",
+          "author": "Opaluwa Emidowojo",
+          "description": "A few months ago, I dove into DevOps, expecting it to be an expensive journey requiring costly tools and infrastructure. But I discovered you can build professional-grade pipelines using entirely free resources. If DevOps feels out of reach because y...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/",
+          "publishedOn": "2025-04-28T20:15:34.000Z",
+          "wordCount": 6670,
+          "title": "How to Build a Production-Ready DevOps Pipeline with Free Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745864420670/f36eb4a7-a24e-4d6e-859f-db7249ae0da0.png"
+        },
+        {
+          "id": "680fd51ef631538076304a73",
+          "author": "Kunal Nalawade",
+          "description": "Hi, fellow developers! Building a website can feel overwhelming at first – especially when you're staring at a blank HTML file, wondering how it ever turns into a real website on the internet. If you're new to web development, you've probably asked y...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough/",
+          "publishedOn": "2025-04-28T19:21:02.000Z",
+          "wordCount": 3179,
+          "title": "How to Build a Website from Scratch – Start to Finish Walkthrough",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745260046049/62b5c730-dc06-49de-8bdd-2cd44facb9e9.png"
+        },
+        {
+          "id": "680fa40e9096ceb5eeedd90e",
+          "author": "Udemezue John",
+          "description": "If you've ever tried to connect your frontend app to your Django backend and suddenly hit an error that looks something like \"has been blocked by CORS policy\", you're not alone. It’s frustrating, especially when your code seems fine. So what’s going ...",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-cors-in-django/",
+          "publishedOn": "2025-04-28T15:51:42.000Z",
+          "wordCount": 1981,
+          "title": "How to Enable CORS in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745855234567/f09d3338-c824-4cd8-a26f-93bb485f925a.png"
+        },
+        {
+          "id": "680fa285102a9fb019d4fa34",
+          "author": "Shamsuddoha Ranju",
+          "description": "Virtualization lets you run multiple operating systems on one machine. It’s perfect for testing apps, hosting servers, or learning DevOps. A hypervisor is the software that lets you run multiple virtual machines on a single physical machine, and the ...",
+          "link": "https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/",
+          "publishedOn": "2025-04-28T15:45:09.000Z",
+          "wordCount": 2817,
+          "title": "How to Turn Ubuntu 24.04 into a KVM Hypervisor – Quick Setup with Web Management",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745591647377/613d9a44-cc2b-45b7-b1d1-5fc3154b9623.png"
+        },
+        {
+          "id": "680fa2440e43e5b002c3c7f4",
+          "author": "Nazneen Ahmad",
+          "description": "Mobile test automation uses tools and frameworks to test mobile applications automatically. It replicates user interactions to evaluate the app's functions and detect possible issues early on. This automated approach is helpful since it accelerates t...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-mobile-testing-strategies/",
+          "publishedOn": "2025-04-28T15:44:04.000Z",
+          "wordCount": 4286,
+          "title": "How to Automate Mobile Testing: Strategies for Reliable, Scalable Tests",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745597617701/f0b2682a-f2ca-425b-bacc-b5a432145aa7.png"
+        },
         {
           "id": "680be6e3dfe4e9c64b6b0997",
           "author": "Udemezue John",
@@ -389,56 +464,6 @@
           "wordCount": 1212,
           "title": "Code Your Own Llama 4 LLM from Scratch",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745524611092/1d8941fe-1797-4a24-a294-91505999489e.png"
-        },
-        {
-          "id": "680a540ef12791f5c752af5e",
-          "author": "Manish Shivanandhan",
-          "description": "When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/",
-          "publishedOn": "2025-04-24T15:09:02.000Z",
-          "wordCount": 1921,
-          "title": "How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745507318904/b27dc949-dbbb-43c2-85e1-072f91f3971f.png"
-        },
-        {
-          "id": "680a4adad2926105c84b08ae",
-          "author": "Udemezue John",
-          "description": "If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...",
-          "link": "https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/",
-          "publishedOn": "2025-04-24T14:29:46.000Z",
-          "wordCount": 2066,
-          "title": "What Is Q in Django? (And Why It's Super Useful)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745504806983/58c92bf9-b2e6-486a-8722-d364decc5d1a.png"
-        },
-        {
-          "id": "680931204adb8ffdef48642a",
-          "author": "Arunachalam B",
-          "description": "These days, everyone wants to be a content creator. But it can be hard to find time to create and curate content, post on social media, build engagement, and grow your brand. And I’m not an exception to this. I wanted to create more content, and had ...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-ai-powered-bot/",
-          "publishedOn": "2025-04-23T18:27:44.000Z",
-          "wordCount": 2643,
-          "title": "How to Create an AI-Powered Bot that Can Post on Twitter/X",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745416845372/5eb9963d-e092-4844-99d9-01fa70032169.png"
-        },
-        {
-          "id": "68092fcdc537d7b2fea4ebbb",
-          "author": "Beau Carnes",
-          "description": "JavaScript arrays are one of the most essential tools in any developer’s toolkit. Whether you're managing lists of items, transforming data, or creating complex data pipelines, arrays play an important role in how we build and think about application...",
-          "link": "https://www.freecodecamp.org/news/all-about-javascript-arrays/",
-          "publishedOn": "2025-04-23T18:22:05.000Z",
-          "wordCount": 1156,
-          "title": "All About JavaScript Arrays",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745432506798/1066c340-85a3-407c-b378-69d1e3e77447.png"
-        },
-        {
-          "id": "6808f23b332c138efcea040d",
-          "author": "Udemezue John",
-          "description": "Changing a superuser password in Django might sound like a big task, but it’s one of the easiest things to do once you know how. If you’re working on a Django project – whether it’s a hobby blog, a client’s website, or a bigger web application – mana...",
-          "link": "https://www.freecodecamp.org/news/how-to-change-the-password-of-a-superuser-in-django/",
-          "publishedOn": "2025-04-23T13:59:23.000Z",
-          "wordCount": 1829,
-          "title": "How to Change the Password of a Superuser in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745416742960/89cce35f-2e91-4329-8fea-0d1551bea2c7.png"
         }
       ]
     }
