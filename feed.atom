@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T00:14:59.554Z</id>
+    <id>urn:2025-05-01T00:16:55.634Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T00:14:59.554Z</updated>
+    <updated>2025-05-01T00:16:55.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How IPv4 Works – A Handbook for Developers]]></title>
+        <id>68124752fa6fa6a9a91d9994</id>
+        <link href="https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/"/>
+        <updated>2025-04-30T15:52:50.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First SaaS Customers]]></title>
+        <id>681242328ca367c7e5d58873</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-your-first-saas-customers/"/>
+        <updated>2025-04-30T15:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Starting a SaaS (Software as a Service) business is exciting. You’ve put in the long hours building something you believe people will love. But now comes the big question: How do you get your first customers? Getting those first few users can feel li...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get User Model in Django – A Simple Guide With Examples]]></title>
+        <id>68123f859249b83d2215937d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-user-model-in-django/"/>
+        <updated>2025-04-30T15:19:33.000Z</updated>
+        <summary type="html"><![CDATA[When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle ERP Test Automation Guide – Examples and Best Practices]]></title>
+        <id>68123ef3b70ffa1e4ce467ae</id>
+        <link href="https://www.freecodecamp.org/news/oracle-erp-test-automation-guide/"/>
+        <updated>2025-04-30T15:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Oracle Enterprise Resource Planning helps businesses manage finance and supply chains. It also supports human resources and brings different functions together. Many growing businesses rely on it to handle complex tasks, as system failures or errors ...]]></summary>
+        <author>
+            <name>Nazneen Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting Image Maps]]></title>
+        <id>https://css-tricks.com/?p=385783</id>
+        <link href="https://css-tricks.com/revisiting-image-maps/"/>
+        <updated>2025-04-30T12:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Let’s run through a quick refresher. Image maps date all the way back to HTML 3.2, where, first, server-side maps and then client-side maps defined clickable regions over an image using map and area elements.
+Revisiting Image Maps originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Every Day Count (May 2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/</id>
+        <link href="https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/"/>
+        <updated>2025-04-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Accessible and User-Friendly Forms in React]]></title>
         <id>6810f59e8deee87383c1bc46</id>
@@ -87,26 +148,6 @@ Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Turn Ubuntu 24.04 into a KVM Hypervisor – Quick Setup with Web Management]]></title>
-        <id>680fa285102a9fb019d4fa34</id>
-        <link href="https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/"/>
-        <updated>2025-04-28T15:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Virtualization lets you run multiple operating systems on one machine. It’s perfect for testing apps, hosting servers, or learning DevOps. A hypervisor is the software that lets you run multiple virtual machines on a single physical machine, and the ...]]></summary>
-        <author>
-            <name>Shamsuddoha Ranju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Mobile Testing: Strategies for Reliable, Scalable Tests]]></title>
-        <id>680fa2440e43e5b002c3c7f4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-mobile-testing-strategies/"/>
-        <updated>2025-04-28T15:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Mobile test automation uses tools and frameworks to test mobile applications automatically. It replicates user interactions to evaluate the app's functions and detect possible issues early on. This automated approach is helpful since it accelerates t...]]></summary>
-        <author>
-            <name>Nazneen Ahmad</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UX And Design Files Organization Template]]></title>
         <id>https://smashingmagazine.com/2025/04/ux-design-files-organization-template/</id>
         <link href="https://smashingmagazine.com/2025/04/ux-design-files-organization-template/"/>
@@ -125,26 +166,6 @@ Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is 
 Anchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Models in Your Django Project]]></title>
-        <id>680be6e3dfe4e9c64b6b0997</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-models-in-your-django-project/"/>
-        <updated>2025-04-25T19:47:47.000Z</updated>
-        <summary type="html"><![CDATA[If you're building something with Django, there's one thing you can't skip: creating models. Models are the heart of any Django app. They define how your data is structured, how it's stored in the database, and how Django can interact with it. Now, i...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Harden Your Node.js APIs – Security Best Practices]]></title>
-        <id>680bb2b3917896a550779bcb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/"/>
-        <updated>2025-04-25T16:05:07.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve built an API with Node.js, chances are you’ve thought about security – at least a little. Maybe you’ve heard about SQL injection, brute force attacks, or data leaks. But here’s the thing: it’s not just about big hacks. Even small gaps in yo...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -377,27 +398,6 @@ SMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean f
         <summary type="html"><![CDATA[In this article, Edoardo Dusi shares the engineering and architectural choices made by the team at Storyblok and how real-world migration challenges were addressed using modern PHP practices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Edoardo Dusi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting Strong DX With Astro Components and TypeScript]]></title>
-        <id>https://css-tricks.com/?p=385086</id>
-        <link href="https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/"/>
-        <updated>2025-04-01T13:50:58.000Z</updated>
-        <summary type="html"><![CDATA[One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.
-Crafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bryan Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/</id>
-        <link href="https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/"/>
-        <updated>2025-03-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

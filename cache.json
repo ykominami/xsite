@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385783",
+          "author": "Andy Clarke",
+          "description": "Let’s run through a quick refresher. Image maps date all the way back to HTML 3.2, where, first, server-side maps and then client-side maps defined clickable regions over an image using map and area elements.\nRevisiting Image Maps originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/revisiting-image-maps/",
+          "publishedOn": "2025-04-30T12:12:45.000Z",
+          "wordCount": 3215,
+          "title": "Revisiting Image Maps",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/image-maps-thumb.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386325",
           "author": "Geoff Graham",
           "description": "Brad Frost is running this new little podcast called Open Up. Folks write in with questions about the “other” side of web design and front-end development — not so much about tools and best practices as it is about …\nOpen Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,21 +165,6 @@
           "wordCount": 2483,
           "title": "SMIL on?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385086",
-          "author": "Bryan Robinson",
-          "description": "One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.\nCrafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/",
-          "publishedOn": "2025-04-01T13:50:58.000Z",
-          "wordCount": 4361,
-          "title": "Crafting Strong DX With Astro Components and TypeScript",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/03/typed-component-1.mp4",
-            "length": "54756377",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/type-checking-astro.jpg"
         }
       ]
     },
@@ -178,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
+          "publishedOn": "2025-04-30T10:00:00.000Z",
+          "wordCount": 5141,
+          "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
           "author": "hello@smashingmagazine.com (Anima Team)",
@@ -214,7 +224,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6323,
+          "wordCount": 6309,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -229,7 +239,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6593,
+          "wordCount": 6607,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -244,7 +254,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4454,
+          "wordCount": 4451,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -259,7 +269,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4308,
+          "wordCount": 4307,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -274,7 +284,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5774,
+          "wordCount": 5773,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -289,7 +299,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4976,
+          "wordCount": 4971,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -304,7 +314,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4198,
+          "wordCount": 4210,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -334,7 +344,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8317,
+          "wordCount": 8309,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -357,21 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-drupal-storyblok-migration-tool-engineering-perspective/building-drupal-storyblok-migration-tool-engineering-perspective.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
-          "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
-          "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4568,
-          "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png"
         }
       ]
     },
@@ -380,6 +375,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68124752fa6fa6a9a91d9994",
+          "author": "Omer Rosenbaum",
+          "description": "The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...",
+          "link": "https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/",
+          "publishedOn": "2025-04-30T15:52:50.000Z",
+          "wordCount": 7538,
+          "title": "How IPv4 Works – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746028336196/79d97781-a9b8-4be3-86a1-47322e9640ff.png"
+        },
+        {
+          "id": "681242328ca367c7e5d58873",
+          "author": "Udemezue John",
+          "description": "Starting a SaaS (Software as a Service) business is exciting. You’ve put in the long hours building something you believe people will love. But now comes the big question: How do you get your first customers? Getting those first few users can feel li...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-saas-customers/",
+          "publishedOn": "2025-04-30T15:30:58.000Z",
+          "wordCount": 1964,
+          "title": "How to Get Your First SaaS Customers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746027034713/42b1e6bd-3f5f-4e41-b3d0-ead8168661a6.png"
+        },
+        {
+          "id": "68123f859249b83d2215937d",
+          "author": "Udemezue John",
+          "description": "When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-user-model-in-django/",
+          "publishedOn": "2025-04-30T15:19:33.000Z",
+          "wordCount": 1934,
+          "title": "How to Get User Model in Django – A Simple Guide With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746026362647/7b47e9e7-6baf-409a-8654-0ad1eb528e31.png"
+        },
+        {
+          "id": "68123ef3b70ffa1e4ce467ae",
+          "author": "Nazneen Ahmad",
+          "description": "Oracle Enterprise Resource Planning helps businesses manage finance and supply chains. It also supports human resources and brings different functions together. Many growing businesses rely on it to handle complex tasks, as system failures or errors ...",
+          "link": "https://www.freecodecamp.org/news/oracle-erp-test-automation-guide/",
+          "publishedOn": "2025-04-30T15:17:07.000Z",
+          "wordCount": 7094,
+          "title": "Oracle ERP Test Automation Guide – Examples and Best Practices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745527550725/45d7f400-d345-4448-ab84-d3327dc425a6.png"
+        },
         {
           "id": "6810f59e8deee87383c1bc46",
           "author": "Grant Riordan",
@@ -439,46 +474,6 @@
           "wordCount": 1981,
           "title": "How to Enable CORS in Django",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745855234567/f09d3338-c824-4cd8-a26f-93bb485f925a.png"
-        },
-        {
-          "id": "680fa285102a9fb019d4fa34",
-          "author": "Shamsuddoha Ranju",
-          "description": "Virtualization lets you run multiple operating systems on one machine. It’s perfect for testing apps, hosting servers, or learning DevOps. A hypervisor is the software that lets you run multiple virtual machines on a single physical machine, and the ...",
-          "link": "https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/",
-          "publishedOn": "2025-04-28T15:45:09.000Z",
-          "wordCount": 2817,
-          "title": "How to Turn Ubuntu 24.04 into a KVM Hypervisor – Quick Setup with Web Management",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745591647377/613d9a44-cc2b-45b7-b1d1-5fc3154b9623.png"
-        },
-        {
-          "id": "680fa2440e43e5b002c3c7f4",
-          "author": "Nazneen Ahmad",
-          "description": "Mobile test automation uses tools and frameworks to test mobile applications automatically. It replicates user interactions to evaluate the app's functions and detect possible issues early on. This automated approach is helpful since it accelerates t...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-mobile-testing-strategies/",
-          "publishedOn": "2025-04-28T15:44:04.000Z",
-          "wordCount": 4286,
-          "title": "How to Automate Mobile Testing: Strategies for Reliable, Scalable Tests",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745597617701/f0b2682a-f2ca-425b-bacc-b5a432145aa7.png"
-        },
-        {
-          "id": "680be6e3dfe4e9c64b6b0997",
-          "author": "Udemezue John",
-          "description": "If you're building something with Django, there's one thing you can't skip: creating models. Models are the heart of any Django app. They define how your data is structured, how it's stored in the database, and how Django can interact with it. Now, i...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-models-in-your-django-project/",
-          "publishedOn": "2025-04-25T19:47:47.000Z",
-          "wordCount": 1836,
-          "title": "How to Create Models in Your Django Project",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745610452559/e009644b-bfef-4e43-9f1b-5f2e4deebdfa.png"
-        },
-        {
-          "id": "680bb2b3917896a550779bcb",
-          "author": "Manish Shivanandhan",
-          "description": "If you’ve built an API with Node.js, chances are you’ve thought about security – at least a little. Maybe you’ve heard about SQL injection, brute force attacks, or data leaks. But here’s the thing: it’s not just about big hacks. Even small gaps in yo...",
-          "link": "https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/",
-          "publishedOn": "2025-04-25T16:05:07.000Z",
-          "wordCount": 1728,
-          "title": "How to Harden Your Node.js APIs – Security Best Practices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745597082780/c803850d-f482-4fcc-a744-4de8fd8a02d8.png"
         }
       ]
     }
