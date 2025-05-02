@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386334",
+          "author": "Sacha Greif",
+          "description": "The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. \nState of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/state-of-devs-a-survey-for-every-developer/",
+          "publishedOn": "2025-05-01T12:34:58.000Z",
+          "wordCount": 2324,
+          "title": "State of Devs: A Survey for Every Developer",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/devs2025-og.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385783",
           "author": "Andy Clarke",
           "description": "Let’s run through a quick refresher. Image maps date all the way back to HTML 3.2, where, first, server-side maps and then client-side maps defined clickable regions over an image using map and area elements.\nRevisiting Image Maps originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/",
           "publishedOn": "2025-04-28T12:43:01.000Z",
-          "wordCount": 2256,
+          "wordCount": 2294,
           "title": "Anchor Positioning Just Don’t Care About Source Order",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
         },
@@ -67,7 +77,7 @@
           "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/",
           "publishedOn": "2025-04-17T12:38:05.000Z",
-          "wordCount": 3779,
+          "wordCount": 3847,
           "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
         },
@@ -155,16 +165,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/A-New-HTML-5-Readiness.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385540",
-          "author": "Geoff Graham",
-          "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smil-on/",
-          "publishedOn": "2025-04-02T12:37:19.000Z",
-          "wordCount": 2483,
-          "title": "SMIL on?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5141,
+          "wordCount": 5140,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -224,7 +224,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6309,
+          "wordCount": 6317,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -239,7 +239,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6607,
+          "wordCount": 6610,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -254,7 +254,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4451,
+          "wordCount": 4453,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -269,7 +269,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4307,
+          "wordCount": 4304,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -284,7 +284,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5773,
+          "wordCount": 5775,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -299,7 +299,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4971,
+          "wordCount": 4969,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -314,7 +314,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4210,
+          "wordCount": 4217,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -329,7 +329,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4867,
+          "wordCount": 4978,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -344,7 +344,7 @@
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
           "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8309,
+          "wordCount": 8314,
           "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
@@ -352,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/",
-          "author": "hello@smashingmagazine.com (Edoardo Dusi)",
-          "description": "In this article, Edoardo Dusi shares the engineering and architectural choices made by the team at Storyblok and how real-world migration challenges were addressed using modern PHP practices.",
-          "link": "https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/",
-          "publishedOn": "2025-04-02T12:00:00.000Z",
-          "wordCount": 4008,
-          "title": "Building A Drupal To Storyblok Migration Tool: An Engineering Perspective",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-drupal-storyblok-migration-tool-engineering-perspective/building-drupal-storyblok-migration-tool-engineering-perspective.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-drupal-storyblok-migration-tool-engineering-perspective/building-drupal-storyblok-migration-tool-engineering-perspective.jpg"
         }
       ]
     },
@@ -375,6 +360,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6813a8237eaea66216eb6819",
+          "author": "Beau Carnes",
+          "description": "Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...",
+          "link": "https://www.freecodecamp.org/news/django-crash-course-for-beginners/",
+          "publishedOn": "2025-05-01T16:58:11.000Z",
+          "wordCount": 1240,
+          "title": "Django Crash Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746118671895/d37fe9e1-af3b-4419-a39d-26cb85d583eb.png"
+        },
+        {
+          "id": "68139db5555c3ab781a6e0a1",
+          "author": "Joan Ayebola",
+          "description": "When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...",
+          "link": "https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/",
+          "publishedOn": "2025-05-01T16:13:41.000Z",
+          "wordCount": 2869,
+          "title": "How Incremental Static Regeneration (ISR) Works in Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746114577532/94c5118c-f931-415a-932e-45b7e24b99f6.png"
+        },
+        {
+          "id": "681397cd1168f254478cd514",
+          "author": "Mark Mahoney",
+          "description": "This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...",
+          "link": "https://www.freecodecamp.org/news/a-brief-introduction-to-react/",
+          "publishedOn": "2025-05-01T15:48:29.000Z",
+          "wordCount": 1645,
+          "title": "A Brief Introduction to React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746109202328/e4b0f59b-a8d1-42de-9eff-b5413ced3b93.png"
+        },
         {
           "id": "68124752fa6fa6a9a91d9994",
           "author": "Omer Rosenbaum",
@@ -401,8 +416,8 @@
           "description": "When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...",
           "link": "https://www.freecodecamp.org/news/how-to-get-user-model-in-django/",
           "publishedOn": "2025-04-30T15:19:33.000Z",
-          "wordCount": 1934,
-          "title": "How to Get User Model in Django – A Simple Guide With Examples",
+          "wordCount": 1937,
+          "title": "How to Get the User Model in Django – A Simple Guide With Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746026362647/7b47e9e7-6baf-409a-8654-0ad1eb528e31.png"
         },
         {
@@ -429,10 +444,10 @@
           "id": "6810eebd43aa3d16a14700eb",
           "author": "Beau Carnes",
           "description": "Calculus is one of the cornerstones of higher mathematics and a powerful tool for understanding change, motion, and growth across countless disciplines. But for many students, Calculus can seem intimidating or abstract. What if you could learn it ste...",
-          "link": "https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/",
+          "link": "https://www.freecodecamp.org/news/learn-calculus-by-coding-in-python/",
           "publishedOn": "2025-04-29T15:22:37.000Z",
-          "wordCount": 1245,
-          "title": "Learn College Calculus and Implement with Python",
+          "wordCount": 1242,
+          "title": "Learn Calculus by Coding in Python",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745940136487/3bf6eb1d-4ffa-4d41-9ac7-89a9f3836915.png"
         },
         {
@@ -444,36 +459,6 @@
           "wordCount": 1769,
           "title": "How to Register Models in Django Admin",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745937579596/e8aed227-b7c3-4bf6-a448-a66782aeea42.png"
-        },
-        {
-          "id": "680fe1e69418a1165cb184a2",
-          "author": "Opaluwa Emidowojo",
-          "description": "A few months ago, I dove into DevOps, expecting it to be an expensive journey requiring costly tools and infrastructure. But I discovered you can build professional-grade pipelines using entirely free resources. If DevOps feels out of reach because y...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/",
-          "publishedOn": "2025-04-28T20:15:34.000Z",
-          "wordCount": 6670,
-          "title": "How to Build a Production-Ready DevOps Pipeline with Free Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745864420670/f36eb4a7-a24e-4d6e-859f-db7249ae0da0.png"
-        },
-        {
-          "id": "680fd51ef631538076304a73",
-          "author": "Kunal Nalawade",
-          "description": "Hi, fellow developers! Building a website can feel overwhelming at first – especially when you're staring at a blank HTML file, wondering how it ever turns into a real website on the internet. If you're new to web development, you've probably asked y...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough/",
-          "publishedOn": "2025-04-28T19:21:02.000Z",
-          "wordCount": 3179,
-          "title": "How to Build a Website from Scratch – Start to Finish Walkthrough",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745260046049/62b5c730-dc06-49de-8bdd-2cd44facb9e9.png"
-        },
-        {
-          "id": "680fa40e9096ceb5eeedd90e",
-          "author": "Udemezue John",
-          "description": "If you've ever tried to connect your frontend app to your Django backend and suddenly hit an error that looks something like \"has been blocked by CORS policy\", you're not alone. It’s frustrating, especially when your code seems fine. So what’s going ...",
-          "link": "https://www.freecodecamp.org/news/how-to-enable-cors-in-django/",
-          "publishedOn": "2025-04-28T15:51:42.000Z",
-          "wordCount": 1981,
-          "title": "How to Enable CORS in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745855234567/f09d3338-c824-4cd8-a26f-93bb485f925a.png"
         }
       ]
     }

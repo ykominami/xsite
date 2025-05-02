@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T00:16:55.634Z</id>
+    <id>urn:2025-05-02T00:15:04.769Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T00:16:55.634Z</updated>
+    <updated>2025-05-02T00:15:04.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Django Crash Course for Beginners]]></title>
+        <id>6813a8237eaea66216eb6819</id>
+        <link href="https://www.freecodecamp.org/news/django-crash-course-for-beginners/"/>
+        <updated>2025-05-01T16:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Incremental Static Regeneration (ISR) Works in Next.js]]></title>
+        <id>68139db5555c3ab781a6e0a1</id>
+        <link href="https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/"/>
+        <updated>2025-05-01T16:13:41.000Z</updated>
+        <summary type="html"><![CDATA[When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief Introduction to React]]></title>
+        <id>681397cd1168f254478cd514</id>
+        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-react/"/>
+        <updated>2025-05-01T15:48:29.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of Devs: A Survey for Every Developer]]></title>
+        <id>https://css-tricks.com/?p=386334</id>
+        <link href="https://css-tricks.com/state-of-devs-a-survey-for-every-developer/"/>
+        <updated>2025-05-01T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. 
+State of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sacha Greif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How IPv4 Works – A Handbook for Developers]]></title>
         <id>68124752fa6fa6a9a91d9994</id>
@@ -26,7 +67,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get User Model in Django – A Simple Guide With Examples]]></title>
+        <title type="html"><![CDATA[How to Get the User Model in Django – A Simple Guide With Examples]]></title>
         <id>68123f859249b83d2215937d</id>
         <link href="https://www.freecodecamp.org/news/how-to-get-user-model-in-django/"/>
         <updated>2025-04-30T15:19:33.000Z</updated>
@@ -77,9 +118,9 @@ Revisiting Image Maps originally published on CSS-Tricks, which is part of the D
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn College Calculus and Implement with Python]]></title>
+        <title type="html"><![CDATA[Learn Calculus by Coding in Python]]></title>
         <id>6810eebd43aa3d16a14700eb</id>
-        <link href="https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/"/>
+        <link href="https://www.freecodecamp.org/news/learn-calculus-by-coding-in-python/"/>
         <updated>2025-04-29T15:22:37.000Z</updated>
         <summary type="html"><![CDATA[Calculus is one of the cornerstones of higher mathematics and a powerful tool for understanding change, motion, and growth across countless disciplines. But for many students, Calculus can seem intimidating or abstract. What if you could learn it ste...]]></summary>
         <author>
@@ -115,36 +156,6 @@ Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[As designers, it’s important to be able to transform visual ideas into concepts within minutes and into fully functional products within hours. Well, today we’re bringing you closer to AnimaApp, an app designed to make your life easier — whether you’re a designer, developer, product team member or entrepreneur.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anima Team)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready DevOps Pipeline with Free Tools]]></title>
-        <id>680fe1e69418a1165cb184a2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/"/>
-        <updated>2025-04-28T20:15:34.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago, I dove into DevOps, expecting it to be an expensive journey requiring costly tools and infrastructure. But I discovered you can build professional-grade pipelines using entirely free resources. If DevOps feels out of reach because y...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Website from Scratch – Start to Finish Walkthrough]]></title>
-        <id>680fd51ef631538076304a73</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough/"/>
-        <updated>2025-04-28T19:21:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi, fellow developers! Building a website can feel overwhelming at first – especially when you're staring at a blank HTML file, wondering how it ever turns into a real website on the internet. If you're new to web development, you've probably asked y...]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enable CORS in Django]]></title>
-        <id>680fa40e9096ceb5eeedd90e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enable-cors-in-django/"/>
-        <updated>2025-04-28T15:51:42.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever tried to connect your frontend app to your Django backend and suddenly hit an error that looks something like "has been blocked by CORS policy", you're not alone. It’s frustrating, especially when your code seems fine. So what’s going ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
         </author>
     </entry>
     <entry>
@@ -377,27 +388,6 @@ A New “Web” Readiness Report originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gloria Diaz Alonso)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMIL on?]]></title>
-        <id>https://css-tricks.com/?p=385540</id>
-        <link href="https://css-tricks.com/smil-on/"/>
-        <updated>2025-04-02T12:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.
-SMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Drupal To Storyblok Migration Tool: An Engineering Perspective]]></title>
-        <id>https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/</id>
-        <link href="https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/"/>
-        <updated>2025-04-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Edoardo Dusi shares the engineering and architectural choices made by the team at Storyblok and how real-world migration challenges were addressed using modern PHP practices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Edoardo Dusi)</name>
         </author>
     </entry>
 </feed>
