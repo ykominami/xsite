@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385733",
+          "author": "Kevin Hamer",
+          "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/",
+          "publishedOn": "2025-05-05T13:01:43.000Z",
+          "wordCount": 2235,
+          "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386291",
           "author": "Geoff Graham",
           "description": "The CSS shape() function recently gained support in both Chromium and WebKit browsers. It's a way of drawing complex shapes when clipping elements with the clip-path property.\nCSS shape() Commands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -57,7 +67,7 @@
           "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/",
           "publishedOn": "2025-04-28T12:43:01.000Z",
-          "wordCount": 2294,
+          "wordCount": 2344,
           "title": "Anchor Positioning Just Don’t Care About Source Order",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
         },
@@ -147,19 +157,9 @@
           "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-carousels/",
           "publishedOn": "2025-04-09T13:00:24.000Z",
-          "wordCount": 3140,
+          "wordCount": 3273,
           "title": "CSS Carousels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385271",
-          "author": "Lee Meyer",
-          "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/",
-          "publishedOn": "2025-04-07T14:41:53.000Z",
-          "wordCount": 4783,
-          "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.",
+          "link": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
+          "publishedOn": "2025-05-05T10:00:00.000Z",
+          "wordCount": 4410,
+          "title": "How To Launch Big Complex Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
           "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
           "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4733,
+          "wordCount": 4611,
           "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
@@ -189,7 +204,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5142,
+          "wordCount": 5141,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -234,7 +249,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6322,
+          "wordCount": 6313,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -249,7 +264,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6596,
+          "wordCount": 6593,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -264,7 +279,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4461,
+          "wordCount": 4440,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -279,7 +294,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4310,
+          "wordCount": 4311,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -294,7 +309,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5776,
+          "wordCount": 5773,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -309,7 +324,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4970,
+          "wordCount": 4972,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -324,7 +339,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4220,
+          "wordCount": 4210,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -339,7 +354,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4977,
+          "wordCount": 4850,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -356,13 +371,33 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68190b8f1abafc5ea9d7efbf",
+          "author": "Beau Carnes",
+          "description": "Do you want to build a practical project to help improve your C++ skills? Have you ever wanted to create your own unique audio effects? Then diving into C++ audio plugin development with the JUCE framework might be your next great step We just publis...",
+          "link": "https://www.freecodecamp.org/news/improve-you-c-skills-by-coding-an-audio-plugin/",
+          "publishedOn": "2025-05-05T19:03:43.000Z",
+          "wordCount": 1147,
+          "title": "Improve you C++ skills by coding an audio plugin",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "6818d1793c6be4514080aea9",
+          "author": "Timothy Olanrewaju",
+          "description": "Have you ever found yourself stuck deciding what color outfit to wear? Maybe you’re mixing and matching different tops and bottoms, unsure if the colors go together. It’s a common dilemma – so common that many of us turn to friends or family for a se...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/",
+          "publishedOn": "2025-05-05T14:55:53.000Z",
+          "wordCount": 2973,
+          "title": "How to Build a Dynamic Wardrobe App with React Drag and Drop",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746456835547/563ca5bd-27b0-421e-a0f3-a13f97388449.png"
+        },
+        {
           "id": "68151f0be5850fcb8543375a",
           "author": "Okoro Emmanuel Nzube",
           "description": "Imagine purchasing a standing fan straight out of the box, all parts dismantled, and you have no manual or guide to put them together. Did you imagine that just now? Cool. Here is another scenario: imagine purchasing an LG product, such as a smart TV...",
           "link": "https://www.freecodecamp.org/news/how-to-write-good-api-docs/",
           "publishedOn": "2025-05-02T19:37:47.000Z",
-          "wordCount": 3968,
-          "title": "API Documentation: The Importance of Clear and Concise API Documentation",
+          "wordCount": 3956,
+          "title": "How to Write Good API Documentation",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746108055356/29f327c1-60a5-4d0c-baef-431c0e61c1b4.png"
         },
         {
@@ -434,26 +469,6 @@
           "wordCount": 7538,
           "title": "How IPv4 Works – A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746028336196/79d97781-a9b8-4be3-86a1-47322e9640ff.png"
-        },
-        {
-          "id": "681242328ca367c7e5d58873",
-          "author": "Udemezue John",
-          "description": "Starting a SaaS (Software as a Service) business is exciting. You’ve put in the long hours building something you believe people will love. But now comes the big question: How do you get your first customers? Getting those first few users can feel li...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-saas-customers/",
-          "publishedOn": "2025-04-30T15:30:58.000Z",
-          "wordCount": 1964,
-          "title": "How to Get Your First SaaS Customers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746027034713/42b1e6bd-3f5f-4e41-b3d0-ead8168661a6.png"
-        },
-        {
-          "id": "68123f859249b83d2215937d",
-          "author": "Udemezue John",
-          "description": "When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-user-model-in-django/",
-          "publishedOn": "2025-04-30T15:19:33.000Z",
-          "wordCount": 1937,
-          "title": "How to Get the User Model in Django – A Simple Guide With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746026362647/7b47e9e7-6baf-409a-8654-0ad1eb528e31.png"
         }
       ]
     }
