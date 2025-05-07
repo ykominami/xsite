@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T00:15:25.710Z</id>
+    <id>urn:2025-05-07T00:15:14.854Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T00:15:25.710Z</updated>
+    <updated>2025-05-07T00:15:14.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Mobile APIs in Flutter]]></title>
+        <id>681a707658599a397b11b418</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-mobile-apis-in-flutter/"/>
+        <updated>2025-05-06T20:26:30.000Z</updated>
+        <summary type="html"><![CDATA[As mobile applications continue to evolve in functionality and scope, securing the APIs that power these apps has become more critical than ever. In the context of Flutter, a framework that enables cross-platform development, understanding how to sec...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Documentation with docs.page – A Beginner's Tutorial]]></title>
+        <id>681a558b9791d0e469b84519</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/"/>
+        <updated>2025-05-06T18:31:39.000Z</updated>
+        <summary type="html"><![CDATA[One of the most tedious tasks for every startup, company, and open-source project is often building and managing documentation – especially for medium to large-scale documentation websites. docs.page is an open-source documentation tool that helps yo...]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama]]></title>
+        <id>681a35d4d5da806f5e9467b1</id>
+        <link href="https://www.freecodecamp.org/news/build-a-local-ai/"/>
+        <updated>2025-05-06T16:16:20.000Z</updated>
+        <summary type="html"><![CDATA[The landscape of Artificial Intelligence is rapidly evolving, and one of the most exciting trends is the ability to run powerful Large Language Models (LLMs) directly on your local machine. This shift away from reliance on cloud-based APIs offers sig...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Serverless AI Agents with Langbase Docs MCP Server in Minutes]]></title>
+        <id>681a2ce0aebfc718f4e6da03</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-serverless-ai-agents-with-langbase-docs-mcp-server-in-minutes/"/>
+        <updated>2025-05-06T15:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Building serverless AI agents has recently become a lot simpler. With the Langbase Docs MCP server, you can instantly connect AI models to Langbase documentation – making it easy to build composable, agentic AI systems with memory without complex inf...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GSAP is Now Completely Free, Even for Commercial Use!]]></title>
+        <id>https://css-tricks.com/?p=386482</id>
+        <link href="https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/"/>
+        <updated>2025-05-06T14:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.
+GSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?]]></title>
+        <id>https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/</id>
+        <link href="https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/"/>
+        <updated>2025-05-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve you C++ skills by coding an audio plugin]]></title>
         <id>68190b8f1abafc5ea9d7efbf</id>
@@ -108,36 +169,6 @@ CSS shape() Commands originally published on CSS-Tricks, which is part of the Di
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Django Crash Course for Beginners]]></title>
-        <id>6813a8237eaea66216eb6819</id>
-        <link href="https://www.freecodecamp.org/news/django-crash-course-for-beginners/"/>
-        <updated>2025-05-01T16:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Incremental Static Regeneration (ISR) Works in Next.js]]></title>
-        <id>68139db5555c3ab781a6e0a1</id>
-        <link href="https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/"/>
-        <updated>2025-05-01T16:13:41.000Z</updated>
-        <summary type="html"><![CDATA[When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to React]]></title>
-        <id>681397cd1168f254478cd514</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-react/"/>
-        <updated>2025-05-01T15:48:29.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State of Devs: A Survey for Every Developer]]></title>
         <id>https://css-tricks.com/?p=386334</id>
         <link href="https://css-tricks.com/state-of-devs-a-survey-for-every-developer/"/>
@@ -146,16 +177,6 @@ CSS shape() Commands originally published on CSS-Tricks, which is part of the Di
 State of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sacha Greif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How IPv4 Works – A Handbook for Developers]]></title>
-        <id>68124752fa6fa6a9a91d9994</id>
-        <link href="https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/"/>
-        <updated>2025-04-30T15:52:50.000Z</updated>
-        <summary type="html"><![CDATA[The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
     <entry>
@@ -375,17 +396,6 @@ Tailwind’s @apply Feature is Better Than it Sounds originally published on CSS
         <updated>2025-04-10T11:26:00.000Z</updated>
         <summary type="html"><![CDATA[If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …
 Cascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Carousels]]></title>
-        <id>https://css-tricks.com/?p=385672</id>
-        <link href="https://css-tricks.com/css-carousels/"/>
-        <updated>2025-04-09T13:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.
-CSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>

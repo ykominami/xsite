@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386482",
+          "author": "Ryan Trimble",
+          "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/",
+          "publishedOn": "2025-05-06T14:14:41.000Z",
+          "wordCount": 1849,
+          "title": "GSAP is Now Completely Free, Even for Commercial Use!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385733",
           "author": "Kevin Hamer",
           "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/",
           "publishedOn": "2025-05-05T13:01:43.000Z",
-          "wordCount": 2235,
+          "wordCount": 2260,
           "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
         },
@@ -97,7 +107,7 @@
           "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/",
           "publishedOn": "2025-04-17T12:38:05.000Z",
-          "wordCount": 3847,
+          "wordCount": 4117,
           "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
         },
@@ -150,16 +160,6 @@
           "wordCount": 1916,
           "title": "Cascading Layouts: A Workshop on Resilient CSS Layouts",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/cascading-workshop-cat-1600w.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385672",
-          "author": "Geoff Graham",
-          "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-carousels/",
-          "publishedOn": "2025-04-09T13:00:24.000Z",
-          "wordCount": 3273,
-          "title": "CSS Carousels",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
+          "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
+          "publishedOn": "2025-05-06T13:00:00.000Z",
+          "wordCount": 4920,
+          "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -189,7 +204,7 @@
           "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
           "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4611,
+          "wordCount": 4625,
           "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
@@ -204,7 +219,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5141,
+          "wordCount": 5132,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -249,7 +264,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6313,
+          "wordCount": 6315,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -264,7 +279,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6593,
+          "wordCount": 6600,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -279,7 +294,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4440,
+          "wordCount": 4441,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -294,7 +309,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4311,
+          "wordCount": 4296,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -309,7 +324,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5773,
+          "wordCount": 5776,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -324,7 +339,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4972,
+          "wordCount": 4986,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -339,7 +354,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4210,
+          "wordCount": 4206,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -354,7 +369,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4850,
+          "wordCount": 4865,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -371,6 +386,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "681a707658599a397b11b418",
+          "author": "Atuoha Anthony",
+          "description": "As mobile applications continue to evolve in functionality and scope, securing the APIs that power these apps has become more critical than ever. In the context of Flutter, a framework that enables cross-platform development, understanding how to sec...",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-mobile-apis-in-flutter/",
+          "publishedOn": "2025-05-06T20:26:30.000Z",
+          "wordCount": 4326,
+          "title": "How to Secure Mobile APIs in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746476077222/979756aa-b172-4961-bd7d-5fb6ec3d580b.png"
+        },
+        {
+          "id": "681a558b9791d0e469b84519",
+          "author": "Rajdeep Singh",
+          "description": "One of the most tedious tasks for every startup, company, and open-source project is often building and managing documentation – especially for medium to large-scale documentation websites. docs.page is an open-source documentation tool that helps yo...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/",
+          "publishedOn": "2025-05-06T18:31:39.000Z",
+          "wordCount": 3649,
+          "title": "How to Create Documentation with docs.page – A Beginner's Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746471569068/23f70d3e-a76e-4287-a6a9-579c23a4fcb2.png"
+        },
+        {
+          "id": "681a35d4d5da806f5e9467b1",
+          "author": "Chaitanya Rahalkar",
+          "description": "The landscape of Artificial Intelligence is rapidly evolving, and one of the most exciting trends is the ability to run powerful Large Language Models (LLMs) directly on your local machine. This shift away from reliance on cloud-based APIs offers sig...",
+          "link": "https://www.freecodecamp.org/news/build-a-local-ai/",
+          "publishedOn": "2025-05-06T16:16:20.000Z",
+          "wordCount": 5425,
+          "title": "How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746545253944/58b04b54-e443-4804-bedd-3290bfda5bb7.png"
+        },
+        {
+          "id": "681a2ce0aebfc718f4e6da03",
+          "author": "Maham Codes",
+          "description": "Building serverless AI agents has recently become a lot simpler. With the Langbase Docs MCP server, you can instantly connect AI models to Langbase documentation – making it easy to build composable, agentic AI systems with memory without complex inf...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-serverless-ai-agents-with-langbase-docs-mcp-server-in-minutes/",
+          "publishedOn": "2025-05-06T15:38:08.000Z",
+          "wordCount": 1979,
+          "title": "How to Create Serverless AI Agents with Langbase Docs MCP Server in Minutes",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746545857204/6df2b802-a7dc-4745-ac64-117c1c0f7ee1.png"
+        },
+        {
           "id": "68190b8f1abafc5ea9d7efbf",
           "author": "Beau Carnes",
           "description": "Do you want to build a practical project to help improve your C++ skills? Have you ever wanted to create your own unique audio effects? Then diving into C++ audio plugin development with the JUCE framework might be your next great step We just publis...",
@@ -378,7 +433,7 @@
           "publishedOn": "2025-05-05T19:03:43.000Z",
           "wordCount": 1147,
           "title": "Improve you C++ skills by coding an audio plugin",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746547631263/2f0d40a4-1e84-4109-b102-1b99a3d7b96f.png"
         },
         {
           "id": "6818d1793c6be4514080aea9",
@@ -429,46 +484,6 @@
           "wordCount": 1071,
           "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746216807651/c24ce5d2-07cd-4b30-9681-a36e50b3a834.png"
-        },
-        {
-          "id": "6813a8237eaea66216eb6819",
-          "author": "Beau Carnes",
-          "description": "Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...",
-          "link": "https://www.freecodecamp.org/news/django-crash-course-for-beginners/",
-          "publishedOn": "2025-05-01T16:58:11.000Z",
-          "wordCount": 1240,
-          "title": "Django Crash Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746118671895/d37fe9e1-af3b-4419-a39d-26cb85d583eb.png"
-        },
-        {
-          "id": "68139db5555c3ab781a6e0a1",
-          "author": "Joan Ayebola",
-          "description": "When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...",
-          "link": "https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/",
-          "publishedOn": "2025-05-01T16:13:41.000Z",
-          "wordCount": 2869,
-          "title": "How Incremental Static Regeneration (ISR) Works in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746114577532/94c5118c-f931-415a-932e-45b7e24b99f6.png"
-        },
-        {
-          "id": "681397cd1168f254478cd514",
-          "author": "Mark Mahoney",
-          "description": "This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...",
-          "link": "https://www.freecodecamp.org/news/a-brief-introduction-to-react/",
-          "publishedOn": "2025-05-01T15:48:29.000Z",
-          "wordCount": 1645,
-          "title": "A Brief Introduction to React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746109202328/e4b0f59b-a8d1-42de-9eff-b5413ced3b93.png"
-        },
-        {
-          "id": "68124752fa6fa6a9a91d9994",
-          "author": "Omer Rosenbaum",
-          "description": "The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...",
-          "link": "https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/",
-          "publishedOn": "2025-04-30T15:52:50.000Z",
-          "wordCount": 7538,
-          "title": "How IPv4 Works – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746028336196/79d97781-a9b8-4be3-86a1-47322e9640ff.png"
         }
       ]
     }
