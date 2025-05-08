@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T00:15:14.854Z</id>
+    <id>urn:2025-05-08T00:15:20.678Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T00:15:14.854Z</updated>
+    <updated>2025-05-08T00:15:20.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Code a Dropbox Clone with NextJS]]></title>
+        <id>681b80ee1a1a4e16cffa1a50</id>
+        <link href="https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/"/>
+        <updated>2025-05-07T15:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Building modern full-stack applications requires a strong grasp of various interconnected technologies. And what better way to learn than by creating a real-world project that mimics a widely used tool like Dropbox? That’s exactly what this new cours...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursive Types in TypeScript: A Brief Exploration]]></title>
+        <id>681b77a47396438eaee0c5ce</id>
+        <link href="https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/"/>
+        <updated>2025-05-07T15:09:24.000Z</updated>
+        <summary type="html"><![CDATA[It is said that there are two different worlds in TypeScript that exist side by side: the type world and the value world. Consider this line of code: const firstName: string = 'Maynard'; While firstName and 'Maynard' live in the value world, string ...]]></summary>
+        <author>
+            <name>Eda Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Front-End Performance Optimization Handbook – Tips and Strategies for Devs]]></title>
+        <id>681b5e61b1ed0b90facd0adf</id>
+        <link href="https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/"/>
+        <updated>2025-05-07T13:21:37.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building a website, you’ll want it to be responsive, fast, and efficient. This means making sure the site loads quickly, runs smoothly, and provides a seamless experience for your users, among other things. So as you build, you’ll want to...]]></summary>
+        <author>
+            <name>Gordan Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Nobody Using the hwb() Color Function?]]></title>
+        <id>https://css-tricks.com/?p=386463</id>
+        <link href="https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/"/>
+        <updated>2025-05-07T12:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.
+Why is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS]]></title>
+        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/</id>
+        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/"/>
+        <updated>2025-05-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure Mobile APIs in Flutter]]></title>
         <id>681a707658599a397b11b418</id>
@@ -67,7 +118,7 @@ GSAP is Now Completely Free, Even for Commercial Use! originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improve you C++ skills by coding an audio plugin]]></title>
+        <title type="html"><![CDATA[Improve Your C++ Skills by Coding an Audio Plugin]]></title>
         <id>68190b8f1abafc5ea9d7efbf</id>
         <link href="https://www.freecodecamp.org/news/improve-you-c-skills-by-coding-an-audio-plugin/"/>
         <updated>2025-05-05T19:03:43.000Z</updated>
@@ -115,36 +166,6 @@ Modern Scroll Shadows Using Scroll-Driven Animations originally published on CSS
         <summary type="html"><![CDATA[Imagine purchasing a standing fan straight out of the box, all parts dismantled, and you have no manual or guide to put them together. Did you imagine that just now? Cool. Here is another scenario: imagine purchasing an LG product, such as a smart TV...]]></summary>
         <author>
             <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use SonarQube to Improve Your Code Quality]]></title>
-        <id>6815023dec2e34790eeb71a8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-your-code-quality-with-sonarqube/"/>
-        <updated>2025-05-02T17:34:53.000Z</updated>
-        <summary type="html"><![CDATA[SonarQube is a powerful open-source tool that helps you maintain code quality and security by analyzing your codebase for bugs and vulnerabilities. And it can play a major role when integrated into your CI/CD pipeline. In this tutorial, we will cover...]]></summary>
-        <author>
-            <name>Divya Valsala Saratchandran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Kubernetes – Full Handbook for Developers, Startups, and Businesses]]></title>
-        <id>68150214fd424d0874293171</id>
-        <link href="https://www.freecodecamp.org/news/learn-kubernetes-handbook-devs-startups-businesses/"/>
-        <updated>2025-05-02T17:34:12.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard the word Kubernetes floating around, or it’s cooler nickname k8s (pronounced “kates“). Maybe in a job post, a tech podcast, or from that one DevOps friend who always brings it up like it’s the secret sauce to everything 😅. It s...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]]]></title>
-        <id>6814f2ab33857abe499038b0</id>
-        <link href="https://www.freecodecamp.org/news/from-art-school-drop-out-to-microsoft-engineer-with-shashi-lo-podcast-170/"/>
-        <updated>2025-05-02T16:28:27.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Shashi Lo. He's a software engineer at Microsoft. He grew up the child of refugees. He wanted to start earning money and build his family so he abandoned his art school degree and taught himself how ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -387,17 +408,6 @@ CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of
 Tailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cascading Layouts: A Workshop on Resilient CSS Layouts]]></title>
-        <id>https://css-tricks.com/?p=385758</id>
-        <link href="https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/"/>
-        <updated>2025-04-10T11:26:00.000Z</updated>
-        <summary type="html"><![CDATA[If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …
-Cascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

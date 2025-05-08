@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386463",
+          "author": "Sunkanmi Fafowora",
+          "description": "Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.\nWhy is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
+          "publishedOn": "2025-05-07T12:25:19.000Z",
+          "wordCount": 2541,
+          "title": "Why is Nobody Using the hwb() Color Function?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386482",
           "author": "Ryan Trimble",
           "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 3622,
           "title": "Tailwind’s @apply Feature is Better Than it Sounds",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/tailwind-apply.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385758",
-          "author": "Geoff Graham",
-          "description": "If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …\nCascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/",
-          "publishedOn": "2025-04-10T11:26:00.000Z",
-          "wordCount": 1916,
-          "title": "Cascading Layouts: A Workshop on Resilient CSS Layouts",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/cascading-workshop-cat-1600w.webp"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "publishedOn": "2025-05-07T08:00:00.000Z",
+          "wordCount": 5508,
+          "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
           "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
           "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4920,
+          "wordCount": 4917,
           "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
@@ -204,7 +219,7 @@
           "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
           "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4625,
+          "wordCount": 4628,
           "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
@@ -219,7 +234,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5132,
+          "wordCount": 5144,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -264,7 +279,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6315,
+          "wordCount": 6310,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -279,7 +294,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6600,
+          "wordCount": 6599,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -294,7 +309,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4441,
+          "wordCount": 4446,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -309,7 +324,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4296,
+          "wordCount": 4307,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -324,7 +339,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5776,
+          "wordCount": 5768,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -339,7 +354,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4986,
+          "wordCount": 4980,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -354,7 +369,7 @@
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
           "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4206,
+          "wordCount": 4215,
           "title": "Gild Just One Lily",
           "enclosure": {
             "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
@@ -369,7 +384,7 @@
           "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
           "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "publishedOn": "2025-04-08T15:00:00.000Z",
-          "wordCount": 4865,
+          "wordCount": 4962,
           "title": "Using Manim For Making UI Animations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
@@ -386,6 +401,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "681b80ee1a1a4e16cffa1a50",
+          "author": "Beau Carnes",
+          "description": "Building modern full-stack applications requires a strong grasp of various interconnected technologies. And what better way to learn than by creating a real-world project that mimics a widely used tool like Dropbox? That’s exactly what this new cours...",
+          "link": "https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/",
+          "publishedOn": "2025-05-07T15:49:02.000Z",
+          "wordCount": 1278,
+          "title": "Code a Dropbox Clone with NextJS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746632864462/6865d2b6-8c07-424e-afd2-9200550a976d.png"
+        },
+        {
+          "id": "681b77a47396438eaee0c5ce",
+          "author": "Eda Eren",
+          "description": "It is said that there are two different worlds in TypeScript that exist side by side: the type world and the value world. Consider this line of code: const firstName: string = 'Maynard'; While firstName and 'Maynard' live in the value world, string ...",
+          "link": "https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/",
+          "publishedOn": "2025-05-07T15:09:24.000Z",
+          "wordCount": 2585,
+          "title": "Recursive Types in TypeScript: A Brief Exploration",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746625684891/6a4e2dae-a7b2-415d-a65d-be47c5d73253.png"
+        },
+        {
+          "id": "681b5e61b1ed0b90facd0adf",
+          "author": "Gordan Tan",
+          "description": "When you’re building a website, you’ll want it to be responsive, fast, and efficient. This means making sure the site loads quickly, runs smoothly, and provides a seamless experience for your users, among other things. So as you build, you’ll want to...",
+          "link": "https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/",
+          "publishedOn": "2025-05-07T13:21:37.000Z",
+          "wordCount": 10977,
+          "title": "The Front-End Performance Optimization Handbook – Tips and Strategies for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746468304666/ca24ac6b-1591-4abf-a544-739fbfaecf49.png"
+        },
+        {
           "id": "681a707658599a397b11b418",
           "author": "Atuoha Anthony",
           "description": "As mobile applications continue to evolve in functionality and scope, securing the APIs that power these apps has become more critical than ever. In the context of Flutter, a framework that enables cross-platform development, understanding how to sec...",
@@ -393,7 +438,7 @@
           "publishedOn": "2025-05-06T20:26:30.000Z",
           "wordCount": 4326,
           "title": "How to Secure Mobile APIs in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746476077222/979756aa-b172-4961-bd7d-5fb6ec3d580b.png"
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746626043471/57ea35c5-44b8-4eee-b713-ca9e735d7fe7.png"
         },
         {
           "id": "681a558b9791d0e469b84519",
@@ -432,7 +477,7 @@
           "link": "https://www.freecodecamp.org/news/improve-you-c-skills-by-coding-an-audio-plugin/",
           "publishedOn": "2025-05-05T19:03:43.000Z",
           "wordCount": 1147,
-          "title": "Improve you C++ skills by coding an audio plugin",
+          "title": "Improve Your C++ Skills by Coding an Audio Plugin",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746547631263/2f0d40a4-1e84-4109-b102-1b99a3d7b96f.png"
         },
         {
@@ -454,36 +499,6 @@
           "wordCount": 3956,
           "title": "How to Write Good API Documentation",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746108055356/29f327c1-60a5-4d0c-baef-431c0e61c1b4.png"
-        },
-        {
-          "id": "6815023dec2e34790eeb71a8",
-          "author": "Divya Valsala Saratchandran",
-          "description": "SonarQube is a powerful open-source tool that helps you maintain code quality and security by analyzing your codebase for bugs and vulnerabilities. And it can play a major role when integrated into your CI/CD pipeline. In this tutorial, we will cover...",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-your-code-quality-with-sonarqube/",
-          "publishedOn": "2025-05-02T17:34:53.000Z",
-          "wordCount": 1621,
-          "title": "How to Use SonarQube to Improve Your Code Quality",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746207275407/7b0da6c9-9bd7-40ca-853e-b1f7957acf3b.png"
-        },
-        {
-          "id": "68150214fd424d0874293171",
-          "author": "Prince Onukwili",
-          "description": "You’ve probably heard the word Kubernetes floating around, or it’s cooler nickname k8s (pronounced “kates“). Maybe in a job post, a tech podcast, or from that one DevOps friend who always brings it up like it’s the secret sauce to everything 😅. It s...",
-          "link": "https://www.freecodecamp.org/news/learn-kubernetes-handbook-devs-startups-businesses/",
-          "publishedOn": "2025-05-02T17:34:12.000Z",
-          "wordCount": 7908,
-          "title": "Learn Kubernetes – Full Handbook for Developers, Startups, and Businesses",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746205417767/d9d6b0d3-f2a5-44eb-83b5-d1a614bead9f.png"
-        },
-        {
-          "id": "6814f2ab33857abe499038b0",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Shashi Lo. He's a software engineer at Microsoft. He grew up the child of refugees. He wanted to start earning money and build his family so he abandoned his art school degree and taught himself how ...",
-          "link": "https://www.freecodecamp.org/news/from-art-school-drop-out-to-microsoft-engineer-with-shashi-lo-podcast-170/",
-          "publishedOn": "2025-05-02T16:28:27.000Z",
-          "wordCount": 1071,
-          "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746216807651/c24ce5d2-07cd-4b30-9681-a36e50b3a834.png"
         }
       ]
     }
