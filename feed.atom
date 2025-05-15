@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-14T00:15:13.271Z</id>
+    <id>urn:2025-05-15T00:13:30.574Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T00:15:13.271Z</updated>
+    <updated>2025-05-15T00:13:30.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How DNS Works: A Guide to Understanding the Internet's Address Book]]></title>
+        <id>6824f1ac04a60b4a58654ddc</id>
+        <link href="https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/"/>
+        <updated>2025-05-14T19:40:28.000Z</updated>
+        <summary type="html"><![CDATA[The Domain Name System (DNS) translates domain names (like example.com) into IP addresses (like 192.0.2.1) so we can easily access websites. In this guide, you’ll learn how DNS resolution starts, its step-by-step process, how caching works, and the r...]]></summary>
+        <author>
+            <name>Dhruv Prajapati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Load Balancing with Azure Application Gateway and Azure Load Balancer – When to Use Each One]]></title>
+        <id>6824f10a7d203c180e5ea4b2</id>
+        <link href="https://www.freecodecamp.org/news/load-balancing-with-azure-application-gateway-and-azure-load-balancer/"/>
+        <updated>2025-05-14T19:37:46.000Z</updated>
+        <summary type="html"><![CDATA[You’ve probably heard someone mention load balancing when talking about cloud apps. Maybe even names like Azure Load Balancer, Azure Application Gateway, or something about Virtual Machines and Scale Sets. 😵‍💫 It all sounds important...but also a l...]]></summary>
+        <author>
+            <name>Prince Onukwili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Slim and Fast Docker Images with Multi-Stage Builds]]></title>
+        <id>6824b1638a2b26e9d2d0fe86</id>
+        <link href="https://www.freecodecamp.org/news/build-slim-fast-docker-images-with-multi-stage-builds/"/>
+        <updated>2025-05-14T15:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Apps don’t stay simple forever. More features mean more dependencies, slower builds, and heavier Docker images. That’s where things start to hurt. Docker helps, but without the right setup, your builds can quickly get bloated. Multi-stage builds make...]]></summary>
+        <author>
+            <name>Daniel Adeboye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vite for a Better Web Development Workflow]]></title>
+        <id>6824ae178a2b26e9d2d0fe4c</id>
+        <link href="https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/"/>
+        <updated>2025-05-14T14:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Speed and simplicity are at the heart of modern web development. As applications grow more complex and the demand for rapid iteration increases, developers are constantly searching for tools that minimize friction and maximize productivity. Tradition...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Web Services Work – The Unseen Engines of the Connected World]]></title>
+        <id>6824ad336ea9fe84cfb4d0c4</id>
+        <link href="https://www.freecodecamp.org/news/how-web-services-work-with-examples/"/>
+        <updated>2025-05-14T14:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how your weather app instantly knows the forecast, how you can book flights from multiple airlines on one travel site, or how logging into one service can magically log you into another? The answer often lies in a powerful, yet...]]></summary>
+        <author>
+            <name>Kumar Anand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Kotlin & Android 60-Hour Course]]></title>
+        <id>6824aba7be2c002301d59188</id>
+        <link href="https://www.freecodecamp.org/news/master-kotlin-and-android-60-hour-course/"/>
+        <updated>2025-05-14T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to create the next groundbreaking mobile app? Kotlin, a modern and powerful language officially backed by Google, not only makes Android development more efficient and enjoyable but also opens doors to diverse programming opportunities be...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Isn’t Supposed to Happen: Troubleshooting the Impossible]]></title>
+        <id>https://css-tricks.com/?p=386415</id>
+        <link href="https://css-tricks.com/this-isnt-supposed-to-happen-troubleshooting-the-impossible/"/>
+        <updated>2025-05-14T14:01:42.000Z</updated>
+        <summary type="html"><![CDATA[What it looks like to troubleshoot one of those impossible issues that turns out to be something totally else you never thought of.
+This Isn’t Supposed to Happen: Troubleshooting the Impossible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension]]></title>
+        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/</id>
+        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/"/>
+        <updated>2025-05-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Ways Hackers Exploit Web Applications (and How to Prevent Them)]]></title>
         <id>682354c58b3805ff1d2335d0</id>
@@ -64,66 +145,6 @@ Using Pages CMS for Static Site Content Management originally published on CSS-T
         <summary type="html"><![CDATA[Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Rebecca Hemstad &amp; Mark Malek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems]]></title>
-        <id>681e7192df44ab8496bca883</id>
-        <link href="https://www.freecodecamp.org/news/make-it-operations-more-efficient-with-aiops/"/>
-        <updated>2025-05-09T21:20:18.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving IT landscape, development teams have to operate at their best and manage complex systems while minimizing downtime. And having to do many routine tasks manually can really slow down operations and reduce efficiency. These days...]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Technical Debt and How Do You Manage it?]]></title>
-        <id>681e31e668aa6f9f0c37bb12</id>
-        <link href="https://www.freecodecamp.org/news/what-is-technical-debt-and-how-do-you-manage-it/"/>
-        <updated>2025-05-09T16:48:38.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ditching a Microsoft Job to Enter Startup Purgatory with Lonewolf Engineer Sam Crombie [Podcast #171]]]></title>
-        <id>681dc8d07dcd2a77c4bbe048</id>
-        <link href="https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/"/>
-        <updated>2025-05-09T09:20:16.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for your iOS interview]]></title>
-        <id>681d1bbfb1018a470d0d8a02</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-your-ios-interview/"/>
-        <updated>2025-05-08T21:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Preparing for an iOS developer interview can be a daunting task, especially when you're trying to master both conceptual questions and practical coding challenges. Whether you're just starting your iOS development journey or gearing up for your next ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Arrow Functions in PHP 7.4+]]></title>
-        <id>681cf9062cbe43bee0f4138f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-arrow-functions-in-php/"/>
-        <updated>2025-05-08T18:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Arrow functions were introduced in PHP 7.4 to allow devs to write short, anonymous functions. They offer a compact alternative to traditional closures, especially when the function body is small and focused. In this article, you will learn how to use...]]></summary>
-        <author>
-            <name>Montasser Mossallem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free GenAI 65-Hour Bootcamp]]></title>
-        <id>681cd4ea505e2f4aa02206d5</id>
-        <link href="https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/"/>
-        <updated>2025-05-08T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is revolutionizing how we create, learn, and interact with digital content. From intelligent chatbots and personalized language tutors to realistic image generation and interactive story engines, the applications are endless. We just pu...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -407,17 +428,6 @@ Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Level CSS Styling for Cursors]]></title>
-        <id>https://css-tricks.com/?p=385604</id>
-        <link href="https://css-tricks.com/next-level-css-styling-for-cursors/"/>
-        <updated>2025-04-14T12:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Custom cursors with CSS are great, but we can take things to the next level with JavaScript. Using JavaScript, we can transition between cursor states, place dynamic text within the cursor, apply complex animations, and apply filters.
-Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Declan Chidlow</name>
         </author>
     </entry>
 </feed>

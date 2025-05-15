@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386415",
+          "author": "John Rhea",
+          "description": "What it looks like to troubleshoot one of those impossible issues that turns out to be something totally else you never thought of.\nThis Isn’t Supposed to Happen: Troubleshooting the Impossible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/this-isnt-supposed-to-happen-troubleshooting-the-impossible/",
+          "publishedOn": "2025-05-14T14:01:42.000Z",
+          "wordCount": 2990,
+          "title": "This Isn’t Supposed to Happen: Troubleshooting the Impossible",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/05/cars.mov",
+            "length": "7517540",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-01-at-8.12.35%E2%80%AFAM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386522",
           "author": "Ryan Trimble",
           "description": "I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.\nUsing Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +165,6 @@
           "wordCount": 2678,
           "title": "Using CSS backdrop-filter for UI Effects",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/backdrop-filter-weather-widget.jpeg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385604",
-          "author": "Declan Chidlow",
-          "description": "Custom cursors with CSS are great, but we can take things to the next level with JavaScript. Using JavaScript, we can transition between cursor states, place dynamic text within the cursor, apply complex animations, and apply filters.\nNext Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/next-level-css-styling-for-cursors/",
-          "publishedOn": "2025-04-14T12:40:46.000Z",
-          "wordCount": 2718,
-          "title": "Next Level CSS Styling for Cursors",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
         }
       ]
     },
@@ -169,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
+          "publishedOn": "2025-05-14T13:00:00.000Z",
+          "wordCount": 5642,
+          "title": "Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
           "author": "hello@smashingmagazine.com (Rebecca Hemstad & Mark Malek)",
           "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
           "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
           "publishedOn": "2025-05-12T10:00:00.000Z",
-          "wordCount": 5684,
+          "wordCount": 5689,
           "title": "Integrating Localization Into Design Systems",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
@@ -204,7 +224,7 @@
           "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
           "publishedOn": "2025-05-07T08:00:00.000Z",
-          "wordCount": 5497,
+          "wordCount": 5504,
           "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
@@ -219,7 +239,7 @@
           "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
           "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4927,
+          "wordCount": 4926,
           "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
@@ -249,7 +269,7 @@
           "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
           "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4622,
+          "wordCount": 4618,
           "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
@@ -264,7 +284,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5140,
+          "wordCount": 5142,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -309,7 +329,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6314,
+          "wordCount": 6312,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -324,7 +344,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6607,
+          "wordCount": 6604,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -339,7 +359,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4455,
+          "wordCount": 4450,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -354,7 +374,7 @@
           "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
           "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4294,
+          "wordCount": 4304,
           "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
@@ -369,7 +389,7 @@
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
           "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5780,
+          "wordCount": 5777,
           "title": "Fostering An Accessibility Culture",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
@@ -384,7 +404,7 @@
           "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
           "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
           "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4971,
+          "wordCount": 4972,
           "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
           "enclosure": {
             "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
@@ -400,6 +420,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6824f1ac04a60b4a58654ddc",
+          "author": "Dhruv Prajapati",
+          "description": "The Domain Name System (DNS) translates domain names (like example.com) into IP addresses (like 192.0.2.1) so we can easily access websites. In this guide, you’ll learn how DNS resolution starts, its step-by-step process, how caching works, and the r...",
+          "link": "https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/",
+          "publishedOn": "2025-05-14T19:40:28.000Z",
+          "wordCount": 3290,
+          "title": "How DNS Works: A Guide to Understanding the Internet's Address Book",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235471002/8fbe4d7e-f1cb-4faf-a6a5-8dcaf38d58f3.png"
+        },
+        {
+          "id": "6824f10a7d203c180e5ea4b2",
+          "author": "Prince Onukwili",
+          "description": "You’ve probably heard someone mention load balancing when talking about cloud apps. Maybe even names like Azure Load Balancer, Azure Application Gateway, or something about Virtual Machines and Scale Sets. 😵‍💫 It all sounds important...but also a l...",
+          "link": "https://www.freecodecamp.org/news/load-balancing-with-azure-application-gateway-and-azure-load-balancer/",
+          "publishedOn": "2025-05-14T19:37:46.000Z",
+          "wordCount": 6888,
+          "title": "Load Balancing with Azure Application Gateway and Azure Load Balancer – When to Use Each One",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235455030/cb82bfb4-8d7b-47e5-ab31-126906f60b40.png"
+        },
+        {
+          "id": "6824b1638a2b26e9d2d0fe86",
+          "author": "Daniel Adeboye",
+          "description": "Apps don’t stay simple forever. More features mean more dependencies, slower builds, and heavier Docker images. That’s where things start to hurt. Docker helps, but without the right setup, your builds can quickly get bloated. Multi-stage builds make...",
+          "link": "https://www.freecodecamp.org/news/build-slim-fast-docker-images-with-multi-stage-builds/",
+          "publishedOn": "2025-05-14T15:06:11.000Z",
+          "wordCount": 1922,
+          "title": "How to Build Slim and Fast Docker Images with Multi-Stage Builds",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235146559/0bce7dc3-0abe-4241-a188-1c05c773e810.png"
+        },
+        {
+          "id": "6824ae178a2b26e9d2d0fe4c",
+          "author": "Beau Carnes",
+          "description": "Speed and simplicity are at the heart of modern web development. As applications grow more complex and the demand for rapid iteration increases, developers are constantly searching for tools that minimize friction and maximize productivity. Tradition...",
+          "link": "https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/",
+          "publishedOn": "2025-05-14T14:52:07.000Z",
+          "wordCount": 1296,
+          "title": "Learn Vite for a Better Web Development Workflow",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747234316384/0c05bb05-f21e-418e-9e07-7e30df74f674.png"
+        },
+        {
+          "id": "6824ad336ea9fe84cfb4d0c4",
+          "author": "Kumar Anand",
+          "description": "Have you ever wondered how your weather app instantly knows the forecast, how you can book flights from multiple airlines on one travel site, or how logging into one service can magically log you into another? The answer often lies in a powerful, yet...",
+          "link": "https://www.freecodecamp.org/news/how-web-services-work-with-examples/",
+          "publishedOn": "2025-05-14T14:48:19.000Z",
+          "wordCount": 2524,
+          "title": "How Web Services Work – The Unseen Engines of the Connected World",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747156692079/512460b1-28dc-4769-95d4-2c842a316a51.png"
+        },
+        {
+          "id": "6824aba7be2c002301d59188",
+          "author": "Beau Carnes",
+          "description": "Do you want to create the next groundbreaking mobile app? Kotlin, a modern and powerful language officially backed by Google, not only makes Android development more efficient and enjoyable but also opens doors to diverse programming opportunities be...",
+          "link": "https://www.freecodecamp.org/news/master-kotlin-and-android-60-hour-course/",
+          "publishedOn": "2025-05-14T14:41:43.000Z",
+          "wordCount": 1285,
+          "title": "Master Kotlin & Android 60-Hour Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747233684976/019ffd11-b74c-437d-815f-857ab3465317.png"
+        },
         {
           "id": "682354c58b3805ff1d2335d0",
           "author": "Manish Shivanandhan",
@@ -439,66 +519,6 @@
           "wordCount": 12710,
           "title": "How to Become an Analytical Programmer – Solve the \"Rock, Paper, Scissors\" Game 5 Ways Using JavaScript & Mermaid.js",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746812725602/cd4a5bc4-71f2-4678-8f5d-5571d9cc38e8.png"
-        },
-        {
-          "id": "681e7192df44ab8496bca883",
-          "author": "Balajee Asish Brahmandam",
-          "description": "In the rapidly evolving IT landscape, development teams have to operate at their best and manage complex systems while minimizing downtime. And having to do many routine tasks manually can really slow down operations and reduce efficiency. These days...",
-          "link": "https://www.freecodecamp.org/news/make-it-operations-more-efficient-with-aiops/",
-          "publishedOn": "2025-05-09T21:20:18.000Z",
-          "wordCount": 3369,
-          "title": "How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746825359981/5587ade8-875d-4623-b3f5-708109b34672.png"
-        },
-        {
-          "id": "681e31e668aa6f9f0c37bb12",
-          "author": "Manish Shivanandhan",
-          "description": "You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...",
-          "link": "https://www.freecodecamp.org/news/what-is-technical-debt-and-how-do-you-manage-it/",
-          "publishedOn": "2025-05-09T16:48:38.000Z",
-          "wordCount": 2175,
-          "title": "What is Technical Debt and How Do You Manage it?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746809303458/b4635ddc-d909-427a-9cc1-9b9f56ae1d41.png"
-        },
-        {
-          "id": "681dc8d07dcd2a77c4bbe048",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently ...",
-          "link": "https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/",
-          "publishedOn": "2025-05-09T09:20:16.000Z",
-          "wordCount": 1071,
-          "title": "Ditching a Microsoft Job to Enter Startup Purgatory with Lonewolf Engineer Sam Crombie [Podcast #171]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746753508177/0cd57f66-fdb0-4972-b285-1443a7db39fc.png"
-        },
-        {
-          "id": "681d1bbfb1018a470d0d8a02",
-          "author": "Beau Carnes",
-          "description": "Preparing for an iOS developer interview can be a daunting task, especially when you're trying to master both conceptual questions and practical coding challenges. Whether you're just starting your iOS development journey or gearing up for your next ...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-your-ios-interview/",
-          "publishedOn": "2025-05-08T21:01:51.000Z",
-          "wordCount": 1146,
-          "title": "Prepare for your iOS interview",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746737982577/1c47e446-ea9d-4e63-a54d-55c6d49e0b53.png"
-        },
-        {
-          "id": "681cf9062cbe43bee0f4138f",
-          "author": "Montasser Mossallem",
-          "description": "Arrow functions were introduced in PHP 7.4 to allow devs to write short, anonymous functions. They offer a compact alternative to traditional closures, especially when the function body is small and focused. In this article, you will learn how to use...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-arrow-functions-in-php/",
-          "publishedOn": "2025-05-08T18:33:42.000Z",
-          "wordCount": 2215,
-          "title": "How to Use Arrow Functions in PHP 7.4+",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746354775446/092005ae-12bb-4be9-a72c-aacc5f044962.jpeg"
-        },
-        {
-          "id": "681cd4ea505e2f4aa02206d5",
-          "author": "Beau Carnes",
-          "description": "Generative AI is revolutionizing how we create, learn, and interact with digital content. From intelligent chatbots and personalized language tutors to realistic image generation and interactive story engines, the applications are endless. We just pu...",
-          "link": "https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/",
-          "publishedOn": "2025-05-08T15:59:38.000Z",
-          "wordCount": 1339,
-          "title": "Free GenAI 65-Hour Bootcamp",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746719963573/21c89484-ff8e-45b1-8035-ac9650c22894.png"
         }
       ]
     }
