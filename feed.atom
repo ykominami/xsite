@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T00:13:30.574Z</id>
+    <id>urn:2025-05-16T00:15:26.382Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T00:13:30.574Z</updated>
+    <updated>2025-05-16T00:15:26.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven Animations Inside a CSS Carousel]]></title>
+        <id>https://css-tricks.com/?p=386537</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/"/>
+        <updated>2025-05-15T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?
+Scroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fewer Ideas: An Unconventional Approach To Creativity]]></title>
+        <id>https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/</id>
+        <link href="https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/"/>
+        <updated>2025-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Olive)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How DNS Works: A Guide to Understanding the Internet's Address Book]]></title>
         <id>6824f1ac04a60b4a58654ddc</id>
@@ -407,27 +428,6 @@ So, You Want to Give Up CSS Pre- and Post-Processors… originally published on 
         <summary type="html"><![CDATA[While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS backdrop-filter for UI Effects]]></title>
-        <id>https://css-tricks.com/?p=385721</id>
-        <link href="https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/"/>
-        <updated>2025-04-16T12:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.
-Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inclusive Dark Mode: Designing Accessible Dark Themes For All Users]]></title>
-        <id>https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/</id>
-        <link href="https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/"/>
-        <updated>2025-04-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Williams)</name>
         </author>
     </entry>
 </feed>
