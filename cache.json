@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386716",
+          "author": "Geoff Graham",
+          "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/svg-to-css-shape-converter/",
+          "publishedOn": "2025-05-21T15:09:29.000Z",
+          "wordCount": 2052,
+          "title": "SVG to CSS Shape Converter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386580",
           "author": "Juan Diego Rodríguez",
           "description": "Answering a reader's question about how to create a complex numbering system with CSS list counters.\nA Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +165,6 @@
           "wordCount": 2344,
           "title": "Anchor Positioning Just Don’t Care About Source Order",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385855",
-          "author": "Blackle Mori",
-          "description": "In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.\nThe Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-lost-css-tricks-of-cohost-org/",
-          "publishedOn": "2025-04-24T12:49:42.000Z",
-          "wordCount": 3850,
-          "title": "The Lost CSS Tricks of Cohost.org",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-star-variations.jpg"
         }
       ]
     },
@@ -173,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
+          "publishedOn": "2025-05-21T08:00:00.000Z",
+          "wordCount": 5462,
+          "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/design-system-in-90-days/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -194,7 +209,7 @@
           "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
           "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
           "publishedOn": "2025-05-16T11:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4419,
           "title": "Building A Practical UX Strategy Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
@@ -209,7 +224,7 @@
           "description": "Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.",
           "link": "https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/",
           "publishedOn": "2025-05-15T10:00:00.000Z",
-          "wordCount": 4905,
+          "wordCount": 4911,
           "title": "Fewer Ideas: An Unconventional Approach To Creativity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fewer-ideas-unconventional-approach-creativity/fewer-ideas-unconventional-approach-creativity.jpg",
@@ -224,7 +239,7 @@
           "description": "What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
           "publishedOn": "2025-05-14T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5640,
           "title": "Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg",
@@ -239,7 +254,7 @@
           "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
           "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
           "publishedOn": "2025-05-12T10:00:00.000Z",
-          "wordCount": 5681,
+          "wordCount": 5678,
           "title": "Integrating Localization Into Design Systems",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
@@ -269,7 +284,7 @@
           "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
           "publishedOn": "2025-05-07T08:00:00.000Z",
-          "wordCount": 5508,
+          "wordCount": 5505,
           "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
@@ -284,7 +299,7 @@
           "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
           "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4923,
+          "wordCount": 4924,
           "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
@@ -314,7 +329,7 @@
           "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
           "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4624,
+          "wordCount": 4620,
           "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
@@ -329,7 +344,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5135,
+          "wordCount": 5139,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -344,7 +359,7 @@
           "description": "As designers, it’s important to be able to transform visual ideas into concepts within minutes and into fully functional products within hours. Well, today we’re bringing you closer to AnimaApp, an app designed to make your life easier — whether you’re a designer, developer, product team member or entrepreneur.",
           "link": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
           "publishedOn": "2025-04-29T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3628,
           "title": "How To Turn Your Figma Designs Into Live Apps With Anima Playground",
           "enclosure": {
             "url": "http://files.smashing.media/articles/anima-playground-figma-designs-live-apps/anima-playground-figma-designs-live-apps.jpg",
@@ -359,7 +374,7 @@
           "description": "Lost in a sea of UX files, docs, PDFs, and scattered decisions across Slack, Dropbox, Notion, and Figma? We talk a lot about organizing Figma, but what about a sensible folder structure for all UX assets? Let’s fix that. Kindly powered by [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
           "link": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
           "publishedOn": "2025-04-28T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3786,
           "title": "UX And Design Files Organization Template",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg",
@@ -374,7 +389,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6311,
+          "wordCount": 6308,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -389,7 +404,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6601,
+          "wordCount": 6602,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -404,7 +419,7 @@
           "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
           "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4452,
           "title": "Building An Offline-Friendly Image Upload System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
@@ -420,6 +435,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "682e3c04117e792e5f46edc3",
+          "author": "Beau Carnes",
+          "description": "Understanding how to manage data effectively is a critical skill for anyone pursuing a career in tech. And we just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Database Management Systems (DBMS). This in-de...",
+          "link": "https://www.freecodecamp.org/news/master-database-management-systems/",
+          "publishedOn": "2025-05-21T20:48:04.000Z",
+          "wordCount": 1140,
+          "title": "Master Database Management Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747860464669/5108d573-7180-45da-83d5-0144ce3e26ea.png"
+        },
+        {
+          "id": "682df5a0f2057ab279952dbe",
+          "author": "Ankur Tyagi",
+          "description": "Developers often see refactoring as a secondary concern that they can delay indefinitely because it doesn’t immediately contribute to revenue or feature development. And managers frequently view refactoring as \"not a business need\" until it boils ove...",
+          "link": "https://www.freecodecamp.org/news/how-to-refactor-complex-codebases/",
+          "publishedOn": "2025-05-21T15:47:44.000Z",
+          "wordCount": 6094,
+          "title": "How to Refactor Complex Codebases – A Practical Guide for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835131515/f6ea465a-9b14-4918-8943-87ec225b19b3.png"
+        },
+        {
+          "id": "682df55da72360814bcae9ef",
+          "author": "Ben",
+          "description": "AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...",
+          "link": "https://www.freecodecamp.org/news/will-vibe-coders-take-our-dev-jobs/",
+          "publishedOn": "2025-05-21T15:46:37.000Z",
+          "wordCount": 3408,
+          "title": "Will “Vibe Coders” Take Our Dev Jobs?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835351675/3d178f26-c528-48b8-8ac2-32811a5672cf.png"
+        },
+        {
+          "id": "682def7ddd9c9fdc3dae95cf",
+          "author": "Tilda Udufo",
+          "description": "Before I started to contribute to eslint-plugin-react, I didn’t think too deeply about the linters I used every day while writing code. Like many developers, I installed them at the start of a project, appreciated the red underlines or auto-fixes, an...",
+          "link": "https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/",
+          "publishedOn": "2025-05-21T15:21:33.000Z",
+          "wordCount": 2900,
+          "title": "How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835156597/f30994d4-f4da-4100-af25-9f858c015aa8.png"
+        },
         {
           "id": "682ca2c574938e5428551845",
           "author": "Beau Carnes",
@@ -479,46 +534,6 @@
           "wordCount": 1172,
           "title": "Learn A1 Level Spanish",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360364930/078ee25a-9943-44c8-bef0-85626aa97515.png"
-        },
-        {
-          "id": "6824f1ac04a60b4a58654ddc",
-          "author": "Dhruv Prajapati",
-          "description": "The Domain Name System (DNS) translates domain names (like example.com) into IP addresses (like 192.0.2.1) so we can easily access websites. In this guide, you’ll learn how DNS resolution starts, its step-by-step process, how caching works, and the r...",
-          "link": "https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/",
-          "publishedOn": "2025-05-14T19:40:28.000Z",
-          "wordCount": 3290,
-          "title": "How DNS Works: A Guide to Understanding the Internet's Address Book",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235471002/8fbe4d7e-f1cb-4faf-a6a5-8dcaf38d58f3.png"
-        },
-        {
-          "id": "6824f10a7d203c180e5ea4b2",
-          "author": "Prince Onukwili",
-          "description": "You’ve probably heard someone mention load balancing when talking about cloud apps. Maybe even names like Azure Load Balancer, Azure Application Gateway, or something about Virtual Machines and Scale Sets. 😵‍💫 It all sounds important...but also a l...",
-          "link": "https://www.freecodecamp.org/news/load-balancing-with-azure-application-gateway-and-azure-load-balancer/",
-          "publishedOn": "2025-05-14T19:37:46.000Z",
-          "wordCount": 6888,
-          "title": "Load Balancing with Azure Application Gateway and Azure Load Balancer – When to Use Each One",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235455030/cb82bfb4-8d7b-47e5-ab31-126906f60b40.png"
-        },
-        {
-          "id": "6824b1638a2b26e9d2d0fe86",
-          "author": "Daniel Adeboye",
-          "description": "Apps don’t stay simple forever. More features mean more dependencies, slower builds, and heavier Docker images. That’s where things start to hurt. Docker helps, but without the right setup, your builds can quickly get bloated. Multi-stage builds make...",
-          "link": "https://www.freecodecamp.org/news/build-slim-fast-docker-images-with-multi-stage-builds/",
-          "publishedOn": "2025-05-14T15:06:11.000Z",
-          "wordCount": 1922,
-          "title": "How to Build Slim and Fast Docker Images with Multi-Stage Builds",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235146559/0bce7dc3-0abe-4241-a188-1c05c773e810.png"
-        },
-        {
-          "id": "6824ae178a2b26e9d2d0fe4c",
-          "author": "Beau Carnes",
-          "description": "Speed and simplicity are at the heart of modern web development. As applications grow more complex and the demand for rapid iteration increases, developers are constantly searching for tools that minimize friction and maximize productivity. Tradition...",
-          "link": "https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/",
-          "publishedOn": "2025-05-14T14:52:07.000Z",
-          "wordCount": 1296,
-          "title": "Learn Vite for a Better Web Development Workflow",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747234316384/0c05bb05-f21e-418e-9e07-7e30df74f674.png"
         }
       ]
     }

@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-21T00:16:22.682Z</id>
+    <id>urn:2025-05-22T00:15:45.575Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T00:16:22.682Z</updated>
+    <updated>2025-05-22T00:15:45.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Master Database Management Systems]]></title>
+        <id>682e3c04117e792e5f46edc3</id>
+        <link href="https://www.freecodecamp.org/news/master-database-management-systems/"/>
+        <updated>2025-05-21T20:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how to manage data effectively is a critical skill for anyone pursuing a career in tech. And we just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Database Management Systems (DBMS). This in-de...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Refactor Complex Codebases – A Practical Guide for Devs]]></title>
+        <id>682df5a0f2057ab279952dbe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-refactor-complex-codebases/"/>
+        <updated>2025-05-21T15:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers often see refactoring as a secondary concern that they can delay indefinitely because it doesn’t immediately contribute to revenue or feature development. And managers frequently view refactoring as "not a business need" until it boils ove...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will “Vibe Coders” Take Our Dev Jobs?]]></title>
+        <id>682df55da72360814bcae9ef</id>
+        <link href="https://www.freecodecamp.org/news/will-vibe-coders-take-our-dev-jobs/"/>
+        <updated>2025-05-21T15:46:37.000Z</updated>
+        <summary type="html"><![CDATA[AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...]]></summary>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)]]></title>
+        <id>682def7ddd9c9fdc3dae95cf</id>
+        <link href="https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/"/>
+        <updated>2025-05-21T15:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Before I started to contribute to eslint-plugin-react, I didn’t think too deeply about the linters I used every day while writing code. Like many developers, I installed them at the start of a project, appreciated the red underlines or auto-fixes, an...]]></summary>
+        <author>
+            <name>Tilda Udufo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG to CSS Shape Converter]]></title>
+        <id>https://css-tricks.com/?p=386716</id>
+        <link href="https://css-tricks.com/svg-to-css-shape-converter/"/>
+        <updated>2025-05-21T15:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …
+SVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead]]></title>
+        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/</id>
+        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/"/>
+        <updated>2025-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn LangGraph and Build Conversational AI with Python]]></title>
         <id>682ca2c574938e5428551845</id>
@@ -126,46 +187,6 @@ Scroll-Driven Animations Inside a CSS Carousel originally published on CSS-Trick
         <summary type="html"><![CDATA[Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Olive)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How DNS Works: A Guide to Understanding the Internet's Address Book]]></title>
-        <id>6824f1ac04a60b4a58654ddc</id>
-        <link href="https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/"/>
-        <updated>2025-05-14T19:40:28.000Z</updated>
-        <summary type="html"><![CDATA[The Domain Name System (DNS) translates domain names (like example.com) into IP addresses (like 192.0.2.1) so we can easily access websites. In this guide, you’ll learn how DNS resolution starts, its step-by-step process, how caching works, and the r...]]></summary>
-        <author>
-            <name>Dhruv Prajapati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Load Balancing with Azure Application Gateway and Azure Load Balancer – When to Use Each One]]></title>
-        <id>6824f10a7d203c180e5ea4b2</id>
-        <link href="https://www.freecodecamp.org/news/load-balancing-with-azure-application-gateway-and-azure-load-balancer/"/>
-        <updated>2025-05-14T19:37:46.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard someone mention load balancing when talking about cloud apps. Maybe even names like Azure Load Balancer, Azure Application Gateway, or something about Virtual Machines and Scale Sets. 😵‍💫 It all sounds important...but also a l...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Slim and Fast Docker Images with Multi-Stage Builds]]></title>
-        <id>6824b1638a2b26e9d2d0fe86</id>
-        <link href="https://www.freecodecamp.org/news/build-slim-fast-docker-images-with-multi-stage-builds/"/>
-        <updated>2025-05-14T15:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Apps don’t stay simple forever. More features mean more dependencies, slower builds, and heavier Docker images. That’s where things start to hurt. Docker helps, but without the right setup, your builds can quickly get bloated. Multi-stage builds make...]]></summary>
-        <author>
-            <name>Daniel Adeboye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Vite for a Better Web Development Workflow]]></title>
-        <id>6824ae178a2b26e9d2d0fe4c</id>
-        <link href="https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/"/>
-        <updated>2025-05-14T14:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Speed and simplicity are at the heart of modern web development. As applications grow more complex and the demand for rapid iteration increases, developers are constantly searching for tools that minimize friction and maximize productivity. Tradition...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -397,17 +418,6 @@ Anchor Positioning Just Don’t Care About Source Order originally published on 
         <summary type="html"><![CDATA[It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Talke Hoppmann-Walton)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lost CSS Tricks of Cohost.org]]></title>
-        <id>https://css-tricks.com/?p=385855</id>
-        <link href="https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"/>
-        <updated>2025-04-24T12:49:42.000Z</updated>
-        <summary type="html"><![CDATA[In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.
-The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Blackle Mori</name>
         </author>
     </entry>
     <entry>
