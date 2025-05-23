@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386724",
+          "author": "Geoff Graham",
+          "description": "Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.\nYou can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/you-can-style-alt-text-like-any-other-text/",
+          "publishedOn": "2025-05-22T14:43:09.000Z",
+          "wordCount": 1900,
+          "title": "You can style alt text like any other text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/puzzle-pieces-scatter.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386716",
           "author": "Geoff Graham",
           "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/svg-to-css-shape-converter/",
           "publishedOn": "2025-05-21T15:09:29.000Z",
-          "wordCount": 2052,
+          "wordCount": 2089,
           "title": "SVG to CSS Shape Converter",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
         },
@@ -155,16 +165,6 @@
           "wordCount": 1884,
           "title": "Open Up With Brad Frost, Episode 2",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/smashing-open-up-brad-frost-2.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385394",
-          "author": "Geoff Graham",
-          "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/",
-          "publishedOn": "2025-04-28T12:43:01.000Z",
-          "wordCount": 2344,
-          "title": "Anchor Positioning Just Don’t Care About Source Order",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
           "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5462,
+          "wordCount": 5463,
           "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
@@ -209,7 +209,7 @@
           "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
           "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
           "publishedOn": "2025-05-16T11:00:00.000Z",
-          "wordCount": 4419,
+          "wordCount": 4410,
           "title": "Building A Practical UX Strategy Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
@@ -224,7 +224,7 @@
           "description": "Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.",
           "link": "https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/",
           "publishedOn": "2025-05-15T10:00:00.000Z",
-          "wordCount": 4911,
+          "wordCount": 4904,
           "title": "Fewer Ideas: An Unconventional Approach To Creativity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/fewer-ideas-unconventional-approach-creativity/fewer-ideas-unconventional-approach-creativity.jpg",
@@ -239,7 +239,7 @@
           "description": "What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
           "publishedOn": "2025-05-14T13:00:00.000Z",
-          "wordCount": 5640,
+          "wordCount": 5642,
           "title": "Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg",
@@ -254,7 +254,7 @@
           "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
           "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
           "publishedOn": "2025-05-12T10:00:00.000Z",
-          "wordCount": 5678,
+          "wordCount": 5793,
           "title": "Integrating Localization Into Design Systems",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
@@ -284,7 +284,7 @@
           "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
           "publishedOn": "2025-05-07T08:00:00.000Z",
-          "wordCount": 5505,
+          "wordCount": 5506,
           "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
@@ -299,7 +299,7 @@
           "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
           "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4924,
+          "wordCount": 4921,
           "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
@@ -329,7 +329,7 @@
           "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
           "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
           "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4620,
+          "wordCount": 4727,
           "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
@@ -344,7 +344,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5139,
+          "wordCount": 5145,
           "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
@@ -389,7 +389,7 @@
           "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
           "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6308,
+          "wordCount": 6310,
           "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
           "enclosure": {
             "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
@@ -404,7 +404,7 @@
           "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
           "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
           "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6602,
+          "wordCount": 6607,
           "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
           "enclosure": {
             "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
@@ -412,21 +412,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
-          "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-          "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4452,
-          "title": "Building An Offline-Friendly Image Upload System",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg"
         }
       ]
     },
@@ -435,6 +420,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "682f84537a13a40bfa336307",
+          "author": "Beau Carnes",
+          "description": "If you’ve been meaning to add Vue.js to your front-end toolbelt, today’s your day. We just published a full, 6-hour Vue 3 course on the freeCodeCamp.org YouTube channel. Instructor Bhrugen Patel walks you through everything you need to build modern, ...",
+          "link": "https://www.freecodecamp.org/news/learn-vuejs-in-this-beginners-course/",
+          "publishedOn": "2025-05-22T20:08:51.000Z",
+          "wordCount": 1160,
+          "title": "Learn Vue.js in This Beginner's Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747944784614/489ca833-5acc-48ec-b96a-bc876ce43563.png"
+        },
+        {
+          "id": "682f4900bcc94cb9bccbf905",
+          "author": "Preston Osoro",
+          "description": "This guide is a comprehensive roadmap for deploying a FastAPI backend connected to a PostgreSQL database using Render, a cloud platform that supports hosting Python web apps and managed PostgreSQL databases.   You can find the complete source code he...",
+          "link": "https://www.freecodecamp.org/news/deploy-fastapi-postgresql-app-on-render/",
+          "publishedOn": "2025-05-22T15:55:44.000Z",
+          "wordCount": 2617,
+          "title": "How to Deploy Your FastAPI + PostgreSQL App on Render: A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747923566699/58fc1283-d2f5-4964-acfa-b5dcad0f3d4f.png"
+        },
+        {
+          "id": "682f44e3dcb21c615cf1a12d",
+          "author": "Mark Mahoney",
+          "description": "Elixir is a dynamic, functional programming language designed for building scalable and maintainable applications. It leverages the battle-tested Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is based on an...",
+          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/",
+          "publishedOn": "2025-05-22T15:38:11.000Z",
+          "wordCount": 1507,
+          "title": "An Animated Introduction to Elixir",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747923637406/e7ad8796-6269-4260-b500-226e445140ce.png"
+        },
         {
           "id": "682e3c04117e792e5f46edc3",
           "author": "Beau Carnes",
@@ -459,10 +474,10 @@
           "id": "682df55da72360814bcae9ef",
           "author": "Ben",
           "description": "AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...",
-          "link": "https://www.freecodecamp.org/news/will-vibe-coders-take-our-dev-jobs/",
+          "link": "https://www.freecodecamp.org/news/why-vibe-coding-wont-destroy-software-engineering/",
           "publishedOn": "2025-05-21T15:46:37.000Z",
           "wordCount": 3408,
-          "title": "Will “Vibe Coders” Take Our Dev Jobs?",
+          "title": "Why Vibe Coding Won't Destroy Software Engineering",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835351675/3d178f26-c528-48b8-8ac2-32811a5672cf.png"
         },
         {
@@ -481,7 +496,7 @@
           "description": "If you're building conversational AI and tired of messy logic or hard-to-scale workflows, LangGraph makes it easier. It uses graphs to manage dialogue flow, so your bots stay organized even as they get more complex. Great for anything from support ag...",
           "link": "https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/",
           "publishedOn": "2025-05-20T15:41:57.000Z",
-          "wordCount": 1133,
+          "wordCount": 1141,
           "title": "Learn LangGraph and Build Conversational AI with Python",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747755679385/a984244e-b0a8-4431-8090-75db806e9616.png"
         },
@@ -504,36 +519,6 @@
           "wordCount": 2016,
           "title": "How to Extend Power Apps with Reusable Components",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410099474/8471a651-503f-4ced-a172-7dadac930039.png"
-        },
-        {
-          "id": "68275cf15ed8a1db0cf8769b",
-          "author": "Vikram Aruchamy",
-          "description": "Math equations are a critical part of academic papers, research reports, and technical documentation. While LaTeX is widely used for professional typesetting, Google Docs offers a robust set of features for inserting and formatting math equations and...",
-          "link": "https://www.freecodecamp.org/news/write-math-equations-in-google-docs/",
-          "publishedOn": "2025-05-16T15:42:41.000Z",
-          "wordCount": 2830,
-          "title": "How to Write Math Equations in Google Docs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410133881/93c8cf6e-6cbb-4890-8023-fcc2fdaa0fa2.png"
-        },
-        {
-          "id": "68271ae2c90fa4a071c44a2b",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.   For those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to ...",
-          "link": "https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/",
-          "publishedOn": "2025-05-16T11:00:50.000Z",
-          "wordCount": 1128,
-          "title": "How to make Developer Friends When You Don't Live in Silicon Valley, with Iraqi Engineer Code;Life [Podcast #172]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360508340/f07040cd-3eeb-443c-b4fb-370f6a4a14da.png"
-        },
-        {
-          "id": "68269a8eb0cc91a6c87a682d",
-          "author": "Beau Carnes",
-          "description": "Learning a new language can open doors to new cultures, connections, and opportunities, and Spanish is one of the most widely spoken languages in the world. Whether you're dreaming of traveling to Spanish-speaking countries, connecting with Spanish-s...",
-          "link": "https://www.freecodecamp.org/news/learn-a1-level-spanish/",
-          "publishedOn": "2025-05-16T01:53:18.000Z",
-          "wordCount": 1172,
-          "title": "Learn A1 Level Spanish",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360364930/078ee25a-9943-44c8-bef0-85626aa97515.png"
         }
       ]
     }

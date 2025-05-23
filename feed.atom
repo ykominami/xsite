@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-22T00:15:45.575Z</id>
+    <id>urn:2025-05-23T00:15:23.821Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T00:15:45.575Z</updated>
+    <updated>2025-05-23T00:15:23.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Vue.js in This Beginner's Course]]></title>
+        <id>682f84537a13a40bfa336307</id>
+        <link href="https://www.freecodecamp.org/news/learn-vuejs-in-this-beginners-course/"/>
+        <updated>2025-05-22T20:08:51.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been meaning to add Vue.js to your front-end toolbelt, today’s your day. We just published a full, 6-hour Vue 3 course on the freeCodeCamp.org YouTube channel. Instructor Bhrugen Patel walks you through everything you need to build modern, ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your FastAPI + PostgreSQL App on Render: A Beginner's Guide]]></title>
+        <id>682f4900bcc94cb9bccbf905</id>
+        <link href="https://www.freecodecamp.org/news/deploy-fastapi-postgresql-app-on-render/"/>
+        <updated>2025-05-22T15:55:44.000Z</updated>
+        <summary type="html"><![CDATA[This guide is a comprehensive roadmap for deploying a FastAPI backend connected to a PostgreSQL database using Render, a cloud platform that supports hosting Python web apps and managed PostgreSQL databases.   You can find the complete source code he...]]></summary>
+        <author>
+            <name>Preston Osoro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to Elixir]]></title>
+        <id>682f44e3dcb21c615cf1a12d</id>
+        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/"/>
+        <updated>2025-05-22T15:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Elixir is a dynamic, functional programming language designed for building scalable and maintainable applications. It leverages the battle-tested Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is based on an...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can style alt text like any other text]]></title>
+        <id>https://css-tricks.com/?p=386724</id>
+        <link href="https://css-tricks.com/you-can-style-alt-text-like-any-other-text/"/>
+        <updated>2025-05-22T14:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.
+You can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Database Management Systems]]></title>
         <id>682e3c04117e792e5f46edc3</id>
@@ -26,9 +67,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will “Vibe Coders” Take Our Dev Jobs?]]></title>
+        <title type="html"><![CDATA[Why Vibe Coding Won't Destroy Software Engineering]]></title>
         <id>682df55da72360814bcae9ef</id>
-        <link href="https://www.freecodecamp.org/news/will-vibe-coders-take-our-dev-jobs/"/>
+        <link href="https://www.freecodecamp.org/news/why-vibe-coding-wont-destroy-software-engineering/"/>
         <updated>2025-05-21T15:46:37.000Z</updated>
         <summary type="html"><![CDATA[AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...]]></summary>
         <author>
@@ -118,16 +159,6 @@ A Reader’s Question on Nested Lists originally published on CSS-Tricks, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write Math Equations in Google Docs]]></title>
-        <id>68275cf15ed8a1db0cf8769b</id>
-        <link href="https://www.freecodecamp.org/news/write-math-equations-in-google-docs/"/>
-        <updated>2025-05-16T15:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Math equations are a critical part of academic papers, research reports, and technical documentation. While LaTeX is widely used for professional typesetting, Google Docs offers a robust set of features for inserting and formatting math equations and...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTML Email Accessibility Report 2025]]></title>
         <id>https://css-tricks.com/?p=386631</id>
         <link href="https://css-tricks.com/html-email-accessibility-report-2025/"/>
@@ -139,16 +170,6 @@ HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to make Developer Friends When You Don't Live in Silicon Valley, with Iraqi Engineer Code;Life [Podcast #172]]]></title>
-        <id>68271ae2c90fa4a071c44a2b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/"/>
-        <updated>2025-05-16T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.   For those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A Practical UX Strategy Framework]]></title>
         <id>https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/</id>
         <link href="https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/"/>
@@ -156,16 +177,6 @@ HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Learn how to create and implement a UX strategy framework that shapes work and drives real business value.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn A1 Level Spanish]]></title>
-        <id>68269a8eb0cc91a6c87a682d</id>
-        <link href="https://www.freecodecamp.org/news/learn-a1-level-spanish/"/>
-        <updated>2025-05-16T01:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Learning a new language can open doors to new cultures, connections, and opportunities, and Spanish is one of the most widely spoken languages in the world. Whether you're dreaming of traveling to Spanish-speaking countries, connecting with Spanish-s...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -400,17 +411,6 @@ Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anchor Positioning Just Don’t Care About Source Order]]></title>
-        <id>https://css-tricks.com/?p=385394</id>
-        <link href="https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/"/>
-        <updated>2025-04-28T12:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. 
-Anchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio]]></title>
         <id>https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/</id>
         <link href="https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/"/>
@@ -428,16 +428,6 @@ Anchor Positioning Just Don’t Care About Source Order originally published on 
         <summary type="html"><![CDATA[While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marina Chernyshova)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building An Offline-Friendly Image Upload System]]></title>
-        <id>https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/</id>
-        <link href="https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/"/>
-        <updated>2025-04-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
         </author>
     </entry>
 </feed>
