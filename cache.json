@@ -17,7 +17,7 @@
           "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
           "publishedOn": "2025-06-03T14:39:04.000Z",
-          "wordCount": 2941,
+          "wordCount": 2980,
           "title": "Getting Creative With HTML Dialog",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
         },
@@ -47,7 +47,7 @@
           "description": "This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.\nBetter CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/",
           "publishedOn": "2025-05-23T13:02:32.000Z",
-          "wordCount": 4319,
+          "wordCount": 4351,
           "title": "Better CSS Shapes Using shape() — Part 1: Lines and Arcs",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
         },
@@ -155,16 +155,6 @@
           "wordCount": 1849,
           "title": "GSAP is Now Completely Free, Even for Commercial Use!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385733",
-          "author": "Kevin Hamer",
-          "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/",
-          "publishedOn": "2025-05-05T13:01:43.000Z",
-          "wordCount": 2277,
-          "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
         }
       ]
     },
@@ -174,19 +164,19 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "author": "hello@smashingmagazine.com (Nikita Samutin)",
-          "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
-          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 4954,
-          "title": "Why Designers Get Stuck In The Details And How To Stop",
+          "id": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
+          "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
+          "publishedOn": "2025-06-04T08:00:00.000Z",
+          "wordCount": 4565,
+          "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
+            "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg"
         },
         {
           "id": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
@@ -209,7 +199,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5208,
+          "wordCount": 5211,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -224,7 +214,7 @@
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
           "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5717,
+          "wordCount": 5723,
           "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
@@ -254,7 +244,7 @@
           "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
           "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
           "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5692,
+          "wordCount": 5700,
           "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
@@ -269,7 +259,7 @@
           "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
           "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5461,
+          "wordCount": 5462,
           "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
@@ -299,7 +289,7 @@
           "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
           "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
           "publishedOn": "2025-05-16T11:00:00.000Z",
-          "wordCount": 4415,
+          "wordCount": 4421,
           "title": "Building A Practical UX Strategy Framework",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
@@ -329,7 +319,7 @@
           "description": "What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
           "publishedOn": "2025-05-14T13:00:00.000Z",
-          "wordCount": 5635,
+          "wordCount": 5644,
           "title": "Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg",
@@ -344,7 +334,7 @@
           "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
           "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
           "publishedOn": "2025-05-12T10:00:00.000Z",
-          "wordCount": 5678,
+          "wordCount": 5684,
           "title": "Integrating Localization Into Design Systems",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
@@ -374,7 +364,7 @@
           "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
           "publishedOn": "2025-05-07T08:00:00.000Z",
-          "wordCount": 5511,
+          "wordCount": 5509,
           "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
@@ -389,7 +379,7 @@
           "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
           "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4926,
+          "wordCount": 4929,
           "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
@@ -405,6 +395,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68408c368ab45ab43dad48c6",
+          "author": "Beau Carnes",
+          "description": "Making games is one of the best ways to learn programming. It pushes you to think logically, stay organized, and solve real problems. Plus, it’s just fun. If you're looking to improve your C programming skills and learn how to create a complete game ...",
+          "link": "https://www.freecodecamp.org/news/c-game-development-with-raylib/",
+          "publishedOn": "2025-06-04T18:11:02.000Z",
+          "wordCount": 1296,
+          "title": "C Game Development with Raylib",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749060645649/662c81ad-c0c8-4456-83dc-935a4b6d4cf9.png"
+        },
+        {
+          "id": "68402e7af9ce257b34574bed",
+          "author": "Estefania Cassingena Navone",
+          "description": "Godot is an open-source, lightweight, and powerful game engine. This course will teach you how to use it to bring your game ideas to life. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide you step by step thr...",
+          "link": "https://www.freecodecamp.org/news/learn-godot-course-for-beginners-in-spanish/",
+          "publishedOn": "2025-06-04T11:31:06.000Z",
+          "wordCount": 1331,
+          "title": "Learn Godot – Course for Beginners in Spanish",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748954260255/3d544e9f-2191-409a-b52e-bcf24ceab5a6.png"
+        },
+        {
+          "id": "683f922e111e5ab9c8a4e188",
+          "author": "Beau Carnes",
+          "description": "Learning general chemistry is one of the most important steps you can take if you're planning to study science in any serious way. Chemistry is foundational. It connects to biology, physics, environmental science, engineering, medicine, and so much m...",
+          "link": "https://www.freecodecamp.org/news/general-chemistry-college-course/",
+          "publishedOn": "2025-06-04T00:24:14.000Z",
+          "wordCount": 1328,
+          "title": "General Chemistry College Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748996622370/4f362422-95a2-4dfc-afa9-23325e24dcbc.png"
+        },
         {
           "id": "683f04aedfb685791a4e8dd2",
           "author": "Balajee Asish Brahmandam",
@@ -474,36 +494,6 @@
           "wordCount": 3661,
           "title": "How Microfrontends Work: From iframes to Module Federation",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748613557891/39037981-d514-4f26-8a48-be0cdd9ca29b.png"
-        },
-        {
-          "id": "6839c439ebab1f7974eac355",
-          "author": "Chidiadi Anyanwu",
-          "description": "I have written articles on different platforms including LinkedIn, The Network Bits (Substack), and freeCodeCamp. So I wanted to bring all of these articles together in a single place where someone could go and see all my work. A blog sounded like a ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-portfolio-blog-with-nextjs/",
-          "publishedOn": "2025-05-30T14:44:09.000Z",
-          "wordCount": 6373,
-          "title": "How To Build A Simple Portfolio Blog With Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235586248/7424bce0-24da-4f70-a5aa-31249d799094.png"
-        },
-        {
-          "id": "6839b592f8650e337982bcba",
-          "author": "Brandon Wozniewicz",
-          "description": "Recently, I was working on a PowerApps Component Framework (PCF) project that required sorting an array of objects by date. The dates were in ISO 8601 format but without a time zone – for example, \"2025-05-01T15:00:00.00\". Without much thought, I wro...",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-dates-efficiently-in-javascript/",
-          "publishedOn": "2025-05-30T13:41:38.000Z",
-          "wordCount": 1804,
-          "title": "How to Sort Dates Efficiently in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748612402734/7124a95d-0a33-4ab6-93d2-d94fc354ae12.png"
-        },
-        {
-          "id": "6839abf3d23bb1460e9ea0ea",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Attardi. He's a software engineer and prolific author of programming books. We talk about: How software development has changed over the past 21 years Tips for s...",
-          "link": "https://www.freecodecamp.org/news/how-to-survive-in-tech-when-everythings-changing-w-21-year-veteran-dev-joe-attardi-podcast-174/",
-          "publishedOn": "2025-05-30T13:00:35.000Z",
-          "wordCount": 1019,
-          "title": "How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748483423794/0848ad8d-1381-474f-94ea-a196ad4723a4.png"
         }
       ]
     }
