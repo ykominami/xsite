@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-11T00:16:14.868Z</id>
+    <id>urn:2025-06-12T00:15:59.901Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T00:16:14.868Z</updated>
+    <updated>2025-06-12T00:15:59.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Attackers Steal Data from Websites (And How to Stop Them)]]></title>
+        <id>6849e4d1a3aec42347669919</id>
+        <link href="https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/"/>
+        <updated>2025-06-11T20:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Across platforms, behind every app, and on your own website, hackers may patiently wait.  These days, everyone should have identity theft protections, and be informed about data threats lurking in the trenches of the world-wide-web’s war on privacy a...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS]]></title>
+        <id>https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/</id>
+        <link href="https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/"/>
+        <updated>2025-06-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Blake Lundquist)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Information About Your Linux System Through the Command Line]]></title>
+        <id>68495738cb7b75f7a33a73c4</id>
+        <link href="https://www.freecodecamp.org/news/get-linux-system-info-through-cli/"/>
+        <updated>2025-06-11T10:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’ve just gained access to a new Linux system, ethically hacked into one as part of a security test, or you’re just curious to know more about your current machine, this article will guide you through the process. You’ll learn how you can g...]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Apple Code Signing Handbook]]></title>
         <id>68489084490c709f6b3070ed</id>
@@ -16,7 +46,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Deploy To Vercel With GitHub Actions]]></title>
+        <title type="html"><![CDATA[How To Deploy a Next.js App To Vercel With GitHub Actions]]></title>
         <id>684871b16bc1898625c952fd</id>
         <link href="https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/"/>
         <updated>2025-06-10T17:56:01.000Z</updated>
@@ -119,16 +149,6 @@ Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo]]></title>
-        <id>6841f1319c94d5fa67dae6e3</id>
-        <link href="https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/"/>
-        <updated>2025-06-05T19:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to go beyond ‘hello world’ and build a real, production-style CI/CD pipeline – starting from scratch? Let’s pause for a moment: what are you trying to learn from your DevOps journey? Are you focusing on GitOps-style deployments, ...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exploring the CSS contrast-color() Function… a Second Time]]></title>
         <id>https://css-tricks.com/?p=386829</id>
         <link href="https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/"/>
@@ -158,16 +178,6 @@ The State of CSS 2025 Survey is out! originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C Game Development with Raylib]]></title>
-        <id>68408c368ab45ab43dad48c6</id>
-        <link href="https://www.freecodecamp.org/news/c-game-development-with-raylib/"/>
-        <updated>2025-06-04T18:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Making games is one of the best ways to learn programming. It pushes you to think logically, stay organized, and solve real problems. Plus, it’s just fun. If you're looking to improve your C programming skills and learn how to create a complete game ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -398,17 +408,6 @@ This Isn’t Supposed to Happen: Troubleshooting the Impossible originally publ
         <summary type="html"><![CDATA[What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Pages CMS for Static Site Content Management]]></title>
-        <id>https://css-tricks.com/?p=386522</id>
-        <link href="https://css-tricks.com/using-pages-cms-for-static-site-content-management/"/>
-        <updated>2025-05-12T12:42:10.000Z</updated>
-        <summary type="html"><![CDATA[I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.
-Using Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
