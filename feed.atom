@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-12T00:15:59.901Z</id>
+    <id>urn:2025-06-13T00:15:57.930Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T00:15:59.901Z</updated>
+    <updated>2025-06-13T00:15:57.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn MLOps by Creating a YouTube Sentiment Analyzer]]></title>
+        <id>684b07b568649c5d5e8565b2</id>
+        <link href="https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/"/>
+        <updated>2025-06-12T17:00:37.000Z</updated>
+        <summary type="html"><![CDATA[If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Boundaries: Building a Tangram Puzzle With (S)CSS]]></title>
+        <id>https://css-tricks.com/?p=386648</id>
+        <link href="https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/"/>
+        <updated>2025-06-12T13:58:38.000Z</updated>
+        <summary type="html"><![CDATA[We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.
+Breaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sladjana Stojanovic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Attackers Steal Data from Websites (And How to Stop Them)]]></title>
         <id>6849e4d1a3aec42347669919</id>
@@ -136,16 +157,6 @@ Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-T
         <summary type="html"><![CDATA[Over the years, in my role as a lead full-stack developer, solutions architect, and mentor, I’ve been immersed in the world of micro frontend architecture, working across different large-scale frontend projects where multiple teams, stacks, and deplo...]]></summary>
         <author>
             <name>Andrew Maksimchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenFeign vs WebClient: How to Choose a REST Client for Your Spring Boot Project]]></title>
-        <id>6841f2c63a801418642db429</id>
-        <link href="https://www.freecodecamp.org/news/best-choice-openfeign-or-webclient/"/>
-        <updated>2025-06-05T19:40:54.000Z</updated>
-        <summary type="html"><![CDATA[When building microservices with Spring Boot, you’ll have to decide how the services will communicate with one another. The basic choices in terms of protocols are Messaging and REST. In this article we’ll discuss tools based on REST, which is a comm...]]></summary>
-        <author>
-            <name>Mario Casari</name>
         </author>
     </entry>
     <entry>
