@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-13T00:15:57.930Z</id>
+    <id>urn:2025-06-14T00:15:25.174Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T00:15:57.930Z</updated>
+    <updated>2025-06-14T00:15:25.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Learn MLOps by Creating a YouTube Sentiment Analyzer]]></title>
-        <id>684b07b568649c5d5e8565b2</id>
-        <link href="https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/"/>
-        <updated>2025-06-12T17:00:37.000Z</updated>
-        <summary type="html"><![CDATA[If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...]]></summary>
+        <title type="html"><![CDATA[The NestJS Handbook – Learn to Use Nest with Code Examples]]></title>
+        <id>684c867db87f779c97f2e509</id>
+        <link href="https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/"/>
+        <updated>2025-06-13T20:13:49.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. Combining the best ideas from OOP (Object-Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)...]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Medical Chatbot with Flutter and Gemini: A Beginner’s Guide]]></title>
+        <id>684c61db3b494a20ba49fddb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-medical-chatbot-with-flutter-and-gemini/"/>
+        <updated>2025-06-13T17:37:31.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital age, the demand for accessible and accurate health information is higher than ever. Leveraging the power of artificial intelligence, we can create intelligent chatbots that provide reliable health-related guidance. This beginner's ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Vue Composables Work – Explained with Code Examples]]></title>
+        <id>684c58453ee20021234073af</id>
+        <link href="https://www.freecodecamp.org/news/how-vue-composables-work/"/>
+        <updated>2025-06-13T16:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Vue composables are a very helpful tool when developing Vue applications. They give developers an easy way to reuse logic across our applications. In addition to allowing for “stateless” logic (things like formatting or routine calculations), composa...]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your Phone’s Privacy]]></title>
+        <id>684c50b9c6ec6bf605276b54</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/"/>
+        <updated>2025-06-13T16:24:25.000Z</updated>
+        <summary type="html"><![CDATA[We use our phones for everything  –  texting, banking, browsing, tracking our health, even unlocking our homes. But with all that convenience comes a lot of risk. Apps are hungry for your data. Hackers are always looking for cracks in your security. ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -127,36 +157,6 @@ Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-T
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your Remote Workforce from Cyber Attacks]]></title>
-        <id>6842cf8a6fcd9b03c19d04ea</id>
-        <link href="https://www.freecodecamp.org/news/protect-remote-workforce-from-cyber-attacks/"/>
-        <updated>2025-06-06T11:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Working remotely gives your team flexibility, but it also opens the door to cyber threats. Remote workers are more exposed without the protection of office firewalls and on-site IT teams.  Hackers know that people often use weak passwords, forget to ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce Technical Debt in the Power Platform]]></title>
-        <id>6842c4f3e7fdc9878ba5dadd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reduce-technical-debt-in-the-power-platform/"/>
-        <updated>2025-06-06T10:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Technical debt refers to the future cost – measured in terms of time, money, effort, or opportunity – of choosing expedient solutions today instead of more deliberate and scalable ones. And it's not just a pro-code concept. It might be easier to unde...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Micro-Frontend Architecture Handbook]]></title>
-        <id>6842c120a3469a9ca728862b</id>
-        <link href="https://www.freecodecamp.org/news/complete-micro-frontends-guide/"/>
-        <updated>2025-06-06T10:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Over the years, in my role as a lead full-stack developer, solutions architect, and mentor, I’ve been immersed in the world of micro frontend architecture, working across different large-scale frontend projects where multiple teams, stacks, and deplo...]]></summary>
-        <author>
-            <name>Andrew Maksimchenko</name>
         </author>
     </entry>
     <entry>
@@ -388,37 +388,6 @@ HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which i
 Scroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fewer Ideas: An Unconventional Approach To Creativity]]></title>
-        <id>https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/</id>
-        <link href="https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/"/>
-        <updated>2025-05-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Olive)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Isn’t Supposed to Happen: Troubleshooting the Impossible]]></title>
-        <id>https://css-tricks.com/?p=386415</id>
-        <link href="https://css-tricks.com/this-isnt-supposed-to-happen-troubleshooting-the-impossible/"/>
-        <updated>2025-05-14T14:01:42.000Z</updated>
-        <summary type="html"><![CDATA[What it looks like to troubleshoot one of those impossible issues that turns out to be something totally else you never thought of.
-This Isn’t Supposed to Happen: Troubleshooting the Impossible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 2: How CSS Masking Can Add An Extra Dimension]]></title>
-        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/</id>
-        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/"/>
-        <updated>2025-05-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
