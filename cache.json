@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386338",
+          "author": "Zell Liew",
+          "description": "ResizeObserver, MutationObserver, and IntersectionObserver enhance performance over their predecessors. Zell discusses their API similarities, usage steps, refactoring strategies, and advantages with practical examples.\nA Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-better-api-for-the-resize-observer/",
+          "publishedOn": "2025-06-16T12:47:51.000Z",
+          "wordCount": 3141,
+          "title": "A Better API for the Resize Observer",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-resize-observer.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386648",
           "author": "Sladjana Stojanovic",
           "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
           "publishedOn": "2025-06-12T13:58:38.000Z",
-          "wordCount": 4912,
+          "wordCount": 4945,
           "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
         },
@@ -37,7 +47,7 @@
           "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
           "publishedOn": "2025-06-06T13:52:42.000Z",
-          "wordCount": 3958,
+          "wordCount": 3968,
           "title": "Better CSS Shapes Using shape() — Part 3: Curves",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
         },
@@ -139,12 +149,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
+          "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
+          "publishedOn": "2025-06-16T13:00:00.000Z",
+          "wordCount": 9493,
+          "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "author": "hello@smashingmagazine.com (Blake Lundquist)",
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4296,
+          "wordCount": 4295,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -159,7 +184,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4854,
+          "wordCount": 4859,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -174,7 +199,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4717,
+          "wordCount": 4721,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -189,7 +214,7 @@
           "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
           "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4545,
+          "wordCount": 4549,
           "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
@@ -204,7 +229,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 4941,
+          "wordCount": 4937,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -234,7 +259,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5206,
+          "wordCount": 5200,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -249,7 +274,7 @@
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
           "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5697,
+          "wordCount": 5705,
           "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
@@ -279,7 +304,7 @@
           "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
           "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
           "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5684,
+          "wordCount": 5689,
           "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
@@ -294,7 +319,7 @@
           "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
           "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5447,
+          "wordCount": 5444,
           "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
@@ -325,6 +350,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685052f79796239b8044baeb",
+          "author": "Mark Mahoney",
+          "description": "Python is a high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python is known for its design philosophy that emphasizes code readability, notably using significant indentation. It supports multi...",
+          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-programming-with-python/",
+          "publishedOn": "2025-06-16T17:23:03.000Z",
+          "wordCount": 1516,
+          "title": "An Animated Introduction to Programming with Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750082209046/ed07548b-e859-47a0-8372-6e9b04cb51bc.png"
+        },
+        {
+          "id": "685049cc71faf4a81f93b409",
+          "author": "Naomi Carrigan",
+          "description": "Hey friends! The freeCodeCamp team is still very hard at work on the rest of the content for our full stack curriculum. It’s only been a few months, but there are many campers who have been going full force at this new content. And I am excited to sh...",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-full-stack-curriculum-mid-2025-update/",
+          "publishedOn": "2025-06-16T16:43:56.000Z",
+          "wordCount": 1236,
+          "title": "freeCodeCamp Full Stack Curriculum Mid-2025 Update",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750092183369/0e6a0781-0913-4c28-9289-9af3831ebc67.png"
+        },
         {
           "id": "684dd5eb387267af7a264b7a",
           "author": "Beau Carnes",
@@ -404,26 +449,6 @@
           "wordCount": 7079,
           "title": "The Apple Code Signing Handbook",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749585600223/49e9c922-0b5d-4a98-a619-eedfd7a8b617.png"
-        },
-        {
-          "id": "684871b16bc1898625c952fd",
-          "author": "Chidiadi Anyanwu",
-          "description": "Vercel is a cloud platform or Platform-as-a-Service (PaaS) designed to help frontend developers create, preview, and deploy web applications swiftly and efficiently. In this tutorial, we’ll focus on deploying a Next.js application to Vercel using Git...",
-          "link": "https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/",
-          "publishedOn": "2025-06-10T17:56:01.000Z",
-          "wordCount": 1777,
-          "title": "How To Deploy a Next.js App To Vercel With GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749577622920/8e35a6c1-3f4f-49a3-a4fe-dba80e24eec3.png"
-        },
-        {
-          "id": "68483a699e226a329abe4dee",
-          "author": "Beau Carnes",
-          "description": "If you’ve been meaning to learn full-stack web development but don’t know where to start, this new course is a solid way in. Whether you're aiming to get a job in web dev or just want to build your own projects, understanding how the pieces fit toget...",
-          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/",
-          "publishedOn": "2025-06-10T14:00:09.000Z",
-          "wordCount": 1243,
-          "title": "Learn the MERN Stack in 2025",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749234841421/0d452535-e019-4a1b-800a-1912cc16254a.png"
         }
       ]
     }
