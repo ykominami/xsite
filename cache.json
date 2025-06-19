@@ -17,7 +17,7 @@
           "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
           "publishedOn": "2025-06-17T13:13:15.000Z",
-          "wordCount": 3010,
+          "wordCount": 3011,
           "title": "How to Keep Up With New CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
         },
@@ -140,16 +140,6 @@
           "wordCount": 2316,
           "title": "SVG to CSS Shape Converter",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386580",
-          "author": "Juan Diego Rodríguez",
-          "description": "Answering a reader's question about how to create a complex numbering system with CSS list counters.\nA Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-readers-question-on-nested-lists/",
-          "publishedOn": "2025-05-19T12:32:22.000Z",
-          "wordCount": 3138,
-          "title": "A Reader’s Question on Nested Lists",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/html-lists.jpg"
         }
       ]
     },
@@ -159,12 +149,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.",
+          "link": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
+          "publishedOn": "2025-06-18T16:00:00.000Z",
+          "wordCount": 3972,
+          "title": "Meet Accessible UX Research, A Brand-New Smashing Book",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9500,
+          "wordCount": 9494,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -179,7 +184,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4283,
+          "wordCount": 4294,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -194,7 +199,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4860,
+          "wordCount": 4859,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -224,7 +229,7 @@
           "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
           "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4548,
+          "wordCount": 4549,
           "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
@@ -239,7 +244,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 4944,
+          "wordCount": 4934,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -269,7 +274,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5308,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -284,7 +289,7 @@
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
           "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5700,
+          "wordCount": 5703,
           "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
@@ -314,7 +319,7 @@
           "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
           "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
           "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5692,
+          "wordCount": 5684,
           "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
@@ -329,7 +334,7 @@
           "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
           "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5447,
+          "wordCount": 5453,
           "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
@@ -346,6 +351,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6853059aed5a0659bcde37e5",
+          "author": "valentine Gatwiri",
+          "description": "When I was beginning to learn about networks, I didn't know how many things in my daily life depended on them – from texting on WhatsApp to watching YouTube. I still vividly remember when I learned that computers communicate with one another. It was ...",
+          "link": "https://www.freecodecamp.org/news/the-data-communication-and-networking-handbook/",
+          "publishedOn": "2025-06-18T18:29:46.000Z",
+          "wordCount": 13722,
+          "title": "The Data Communication and Networking Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750178451091/adea6449-2daf-405b-80f0-e23a356fa45b.png"
+        },
+        {
           "id": "6851d017416010d301ffa732",
           "author": "Timothy Olanrewaju",
           "description": "Modern chat applications are increasingly incorporating voice input capabilities because they offer a more engaging and versatile user experience. This also improves accessibility, allowing users with different needs to interact more comfortably with...",
@@ -361,7 +376,7 @@
           "description": "In an age of information overload, AI assistance, and rapid technological change, the ability to think clearly and reason soundly has never been more valuable. This handbook takes you on a journey from fundamental logical principles to their practica...",
           "link": "https://www.freecodecamp.org/news/the-logic-philosophy-and-science-of-software-testing-handbook-for-developers/",
           "publishedOn": "2025-06-17T18:43:38.000Z",
-          "wordCount": 15671,
+          "wordCount": 15673,
           "title": "The Logic, Philosophy, and Science of Software Testing – A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750176539544/965a99ef-8aad-467c-ae6b-4a144e2d1117.png"
         },
@@ -434,16 +449,6 @@
           "wordCount": 1195,
           "title": "Learn React in your Browser – freeCodeCamp Full Stack Curriculum Mid-2025 Update",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750092183369/0e6a0781-0913-4c28-9289-9af3831ebc67.png"
-        },
-        {
-          "id": "684dd5eb387267af7a264b7a",
-          "author": "Beau Carnes",
-          "description": "If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...",
-          "link": "https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/",
-          "publishedOn": "2025-06-14T20:04:59.000Z",
-          "wordCount": 1342,
-          "title": "Learn MLOps by Creating a YouTube Sentiment Analyzer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749822376754/96a5ebfc-e64d-4541-9fc7-b17bcc43db5a.png"
         }
       ]
     }
