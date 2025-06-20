@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386735",
+          "author": "Sunkanmi Fafowora",
+          "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-color-functions/",
+          "publishedOn": "2025-06-19T15:01:18.000Z",
+          "wordCount": 6720,
+          "title": "CSS Color Functions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387159",
           "author": "Sacha Greif",
           "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -37,7 +47,7 @@
           "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
           "publishedOn": "2025-06-12T13:58:38.000Z",
-          "wordCount": 4959,
+          "wordCount": 4983,
           "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
         },
@@ -149,6 +159,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
+          "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
+          "publishedOn": "2025-06-19T15:00:00.000Z",
+          "wordCount": 5130,
+          "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.",
@@ -169,7 +194,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9494,
+          "wordCount": 9598,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -184,7 +209,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4294,
+          "wordCount": 4292,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -199,7 +224,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4859,
+          "wordCount": 4860,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -214,7 +239,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4711,
+          "wordCount": 4715,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -229,7 +254,7 @@
           "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
           "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4549,
+          "wordCount": 4548,
           "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
@@ -244,7 +269,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 4934,
+          "wordCount": 4937,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -274,7 +299,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5308,
+          "wordCount": 5194,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -319,7 +344,7 @@
           "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
           "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
           "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5684,
+          "wordCount": 5700,
           "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
@@ -327,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
-          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
-          "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5453,
-          "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg"
         }
       ]
     },
@@ -350,6 +360,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68542e3585d4833f32068976",
+          "author": "Tooba Jamal",
+          "description": "Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-documentation-that-increases-sign-ups/",
+          "publishedOn": "2025-06-19T15:35:17.000Z",
+          "wordCount": 2923,
+          "title": "How to Write Documentation That Increases Sign-ups",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750347297168/f873d57d-22e5-4cbb-bda9-ca24861db09d.png"
+        },
+        {
+          "id": "68542db2cefef90e768ba1fe",
+          "author": "AYUSH MISHRA",
+          "description": "In programming, being able to find the area of a triangle is useful for many reasons. It can help you understand logic-building and syntax, and it’s a common programming problem used in school assignments. There are also many real-world applications,...",
+          "link": "https://www.freecodecamp.org/news/use-php-to-calculate-the-area-of-a-triangle/",
+          "publishedOn": "2025-06-19T15:33:06.000Z",
+          "wordCount": 2909,
+          "title": "How to Write a PHP Script to Calculate the Area of a Triangle",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750346934679/2e46bebb-9614-4f1a-afb5-9bbe27906b4e.png"
+        },
+        {
+          "id": "6854097709e731dc6aff4cab",
+          "author": "Beau Carnes",
+          "description": "Have you ever dreamed of ordering a coffee in a Berlin café, navigating the Munich U-Bahn with ease, or simply connecting with German-speaking friends and family? Now you can take the first step towards that dream with a comprehensive and completely ...",
+          "link": "https://www.freecodecamp.org/news/learn-to-speak-german/",
+          "publishedOn": "2025-06-19T12:58:31.000Z",
+          "wordCount": 1301,
+          "title": "Learn to Speak German",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750305209280/16ff839e-e5cf-4281-9a0d-825a96955dcf.png"
+        },
+        {
+          "id": "685338f9c57f030c11bb6ddb",
+          "author": "Montasser Mossallem",
+          "description": "PHP loops help you repeat a block of code based on a condition. You can use them to work through arrays or repeat actions. You can also use them to skip steps based on logic. In this article, you will learn how PHP loops work and when to use each",
+          "link": "https://www.freecodecamp.org/news/how-loops-work-in-php-beginners-guide/",
+          "publishedOn": "2025-06-18T22:08:57.000Z",
+          "wordCount": 3356,
+          "title": "How Loops Work in PHP: A Complete Guide for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750178963918/bf8c63b9-9624-4cb0-bd31-10ffbdbe67f6.jpeg"
+        },
         {
           "id": "6853059aed5a0659bcde37e5",
           "author": "valentine Gatwiri",
@@ -383,10 +433,10 @@
         {
           "id": "685162a7b5948514b5ab9308",
           "author": "Beau Carnes",
-          "description": "Are you ready to transform your career and become a data-driven decision maker? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Data Analytics course on our YouTube channel. The course was developed by ...",
+          "description": "If you want to transform your career and become a data-driven decision maker, this course is for you. freeCodeCamp.org just published a comprehensive Google Cloud Data Analytics course on our YouTube channel. The course was developed by Google Cloud ...",
           "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-data-analytics/",
           "publishedOn": "2025-06-17T12:42:15.000Z",
-          "wordCount": 1494,
+          "wordCount": 1469,
           "title": "Beginner’s Guide to Cloud Data Analytics",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749071398844/dd78731e-80d1-4835-bc2b-cbec1ba9a9d3.png"
         },
@@ -409,46 +459,6 @@
           "wordCount": 2741,
           "title": "How to Configure Network Interfaces in Linux",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750110739161/ebf2347c-ac63-4fab-ad2f-5d9229e77eaa.png"
-        },
-        {
-          "id": "6850919d88713cbf971283b0",
-          "author": "Yazdun",
-          "description": "A queue is a collection of items arranged in a First-In-First-Out (FIFO) order. This means that the first item added is the first to be removed, much like a supermarket line where customers are served in the order they arrive. In this hands-on tutor...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-queues-in-typescript/",
-          "publishedOn": "2025-06-16T21:50:21.000Z",
-          "wordCount": 6097,
-          "title": "How to Work with Queues in TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750082265731/de8b778c-935d-4a38-a5ef-748896475327.png"
-        },
-        {
-          "id": "6850913c10d2d4fd5525e0d6",
-          "author": "deji adesoga",
-          "description": "Chat applications let you talk in real-time with your friends, family, or coworkers, and help you quickly, effectively, and efficiently transfer of information. When you’re building modern web applications, chat applications are now pretty much a req...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chat-app-with-angular-20-and-supabase/",
-          "publishedOn": "2025-06-16T21:48:44.000Z",
-          "wordCount": 7945,
-          "title": "How to Build a Realtime Chat Application with Angular 20 and Supabase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750094888966/7ac31fee-bd4d-4353-b8cb-911ac60b4516.png"
-        },
-        {
-          "id": "685052f79796239b8044baeb",
-          "author": "Mark Mahoney",
-          "description": "Python is a high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python is known for its design philosophy that emphasizes code readability, notably using significant indentation. It supports multi...",
-          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-programming-with-python/",
-          "publishedOn": "2025-06-16T17:23:03.000Z",
-          "wordCount": 1516,
-          "title": "An Animated Introduction to Programming with Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750082209046/ed07548b-e859-47a0-8372-6e9b04cb51bc.png"
-        },
-        {
-          "id": "685049cc71faf4a81f93b409",
-          "author": "Naomi Carrigan",
-          "description": "Hey campers! The freeCodeCamp community is still very hard at work on the rest of the coursework for our full stack curriculum. It’s only been a few months, but already there are many campers going full-force through these new lessons and programming...",
-          "link": "https://www.freecodecamp.org/news/learn-react-in-your-browser-freecodecamp-full-stack-curriculum-mid-2025-update/",
-          "publishedOn": "2025-06-16T16:43:56.000Z",
-          "wordCount": 1195,
-          "title": "Learn React in your Browser – freeCodeCamp Full Stack Curriculum Mid-2025 Update",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750092183369/0e6a0781-0913-4c28-9289-9af3831ebc67.png"
         }
       ]
     }
