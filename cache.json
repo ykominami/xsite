@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386925",
+          "author": "Juan Diego Rodríguez",
+          "description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.\nColor Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/color-everything-in-css/",
+          "publishedOn": "2025-06-20T14:04:12.000Z",
+          "wordCount": 3882,
+          "title": "Color Everything in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386735",
           "author": "Sunkanmi Fafowora",
           "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-color-functions/",
           "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6720,
+          "wordCount": 6721,
           "title": "CSS Color Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
         },
@@ -27,7 +37,7 @@
           "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
           "publishedOn": "2025-06-17T13:13:15.000Z",
-          "wordCount": 3011,
+          "wordCount": 3239,
           "title": "How to Keep Up With New CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
         },
@@ -140,16 +150,6 @@
           "wordCount": 2320,
           "title": "You can style alt text like any other text",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/puzzle-pieces-scatter.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386716",
-          "author": "Geoff Graham",
-          "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/svg-to-css-shape-converter/",
-          "publishedOn": "2025-05-21T15:09:29.000Z",
-          "wordCount": 2316,
-          "title": "SVG to CSS Shape Converter",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
         }
       ]
     },
@@ -159,26 +159,11 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
-          "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
-          "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5130,
-          "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg"
-        },
-        {
           "id": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.",
           "link": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
-          "publishedOn": "2025-06-18T16:00:00.000Z",
+          "publishedOn": "2025-06-20T16:00:00.000Z",
           "wordCount": 3972,
           "title": "Meet Accessible UX Research, A Brand-New Smashing Book",
           "enclosure": {
@@ -189,12 +174,27 @@
           "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png"
         },
         {
+          "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
+          "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
+          "publishedOn": "2025-06-19T15:00:00.000Z",
+          "wordCount": 5126,
+          "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9598,
+          "wordCount": 9500,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -209,7 +209,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4292,
+          "wordCount": null,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -224,7 +224,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4860,
+          "wordCount": 4856,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -239,7 +239,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4715,
+          "wordCount": 4714,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -254,7 +254,7 @@
           "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
           "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4548,
+          "wordCount": null,
           "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
@@ -299,7 +299,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5194,
+          "wordCount": 5195,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -314,7 +314,7 @@
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
           "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5703,
+          "wordCount": 5705,
           "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
@@ -344,7 +344,7 @@
           "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
           "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
           "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5700,
+          "wordCount": 5678,
           "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
@@ -361,6 +361,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "685595d957b6666dfb68743f",
+          "author": "Manish Shivanandhan",
+          "description": "If you run a website or web app, you’ve probably heard about firewalls. But there’s a special kind just for websites called a Web Application Firewall, or WAF.  Think of it like a bouncer at the door of your site, checking every visitor to make sure ...",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-a-web-application-firewall-for-web-security/",
+          "publishedOn": "2025-06-20T17:09:45.000Z",
+          "wordCount": 2047,
+          "title": "How to Choose a Web Application Firewall for Web Security",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439345651/1a6db323-b71f-4d0c-beb9-07833b838800.png"
+        },
+        {
+          "id": "685595022e5abc4d8aad787e",
+          "author": "Manish Shivanandhan",
+          "description": "Motion graphics are no longer just eye candy. They have become a key part of how users experience software, whether it’s a mobile app, a website, or even for making animated explainer videos.  When users tap a button, they expect it to respond smooth...",
+          "link": "https://www.freecodecamp.org/news/powerful-motion-graphics-frameworks-for-developers/",
+          "publishedOn": "2025-06-20T17:06:10.000Z",
+          "wordCount": 2196,
+          "title": "Powerful Motion Graphics Frameworks for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439122439/489ef402-89db-47b5-a392-4c0fdcd94d0a.png"
+        },
+        {
+          "id": "685594775aea0dba325c37e8",
+          "author": "Oluchi Nwenyi",
+          "description": "One of the most common questions I’m asked is, “how can I get started in technical writing?” And honestly, I love that question because it means more people are beginning to see writing as a valid, valuable way to enter the tech industry. Begin with ...",
+          "link": "https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/",
+          "publishedOn": "2025-06-20T17:03:51.000Z",
+          "wordCount": 3488,
+          "title": "How to Start a Career in Technical Writing by Contributing to Open Source",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439011343/ed2c5552-b132-4edd-8d31-5080daac5aff.png"
+        },
+        {
+          "id": "685594145aea0dba325c37e1",
+          "author": "Fatuma Abdullahi",
+          "description": "In this guide, you'll build a full server-side rendered (SSR) authentication system using Astro, Supabase, and Cloudflare Turnstile to protect against bots. By the end, you'll have a fully functional authentication system with Astro actions, magic li...",
+          "link": "https://www.freecodecamp.org/news/build-secure-ssr-authentication-with-supabase-astro-and-cloudflare-turnstile/",
+          "publishedOn": "2025-06-20T17:02:12.000Z",
+          "wordCount": 3432,
+          "title": "How to Build Secure SSR Authentication with Supabase, Astro, and Cloudflare Turnstile",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750438909287/d36c0c01-e779-4eea-aa41-b797fcbb05f6.png"
+        },
+        {
+          "id": "68557b4d4b011b57124c6b6b",
+          "author": "Brandon Wozniewicz",
+          "description": "Assigning Dataverse security roles manually works pretty well – until it doesn't. Whether you are onboarding 50 new hires or rolling out access to a new app, managing roles by hand can be tedious and error-prone. In this article, you will learn about...",
+          "link": "https://www.freecodecamp.org/news/how-to-assign-dataverse-security-roles-at-scale/",
+          "publishedOn": "2025-06-20T15:16:29.000Z",
+          "wordCount": 1685,
+          "title": "How to Assign Dataverse Security Roles at Scale",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750432574148/b3cfaebe-7566-4795-b00e-5da9d65dd8f4.png"
+        },
+        {
+          "id": "6854f905b987232838464cd7",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kelly Vaughn. She's a self-taught software engineer who ran her own developer agency. She was also the founding CTO at financial technology startup. Kelly runs the p...",
+          "link": "https://www.freecodecamp.org/news/from-therapist-to-six-figure-freelance-dev-podcast-176/",
+          "publishedOn": "2025-06-20T06:00:37.000Z",
+          "wordCount": 1048,
+          "title": "From Therapist to six figure freelance dev [Podcast #176]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750249813414/8cb0019f-db6d-48af-9d20-d0ea3a4040b5.png"
+        },
+        {
           "id": "68542e3585d4833f32068976",
           "author": "Tooba Jamal",
           "description": "Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...",
@@ -376,7 +436,7 @@
           "description": "In programming, being able to find the area of a triangle is useful for many reasons. It can help you understand logic-building and syntax, and it’s a common programming problem used in school assignments. There are also many real-world applications,...",
           "link": "https://www.freecodecamp.org/news/use-php-to-calculate-the-area-of-a-triangle/",
           "publishedOn": "2025-06-19T15:33:06.000Z",
-          "wordCount": 2909,
+          "wordCount": 2974,
           "title": "How to Write a PHP Script to Calculate the Area of a Triangle",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750346934679/2e46bebb-9614-4f1a-afb5-9bbe27906b4e.png"
         },
@@ -399,66 +459,6 @@
           "wordCount": 3356,
           "title": "How Loops Work in PHP: A Complete Guide for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750178963918/bf8c63b9-9624-4cb0-bd31-10ffbdbe67f6.jpeg"
-        },
-        {
-          "id": "6853059aed5a0659bcde37e5",
-          "author": "valentine Gatwiri",
-          "description": "When I was beginning to learn about networks, I didn't know how many things in my daily life depended on them – from texting on WhatsApp to watching YouTube. I still vividly remember when I learned that computers communicate with one another. It was ...",
-          "link": "https://www.freecodecamp.org/news/the-data-communication-and-networking-handbook/",
-          "publishedOn": "2025-06-18T18:29:46.000Z",
-          "wordCount": 13722,
-          "title": "The Data Communication and Networking Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750178451091/adea6449-2daf-405b-80f0-e23a356fa45b.png"
-        },
-        {
-          "id": "6851d017416010d301ffa732",
-          "author": "Timothy Olanrewaju",
-          "description": "Modern chat applications are increasingly incorporating voice input capabilities because they offer a more engaging and versatile user experience. This also improves accessibility, allowing users with different needs to interact more comfortably with...",
-          "link": "https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/",
-          "publishedOn": "2025-06-17T20:29:11.000Z",
-          "wordCount": 3682,
-          "title": "How to Build a Conversational AI Chatbot with Stream Chat and React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750192110424/b23653af-c2de-4631-973f-dcac3c0bdb41.png"
-        },
-        {
-          "id": "6851b75a6fd83aa331a8943b",
-          "author": "Han Qi",
-          "description": "In an age of information overload, AI assistance, and rapid technological change, the ability to think clearly and reason soundly has never been more valuable. This handbook takes you on a journey from fundamental logical principles to their practica...",
-          "link": "https://www.freecodecamp.org/news/the-logic-philosophy-and-science-of-software-testing-handbook-for-developers/",
-          "publishedOn": "2025-06-17T18:43:38.000Z",
-          "wordCount": 15673,
-          "title": "The Logic, Philosophy, and Science of Software Testing – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750176539544/965a99ef-8aad-467c-ae6b-4a144e2d1117.png"
-        },
-        {
-          "id": "685162a7b5948514b5ab9308",
-          "author": "Beau Carnes",
-          "description": "If you want to transform your career and become a data-driven decision maker, this course is for you. freeCodeCamp.org just published a comprehensive Google Cloud Data Analytics course on our YouTube channel. The course was developed by Google Cloud ...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-data-analytics/",
-          "publishedOn": "2025-06-17T12:42:15.000Z",
-          "wordCount": 1469,
-          "title": "Beginner’s Guide to Cloud Data Analytics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749071398844/dd78731e-80d1-4835-bc2b-cbec1ba9a9d3.png"
-        },
-        {
-          "id": "6850a9eb7255997ee3d47265",
-          "author": "Opaluwa Emidowojo",
-          "description": "Observability is a game-changer for CI/CD pipelines, and it’s one of the most exciting aspects of DevOps. When I started working with CI/CD systems, I assumed the hardest part would be building the pipeline. But with increasingly complex setups, the ...",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-cicd-pipelines-handbook/",
-          "publishedOn": "2025-06-16T23:34:03.000Z",
-          "wordCount": 13982,
-          "title": "How to Debug CI/CD Pipelines: A Handbook on Troubleshooting with Observability Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748620971355/d4893ec5-8016-491e-9626-15d971f0c885.png"
-        },
-        {
-          "id": "6850922657a503eb47ff3b2b",
-          "author": "Eti Ijeoma",
-          "description": "Networking is an essential part of any Linux system. Proper networking allows communication between devices and the internet. Understanding the network interface is vital when setting up servers, solving connectivity issues, and managing device traff...",
-          "link": "https://www.freecodecamp.org/news/configure-network-interfaces-in-linux/",
-          "publishedOn": "2025-06-16T21:52:38.000Z",
-          "wordCount": 2741,
-          "title": "How to Configure Network Interfaces in Linux",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750110739161/ebf2347c-ac63-4fab-ad2f-5d9229e77eaa.png"
         }
       ]
     }
