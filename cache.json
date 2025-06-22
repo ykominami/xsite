@@ -7,153 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=386925",
-          "author": "Juan Diego Rodríguez",
-          "description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.\nColor Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/color-everything-in-css/",
-          "publishedOn": "2025-06-20T14:04:12.000Z",
-          "wordCount": 3882,
-          "title": "Color Everything in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386735",
-          "author": "Sunkanmi Fafowora",
-          "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-color-functions/",
-          "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6721,
-          "title": "CSS Color Functions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387159",
-          "author": "Sacha Greif",
-          "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
-          "publishedOn": "2025-06-17T13:13:15.000Z",
-          "wordCount": 3239,
-          "title": "How to Keep Up With New CSS Features",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386338",
-          "author": "Zell Liew",
-          "description": "ResizeObserver, MutationObserver, and IntersectionObserver enhance performance over their predecessors. Zell discusses their API similarities, usage steps, refactoring strategies, and advantages with practical examples.\nA Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-better-api-for-the-resize-observer/",
-          "publishedOn": "2025-06-16T12:47:51.000Z",
-          "wordCount": 3141,
-          "title": "A Better API for the Resize Observer",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-resize-observer.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386648",
-          "author": "Sladjana Stojanovic",
-          "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
-          "publishedOn": "2025-06-12T13:58:38.000Z",
-          "wordCount": 4983,
-          "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386694",
-          "author": "Preethi",
-          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
-          "publishedOn": "2025-06-09T12:58:37.000Z",
-          "wordCount": 2597,
-          "title": "Creating an Auto-Closing Notification With an HTML Popover",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386876",
-          "author": "Temani Afif",
-          "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
-          "publishedOn": "2025-06-06T13:52:42.000Z",
-          "wordCount": 3968,
-          "title": "Better CSS Shapes Using shape() — Part 3: Curves",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386829",
-          "author": "Daniel Schwarz",
-          "description": "The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.\nExploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/",
-          "publishedOn": "2025-06-05T13:45:56.000Z",
-          "wordCount": 3284,
-          "title": "Exploring the CSS contrast-color() Function… a Second Time",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387046",
-          "author": "Juan Diego Rodríguez",
-          "description": "The State of CSS 2025 Survey dropped a few days ago, and besides anticipating the results, it's exciting to see a lot of the new things shipped to CSS reflected in the questions.\nThe State of CSS 2025 Survey is out! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-state-of-css-2025-survey-is-out/",
-          "publishedOn": "2025-06-05T11:13:00.000Z",
-          "wordCount": 1938,
-          "title": "The State of CSS 2025 Survey is out!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/state_of_css_2025.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386750",
-          "author": "Andy Clarke",
-          "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
-          "publishedOn": "2025-06-03T14:39:04.000Z",
-          "wordCount": 2991,
-          "title": "Getting Creative With HTML Dialog",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386673",
-          "author": "Temani Afif",
-          "description": "This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.\nBetter CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/",
-          "publishedOn": "2025-05-30T13:45:43.000Z",
-          "wordCount": 3918,
-          "title": "Better CSS Shapes Using shape() — Part 2: More on Arcs",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/shape-fuinction-featured.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386654",
-          "author": "Daniel Schwarz",
-          "description": "The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).\nWhat We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-we-know-so-far-about-css-reading-order/",
-          "publishedOn": "2025-05-27T13:02:32.000Z",
-          "wordCount": 3035,
-          "title": "What We Know (So Far) About CSS Reading Order",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/books-code.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386640",
-          "author": "Temani Afif",
-          "description": "This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.\nBetter CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/",
-          "publishedOn": "2025-05-23T13:02:32.000Z",
-          "wordCount": 4496,
-          "title": "Better CSS Shapes Using shape() — Part 1: Lines and Arcs",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386724",
-          "author": "Geoff Graham",
-          "description": "Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.\nYou can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-style-alt-text-like-any-other-text/",
-          "publishedOn": "2025-05-22T14:43:09.000Z",
-          "wordCount": 2320,
-          "title": "You can style alt text like any other text",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/puzzle-pieces-scatter.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -179,7 +32,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5126,
+          "wordCount": 5123,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -194,7 +47,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9500,
+          "wordCount": 9488,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -209,7 +62,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4300,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -224,7 +77,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4856,
+          "wordCount": 4865,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -239,7 +92,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4714,
+          "wordCount": 4724,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -269,7 +122,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 4937,
+          "wordCount": 4936,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -299,7 +152,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5195,
+          "wordCount": 5200,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -314,7 +167,7 @@
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
           "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5705,
+          "wordCount": 5700,
           "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
@@ -337,21 +190,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
-          "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
-          "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5678,
-          "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg"
         }
       ]
     },
