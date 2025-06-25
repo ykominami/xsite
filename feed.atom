@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-24T00:16:07.588Z</id>
+    <id>urn:2025-06-25T00:16:30.144Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T00:16:07.588Z</updated>
+    <updated>2025-06-25T00:16:30.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a LangGraph and Composio-Powered Discord Bot]]></title>
+        <id>685b12877dabc4d300e53706</id>
+        <link href="https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/"/>
+        <updated>2025-06-24T21:03:03.000Z</updated>
+        <summary type="html"><![CDATA[With the rise of AI tools over the past couple years, most of us are learning how to use them in our projects. And in this article, I’ll teach you how to build a quick Discord bot with LangGraph and Composio. You’ll use LangGraph nodes to build a bra...]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Landed 20+ Conference Talks – and How You Can, Too]]></title>
+        <id>685ae4b9a78289a7005020d4</id>
+        <link href="https://www.freecodecamp.org/news/how-i-landed-20-conference-talks-and-how-you-can-too/"/>
+        <updated>2025-06-24T17:47:37.000Z</updated>
+        <summary type="html"><![CDATA[I’ve never been the loudest person in the room. In fact, the first time I submitted a conference talk, I hovered over the submit button for nearly an hour. I was convinced someone else had more experience, a better résumé, or more impressive GitHub s...]]></summary>
+        <author>
+            <name>Rufai Mustapha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightly Poking at the CSS if() Function in Chrome 137]]></title>
+        <id>https://css-tricks.com/?p=387422</id>
+        <link href="https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/"/>
+        <updated>2025-06-24T15:17:10.000Z</updated>
+        <summary type="html"><![CDATA[The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.
+Lightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Deploy a Calendly Clone with Google Calendar Integration]]></title>
+        <id>685aa5e088d03626e91ea17b</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/"/>
+        <updated>2025-06-24T13:19:28.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever found yourself drowning in back-and-forth scheduling emails or confused by time zone mix-ups, you’ve probably used (or wished for) a tool like Calendly. Now you can learn how to build your own version from scratch. This course is perfe...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Embedded Systems Firmware Basics – A Handbook for Developers]]></title>
         <id>6859c55cad0bcef0be044476</id>
@@ -20,7 +61,7 @@
         <id>68598f7c91eb0b11714a7c62</id>
         <link href="https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/"/>
         <updated>2025-06-23T17:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...]]></summary>
+        <summary type="html"><![CDATA[Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. It’s what allows different parts of a Kubernetes system – like containers and services – to talk to each other. This tutorial will w...]]></summary>
         <author>
             <name>Destiny Erhabor</name>
         </author>
@@ -107,16 +148,6 @@ A Better API for the Intersection and Mutation Observers originally published on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Assign Dataverse Security Roles at Scale]]></title>
-        <id>68557b4d4b011b57124c6b6b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-assign-dataverse-security-roles-at-scale/"/>
-        <updated>2025-06-20T15:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Assigning Dataverse security roles manually works pretty well – until it doesn't. Whether you are onboarding 50 new hires or rolling out access to a new app, managing roles by hand can be tedious and error-prone. In this article, you will learn about...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Color Everything in CSS]]></title>
         <id>https://css-tricks.com/?p=386925</id>
         <link href="https://css-tricks.com/color-everything-in-css/"/>
@@ -125,26 +156,6 @@ A Better API for the Intersection and Mutation Observers originally published on
 Color Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Therapist to six figure freelance dev [Podcast #176]]]></title>
-        <id>6854f905b987232838464cd7</id>
-        <link href="https://www.freecodecamp.org/news/from-therapist-to-six-figure-freelance-dev-podcast-176/"/>
-        <updated>2025-06-20T06:00:37.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kelly Vaughn. She's a self-taught software engineer who ran her own developer agency. She was also the founding CTO at financial technology startup. Kelly runs the p...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Documentation That Increases Sign-ups]]></title>
-        <id>68542e3585d4833f32068976</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-documentation-that-increases-sign-ups/"/>
-        <updated>2025-06-19T15:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
         </author>
     </entry>
     <entry>

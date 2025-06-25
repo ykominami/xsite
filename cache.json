@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387422",
+          "author": "Sunkanmi Fafowora",
+          "description": "The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.\nLightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/",
+          "publishedOn": "2025-06-24T15:17:10.000Z",
+          "wordCount": 3089,
+          "title": "Lightly Poking at the CSS if() Function in Chrome 137",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386344",
           "author": "Zell Liew",
           "description": "Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.\nA Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/",
           "publishedOn": "2025-06-23T13:41:34.000Z",
-          "wordCount": 3006,
+          "wordCount": 3233,
           "title": "A Better API for the Intersection and Mutation Observers",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-mutation-observer.jpg"
         },
@@ -37,7 +47,7 @@
           "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-color-functions/",
           "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6758,
+          "wordCount": 6804,
           "title": "CSS Color Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
         },
@@ -154,7 +164,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5343,
+          "wordCount": 5346,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -184,7 +194,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5123,
+          "wordCount": 5119,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -199,7 +209,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9488,
+          "wordCount": null,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -214,7 +224,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4295,
+          "wordCount": 4288,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -229,7 +239,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4847,
+          "wordCount": 4850,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -244,7 +254,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4704,
+          "wordCount": 4713,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -259,7 +269,7 @@
           "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
           "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4544,
+          "wordCount": 4551,
           "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
@@ -274,7 +284,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 5038,
+          "wordCount": 4931,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -304,7 +314,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5193,
+          "wordCount": 5311,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -319,7 +329,7 @@
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
           "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5703,
+          "wordCount": 5702,
           "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
@@ -351,6 +361,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "685b12877dabc4d300e53706",
+          "author": "Shrijal Acharya",
+          "description": "With the rise of AI tools over the past couple years, most of us are learning how to use them in our projects. And in this article, I’ll teach you how to build a quick Discord bot with LangGraph and Composio. You’ll use LangGraph nodes to build a bra...",
+          "link": "https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/",
+          "publishedOn": "2025-06-24T21:03:03.000Z",
+          "wordCount": 6058,
+          "title": "How to Build a LangGraph and Composio-Powered Discord Bot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750798930964/65dd7078-e4e7-42d0-a797-1e7d72690513.png"
+        },
+        {
+          "id": "685ae4b9a78289a7005020d4",
+          "author": "Rufai Mustapha",
+          "description": "I’ve never been the loudest person in the room. In fact, the first time I submitted a conference talk, I hovered over the submit button for nearly an hour. I was convinced someone else had more experience, a better résumé, or more impressive GitHub s...",
+          "link": "https://www.freecodecamp.org/news/how-i-landed-20-conference-talks-and-how-you-can-too/",
+          "publishedOn": "2025-06-24T17:47:37.000Z",
+          "wordCount": 2432,
+          "title": "How I Landed 20+ Conference Talks – and How You Can, Too",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750787232225/b812c4b4-aeea-4398-b74a-8f16f5ef1c13.png"
+        },
+        {
+          "id": "685aa5e088d03626e91ea17b",
+          "author": "Beau Carnes",
+          "description": "If you've ever found yourself drowning in back-and-forth scheduling emails or confused by time zone mix-ups, you’ve probably used (or wished for) a tool like Calendly. Now you can learn how to build your own version from scratch. This course is perfe...",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/",
+          "publishedOn": "2025-06-24T13:19:28.000Z",
+          "wordCount": 1295,
+          "title": "Build and Deploy a Calendly Clone with Google Calendar Integration",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750771142491/e627c758-7d1c-48ea-b0b7-1449300662eb.png"
+        },
+        {
           "id": "6859c55cad0bcef0be044476",
           "author": "Soham Banerjee",
           "description": "Have you ever wondered how your fridge knows when to cool, or how a coffee machine knows when to stop pouring? Behind the scenes, these devices are powered by embedded systems – small, dedicated computers designed to perform specific tasks reliably a...",
@@ -363,10 +403,10 @@
         {
           "id": "68598f7c91eb0b11714a7c62",
           "author": "Destiny Erhabor",
-          "description": "Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...",
+          "description": "Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. It’s what allows different parts of a Kubernetes system – like containers and services – to talk to each other. This tutorial will w...",
           "link": "https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/",
           "publishedOn": "2025-06-23T17:31:40.000Z",
-          "wordCount": 5336,
+          "wordCount": 5404,
           "title": "Kubernetes Networking Tutorial: A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750697209688/e55bb451-1278-4004-ae3d-fd8bdbae47da.png"
         },
@@ -376,7 +416,7 @@
           "description": "Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...",
           "link": "https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/",
           "publishedOn": "2025-06-23T13:57:56.000Z",
-          "wordCount": 6393,
+          "wordCount": 6430,
           "title": "How to Implement a Service Worker with WorkBox in a Progressive Web App",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750687028879/b12e57cb-290a-4562-8584-95eb5713a871.png"
         },
@@ -419,36 +459,6 @@
           "wordCount": 3432,
           "title": "How to Build Secure SSR Authentication with Supabase, Astro, and Cloudflare Turnstile",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750438909287/d36c0c01-e779-4eea-aa41-b797fcbb05f6.png"
-        },
-        {
-          "id": "68557b4d4b011b57124c6b6b",
-          "author": "Brandon Wozniewicz",
-          "description": "Assigning Dataverse security roles manually works pretty well – until it doesn't. Whether you are onboarding 50 new hires or rolling out access to a new app, managing roles by hand can be tedious and error-prone. In this article, you will learn about...",
-          "link": "https://www.freecodecamp.org/news/how-to-assign-dataverse-security-roles-at-scale/",
-          "publishedOn": "2025-06-20T15:16:29.000Z",
-          "wordCount": 1685,
-          "title": "How to Assign Dataverse Security Roles at Scale",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750432574148/b3cfaebe-7566-4795-b00e-5da9d65dd8f4.png"
-        },
-        {
-          "id": "6854f905b987232838464cd7",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kelly Vaughn. She's a self-taught software engineer who ran her own developer agency. She was also the founding CTO at financial technology startup. Kelly runs the p...",
-          "link": "https://www.freecodecamp.org/news/from-therapist-to-six-figure-freelance-dev-podcast-176/",
-          "publishedOn": "2025-06-20T06:00:37.000Z",
-          "wordCount": 1048,
-          "title": "From Therapist to six figure freelance dev [Podcast #176]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750249813414/8cb0019f-db6d-48af-9d20-d0ea3a4040b5.png"
-        },
-        {
-          "id": "68542e3585d4833f32068976",
-          "author": "Tooba Jamal",
-          "description": "Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-documentation-that-increases-sign-ups/",
-          "publishedOn": "2025-06-19T15:35:17.000Z",
-          "wordCount": 2923,
-          "title": "How to Write Documentation That Increases Sign-ups",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750347297168/f873d57d-22e5-4cbb-bda9-ca24861db09d.png"
         }
       ]
     }
