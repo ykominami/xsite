@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387527",
+          "author": "Geoff Graham",
+          "description": "KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.\nKelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/kelpui/",
+          "publishedOn": "2025-06-26T16:42:32.000Z",
+          "wordCount": 2020,
+          "title": "KelpUI",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/kelpui.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387215",
           "author": "Daniel Schwarz",
-          "description": "The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "The CSS if() function enables us to use values conditionally, but what exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/",
           "publishedOn": "2025-06-25T14:33:45.000Z",
-          "wordCount": 2961,
+          "wordCount": 2947,
           "title": "Poking at the CSS if() Function a Little More: Conditional Color Theming",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
         },
@@ -57,7 +67,7 @@
           "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-color-functions/",
           "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6804,
+          "wordCount": 6820,
           "title": "CSS Color Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3918,
           "title": "Better CSS Shapes Using shape() — Part 2: More on Arcs",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/shape-fuinction-featured.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386654",
-          "author": "Daniel Schwarz",
-          "description": "The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).\nWhat We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-we-know-so-far-about-css-reading-order/",
-          "publishedOn": "2025-05-27T13:02:32.000Z",
-          "wordCount": 3035,
-          "title": "What We Know (So Far) About CSS Reading Order",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/books-code.png"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4778,
+          "wordCount": 4786,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -189,7 +189,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5350,
+          "wordCount": 5341,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -219,7 +219,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5119,
+          "wordCount": 5125,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -234,7 +234,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9600,
+          "wordCount": 9484,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -249,7 +249,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4287,
+          "wordCount": 4286,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -264,7 +264,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4849,
+          "wordCount": 4864,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -279,7 +279,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4712,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -294,7 +294,7 @@
           "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
           "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4545,
+          "wordCount": 4541,
           "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
@@ -309,7 +309,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4942,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -339,7 +339,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5204,
+          "wordCount": 5197,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -347,36 +347,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
-          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
-          "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
-          "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
-          "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5707,
-          "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.",
-          "link": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
-          "publishedOn": "2025-05-27T13:00:00.000Z",
-          "wordCount": 3771,
-          "title": "Data Vs. Findings Vs. Insights In UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg"
         }
       ]
     },
@@ -385,6 +355,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685d7ca925e1a316c88035e8",
+          "author": "Atuoha Anthony",
+          "description": "Modern mobile applications are far from static, single-view experiences. Instead, they are dynamic, multi-faceted environments where users seamlessly transition between different features, content, and functionalities. Because of this inherent comple...",
+          "link": "https://www.freecodecamp.org/news/routing-and-multi-screen-development-in-flutter-for-beginners/",
+          "publishedOn": "2025-06-26T17:00:25.000Z",
+          "wordCount": 3409,
+          "title": "Routing and Multi-Screen Development in Flutter – a Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750956717640/60bc5ee7-640d-4d8c-8b8d-64e422fadf56.png"
+        },
+        {
+          "id": "685d4674183f8588de290c10",
+          "author": "Beau Carnes",
+          "description": "Transformers have changed the game in machine learning. From powering chatbots and search engines to enabling machine translation and image generation, they're at the core of today’s most impressive AI models. But the field moves fast. New techniques...",
+          "link": "https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/",
+          "publishedOn": "2025-06-26T13:09:08.000Z",
+          "wordCount": 1241,
+          "title": "Learn the Evolution of the Transformer Architecture Used in LLMs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750943231432/8684216b-bb58-4358-a31a-00a63ce62721.png"
+        },
+        {
+          "id": "685c9989f2073d62fe9b82f5",
+          "author": "Hang Hu",
+          "description": "Red Hat Enterprise Linux (RHEL) is a leading enterprise-grade Linux distribution widely regarded as the gold standard for mission-critical server environments. It provides robust, secure, and scalable solutions for organizations ranging from small bu...",
+          "link": "https://www.freecodecamp.org/news/how-to-schedule-tasks-in-red-hat-enterprise-linux/",
+          "publishedOn": "2025-06-26T00:51:21.000Z",
+          "wordCount": 4274,
+          "title": "How to Schedule Tasks in Red Hat Enterprise Linux",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750869114329/79072c41-988a-41f2-9e2f-25618d78fefc.png"
+        },
         {
           "id": "685c658face24766313d6c64",
           "author": "Mark Mahoney",
@@ -454,36 +454,6 @@
           "wordCount": 7220,
           "title": "Learn Embedded Systems Firmware Basics – A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750701027343/86918e8c-4348-4845-b048-6203ae0fcb38.png"
-        },
-        {
-          "id": "68598f7c91eb0b11714a7c62",
-          "author": "Destiny Erhabor",
-          "description": "Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. It’s what allows different parts of a Kubernetes system – like containers and services – to talk to each other. This tutorial will w...",
-          "link": "https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/",
-          "publishedOn": "2025-06-23T17:31:40.000Z",
-          "wordCount": 5404,
-          "title": "Kubernetes Networking Tutorial: A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750697209688/e55bb451-1278-4004-ae3d-fd8bdbae47da.png"
-        },
-        {
-          "id": "68595d64f486735784954566",
-          "author": "Damilola Oniyide",
-          "description": "Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...",
-          "link": "https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/",
-          "publishedOn": "2025-06-23T13:57:56.000Z",
-          "wordCount": 6430,
-          "title": "How to Implement a Service Worker with WorkBox in a Progressive Web App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750687028879/b12e57cb-290a-4562-8584-95eb5713a871.png"
-        },
-        {
-          "id": "685595d957b6666dfb68743f",
-          "author": "Manish Shivanandhan",
-          "description": "If you run a website or web app, you’ve probably heard about firewalls. But there’s a special kind just for websites called a Web Application Firewall, or WAF.  Think of it like a bouncer at the door of your site, checking every visitor to make sure ...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-a-web-application-firewall-for-web-security/",
-          "publishedOn": "2025-06-20T17:09:45.000Z",
-          "wordCount": 2047,
-          "title": "How to Choose a Web Application Firewall for Web Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439345651/1a6db323-b71f-4d0c-beb9-07833b838800.png"
         }
       ]
     }

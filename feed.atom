@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-26T00:16:11.468Z</id>
+    <id>urn:2025-06-27T00:16:43.413Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T00:16:11.468Z</updated>
+    <updated>2025-06-27T00:16:43.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Routing and Multi-Screen Development in Flutter – a Beginner's Guide]]></title>
+        <id>685d7ca925e1a316c88035e8</id>
+        <link href="https://www.freecodecamp.org/news/routing-and-multi-screen-development-in-flutter-for-beginners/"/>
+        <updated>2025-06-26T17:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Modern mobile applications are far from static, single-view experiences. Instead, they are dynamic, multi-faceted environments where users seamlessly transition between different features, content, and functionalities. Because of this inherent comple...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KelpUI]]></title>
+        <id>https://css-tricks.com/?p=387527</id>
+        <link href="https://css-tricks.com/kelpui/"/>
+        <updated>2025-06-26T16:42:32.000Z</updated>
+        <summary type="html"><![CDATA[KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.
+KelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Evolution of the Transformer Architecture Used in LLMs]]></title>
+        <id>685d4674183f8588de290c10</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/"/>
+        <updated>2025-06-26T13:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Transformers have changed the game in machine learning. From powering chatbots and search engines to enabling machine translation and image generation, they're at the core of today’s most impressive AI models. But the field moves fast. New techniques...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule Tasks in Red Hat Enterprise Linux]]></title>
+        <id>685c9989f2073d62fe9b82f5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-schedule-tasks-in-red-hat-enterprise-linux/"/>
+        <updated>2025-06-26T00:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat Enterprise Linux (RHEL) is a leading enterprise-grade Linux distribution widely regarded as the gold standard for mission-critical server environments. It provides robust, secure, and scalable solutions for organizations ranging from small bu...]]></summary>
+        <author>
+            <name>Hang Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Animated Introduction to Web Development from Back to Front]]></title>
         <id>685c658face24766313d6c64</id>
@@ -40,7 +81,7 @@
         <id>https://css-tricks.com/?p=387215</id>
         <link href="https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/"/>
         <updated>2025-06-25T14:33:45.000Z</updated>
-        <summary type="html"><![CDATA[The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.
+        <summary type="html"><![CDATA[The CSS if() function enables us to use values conditionally, but what exactly does if() do? Let's look at a possible real-world use case.
 Poking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
@@ -108,26 +149,6 @@ Lightly Poking at the CSS if() Function in Chrome 137 originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes Networking Tutorial: A Guide for Developers]]></title>
-        <id>68598f7c91eb0b11714a7c62</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/"/>
-        <updated>2025-06-23T17:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. It’s what allows different parts of a Kubernetes system – like containers and services – to talk to each other. This tutorial will w...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Service Worker with WorkBox in a Progressive Web App]]></title>
-        <id>68595d64f486735784954566</id>
-        <link href="https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/"/>
-        <updated>2025-06-23T13:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...]]></summary>
-        <author>
-            <name>Damilola Oniyide</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Better API for the Intersection and Mutation Observers]]></title>
         <id>https://css-tricks.com/?p=386344</id>
         <link href="https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/"/>
@@ -146,16 +167,6 @@ A Better API for the Intersection and Mutation Observers originally published on
         <summary type="html"><![CDATA[On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Myriam Frisano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a Web Application Firewall for Web Security]]></title>
-        <id>685595d957b6666dfb68743f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-a-web-application-firewall-for-web-security/"/>
-        <updated>2025-06-20T17:09:45.000Z</updated>
-        <summary type="html"><![CDATA[If you run a website or web app, you’ve probably heard about firewalls. But there’s a special kind just for websites called a Web Application Firewall, or WAF.  Think of it like a bouncer at the door of your site, checking every visitor to make sure ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -378,37 +389,6 @@ Getting Creative With HTML Dialog originally published on CSS-Tricks, which is p
 Better CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliably Detecting Third-Party Cookie Blocking In 2025]]></title>
-        <id>https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/</id>
-        <link href="https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/"/>
-        <updated>2025-05-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What We Know (So Far) About CSS Reading Order]]></title>
-        <id>https://css-tricks.com/?p=386654</id>
-        <link href="https://css-tricks.com/what-we-know-so-far-about-css-reading-order/"/>
-        <updated>2025-05-27T13:02:32.000Z</updated>
-        <summary type="html"><![CDATA[The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).
-What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Vs. Findings Vs. Insights In UX]]></title>
-        <id>https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/</id>
-        <link href="https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/"/>
-        <updated>2025-05-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
