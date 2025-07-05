@@ -174,7 +174,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5890,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -204,7 +204,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4864,
+          "wordCount": null,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -219,7 +219,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4793,
+          "wordCount": null,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -234,7 +234,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5341,
+          "wordCount": 5357,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -279,7 +279,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9499,
+          "wordCount": null,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -294,7 +294,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4281,
+          "wordCount": 4284,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -309,7 +309,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4857,
+          "wordCount": null,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -317,21 +317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
-          "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
-          "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4712,
-          "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg"
         }
       ]
     },
@@ -340,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6867d0848831c0a4c0b21704",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA.   Joe taught himself programming for 4 years while working as a janitor. As the single fath...",
+          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-nasa-with-data-engineer-joe-hill-podcast-178/",
+          "publishedOn": "2025-07-04T13:00:52.000Z",
+          "wordCount": 1074,
+          "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751469272125/1ef920d1-1a03-4132-948d-13a69e92ea0b.jpeg"
+        },
+        {
+          "id": "6867c64cd0d1e1e4f2cbe4f8",
+          "author": "Beau Carnes",
+          "description": "Building something from scratch using just PHP, MySQL, JavaScript, HTML, and CSS is one of the best ways to level up your skills and gain a real understanding of full-stack development. We just published a course on the freeCodeCamp.org YouTube chann...",
+          "link": "https://www.freecodecamp.org/news/build-a-google-calendar-clone-with-php-mysql-and-javascript/",
+          "publishedOn": "2025-07-04T12:17:16.000Z",
+          "wordCount": 1243,
+          "title": "Build a Google Calendar Clone with PHP, MySql & JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751631421687/ecb8f621-7ba8-4100-8e54-d51dc3866578.jpeg"
+        },
         {
           "id": "6865cf231aa55afae259e821",
           "author": "Manish Shivanandhan",
@@ -419,26 +424,6 @@
           "wordCount": 1879,
           "title": "How to Audit Android Accessibility with the Accessibility Scanner App",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751301060182/df4d483a-8dd6-45ce-a665-76cbf45ef945.png"
-        },
-        {
-          "id": "6862962d9dc534abcc4c7eae",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Coolify is an open-source, self-hostable platform that serves as an alternative to services like Heroku, Netlify, and Vercel. It lets developers deploy and manage applications, databases, and services on their own infrastructure, providing greater co...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-coolify-in-aws-ec2/",
-          "publishedOn": "2025-06-30T13:50:37.000Z",
-          "wordCount": 2241,
-          "title": "How to Set Up Coolify in AWS EC2 and Have the Power to Do Anything in the Cloud",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751291416644/05d052cc-dc58-49b4-ac16-3064001fd816.png"
-        },
-        {
-          "id": "685ed775cd15578cd8609e17",
-          "author": "Atuoha Anthony",
-          "description": "Mobile applications often need to communicate important information to users, even when the app isn't actively running. Local notifications are an excellent way to achieve this, allowing you to display messages, reminders, or alerts directly on the u...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/",
-          "publishedOn": "2025-06-27T17:40:05.000Z",
-          "wordCount": 5641,
-          "title": "How to Use Local Notifications in Flutter – A Tutorial for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751036674586/f344992e-0d1c-4f91-9cfb-f70aac5b5d14.png"
         }
       ]
     }
