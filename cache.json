@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387613",
+          "author": "Temani Afif",
+          "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
+          "publishedOn": "2025-07-07T12:48:29.000Z",
+          "wordCount": 3709,
+          "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/css-shapes-function-csstricks-logo.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387471",
           "author": "Patrick Brosset",
           "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.\nThe Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -149,12 +159,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in our Smart Interface Design Patterns, a friendly video course on UX and design patterns by Vitaly — from complex data tables and nested filters to FAQs and error messages.",
+          "link": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+          "publishedOn": "2025-07-07T13:00:00.000Z",
+          "wordCount": 4300,
+          "title": "Design Guidelines For Better Notifications UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5892,
+          "wordCount": 5885,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -184,7 +209,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4858,
+          "wordCount": 4870,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -199,7 +224,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4787,
+          "wordCount": 4793,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -214,7 +239,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5344,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -244,7 +269,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5118,
+          "wordCount": 5117,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -259,7 +284,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9507,
+          "wordCount": 9598,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -274,7 +299,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4295,
+          "wordCount": 4286,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -289,7 +314,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4850,
+          "wordCount": 4851,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -305,6 +330,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "686bd09bed71f7a85eba0f6f",
+          "author": "Oluwadamisi Samuel",
+          "description": "If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-react-forms/",
+          "publishedOn": "2025-07-07T13:50:19.000Z",
+          "wordCount": 2004,
+          "title": "How to Work with React Forms So They Don't Break Your Brain",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502730489/90e30388-3517-457a-8ca0-630f589da914.png"
+        },
+        {
+          "id": "686bd0446349e98b57ebc099",
+          "author": "Mohit Menghnani",
+          "description": "As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/",
+          "publishedOn": "2025-07-07T13:48:52.000Z",
+          "wordCount": 6267,
+          "title": "How to Build Production-Ready Full Stack Apps with the MERN Stack",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502709499/b43b3607-f01b-45c0-9797-75eef92497c6.png"
+        },
         {
           "id": "6867d0848831c0a4c0b21704",
           "author": "Beau Carnes",
@@ -328,7 +373,7 @@
         {
           "id": "6865cf231aa55afae259e821",
           "author": "Manish Shivanandhan",
-          "description": "If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you.  That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here...",
+          "description": "If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you. That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here ...",
           "link": "https://www.freecodecamp.org/news/top-application-monitoring-tools-for-developers/",
           "publishedOn": "2025-07-03T00:30:27.000Z",
           "wordCount": 1896,
@@ -384,26 +429,6 @@
           "wordCount": 1377,
           "title": "Beginner’s Guide to Cloud Cybersecurity",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750284815294/c2ba70be-5147-4b56-b377-4ac40f53532e.png"
-        },
-        {
-          "id": "686316a6a2a907c72bebdef0",
-          "author": "Manish Shivanandhan",
-          "description": "Getting into game development with JavaScript can be a blast. JS is fast, flexible, and works right in the browser.  Whether you’re making a small puzzle game or a full 3D experience, JavaScript has the tools to help you bring your ideas to life.  Bu...",
-          "link": "https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/",
-          "publishedOn": "2025-06-30T22:58:46.000Z",
-          "wordCount": 2055,
-          "title": "Powerful JavaScript Frameworks for Game Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751324311029/630e6ee2-5e00-4341-a0be-5bd426cf87a4.png"
-        },
-        {
-          "id": "6862d146cc277a35bb68ec20",
-          "author": "Ilknur Eren",
-          "description": "The Web Content Accessibility Guidelines (WCAG 2.1 Level AA) is an internationally recognized standard for digital accessibility. Meeting these guidelines helps you make sure that your website is usable by people with visual, motor, hearing, and cogn...",
-          "link": "https://www.freecodecamp.org/news/how-to-audit-android-accessibility-with-the-accessibility-scanner-app/",
-          "publishedOn": "2025-06-30T18:02:46.000Z",
-          "wordCount": 1879,
-          "title": "How to Audit Android Accessibility with the Accessibility Scanner App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751301060182/df4d483a-8dd6-45ce-a665-76cbf45ef945.png"
         }
       ]
     }
