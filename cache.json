@@ -47,7 +47,7 @@
           "description": "Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!\nCSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-blob-recipes/",
           "publishedOn": "2025-06-27T13:48:41.000Z",
-          "wordCount": 3924,
+          "wordCount": 3951,
           "title": "CSS Blob Recipes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/blobs-cover.webp"
         },
@@ -57,7 +57,7 @@
           "description": "KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.\nKelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/kelpui/",
           "publishedOn": "2025-06-26T16:42:32.000Z",
-          "wordCount": 2109,
+          "wordCount": 2136,
           "title": "KelpUI",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/kelpui.webp"
         },
@@ -77,7 +77,7 @@
           "description": "The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.\nLightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/",
           "publishedOn": "2025-06-24T15:17:10.000Z",
-          "wordCount": 3111,
+          "wordCount": 3138,
           "title": "Lightly Poking at the CSS if() Function in Chrome 137",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
         },
@@ -87,7 +87,7 @@
           "description": "Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.\nA Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/",
           "publishedOn": "2025-06-23T13:41:34.000Z",
-          "wordCount": 3233,
+          "wordCount": 3260,
           "title": "A Better API for the Intersection and Mutation Observers",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-mutation-observer.jpg"
         },
@@ -97,7 +97,7 @@
           "description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.\nColor Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/color-everything-in-css/",
           "publishedOn": "2025-06-20T14:04:12.000Z",
-          "wordCount": 4053,
+          "wordCount": 4080,
           "title": "Color Everything in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg"
         },
@@ -107,7 +107,7 @@
           "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-color-functions/",
           "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6820,
+          "wordCount": 6847,
           "title": "CSS Color Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
         },
@@ -117,7 +117,7 @@
           "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
           "publishedOn": "2025-06-17T13:13:15.000Z",
-          "wordCount": 3239,
+          "wordCount": 3266,
           "title": "How to Keep Up With New CSS Features",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
         },
@@ -127,7 +127,7 @@
           "description": "ResizeObserver, MutationObserver, and IntersectionObserver enhance performance over their predecessors. Zell discusses their API similarities, usage steps, refactoring strategies, and advantages with practical examples.\nA Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/a-better-api-for-the-resize-observer/",
           "publishedOn": "2025-06-16T12:47:51.000Z",
-          "wordCount": 3141,
+          "wordCount": 3168,
           "title": "A Better API for the Resize Observer",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-resize-observer.jpg"
         },
@@ -140,16 +140,6 @@
           "wordCount": 4983,
           "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386694",
-          "author": "Preethi",
-          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
-          "publishedOn": "2025-06-09T12:58:37.000Z",
-          "wordCount": 2597,
-          "title": "Creating an Auto-Closing Notification With an HTML Popover",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         }
       ]
     },
@@ -194,7 +184,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5896,
+          "wordCount": 5898,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -224,7 +214,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4878,
+          "wordCount": 4859,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -239,7 +229,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4791,
+          "wordCount": 4795,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -254,7 +244,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5343,
+          "wordCount": 5345,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -284,7 +274,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5119,
+          "wordCount": 5120,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -299,7 +289,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9487,
+          "wordCount": 9492,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -314,7 +304,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4400,
+          "wordCount": 4293,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -331,13 +321,33 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "686e8e1a0b575323bf321674",
+          "author": "Manish Shivanandhan",
+          "description": "In this tutorial, I’ll teach you how to use Next.js and Sevalla to build and deploy your own Next.js blog. But first, let me answer your likely question: “Why host a blog yourself when there are hundreds of blogging platforms available? “ One answer:...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-blog-on-sevalla/",
+          "publishedOn": "2025-07-09T15:43:22.000Z",
+          "wordCount": 1898,
+          "title": "How to Deploy a Next.js Blog on Sevalla",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752075758399/7d8a494b-a5f0-4fb7-841b-8758d1cbc94d.png"
+        },
+        {
+          "id": "686e78b53e3a3fb3bf0c79eb",
+          "author": "Beau Carnes",
+          "description": "Learn the power of vibe coding and how it pairs perfectly with n8n to build full-stack AI-driven apps. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you the power of VibeCoding and how to automate real-world...",
+          "link": "https://www.freecodecamp.org/news/how-to-vibe-code-with-help-from-n8n/",
+          "publishedOn": "2025-07-09T14:12:05.000Z",
+          "wordCount": 1305,
+          "title": "How to Vibe Code With Help From n8n",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751989831875/d04a4ccc-1159-4ff1-944b-d75399a55a2e.jpeg"
+        },
+        {
           "id": "686d82b56332ba136ecc139e",
           "author": "Olowo Jude",
           "description": "With the recent advancements in AI, tools like ChatGPT have made the development process faster and more accessible. Developers can now write code and build web apps with some well-articulated prompts and careful code reviews. While this brings an in...",
           "link": "https://www.freecodecamp.org/news/how-to-use-pytest-a-guide-to-testing-in-python/",
           "publishedOn": "2025-07-08T20:42:29.000Z",
           "wordCount": 3804,
-          "title": "How to Use Pytest: A Simple Guide to Testing in Pytho",
+          "title": "How to Use Pytest: A Simple Guide to Testing in Python",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752007334998/e196493e-f3e0-4e63-b6eb-ce66c5481d9c.png"
         },
         {
@@ -409,26 +419,6 @@
           "wordCount": 1243,
           "title": "Build a Google Calendar Clone with PHP, MySql & JavaScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751631421687/ecb8f621-7ba8-4100-8e54-d51dc3866578.jpeg"
-        },
-        {
-          "id": "6865cf231aa55afae259e821",
-          "author": "Manish Shivanandhan",
-          "description": "If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you. That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here ...",
-          "link": "https://www.freecodecamp.org/news/top-application-monitoring-tools-for-developers/",
-          "publishedOn": "2025-07-03T00:30:27.000Z",
-          "wordCount": 1896,
-          "title": "Top Application Monitoring Tools for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502612871/600e6862-d4e5-42f3-a1eb-2cc0d618cc4c.png"
-        },
-        {
-          "id": "68654987cd4d0c286c5cc497",
-          "author": "Brandon Wozniewicz",
-          "description": "Most people know how to set goals. And many understand that developing good habits is key to reaching those goals. Yet, despite this knowledge, it's still easy to feel stuck – or worse, in motion without direction. We chase productivity without askin...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-goals-using-the-path-framework/",
-          "publishedOn": "2025-07-02T15:00:23.000Z",
-          "wordCount": 2661,
-          "title": "How to Stop Chasing Productivity and Start Moving with Purpose",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750868906416/7cba189f-0c53-4beb-a0d6-cbb034fc73bb.png"
         }
       ]
     }
