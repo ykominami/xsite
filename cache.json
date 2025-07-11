@@ -17,7 +17,7 @@
           "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
           "publishedOn": "2025-07-07T12:48:29.000Z",
-          "wordCount": 3735,
+          "wordCount": 3762,
           "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/css-shapes-function-csstricks-logo.webp"
         },
@@ -27,7 +27,7 @@
           "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.\nThe Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-gap-strikes-back-now-stylable/",
           "publishedOn": "2025-07-01T12:42:38.000Z",
-          "wordCount": 3278,
+          "wordCount": 3305,
           "title": "The Gap Strikes Back: Now Stylable",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/gap.png"
         },
@@ -37,7 +37,7 @@
           "description": "Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the \"best\" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.\nUsing CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/",
           "publishedOn": "2025-06-30T13:16:43.000Z",
-          "wordCount": 2659,
+          "wordCount": 2686,
           "title": "Using CSS Cascade Layers With Tailwind Utilities",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/tailwind-layers.png"
         },
@@ -67,7 +67,7 @@
           "description": "The CSS if() function enables us to use values conditionally, but what exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/",
           "publishedOn": "2025-06-25T14:33:45.000Z",
-          "wordCount": 3126,
+          "wordCount": 3153,
           "title": "Poking at the CSS if() Function a Little More: Conditional Color Theming",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
         },
@@ -137,7 +137,7 @@
           "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
           "publishedOn": "2025-06-12T13:58:38.000Z",
-          "wordCount": 4983,
+          "wordCount": 5010,
           "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
         }
@@ -148,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
+          "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+          "publishedOn": "2025-07-10T10:00:00.000Z",
+          "wordCount": 6586,
+          "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
           "author": "hello@smashingmagazine.com (Zareen Tasnim)",
@@ -184,7 +199,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5898,
+          "wordCount": 5890,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -214,7 +229,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4859,
+          "wordCount": 4868,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -229,7 +244,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4795,
+          "wordCount": 4793,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -244,7 +259,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5345,
+          "wordCount": 5350,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -274,7 +289,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5120,
+          "wordCount": 5122,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -289,7 +304,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9492,
+          "wordCount": 9493,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -304,7 +319,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4293,
+          "wordCount": 4290,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -320,6 +335,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "686fc789733ed1ffff06fcf7",
+          "author": "Beau Carnes",
+          "description": "Tired of making projects that are just AI API wrappers? Do you want to learn how to build a real AI project that you can actually sell? We just published a course on the freeCodeCamp.org YouTube channel that will show you how to build and deploy an e...",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-polished-ai-project-and-get-sales/",
+          "publishedOn": "2025-07-10T14:00:41.000Z",
+          "wordCount": 1078,
+          "title": "Build and Deploy a Polished AI Project and Get Sales",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752093271233/de995e0c-8220-4fb1-8d35-acc6b99104ee.jpeg"
+        },
+        {
+          "id": "686fc4a0fb8e16a8295fc149",
+          "author": "Henry Adepegba",
+          "description": "The this keyword in JavaScript is like a chameleon – it changes its meaning depending on where and how it's used. Many developers struggle with this because it doesn't behave the same way in JavaScript as it does in other programming languages. Think...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-this-keyword-in-javascript-a-handbook-for-devs/",
+          "publishedOn": "2025-07-10T13:48:16.000Z",
+          "wordCount": 7957,
+          "title": "How to Use the \"this\" Keyword in JavaScript: A Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752155267760/5e5fc562-e515-4843-ad64-32129c293d67.png"
+        },
+        {
+          "id": "686f40595293ca3e659585b7",
+          "author": "Nneoma Uche",
+          "description": "Whether you’re transferring data between APIs or just preparing JSON data for import, mismatched schemas can break your workflow.  Learning how to clean and normalize JSON data ensures a smooth, error-free data transfer. This tutorial demonstrates ho...",
+          "link": "https://www.freecodecamp.org/news/transform-json-data-schema/",
+          "publishedOn": "2025-07-10T04:23:53.000Z",
+          "wordCount": 2824,
+          "title": "How to Transform JSON Data to Match Any Schema",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752121420492/513db316-cdc7-47ef-8f20-4911cf5d41f9.png"
+        },
+        {
+          "id": "686f06fb2134825dffc4a228",
+          "author": "Michael Ikoko",
+          "description": "A resistive soil moisture sensor is a widely used, simple, and affordable way of estimating the amount of water in the soil. In this tutorial, you will learn how to interface a resistive soil moisture sensor with an Arduino UNO microcontroller. You w...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-a-resistive-soil-moisture-sensor/",
+          "publishedOn": "2025-07-10T00:19:07.000Z",
+          "wordCount": 5158,
+          "title": "How to Use a Resistive Soil Moisture Sensor",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752106699262/6ae871df-e1fb-4019-a446-9bd8cca1cab0.png"
+        },
         {
           "id": "686e8e1a0b575323bf321674",
           "author": "Manish Shivanandhan",
@@ -347,7 +402,7 @@
           "link": "https://www.freecodecamp.org/news/how-to-use-pytest-a-guide-to-testing-in-python/",
           "publishedOn": "2025-07-08T20:42:29.000Z",
           "wordCount": 3804,
-          "title": "How to Use Pytest: A Simple Guide to Testing in Python",
+          "title": "How to Use pytest: A Simple Guide to Testing in Python",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752007334998/e196493e-f3e0-4e63-b6eb-ce66c5481d9c.png"
         },
         {
@@ -379,46 +434,6 @@
           "wordCount": 4095,
           "title": "What Are JSON Web Tokens (JWT)?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751819356361/352ef68a-fa20-4a69-b666-393f7a17fa40.png"
-        },
-        {
-          "id": "686bd09bed71f7a85eba0f6f",
-          "author": "Oluwadamisi Samuel",
-          "description": "If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-react-forms/",
-          "publishedOn": "2025-07-07T13:50:19.000Z",
-          "wordCount": 2004,
-          "title": "How to Work with React Forms So They Don't Break Your Brain",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502730489/90e30388-3517-457a-8ca0-630f589da914.png"
-        },
-        {
-          "id": "686bd0446349e98b57ebc099",
-          "author": "Mohit Menghnani",
-          "description": "As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/",
-          "publishedOn": "2025-07-07T13:48:52.000Z",
-          "wordCount": 6267,
-          "title": "How to Build Production-Ready Full Stack Apps with the MERN Stack",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502709499/b43b3607-f01b-45c0-9797-75eef92497c6.png"
-        },
-        {
-          "id": "6867d0848831c0a4c0b21704",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA.   Joe taught himself programming for 4 years while working as a janitor. As the single fath...",
-          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-nasa-with-data-engineer-joe-hill-podcast-178/",
-          "publishedOn": "2025-07-04T13:00:52.000Z",
-          "wordCount": 1074,
-          "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751469272125/1ef920d1-1a03-4132-948d-13a69e92ea0b.jpeg"
-        },
-        {
-          "id": "6867c64cd0d1e1e4f2cbe4f8",
-          "author": "Beau Carnes",
-          "description": "Building something from scratch using just PHP, MySQL, JavaScript, HTML, and CSS is one of the best ways to level up your skills and gain a real understanding of full-stack development. We just published a course on the freeCodeCamp.org YouTube chann...",
-          "link": "https://www.freecodecamp.org/news/build-a-google-calendar-clone-with-php-mysql-and-javascript/",
-          "publishedOn": "2025-07-04T12:17:16.000Z",
-          "wordCount": 1243,
-          "title": "Build a Google Calendar Clone with PHP, MySql & JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751631421687/ecb8f621-7ba8-4100-8e54-d51dc3866578.jpeg"
         }
       ]
     }
