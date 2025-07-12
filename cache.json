@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387748",
+          "author": "Amit Sheen",
+          "description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.\nScroll-Driven Sticky Heading originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scroll-driven-sticky-heading/",
+          "publishedOn": "2025-07-11T17:11:00.000Z",
+          "wordCount": 4043,
+          "title": "Scroll-Driven Sticky Heading",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/scroll-driven-typewriter.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=388030",
+          "author": "Geoff Graham",
+          "description": "Layout. It’s one of those easy-to-learn, difficult-to-master things, like they say about playing bass. Not because it’s innately difficult to, say, place two elements next to each other, but because there are many, many ways to tackle it. And …\nThe Layout Maestro Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-layout-maestro-course/",
+          "publishedOn": "2025-07-11T17:07:13.000Z",
+          "wordCount": 2011,
+          "title": "The Layout Maestro Course",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/layout-maestro-course.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387613",
           "author": "Temani Afif",
           "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -77,7 +97,7 @@
           "description": "The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.\nLightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/",
           "publishedOn": "2025-06-24T15:17:10.000Z",
-          "wordCount": 3138,
+          "wordCount": 3168,
           "title": "Lightly Poking at the CSS if() Function in Chrome 137",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
         },
@@ -154,7 +174,7 @@
           "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
           "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
           "publishedOn": "2025-07-10T10:00:00.000Z",
-          "wordCount": 6586,
+          "wordCount": 6589,
           "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
@@ -199,7 +219,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5890,
+          "wordCount": 5895,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -229,7 +249,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4868,
+          "wordCount": 4854,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -244,7 +264,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4793,
+          "wordCount": 4796,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -289,7 +309,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5122,
+          "wordCount": null,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -304,7 +324,7 @@
           "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
           "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
           "publishedOn": "2025-06-16T13:00:00.000Z",
-          "wordCount": 9493,
+          "wordCount": 9502,
           "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
@@ -312,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-          "author": "hello@smashingmagazine.com (Blake Lundquist)",
-          "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
-          "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-          "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4290,
-          "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg"
         }
       ]
     },
@@ -335,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68715d56bc2af40281bdf584",
+          "author": "Tapas Adhikary",
+          "description": "Errors and exceptions are inevitable in application development. As programmers, it is our responsibility to handle these errors gracefully so that the user experience of the application is not compromised. Handling errors correctly also helps progra...",
+          "link": "https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/",
+          "publishedOn": "2025-07-11T18:52:06.000Z",
+          "wordCount": 4237,
+          "title": "The JavaScript Error Handling Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752254732491/dd413499-64f4-4a20-8fd6-7f73cfcd55c0.png"
+        },
+        {
+          "id": "687118f5feb1fdc94037fc8c",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Braydon Coyer. He's a software engineer who started building mobile apps in high school – one of which even out-sold Angry Birds for a few days. He dropped out of hi...",
+          "link": "https://www.freecodecamp.org/news/799-rejections-but-he-got-the-job-braydon-coyer-developer-interview-podcast-179/",
+          "publishedOn": "2025-07-11T14:00:21.000Z",
+          "wordCount": 1064,
+          "title": "799 rejections... but he got the job! Braydon Coyer developer interview [Podcast #179]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752180786655/3b18e2c2-3723-459a-90e2-ef29a2d473c9.jpeg"
+        },
         {
           "id": "686fc789733ed1ffff06fcf7",
           "author": "Beau Carnes",
@@ -414,26 +439,6 @@
           "wordCount": 4422,
           "title": "How to Use Constructors in Java: A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751998519087/7808c004-c8e5-4e63-b293-10fa479a179f.png"
-        },
-        {
-          "id": "686d3f17ba9172cf1f2ba98b",
-          "author": "Manish Shivanandhan",
-          "description": "Businesses today are flooded with data. From online purchases to hospital records, every action generates information.  But data alone is not useful. What matters is how companies use it to make decisions.  This is where AI analytics comes in. It com...",
-          "link": "https://www.freecodecamp.org/news/the-rise-of-ai-analytics-and-what-it-means-for-industries/",
-          "publishedOn": "2025-07-08T15:53:59.000Z",
-          "wordCount": 2330,
-          "title": "The Rise of AI Analytics and What It Means for Industries",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751989824781/f5bd446f-cc03-4aca-9391-614dd4e8edb6.png"
-        },
-        {
-          "id": "686c430b1a4ac707c0692874",
-          "author": "Grant Riordan",
-          "description": "When you’re working with any website, application, or API, you'll inevitably need to log in and authenticate your user base. One of the more commonly used methods of passing around authentication credentials from one system to another is using a JSON...",
-          "link": "https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/",
-          "publishedOn": "2025-07-07T21:58:35.000Z",
-          "wordCount": 4095,
-          "title": "What Are JSON Web Tokens (JWT)?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751819356361/352ef68a-fa20-4a69-b666-393f7a17fa40.png"
         }
       ]
     }
