@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-17T00:17:21.418Z</id>
+    <id>urn:2025-07-18T00:16:24.514Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T00:17:21.418Z</updated>
+    <updated>2025-07-18T00:16:24.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Dropdown Menu with shadcn/ui]]></title>
+        <id>687964f6562b6ce291fda4e2</id>
+        <link href="https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/"/>
+        <updated>2025-07-17T21:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Dropdown menus are little pop-up menus that help you show more options without cluttering your screen. They’re super helpful in websites and apps. In this guide, you’ll learn how to build a dropdown menu using shadcn/ui. It’s a tool that works well w...]]></summary>
+        <author>
+            <name>Ajay Kalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Remember Things: The Role of Vector Stores in LLM Memory]]></title>
+        <id>687903d3ccb68881821f3a68</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/"/>
+        <updated>2025-07-17T14:08:19.000Z</updated>
+        <summary type="html"><![CDATA[When you talk to an AI assistant, it can feel like it remembers what you said before. But large language models (LLMs) don’t actually have memory on their own. They don’t remember conversations unless that information is given to them again. So, how ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Clarity on Apple’s Liquid Glass]]></title>
+        <id>https://css-tricks.com/?p=387817</id>
+        <link href="https://css-tricks.com/getting-clarity-on-apples-liquid-glass/"/>
+        <updated>2025-07-17T13:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.
+Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Revert a Migration in Django]]></title>
         <id>68781860a9407a5fe14ed384</id>
@@ -104,26 +135,6 @@
 What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an AWS Free Tier Account – A Step-by-Step Guide]]></title>
-        <id>68768aae330f8631f59cf431</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-aws-free-tier-account/"/>
-        <updated>2025-07-15T17:06:54.000Z</updated>
-        <summary type="html"><![CDATA[I recently started learning cloud engineering through a bootcamp. One of our first tasks was to create an AWS account. For those of us who didn’t already have one, it seemed like a simple enough assignment. But as I went through the signup process, I...]]></summary>
-        <author>
-            <name>Victoria Nduka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Word Search Game Using HTML, CSS, and JavaScript]]></title>
-        <id>687543a2e9820caf95eae4f3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/"/>
-        <updated>2025-07-14T17:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
         </author>
     </entry>
     <entry>
@@ -377,17 +388,6 @@ CSS Color Functions originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep Up With New CSS Features]]></title>
-        <id>https://css-tricks.com/?p=387159</id>
-        <link href="https://css-tricks.com/how-to-keep-up-with-new-css-features/"/>
-        <updated>2025-06-17T13:13:15.000Z</updated>
-        <summary type="html"><![CDATA[How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.
-How to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sacha Greif</name>
         </author>
     </entry>
 </feed>

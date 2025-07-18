@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387817",
+          "author": "Geoff Graham",
+          "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.\nGetting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
+          "publishedOn": "2025-07-17T13:23:52.000Z",
+          "wordCount": 3442,
+          "title": "Getting Clarity on Apple’s Liquid Glass",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/liquid-glass-still.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387980",
           "author": "Sunkanmi Fafowora",
           "description": "State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries.\nWhat I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -27,7 +37,7 @@
           "description": "The many ways to juggle line length when working with text... including two proposed  properties that could make it easier in the future.\nSetting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/",
           "publishedOn": "2025-07-14T12:38:23.000Z",
-          "wordCount": 3156,
+          "wordCount": 3194,
           "title": "Setting Line Length in CSS (and Fitting Text to a Container)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
         },
@@ -150,16 +160,6 @@
           "wordCount": 6715,
           "title": "CSS Color Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387159",
-          "author": "Sacha Greif",
-          "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
-          "publishedOn": "2025-06-17T13:13:15.000Z",
-          "wordCount": 3134,
-          "title": "How to Keep Up With New CSS Features",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.",
           "link": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "publishedOn": "2025-07-16T15:00:00.000Z",
-          "wordCount": 5142,
+          "wordCount": 5144,
           "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones",
           "enclosure": {
             "url": "http://files.smashing.media/articles/tiny-screens-big-impact-developing-web-apps-feature-phones/tiny-screens-big-impact-developing-web-apps-feature-phones.jpg",
@@ -204,7 +204,7 @@
           "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
           "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
           "publishedOn": "2025-07-10T10:00:00.000Z",
-          "wordCount": 6583,
+          "wordCount": 6584,
           "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
@@ -279,7 +279,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4875,
+          "wordCount": 4863,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -294,7 +294,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4792,
+          "wordCount": 4789,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -309,7 +309,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5350,
+          "wordCount": 5357,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -339,7 +339,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5116,
+          "wordCount": 5126,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -355,6 +355,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687964f6562b6ce291fda4e2",
+          "author": "Ajay Kalal",
+          "description": "Dropdown menus are little pop-up menus that help you show more options without cluttering your screen. They’re super helpful in websites and apps. In this guide, you’ll learn how to build a dropdown menu using shadcn/ui. It’s a tool that works well w...",
+          "link": "https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/",
+          "publishedOn": "2025-07-17T21:02:46.000Z",
+          "wordCount": 1732,
+          "title": "How to Make a Dropdown Menu with shadcn/ui",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752786132476/fef60fd2-ad5e-4f9d-9dcf-de4b99adac99.png"
+        },
+        {
+          "id": "687903d3ccb68881821f3a68",
+          "author": "Manish Shivanandhan",
+          "description": "When you talk to an AI assistant, it can feel like it remembers what you said before. But large language models (LLMs) don’t actually have memory on their own. They don’t remember conversations unless that information is given to them again. So, how ...",
+          "link": "https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/",
+          "publishedOn": "2025-07-17T14:08:19.000Z",
+          "wordCount": 2563,
+          "title": "How AI Agents Remember Things: The Role of Vector Stores in LLM Memory",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747753163050/26574896-6da9-4a30-af4f-1d0b7f38f43b.png"
+        },
         {
           "id": "68781860a9407a5fe14ed384",
           "author": "Udemezue John",
@@ -434,26 +454,6 @@
           "wordCount": 2130,
           "title": "How In-Memory Caching Works in Redis",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752680755362/97cde2e5-3bb3-4b5d-b073-dcbf03c7f871.png"
-        },
-        {
-          "id": "68768aae330f8631f59cf431",
-          "author": "Victoria Nduka",
-          "description": "I recently started learning cloud engineering through a bootcamp. One of our first tasks was to create an AWS account. For those of us who didn’t already have one, it seemed like a simple enough assignment. But as I went through the signup process, I...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-aws-free-tier-account/",
-          "publishedOn": "2025-07-15T17:06:54.000Z",
-          "wordCount": 2477,
-          "title": "How to Create an AWS Free Tier Account – A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752599184286/ff14fece-f865-4d8f-87e7-4cfed11a6946.png"
-        },
-        {
-          "id": "687543a2e9820caf95eae4f3",
-          "author": "Mark Mahoney",
-          "description": "The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...",
-          "link": "https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/",
-          "publishedOn": "2025-07-14T17:51:30.000Z",
-          "wordCount": 2277,
-          "title": "How to Build a Word Search Game Using HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752511862075/76f0131a-336f-4670-a571-ad023e3906bb.png"
         }
       ]
     }
