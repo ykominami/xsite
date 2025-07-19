@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387827",
+          "author": "Andy Clarke",
+          "description": "A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.\nGetting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-versal-letters/",
+          "publishedOn": "2025-07-18T16:12:05.000Z",
+          "wordCount": 3148,
+          "title": "Getting Creative With Versal Letters",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/versal-featured.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387817",
           "author": "Geoff Graham",
           "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.\nGetting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
           "publishedOn": "2025-07-17T13:23:52.000Z",
-          "wordCount": 3442,
+          "wordCount": 3484,
           "title": "Getting Clarity on Apple’s Liquid Glass",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/liquid-glass-still.png"
         },
@@ -150,16 +160,6 @@
           "wordCount": 3948,
           "title": "Color Everything in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386735",
-          "author": "Sunkanmi Fafowora",
-          "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-color-functions/",
-          "publishedOn": "2025-06-19T15:01:18.000Z",
-          "wordCount": 6715,
-          "title": "CSS Color Functions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
         }
       ]
     },
@@ -169,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+          "author": "hello@smashingmagazine.com (Oleksii Tkachenko)",
+          "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.",
+          "link": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
+          "publishedOn": "2025-07-18T13:00:00.000Z",
+          "wordCount": 5106,
+          "title": "Why Non-Native Content Designers Improve Global UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-non-native-content-designers-improve-global-ux/why-non-native-content-designers-improve-global-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-non-native-content-designers-improve-global-ux/why-non-native-content-designers-improve-global-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "author": "hello@smashingmagazine.com (Tom Barrasso)",
           "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.",
           "link": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "publishedOn": "2025-07-16T15:00:00.000Z",
-          "wordCount": 5144,
+          "wordCount": 5140,
           "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones",
           "enclosure": {
             "url": "http://files.smashing.media/articles/tiny-screens-big-impact-developing-web-apps-feature-phones/tiny-screens-big-impact-developing-web-apps-feature-phones.jpg",
@@ -204,7 +219,7 @@
           "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
           "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
           "publishedOn": "2025-07-10T10:00:00.000Z",
-          "wordCount": 6584,
+          "wordCount": 6583,
           "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
@@ -249,7 +264,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5886,
+          "wordCount": 5892,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -279,7 +294,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4863,
+          "wordCount": 4864,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -294,7 +309,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4789,
+          "wordCount": 4792,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -309,7 +324,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5357,
+          "wordCount": 5344,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -339,7 +354,7 @@
           "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
           "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "publishedOn": "2025-06-19T15:00:00.000Z",
-          "wordCount": 5126,
+          "wordCount": 5113,
           "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
@@ -355,6 +370,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687a511b69d126230571eb7e",
+          "author": "Raju Manoj",
+          "description": "Building modern web applications often involves complex setups and managing servers – but it doesn't have to be that way. Amazon Web Services (AWS) offers a powerful suite of \"serverless\" services that allow you to build and deploy applications witho...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-static-web-app-on-aws-with-amplify-lambda-api-gateway-and-dynamodb/",
+          "publishedOn": "2025-07-18T13:50:19.000Z",
+          "wordCount": 7889,
+          "title": "How to Deploy a Static Web App on AWS with Amplify, Lambda, API Gateway, & DynamoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752792908077/abfe8200-e4bd-4c3c-892f-15847715c918.png"
+        },
+        {
+          "id": "6879c6e2f39c57b0d7c0cc4f",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Namanh Kapur. He's a senior software engineer at LinkedIn. He also creates YouTube videos to help devolopers with their careers.   We talk about: Tips for getting h...",
+          "link": "https://www.freecodecamp.org/news/we-are-truly-in-the-hackathon-era-namanh-kapur-interview-podcast-180/",
+          "publishedOn": "2025-07-18T04:00:34.000Z",
+          "wordCount": 1035,
+          "title": "We are truly in the Hackathon Era – Namanh Kapur interview [Podcast #180]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752783271340/d509a8c0-1d2b-42d1-89c2-03d8d25f2b17.jpeg"
+        },
         {
           "id": "687964f6562b6ce291fda4e2",
           "author": "Ajay Kalal",
@@ -434,26 +469,6 @@
           "wordCount": 1900,
           "title": "How to Document Governing Procedures for Open-Source Communities",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752683137033/9aff86cd-09de-4a5e-bd65-c8b0653724eb.png"
-        },
-        {
-          "id": "6877d242e9c372b3ae56fd21",
-          "author": "Tooba Jamal",
-          "description": "Contributing to open source sounds fun until life gets in the way. You get busy, you forget or you don’t know where to start again.  This is why having a routine is so important. Not just for the sake of ticking boxes, but because consistency has a g...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-sustainable-open-source-contribution-routine/",
-          "publishedOn": "2025-07-16T16:24:34.000Z",
-          "wordCount": 2579,
-          "title": "How to Build a Sustainable Open Source Contribution Routine",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752683060753/4ce151ca-8f82-4df9-8328-f2e88676a205.png"
-        },
-        {
-          "id": "6877d117ba632c15e613aac8",
-          "author": "Manish Shivanandhan",
-          "description": "When you’re building a web app or API that needs to respond quickly, caching is often the secret sauce. Without it, your server can waste time fetching the same data over and over again – from a database, a third-party API, or a slow storage system. ...",
-          "link": "https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/",
-          "publishedOn": "2025-07-16T16:19:35.000Z",
-          "wordCount": 2130,
-          "title": "How In-Memory Caching Works in Redis",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752680755362/97cde2e5-3bb3-4b5d-b073-dcbf03c7f871.png"
         }
       ]
     }

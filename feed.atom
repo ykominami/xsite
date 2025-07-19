@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-18T00:16:24.514Z</id>
+    <id>urn:2025-07-19T00:16:42.672Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T00:16:24.514Z</updated>
+    <updated>2025-07-19T00:16:42.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Versal Letters]]></title>
+        <id>https://css-tricks.com/?p=387827</id>
+        <link href="https://css-tricks.com/getting-creative-with-versal-letters/"/>
+        <updated>2025-07-18T16:12:05.000Z</updated>
+        <summary type="html"><![CDATA[A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.
+Getting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Static Web App on AWS with Amplify, Lambda, API Gateway, & DynamoDB]]></title>
+        <id>687a511b69d126230571eb7e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-static-web-app-on-aws-with-amplify-lambda-api-gateway-and-dynamodb/"/>
+        <updated>2025-07-18T13:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Building modern web applications often involves complex setups and managing servers – but it doesn't have to be that way. Amazon Web Services (AWS) offers a powerful suite of "serverless" services that allow you to build and deploy applications witho...]]></summary>
+        <author>
+            <name>Raju Manoj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Non-Native Content Designers Improve Global UX]]></title>
+        <id>https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/</id>
+        <link href="https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/"/>
+        <updated>2025-07-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Oleksii Tkachenko)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We are truly in the Hackathon Era – Namanh Kapur interview [Podcast #180]]]></title>
+        <id>6879c6e2f39c57b0d7c0cc4f</id>
+        <link href="https://www.freecodecamp.org/news/we-are-truly-in-the-hackathon-era-namanh-kapur-interview-podcast-180/"/>
+        <updated>2025-07-18T04:00:34.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Namanh Kapur. He's a senior software engineer at LinkedIn. He also creates YouTube videos to help devolopers with their careers.   We talk about: Tips for getting h...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make a Dropdown Menu with shadcn/ui]]></title>
         <id>687964f6562b6ce291fda4e2</id>
@@ -94,26 +135,6 @@ Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[In open source communities, we often discuss contribution guidelines, codes of conduct, and onboarding new contributors. But one thing we don’t talk about nearly enough? Governance. Governance sounds serious. But at its core, it simply means: how do ...]]></summary>
         <author>
             <name>Oluchi Nwenyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Sustainable Open Source Contribution Routine]]></title>
-        <id>6877d242e9c372b3ae56fd21</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-sustainable-open-source-contribution-routine/"/>
-        <updated>2025-07-16T16:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Contributing to open source sounds fun until life gets in the way. You get busy, you forget or you don’t know where to start again.  This is why having a routine is so important. Not just for the sake of ticking boxes, but because consistency has a g...]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How In-Memory Caching Works in Redis]]></title>
-        <id>6877d117ba632c15e613aac8</id>
-        <link href="https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/"/>
-        <updated>2025-07-16T16:19:35.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building a web app or API that needs to respond quickly, caching is often the secret sauce. Without it, your server can waste time fetching the same data over and over again – from a database, a third-party API, or a slow storage system. ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -367,17 +388,6 @@ A Better API for the Intersection and Mutation Observers originally published on
 Color Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Color Functions]]></title>
-        <id>https://css-tricks.com/?p=386735</id>
-        <link href="https://css-tricks.com/css-color-functions/"/>
-        <updated>2025-06-19T15:01:18.000Z</updated>
-        <summary type="html"><![CDATA[CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.
-CSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
     <entry>
