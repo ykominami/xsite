@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387082",
+          "author": "Zell Liew",
+          "description": "Focus trapping is about managing focus within an element, such that focus always stays within it. The whole process sounds simple in theory, but it can quite difficult to build in practice, mostly because of the numerous parts to you got to manage.\nA Primer on Focus Trapping originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-primer-on-focus-trapping/",
+          "publishedOn": "2025-07-21T13:14:17.000Z",
+          "wordCount": 2750,
+          "title": "A Primer on Focus Trapping",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387827",
           "author": "Andy Clarke",
           "description": "A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.\nGetting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-creative-with-versal-letters/",
           "publishedOn": "2025-07-18T16:12:05.000Z",
-          "wordCount": 3148,
+          "wordCount": 3181,
           "title": "Getting Creative With Versal Letters",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/versal-featured.webp"
         },
@@ -27,7 +37,7 @@
           "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.\nGetting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
           "publishedOn": "2025-07-17T13:23:52.000Z",
-          "wordCount": 3484,
+          "wordCount": 3524,
           "title": "Getting Clarity on Apple’s Liquid Glass",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/liquid-glass-still.png"
         },
@@ -159,12 +169,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.",
+          "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+          "publishedOn": "2025-07-21T10:00:00.000Z",
+          "wordCount": 3626,
+          "title": "Handling JavaScript Event Listeners With Parameters",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
           "author": "hello@smashingmagazine.com (Oleksii Tkachenko)",
           "description": "Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.",
           "link": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
           "publishedOn": "2025-07-18T13:00:00.000Z",
-          "wordCount": 5104,
+          "wordCount": 5114,
           "title": "Why Non-Native Content Designers Improve Global UX",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-non-native-content-designers-improve-global-ux/why-non-native-content-designers-improve-global-ux.jpg",
@@ -179,7 +204,7 @@
           "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.",
           "link": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "publishedOn": "2025-07-16T15:00:00.000Z",
-          "wordCount": 5147,
+          "wordCount": 5151,
           "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones",
           "enclosure": {
             "url": "http://files.smashing.media/articles/tiny-screens-big-impact-developing-web-apps-feature-phones/tiny-screens-big-impact-developing-web-apps-feature-phones.jpg",
@@ -209,7 +234,7 @@
           "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
           "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
           "publishedOn": "2025-07-10T10:00:00.000Z",
-          "wordCount": 6583,
+          "wordCount": 6581,
           "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
@@ -254,7 +279,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5884,
+          "wordCount": 5889,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -284,7 +309,7 @@
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
           "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4864,
+          "wordCount": 4868,
           "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
@@ -299,7 +324,7 @@
           "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
           "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "publishedOn": "2025-06-25T12:00:00.000Z",
-          "wordCount": 4790,
+          "wordCount": 4803,
           "title": "Can Good UX Protect Older Users From Digital Scams?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
@@ -314,7 +339,7 @@
           "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5346,
+          "wordCount": 5338,
           "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
           "enclosure": {
             "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
@@ -330,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687e45310fc9d9c1bc2da5f7",
+          "author": "Ophy Boamah",
+          "description": "Accordion menus are everywhere on the web because users want fast answers and smooth navigation. They help create clean, organized, and user-friendly interfaces. Many developers still reach for JavaScript to build accordions, which adds avoidable com...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-simpler-accordion-menus-with-html-details/",
+          "publishedOn": "2025-07-21T13:48:33.000Z",
+          "wordCount": 2055,
+          "title": "How to Build Simpler Accordion Menus with HTML <details>",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753119637759/0fb5302d-c21c-4c0d-affb-3f891261aabf.png"
+        },
         {
           "id": "687ad06430967c1524c4663e",
           "author": "Okoro Emmanuel Nzube",
@@ -419,16 +454,6 @@
           "wordCount": 1902,
           "title": "How to Activate Your Django Virtual Environment",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746123776834/337004ca-692e-4df9-89db-81e78a16c7fe.png"
-        },
-        {
-          "id": "6877d9b440b18dbe521d8687",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence is changing how we build software, but it also introduces brand new security risks. If you're a developer or security professional stepping into the world of AI, how do you make sure your applications are safe? We've just publ...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-build-security-into-ai/",
-          "publishedOn": "2025-07-16T16:56:20.000Z",
-          "wordCount": 1019,
-          "title": "Learn how to build security into AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752685029144/e988baa2-4c5f-4670-bac8-d40281f7b324.jpeg"
         }
       ]
     }
