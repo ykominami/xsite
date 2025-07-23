@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-22T00:17:22.993Z</id>
+    <id>urn:2025-07-23T00:17:17.801Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T00:17:22.993Z</updated>
+    <updated>2025-07-23T00:17:17.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Robust Networking Layers in Swift with OpenAPI]]></title>
+        <id>687fd1a603524e3b4e7b77fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-robust-networking-layers-in-swift-with-openapi/"/>
+        <updated>2025-07-22T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[What is the Problem We’re Solving? For many app developers, including me, writing the networking layer of an application is a familiar and tedious process. You write and test your first call and after that, it involves a repetitive cycle of tasks. Th...]]></summary>
+        <author>
+            <name>Sravan Karuturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VPS vs PaaS: How to Choose a Hosting Solution]]></title>
+        <id>687fca00b102539f23984a03</id>
+        <link href="https://www.freecodecamp.org/news/vps-vs-paas-how-to-choose-a-hosting-solution/"/>
+        <updated>2025-07-22T17:27:28.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever stared at a dozen hosting plans, not sure which one to choose, you’re not alone. Hosting isn’t one-size-fits-all, and knowing the difference between a VPS (Virtual Private Server) and a PaaS (Platform as a Service) can help you pick so...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helpful Built-in Functions in C++ that All Devs Should Know]]></title>
+        <id>687fc93c8ff83d5b41883c1e</id>
+        <link href="https://www.freecodecamp.org/news/helpful-built-in-functions-in-cpp/"/>
+        <updated>2025-07-22T17:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Built-in functions in C++ are those functions that are part of the C++ standard libraries. These functions are designed to provide common and essential functionality that is often required in programming. In this article, we will look at some of the ...]]></summary>
+        <author>
+            <name>AYUSH MISHRA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Structure and Algorithm Patterns for LeetCode Interviews]]></title>
+        <id>687fa4c693f63bc290c6ada1</id>
+        <link href="https://www.freecodecamp.org/news/data-structure-and-algorithm-patterns-for-leetcode-interviews/"/>
+        <updated>2025-07-22T14:48:38.000Z</updated>
+        <summary type="html"><![CDATA[To get the best tech jobs, it can be helpful to understand how to apply data structures and algorithms to coding challenges. We just published a comprehensive course on the freeCodeCamp.org channel about data structures and algorithms. This course wi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement VGG From Scratch with PyTorch – Deep Learning Theory]]></title>
+        <id>687fa39006c79bf6e197691e</id>
+        <link href="https://www.freecodecamp.org/news/implement-vgg-from-scratch-with-pytorch-deep-learning-theory/"/>
+        <updated>2025-07-22T14:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Visual Geometry Group (VGG) is one of the most influential convolutional neural networks in computer vision. It is a deep convolutional neural network architecture known for its simple, uniform use of small 3x3 filters stacked in sequence, enabling p...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring vs Spring Boot: How to Choose the Right Java Framework]]></title>
+        <id>687ecc61edf675fee8ff0271</id>
+        <link href="https://www.freecodecamp.org/news/spring-vs-spring-boot-choosing-a-java-framework/"/>
+        <updated>2025-07-21T23:25:21.000Z</updated>
+        <summary type="html"><![CDATA[The Java programming language is a favourite among solo devs and large teams alike. It’s popular for many reasons and use cases, including its mature ecosystem, stable support, efficiency, and reliability. If you’re learning Java with the end goal of...]]></summary>
+        <author>
+            <name>Augustine Alul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Simpler Accordion Menus with HTML <details>]]></title>
         <id>687e45310fc9d9c1bc2da5f7</id>
@@ -88,26 +148,6 @@ Getting Creative With Versal Letters originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make a Dropdown Menu with shadcn/ui]]></title>
-        <id>687964f6562b6ce291fda4e2</id>
-        <link href="https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/"/>
-        <updated>2025-07-17T21:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Dropdown menus are little pop-up menus that help you show more options without cluttering your screen. They’re super helpful in websites and apps. In this guide, you’ll learn how to build a dropdown menu using shadcn/ui. It’s a tool that works well w...]]></summary>
-        <author>
-            <name>Ajay Kalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Agents Remember Things: The Role of Vector Stores in LLM Memory]]></title>
-        <id>687903d3ccb68881821f3a68</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/"/>
-        <updated>2025-07-17T14:08:19.000Z</updated>
-        <summary type="html"><![CDATA[When you talk to an AI assistant, it can feel like it remembers what you said before. But large language models (LLMs) don’t actually have memory on their own. They don’t remember conversations unless that information is given to them again. So, how ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting Clarity on Apple’s Liquid Glass]]></title>
         <id>https://css-tricks.com/?p=387817</id>
         <link href="https://css-tricks.com/getting-clarity-on-apples-liquid-glass/"/>
@@ -116,46 +156,6 @@ Getting Creative With Versal Letters originally published on CSS-Tricks, which i
 Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Revert a Migration in Django]]></title>
-        <id>68781860a9407a5fe14ed384</id>
-        <link href="https://www.freecodecamp.org/news/how-to-revert-a-migration-in-django/"/>
-        <updated>2025-07-16T21:23:44.000Z</updated>
-        <summary type="html"><![CDATA[So, you're working with Django, you've run a migration, and now something’s broken. Maybe you added a field that shouldn't be there. Maybe you renamed a model, and suddenly your database is a mess. Or maybe you're just experimenting and want to roll ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your GitHub Repos Against Malicious Clones]]></title>
-        <id>68781639d48174ae283f8a5b</id>
-        <link href="https://www.freecodecamp.org/news/protect-github-repos-from-malicious-clones/"/>
-        <updated>2025-07-16T21:14:33.000Z</updated>
-        <summary type="html"><![CDATA[The world of open-source development comes with various cyber threats. GitHub is still facing a type of attack that is ongoing since last year where attackers mirrored a huge number of repositories. So as it turns out…the clone wars are not over! If ...]]></summary>
-        <author>
-            <name>brooklyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Interactive Data Visualization with Svelte and D3]]></title>
-        <id>6877db3efdf62027f80a0a49</id>
-        <link href="https://www.freecodecamp.org/news/learn-interactive-data-visualization-with-svelte-and-d3/"/>
-        <updated>2025-07-16T17:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Data is everywhere, but raw numbers on a screen rarely tell a compelling story. To uncover insights and communicate them effectively, you need to make that data visible and interactive. We just posted a new course on the freeCodeCamp.org YouTube chan...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Activate Your Django Virtual Environment]]></title>
-        <id>6877da442945848c5461548c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-activate-your-django-virtual-environment/"/>
-        <updated>2025-07-16T16:58:44.000Z</updated>
-        <summary type="html"><![CDATA[If you’re starting with Django, one of the first steps you’ll hear about is activating a virtual environment. And if that sounds a little technical, don’t worry – I’m going to walk you through exactly what that means, why it matters, and how to do it...]]></summary>
-        <author>
-            <name>Udemezue John</name>
         </author>
     </entry>
     <entry>
@@ -184,7 +184,7 @@ What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks
         <id>https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/</id>
         <link href="https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/"/>
         <updated>2025-07-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.]]></summary>
+        <summary type="html"><![CDATA[Designing a new AI feature? Where do you even begin? Here’s a simple, practical overview with useful design patterns for better AI experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
@@ -378,16 +378,6 @@ Lightly Poking at the CSS if() Function in Chrome 137 originally published on CS
 A Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding The SVG <code>path</code> Element: Curve And Arc Commands]]></title>
-        <id>https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/</id>
-        <link href="https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/"/>
-        <updated>2025-06-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Myriam Frisano)</name>
         </author>
     </entry>
 </feed>
