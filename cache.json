@@ -17,7 +17,7 @@
           "description": "I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.\nMaking a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/making-a-masonry-layout-that-works-today/",
           "publishedOn": "2025-07-28T12:42:16.000Z",
-          "wordCount": 3106,
+          "wordCount": 3268,
           "title": "Making a Masonry Layout That Works Today",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/11/masonry.jpg"
         },
@@ -27,7 +27,7 @@
           "description": "Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most interesting ideas.\nHow to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/how-to-discover-a-css-trick/",
           "publishedOn": "2025-07-25T13:48:36.000Z",
-          "wordCount": 4013,
+          "wordCount": 4056,
           "title": "How to Discover a CSS Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/01/Untitled_Artwork-scaled.jpg"
         },
@@ -164,7 +164,7 @@
           "description": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader picture, explaining why it matters, when to use it, and how to apply it effectively.",
           "link": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
           "publishedOn": "2025-07-28T08:00:00.000Z",
-          "wordCount": 4603,
+          "wordCount": 4606,
           "title": "Web Components: Working With Shadow DOM",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-components-working-with-shadow-dom/web-components-working-with-shadow-dom.jpg",
@@ -194,7 +194,7 @@
           "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.",
           "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
           "publishedOn": "2025-07-21T10:00:00.000Z",
-          "wordCount": 3622,
+          "wordCount": 3625,
           "title": "Handling JavaScript Event Listeners With Parameters",
           "enclosure": {
             "url": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg",
@@ -224,7 +224,7 @@
           "description": "Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.",
           "link": "https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/",
           "publishedOn": "2025-07-16T15:00:00.000Z",
-          "wordCount": 5154,
+          "wordCount": 5151,
           "title": "Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones",
           "enclosure": {
             "url": "http://files.smashing.media/articles/tiny-screens-big-impact-developing-web-apps-feature-phones/tiny-screens-big-impact-developing-web-apps-feature-phones.jpg",
@@ -299,7 +299,7 @@
           "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
           "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "publishedOn": "2025-07-02T13:00:00.000Z",
-          "wordCount": 5888,
+          "wordCount": 5889,
           "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
@@ -322,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
-          "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4864,
-          "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png"
         }
       ]
     },
@@ -345,6 +330,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68880df6ebbc17df34200269",
+          "author": "Shruti Kapoor",
+          "description": "Navigating the journey from senior engineer to staff engineer can be daunting. Promotions are often confusing, and this particular leap can feel even more ambiguous. As someone who has successfully transitioned to a Staff Engineer role, I want to sha...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-promoted-from-senior-to-staff-engineer-tips-from-my-experience/",
+          "publishedOn": "2025-07-28T23:55:34.000Z",
+          "wordCount": 4479,
+          "title": "How to Get Promoted from Senior to Staff Engineer – Tips from My Experience",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746889847/3c80439e-4c98-467f-8d3c-9c7e08e56a4a.png"
+        },
+        {
+          "id": "68880d881bd0d07a1731c788",
+          "author": "Mfonobong Umondia",
+          "description": "In this article, I’ll walk you through what microcopy is, why it matters more than you think, and how to write effective, empathetic, and high-converting microcopy. Whether you're a designer, writer, or product builder, you’ll learn practical tips, r...",
+          "link": "https://www.freecodecamp.org/news/how-to-boost-conversions-with-ux-focused-microcopy/",
+          "publishedOn": "2025-07-28T23:53:44.000Z",
+          "wordCount": 2268,
+          "title": "How to Boost Conversions with UX-Focused Microcopy",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746811969/e16afede-4e1a-4499-bb10-ed2a8de8c159.png"
+        },
+        {
+          "id": "68880d1bebbc17df34200263",
+          "author": "Tope Fasasi",
+          "description": "Database seed scripts are pre-written pieces of code that populate your database with initial data, serving as the foundation for a consistent development environment. These files contain structured data that follows real-world scenarios, letting you...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-database-seed-scripts-for-your-node-application/",
+          "publishedOn": "2025-07-28T23:51:55.000Z",
+          "wordCount": 4955,
+          "title": "How to Build Database Seed Scripts for Your Node Application",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746696472/4a181d0a-5e11-4603-ac27-151d16a6bbf4.png"
+        },
         {
           "id": "6887df408810970f0e04fae6",
           "author": "Mark Mahoney",
@@ -414,36 +429,6 @@
           "wordCount": 4138,
           "title": "A Beginner Developer's Guide to Scrum",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753300058064/7046dd6c-1d9e-4f06-9ca1-65b3bb7eec83.png"
-        },
-        {
-          "id": "6880e81ad62d993a14cbbfa0",
-          "author": "Beau Carnes",
-          "description": "TypeScript is a powerful, statically-typed superset of JavaScript that helps you write safer and more maintainable code. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the essentials of TypeScript. In just o...",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-in-1-hour/",
-          "publishedOn": "2025-07-23T13:48:10.000Z",
-          "wordCount": 1117,
-          "title": "Learn TypeScript in 1 Hour",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753277448558/bdf2acef-f5cd-4be7-9e34-eaaedf060c32.png"
-        },
-        {
-          "id": "687fd1a603524e3b4e7b77fe",
-          "author": "Sravan Karuturi",
-          "description": "What is the Problem We’re Solving? For many app developers, including me, writing the networking layer of an application is a familiar and tedious process. You write and test your first call and after that, it involves a repetitive cycle of tasks. Th...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-robust-networking-layers-in-swift-with-openapi/",
-          "publishedOn": "2025-07-22T18:00:06.000Z",
-          "wordCount": 4470,
-          "title": "How to Build Robust Networking Layers in Swift with OpenAPI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753206547489/dce9a849-1ccd-4cb0-bca8-f879a5aadf5f.png"
-        },
-        {
-          "id": "687fca00b102539f23984a03",
-          "author": "Manish Shivanandhan",
-          "description": "If you’ve ever stared at a dozen hosting plans, not sure which one to choose, you’re not alone. Hosting isn’t one-size-fits-all, and knowing the difference between a VPS (Virtual Private Server) and a PaaS (Platform as a Service) can help you pick so...",
-          "link": "https://www.freecodecamp.org/news/vps-vs-paas-how-to-choose-a-hosting-solution/",
-          "publishedOn": "2025-07-22T17:27:28.000Z",
-          "wordCount": 2417,
-          "title": "VPS vs PaaS: How to Choose a Hosting Solution",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753205132683/65ed718f-a68e-4e31-8db3-cf9265e50817.png"
         }
       ]
     }
