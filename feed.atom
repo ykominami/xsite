@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-31T00:17:03.972Z</id>
+    <id>urn:2025-08-01T00:19:26.721Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T00:17:03.972Z</updated>
+    <updated>2025-08-01T00:19:26.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock]]></title>
+        <id>688b9e80a13232fedab6f08e</id>
+        <link href="https://www.freecodecamp.org/news/learn-enterprise-ai-embeddings-rag-and-multimodal-agents-using-amazon-nova-and-bedrock/"/>
+        <updated>2025-07-31T16:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise AI requires different skills and technologies than your basic OpenAI wrapper applications you see all over. We just published a course on the freeCodeCamp.org YouTube channel that will teach all about Embeddings, RAG, Multimodal Models, an...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithm Analysis Deep Dive]]></title>
+        <id>688b9162ab0310c598dc3d01</id>
+        <link href="https://www.freecodecamp.org/news/algorithm-analysis-deep-dive/"/>
+        <updated>2025-07-31T15:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever just memorized that an algorithm is O(n log n) without truly understanding why? Our new algorithms course on the freeCodeCamp.org YouTube channel will help you build a deep intuition for how algorithms work. This Algorithm Analysis Deep...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Your Technical Writing Skills to Advance Your Career]]></title>
+        <id>688b8e97464706f0734d3716</id>
+        <link href="https://www.freecodecamp.org/news/improve-your-technical-writing-skills-to-advance-your-career/"/>
+        <updated>2025-07-31T15:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Technical writing is important for all sorts of careers. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of technical writing and help you understand its importance in various fields. The course wi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Unicode —The Secret Language Behind Every Text You See]]></title>
+        <id>688b74903e00617596a6f3ce</id>
+        <link href="https://www.freecodecamp.org/news/what-is-unicode-the-secret-language-behind-every-text-you-see/"/>
+        <updated>2025-07-31T13:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever sent a message with an emoji? Read a blog in another language? Or copied some strange symbol from the internet?  All of these are possible because of something called Unicode.  Unicode is a powerful system that lets computers understand...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stories Of August (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/</id>
+        <link href="https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/"/>
+        <updated>2025-07-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MongoDB with Go]]></title>
+        <id>688b03e7d853646bf4658392</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-mongodb-with-go/"/>
+        <updated>2025-07-31T05:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Working with databases is a fundamental part of backend development, particularly when you’re building applications that require persisting, querying, and updating data. In Go, the official MongoDB driver provides a robust way to connect to and inter...]]></summary>
+        <author>
+            <name>Dami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Upload Large Objects to S3 with AWS CLI Multipart Upload]]></title>
+        <id>688b03991b7d57429769e76b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-upload-large-objects-to-s3-with-aws-cli-multipart-upload/"/>
+        <updated>2025-07-31T05:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Uploading large files to S3 using traditional single-request methods can be quite challenging. If your’e transferring a 5GB database backup, and a network interruption happens, it forces you to restart the entire upload process. This wastes bandwidth...]]></summary>
+        <author>
+            <name>Chisom Uma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keeping Article Demos Alive When Third-Party APIs Die]]></title>
         <id>https://css-tricks.com/?p=387974</id>
@@ -98,16 +168,6 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to turn Open Source into a Job with Nick Taylor [Podcast #181]]]></title>
-        <id>68838e179ec7a9f427f4a061</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-with-nick-taylor-podcast-181/"/>
-        <updated>2025-07-25T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Nick Taylor. He's a software engineer from Montreal and a prolific open source contributor.   We talk about: Why trying to build your own tooling will ultimately li...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Discover a CSS Trick]]></title>
         <id>https://css-tricks.com/?p=387862</id>
         <link href="https://css-tricks.com/how-to-discover-a-css-trick/"/>
@@ -116,26 +176,6 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
 How to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Idea to Launch – The Ultimate Tool Stack for Indie Hackers]]></title>
-        <id>688271db426f0b23a6b69d43</id>
-        <link href="https://www.freecodecamp.org/news/ultimate-tool-stack-for-indie-hackers/"/>
-        <updated>2025-07-24T17:48:11.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building something on your own, you don’t have time to mess around with bloated platforms or complicated setups.  You want tools that work, tools that feel intuitive, and tools that help you move quickly from idea to launch.  This article w...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Firebase into Your Flutter Applications: A Handbook for Developers]]></title>
-        <id>688271806aa78fcca439436b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-firebase-into-your-flutter-applications-a-handbook-for-developers/"/>
-        <updated>2025-07-24T17:46:40.000Z</updated>
-        <summary type="html"><![CDATA[In the world of software development, speed, scalability, and user experience are paramount. Flutter, with its expressive UI toolkit and native compilation, offers an unparalleled frontend experience, while Firebase, Google's robust Backend-as-a-Serv...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
@@ -148,36 +188,6 @@ It’s a nice way …
 Atomic Design Certification Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner Developer's Guide to Kanban]]></title>
-        <id>68815e6054ad71fa4b3b7bb6</id>
-        <link href="https://www.freecodecamp.org/news/a-beginner-developers-guide-to-kanban/"/>
-        <updated>2025-07-23T22:12:48.000Z</updated>
-        <summary type="html"><![CDATA[First, a confession: When I was learning to code, my “workflow” was a mess. Sticky notes. Google Docs. Random Trello boards I never checked again. And a to-do list that somehow never got any shorter. Then I joined a real team. Suddenly, I was introdu...]]></summary>
-        <author>
-            <name>Aditya Vikram Kashyap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AI Effectively in Your Dev Projects]]></title>
-        <id>688151d98401037e348f65cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/"/>
-        <updated>2025-07-23T21:19:21.000Z</updated>
-        <summary type="html"><![CDATA[“AI is not going to take your job – but a developer who knows how to use AI will.” I’ve seen this statement everywhere, and it’s the only one about AI taking our jobs that I totally agree with. Software development has changed. It’s not what it used ...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner Developer's Guide to Scrum]]></title>
-        <id>68813c7579e092b166d373b6</id>
-        <link href="https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/"/>
-        <updated>2025-07-23T19:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Let me guess: you’re learning to code…alone. You’ve been grinding through tutorials. You've built a portfolio site, maybe deployed a few projects on GitHub. And now you're trying to land a job or join a team. Then the interviews start. Suddenly, peop...]]></summary>
-        <author>
-            <name>Aditya Vikram Kashyap</name>
         </author>
     </entry>
     <entry>
@@ -357,17 +367,6 @@ Better CSS Shapes Using shape() — Part 4: Close and Move originally published 
         <summary type="html"><![CDATA[CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gap Strikes Back: Now Stylable]]></title>
-        <id>https://css-tricks.com/?p=387471</id>
-        <link href="https://css-tricks.com/the-gap-strikes-back-now-stylable/"/>
-        <updated>2025-07-01T12:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.
-The Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Patrick Brosset</name>
         </author>
     </entry>
 </feed>
