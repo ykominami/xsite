@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-12T00:15:51.907Z</id>
+    <id>urn:2025-08-13T00:16:05.749Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T00:15:51.907Z</updated>
+    <updated>2025-08-13T00:16:05.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Questions]]></title>
+        <id>https://css-tricks.com/?p=388740</id>
+        <link href="https://css-tricks.com/css-questions/"/>
+        <updated>2025-08-12T15:02:21.000Z</updated>
+        <summary type="html"><![CDATA[CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. 
+CSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn DevSecOps and API Security]]></title>
+        <id>689b47c881c4b29c5904b9a5</id>
+        <link href="https://www.freecodecamp.org/news/learn-devsecops-and-api-security/"/>
+        <updated>2025-08-12T13:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through the foundati...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting Creative With Quotes]]></title>
         <id>https://css-tricks.com/?p=387939</id>
@@ -146,16 +167,6 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         <summary type="html"><![CDATA[If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Zero-Trust Authentication in Your Web Apps]]></title>
-        <id>6893afcc4ff769448b46934a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-zero-trust-authentication-in-your-web-apps/"/>
-        <updated>2025-08-06T19:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Your biggest security problem might be inside your own network. Hackers don't break in anymore - they just log in with stolen passwords. Old security systems trusted anyone who got inside the network. But now there's no clear "inside" or "outside." P...]]></summary>
-        <author>
-            <name>Tope Fasasi</name>
         </author>
     </entry>
     <entry>
@@ -378,17 +389,6 @@ What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks
         <summary type="html"><![CDATA[Designing a new AI feature? Where do you even begin? Here’s a simple, practical overview with useful design patterns for better AI experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Line Length in CSS (and Fitting Text to a Container)]]></title>
-        <id>https://css-tricks.com/?p=387679</id>
-        <link href="https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/"/>
-        <updated>2025-07-14T12:38:23.000Z</updated>
-        <summary type="html"><![CDATA[The many ways to juggle line length when working with text... including two proposed  properties that could make it easier in the future.
-Setting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
