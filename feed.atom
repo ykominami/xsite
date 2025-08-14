@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-13T00:16:05.749Z</id>
+    <id>urn:2025-08-14T00:16:05.101Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T00:16:05.749Z</updated>
+    <updated>2025-08-14T00:16:05.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Design Structured Database Systems Using SQL [Full Book]]]></title>
+        <id>689cd35e34fbf8c230ae0b6c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"/>
+        <updated>2025-08-13T18:03:10.000Z</updated>
+        <summary type="html"><![CDATA[This book will guide you, step-by-step, through designing a relational database using SQL. SQL is one of the most recognized relational languages for managing and querying data in databases. You’ll learn the fundamental concepts related to both data ...]]></summary>
+        <author>
+            <name>Daniel García Solla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Tailwind with Electron – With Code Examples]]></title>
+        <id>689cc9ce08eeb0d54c95cff1</id>
+        <link href="https://www.freecodecamp.org/news/integrate-tailwind-with-electron/"/>
+        <updated>2025-08-13T17:22:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn how to integrate Tailwind CSS with Electron to build stylish, responsive desktop applications. You’ll set up Tailwind in an Electron project, configure your project, style the components, and optimize the development wor...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js 15 Caching & Rendering]]></title>
+        <id>689cb5d3faa7288735f4eb77</id>
+        <link href="https://www.freecodecamp.org/news/learn-nextjs-15-caching-and-rendering/"/>
+        <updated>2025-08-13T15:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn Next.js 15 Caching & Rendering using the App Router. We just posted a course on the freeCodeCamp.org YouTube channel for people who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strat...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers]]></title>
+        <id>689ca3344cac10c21b1f670c</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-aspnet-core-and-grpc-handbook/"/>
+        <updated>2025-08-13T14:37:40.000Z</updated>
+        <summary type="html"><![CDATA[In today's distributed computing landscape, efficient service-to-service communication is crucial for building scalable, high-performance applications. gRPC (Google Remote Procedure Call) has emerged as one of the most powerful frameworks for creatin...]]></summary>
+        <author>
+            <name>Isaiah Clifford Opoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Might Need Something Between Root and Relative CSS Units for “Base Elements”]]></title>
+        <id>https://css-tricks.com/?p=388448</id>
+        <link href="https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/"/>
+        <updated>2025-08-13T13:24:55.000Z</updated>
+        <summary type="html"><![CDATA[I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.
+We Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Line To Layout: How Past Experiences Shape Your Design Career]]></title>
+        <id>https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/</id>
+        <link href="https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/"/>
+        <updated>2025-08-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today. Learn how the skills you have learned in your previous jobs can be put to work today in meetings, design reviews, and complicated mid-project pivots.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Campbell)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What WordPress Development Looks Like in the Age of AI]]></title>
+        <id>689bd6ecfb63224ae4bf0fce</id>
+        <link href="https://www.freecodecamp.org/news/what-wordpress-development-looks-like-in-the-age-of-ai/"/>
+        <updated>2025-08-13T00:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Building a website with WordPress used to take a lot of time. You had to install the platform, choose a theme, add plugins, write all the content by hand, and make sure everything worked well together. Even skilled developers spent hours setting up a...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Questions]]></title>
         <id>https://css-tricks.com/?p=388740</id>
@@ -117,56 +188,6 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         <summary type="html"><![CDATA[Learning about time series forecasting in Python is important because it can help predict future trends. We just posted a course on the freeCodeCamp.org YouTube channel that is an introduction to time series forecasting with Python. You’ll learn what...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pass the Google Cloud Associate Cloud Engineer Exam]]></title>
-        <id>6895396a3d0ef84f1dac9702</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-google-cloud-associate-cloud-engineer-exam/"/>
-        <updated>2025-08-07T23:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Prepare for the Google Cloud Associate Cloud Engineer (ACE) exam and pass! We just published an updated Google Cloud Associate Cloud Engineer course on the freeCodeCamp.org YouTube channel. Andrew Brown from ExamPro developed this course. Associate C...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Replicate Figma Designs in Flutter — A Guide to Pixel-Perfect UI Replication]]></title>
-        <id>689533cf9f55ae375dcd160b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-replicate-figma-designs-in-flutter/"/>
-        <updated>2025-08-07T23:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Successfully translating a Figma design into a Flutter application requires more than just placing elements on the screen. The objective is to achieve pixel-perfect fidelity, meaning that the Flutter app must precisely mirror the designer's original ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Metrics That Can Make or Break Your Startup]]></title>
-        <id>6894eea1ba8a1138e41767a1</id>
-        <link href="https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/"/>
-        <updated>2025-08-07T18:21:21.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve built something worth pitching – something more than a fancy hobby with a login screen – you need to know your numbers. Not "I’ll get back to you" know them, know them like you know your co-founder's coffee order. I have seen too many found...]]></summary>
-        <author>
-            <name>Aditya Vikram Kashyap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Free Up and Automatically Manage Disk Space for WSL on Windows 10/11]]></title>
-        <id>6893e671640b08f689368ee6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/"/>
-        <updated>2025-08-06T23:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Windows Subsystem for Linux (WSL) lets you run a Linux environment directly on Windows. This is particularly useful for web development where you can develop and test applications in a Linux environment without leaving Windows. You can even run freeC...]]></summary>
-        <author>
-            <name>brooklyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript vs C#: How to Choose the Right Language as a Beginner]]></title>
-        <id>6893b598ffc433dd809aa59d</id>
-        <link href="https://www.freecodecamp.org/news/choose-the-right-language-js-vs-c-sharp/"/>
-        <updated>2025-08-06T20:05:44.000Z</updated>
-        <summary type="html"><![CDATA[If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -368,27 +389,6 @@ Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tom Barrasso)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Took From the State of Dev 2025 Survey]]></title>
-        <id>https://css-tricks.com/?p=387980</id>
-        <link href="https://css-tricks.com/what-i-took-from-the-state-of-dev-2025-survey/"/>
-        <updated>2025-07-16T12:54:14.000Z</updated>
-        <summary type="html"><![CDATA[State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries.
-What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns For AI Interfaces]]></title>
-        <id>https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/</id>
-        <link href="https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/"/>
-        <updated>2025-07-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing a new AI feature? Where do you even begin? Here’s a simple, practical overview with useful design patterns for better AI experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
