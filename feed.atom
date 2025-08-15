@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-14T00:16:05.101Z</id>
+    <id>urn:2025-08-15T00:17:01.486Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T00:16:05.101Z</updated>
+    <updated>2025-08-15T00:17:01.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up GitHub CLI on WSL2]]></title>
+        <id>689e444cbfe79386885372b0</id>
+        <link href="https://www.freecodecamp.org/news/github-cli-wsl2-guide/"/>
+        <updated>2025-08-14T20:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I set up WSL2 and Ubuntu on my Windows 11 to work on some open-source projects. Since I also maintain these projects, I installed GitHub CLI to ease my workflow. I successfully installed the GitHub CLI, but failed to authenticate it. The er...]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI is Changing the Way We Code]]></title>
+        <id>689e02053c949f7b9979e30a</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-is-changing-the-way-we-code/"/>
+        <updated>2025-08-14T15:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Something big is happening in the world of software development. In 2025, the way we write, read, and think about software has undergone a significant shift, and it’s not subtle. At the center of this shift is artificial intelligence. Just five years...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Accessibility Conformance, Design Systems, and CSS “Base” Units]]></title>
+        <id>https://css-tricks.com/?p=388760</id>
+        <link href="https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/"/>
+        <updated>2025-08-14T13:10:11.000Z</updated>
+        <summary type="html"><![CDATA[My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:
+Hidde’s “Can components conform to WCAG?”
+Joas’s “Automating Design Systems”
+Zell’s “We Might Need Something Between Root and Relative 
+…
+On Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Design Structured Database Systems Using SQL [Full Book]]]></title>
         <id>689cd35e34fbf8c230ae0b6c</id>
@@ -161,16 +196,6 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoning med school to become a software engineer with Edidiong Asikpo [Podcast #182]]]></title>
-        <id>6895fc0b833ca0eb7539dcf4</id>
-        <link href="https://www.freecodecamp.org/news/abandoning-med-school-to-become-a-software-engineer-with-edidiong-asikpo-podcast-182/"/>
-        <updated>2025-08-08T13:30:51.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Edidiong Asikpo. Didi is a software engineer. She grew up in Lagos, the biggest city in Nigeria and the biggest tech hub in Africa.   Didi got into medical school. B...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Power Of The <code>Intl</code> API: A Definitive Guide To Browser-Native Internationalization]]></title>
         <id>https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/</id>
         <link href="https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/"/>
@@ -178,16 +203,6 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         <summary type="html"><![CDATA[Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locales. Instead of relying on heavy third-party libraries, modern JavaScript offers the Intl API — a powerful, native way to handle i18n. A quiet reminder that the web truly is worldwide.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Fuqiao Xue)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Time Series Forecasting in Python]]></title>
-        <id>68953afb9df306687b2a8407</id>
-        <link href="https://www.freecodecamp.org/news/learn-time-series-forecasting-in-python/"/>
-        <updated>2025-08-07T23:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Learning about time series forecasting in Python is important because it can help predict future trends. We just posted a course on the freeCodeCamp.org YouTube channel that is an introduction to time series forecasting with Python. You’ll learn what...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -368,17 +383,6 @@ Getting Creative With Versal Letters originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Oleksii Tkachenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Clarity on Apple’s Liquid Glass]]></title>
-        <id>https://css-tricks.com/?p=387817</id>
-        <link href="https://css-tricks.com/getting-clarity-on-apples-liquid-glass/"/>
-        <updated>2025-07-17T13:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.
-Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
