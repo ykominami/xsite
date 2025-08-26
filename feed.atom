@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-25T00:16:00.561Z</id>
+    <id>urn:2025-08-26T00:15:23.239Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T00:16:00.561Z</updated>
+    <updated>2025-08-26T00:15:23.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Advice Generator Chrome Extension with Manifest V3]]></title>
+        <id>68acc54701889f3eebbb5f25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/"/>
+        <updated>2025-08-25T20:19:19.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Images in Long-Form Content]]></title>
+        <id>https://css-tricks.com/?p=388519</id>
+        <link href="https://css-tricks.com/getting-creative-with-images-in-long-form-content/"/>
+        <updated>2025-08-25T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.
+Getting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How WebGL and Three.js Power Interactive Online Stores]]></title>
+        <id>68ac8e669a85df841d9f286d</id>
+        <link href="https://www.freecodecamp.org/news/how-webgl-and-threejs-power-interactive-online-stores/"/>
+        <updated>2025-08-25T16:25:10.000Z</updated>
+        <summary type="html"><![CDATA[When online shopping first took off, product pages were built around a few static images and maybe a zoom feature. That was enough back then. But today’s customers expect far more. They want to spin a sneaker around, preview a sofa in their living ro...]]></summary>
+        <author>
+            <name>Ajay Kalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bag of Words Works – The Foundation of Language Models]]></title>
+        <id>68ac62884c5ca5b261e8abc3</id>
+        <link href="https://www.freecodecamp.org/news/how-bag-of-words-works/"/>
+        <updated>2025-08-25T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]]]></title>
         <id>68a87d25d6d093f534c090ff</id>
@@ -94,36 +135,6 @@
         <summary type="html"><![CDATA[Tic-Tac-Toe is a great project for beginners who want to learn how to build games. It’s simple to understand but gives you the chance to learn about game state, player turns, winning logic, and user input. In this tutorial, you’ll learn how to build ...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Flutter Web App to Firebase Hosting with GitHub Actions]]></title>
-        <id>68a5fa7836e9cf6aec5e32db</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-flutter-web-app-to-firebase-hosting-with-github-actions/"/>
-        <updated>2025-08-20T16:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Deploying a Flutter web app can feel repetitive if you’re doing it manually every time. GitHub Actions automates this by continuously deploying your app to Firebase Hosting whenever you push code to your repository. This guide walks you through setti...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Key System Design Principles Behind High-Traffic Platforms Like Gaming and Job Discovery]]></title>
-        <id>68a5f915c3b51ce78e8f92b3</id>
-        <link href="https://www.freecodecamp.org/news/learn-key-system-design-principles-behind-high-traffic-platforms-like-gaming-and-job-discovery/"/>
-        <updated>2025-08-20T16:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Over the last three months, life has had me juggling a lot – managing my marriage, taking care of family health issues, and overseeing new construction work at home. Somehow, I got through it all. But looking back, I realised something important: I c...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to Ruby]]></title>
-        <id>68a5f79379e37ec1bf4b9b72</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-ruby/"/>
-        <updated>2025-08-20T16:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Ruby is a programming language designed with developer happiness in mind. Its elegant and intuitive syntax makes coding not only productive but also enjoyable. Ruby stands out with its powerful metaprogramming capabilities, allowing developers to tre...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
         </author>
     </entry>
     <entry>
@@ -371,17 +382,6 @@ Keeping Article Demos Alive When Third-Party APIs Die originally published on CS
         <summary type="html"><![CDATA[The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Are Halland)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Masonry Layout That Works Today]]></title>
-        <id>https://css-tricks.com/?p=387765</id>
-        <link href="https://css-tricks.com/making-a-masonry-layout-that-works-today/"/>
-        <updated>2025-07-28T12:42:16.000Z</updated>
-        <summary type="html"><![CDATA[I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.
-Making a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
