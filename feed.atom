@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-26T00:15:23.239Z</id>
+    <id>urn:2025-08-27T00:15:11.306Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T00:15:23.239Z</updated>
+    <updated>2025-08-27T00:15:11.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Micro Frontends in React with Vite and Module Federation]]></title>
+        <id>68ae1d943a7c9745e83e7797</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/"/>
+        <updated>2025-08-26T20:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Micro Frontend Architecture has become increasingly popular in recent years, as teams look to re-use parts of their existing applications in new projects rather than rebuilding everything from scratch. Micro frontends also allow large teams to share ...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Machine Learning System on Serverless Architecture]]></title>
+        <id>68addf802314e8b22eae4655</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/"/>
+        <updated>2025-08-26T16:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...]]></summary>
+        <author>
+            <name>Kuriko Iwai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing PWAs For Different Display Modes]]></title>
+        <id>https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/</id>
+        <link href="https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/"/>
+        <updated>2025-08-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Declan Chidlow)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Advice Generator Chrome Extension with Manifest V3]]></title>
         <id>68acc54701889f3eebbb5f25</id>
@@ -115,26 +145,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
         <summary type="html"><![CDATA[Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Firebase Crashlytics in a Flutter App (iOS and Android)]]></title>
-        <id>68a6656e9437c0afc5323dc1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-firebase-crashlytics-in-a-flutter-app-ios-and-android/"/>
-        <updated>2025-08-21T00:16:46.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building mobile applications, one of the biggest challenges you might face is ensuring stability in real-world usage. No matter how much testing you do, unexpected crashes are bound to occur. This is where Firebase Crashlytics becomes an ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Tic Tac Toe Game with Phaser.js]]></title>
-        <id>68a62b1746588cd24055077f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/"/>
-        <updated>2025-08-20T20:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Tic-Tac-Toe is a great project for beginners who want to learn how to build games. It’s simple to understand but gives you the chance to learn about game state, player turns, winning logic, and user input. In this tutorial, you’ll learn how to build ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -382,16 +392,6 @@ Keeping Article Demos Alive When Third-Party APIs Die originally published on CS
         <summary type="html"><![CDATA[The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Are Halland)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Components: Working With Shadow DOM]]></title>
-        <id>https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/</id>
-        <link href="https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/"/>
-        <updated>2025-07-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader picture, explaining why it matters, when to use it, and how to apply it effectively.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Russell Beswick)</name>
         </author>
     </entry>
 </feed>
