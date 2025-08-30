@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388637",
+          "author": "Christian Sabourin",
+          "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.\nCSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/",
+          "publishedOn": "2025-08-29T13:06:48.000Z",
+          "wordCount": 2689,
+          "title": "CSS Elevator: A Pure CSS State Machine With Floor Navigation",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/08/arrows-up-down.mov",
+            "length": "11379198",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-elevator-machine.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388588",
           "author": "Preethi",
           "description": "Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack.\nA Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +170,6 @@
           "wordCount": 3198,
           "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/smooth-scroll.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387880",
-          "author": "Zell Liew",
-          "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
-          "publishedOn": "2025-08-04T13:14:45.000Z",
-          "wordCount": 4931,
-          "title": "Thinking Deeply About Theming and Color Naming",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/abstract-color.jpg"
         }
       ]
     },
@@ -174,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
+          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
+          "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.",
+          "link": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
+          "publishedOn": "2025-08-29T10:00:00.000Z",
+          "wordCount": 6904,
+          "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/prompting-design-act-brief-guide-iterate-ai/prompting-design-act-brief-guide-iterate-ai.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/prompting-design-act-brief-guide-iterate-ai/prompting-design-act-brief-guide-iterate-ai.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
           "author": "hello@smashingmagazine.com (Milan Balać)",
           "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.",
           "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
           "publishedOn": "2025-08-27T13:00:00.000Z",
-          "wordCount": 6667,
+          "wordCount": 6677,
           "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg",
@@ -194,7 +214,7 @@
           "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
           "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
           "publishedOn": "2025-08-26T08:00:00.000Z",
-          "wordCount": 4607,
+          "wordCount": 4610,
           "title": "Optimizing PWAs For Different Display Modes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
@@ -209,7 +229,7 @@
           "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
           "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
           "publishedOn": "2025-08-22T08:00:00.000Z",
-          "wordCount": 7496,
+          "wordCount": 7503,
           "title": "A Week In The Life Of An AI-Augmented Designer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg",
@@ -224,7 +244,7 @@
           "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools?",
           "link": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
           "publishedOn": "2025-08-20T10:00:00.000Z",
-          "wordCount": 4721,
+          "wordCount": 4725,
           "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/double-edged-sustainability-sword-ai-web-design/double-edged-sustainability-sword-ai-web-design.jpg",
@@ -239,7 +259,7 @@
           "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.",
           "link": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
           "publishedOn": "2025-08-18T13:00:00.000Z",
-          "wordCount": 5443,
+          "wordCount": null,
           "title": "Beyond The Hype: What AI Can Really Do For Product Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-hype-what-ai-can-do-product-design/beyond-hype-what-ai-can-do-product-design.jpg",
@@ -254,7 +274,7 @@
           "description": "Rodolpho Henrique guides you through the essential aspects of color in digital design and user experience, from the practical steps of creating effective and scalable color palettes to critical accessibility considerations.",
           "link": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
           "publishedOn": "2025-08-15T15:00:00.000Z",
-          "wordCount": 5534,
+          "wordCount": 5533,
           "title": "The Psychology Of Color In UX And Digital Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/psychology-color-ux-design-digital-products/psychology-color-ux-design-digital-products.jpg",
@@ -269,7 +289,7 @@
           "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today.",
           "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
           "publishedOn": "2025-08-13T11:00:00.000Z",
-          "wordCount": 5514,
+          "wordCount": 5508,
           "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
           "enclosure": {
             "url": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg",
@@ -299,7 +319,7 @@
           "description": "Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locales. Instead of relying on heavy third-party libraries, modern JavaScript offers the Intl API — a powerful, native way to handle i18n. A quiet reminder that the web truly is worldwide.",
           "link": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
           "publishedOn": "2025-08-08T10:00:00.000Z",
-          "wordCount": 4110,
+          "wordCount": 4117,
           "title": "The Power Of The <code>Intl</code> API: A Definitive Guide To Browser-Native Internationalization",
           "enclosure": {
             "url": "http://files.smashing.media/articles/power-intl-api-guide-browser-native-internationalization/power-intl-api-guide-browser-native-internationalization.jpg",
@@ -337,36 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-job-interview-helpers/ux-job-interview-helpers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!",
-          "link": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
-          "publishedOn": "2025-07-31T11:00:00.000Z",
-          "wordCount": 4722,
-          "title": "Stories Of August (2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2025/aug-25-august-afloat-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2025/aug-25-august-afloat-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
-          "author": "hello@smashingmagazine.com (Are Halland)",
-          "description": "The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.",
-          "link": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
-          "publishedOn": "2025-07-30T13:00:00.000Z",
-          "wordCount": 4412,
-          "title": "The Core Model: Start FROM The Answer, Not WITH The Solution",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/core-model-start-from-answer-not-solution/core-model-start-from-answer-not-solution.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/core-model-start-from-answer-not-solution/core-model-start-from-answer-not-solution.jpg"
         }
       ]
     },
@@ -375,6 +365,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68b1d0b4c2405fa2535ed0c8",
+          "author": "Opaluwa Emidowojo",
+          "description": "Debugging Kubernetes pods can feel like detective work. Your app crashes, and you're left wondering what happened in those critical moments leading up to failure. Traditional kubectl commands show you logs and statuses, but they can't tell you exactl...",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-kubernetes-pods-with-traceloop-a-complete-beginners-guide/",
+          "publishedOn": "2025-08-29T16:09:24.000Z",
+          "wordCount": 4355,
+          "title": "How to Debug Kubernetes Pods with Traceloop: A Complete Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756483063551/4179b718-7883-4a89-a9c2-1c678185469a.png"
+        },
+        {
+          "id": "68b1c9406e763941de20cda2",
+          "author": "Manish Shivanandhan",
+          "description": "If you’ve ever wanted to make a small game that runs in the browser, Phaser.js is a great place to start. It’s a simple JavaScript library that helps you build interactive 2-D games that you can play in the browser. In this guide, you’ll learn what P...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/",
+          "publishedOn": "2025-08-29T15:37:36.000Z",
+          "wordCount": 4360,
+          "title": "How to Build a Snake Game using Phaser.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756416799827/d337175f-cbf1-40d1-8228-e5f3933ba3d1.png"
+        },
+        {
+          "id": "68b1c07f6b6bda31497df196",
+          "author": "Beau Carnes",
+          "description": "For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden.  Ankur is a prolific contrib...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-ai-as-an-accelerator-not-a-crutch-with-freelance-engineer-ankur-tyagi-podcast-186/",
+          "publishedOn": "2025-08-29T15:00:15.000Z",
+          "wordCount": 1683,
+          "title": "How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756431423018/0140444c-97a0-4f7b-ac99-83a20fae7bdd.png"
+        },
         {
           "id": "68afa02d9547303a1dcc65cf",
           "author": "Manish Shivanandhan",
@@ -444,36 +464,6 @@
           "wordCount": 979,
           "title": "Use Arduinos for Computer Vision",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756258472163/30bdd66e-4458-4c70-b596-20685e993d37.png"
-        },
-        {
-          "id": "68ae1d943a7c9745e83e7797",
-          "author": "Grant Riordan",
-          "description": "Micro Frontend Architecture has become increasingly popular in recent years, as teams look to re-use parts of their existing applications in new projects rather than rebuilding everything from scratch. Micro frontends also allow large teams to share ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/",
-          "publishedOn": "2025-08-26T20:48:20.000Z",
-          "wordCount": 4001,
-          "title": "How to Build Micro Frontends in React with Vite and Module Federation",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756231755011/283b9e67-9a09-4241-9d90-701cb075084d.jpeg"
-        },
-        {
-          "id": "68addf802314e8b22eae4655",
-          "author": "Kuriko Iwai",
-          "description": "Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/",
-          "publishedOn": "2025-08-26T16:23:28.000Z",
-          "wordCount": 7179,
-          "title": "How to Build a Machine Learning System on Serverless Architecture",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756225357023/04572f1b-b9a7-43e0-aabc-2842faa2703f.png"
-        },
-        {
-          "id": "68acc54701889f3eebbb5f25",
-          "author": "Ophy Boamah",
-          "description": "In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/",
-          "publishedOn": "2025-08-25T20:19:19.000Z",
-          "wordCount": 2754,
-          "title": "How to Build an Advice Generator Chrome Extension with Manifest V3",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756152220137/8717b809-1186-4a15-92f8-ea926177ef76.png"
         }
       ]
     }

@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-29T00:15:25.597Z</id>
+    <id>urn:2025-08-30T00:14:40.862Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T00:15:25.597Z</updated>
+    <updated>2025-08-30T00:14:40.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Kubernetes Pods with Traceloop: A Complete Beginner's Guide]]></title>
+        <id>68b1d0b4c2405fa2535ed0c8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-kubernetes-pods-with-traceloop-a-complete-beginners-guide/"/>
+        <updated>2025-08-29T16:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Debugging Kubernetes pods can feel like detective work. Your app crashes, and you're left wondering what happened in those critical moments leading up to failure. Traditional kubectl commands show you logs and statuses, but they can't tell you exactl...]]></summary>
+        <author>
+            <name>Opaluwa Emidowojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Snake Game using Phaser.js]]></title>
+        <id>68b1c9406e763941de20cda2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/"/>
+        <updated>2025-08-29T15:37:36.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever wanted to make a small game that runs in the browser, Phaser.js is a great place to start. It’s a simple JavaScript library that helps you build interactive 2-D games that you can play in the browser. In this guide, you’ll learn what P...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]]]></title>
+        <id>68b1c07f6b6bda31497df196</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-ai-as-an-accelerator-not-a-crutch-with-freelance-engineer-ankur-tyagi-podcast-186/"/>
+        <updated>2025-08-29T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden.  Ankur is a prolific contrib...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Elevator: A Pure CSS State Machine With Floor Navigation]]></title>
+        <id>https://css-tricks.com/?p=388637</id>
+        <link href="https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/"/>
+        <updated>2025-08-29T13:06:48.000Z</updated>
+        <summary type="html"><![CDATA[In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.
+CSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Christian Sabourin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompting Is A Design Act: How To Brief, Guide And Iterate With AI]]></title>
+        <id>https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/</id>
+        <link href="https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/"/>
+        <updated>2025-08-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Your AI Demos with Gradio]]></title>
         <id>68afa02d9547303a1dcc65cf</id>
@@ -97,26 +148,6 @@ A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build Micro Frontends in React with Vite and Module Federation]]></title>
-        <id>68ae1d943a7c9745e83e7797</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/"/>
-        <updated>2025-08-26T20:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Micro Frontend Architecture has become increasingly popular in recent years, as teams look to re-use parts of their existing applications in new projects rather than rebuilding everything from scratch. Micro frontends also allow large teams to share ...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Machine Learning System on Serverless Architecture]]></title>
-        <id>68addf802314e8b22eae4655</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/"/>
-        <updated>2025-08-26T16:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...]]></summary>
-        <author>
-            <name>Kuriko Iwai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimizing PWAs For Different Display Modes]]></title>
         <id>https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/</id>
         <link href="https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/"/>
@@ -124,16 +155,6 @@ A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Declan Chidlow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Advice Generator Chrome Extension with Manifest V3]]></title>
-        <id>68acc54701889f3eebbb5f25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/"/>
-        <updated>2025-08-25T20:19:19.000Z</updated>
-        <summary type="html"><![CDATA[In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
         </author>
     </entry>
     <entry>
@@ -371,37 +392,6 @@ Bringing Back Parallax With Scroll-Driven CSS Animations originally published on
         <summary type="html"><![CDATA[Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however small, is ever wasted.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Deeply About Theming and Color Naming]]></title>
-        <id>https://css-tricks.com/?p=387880</id>
-        <link href="https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/"/>
-        <updated>2025-08-04T13:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.
-Thinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stories Of August (2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/</id>
-        <link href="https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/"/>
-        <updated>2025-07-31T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Core Model: Start FROM The Answer, Not WITH The Solution]]></title>
-        <id>https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/</id>
-        <link href="https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/"/>
-        <updated>2025-07-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Are Halland)</name>
         </author>
     </entry>
 </feed>
