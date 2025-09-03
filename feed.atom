@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-02T00:15:02.516Z</id>
+    <id>urn:2025-09-03T00:13:48.359Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T00:15:02.516Z</updated>
+    <updated>2025-09-03T00:13:48.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Save and Share Flutter Widgets as Images – A Complete Production-Ready Guide]]></title>
+        <id>68b75671263a4383838a1d8a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-and-share-flutter-widgets-as-images-a-complete-production-ready-guide/"/>
+        <updated>2025-09-02T20:41:21.000Z</updated>
+        <summary type="html"><![CDATA[In many apps, you may want users to be able to save or share visual content generated in the UI. Flutter doesn’t ship with a “save widget to image” API, but with RepaintBoundary plus a few small packages, you can capture any widget, save it to the de...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become an Expert in AI-Assisted Coding – A Handbook for Developers]]></title>
+        <id>68b754eb90a7b8458d3a959f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/"/>
+        <updated>2025-09-02T20:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Imagine writing code 3-4x faster while maintaining quality. That's what AI-assisted development can offer. In simple terms, you can be more productive with AI tools like GitHub Copilot as your coding partner. They suggest code, help you debug, and sp...]]></summary>
+        <author>
+            <name>Mrugesh Mohapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Open Source Contribution Myths – Debunked]]></title>
+        <id>68b703ede63728a780d3fc1f</id>
+        <link href="https://www.freecodecamp.org/news/common-open-source-contribution-myths-debunked/"/>
+        <updated>2025-09-02T14:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Many developers shy away from contributing to open source, as it can be intimidating and hard to get started. Even though your contributions might seem inconsequential at first, they can potentially have a huge impact on your career. In this article,...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should the CSS light-dark() Function Support More Than Light and Dark Values?]]></title>
+        <id>https://css-tricks.com/?p=388888</id>
+        <link href="https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/"/>
+        <updated>2025-09-02T14:44:26.000Z</updated>
+        <summary type="html"><![CDATA[The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.
+Should the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build AI Speech-to-Text and Text-to-Speech Accessibility Tools with Python]]></title>
         <id>68b5f910f596271023ce3698</id>
@@ -60,7 +101,7 @@
         <id>68b1c07f6b6bda31497df196</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-ai-as-an-accelerator-not-a-crutch-with-freelance-engineer-ankur-tyagi-podcast-186/"/>
         <updated>2025-08-29T15:00:15.000Z</updated>
-        <summary type="html"><![CDATA[For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden.  Ankur is a prolific contrib...]]></summary>
+        <summary type="html"><![CDATA[For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden. Ankur is a prolific contribu...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -104,36 +145,6 @@ CSS Elevator: A Pure CSS State Machine With Floor Navigation originally publishe
         <summary type="html"><![CDATA[Do you want to improve you JavaScript skills and create 3D web experiences? We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help anyone master JavaScript and Three.js by building five impressive and practical proje...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break Free from Tutorial Hell: A Practical Guide]]></title>
-        <id>68af2c4fa028696d3cf7c091</id>
-        <link href="https://www.freecodecamp.org/news/how-to-break-free-from-tutorial-hell/"/>
-        <updated>2025-08-27T16:03:27.000Z</updated>
-        <summary type="html"><![CDATA[If you have ever spent weeks hopping from one coding tutorial to another, only to freeze the moment you are asked to build something from scratch, you're not alone. This loop, known as tutorial hell, is where many aspiring developers get stuck. It fe...]]></summary>
-        <author>
-            <name>Andrew Ezeani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caching a Next.js API using Redis and Sevalla]]></title>
-        <id>68af2baaa845284174a27982</id>
-        <link href="https://www.freecodecamp.org/news/caching-a-nextjs-api-using-redis-and-sevalla/"/>
-        <updated>2025-08-27T16:00:42.000Z</updated>
-        <summary type="html"><![CDATA[When you hear about Next.js, your first thought may be static websites or React-driven frontends. But that’s just part of the story. Next.js can also power full-featured backend APIs that you can host and scale just like any other backend service. In...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Permissions in Flutter: A Comprehensive Guide]]></title>
-        <id>68af2b5d6d32776366258694</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-permissions-in-flutter-for-beginners/"/>
-        <updated>2025-08-27T15:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Permissions are crucial when building mobile applications that require access to device features such as location, camera, contacts, microphone, storage, and more. And handling permissions effectively ensures that your app provides a seamless user ex...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
@@ -371,17 +382,6 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         <summary type="html"><![CDATA[Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locales. Instead of relying on heavy third-party libraries, modern JavaScript offers the Intl API — a powerful, native way to handle i18n. A quiet reminder that the web truly is worldwide.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Fuqiao Xue)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing Back Parallax With Scroll-Driven CSS Animations]]></title>
-        <id>https://css-tricks.com/?p=387868</id>
-        <link href="https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/"/>
-        <updated>2025-08-06T13:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have scroll-driven animations in CSS, which is free from the main-thread blocking that can plague JavaScript animations.
-Bringing Back Parallax With Scroll-Driven CSS Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Blake Lundquist</name>
         </author>
     </entry>
     <entry>
