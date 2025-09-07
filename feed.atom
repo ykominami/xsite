@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-06T00:14:15.028Z</id>
+    <id>urn:2025-09-07T00:16:29.083Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T00:14:15.028Z</updated>
+    <updated>2025-09-07T00:16:29.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is New in Go 1.25? Explained with Examples]]></title>
+        <id>68bb7a5a881edef26f226cde</id>
+        <link href="https://www.freecodecamp.org/news/what-is-new-in-go/"/>
+        <updated>2025-09-06T00:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.25 isn’t a flashy release with big syntax changes. Instead, it’s a practical one: it fixes long-standing pitfalls, improves runtime safety, adds smarter tooling, and introduces a powerful new JSON engine. These are the kind of updates that make ...]]></summary>
+        <author>
+            <name>Pedro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types]]></title>
         <id>68bb12907f6ca0ada2df447f</id>
@@ -114,16 +124,6 @@ What You Need to Know About CSS Color Interpolation originally published on CSS-
         <summary type="html"><![CDATA[Sentence similarity plays an important role in many natural language processing (NLP) applications.  Whether you build chatbots, recommendation systems, or search engines, understanding how close two sentences are in meaning can improve user experien...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Node.js Event Loop Works]]></title>
-        <id>68b86cca911797ceb3fd37e0</id>
-        <link href="https://www.freecodecamp.org/news/how-the-nodejs-event-loop-works/"/>
-        <updated>2025-09-03T16:28:58.000Z</updated>
-        <summary type="html"><![CDATA[The Node.js event loop is a concept that may seem difficult to understand at first. But as with any seemingly complex subject, the best way to understand it is often through an analogy. In this article, you’ll learn how overworked managers, busy wait...]]></summary>
-        <author>
-            <name>Amanda Ene Adoyi</name>
         </author>
     </entry>
     <entry>
@@ -382,16 +382,6 @@ Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia and Marina explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ilia Kanazin &amp; Marina Chernyshova)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power Of The <code>Intl</code> API: A Definitive Guide To Browser-Native Internationalization]]></title>
-        <id>https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/</id>
-        <link href="https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/"/>
-        <updated>2025-08-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locales. Instead of relying on heavy third-party libraries, modern JavaScript offers the Intl API — a powerful, native way to handle i18n. A quiet reminder that the web truly is worldwide.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Fuqiao Xue)</name>
         </author>
     </entry>
 </feed>
