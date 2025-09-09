@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-08T00:15:32.240Z</id>
+    <id>urn:2025-09-09T00:15:19.587Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T00:15:32.240Z</updated>
+    <updated>2025-09-09T00:15:19.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive]]></title>
+        <id>68bf3ea02c935a9d306bb65a</id>
+        <link href="https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/"/>
+        <updated>2025-09-08T20:37:52.000Z</updated>
+        <summary type="html"><![CDATA[As a dev, you’d probably like to write your application once and not have to worry so much about where it's going to run. This is what the open source framework Hono lets you do, and it’s a game-changer. Hono is a small, incredibly fast web framework...]]></summary>
+        <author>
+            <name>Mayur Vekariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Smart Expense Tracker with Python and LLMs]]></title>
+        <id>68bef0e832085a1cd1a86107</id>
+        <link href="https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms/"/>
+        <updated>2025-09-08T15:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you’re sipping a hot latte from Starbucks on your way to work. You quickly swipe your card, and the receipt gets lost in your bag. Later in the day, you pay for an Uber ride, order lunch, and buy airtime. By evening, you know you’ve spen...]]></summary>
+        <author>
+            <name>Happiness Omale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Submit an App to the iOS App Store]]></title>
+        <id>68beece9aaba834ff6c89ad9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-submit-an-app-to-the-ios-app-store/"/>
+        <updated>2025-09-08T14:49:13.000Z</updated>
+        <summary type="html"><![CDATA[The iOS App Store submission process can feel like a daunting maze, but it doesn’t have to be. We just posted a course on the freeCodeCamp.org YouTube channel is designed to be your guide through this entire process, from start to finish. Shad Rayhan...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Postman Scripts to Simplify Your API Authentication Process]]></title>
+        <id>68bee731d2147595571c5b44</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-postman-scripts/"/>
+        <updated>2025-09-08T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Postman is a platform used by developers, API testers, technical writers and DevOps teams for testing, documenting and collaborating on API development. It provides a user-friendly interface for making different types of API requests (HTTP, GraphQL, ...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started With Navigation in Flutter Using AutoRoute]]></title>
+        <id>68bee239d2147595571c5b1a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-navigation-in-flutter-using-autoroute/"/>
+        <updated>2025-09-08T14:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Navigation is one of the most important parts of any mobile application. Users expect to move seamlessly between screens such as home, settings, profile, and more. While Flutter provides built-in navigation using Navigator, managing routes can quickl...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composition in CSS]]></title>
+        <id>https://css-tricks.com/?p=388424</id>
+        <link href="https://css-tricks.com/composition-in-css/"/>
+        <updated>2025-09-08T13:55:26.000Z</updated>
+        <summary type="html"><![CDATA[CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.
+Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is New in Go 1.25? Explained with Examples]]></title>
         <id>68bb7a5a881edef26f226cde</id>
@@ -56,16 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]]]></title>
-        <id>68bafafeb9e1fc8577966b86</id>
-        <link href="https://www.freecodecamp.org/news/how-to-focus-on-building-your-skills-when-everythings-so-distracting-with-ania-kubow-podcast-187/"/>
-        <updated>2025-09-05T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[For this week's interview, Quincy is talking with Ania Kubów. She's a software engineer and prolific programming teacher on YouTube. She shares tips for: Getting into game development and using JavaScript and browser games as an entry point How to ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What You Need to Know About CSS Color Interpolation]]></title>
         <id>https://css-tricks.com/?p=388479</id>
         <link href="https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/"/>
@@ -77,16 +128,6 @@ What You Need to Know About CSS Color Interpolation originally published on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Fine-Tune Large Language Models]]></title>
-        <id>68b99deeba241d08aec7ff6f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-large-language-models/"/>
-        <updated>2025-09-04T14:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Fine-tuning helps you become a master and professional in AI engineering. We just posted a course on the freeCodeCamp.org YouTube channel that offers a comprehensive guide to fine-tuning LLMs, taking you from the basics to advanced practical applicat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing For TV: Principles, Patterns And Practical Guidance (Part 2)]]></title>
         <id>https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/</id>
         <link href="https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/"/>
@@ -94,36 +135,6 @@ What You Need to Know About CSS Color Interpolation originally published on CSS-
         <summary type="html"><![CDATA[After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Milan Balać)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enhance Images with Neural Networks]]></title>
-        <id>68b8e1073c8fb81fc2265eef</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enhance-images-with-neural-networks/"/>
-        <updated>2025-09-04T00:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is changing how we work with images. What once took hours in Photoshop can now happen in seconds with AI-powered tools. You can take a blurry picture, enlarge it without losing sharpness, fix the lighting, remove unwanted nois...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started With GoRouter in Flutter]]></title>
-        <id>68b8dda2076b23349200d66a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-gorouter-in-flutter/"/>
-        <updated>2025-09-04T00:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Navigating between screens in Flutter is crucial for any app. And while the built-in Navigator API provides functionality, it can get complex for larger projects. This is where go_router shines, offering a more declarative, URL-based, and feature-ric...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Sentence Similarity Check Using Sentence Transformers]]></title>
-        <id>68b86d04b7b16a9a0d9ce2d2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-sentence-similarity-check-using-sentence-transformers/"/>
-        <updated>2025-09-03T16:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Sentence similarity plays an important role in many natural language processing (NLP) applications.  Whether you build chatbots, recommendation systems, or search engines, understanding how close two sentences are in meaning can improve user experien...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -361,17 +372,6 @@ CSS-Questions originally published on CSS-Tricks, which is part of the DigitalOc
 Getting Creative With Quotes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stuff & Nonsense Practical Layout Workshop]]></title>
-        <id>https://css-tricks.com/?p=388616</id>
-        <link href="https://css-tricks.com/stuff-nonsense-practical-layout-workshop/"/>
-        <updated>2025-08-11T12:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and save a few bucks with a coupon code.
-Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

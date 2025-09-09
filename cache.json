@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388424",
+          "author": "Zell Liew",
+          "description": "CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.\nComposition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/composition-in-css/",
+          "publishedOn": "2025-09-08T13:55:26.000Z",
+          "wordCount": 2513,
+          "title": "Composition in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388479",
           "author": "Sunkanmi Fafowora",
           "description": "Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  \nWhat You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 2986,
           "title": "Getting Creative With Quotes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/s_790F7B84CC43EDAACAC230BA09FDB2B94DE343C5FDA5C4802B33DF9B607B71C2_1752019872672_2025-07-09-9.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388616",
-          "author": "Geoff Graham",
-          "description": "Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and save a few bucks with a coupon code.\nStuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/stuff-nonsense-practical-layout-workshop/",
-          "publishedOn": "2025-08-11T12:16:00.000Z",
-          "wordCount": 1868,
-          "title": "Stuff & Nonsense Practical Layout Workshop",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2025/08/andy-clarke-ti-114.png.avif"
         }
       ]
     },
@@ -184,7 +184,7 @@
           "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.",
           "link": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
           "publishedOn": "2025-09-04T10:00:00.000Z",
-          "wordCount": 7287,
+          "wordCount": 7288,
           "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg",
@@ -199,7 +199,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
           "publishedOn": "2025-08-31T08:00:00.000Z",
-          "wordCount": 4722,
+          "wordCount": 4833,
           "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png",
@@ -214,7 +214,7 @@
           "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.",
           "link": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
           "publishedOn": "2025-08-29T10:00:00.000Z",
-          "wordCount": 6899,
+          "wordCount": 6900,
           "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/prompting-design-act-brief-guide-iterate-ai/prompting-design-act-brief-guide-iterate-ai.jpg",
@@ -229,7 +229,7 @@
           "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.",
           "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
           "publishedOn": "2025-08-27T13:00:00.000Z",
-          "wordCount": 6680,
+          "wordCount": 6682,
           "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg",
@@ -244,7 +244,7 @@
           "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
           "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
           "publishedOn": "2025-08-26T08:00:00.000Z",
-          "wordCount": 4601,
+          "wordCount": 4607,
           "title": "Optimizing PWAs For Different Display Modes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
@@ -259,7 +259,7 @@
           "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
           "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
           "publishedOn": "2025-08-22T08:00:00.000Z",
-          "wordCount": 7499,
+          "wordCount": 7507,
           "title": "A Week In The Life Of An AI-Augmented Designer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg",
@@ -289,7 +289,7 @@
           "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.",
           "link": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
           "publishedOn": "2025-08-18T13:00:00.000Z",
-          "wordCount": 5431,
+          "wordCount": 5448,
           "title": "Beyond The Hype: What AI Can Really Do For Product Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-hype-what-ai-can-do-product-design/beyond-hype-what-ai-can-do-product-design.jpg",
@@ -304,7 +304,7 @@
           "description": "Rodolpho Henrique guides you through the essential aspects of color in digital design and user experience, from the practical steps of creating effective and scalable color palettes to critical accessibility considerations.",
           "link": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
           "publishedOn": "2025-08-15T15:00:00.000Z",
-          "wordCount": 5533,
+          "wordCount": 5525,
           "title": "The Psychology Of Color In UX And Digital Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/psychology-color-ux-design-digital-products/psychology-color-ux-design-digital-products.jpg",
@@ -319,7 +319,7 @@
           "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today.",
           "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
           "publishedOn": "2025-08-13T11:00:00.000Z",
-          "wordCount": 5517,
+          "wordCount": 5507,
           "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
           "enclosure": {
             "url": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg",
@@ -334,7 +334,7 @@
           "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia and Marina explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.",
           "link": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
           "publishedOn": "2025-08-11T08:00:00.000Z",
-          "wordCount": 5852,
+          "wordCount": 5859,
           "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-with-ai-practical-techniques-product-design/designing-with-ai-practical-techniques-product-design.jpg",
@@ -350,6 +350,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68bf3ea02c935a9d306bb65a",
+          "author": "Mayur Vekariya",
+          "description": "As a dev, you’d probably like to write your application once and not have to worry so much about where it's going to run. This is what the open source framework Hono lets you do, and it’s a game-changer. Hono is a small, incredibly fast web framework...",
+          "link": "https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/",
+          "publishedOn": "2025-09-08T20:37:52.000Z",
+          "wordCount": 4425,
+          "title": "How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757363825321/562644c8-b2b3-4c1c-92c2-736bcade5aac.png"
+        },
+        {
+          "id": "68bef0e832085a1cd1a86107",
+          "author": "Happiness Omale",
+          "description": "Imagine that you’re sipping a hot latte from Starbucks on your way to work. You quickly swipe your card, and the receipt gets lost in your bag. Later in the day, you pay for an Uber ride, order lunch, and buy airtime. By evening, you know you’ve spen...",
+          "link": "https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms/",
+          "publishedOn": "2025-09-08T15:06:16.000Z",
+          "wordCount": 3136,
+          "title": "How to Build a Smart Expense Tracker with Python and LLMs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757342938389/164c8a45-d566-4de4-9a0f-cc9c270ce262.png"
+        },
+        {
+          "id": "68beece9aaba834ff6c89ad9",
+          "author": "Beau Carnes",
+          "description": "The iOS App Store submission process can feel like a daunting maze, but it doesn’t have to be. We just posted a course on the freeCodeCamp.org YouTube channel is designed to be your guide through this entire process, from start to finish. Shad Rayhan...",
+          "link": "https://www.freecodecamp.org/news/how-to-submit-an-app-to-the-ios-app-store/",
+          "publishedOn": "2025-09-08T14:49:13.000Z",
+          "wordCount": 1051,
+          "title": "How to Submit an App to the iOS App Store",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757341462696/49823d35-ea00-400e-b90a-2df3f6edc5c6.png"
+        },
+        {
+          "id": "68bee731d2147595571c5b44",
+          "author": "Orim Dominic Adah",
+          "description": "Postman is a platform used by developers, API testers, technical writers and DevOps teams for testing, documenting and collaborating on API development. It provides a user-friendly interface for making different types of API requests (HTTP, GraphQL, ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-postman-scripts/",
+          "publishedOn": "2025-09-08T14:24:49.000Z",
+          "wordCount": 1791,
+          "title": "How to Use Postman Scripts to Simplify Your API Authentication Process",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757341168209/dc77dc00-a0a6-40f7-b766-ce07d0d8a637.png"
+        },
+        {
+          "id": "68bee239d2147595571c5b1a",
+          "author": "Atuoha Anthony",
+          "description": "Navigation is one of the most important parts of any mobile application. Users expect to move seamlessly between screens such as home, settings, profile, and more. While Flutter provides built-in navigation using Navigator, managing routes can quickl...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-navigation-in-flutter-using-autoroute/",
+          "publishedOn": "2025-09-08T14:03:37.000Z",
+          "wordCount": 2626,
+          "title": "How to Get Started With Navigation in Flutter Using AutoRoute",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757340174515/e1614c20-e403-44a7-8509-514c6839bc4c.png"
+        },
         {
           "id": "68bb7a5a881edef26f226cde",
           "author": "Pedro",
@@ -399,56 +449,6 @@
           "wordCount": 1141,
           "title": "Introducing freeCodeCamp Daily Python and JavaScript Challenges – Solve a New Programming Puzzle Every Day",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757012321426/66cb1d9b-b2e1-4911-bea5-ca1f1308ca35.png"
-        },
-        {
-          "id": "68bafafeb9e1fc8577966b86",
-          "author": "Beau Carnes",
-          "description": "For this week's interview, Quincy is talking with Ania Kubów. She's a software engineer and prolific programming teacher on YouTube. She shares tips for: Getting into game development and using JavaScript and browser games as an entry point How to ...",
-          "link": "https://www.freecodecamp.org/news/how-to-focus-on-building-your-skills-when-everythings-so-distracting-with-ania-kubow-podcast-187/",
-          "publishedOn": "2025-09-05T15:00:14.000Z",
-          "wordCount": 1408,
-          "title": "How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757029732024/f7c52449-77f9-4fa4-bbd5-34c3773658dd.png"
-        },
-        {
-          "id": "68b99deeba241d08aec7ff6f",
-          "author": "Beau Carnes",
-          "description": "Fine-tuning helps you become a master and professional in AI engineering. We just posted a course on the freeCodeCamp.org YouTube channel that offers a comprehensive guide to fine-tuning LLMs, taking you from the basics to advanced practical applicat...",
-          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-large-language-models/",
-          "publishedOn": "2025-09-04T14:10:54.000Z",
-          "wordCount": 1089,
-          "title": "How to Fine-Tune Large Language Models",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756995027155/0fb66277-b8cb-40f2-a398-456f7e1031ee.png"
-        },
-        {
-          "id": "68b8e1073c8fb81fc2265eef",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence is changing how we work with images. What once took hours in Photoshop can now happen in seconds with AI-powered tools. You can take a blurry picture, enlarge it without losing sharpness, fix the lighting, remove unwanted nois...",
-          "link": "https://www.freecodecamp.org/news/how-to-enhance-images-with-neural-networks/",
-          "publishedOn": "2025-09-04T00:44:55.000Z",
-          "wordCount": 2243,
-          "title": "How to Enhance Images with Neural Networks",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756858495684/2742e9b0-87f8-47bf-a01d-2e979e4dfb35.png"
-        },
-        {
-          "id": "68b8dda2076b23349200d66a",
-          "author": "Atuoha Anthony",
-          "description": "Navigating between screens in Flutter is crucial for any app. And while the built-in Navigator API provides functionality, it can get complex for larger projects. This is where go_router shines, offering a more declarative, URL-based, and feature-ric...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-gorouter-in-flutter/",
-          "publishedOn": "2025-09-04T00:30:26.000Z",
-          "wordCount": 5985,
-          "title": "How to Get Started With GoRouter in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756945807034/30528205-5ed9-4517-add6-5a3f32e6ac96.png"
-        },
-        {
-          "id": "68b86d04b7b16a9a0d9ce2d2",
-          "author": "Manish Shivanandhan",
-          "description": "Sentence similarity plays an important role in many natural language processing (NLP) applications.  Whether you build chatbots, recommendation systems, or search engines, understanding how close two sentences are in meaning can improve user experien...",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-sentence-similarity-check-using-sentence-transformers/",
-          "publishedOn": "2025-09-03T16:29:56.000Z",
-          "wordCount": 1985,
-          "title": "How to Perform Sentence Similarity Check Using Sentence Transformers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756916978057/de0bda62-c9ea-48d1-b1ac-b78eb10e82d2.png"
         }
       ]
     }
