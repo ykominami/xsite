@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388800",
+          "author": "Geoff Graham",
+          "description": "Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.\nWhat’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whatre-your-top-4-css-properties/",
+          "publishedOn": "2025-09-10T13:13:41.000Z",
+          "wordCount": 2469,
+          "title": "What’re Your Top 4 CSS Properties?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/properties.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=388424",
           "author": "Zell Liew",
           "description": "CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.\nComposition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 1738,
           "title": "CSS-Questions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-questions-thumb.jpeg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387939",
-          "author": "Andy Clarke",
-          "description": "How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML blockquote element using borders, decorative quote marks, custom shapes, and a few unexpected properties.\nGetting Creative With Quotes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-quotes/",
-          "publishedOn": "2025-08-11T13:43:14.000Z",
-          "wordCount": 2986,
-          "title": "Getting Creative With Quotes",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/s_790F7B84CC43EDAACAC230BA09FDB2B94DE343C5FDA5C4802B33DF9B607B71C2_1752019872672_2025-07-09-9.webp"
         }
       ]
     },
@@ -179,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.",
+          "link": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
+          "publishedOn": "2025-09-10T10:00:00.000Z",
+          "wordCount": 5852,
+          "title": "Integrating CSS Cascade Layers To An Existing Project",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
           "author": "hello@smashingmagazine.com (Milan Balać)",
           "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.",
           "link": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
           "publishedOn": "2025-09-04T10:00:00.000Z",
-          "wordCount": 7285,
+          "wordCount": 7295,
           "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg",
@@ -199,7 +214,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
           "publishedOn": "2025-08-31T08:00:00.000Z",
-          "wordCount": 4734,
+          "wordCount": 4718,
           "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png",
@@ -214,7 +229,7 @@
           "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.",
           "link": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
           "publishedOn": "2025-08-29T10:00:00.000Z",
-          "wordCount": 6907,
+          "wordCount": 6905,
           "title": "Prompting Is A Design Act: How To Brief, Guide And Iterate With AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/prompting-design-act-brief-guide-iterate-ai/prompting-design-act-brief-guide-iterate-ai.jpg",
@@ -229,7 +244,7 @@
           "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.",
           "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
           "publishedOn": "2025-08-27T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 6681,
           "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg",
@@ -244,7 +259,7 @@
           "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
           "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
           "publishedOn": "2025-08-26T08:00:00.000Z",
-          "wordCount": 4608,
+          "wordCount": 4600,
           "title": "Optimizing PWAs For Different Display Modes",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
@@ -259,7 +274,7 @@
           "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
           "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
           "publishedOn": "2025-08-22T08:00:00.000Z",
-          "wordCount": 7509,
+          "wordCount": 7510,
           "title": "A Week In The Life Of An AI-Augmented Designer",
           "enclosure": {
             "url": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg",
@@ -274,7 +289,7 @@
           "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools?",
           "link": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
           "publishedOn": "2025-08-20T10:00:00.000Z",
-          "wordCount": 4728,
+          "wordCount": 4733,
           "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/double-edged-sustainability-sword-ai-web-design/double-edged-sustainability-sword-ai-web-design.jpg",
@@ -289,7 +304,7 @@
           "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.",
           "link": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
           "publishedOn": "2025-08-18T13:00:00.000Z",
-          "wordCount": 5445,
+          "wordCount": 5446,
           "title": "Beyond The Hype: What AI Can Really Do For Product Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-hype-what-ai-can-do-product-design/beyond-hype-what-ai-can-do-product-design.jpg",
@@ -304,7 +319,7 @@
           "description": "Rodolpho Henrique guides you through the essential aspects of color in digital design and user experience, from the practical steps of creating effective and scalable color palettes to critical accessibility considerations.",
           "link": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
           "publishedOn": "2025-08-15T15:00:00.000Z",
-          "wordCount": 5542,
+          "wordCount": 5535,
           "title": "The Psychology Of Color In UX And Digital Products",
           "enclosure": {
             "url": "http://files.smashing.media/articles/psychology-color-ux-design-digital-products/psychology-color-ux-design-digital-products.jpg",
@@ -319,7 +334,7 @@
           "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today.",
           "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
           "publishedOn": "2025-08-13T11:00:00.000Z",
-          "wordCount": 5515,
+          "wordCount": null,
           "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
           "enclosure": {
             "url": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg",
@@ -335,6 +350,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c19bc01159a9ac851f6cb5",
+          "author": "Tim Kleier",
+          "description": "Most developers are introduced to databases and APIs through a simple pattern: CRUD—Create, Read, Update, Delete. It seems like the perfect abstraction. With just four operations, you can model almost anything. Tutorials use it. Frameworks generate i...",
+          "link": "https://www.freecodecamp.org/news/extend-crud-operations-to-align-with-business-workflows/",
+          "publishedOn": "2025-09-10T15:39:44.000Z",
+          "wordCount": 1865,
+          "title": "How to Extend CRUD Operations to Align with Business Workflows",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757518255485/8e727e36-d22a-42d9-b1a7-98d3ca5eae35.png"
+        },
+        {
+          "id": "68c1848b89889b1c80036d24",
+          "author": "Beau Carnes",
+          "description": "Ever wanted to build your own video game but felt overwhelmed by where to start? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step from a blank screen to a complete, playable game using the powerful a...",
+          "link": "https://www.freecodecamp.org/news/learn-game-development-by-building-your-first-platformer-with-godot/",
+          "publishedOn": "2025-09-10T14:00:43.000Z",
+          "wordCount": 1086,
+          "title": "Learn Game Development by Building Your First Platformer with Godot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757366007955/01b7fca7-e8f1-49b6-9b4b-c44bc22204e7.png"
+        },
+        {
+          "id": "68c169e7d950044818727fd6",
+          "author": "Ophy Boamah",
+          "description": "Building a browser extension is easy, but ensuring that it’s accessible to everyone takes deliberate care and skill. Your extension might fetch data flawlessly and have a beautiful interface, but if screen reader users or keyboard navigators can’t us...",
+          "link": "https://www.freecodecamp.org/news/how-to-design-accessible-browser-extensions/",
+          "publishedOn": "2025-09-10T12:07:03.000Z",
+          "wordCount": 2370,
+          "title": "How to Design Accessible Browser Extensions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757460414092/f3a9f3ec-f520-4627-b839-a28f15574ba6.png"
+        },
         {
           "id": "68c03b5738ba5d78dfb7c607",
           "author": "Atuoha Anthony",
@@ -404,36 +449,6 @@
           "wordCount": 2626,
           "title": "How to Get Started With Navigation in Flutter Using AutoRoute",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757340174515/e1614c20-e403-44a7-8509-514c6839bc4c.png"
-        },
-        {
-          "id": "68bb7a5a881edef26f226cde",
-          "author": "Pedro",
-          "description": "Go 1.25 isn’t a flashy release with big syntax changes. Instead, it’s a practical one: it fixes long-standing pitfalls, improves runtime safety, adds smarter tooling, and introduces a powerful new JSON engine. These are the kind of updates that make ...",
-          "link": "https://www.freecodecamp.org/news/what-is-new-in-go/",
-          "publishedOn": "2025-09-06T00:03:38.000Z",
-          "wordCount": 2046,
-          "title": "What is New in Go 1.25? Explained with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757071558420/9a83b3fb-dbea-4d38-96ca-460bf20c213d.png"
-        },
-        {
-          "id": "68bb12907f6ca0ada2df447f",
-          "author": "Gabor Koos",
-          "description": "Golang has a reputation for simplicity, and one reason is its small set of core data structures. Unlike some languages that offer lists, vectors, dictionaries, hashmaps, tuples, sets, and more, Go keeps things minimal. The three fundamental building ...",
-          "link": "https://www.freecodecamp.org/news/arrays-slices-and-maps-in-go-a-quick-guide-to-collection-types/",
-          "publishedOn": "2025-09-05T16:40:48.000Z",
-          "wordCount": 4994,
-          "title": "Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757090426408/327ded41-5020-4f83-afa2-334f15569998.png"
-        },
-        {
-          "id": "68bb0031e67497d3bf64ec82",
-          "author": "Atuoha Anthony",
-          "description": "Uploading files is one of the most common requirements in modern web applications. Whether it’s profile pictures, documents, or bulk uploads, users expect a smooth and reliable experience. With Flutter Web and Firebase Storage, you can implement this...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-upload-service-in-flutter-web-with-firebase/",
-          "publishedOn": "2025-09-05T15:22:25.000Z",
-          "wordCount": 3398,
-          "title": "How to Build an Upload Service in Flutter Web with Firebase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757085725508/3ff2d66d-5b3b-4784-904b-de7b464de41b.png"
         }
       ]
     }
