@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-17T00:14:13.707Z</id>
+    <id>urn:2025-09-18T00:13:52.094Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T00:14:13.707Z</updated>
+    <updated>2025-09-18T00:13:52.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
+        <id>https://css-tricks.com/?p=389101</id>
+        <link href="https://css-tricks.com/is-it-time-to-un-sass/"/>
+        <updated>2025-09-17T14:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.
+Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jeff Bridgforth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Loops in C#]]></title>
+        <id>68caa6382769a3737407de1b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-loops-in-c/"/>
+        <updated>2025-09-17T12:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Writing the same code repeatedly is poor practice in C# and doesn’t follow the Don’t Repeat Yourself (DRY) principle. But, there are many times in programming where you need to repeat commands, operations, or computations multiple times — perhaps cha...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use ObjectBox in Flutter]]></title>
         <id>68c9995460a5f06c06227f63</id>
@@ -166,16 +187,6 @@ Compiling Multiple CSS Files into One originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Data breaches are a constant threat, and traditional encryption practices often aren't enough to protect sensitive information throughout its entire lifecycle. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Every Student Should Join Hackathons]]></title>
-        <id>68c2272573bc3e829c0afc65</id>
-        <link href="https://www.freecodecamp.org/news/why-every-student-should-join-hackathons/"/>
-        <updated>2025-09-11T01:34:29.000Z</updated>
-        <summary type="html"><![CDATA[After graduation, I noticed many fresh grads struggling to land jobs. It wasn’t because they lacked effort or qualifications. The real issue was that what we learn in university doesn’t fully match what employers are looking for. Now, with the rise o...]]></summary>
-        <author>
-            <name>Tech With RJ</name>
         </author>
     </entry>
     <entry>
@@ -355,27 +366,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
         <summary type="html"><![CDATA[AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Layered Text: The Basics]]></title>
-        <id>https://css-tricks.com/?p=388313</id>
-        <link href="https://css-tricks.com/3d-layered-text-the-basics/"/>
-        <updated>2025-08-18T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, which is covered in this three-part series.
-3D Layered Text: The Basics originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond The Hype: What AI Can Really Do For Product Design]]></title>
-        <id>https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/</id>
-        <link href="https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/"/>
-        <updated>2025-08-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nikita Samutin)</name>
         </author>
     </entry>
 </feed>
