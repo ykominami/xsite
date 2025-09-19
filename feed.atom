@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-18T00:13:52.094Z</id>
+    <id>urn:2025-09-19T00:14:39.561Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T00:13:52.094Z</updated>
+    <updated>2025-09-19T00:14:39.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing New freeCodeCamp Certifications in the Full Stack Developer Curriculum]]></title>
+        <id>68cc7258080e9a4dee6b7952</id>
+        <link href="https://www.freecodecamp.org/news/introducing-freecodecamp-checkpoint-certifications/"/>
+        <updated>2025-09-18T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm a big fan of CompTIA and the rigor of their certifications. I wanted freeCodeCamp's new Full Stack Developer cert to be similarly rigorous. But I made one major miscalculation. I underestimated people's desire to earn certifications within less t...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Authentication and Authorization in ASP.NET]]></title>
+        <id>68cc3e9e6c4695a8ff386d48</id>
+        <link href="https://www.freecodecamp.org/news/master-authentication-and-authorization-in-aspnet/"/>
+        <updated>2025-09-18T17:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Securing modern web applications is an important skill for any developer, and a foundational part of this is understanding how to manage user access. We just posted new course on the freeCodeCamp.org that will teach you about authentication and autho...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Minimize The Environmental Impact Of Your Website]]></title>
+        <id>https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/</id>
+        <link href="https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (James Chudley)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multimodal Makaton-to-English Translator for Accessible Education]]></title>
+        <id>68cb5e6df1766dffdd20f610</id>
+        <link href="https://www.freecodecamp.org/news/build-a-multimodal-translator-for-accessible-education/"/>
+        <updated>2025-09-18T01:20:45.000Z</updated>
+        <summary type="html"><![CDATA[A year nine student walks into class full of ideas, but when it is time to contribute, the tools around them do not listen. Their speech is difficult for standard voice systems to recognise, typing feels slow and exhausting, and the lesson moves on w...]]></summary>
+        <author>
+            <name>OMOTAYO OMOYEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Cosine Similarity Work? The Math Behind LLMs Explained]]></title>
+        <id>68cb5c87b90c34f2f16f5703</id>
+        <link href="https://www.freecodecamp.org/news/how-does-cosine-similarity-work/"/>
+        <updated>2025-09-18T01:12:39.000Z</updated>
+        <summary type="html"><![CDATA[When you talk to a large language model (LLM), it feels like the model understands meaning. But under the hood, the system relies on numbers, vectors, and math to find the relationships between words and sentences. One of the most important tools tha...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
         <id>https://css-tricks.com/?p=389101</id>
@@ -139,36 +189,6 @@ What Can We Actually Do With corner-shape? originally published on CSS-Tricks, w
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]]]></title>
-        <id>68c42771b2d1879f98d1094b</id>
-        <link href="https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/"/>
-        <updated>2025-09-12T14:00:17.000Z</updated>
-        <summary type="html"><![CDATA[For this week's interview, we've got a special treat. Quincy Larson talking with two legends in the self-taught developer community. Danny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Front-End Developers Should Understand UI/UX Design]]></title>
-        <id>68c4087abba5a7e638ae4cd6</id>
-        <link href="https://www.freecodecamp.org/news/why-front-end-developers-should-understand-uiux-design/"/>
-        <updated>2025-09-12T11:48:10.000Z</updated>
-        <summary type="html"><![CDATA[When users interact with a website or application, the first thing they notice isn’t the code. Instead, it’s the design and experience. Smooth navigation, intuitive layouts, and visually appealing interfaces are what keep users engaged. Behind these ...]]></summary>
-        <author>
-            <name>Asfak Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering Cheat Sheet for GPT-5: Learn These Patterns for Solid Code Generation]]></title>
-        <id>68c3f6454edd0f63eaaf098e</id>
-        <link href="https://www.freecodecamp.org/news/prompt-engineering-cheat-sheet-for-gpt-5/"/>
-        <updated>2025-09-12T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[When large language models like ChatGPT first became widely available, a lot of us developers felt like we’d been handed a new superpower. We could use LLMs to help us develop new coding projects, build websites, and much more – just using a few prom...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
         <id>https://css-tricks.com/?p=389117</id>
         <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
@@ -177,16 +197,6 @@ What Can We Actually Do With corner-shape? originally published on CSS-Tricks, w
 Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Secure Web Applications with PHP, Symfony, and MongoDB]]></title>
-        <id>68c2cf0fe8903924be3e8c8c</id>
-        <link href="https://www.freecodecamp.org/news/build-secure-web-applications-with-php-symfony-and-mongodb/"/>
-        <updated>2025-09-11T13:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Data breaches are a constant threat, and traditional encryption practices often aren't enough to protect sensitive information throughout its entire lifecycle. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -356,16 +366,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
 3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Double-Edged Sustainability Sword Of AI In Web Design]]></title>
-        <id>https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/</id>
-        <link href="https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/"/>
-        <updated>2025-08-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Williams)</name>
         </author>
     </entry>
 </feed>
