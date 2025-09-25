@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-24T00:14:58.405Z</id>
+    <id>urn:2025-09-25T00:14:40.578Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T00:14:58.405Z</updated>
+    <updated>2025-09-25T00:14:40.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Publish an npm Package - Explained with Examples]]></title>
+        <id>68d44cc07b532bf921e47213</id>
+        <link href="https://www.freecodecamp.org/news/how-to-publish-an-npm-package/"/>
+        <updated>2025-09-24T19:55:44.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent any time working with JavaScript, you’ve most likely come across npm—whether installing packages like Express, Lodash, or React, or running commands like npm init. While using npm is second nature for many JavaScript developers, some ...]]></summary>
+        <author>
+            <name>Ikegah Oliver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Dependency Injection in Go - Explained with Code Examples]]></title>
+        <id>68d44505e26e6f1a24c44ba9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/"/>
+        <updated>2025-09-24T19:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Regardless of their initial size or scope, projects tend to grow in complexity over time. As new features are added and requirements evolve, the number of components and the connections between them multiply. Services, handlers, repositories, externa...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Memory Leaks in React Applications]]></title>
+        <id>68d443c623251efd1f372d02</id>
+        <link href="https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/"/>
+        <updated>2025-09-24T19:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever noticed your React application getting slower the longer you use it? This could be a result of memory leaks. Memory leaks are a common performance issue in React applications. They can slow down your application, crash your browser, and...]]></summary>
+        <author>
+            <name>Olaleye Blessing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does a Creative Technologist Do?]]></title>
+        <id>68d43e64c21b03de37bb4dce</id>
+        <link href="https://www.freecodecamp.org/news/what-does-a-creative-technologist-do/"/>
+        <updated>2025-09-24T18:54:28.000Z</updated>
+        <summary type="html"><![CDATA[On paper, I studied computer science. However, most of my passions were artistic: writing, storytelling, and content creation. Over time, I found myself blending both worlds without recognizing it. Then I came across the term Creative Technologist an...]]></summary>
+        <author>
+            <name>Ifeoma Udu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/</id>
+        <link href="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/"/>
+        <updated>2025-09-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
+        <id>https://css-tricks.com/?p=389371</id>
+        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
+        <updated>2025-09-24T12:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
+CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Optimize Search in JavaScript with Debouncing]]></title>
         <id>68d2d63ab7bb607e13c45cf4</id>
@@ -76,36 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Tokenize Text in Python — Explained with Code Examples]]></title>
-        <id>68cdb0341432174e4c7f6898</id>
-        <link href="https://www.freecodecamp.org/news/how-to-tokenize-text-in-python/"/>
-        <updated>2025-09-19T19:34:12.000Z</updated>
-        <summary type="html"><![CDATA[When working with Python, you may need to perform a tokenization operation on a given text dataset. Tokenization is the process of breaking down text into smaller pieces, typically words or sentences, which are called tokens. These tokens can then be...]]></summary>
-        <author>
-            <name>AYUSH MISHRA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]]]></title>
-        <id>68cd6ffad57a0c65e2ff97bf</id>
-        <link href="https://www.freecodecamp.org/news/learn-chess-and-become-a-better-developer-with-ihechikara-abba-elo-rating-of-2285-podcast-189/"/>
-        <updated>2025-09-19T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[On this week's freeCodeCamp podcast we're talking with software engineer Ihechikara Abba, who has a chess ELO rating of 2285, putting him among top competitive chess players. We just published his freeCodeCamp course on chess end games, and an accomp...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to SQLite]]></title>
-        <id>68cd625e82b856dadd4cceba</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-sqlite/"/>
-        <updated>2025-09-19T14:02:06.000Z</updated>
-        <summary type="html"><![CDATA[SQLite is one of the most underappreciated tools in a developer's toolkit. It's a full-featured relational database that runs directly in your application. No server setup. No configuration files. No network protocols. Just a simple library that give...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On inclusive personas and inclusive user research]]></title>
         <id>https://css-tricks.com/?p=389157</id>
         <link href="https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/"/>
@@ -114,16 +145,6 @@
 On inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Nano Banana for Image Generation - Explained with Code Examples]]></title>
-        <id>68cd5897ffbf18457f7bb85a</id>
-        <link href="https://www.freecodecamp.org/news/nano-banana-for-image-generation/"/>
-        <updated>2025-09-19T13:20:23.000Z</updated>
-        <summary type="html"><![CDATA[AI is changing the image generation and editing process into a smooth workflow. Now, with just a single prompt, you can tell your computer to generate or edit an existing image. Google just launched its new model for image generation or editing, "Nan...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
         </author>
     </entry>
     <entry>
@@ -344,27 +365,6 @@ A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Milan Balać)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing PWAs For Different Display Modes]]></title>
-        <id>https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/</id>
-        <link href="https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/"/>
-        <updated>2025-08-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Declan Chidlow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With Images in Long-Form Content]]></title>
-        <id>https://css-tricks.com/?p=388519</id>
-        <link href="https://css-tricks.com/getting-creative-with-images-in-long-form-content/"/>
-        <updated>2025-08-25T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.
-Getting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
         </author>
     </entry>
 </feed>
