@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-08T00:14:54.341Z</id>
+    <id>urn:2025-10-09T00:14:33.740Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T00:14:54.341Z</updated>
+    <updated>2025-10-09T00:14:33.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication]]></title>
+        <id>68e6ab03a5598a61a63ce39d</id>
+        <link href="https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/"/>
+        <updated>2025-10-08T18:18:43.000Z</updated>
+        <summary type="html"><![CDATA[JWT stands for JSON Web Token, and it’s one of those terms you’ll constantly come across in modern web development. At its core, a JWT is a JSON-based open standard format that allows you to represent specific claims securely between two parties. The...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Environment Variables in Python]]></title>
+        <id>68e68c6be9add39908327891</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-environment-variables-in-python/"/>
+        <updated>2025-10-08T16:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Environment variables let you configure applications without hardcoding sensitive information directly into your source code. They're particularly useful for storing API keys, database credentials, and configuration settings that change between devel...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test JavaScript Apps: From Unit Tests to AI-Augmented QA]]></title>
+        <id>68e68c3655c4d79b6db4f4c4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-javascript-apps-from-unit-tests-to-ai-augmented-qa/"/>
+        <updated>2025-10-08T16:07:18.000Z</updated>
+        <summary type="html"><![CDATA[As a software engineer, you should always be open to the challenges this field brings. Two months ago, my project manager assigned me a task: write test cases for an API. I was super excited because it meant I got to learn something new beyond just c...]]></summary>
+        <author>
+            <name>Ajay Yadav</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript]]></title>
         <id>68e57cd7b148e87f05670d05</id>
@@ -56,17 +86,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Creative With shape-outside]]></title>
-        <id>https://css-tricks.com/?p=389550</id>
-        <link href="https://css-tricks.com/getting-creative-with-shape-outside/"/>
-        <updated>2025-10-06T15:45:40.000Z</updated>
-        <summary type="html"><![CDATA[There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.
-Getting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Learn How to Use Pointers in Go – With Example Code]]></title>
         <id>68e3da89c573b56a3f251e06</id>
         <link href="https://www.freecodecamp.org/news/learn-how-to-use-pointers-in-go-with-example-code/"/>
@@ -87,16 +106,6 @@ Getting Creative With shape-outside originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Transformers for Real-Time Gesture Recognition]]></title>
-        <id>68e3c692aa82abf4b593114c</id>
-        <link href="https://www.freecodecamp.org/news/using-transformers-for-real-time-gesture-recognition/"/>
-        <updated>2025-10-06T13:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Gesture and sign recognition is a growing field in computer vision, powering accessibility tools and natural user interfaces. Most beginner projects rely on hand landmarks or small CNNs, but these often miss the bigger picture because gestures are no...]]></summary>
-        <author>
-            <name>OMOTAYO OMOYEMI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries]]></title>
         <id>https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/</id>
         <link href="https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/"/>
@@ -104,26 +113,6 @@ Getting Creative With shape-outside originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Animations in Flutter]]></title>
-        <id>68e0186a13e5a2b425ebad2e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-animations-in-flutter/"/>
-        <updated>2025-10-03T18:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Animations are a fundamental aspect of mobile app development. They go beyond just adding visual appeal, and have become essential for enhancing the overall user experience. Flutter, Google's open-source UI development toolkit, lets you create seamle...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Rate Limiter with Redis and Python to Scale Your Apps]]></title>
-        <id>68dfe6e0dcc5f825f4d48c85</id>
-        <link href="https://www.freecodecamp.org/news/build-a-rate-limiter-with-redis-and-python/"/>
-        <updated>2025-10-03T15:08:16.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever built a web application, you know that without a proper mechanism to control traffic, your application can become overwhelmed, leading to slow response times, server crashes, and a poor user experience. Even worse, it can leave you vul...]]></summary>
-        <author>
-            <name>Sravan Karuturi</name>
         </author>
     </entry>
     <entry>
@@ -137,17 +126,6 @@ Getting Creative With shape-outside originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Same Idea, Different Paint Brush]]></title>
-        <id>https://css-tricks.com/?p=389238</id>
-        <link href="https://css-tricks.com/same-idea-different-paint-brush/"/>
-        <updated>2025-10-01T13:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.
-Same Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shades Of October (2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/</id>
         <link href="https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/"/>
@@ -155,28 +133,6 @@ Same Idea, Different Paint Brush originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Touring New CSS Features in Safari 26]]></title>
-        <id>https://css-tricks.com/?p=389331</id>
-        <link href="https://css-tricks.com/touring-new-css-features-in-safari-26/"/>
-        <updated>2025-09-29T14:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.
-Touring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating Gmail’s Google Gemini Animation]]></title>
-        <id>https://css-tricks.com/?p=389344</id>
-        <link href="https://css-tricks.com/recreating-gmails-google-gemini-animation/"/>
-        <updated>2025-09-26T14:45:13.000Z</updated>
-        <summary type="html"><![CDATA[John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.
-Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
@@ -200,17 +156,6 @@ Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
-        <id>https://css-tricks.com/?p=389371</id>
-        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
-        <updated>2025-09-24T12:49:22.000Z</updated>
-        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
-CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ambient Animations In Web Design: Principles And Implementation (Part 1)]]></title>
         <id>https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/</id>
         <link href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"/>
@@ -218,17 +163,6 @@ CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the Di
         <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On inclusive personas and inclusive user research]]></title>
-        <id>https://css-tricks.com/?p=389157</id>
-        <link href="https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/"/>
-        <updated>2025-09-19T13:58:37.000Z</updated>
-        <summary type="html"><![CDATA[A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.
-On inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -252,17 +186,6 @@ On inclusive personas and inclusive user research originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
-        <id>https://css-tricks.com/?p=389101</id>
-        <link href="https://css-tricks.com/is-it-time-to-un-sass/"/>
-        <updated>2025-09-17T14:02:25.000Z</updated>
-        <summary type="html"><![CDATA[Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.
-Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jeff Bridgforth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
         <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
         <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
@@ -280,17 +203,6 @@ Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: cos() and sin()]]></title>
-        <id>https://css-tricks.com/?p=389130</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"/>
-        <updated>2025-09-15T14:31:06.000Z</updated>
-        <summary type="html"><![CDATA[I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the "worst" feature: sin() and cos().
-The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
@@ -314,39 +226,6 @@ The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Can We Actually Do With corner-shape?]]></title>
-        <id>https://css-tricks.com/?p=389060</id>
-        <link href="https://css-tricks.com/what-can-we-actually-do-with-corner-shape/"/>
-        <updated>2025-09-12T14:20:45.000Z</updated>
-        <summary type="html"><![CDATA[When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …
-What Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
-        <id>https://css-tricks.com/?p=389117</id>
-        <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
-        <updated>2025-09-11T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.
-Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’re Your Top 4 CSS Properties?]]></title>
-        <id>https://css-tricks.com/?p=388800</id>
-        <link href="https://css-tricks.com/whatre-your-top-4-css-properties/"/>
-        <updated>2025-09-10T13:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.
-What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
         <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
         <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
@@ -354,17 +233,6 @@ What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composition in CSS]]></title>
-        <id>https://css-tricks.com/?p=388424</id>
-        <link href="https://css-tricks.com/composition-in-css/"/>
-        <updated>2025-09-08T13:55:26.000Z</updated>
-        <summary type="html"><![CDATA[CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.
-Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
