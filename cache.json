@@ -7,6 +7,138 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=389698",
+          "author": "Geoff Graham",
+          "description": "One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:\nFor my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This \n…\nThe thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-thing-about-contrast-color/",
+          "publishedOn": "2025-10-08T14:52:58.000Z",
+          "wordCount": 1858,
+          "title": "The thing about contrast-color",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389550",
+          "author": "Andy Clarke",
+          "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.\nGetting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-shape-outside/",
+          "publishedOn": "2025-10-06T15:45:40.000Z",
+          "wordCount": 3195,
+          "title": "Getting Creative With shape-outside",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_3EDD0D53C943B8C049C7F94CCE0401810B7E10ADC9A32E2DF8EBA64F2023E651_1759072311579_2025-09-28-13.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389238",
+          "author": "Geoff Graham",
+          "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.\nSame Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/same-idea-different-paint-brush/",
+          "publishedOn": "2025-10-01T13:02:47.000Z",
+          "wordCount": 3394,
+          "title": "Same Idea, Different Paint Brush",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/mom-painting-thumb.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389331",
+          "author": "Juan Diego Rodríguez",
+          "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.\nTouring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
+          "publishedOn": "2025-09-29T14:31:16.000Z",
+          "wordCount": 3998,
+          "title": "Touring New CSS Features in Safari 26",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/thumbnail.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389344",
+          "author": "John Rhea",
+          "description": "John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.\nRecreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/recreating-gmails-google-gemini-animation/",
+          "publishedOn": "2025-09-26T14:45:13.000Z",
+          "wordCount": 4481,
+          "title": "Recreating Gmail’s Google Gemini Animation",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/gemini-button.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389371",
+          "author": "Amit Sheen",
+          "description": "Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.\nCSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-typed-arithmetic/",
+          "publishedOn": "2025-09-24T12:49:22.000Z",
+          "wordCount": 3973,
+          "title": "CSS Typed Arithmetic",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/09/swirl.mp4",
+            "length": "14785658",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/css-types-arithmetic.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389157",
+          "author": "Geoff Graham",
+          "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.\nOn inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/",
+          "publishedOn": "2025-09-19T13:58:37.000Z",
+          "wordCount": 2759,
+          "title": "On inclusive personas and inclusive user research",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2017/05/user-facing-state.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389101",
+          "author": "Jeff Bridgforth",
+          "description": "Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.\nIs it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/is-it-time-to-un-sass/",
+          "publishedOn": "2025-09-17T14:02:25.000Z",
+          "wordCount": 5744,
+          "title": "Is it Time to Un-Sass?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/sass-sparkles.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389130",
+          "author": "Juan Diego Rodríguez",
+          "description": "I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the \"worst\" feature: sin() and cos().\nThe “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/",
+          "publishedOn": "2025-09-15T14:31:06.000Z",
+          "wordCount": 5048,
+          "title": "The “Most Hated” CSS Feature: cos() and sin()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/most_hated_feature.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389060",
+          "author": "Daniel Schwarz",
+          "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …\nWhat Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
+          "publishedOn": "2025-09-12T14:20:45.000Z",
+          "wordCount": 3357,
+          "title": "What Can We Actually Do With corner-shape?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/s_B9520AAEB8E72143A2990CEB07209D80D9AD692AC1F43B71E4BC9C84D7184887_1757081374239_Screenshot2025-09-05at8.08.39AM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=389117",
+          "author": "Geoff Graham",
+          "description": "Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.\nCompiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/compiling-multiple-css-files-into-one/",
+          "publishedOn": "2025-09-11T15:16:34.000Z",
+          "wordCount": 2734,
+          "title": "Compiling Multiple CSS Files into One",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=388800",
+          "author": "Geoff Graham",
+          "description": "Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.\nWhat’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whatre-your-top-4-css-properties/",
+          "publishedOn": "2025-09-10T13:13:41.000Z",
+          "wordCount": 2994,
+          "title": "What’re Your Top 4 CSS Properties?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/properties.webp"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -17,7 +149,7 @@
           "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
           "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "publishedOn": "2025-10-06T13:00:00.000Z",
-          "wordCount": 4375,
+          "wordCount": 4383,
           "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
@@ -32,7 +164,7 @@
           "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.",
           "link": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
           "publishedOn": "2025-10-03T10:00:00.000Z",
-          "wordCount": 9692,
+          "wordCount": 9698,
           "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg",
@@ -47,7 +179,7 @@
           "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
           "publishedOn": "2025-09-30T11:00:00.000Z",
-          "wordCount": 4911,
+          "wordCount": 4919,
           "title": "Shades Of October (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png",
@@ -62,7 +194,7 @@
           "description": "What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.",
           "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
           "publishedOn": "2025-09-26T10:00:00.000Z",
-          "wordCount": 6550,
+          "wordCount": 6556,
           "title": "From Prompt To Partner: Designing Your Custom AI Assistant",
           "enclosure": {
             "url": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg",
@@ -77,7 +209,7 @@
           "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
           "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
           "publishedOn": "2025-09-24T17:00:00.000Z",
-          "wordCount": 5434,
+          "wordCount": 5428,
           "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
@@ -92,7 +224,7 @@
           "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.",
           "link": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
           "publishedOn": "2025-09-22T13:00:00.000Z",
-          "wordCount": 4548,
+          "wordCount": 4550,
           "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg",
@@ -107,7 +239,7 @@
           "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
           "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
           "publishedOn": "2025-09-19T10:00:00.000Z",
-          "wordCount": 6961,
+          "wordCount": 6955,
           "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
           "enclosure": {
             "url": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg",
@@ -122,7 +254,7 @@
           "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.",
           "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
           "publishedOn": "2025-09-18T10:00:00.000Z",
-          "wordCount": 5716,
+          "wordCount": 5714,
           "title": "How To Minimize The Environmental Impact Of Your Website",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg",
@@ -152,7 +284,7 @@
           "description": "For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.",
           "link": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
           "publishedOn": "2025-09-16T08:00:00.000Z",
-          "wordCount": 4367,
+          "wordCount": 4373,
           "title": "Functional Personas With AI: A Lean, Practical Workflow",
           "enclosure": {
             "url": "http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg",
@@ -182,7 +314,7 @@
           "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.",
           "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
           "publishedOn": "2025-09-12T15:00:00.000Z",
-          "wordCount": 6288,
+          "wordCount": 6289,
           "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg",
@@ -190,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.",
-          "link": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
-          "publishedOn": "2025-09-10T10:00:00.000Z",
-          "wordCount": 5846,
-          "title": "Integrating CSS Cascade Layers To An Existing Project",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg"
         }
       ]
     },
@@ -213,6 +330,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68e7d980bc03067a7e96f306",
+          "author": "Mark Mahoney",
+          "description": "Recreating the First Machine Learning Demo In 1958, Frank Rosenblatt demonstrated something remarkable to reporters in Washington, D.C. His \"perceptron\" could look at cards with shapes on them and tell which side the shape was on. The remarkable thin...",
+          "link": "https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/",
+          "publishedOn": "2025-10-09T15:49:20.000Z",
+          "wordCount": 1702,
+          "title": "Machine Learning Tutorial: How to Program Without Creating Your Own Algorithms",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760024939823/c2c53158-a2ec-4fe2-b222-236bef773e6b.png"
+        },
+        {
+          "id": "68e7c8517c1c20cab7c3737b",
+          "author": "Beau Carnes",
+          "description": "Are you ready to master the art of data management using one of the most essential languages in the world of computing? Introducing CS50 SQL, Harvard University's focused video course dedicated to an introduction to databases using a language called ...",
+          "link": "https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/",
+          "publishedOn": "2025-10-09T14:36:01.000Z",
+          "wordCount": 1052,
+          "title": "Learn Databases and SQL from Harvard University",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760020545784/53c7451f-ea27-4471-afa6-87c1ca44827a.jpeg"
+        },
+        {
+          "id": "68e7c63485bb550e2fceeb6f",
+          "author": "Beau Carnes",
+          "description": "Want to learn how to combine React 19 and AI LLMs to build something handy? We just published a course on the freeCodeCamp.org YouTube channel that will teach you to build an AI-powered Code Explainer App from scratch. Tapas Adhikary created this cou...",
+          "link": "https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/",
+          "publishedOn": "2025-10-09T14:27:00.000Z",
+          "wordCount": 1045,
+          "title": "React Project Tutorial – Build an AI Code Explainer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760020000428/7a75a52c-fd9b-4e7b-8500-e936b7a94460.jpeg"
+        },
+        {
+          "id": "68e7c5326d2d054fee0c0ed0",
+          "author": "Beau Carnes",
+          "description": "Have you ever wondered about the history of vision transformers? We just published a course on the freeCodeCamp.org YouTube channel that is a conceptual and architectural journey through deep learning vision models, tracing the evolution from LeNet a...",
+          "link": "https://www.freecodecamp.org/news/the-history-of-deep-learning-vision-architectures/",
+          "publishedOn": "2025-10-09T14:22:42.000Z",
+          "wordCount": 1005,
+          "title": "The History of Deep Learning Vision Architectures",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019746984/9956c742-fbf4-4da7-b3f9-8a22967c1ba9.jpeg"
+        },
+        {
+          "id": "68e7c3f924b6c99d1467d409",
+          "author": "Beau Carnes",
+          "description": "He's a self-taught software engineer who got his first developer job at age 43. He spent decades working in manufacturing while raising his kids, before using freeCodeCamp to learn programming. He was able to translate his JavaScript skills into work...",
+          "link": "https://www.freecodecamp.org/news/from-manufacturing-worker-to-first-developer-job-at-age-43-with-thomas-gooch-podcast-191/",
+          "publishedOn": "2025-10-09T14:17:29.000Z",
+          "wordCount": 1342,
+          "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019279104/f82fb425-d635-436a-8daa-8e2122efa2ec.jpeg"
+        },
+        {
+          "id": "68e70e0ecfc3d2834515166c",
+          "author": "Tapas Adhikary",
+          "description": "Have you ever opened React project source code and wondered why things are so messy? Have you ever tried adding a feature to a React component created by someone else and felt that you needed to rewrite it? Have you felt nightmarish in tackling state...",
+          "link": "https://www.freecodecamp.org/news/compound-components-pattern-in-react/",
+          "publishedOn": "2025-10-09T01:21:18.000Z",
+          "wordCount": 4147,
+          "title": "How to Use the Compound Components Pattern in React: Prop Soup to Flexible UIs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759972853846/49e605c8-be15-44a4-9fc6-283be0cc0e4c.png"
+        },
+        {
+          "id": "68e70d838fa4b92d9a027ebe",
+          "author": "Chirag Agrawal",
+          "description": "Have you ever built a brilliant time-series model, one that could forecast sales or predict stock prices, only to watch it fail in the real world? Well, this is a common frustration. Your model works perfectly on your machine, but the moment you depl...",
+          "link": "https://www.freecodecamp.org/news/how-to-persist-state-in-time-series-models-with-docker-and-redis/",
+          "publishedOn": "2025-10-09T01:18:59.000Z",
+          "wordCount": 2590,
+          "title": "How to Persist State in Time-Series Models with Docker and Redis",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759972706788/66d45afa-f86b-4365-8a55-8b6873df718b.png"
+        },
         {
           "id": "68e6ab03a5598a61a63ce39d",
           "author": "Sumit Saha",
@@ -242,76 +429,6 @@
           "wordCount": 3409,
           "title": "How to Test JavaScript Apps: From Unit Tests to AI-Augmented QA",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759939599135/507c5e9a-954b-497b-b3b8-c8d89b2d1a03.png"
-        },
-        {
-          "id": "68e57cd7b148e87f05670d05",
-          "author": "Mayur Vekariya",
-          "description": "Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/",
-          "publishedOn": "2025-10-07T20:49:27.000Z",
-          "wordCount": 7233,
-          "title": "How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759870150966/f65a07a6-123b-45e2-a3f2-bc099638825a.png"
-        },
-        {
-          "id": "68e559d8ac28fbe4acae92be",
-          "author": "Destiny Erhabor",
-          "description": "Docker build is a fundamental concept every developer needs to understand. Whether you're containerizing your first application or optimizing existing Docker workflows, understanding Docker build contexts and Docker build architecture is essential fo...",
-          "link": "https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/",
-          "publishedOn": "2025-10-07T18:20:08.000Z",
-          "wordCount": 4304,
-          "title": "Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759861193876/871b72e7-9673-4572-b788-48f082a6b380.png"
-        },
-        {
-          "id": "68e4f54b40f8bf1b48305e00",
-          "author": "Sharvin Shah",
-          "description": "In 2025, AI-powered applications have advanced from generic chatbots to highly specialised assistants that understand your specific field, communicate in your style, and give contextually relevant answers. While Large Language Models (LLMs) like GPT-...",
-          "link": "https://www.freecodecamp.org/news/build-a-custom-ai-chat-application-with-nextjs/",
-          "publishedOn": "2025-10-07T11:11:07.000Z",
-          "wordCount": 6939,
-          "title": "How to Build a Custom AI Chat Application with Next.js: Fine-Tune GPT Using Your Data",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759834368425/fc26010c-077e-4af9-86cd-e16f1c218560.png"
-        },
-        {
-          "id": "68e413e6f01f4d585b1f9e1b",
-          "author": "Abhijeet Dave",
-          "description": "What if you could build a responsive and stunning landing page in minutes, with little to no coding? Well, AI tools like Context7 MCP make it possible to automate design tasks and seamlessly integrate them with powerful frameworks like Bootstrap 5. I...",
-          "link": "https://www.freecodecamp.org/news/create-a-landing-page-with-bootstrap-5-and-context7-mcp-ai/",
-          "publishedOn": "2025-10-06T19:09:26.000Z",
-          "wordCount": 5105,
-          "title": "How to Create a Landing Page with Bootstrap 5 and Context7 MCP AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759776218071/dce01b69-3ae9-46da-b4a4-e9a98e42f5d1.png"
-        },
-        {
-          "id": "68e40c4dd441014d7e52dc0d",
-          "author": "Adejumo Ridwan Suleiman",
-          "description": "When analyzing time series data, your main objective is to consider the period during which the data is collected and how your variable of interest changes over time. There are various libraries for time series forecasting in Python, and Darts is one...",
-          "link": "https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/",
-          "publishedOn": "2025-10-06T18:37:01.000Z",
-          "wordCount": 3088,
-          "title": "How to Forecast Time Series Data with Python Darts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759775700643/6f7d18b3-2060-4708-b56e-3450acf58546.png"
-        },
-        {
-          "id": "68e3da89c573b56a3f251e06",
-          "author": "Gabor Koos",
-          "description": "Pointers are a fundamental but often dreaded concept in every programming language that supports them. Luckily for us, Go makes working with pointers straightforward and safe. In this article, we will demystify pointers in Go. You'll learn: What poi...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-use-pointers-in-go-with-example-code/",
-          "publishedOn": "2025-10-06T15:04:41.000Z",
-          "wordCount": 3593,
-          "title": "Learn How to Use Pointers in Go – With Example Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759763060124/8b3f21fa-052e-4c18-a1b4-9fe4fd456830.png"
-        },
-        {
-          "id": "68e3c7cb1d3d8a04b5f135c2",
-          "author": "Atuoha Anthony",
-          "description": "Flutter is a UI toolkit developed by Google. It’s gained immense popularity for its ability to create beautiful and natively compiled applications for mobile, web, and desktop from a single codebase. While Dart, the language behind Flutter, is powerf...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-freezed-in-flutter/",
-          "publishedOn": "2025-10-06T13:44:43.000Z",
-          "wordCount": 2866,
-          "title": "How to Use Freezed in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759758218094/78645767-b4be-4210-9adb-a137ea605c9c.png"
         }
       ]
     }

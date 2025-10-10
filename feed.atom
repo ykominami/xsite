@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-09T00:14:33.740Z</id>
+    <id>urn:2025-10-10T00:14:50.439Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-09T00:14:33.740Z</updated>
+    <updated>2025-10-10T00:14:50.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Tutorial: How to Program Without Creating Your Own Algorithms]]></title>
+        <id>68e7d980bc03067a7e96f306</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/"/>
+        <updated>2025-10-09T15:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Recreating the First Machine Learning Demo In 1958, Frank Rosenblatt demonstrated something remarkable to reporters in Washington, D.C. His "perceptron" could look at cards with shapes on them and tell which side the shape was on. The remarkable thin...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Databases and SQL from Harvard University]]></title>
+        <id>68e7c8517c1c20cab7c3737b</id>
+        <link href="https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/"/>
+        <updated>2025-10-09T14:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to master the art of data management using one of the most essential languages in the world of computing? Introducing CS50 SQL, Harvard University's focused video course dedicated to an introduction to databases using a language called ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Project Tutorial – Build an AI Code Explainer]]></title>
+        <id>68e7c63485bb550e2fceeb6f</id>
+        <link href="https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/"/>
+        <updated>2025-10-09T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn how to combine React 19 and AI LLMs to build something handy? We just published a course on the freeCodeCamp.org YouTube channel that will teach you to build an AI-powered Code Explainer App from scratch. Tapas Adhikary created this cou...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The History of Deep Learning Vision Architectures]]></title>
+        <id>68e7c5326d2d054fee0c0ed0</id>
+        <link href="https://www.freecodecamp.org/news/the-history-of-deep-learning-vision-architectures/"/>
+        <updated>2025-10-09T14:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered about the history of vision transformers? We just published a course on the freeCodeCamp.org YouTube channel that is a conceptual and architectural journey through deep learning vision models, tracing the evolution from LeNet a...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]]]></title>
+        <id>68e7c3f924b6c99d1467d409</id>
+        <link href="https://www.freecodecamp.org/news/from-manufacturing-worker-to-first-developer-job-at-age-43-with-thomas-gooch-podcast-191/"/>
+        <updated>2025-10-09T14:17:29.000Z</updated>
+        <summary type="html"><![CDATA[He's a self-taught software engineer who got his first developer job at age 43. He spent decades working in manufacturing while raising his kids, before using freeCodeCamp to learn programming. He was able to translate his JavaScript skills into work...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Compound Components Pattern in React: Prop Soup to Flexible UIs]]></title>
+        <id>68e70e0ecfc3d2834515166c</id>
+        <link href="https://www.freecodecamp.org/news/compound-components-pattern-in-react/"/>
+        <updated>2025-10-09T01:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever opened React project source code and wondered why things are so messy? Have you ever tried adding a feature to a React component created by someone else and felt that you needed to rewrite it? Have you felt nightmarish in tackling state...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Persist State in Time-Series Models with Docker and Redis]]></title>
+        <id>68e70d838fa4b92d9a027ebe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-persist-state-in-time-series-models-with-docker-and-redis/"/>
+        <updated>2025-10-09T01:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever built a brilliant time-series model, one that could forecast sales or predict stock prices, only to watch it fail in the real world? Well, this is a common frustration. Your model works perfectly on your machine, but the moment you depl...]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication]]></title>
         <id>68e6ab03a5598a61a63ce39d</id>
@@ -36,73 +106,27 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript]]></title>
-        <id>68e57cd7b148e87f05670d05</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/"/>
-        <updated>2025-10-07T20:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...]]></summary>
+        <title type="html"><![CDATA[The thing about contrast-color]]></title>
+        <id>https://css-tricks.com/?p=389698</id>
+        <link href="https://css-tricks.com/the-thing-about-contrast-color/"/>
+        <updated>2025-10-08T14:52:58.000Z</updated>
+        <summary type="html"><![CDATA[One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:
+For my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This 
+…
+The thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Mayur Vekariya</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques]]></title>
-        <id>68e559d8ac28fbe4acae92be</id>
-        <link href="https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/"/>
-        <updated>2025-10-07T18:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Docker build is a fundamental concept every developer needs to understand. Whether you're containerizing your first application or optimizing existing Docker workflows, understanding Docker build contexts and Docker build architecture is essential fo...]]></summary>
+        <title type="html"><![CDATA[Getting Creative With shape-outside]]></title>
+        <id>https://css-tricks.com/?p=389550</id>
+        <link href="https://css-tricks.com/getting-creative-with-shape-outside/"/>
+        <updated>2025-10-06T15:45:40.000Z</updated>
+        <summary type="html"><![CDATA[There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.
+Getting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom AI Chat Application with Next.js: Fine-Tune GPT Using Your Data]]></title>
-        <id>68e4f54b40f8bf1b48305e00</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-ai-chat-application-with-nextjs/"/>
-        <updated>2025-10-07T11:11:07.000Z</updated>
-        <summary type="html"><![CDATA[In 2025, AI-powered applications have advanced from generic chatbots to highly specialised assistants that understand your specific field, communicate in your style, and give contextually relevant answers. While Large Language Models (LLMs) like GPT-...]]></summary>
-        <author>
-            <name>Sharvin Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Landing Page with Bootstrap 5 and Context7 MCP AI]]></title>
-        <id>68e413e6f01f4d585b1f9e1b</id>
-        <link href="https://www.freecodecamp.org/news/create-a-landing-page-with-bootstrap-5-and-context7-mcp-ai/"/>
-        <updated>2025-10-06T19:09:26.000Z</updated>
-        <summary type="html"><![CDATA[What if you could build a responsive and stunning landing page in minutes, with little to no coding? Well, AI tools like Context7 MCP make it possible to automate design tasks and seamlessly integrate them with powerful frameworks like Bootstrap 5. I...]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Forecast Time Series Data with Python Darts]]></title>
-        <id>68e40c4dd441014d7e52dc0d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/"/>
-        <updated>2025-10-06T18:37:01.000Z</updated>
-        <summary type="html"><![CDATA[When analyzing time series data, your main objective is to consider the period during which the data is collected and how your variable of interest changes over time. There are various libraries for time series forecasting in Python, and Darts is one...]]></summary>
-        <author>
-            <name>Adejumo Ridwan Suleiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Use Pointers in Go – With Example Code]]></title>
-        <id>68e3da89c573b56a3f251e06</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-use-pointers-in-go-with-example-code/"/>
-        <updated>2025-10-06T15:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Pointers are a fundamental but often dreaded concept in every programming language that supports them. Luckily for us, Go makes working with pointers straightforward and safe. In this article, we will demystify pointers in Go. You'll learn: What poi...]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Freezed in Flutter]]></title>
-        <id>68e3c7cb1d3d8a04b5f135c2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-freezed-in-flutter/"/>
-        <updated>2025-10-06T13:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is a UI toolkit developed by Google. It’s gained immense popularity for its ability to create beautiful and natively compiled applications for mobile, web, and desktop from a single codebase. While Dart, the language behind Flutter, is powerf...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
+            <name>Andy Clarke</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +150,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Same Idea, Different Paint Brush]]></title>
+        <id>https://css-tricks.com/?p=389238</id>
+        <link href="https://css-tricks.com/same-idea-different-paint-brush/"/>
+        <updated>2025-10-01T13:02:47.000Z</updated>
+        <summary type="html"><![CDATA[Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.
+Same Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shades Of October (2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/</id>
         <link href="https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/"/>
@@ -133,6 +168,28 @@
         <summary type="html"><![CDATA[How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touring New CSS Features in Safari 26]]></title>
+        <id>https://css-tricks.com/?p=389331</id>
+        <link href="https://css-tricks.com/touring-new-css-features-in-safari-26/"/>
+        <updated>2025-09-29T14:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.
+Touring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Gmail’s Google Gemini Animation]]></title>
+        <id>https://css-tricks.com/?p=389344</id>
+        <link href="https://css-tricks.com/recreating-gmails-google-gemini-animation/"/>
+        <updated>2025-09-26T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.
+Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +213,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
+        <id>https://css-tricks.com/?p=389371</id>
+        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
+        <updated>2025-09-24T12:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
+CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ambient Animations In Web Design: Principles And Implementation (Part 1)]]></title>
         <id>https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/</id>
         <link href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"/>
@@ -163,6 +231,17 @@
         <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On inclusive personas and inclusive user research]]></title>
+        <id>https://css-tricks.com/?p=389157</id>
+        <link href="https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/"/>
+        <updated>2025-09-19T13:58:37.000Z</updated>
+        <summary type="html"><![CDATA[A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.
+On inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -186,6 +265,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
+        <id>https://css-tricks.com/?p=389101</id>
+        <link href="https://css-tricks.com/is-it-time-to-un-sass/"/>
+        <updated>2025-09-17T14:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.
+Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jeff Bridgforth</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
         <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
         <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
@@ -203,6 +293,17 @@
         <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: cos() and sin()]]></title>
+        <id>https://css-tricks.com/?p=389130</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"/>
+        <updated>2025-09-15T14:31:06.000Z</updated>
+        <summary type="html"><![CDATA[I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the "worst" feature: sin() and cos().
+The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
@@ -226,13 +327,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
-        <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
-        <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
-        <updated>2025-09-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.]]></summary>
+        <title type="html"><![CDATA[What Can We Actually Do With corner-shape?]]></title>
+        <id>https://css-tricks.com/?p=389060</id>
+        <link href="https://css-tricks.com/what-can-we-actually-do-with-corner-shape/"/>
+        <updated>2025-09-12T14:20:45.000Z</updated>
+        <summary type="html"><![CDATA[When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …
+What Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
+        <id>https://css-tricks.com/?p=389117</id>
+        <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
+        <updated>2025-09-11T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.
+Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’re Your Top 4 CSS Properties?]]></title>
+        <id>https://css-tricks.com/?p=388800</id>
+        <link href="https://css-tricks.com/whatre-your-top-4-css-properties/"/>
+        <updated>2025-09-10T13:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.
+What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
