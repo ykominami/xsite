@@ -12,12 +12,27 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389737",
+          "author": "Temani Afif",
+          "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
+          "publishedOn": "2025-10-15T13:39:39.000Z",
+          "wordCount": 3510,
+          "title": "Sequential linear() Animation With N Elements",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/sequential-2.mov",
+            "length": "310986",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/sequential-thumb.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389636",
           "author": "Saleh Mubashar",
-          "description": "Looking at the CSS Masonry discussions and what they can teach us about the development of new CSS features. What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?\nMasonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "description": "What can CSS Masonry discussions teach us about the development of new CSS features? What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?\nMasonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
           "publishedOn": "2025-10-13T14:31:35.000Z",
-          "wordCount": 3533,
+          "wordCount": 3542,
           "title": "Masonry: Watching a CSS Feature Evolve",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/css-tricks-logo-blur.png"
         },
@@ -27,7 +42,7 @@
           "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. \nWe Completely Missed width/height: stretch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/we-completely-missed-width-height-stretch/",
           "publishedOn": "2025-10-10T14:03:52.000Z",
-          "wordCount": 2416,
+          "wordCount": 2466,
           "title": "We Completely Missed width/height: stretch",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/percentage-padding-width.png"
         },
@@ -115,16 +130,6 @@
           "wordCount": 5744,
           "title": "Is it Time to Un-Sass?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/sass-sparkles.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389130",
-          "author": "Juan Diego Rodríguez",
-          "description": "I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the \"worst\" feature: sin() and cos().\nThe “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/",
-          "publishedOn": "2025-09-15T14:31:06.000Z",
-          "wordCount": 5036,
-          "title": "The “Most Hated” CSS Feature: cos() and sin()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/most_hated_feature.jpg"
         }
       ]
     },
@@ -139,7 +144,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4559,
+          "wordCount": 4679,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -154,7 +159,7 @@
           "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
           "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "publishedOn": "2025-10-06T13:00:00.000Z",
-          "wordCount": 4370,
+          "wordCount": 4372,
           "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
@@ -184,7 +189,7 @@
           "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
           "publishedOn": "2025-09-30T11:00:00.000Z",
-          "wordCount": 4906,
+          "wordCount": 4923,
           "title": "Shades Of October (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png",
@@ -199,7 +204,7 @@
           "description": "What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.",
           "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
           "publishedOn": "2025-09-26T10:00:00.000Z",
-          "wordCount": 6544,
+          "wordCount": 6543,
           "title": "From Prompt To Partner: Designing Your Custom AI Assistant",
           "enclosure": {
             "url": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg",
@@ -214,7 +219,7 @@
           "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
           "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
           "publishedOn": "2025-09-24T17:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 5424,
           "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
@@ -229,7 +234,7 @@
           "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.",
           "link": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
           "publishedOn": "2025-09-22T13:00:00.000Z",
-          "wordCount": 4550,
+          "wordCount": 4549,
           "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg",
@@ -244,7 +249,7 @@
           "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
           "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
           "publishedOn": "2025-09-19T10:00:00.000Z",
-          "wordCount": 6948,
+          "wordCount": 6950,
           "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
           "enclosure": {
             "url": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg",
@@ -259,7 +264,7 @@
           "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.",
           "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
           "publishedOn": "2025-09-18T10:00:00.000Z",
-          "wordCount": 5707,
+          "wordCount": 5720,
           "title": "How To Minimize The Environmental Impact Of Your Website",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg",
@@ -282,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/serpapi-complete-api-fetching-search-engine-data/serpapi-complete-api-fetching-search-engine-data.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.",
-          "link": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
-          "publishedOn": "2025-09-16T08:00:00.000Z",
-          "wordCount": 4364,
-          "title": "Functional Personas With AI: A Lean, Practical Workflow",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg"
         }
       ]
     },
@@ -305,6 +295,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68effb6136e271937e23c188",
+          "author": "Ayodele Aransiola",
+          "description": "When you’re building an application, not all users should have the same level of access. For example, an admin might be able to update or delete some data (logs excluded), while a regular user should only be able to read it. This is where Role-Based ...",
+          "link": "https://www.freecodecamp.org/news/firebase-rbac-custom-claims-rules/",
+          "publishedOn": "2025-10-15T19:52:01.000Z",
+          "wordCount": 2679,
+          "title": "How to Create Role-Based Access Control (RBAC) with Custom Claims Using Firebase Rules",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760557889448/ac51a7a3-cdd8-46c9-964d-a7e281e1affc.png"
+        },
+        {
+          "id": "68efe8d446ad0f2d5932c5e1",
+          "author": "Shola Jegede",
+          "description": "OpenAI recently introduced ChatGPT Apps, powered by the new Apps SDK and the Model Context Protocol (MCP). Think of these apps as plugins for ChatGPT: You can invoke them naturally in a conversation. They can render custom interactive UIs inside Ch...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-chatgpt-apps-sdk/",
+          "publishedOn": "2025-10-15T18:32:52.000Z",
+          "wordCount": 2430,
+          "title": "How to Use the ChatGPT Apps SDK: Build a Pizza App with Apps SDK",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760552846436/808fcd59-4dbc-4874-bd62-2e13965f956c.png"
+        },
+        {
+          "id": "68efa0d05ce970770a3adb0d",
+          "author": "Beau Carnes",
+          "description": "MCP is the standard rule set that allows AI agents, like GitHub Copilot and Gemini, to securely and intelligently interact with your databases, functions, and applications. We just published a course on the freeCodeCamp.org YouTube channel that will ...",
+          "link": "https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/",
+          "publishedOn": "2025-10-15T13:25:36.000Z",
+          "wordCount": 1018,
+          "title": "Learn MCP Essentials and How to Create Secure Agent Interfaces with FastMCP",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760534715163/1a67eac0-9857-4b66-b319-0cb945debf88.png"
+        },
+        {
+          "id": "68ef76f4e9381bb61f442e34",
+          "author": "Temitope Oyedele",
+          "description": "Go makes it easy to build APIs that are fast out of the box. But as usage grows, speed at the language level is not enough. If every request keeps hitting the database, crunching the same data, or serializing the same JSON over and over, latency cree...",
+          "link": "https://www.freecodecamp.org/news/how-to-cache-golang-api-responses/",
+          "publishedOn": "2025-10-15T10:27:00.000Z",
+          "wordCount": 2324,
+          "title": "How to Cache Golang API Responses for High Performance",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760523799795/3b48a898-77fc-4983-90b5-6e21e8019f1e.png"
+        },
+        {
+          "id": "68eef2757ef88f92913602c6",
+          "author": "Emdadul Islam",
+          "description": "Amazon Bedrock AgentCore is a managed service that makes it easier to build, deploy, and operate AI agents securely at scale on AWS. It works seamlessly with frameworks like Strands Agents, LangGraph, CrewAI, and LlamaIndex, while taking care of the ...",
+          "link": "https://www.freecodecamp.org/news/deploy-an-ai-agent-with-amazon-bedrock/",
+          "publishedOn": "2025-10-15T01:01:41.000Z",
+          "wordCount": 1924,
+          "title": "How to Deploy an AI Agent with Amazon Bedrock AgentCore",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760489893067/3f33049f-d17e-4d94-8deb-fa43c65ec753.png"
+        },
         {
           "id": "68ee54b2edcf5de25dd4bb13",
           "author": "Oyedele Tioluwani",
@@ -338,10 +378,10 @@
         {
           "id": "68ed078ea201be4106f2d7b2",
           "author": "Beau Carnes",
-          "description": "Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's ge...",
+          "description": "Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary developer with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's gen A...",
           "link": "https://www.freecodecamp.org/news/pass-the-google-generative-ai-leader-certification-exam/",
           "publishedOn": "2025-10-13T14:07:10.000Z",
-          "wordCount": 996,
+          "wordCount": 1000,
           "title": "Pass the Google Generative AI Leader Certification Exam",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760364411037/aadc2471-a1f1-4709-9400-6b79c54bf1e5.png"
         },
@@ -354,56 +394,6 @@
           "wordCount": 1333,
           "title": "Evan You – From Art School Kid to Open Source Legend [Podcast #192]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760060575311/62fffac8-3a8a-4012-8181-6ee9613754b0.png"
-        },
-        {
-          "id": "68e8540e389372f3cb828525",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence is no longer just a helper, it’s becoming a real coding partner. Over the past year, developers have seen tools like GitHub Copilot and ChatGPT transform how code is written. But these tools mostly live in editors or browsers....",
-          "link": "https://www.freecodecamp.org/news/integrate-ai-into-your-terminal-using-opencode/",
-          "publishedOn": "2025-10-10T00:32:14.000Z",
-          "wordCount": 2110,
-          "title": "How to Integrate AI into Your Terminal Using OpenCode",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760056302216/02783203-e22e-4f23-b5b9-2eae9523124c.png"
-        },
-        {
-          "id": "68e8418df4be6f5ede699317",
-          "author": "Agnes Olorundare",
-          "description": "Cyber attacks against APIs (Application Programming Interfaces) are on the increase. These attacks arise from issues with proper authentication, authorization, unnecessary data exposure, lack of request limits, resource consumption, and use of vulner...",
-          "link": "https://www.freecodecamp.org/news/how-to-securely-deploy-apis-to-amazon-lambda-a-practical-guide/",
-          "publishedOn": "2025-10-09T23:13:17.000Z",
-          "wordCount": 5031,
-          "title": "How to Securely Deploy APIs to Amazon Lambda – A Practical Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760051580641/75d09121-6167-4e06-94d7-53cf23a6f6a1.png"
-        },
-        {
-          "id": "68e841313a3a459fe2b24ab2",
-          "author": "Hitesh Chauhan",
-          "description": "In modern web development, a well-designed sidebar can greatly improve the user experience by providing easy navigation and access to important features. The react-mui-sidebar, powered by Material-UI, is a helpful React NPM package designed to make i...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-mui-sidebar-to-build-responsive-customizable-sidebars/",
-          "publishedOn": "2025-10-09T23:11:45.000Z",
-          "wordCount": 2397,
-          "title": "How to Use the react-mui-sidebar Package to Build Responsive, Customizable Sidebars",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760051493063/cc42647f-21e7-48f6-873f-b17db780a24a.png"
-        },
-        {
-          "id": "68e840ed25ca8a99242df116",
-          "author": "Manish Shivanandhan",
-          "description": "When you build a Node.js application, running it locally is simple. You type npm start, and it works. But when you need to run it on the cloud, things get complicated. You need to think about servers, environments, dependencies, and deployment pipeli...",
-          "link": "https://www.freecodecamp.org/news/how-to-containerize-and-deploy-your-nodejs-applications/",
-          "publishedOn": "2025-10-09T23:10:37.000Z",
-          "wordCount": 2271,
-          "title": "How to Containerize and Deploy Your Node.js Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760051426715/fd0f14cf-95dc-4191-b0fc-e5c916520097.png"
-        },
-        {
-          "id": "68e7d980bc03067a7e96f306",
-          "author": "Mark Mahoney",
-          "description": "Recreating the First Machine Learning Demo In 1958, Frank Rosenblatt demonstrated something remarkable to reporters in Washington, D.C. His \"perceptron\" could look at cards with shapes on them and tell which side the shape was on. The remarkable thin...",
-          "link": "https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/",
-          "publishedOn": "2025-10-09T15:49:20.000Z",
-          "wordCount": 1702,
-          "title": "Machine Learning Tutorial: How to Program Without Creating Your Own Algorithms",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760024939823/c2c53158-a2ec-4fe2-b222-236bef773e6b.png"
         }
       ]
     }
