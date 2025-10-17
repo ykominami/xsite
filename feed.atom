@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-16T00:14:39.895Z</id>
+    <id>urn:2025-10-17T00:15:09.166Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T00:14:39.895Z</updated>
+    <updated>2025-10-17T00:15:09.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build End-to-End Machine Learning Lineage]]></title>
+        <id>68f0f6719ac2ae80d4c5be03</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/"/>
+        <updated>2025-10-16T13:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning lineage is critical in any robust ML system. It lets you track data and model versions, ensuring reproducibility, auditability, and compliance. While many services for tracking ML lineage exist, creating a comprehensive and manageabl...]]></summary>
+        <author>
+            <name>Kuriko Iwai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make Your UX Research Hard To Ignore]]></title>
+        <id>https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/</id>
+        <link href="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/"/>
+        <updated>2025-10-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize a Graphical React Codebase — Optimize d3-zoom and dnd-kit Code]]></title>
+        <id>68f0e6e94d664bb368c83f39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-a-graphical-react-codebase/"/>
+        <updated>2025-10-16T12:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Miro and Figma are online collaborative canvas tools that became very popular during the pandemic. Instead of using sticky notes on a physical wall, you can add a virtual post—and an array of other things—to a virtual canvas. This lets teams collabor...]]></summary>
+        <author>
+            <name>Cedd Burge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook]]]></title>
+        <id>68f034017abb7495f91ce942</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/"/>
+        <updated>2025-10-15T23:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) Security Groups for Pods is a powerful feature that enables fine-grained network security controls at the pod level. This guide walks you through implementing this feature, from initial cluster setup to testing...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Role-Based Access Control (RBAC) with Custom Claims Using Firebase Rules]]></title>
         <id>68effb6136e271937e23c188</id>
@@ -87,16 +127,6 @@ Sequential linear() Animation With N Elements originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build AI Workflows with n8n]]></title>
-        <id>68ed22c02001907a6cb6d50a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/"/>
-        <updated>2025-10-13T16:03:12.000Z</updated>
-        <summary type="html"><![CDATA[n8n is a visual, node-based automation platform that lets you automate tasks with drag-and-drop nodes. It’s popular for multi-step automations and AI chains thanks to built-in nodes for agents and app integrations. In this tutorial, you’ll build a sm...]]></summary>
-        <author>
-            <name>Soham Mehta</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Masonry: Watching a CSS Feature Evolve]]></title>
         <id>https://css-tricks.com/?p=389636</id>
         <link href="https://css-tricks.com/masonry-watching-a-css-feature-evolve/"/>
@@ -108,16 +138,6 @@ Masonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pass the Google Generative AI Leader Certification Exam]]></title>
-        <id>68ed078ea201be4106f2d7b2</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-google-generative-ai-leader-certification-exam/"/>
-        <updated>2025-10-13T14:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary developer with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's gen A...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Grayscale Problem]]></title>
         <id>https://smashingmagazine.com/2025/10/the-grayscale-problem/</id>
         <link href="https://smashingmagazine.com/2025/10/the-grayscale-problem/"/>
@@ -125,16 +145,6 @@ Masonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evan You – From Art School Kid to Open Source Legend [Podcast #192]]]></title>
-        <id>68e91f889b56081e93d896cd</id>
-        <link href="https://www.freecodecamp.org/news/evan-you-from-art-school-kid-to-open-source-legend-podcast-192/"/>
-        <updated>2025-10-10T15:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Evan You is the creator of the popular Vue JavaScript library for front end development and the Vite JavaScript build tool that a lot of devs use as a boilerplate for their new projects. He's a self-taught developer based in Singapore. He shares tips...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -316,16 +326,6 @@ On inclusive personas and inclusive user research originally published on CSS-Tr
 Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Jeff Bridgforth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
-        <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
-        <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
-        <updated>2025-09-16T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
         </author>
     </entry>
 </feed>
