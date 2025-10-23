@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-22T00:15:33.634Z</id>
+    <id>urn:2025-10-23T00:14:44.564Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T00:15:33.634Z</updated>
+    <updated>2025-10-23T00:14:44.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a To-Do List MCP Server Using TypeScript – with Auth, Database, and Billing]]></title>
+        <id>68f93792b7f64a597dc407f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-to-do-list-mcp-server-using-typescript/"/>
+        <updated>2025-10-22T19:59:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll build a To-Do list MCP server using TypeScript. You’ll learn how to implement authentication, persistence, and billing, to make the server robust and functional for real users. By the end, you’ll have a working MCP server tha...]]></summary>
+        <author>
+            <name>Shola Jegede</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
+        <id>https://css-tricks.com/?p=389961</id>
+        <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
+        <updated>2025-10-22T19:08:23.000Z</updated>
+        <summary type="html"><![CDATA[A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.
+An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Frameworks for Game Developers]]></title>
+        <id>68f92b264b456457fa60faa6</id>
+        <link href="https://www.freecodecamp.org/news/top-frameworks-for-game-developers/"/>
+        <updated>2025-10-22T19:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Game development has never been more exciting than it is today. With the rise of mobile phones, powerful PCs, and even browser-based platforms, the demand for high-quality games continues to grow at a fast pace.  Developers now have access to a wide ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Websites into LLM-Ready Data Using Firecrawl]]></title>
+        <id>68f9002b255bb54c291b6f88</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-websites-into-llm-ready-data-using-firecrawl/"/>
+        <updated>2025-10-22T16:02:51.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever tried feeding web pages into an AI model, you know the pain. Websites come with ads, navigation bars, and messy HTML. Before your Large Language Model (LLM) can understand the content, you must clean and format it. That’s where Firecra...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Scalable and Performant Flutter Applications: A Handbook for Devs]]></title>
+        <id>68f8ff55379be3ac20c68993</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-scalable-and-performant-flutter-applications-a-handbook-for-devs/"/>
+        <updated>2025-10-22T15:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Flutter has rapidly become one of the most popular frameworks for building cross-platform applications. Its ability to deliver smooth, natively compiled apps on iOS, Android, web, and desktop from a single codebase makes it attractive to startups and...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
+        <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
+        <updated>2025-10-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create and Style Tables with Vanilla JavaScript]]></title>
         <id>68f7d9011382e7a69eb7903e</id>
@@ -77,26 +138,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Concurrency vs. Parallelism: What’s the Difference and Why Should You Care?]]></title>
-        <id>68f25bf491a578e35f37419a</id>
-        <link href="https://www.freecodecamp.org/news/concurrency-vs-parallelism-whats-the-difference-and-why-should-you-care/"/>
-        <updated>2025-10-17T15:08:36.000Z</updated>
-        <summary type="html"><![CDATA[In software engineering, certain concepts appear deceptively simple at first glance but fundamentally shape the way we design and architect systems. Concurrency and parallelism are two such concepts that warrant careful examination. These terms are f...]]></summary>
-        <author>
-            <name>Wisdom Usa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Injured Athlete to Software Engineer with Kaleb Garner [Podcast #193]]]></title>
-        <id>68f24bea01eb0109ec07deaf</id>
-        <link href="https://www.freecodecamp.org/news/from-injured-athlete-to-software-engineer-with-kaleb-garner-podcast-193/"/>
-        <updated>2025-10-17T14:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Kaleb Garner is a software engineer working at a medical technology app company. He got a scholarship to play baseball at a state university, but a serious knee injury ended his career and he dropped out. After moving back in with his parents and wor...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI In UX: Achieve More With Less]]></title>
         <id>https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/</id>
         <link href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"/>
@@ -107,16 +148,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build End-to-End Machine Learning Lineage]]></title>
-        <id>68f0f6719ac2ae80d4c5be03</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/"/>
-        <updated>2025-10-16T13:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning lineage is critical in any robust ML system. It lets you track data and model versions, ensuring reproducibility, auditability, and compliance. While many services for tracking ML lineage exist, creating a comprehensive and manageabl...]]></summary>
-        <author>
-            <name>Kuriko Iwai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Make Your UX Research Hard To Ignore]]></title>
         <id>https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/</id>
         <link href="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/"/>
@@ -124,16 +155,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize a Graphical React Codebase — Optimize d3-zoom and dnd-kit Code]]></title>
-        <id>68f0e6e94d664bb368c83f39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-a-graphical-react-codebase/"/>
-        <updated>2025-10-16T12:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Miro and Figma are online collaborative canvas tools that became very popular during the pandemic. Instead of using sticky notes on a physical wall, you can add a virtual post—and an array of other things—to a virtual canvas. This lets teams collabor...]]></summary>
-        <author>
-            <name>Cedd Burge</name>
         </author>
     </entry>
     <entry>
@@ -295,16 +316,6 @@ Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks,
 CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambient Animations In Web Design: Principles And Implementation (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/</id>
-        <link href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"/>
-        <updated>2025-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
