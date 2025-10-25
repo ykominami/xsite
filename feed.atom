@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-24T00:13:44.775Z</id>
+    <id>urn:2025-10-25T00:14:43.418Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T00:13:44.775Z</updated>
+    <updated>2025-10-25T00:14:43.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with TOML Files in Python]]></title>
+        <id>68fbd8942f09b776064b952c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/"/>
+        <updated>2025-10-24T19:50:44.000Z</updated>
+        <summary type="html"><![CDATA[TOML (Tom's Obvious Minimal Language) has become the modern standard for configuration files in Python projects. It's more expressive than INI files and cleaner than JSON or YAML. Since Python 3.11, the standard library includes the tomllib module fo...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Model Context Protocol Works]]></title>
+        <id>68fbd8268c0c93a0a754d14e</id>
+        <link href="https://www.freecodecamp.org/news/how-the-model-context-protocol-works/"/>
+        <updated>2025-10-24T19:48:54.000Z</updated>
+        <summary type="html"><![CDATA[The world of artificial intelligence is moving fast. Every week, it seems like there’s a new tool, framework, or model that promises to make AI better. But as developers build more AI applications, one big problem keeps showing up: the lack of contex...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Model Context Protocol (MCP) with Flutter and Dart]]></title>
+        <id>68fbd79c4ea129b1fef69825</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/"/>
+        <updated>2025-10-24T19:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]]]></title>
+        <id>68fba9c10656b6400beb0762</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/"/>
+        <updated>2025-10-24T16:30:57.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Developer Experience in Microservices Applications with .NET Aspire]]></title>
+        <id>68fb8c95d81014dabb030226</id>
+        <link href="https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/"/>
+        <updated>2025-10-24T14:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...]]></summary>
+        <author>
+            <name>Opaluwa Emidowojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
+        <id>https://css-tricks.com/?p=389794</id>
+        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
+        <updated>2025-10-24T14:18:03.000Z</updated>
+        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
+CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]]]></title>
+        <id>68fb89f65b2841c3f1a026ba</id>
+        <link href="https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/"/>
+        <updated>2025-10-24T14:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do AI Agents Work?]]></title>
         <id>68fa5f0711038bf3130f454d</id>
@@ -57,26 +128,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Turn Websites into LLM-Ready Data Using Firecrawl]]></title>
-        <id>68f9002b255bb54c291b6f88</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-websites-into-llm-ready-data-using-firecrawl/"/>
-        <updated>2025-10-22T16:02:51.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever tried feeding web pages into an AI model, you know the pain. Websites come with ads, navigation bars, and messy HTML. Before your Large Language Model (LLM) can understand the content, you must clean and format it. That’s where Firecra...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Scalable and Performant Flutter Applications: A Handbook for Devs]]></title>
-        <id>68f8ff55379be3ac20c68993</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-scalable-and-performant-flutter-applications-a-handbook-for-devs/"/>
-        <updated>2025-10-22T15:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Flutter has rapidly become one of the most popular frameworks for building cross-platform applications. Its ability to deliver smooth, natively compiled apps on iOS, Android, web, and desktop from a single codebase makes it attractive to startups and...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
         <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
         <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
@@ -84,46 +135,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create and Style Tables with Vanilla JavaScript]]></title>
-        <id>68f7d9011382e7a69eb7903e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-and-style-tables-with-vanilla-javascript/"/>
-        <updated>2025-10-21T19:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Tables are one of the most useful ways to display structured data, whether you’re showing a list of users, sales figures, or project reports. In this tutorial, you will learn how to: Build tables using plain HTML Style them using CSS Create and ma...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Voice AI Agent Using Open-Source Tools]]></title>
-        <id>68f7d890413573e1d65bb331</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/"/>
-        <updated>2025-10-21T19:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Voice is the next frontier of conversational AI. It is the most natural modality for people to chat and interact with another intelligent being. In the past year, frontier AI labs such as OpenAI, xAI, Anthropic, Meta, and Google have all released rea...]]></summary>
-        <author>
-            <name>Michael Yuan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Technical Interviews by Learning Data Structures and Algorithms]]></title>
-        <id>68f7d7315429f082cb2c9593</id>
-        <link href="https://www.freecodecamp.org/news/master-technical-interviews-by-learning-data-structures-and-algorithms/"/>
-        <updated>2025-10-21T18:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to master technical interviews for software engineering roles. We just posted a 49-hour course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about data structures and algorithms. Parth Vyas created ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SwiftUI and Create an iOS App From Scratch]]></title>
-        <id>68f7d59ad8e7070995147d16</id>
-        <link href="https://www.freecodecamp.org/news/learn-swiftui-and-create-an-ios-app-from-scratch/"/>
-        <updated>2025-10-21T18:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a complete iOS app from scratch using SwiftUI and Xcode. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build a feature-rich movie and TV browsing app with a dynamic home screen, powerful se...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -295,27 +306,6 @@ Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks,
         <summary type="html"><![CDATA[What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/</id>
-        <link href="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/"/>
-        <updated>2025-09-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
-        <id>https://css-tricks.com/?p=389371</id>
-        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
-        <updated>2025-09-24T12:49:22.000Z</updated>
-        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
-CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
 </feed>
