@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-27T00:17:13.845Z</id>
+    <id>urn:2025-10-28T00:14:47.680Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T00:17:13.845Z</updated>
+    <updated>2025-10-28T00:14:47.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a CRUD App with TanStack Start and TanStackDB (with RxDB Integration)]]></title>
+        <id>68ffdf4bd48b77fcbe0114ce</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-crud-app-with-tanstack-start-and-tanstackdb-with-rxdb-integration/"/>
+        <updated>2025-10-27T21:08:27.000Z</updated>
+        <summary type="html"><![CDATA[TanStack Start is a new full-stack framework for React. It’s been growing in popularity ever since it reached the Release Candidate stage of its development in September, 2025. The Release Candidate stage is basically a version of software which is c...]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Secure iOS Apps in Swift: Common Security Pitfalls and How to Fix Them]]></title>
+        <id>68ffdf1761d216440f5bb38a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-secure-ios-apps-in-swift-common-security-pitfalls-and-how-to-fix-them/"/>
+        <updated>2025-10-27T21:07:35.000Z</updated>
+        <summary type="html"><![CDATA[These days, there are many ways attackers can try to compromise your applications. And thanks to the continued increase in cyberattacks, the demand for secure mobile applications – and by extension, secure coding – has never been higher. So if you’re...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Closures in Go]]></title>
+        <id>68ffd791ca908949cd4f2afc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-closures-in-go/"/>
+        <updated>2025-10-27T20:35:29.000Z</updated>
+        <summary type="html"><![CDATA[If you've written code in JavaScript, Python, or Rust, you've probably heard the word closure before. The concept has subtle differences in each language, but the core idea is the same: a closure is a function that captures variables from its surroun...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure CSS Tabs With Details, Grid, and Subgrid]]></title>
+        <id>https://css-tricks.com/?p=389805</id>
+        <link href="https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/"/>
+        <updated>2025-10-27T14:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!
+Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Registry in shadcn]]></title>
+        <id>68ff81486f611e7895c9f9ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-registry-in-shadcn/"/>
+        <updated>2025-10-27T14:27:20.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you’ll learn how to set up a registry in shadcn. If you’re not familiar with this tool, shadcn is a collection of reusable and accessible components you can use in your projects. You’ll learn about essential concepts such as setting up...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Everyone: Iterators]]></title>
+        <id>https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/</id>
+        <link href="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/"/>
+        <updated>2025-10-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mat Marquis)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with TOML Files in Python]]></title>
         <id>68fbd8942f09b776064b952c</id>
@@ -77,36 +138,6 @@ CSS Animations That Leverage the Parent-Child Relationship originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Do AI Agents Work?]]></title>
-        <id>68fa5f0711038bf3130f454d</id>
-        <link href="https://www.freecodecamp.org/news/how-do-ai-agents-work/"/>
-        <updated>2025-10-23T16:59:51.000Z</updated>
-        <summary type="html"><![CDATA[When people talk about AI agents, they often imagine something futuristic that can think, talk, and make decisions.  But the truth is, AI agents are already here. And they are working quietly in the background. They answer customer questions, schedul...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The React Handbook for Beginners – JSX, Hooks, and Rendering Explained]]></title>
-        <id>68f95319417d2ee394355b66</id>
-        <link href="https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/"/>
-        <updated>2025-10-22T21:56:41.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most powerful and widely used libraries for building user interfaces with JavaScript. From small components to large-scale front-end and full-stack applications, React gives you the flexibility to create interactive, efficient, an...]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a To-Do List MCP Server Using TypeScript – with Auth, Database, and Billing]]></title>
-        <id>68f93792b7f64a597dc407f9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-to-do-list-mcp-server-using-typescript/"/>
-        <updated>2025-10-22T19:59:14.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll build a To-Do list MCP server using TypeScript. You’ll learn how to implement authentication, persistence, and billing, to make the server robust and functional for real users. By the end, you’ll have a working MCP server tha...]]></summary>
-        <author>
-            <name>Shola Jegede</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
         <id>https://css-tricks.com/?p=389961</id>
         <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
@@ -115,16 +146,6 @@ CSS Animations That Leverage the Parent-Child Relationship originally published 
 An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Frameworks for Game Developers]]></title>
-        <id>68f92b264b456457fa60faa6</id>
-        <link href="https://www.freecodecamp.org/news/top-frameworks-for-game-developers/"/>
-        <updated>2025-10-22T19:06:14.000Z</updated>
-        <summary type="html"><![CDATA[Game development has never been more exciting than it is today. With the rise of mobile phones, powerful PCs, and even browser-based platforms, the demand for high-quality games continues to grow at a fast pace.  Developers now have access to a wide ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
