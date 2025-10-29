@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-28T00:14:47.680Z</id>
+    <id>urn:2025-10-29T00:15:54.394Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T00:14:47.680Z</updated>
+    <updated>2025-10-29T00:15:54.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Assets in Flutter using  flutter_gen]]></title>
+        <id>69012bf59b2c5393aed5bccd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-assets-in-flutter-using-fluttergen/"/>
+        <updated>2025-10-28T20:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Managing assets like images, icons, and fonts in a Flutter project can quickly become a tedious task, especially as your application grows. Manual referencing is prone to typos, introduces maintenance overhead, and can hinder team collaboration. Fort...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Responsive UIs in Flutter]]></title>
+        <id>690108bed60a2bc774c2f435</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-responsive-uis-in-flutter/"/>
+        <updated>2025-10-28T18:17:34.000Z</updated>
+        <summary type="html"><![CDATA[Building responsive UIs in Flutter can be challenging, especially when you want your app to look great on phones, tablets, and desktops without maintaining multiple layouts. Fortunately, Flutter provides powerful tools like MediaQuery, LayoutBuilder,...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3]]></title>
+        <id>6900f612596c2221585d95a4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/"/>
+        <updated>2025-10-28T16:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever visited a website and wondered how well is this page structured? Does it have a meta description? How many links or headings does it use? Usually, you’d open DevTools or an SEO auditing tool to find answers to these questions. But what ...]]></summary>
+        <author>
+            <name>Hitesh Chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Dynamic Performance Test in Apache JMeter]]></title>
+        <id>6900f3ca65a053299e38eab3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-dynamic-performance-test-in-apache-jmeter/"/>
+        <updated>2025-10-28T16:48:10.000Z</updated>
+        <summary type="html"><![CDATA[As a QA engineer, I have always found performance testing to be one of the most exciting and underrated parts of software testing. Yes, functional testing is important, but it’s of little use if users have to wait for 5 seconds for each page to load....]]></summary>
+        <author>
+            <name>Mah Noor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a CRUD App with TanStack Start and TanStackDB (with RxDB Integration)]]></title>
         <id>68ffdf4bd48b77fcbe0114ce</id>
@@ -87,36 +127,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Model Context Protocol (MCP) with Flutter and Dart]]></title>
-        <id>68fbd79c4ea129b1fef69825</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/"/>
-        <updated>2025-10-24T19:46:36.000Z</updated>
-        <summary type="html"><![CDATA[Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]]]></title>
-        <id>68fba9c10656b6400beb0762</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/"/>
-        <updated>2025-10-24T16:30:57.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Developer Experience in Microservices Applications with .NET Aspire]]></title>
-        <id>68fb8c95d81014dabb030226</id>
-        <link href="https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/"/>
-        <updated>2025-10-24T14:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
         <id>https://css-tricks.com/?p=389794</id>
         <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
@@ -125,16 +135,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
 CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]]]></title>
-        <id>68fb89f65b2841c3f1a026ba</id>
-        <link href="https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/"/>
-        <updated>2025-10-24T14:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

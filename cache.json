@@ -17,7 +17,7 @@
           "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
           "publishedOn": "2025-10-27T14:33:17.000Z",
-          "wordCount": 3080,
+          "wordCount": 3165,
           "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
@@ -149,7 +149,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4442,
+          "wordCount": 4452,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -159,7 +159,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4592,
+          "wordCount": 4705,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -169,7 +169,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5838,
+          "wordCount": 5833,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -199,7 +199,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4567,
+          "wordCount": 4579,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -214,7 +214,7 @@
           "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
           "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "publishedOn": "2025-10-06T13:00:00.000Z",
-          "wordCount": 4382,
+          "wordCount": 4387,
           "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
@@ -229,7 +229,7 @@
           "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.",
           "link": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
           "publishedOn": "2025-10-03T10:00:00.000Z",
-          "wordCount": 9697,
+          "wordCount": 9705,
           "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg",
@@ -244,7 +244,7 @@
           "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
           "publishedOn": "2025-09-30T11:00:00.000Z",
-          "wordCount": 4920,
+          "wordCount": 4906,
           "title": "Shades Of October (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png",
@@ -260,6 +260,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69012bf59b2c5393aed5bccd",
+          "author": "Atuoha Anthony",
+          "description": "Managing assets like images, icons, and fonts in a Flutter project can quickly become a tedious task, especially as your application grows. Manual referencing is prone to typos, introduces maintenance overhead, and can hinder team collaboration. Fort...",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-assets-in-flutter-using-fluttergen/",
+          "publishedOn": "2025-10-28T20:47:49.000Z",
+          "wordCount": 2703,
+          "title": "How to Manage Assets in Flutter using  flutter_gen",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761684457969/a8a6b9bc-780f-4e06-bf8a-19b90cd632f4.png"
+        },
+        {
+          "id": "690108bed60a2bc774c2f435",
+          "author": "Atuoha Anthony",
+          "description": "Building responsive UIs in Flutter can be challenging, especially when you want your app to look great on phones, tablets, and desktops without maintaining multiple layouts. Fortunately, Flutter provides powerful tools like MediaQuery, LayoutBuilder,...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-responsive-uis-in-flutter/",
+          "publishedOn": "2025-10-28T18:17:34.000Z",
+          "wordCount": 4959,
+          "title": "How to Build Responsive UIs in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761675310940/332589a7-55e0-4cb2-935e-aa1011709e2e.png"
+        },
+        {
+          "id": "6900f612596c2221585d95a4",
+          "author": "Hitesh Chauhan",
+          "description": "Have you ever visited a website and wondered how well is this page structured? Does it have a meta description? How many links or headings does it use? Usually, you’d open DevTools or an SEO auditing tool to find answers to these questions. But what ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/",
+          "publishedOn": "2025-10-28T16:57:54.000Z",
+          "wordCount": 2135,
+          "title": "How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761670419000/13ac96ca-6e28-413f-a0e0-56ed353a007c.png"
+        },
+        {
+          "id": "6900f3ca65a053299e38eab3",
+          "author": "Mah Noor",
+          "description": "As a QA engineer, I have always found performance testing to be one of the most exciting and underrated parts of software testing. Yes, functional testing is important, but it’s of little use if users have to wait for 5 seconds for each page to load....",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-dynamic-performance-test-in-apache-jmeter/",
+          "publishedOn": "2025-10-28T16:48:10.000Z",
+          "wordCount": 2380,
+          "title": "How to Build Your First Dynamic Performance Test in Apache JMeter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335397152/cb105a44-4c18-4998-9ffb-d520df0e6510.png"
+        },
         {
           "id": "68ffdf4bd48b77fcbe0114ce",
           "author": "Andrew Baisden",
@@ -319,46 +359,6 @@
           "wordCount": 2609,
           "title": "How the Model Context Protocol Works",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335265026/4e06906c-3f4b-4f88-b49d-8bc58f984e55.png"
-        },
-        {
-          "id": "68fbd79c4ea129b1fef69825",
-          "author": "Atuoha Anthony",
-          "description": "Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/",
-          "publishedOn": "2025-10-24T19:46:36.000Z",
-          "wordCount": 5286,
-          "title": "How to Use the Model Context Protocol (MCP) with Flutter and Dart",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335181944/18a2fe98-2d77-490c-8b80-5f254c3f9c99.png"
-        },
-        {
-          "id": "68fba9c10656b6400beb0762",
-          "author": "Sumit Saha",
-          "description": "JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/",
-          "publishedOn": "2025-10-24T16:30:57.000Z",
-          "wordCount": 6588,
-          "title": "How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761323431527/d74eb2ba-edaa-4d19-a041-364e99a705ba.png"
-        },
-        {
-          "id": "68fb8c95d81014dabb030226",
-          "author": "Opaluwa Emidowojo",
-          "description": "Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...",
-          "link": "https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/",
-          "publishedOn": "2025-10-24T14:26:29.000Z",
-          "wordCount": 3906,
-          "title": "How to Improve Developer Experience in Microservices Applications with .NET Aspire",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761315727860/7321f413-ec87-47a8-b194-523c026f495b.png"
-        },
-        {
-          "id": "68fb89f65b2841c3f1a026ba",
-          "author": "Beau Carnes",
-          "description": "Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...",
-          "link": "https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/",
-          "publishedOn": "2025-10-24T14:15:18.000Z",
-          "wordCount": 1406,
-          "title": "First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761272138733/e738b6de-9f43-41b9-a7d4-b09d3d4182af.jpeg"
         }
       ]
     }
