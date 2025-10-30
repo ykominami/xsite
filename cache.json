@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390031",
+          "author": "Andy Clarke",
+          "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.\nGetting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-small-screens/",
+          "publishedOn": "2025-10-29T16:22:28.000Z",
+          "wordCount": 3540,
+          "title": "Getting Creative With Small Screens",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=389805",
           "author": "Silvestar Bistrović",
           "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
           "publishedOn": "2025-10-27T14:33:17.000Z",
-          "wordCount": 3165,
+          "wordCount": 3180,
           "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
@@ -125,16 +135,6 @@
           "wordCount": 3394,
           "title": "Same Idea, Different Paint Brush",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/mom-painting-thumb.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389331",
-          "author": "Juan Diego Rodríguez",
-          "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.\nTouring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
-          "publishedOn": "2025-09-29T14:31:16.000Z",
-          "wordCount": 3998,
-          "title": "Touring New CSS Features in Safari 26",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/thumbnail.png"
         }
       ]
     },
@@ -149,7 +149,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4452,
+          "wordCount": 4558,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -159,7 +159,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4705,
+          "wordCount": 4596,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -169,7 +169,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5833,
+          "wordCount": 5838,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -199,7 +199,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4579,
+          "wordCount": 4571,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -214,7 +214,7 @@
           "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
           "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "publishedOn": "2025-10-06T13:00:00.000Z",
-          "wordCount": 4387,
+          "wordCount": 4384,
           "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
@@ -237,21 +237,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
-          "publishedOn": "2025-09-30T11:00:00.000Z",
-          "wordCount": 4906,
-          "title": "Shades Of October (2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png"
         }
       ]
     },
@@ -260,6 +245,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690245c804c1e198e965b3ef",
+          "author": "Ashutosh Krishna",
+          "description": "Have you ever needed to take screenshots of websites automatically – maybe to track visual changes, include them in reports, or generate previews? Doing this manually can be time-consuming, especially if you need to capture multiple pages regularly. ...",
+          "link": "https://www.freecodecamp.org/news/build-a-website-screenshot-generator-with-python-and-flask/",
+          "publishedOn": "2025-10-29T16:50:16.000Z",
+          "wordCount": 2971,
+          "title": "Build a Website Screenshot Generator with Python and Flask",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761756575904/17a940c5-352e-47a2-992e-a1973c030c05.png"
+        },
+        {
+          "id": "69023c73147abcc15caef5c4",
+          "author": "Beau Carnes",
+          "description": "You can modern application architecture by building real-world serverless and microservices solutions using C# and Azure. We just posted a full course on the freeCodeCamp that will teach you to build scaleable cloud applications. Muhammad Abdullah de...",
+          "link": "https://www.freecodecamp.org/news/serverless-and-microservices-with-c-and-azure/",
+          "publishedOn": "2025-10-29T16:10:27.000Z",
+          "wordCount": 966,
+          "title": "Serverless and Microservices with C# & Azure",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761754162686/963ecd38-8522-4fee-8448-d4e1e5a3a9f0.jpeg"
+        },
+        {
+          "id": "6902148987da12fd1cbfa416",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass/",
+          "publishedOn": "2025-10-29T13:20:09.000Z",
+          "wordCount": 3319,
+          "title": "Prepare for the Kubernetes Administrator Certification and Pass",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761739982392/f255a6af-6ec9-4136-b45f-6f14d4fb2c8c.jpeg"
+        },
         {
           "id": "69012bf59b2c5393aed5bccd",
           "author": "Atuoha Anthony",
@@ -329,36 +344,6 @@
           "wordCount": 3677,
           "title": "How to Use Closures in Go",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761597115311/04035f6b-6bd0-4889-8433-3f0d652f2586.png"
-        },
-        {
-          "id": "68ff81486f611e7895c9f9ca",
-          "author": "Abhijeet Dave",
-          "description": "In this guide, you’ll learn how to set up a registry in shadcn. If you’re not familiar with this tool, shadcn is a collection of reusable and accessible components you can use in your projects. You’ll learn about essential concepts such as setting up...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-registry-in-shadcn/",
-          "publishedOn": "2025-10-27T14:27:20.000Z",
-          "wordCount": 3206,
-          "title": "How to Set Up a Registry in shadcn",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761575215365/54597001-a10f-4a3d-a082-3eb5ac8b9a7d.png"
-        },
-        {
-          "id": "68fbd8942f09b776064b952c",
-          "author": "Bala Priya C",
-          "description": "TOML (Tom's Obvious Minimal Language) has become the modern standard for configuration files in Python projects. It's more expressive than INI files and cleaner than JSON or YAML. Since Python 3.11, the standard library includes the tomllib module fo...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/",
-          "publishedOn": "2025-10-24T19:50:44.000Z",
-          "wordCount": 1812,
-          "title": "How to Work with TOML Files in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335431619/2d4fefec-cdbb-4146-ae9c-24468b483278.png"
-        },
-        {
-          "id": "68fbd8268c0c93a0a754d14e",
-          "author": "Manish Shivanandhan",
-          "description": "The world of artificial intelligence is moving fast. Every week, it seems like there’s a new tool, framework, or model that promises to make AI better. But as developers build more AI applications, one big problem keeps showing up: the lack of contex...",
-          "link": "https://www.freecodecamp.org/news/how-the-model-context-protocol-works/",
-          "publishedOn": "2025-10-24T19:48:54.000Z",
-          "wordCount": 2609,
-          "title": "How the Model Context Protocol Works",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335265026/4e06906c-3f4b-4f88-b49d-8bc58f984e55.png"
         }
       ]
     }
