@@ -17,7 +17,7 @@
           "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
           "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3512,
+          "wordCount": 3548,
           "title": "The “Most Hated” CSS Feature: tan()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
         },
@@ -144,12 +144,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
+          "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": 4411,
+          "title": "How To Leverage Component Variants In Penpot",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4768,
+          "wordCount": 4777,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -164,7 +179,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4455,
+          "wordCount": 4454,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -174,7 +189,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4599,
+          "wordCount": 4590,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -184,7 +199,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5832,
+          "wordCount": 5829,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -214,7 +229,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4565,
+          "wordCount": 4568,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -229,7 +244,7 @@
           "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
           "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "publishedOn": "2025-10-06T13:00:00.000Z",
-          "wordCount": 4382,
+          "wordCount": 4372,
           "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
@@ -245,6 +260,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690a2d839d070c31fadbc25e",
+          "author": "Shejan Mahamud",
+          "description": "Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...",
+          "link": "https://www.freecodecamp.org/news/how-proto-prototype-and-inheritance-actually-work-in-javascript/",
+          "publishedOn": "2025-11-04T16:44:51.000Z",
+          "wordCount": 2453,
+          "title": "How __proto__, prototype, and Inheritance Actually Work in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762210692821/651a67f9-cbe5-4f09-b048-957caaa5e1ac.png"
+        },
+        {
+          "id": "690933925fbdca38da0ea33b",
+          "author": "Manish Shivanandhan",
+          "description": "Cybersecurity is one of the fastest-growing fields in the world today.  Every year, more companies face threats that put their data, reputation, and customer trust at risk. As these threats grow, so does the demand for skilled cybersecurity professio...",
+          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-to-boost-your-career/",
+          "publishedOn": "2025-11-03T22:58:26.000Z",
+          "wordCount": 2450,
+          "title": "Top Cybersecurity Certifications to Boost Your Career",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762183746663/9f26b839-70c5-4ab6-b5ff-53ead8d2311b.png"
+        },
         {
           "id": "6908c9fe147981c65916a40b",
           "author": "Manish Shivanandhan",
@@ -324,26 +359,6 @@
           "wordCount": 6080,
           "title": "How to Use Streams in Flutter",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774911652/ca6749c7-391b-4a9f-9264-5f15e54855ee.png"
-        },
-        {
-          "id": "69028d2168ede4f821f8f0e8",
-          "author": "Bala Priya C",
-          "description": "JSON has become the standard format for data exchange on the web. So you'll run into JSON all the time when working with REST APIs, configuration files, database exports, and more. As a developer, you should know how to parse, manipulate, and generat...",
-          "link": "https://www.freecodecamp.org/news/how-to-parse-json-in-python-with-examples/",
-          "publishedOn": "2025-10-29T21:54:41.000Z",
-          "wordCount": 2646,
-          "title": "How to Parse JSON in Python – A Complete Guide With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774871223/d4b07c0a-d37e-4197-bb47-f1ee6f51dffd.png"
-        },
-        {
-          "id": "69028c7be37f0cfba4d00775",
-          "author": "Manish Shivanandhan",
-          "description": "APIs and MCPs both help systems talk to each other.  At first, they might look the same. Both allow one piece of software to ask another for data or perform an action. But the way they work and the reason they exist are completely different. An API, ...",
-          "link": "https://www.freecodecamp.org/news/mcp-vs-apis-whats-the-real-difference/",
-          "publishedOn": "2025-10-29T21:51:55.000Z",
-          "wordCount": 2300,
-          "title": "MCP vs APIs: What's the Real Difference?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774679622/477d1991-a083-4ae6-8e3b-2a186d254274.png"
         }
       ]
     }
