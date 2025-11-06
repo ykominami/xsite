@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-05T00:16:13.383Z</id>
+    <id>urn:2025-11-06T00:15:50.838Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T00:16:13.383Z</updated>
+    <updated>2025-11-06T00:15:50.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use LangChain and LangGraph: A Beginner’s Guide to AI Workflows]]></title>
+        <id>690b882e468be723832787a7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-langchain-and-langgraph-a-beginners-guide-to-ai-workflows/"/>
+        <updated>2025-11-05T17:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is moving fast. Every week, new tools appear that make it easier to build apps powered by large language models. But many beginners still get stuck on one question: how do you structure the logic of an AI application? How do y...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event-Based Architectures in JavaScript: A Handbook for Devs]]></title>
+        <id>690b87a7da01ae579df92085</id>
+        <link href="https://www.freecodecamp.org/news/event-based-architectures-in-javascript-a-handbook-for-devs/"/>
+        <updated>2025-11-05T17:21:43.000Z</updated>
+        <summary type="html"><![CDATA[In modern software development, event-driven architectures have become one of the most powerful ways to build scalable, decoupled, and responsive systems. Instead of relying on direct calls between components, event-driven systems communicate through...]]></summary>
+        <author>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Global Execution Context and Temporal Dead Zone Work in JavaScript?]]></title>
+        <id>690b5691972e7bfdc1ed09c1</id>
+        <link href="https://www.freecodecamp.org/news/global-execution-context-and-temporal-dead-zone-explained/"/>
+        <updated>2025-11-05T13:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how JavaScript runs your code behind the scenes, and how the Global Execution Context actually works? How does hoisting work for var, let, and const? Consider the code bellow: console.log('My age is', age) console.log('My name ...]]></summary>
+        <author>
+            <name>Shejan Mahamud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To UX Strategy]]></title>
+        <id>https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/</id>
+        <link href="https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/"/>
+        <updated>2025-11-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How __proto__, prototype, and Inheritance Actually Work in JavaScript]]></title>
         <id>690a2d839d070c31fadbc25e</id>
@@ -105,36 +145,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Artificial intelligence is evolving at a remarkable pace. Models today can reason, write, code, and analyze information in ways that once seemed impossible. But there’s one major limitation that still holds them back: context. Most AI models don’t ha...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Programming Skills by Building Games]]></title>
-        <id>690364c01022fd77927ddcbd</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-programming-skills-by-building-games/"/>
-        <updated>2025-10-30T13:14:40.000Z</updated>
-        <summary type="html"><![CDATA[When most people think about learning to code, they imagine building websites or automating small tasks. Few think of building games as a serious way to improve programming skills.  But creating even a simple game can teach lessons that no tutorial e...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile App Development with Dart and Flutter]]></title>
-        <id>6902ba897614003427892ef9</id>
-        <link href="https://www.freecodecamp.org/news/mobile-app-development-with-dart-and-flutter/"/>
-        <updated>2025-10-30T01:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Mobile app development lets you build applications that run on multiple platforms. Flutter is Google's UI toolkit for building applications for mobile, web, and desktop from a single codebase. Flutter apps are written in Dart, a statically typed, obj...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Streams in Flutter]]></title>
-        <id>69028db72c8d547cd3a4cb95</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-streams-in-flutter/"/>
-        <updated>2025-10-29T21:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Flutter, Google's open-source UI software development toolkit, has rapidly become a preferred choice for building natively compiled, cross-platform applications from a single codebase. Its declarative UI paradigm, coupled with robust performance, hel...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
@@ -286,27 +296,6 @@ For my website design, I chose a dark blue background colour (#212E45) and light
 The thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With shape-outside]]></title>
-        <id>https://css-tricks.com/?p=389550</id>
-        <link href="https://css-tricks.com/getting-creative-with-shape-outside/"/>
-        <updated>2025-10-06T15:45:40.000Z</updated>
-        <summary type="html"><![CDATA[There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.
-Getting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries]]></title>
-        <id>https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/</id>
-        <link href="https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/"/>
-        <updated>2025-10-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
