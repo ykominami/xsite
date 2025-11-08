@@ -17,7 +17,7 @@
           "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
           "publishedOn": "2025-11-06T15:57:49.000Z",
-          "wordCount": 2316,
+          "wordCount": 2352,
           "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
         },
@@ -125,16 +125,6 @@
           "wordCount": 2699,
           "title": "We Completely Missed width/height: stretch",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/percentage-padding-width.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389698",
-          "author": "Geoff Graham",
-          "description": "One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:\nFor my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This \n…\nThe thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-thing-about-contrast-color/",
-          "publishedOn": "2025-10-08T14:52:58.000Z",
-          "wordCount": 1954,
-          "title": "The thing about contrast-color",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
         }
       ]
     },
@@ -143,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
+          "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "publishedOn": "2025-11-07T15:00:00.000Z",
+          "wordCount": 4717,
+          "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -179,7 +184,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4766,
+          "wordCount": 4774,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -194,7 +199,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4445,
+          "wordCount": 4444,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -204,9 +209,9 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 4590,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
-          "imageUrl": null
+          "imageUrl": "https:null"
         },
         {
           "id": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
@@ -214,7 +219,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5829,
+          "wordCount": 5835,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -244,7 +249,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4564,
+          "wordCount": 4570,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
@@ -260,6 +265,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690e629981a4964f4b12b422",
+          "author": "Manish Shivanandhan",
+          "description": "In the age of online privacy, two tools are often mentioned together: VPNs and proxies. Both hide your IP address and help you browse the internet more privately, but they work in different ways and serve different purposes. From simple security to w...",
+          "link": "https://www.freecodecamp.org/news/vpns-vs-proxies-what-are-the-differences/",
+          "publishedOn": "2025-11-07T21:20:25.000Z",
+          "wordCount": 2055,
+          "title": "VPNs vs Proxies: What are the Differences?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762549605269/165d4e53-a54e-46b7-95b6-f2b76bcdfc53.png"
+        },
+        {
+          "id": "690e2801500cb51e735b5a9c",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Introduction: Why Bluetooth Still Matters You probably don’t even think about Bluetooth anymore. It’s just there, quietly doing its job every single day. It’s what keeps your earbuds connected, your smartwatch synced, your car infotainment system tal...",
+          "link": "https://www.freecodecamp.org/news/the-state-of-bluetooth-whats-new-whats-possible-and-how-to-use-it/",
+          "publishedOn": "2025-11-07T17:10:25.000Z",
+          "wordCount": 8061,
+          "title": "The State of Bluetooth in 2025: What’s New, What’s Possible, and How to Use It",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533537259/3f9dec8a-690b-4fd8-a0a7-8e6b2667e55c.png"
+        },
+        {
+          "id": "690e27b0ca4947acbefbd755",
+          "author": "Surya Teja Appini",
+          "description": "When you start building with LLMs, it quickly becomes clear that not all models behave the same. One model may excel at creative writing but struggle with technical precision. Another might be thoughtful yet verbose. A third could be fast and efficie...",
+          "link": "https://www.freecodecamp.org/news/choose-the-right-llm-for-your-projects-benchmarking-guide/",
+          "publishedOn": "2025-11-07T17:09:04.000Z",
+          "wordCount": 3376,
+          "title": "How to Choose the Right LLM for Your Projects: A Guide to Effective Model Benchmarking",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762534383880/404f27c6-2995-4daa-bcac-c61b10e93abc.png"
+        },
+        {
+          "id": "690e1f43cb50ea9684f6d9aa",
+          "author": "OMOTAYO OMOYEMI",
+          "description": "When I started my research on AI systems that could translate Makaton (a sign and symbol language designed to support speech and communication), I wanted to bridge a gap in accessibility for learners with speech or language difficulties. Over time, t...",
+          "link": "https://www.freecodecamp.org/news/how-i-built-a-makaton-ai-companion-using-gemini-nano-and-the-gemini-api/",
+          "publishedOn": "2025-11-07T16:33:07.000Z",
+          "wordCount": 5701,
+          "title": "How I Built a Makaton AI Companion Using Gemini Nano and the Gemini API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533154134/e2209ade-6971-464b-aeef-f05abd0a30d7.png"
+        },
+        {
+          "id": "690e0d2661d96baa3c583c80",
+          "author": "Beau Carnes",
+          "description": "Abbey Perini taught herself programming at age 27 while working as an admin at an engineering recruitment agency. She has worked extensively with large legacy codebases and taught best practices to developers internationally. We talk about: How to h...",
+          "link": "https://www.freecodecamp.org/news/applying-into-the-void-with-recruiter-admin-abbey-perini-podcast-196/",
+          "publishedOn": "2025-11-07T15:15:50.000Z",
+          "wordCount": 1334,
+          "title": "Applying into the void with recruiter admin Abbey Perini [Podcast #196]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762479547201/349a72fd-5c01-4191-883f-91735d72cae3.jpeg"
+        },
+        {
+          "id": "690e02f392fcbf371b6e1b9d",
+          "author": "Casmir Onyekani",
+          "description": "As a developer who aspires to be a founder, building your first startup can be filled with excitement and ideas. The worst thing that could happen to you is jumping straight into the coding part. I was in this situation and the last thing on my mind ...",
+          "link": "https://www.freecodecamp.org/news/how-to-structure-your-readme-file/",
+          "publishedOn": "2025-11-07T14:32:19.000Z",
+          "wordCount": 2815,
+          "title": "How to Structure Your README File – README Template Example",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762523233143/4555ff83-b390-4cb2-b6de-acea129de4b1.png"
+        },
         {
           "id": "690ce6ccd9dcaa769b671c7e",
           "author": "Beau Carnes",
@@ -299,66 +364,6 @@
           "wordCount": 1115,
           "title": "Creative Web Development with Three.js and Blender",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382219109/2fe68963-cb45-4bc5-add9-6ba3351664f3.jpeg"
-        },
-        {
-          "id": "690bcbbc8abe1e0a5b05e0be",
-          "author": "Surya Teja Appini",
-          "description": "Most commercial voice assistants send your voice data to cloud servers before responding. By using open‑source tools, you can run everything directly on your phone for better privacy, faster responses, and full control over how the assistant behaves....",
-          "link": "https://www.freecodecamp.org/news/private-voice-assistant-using-open-source-tools/",
-          "publishedOn": "2025-11-05T22:12:12.000Z",
-          "wordCount": 3960,
-          "title": "How to Build Your Own Private Voice Assistant: A Step-by-Step Guide Using Open-Source Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762380694991/10687751-7aec-4d78-8af8-1f76edc28afd.png"
-        },
-        {
-          "id": "690b882e468be723832787a7",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence is moving fast. Every week, new tools appear that make it easier to build apps powered by large language models. But many beginners still get stuck on one question: how do you structure the logic of an AI application? How do y...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-langchain-and-langgraph-a-beginners-guide-to-ai-workflows/",
-          "publishedOn": "2025-11-05T17:23:58.000Z",
-          "wordCount": 2584,
-          "title": "How to Use LangChain and LangGraph: A Beginner’s Guide to AI Workflows",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762363391314/34c1c950-b257-40b2-a03d-cbaf1bfbd4b6.png"
-        },
-        {
-          "id": "690b87a7da01ae579df92085",
-          "author": "German Cocca",
-          "description": "In modern software development, event-driven architectures have become one of the most powerful ways to build scalable, decoupled, and responsive systems. Instead of relying on direct calls between components, event-driven systems communicate through...",
-          "link": "https://www.freecodecamp.org/news/event-based-architectures-in-javascript-a-handbook-for-devs/",
-          "publishedOn": "2025-11-05T17:21:43.000Z",
-          "wordCount": 8557,
-          "title": "Event-Based Architectures in JavaScript: A Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762296111539/a47bf1c2-1d4d-4c3b-8006-4f3479647f75.png"
-        },
-        {
-          "id": "690b5691972e7bfdc1ed09c1",
-          "author": "Shejan Mahamud",
-          "description": "Have you ever wondered how JavaScript runs your code behind the scenes, and how the Global Execution Context actually works? How does hoisting work for var, let, and const? Consider the code bellow: console.log('My age is', age) console.log('My name ...",
-          "link": "https://www.freecodecamp.org/news/global-execution-context-and-temporal-dead-zone-explained/",
-          "publishedOn": "2025-11-05T13:52:17.000Z",
-          "wordCount": 3353,
-          "title": "How Do Global Execution Context and Temporal Dead Zone Work in JavaScript?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762347165225/c7bd75a9-a819-41b6-8a35-4feecfb7cf58.png"
-        },
-        {
-          "id": "690a2d839d070c31fadbc25e",
-          "author": "Shejan Mahamud",
-          "description": "Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...",
-          "link": "https://www.freecodecamp.org/news/how-proto-prototype-and-inheritance-actually-work-in-javascript/",
-          "publishedOn": "2025-11-04T16:44:51.000Z",
-          "wordCount": 2453,
-          "title": "How __proto__, prototype, and Inheritance Actually Work in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762210692821/651a67f9-cbe5-4f09-b048-957caaa5e1ac.png"
-        },
-        {
-          "id": "690933925fbdca38da0ea33b",
-          "author": "Manish Shivanandhan",
-          "description": "Cybersecurity is one of the fastest-growing fields in the world today.  Every year, more companies face threats that put their data, reputation, and customer trust at risk. As these threats grow, so does the demand for skilled cybersecurity professio...",
-          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-to-boost-your-career/",
-          "publishedOn": "2025-11-03T22:58:26.000Z",
-          "wordCount": 2450,
-          "title": "Top Cybersecurity Certifications to Boost Your Career",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762183746663/9f26b839-70c5-4ab6-b5ff-53ead8d2311b.png"
         }
       ]
     }
