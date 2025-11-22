@@ -7,142 +7,25 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=390115",
-          "author": "Sunkanmi Fafowora",
-          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-we-even-have-closed/",
-          "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 2420,
-          "title": "Should We Even Have :closed?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390236",
-          "author": "Juan Diego Rodríguez",
-          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-          "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 4215,
-          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390408",
-          "author": "Ryan Trimble",
-          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
-          "publishedOn": "2025-11-14T15:32:50.000Z",
-          "wordCount": 1937,
-          "title": "Quiet UI Came and Went, Quiet as a Mouse",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390178",
-          "author": "Daniel Schwarz",
-          "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
-          "publishedOn": "2025-11-13T15:00:20.000Z",
-          "wordCount": 3233,
-          "title": "The Range Syntax Has Come to Container Style Queries and if()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389885",
-          "author": "Geoff Graham",
-          "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
-          "publishedOn": "2025-11-10T14:44:13.000Z",
-          "wordCount": 2979,
-          "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/fluid-heading.mov",
-            "length": "6253881",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/heading-levels-h1-h3.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385769",
-          "author": "Geoff Graham",
-          "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
-          "publishedOn": "2025-11-06T15:57:49.000Z",
-          "wordCount": 2352,
-          "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389842",
-          "author": "Juan Diego Rodríguez",
-          "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
-          "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3718,
-          "title": "The “Most Hated” CSS Feature: tan()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390031",
-          "author": "Andy Clarke",
-          "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.\nGetting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-small-screens/",
-          "publishedOn": "2025-10-29T16:22:28.000Z",
-          "wordCount": 3688,
-          "title": "Getting Creative With Small Screens",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389805",
-          "author": "Silvestar Bistrović",
-          "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
-          "publishedOn": "2025-10-27T14:33:17.000Z",
-          "wordCount": 3261,
-          "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
-            "length": "60442",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/details-tabs-subgrid.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389794",
-          "author": "Preethi",
-          "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.\nCSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
-          "publishedOn": "2025-10-24T14:18:03.000Z",
-          "wordCount": 2511,
-          "title": "CSS Animations That Leverage the Parent-Child Relationship",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/overlapping-circle-animation.mov",
-            "length": "782608",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/10/motion-blur.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389961",
-          "author": "Mat Marquis",
-          "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
-          "publishedOn": "2025-10-22T19:08:23.000Z",
-          "wordCount": 4406,
-          "title": "An Introduction to JavaScript Expressions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
+          "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+          "publishedOn": "2025-11-21T08:00:00.000Z",
+          "wordCount": 7586,
+          "title": "Keyframes Tokens: Standardizing Animation Across Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
           "author": "hello@smashingmagazine.com (Mansoor Ahmed Khan)",
@@ -159,7 +42,7 @@
           "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
           "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
           "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6493,
+          "wordCount": 6491,
           "title": "CSS Gamepad API Visual Debugging With CSS Layers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
@@ -174,7 +57,7 @@
           "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
           "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6495,
+          "wordCount": 6498,
           "title": "Older Tech In The Browser Stack",
           "enclosure": {
             "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
@@ -204,7 +87,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4725,
+          "wordCount": 4724,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -249,7 +132,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4784,
+          "wordCount": 4779,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -264,18 +147,8 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4461,
+          "wordCount": 4450,
           "title": "JavaScript For Everyone: Iterators",
-          "imageUrl": "https:null"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
-          "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
-          "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4604,
-          "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         }
       ]
@@ -285,6 +158,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6920d692526d14e1b0e126b7",
+          "author": "Manish Shivanandhan",
+          "description": "Python development looks simple from the outside. But managing real projects is rarely easy. You need to install packages, update them, avoid version conflicts, create virtual environments, and prepare your project for distribution. Many beginners th...",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/",
+          "publishedOn": "2025-11-21T21:16:02.000Z",
+          "wordCount": 2547,
+          "title": "How to Manage Your Python Projects with Poetry",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763759433793/adc30f57-5174-4af5-9eb7-2da52c450b36.png"
+        },
+        {
+          "id": "6920d5f802099ac646b401c5",
+          "author": "Mari",
+          "description": "When you click on most backend development tutorials, they often teach you what to do, not how to think.That’s why many developers only realize their mistakes after they start building. So, how does one actually think like a backend developer? Before...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/",
+          "publishedOn": "2025-11-21T21:13:28.000Z",
+          "wordCount": 2954,
+          "title": "How to Use the Django REST Framework - Build Backend APIs with DRF",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763759552021/cc57d91b-c2b9-4a40-8bb9-52c517dbbc35.png"
+        },
+        {
+          "id": "692096d4afb994c2aecc26e9",
+          "author": "Oleh Romanyuk",
+          "description": "Nowadays, computers can comprehend and produce human-like language thanks to Natural Language Processing. And this opens up numerous opportunities for you as a developer. This guide will teach you how to create NLP projects from scratch. It includes ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-nlp-techniques-and-tools-in-your-projects-full-handbook/",
+          "publishedOn": "2025-11-21T16:44:04.000Z",
+          "wordCount": 8868,
+          "title": "How to Use NLP Techniques and Tools in Your Projects [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763743424066/393a4384-ce7a-4ff8-9e98-1edaaa322bc6.png"
+        },
+        {
+          "id": "69207ea2005b143f71163cb0",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Alison Co and Cindy Cui, two university students who won the NW Hacks hackathon with their tool that helps people who are losing their vision learn to read Braille. He met them when GitHub invited them to their big San ...",
+          "link": "https://www.freecodecamp.org/news/when-not-to-use-ai-in-your-hackathon-project-with-mlh-winners-cindy-cui-and-alison-co-podcast-198/",
+          "publishedOn": "2025-11-21T15:00:50.000Z",
+          "wordCount": 1586,
+          "title": "When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763712634842/c08fb3a8-8b09-41bb-952c-50b0b7d2305e.jpeg"
+        },
         {
           "id": "691e0d7802a17c33f13c6a0c",
           "author": "Manish Shivanandhan",
@@ -344,46 +257,6 @@
           "wordCount": 1014,
           "title": "JavaScript Clean Code Course – How to Detect Code Smells and Refactor Accordingly",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763477401188/23bf5316-c553-4868-879f-303af09d4f4b.jpeg"
-        },
-        {
-          "id": "691b93910ca13a7c59ae7a34",
-          "author": "Prankur Pandey",
-          "description": "Ever since my article on How to Become a Full Stack Developer and Get a Job in 2025 went viral, I’ve received countless DMs, emails, and even WhatsApp messages from readers. People have been asking about everything from learning to code and mastering...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-using-figma-and-ai-tools/",
-          "publishedOn": "2025-11-17T21:28:49.000Z",
-          "wordCount": 7795,
-          "title": "How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763156337448/4d944077-b800-4bfd-bb70-645777eb00a2.png"
-        },
-        {
-          "id": "691b909391d8c0f995d8ddc4",
-          "author": "Manish Shivanandhan",
-          "description": "Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...",
-          "link": "https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/",
-          "publishedOn": "2025-11-17T21:16:03.000Z",
-          "wordCount": 2111,
-          "title": "How to Add Real-Time Web Search to Your LLM Using Tavily",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763414073220/a9ec7f2d-515e-4d1e-9150-a72450d8aec3.png"
-        },
-        {
-          "id": "691b3eab5aa173ac953652e2",
-          "author": "Balogun Wahab",
-          "description": "Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/",
-          "publishedOn": "2025-11-17T15:26:35.000Z",
-          "wordCount": 5057,
-          "title": "How to Create Fluid Animations with React Native Reanimated v4",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763052228638/4416e81d-b76e-4c40-987e-0aff1d82ff7b.png"
-        },
-        {
-          "id": "691b3887dbd8303d75f4137c",
-          "author": "Beau Carnes",
-          "description": "Backend development involves building the server-side \"brain\" of a website that manages user data, authentication, and database communication. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to construct a basi...",
-          "link": "https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/",
-          "publishedOn": "2025-11-17T15:00:23.000Z",
-          "wordCount": 1211,
-          "title": "Intro to Backend Web Development – Node.js, Express, MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763372629451/d682e5f7-31d1-48af-8957-8e916b7b506a.jpeg"
         }
       ]
     }

@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-21T00:15:25.558Z</id>
+    <id>urn:2025-11-22T00:15:02.716Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-21T00:15:25.558Z</updated>
+    <updated>2025-11-22T00:15:02.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
-        <id>https://css-tricks.com/?p=390115</id>
-        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
-        <updated>2025-11-20T15:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
-Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[How to Manage Your Python Projects with Poetry]]></title>
+        <id>6920d692526d14e1b0e126b7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/"/>
+        <updated>2025-11-21T21:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Python development looks simple from the outside. But managing real projects is rarely easy. You need to install packages, update them, avoid version conflicts, create virtual environments, and prepare your project for distribution. Many beginners th...]]></summary>
         <author>
-            <name>Sunkanmi Fafowora</name>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Django REST Framework - Build Backend APIs with DRF]]></title>
+        <id>6920d5f802099ac646b401c5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/"/>
+        <updated>2025-11-21T21:13:28.000Z</updated>
+        <summary type="html"><![CDATA[When you click on most backend development tutorials, they often teach you what to do, not how to think.That’s why many developers only realize their mistakes after they start building. So, how does one actually think like a backend developer? Before...]]></summary>
+        <author>
+            <name>Mari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use NLP Techniques and Tools in Your Projects [Full Handbook]]]></title>
+        <id>692096d4afb994c2aecc26e9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-nlp-techniques-and-tools-in-your-projects-full-handbook/"/>
+        <updated>2025-11-21T16:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, computers can comprehend and produce human-like language thanks to Natural Language Processing. And this opens up numerous opportunities for you as a developer. This guide will teach you how to create NLP projects from scratch. It includes ...]]></summary>
+        <author>
+            <name>Oleh Romanyuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]]]></title>
+        <id>69207ea2005b143f71163cb0</id>
+        <link href="https://www.freecodecamp.org/news/when-not-to-use-ai-in-your-hackathon-project-with-mlh-winners-cindy-cui-and-alison-co-podcast-198/"/>
+        <updated>2025-11-21T15:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Alison Co and Cindy Cui, two university students who won the NW Hacks hackathon with their tool that helps people who are losing their vision learn to read Braille. He met them when GitHub invited them to their big San ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyframes Tokens: Standardizing Animation Across Projects]]></title>
+        <id>https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/</id>
+        <link href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"/>
+        <updated>2025-11-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amit Sheen)</name>
         </author>
     </entry>
     <entry>
@@ -87,68 +126,6 @@ Should We Even Have :closed? originally published on CSS-Tricks, which is part 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers]]></title>
-        <id>691b93910ca13a7c59ae7a34</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-using-figma-and-ai-tools/"/>
-        <updated>2025-11-17T21:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Ever since my article on How to Become a Full Stack Developer and Get a Job in 2025 went viral, I’ve received countless DMs, emails, and even WhatsApp messages from readers. People have been asking about everything from learning to code and mastering...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Real-Time Web Search to Your LLM Using Tavily]]></title>
-        <id>691b909391d8c0f995d8ddc4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/"/>
-        <updated>2025-11-17T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Fluid Animations with React Native Reanimated v4]]></title>
-        <id>691b3eab5aa173ac953652e2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/"/>
-        <updated>2025-11-17T15:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...]]></summary>
-        <author>
-            <name>Balogun Wahab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Backend Web Development – Node.js, Express, MongoDB]]></title>
-        <id>691b3887dbd8303d75f4137c</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/"/>
-        <updated>2025-11-17T15:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to construct a basi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()]]></title>
-        <id>https://css-tricks.com/?p=390236</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/"/>
-        <updated>2025-11-17T14:47:54.000Z</updated>
-        <summary type="html"><![CDATA[If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!
-The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
-        <id>https://css-tricks.com/?p=390408</id>
-        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
-        <updated>2025-11-14T15:32:50.000Z</updated>
-        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
-Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
         <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
         <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
@@ -156,17 +133,6 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Godstime Aburu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
-        <id>https://css-tricks.com/?p=390178</id>
-        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
-        <updated>2025-11-13T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
-The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -190,17 +156,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headings: Semantics, Fluidity, and Styling — Oh My!]]></title>
-        <id>https://css-tricks.com/?p=389885</id>
-        <link href="https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/"/>
-        <updated>2025-11-10T14:44:13.000Z</updated>
-        <summary type="html"><![CDATA[A few links about headings that I've had stored under my top hat.
-Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties]]></title>
         <id>https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/</id>
         <link href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"/>
@@ -208,17 +163,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
-        <id>https://css-tricks.com/?p=385769</id>
-        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
-        <updated>2025-11-06T15:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
-Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -242,18 +186,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
-        <id>https://css-tricks.com/?p=389842</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
-        <updated>2025-11-03T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
-That shocked me. I may have even been a little offended, being a math nerd and …
-The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
         <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
@@ -264,28 +196,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Creative With Small Screens]]></title>
-        <id>https://css-tricks.com/?p=390031</id>
-        <link href="https://css-tricks.com/getting-creative-with-small-screens/"/>
-        <updated>2025-10-29T16:22:28.000Z</updated>
-        <summary type="html"><![CDATA[On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.
-Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure CSS Tabs With Details, Grid, and Subgrid]]></title>
-        <id>https://css-tricks.com/?p=389805</id>
-        <link href="https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/"/>
-        <updated>2025-10-27T14:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!
-Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript For Everyone: Iterators]]></title>
         <id>https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/</id>
         <link href="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/"/>
@@ -293,38 +203,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
         <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mat Marquis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
-        <id>https://css-tricks.com/?p=389794</id>
-        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
-        <updated>2025-10-24T14:18:03.000Z</updated>
-        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
-CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
-        <id>https://css-tricks.com/?p=389961</id>
-        <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
-        <updated>2025-10-22T19:08:23.000Z</updated>
-        <summary type="html"><![CDATA[A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.
-An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
-        <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
-        <updated>2025-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
