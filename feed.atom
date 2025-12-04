@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T00:15:49.053Z</id>
+    <id>urn:2025-12-04T00:16:36.189Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T00:15:49.053Z</updated>
+    <updated>2025-12-04T00:16:36.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)]]></title>
+        <id>69309b9e8c594b8177306456</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-cuda-and-wsl2-for-windows-11-including-pytorch-and-tensorflow-gpu/"/>
+        <updated>2025-12-03T20:20:46.000Z</updated>
+        <summary type="html"><![CDATA[If you’re working on complex Machine Learning projects, you’ll need a good Graphics Processing Unit (or GPU) to power everything. And Nvidia is a popular option these days, as it has great compatibility and widespread support. If you’re new to Machin...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bluetooth Low Energy Devices Work: GATT Services and Characteristics Explained]]></title>
+        <id>69307a1e2b79515d02383320</id>
+        <link href="https://www.freecodecamp.org/news/how-bluetooth-low-energy-devices-work-gatt-services-and-characteristics-explained/"/>
+        <updated>2025-12-03T17:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Every time you check your smartwatch for heart rate, read the battery level of wireless earbuds, unlock a Bluetooth smart lock, or watch sensor data stream into an app, you are experiencing the result of GATT working quietly in the background. GATT i...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First MCP Server using FastMCP]]></title>
+        <id>693070aab61ab28f12ea4687</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/"/>
+        <updated>2025-12-03T17:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Model Context Protocol, or MCP, is changing how large language models connect with data and tools.  Instead of treating an AI model as a black box, MCP gives it structured access to information and actions.  It is like the USB-C port for AI, creating...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn NestJS for Beginners]]></title>
+        <id>692f67007fa18557e4b8ce73</id>
+        <link href="https://www.freecodecamp.org/news/learn-nestjs-for-beginners/"/>
+        <updated>2025-12-02T22:24:00.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient and reliable server-side applications. It uses TypeScript by default and encourages clean, modular code with concepts including controllers, services, and dependency injection. We just ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn R Programming from Harvard University]]></title>
+        <id>692f65b7eaee334f9337fc73</id>
+        <link href="https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/"/>
+        <updated>2025-12-02T22:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Harvard University creates amazing beginner computer science courses. We just released Harvard CS50’s introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
         <id>https://css-tricks.com/?p=390205</id>
@@ -110,26 +160,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Secure Authentication System with JWT and Refresh Tokens]]></title>
-        <id>6925f655569c4dde127d2f88</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-authentication-system-with-jwt-and-refresh-tokens/"/>
-        <updated>2025-11-25T18:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Every app that handles user accounts needs a way to confirm who’s who. That’s what authentication is for, making sure the person using an app is the person they claim to be. But doing this securely is harder than it sounds. Traditional methods often ...]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS Flexbox for Beginners [Free 2-hour course]]]></title>
-        <id>6925eef4915ee815a9b000df</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-flexbox-for-beginners-free-2-hour-course/"/>
-        <updated>2025-11-25T18:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Flexbox is a powerful CSS feature that lets you build user interfaces that fit any screen size. freeCodeCamp just published a Flexbox for beginners course where you'll learn the concepts and code syntax by building your own website navigation bar. If...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Design System Culture: What It Is And Why It Matters (Excerpt)]]></title>
         <id>https://smashingmagazine.com/2025/11/design-system-culture/</id>
         <link href="https://smashingmagazine.com/2025/11/design-system-culture/"/>
@@ -137,36 +167,6 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Own Cockroach DB  Instance on Kubernetes [Full Book for Devs]]]></title>
-        <id>6925e482ccc8b29b82c002c5</id>
-        <link href="https://www.freecodecamp.org/news/deploy-your-own-cockroach-db-instance-on-kubernetes-full-book-for-devs/"/>
-        <updated>2025-11-25T17:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Developers are smart, wonderful people, and they’re some of the most logical thinkers you’ll ever meet. But we’re pretty terrible at naming things 😂 Like, what in the world – out of every other possible name, they decided to name a database after a ...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Vibe Coding Effectively as a Dev]]></title>
-        <id>6925deb0b459e862808eb04c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-vibe-coding-effectively-as-a-dev/"/>
-        <updated>2025-11-25T16:52:00.000Z</updated>
-        <summary type="html"><![CDATA[It may seem like everyone is a vibe coder these days, and prompting seemed like it would become the new coding. But is this AI-generated code really deployable? Bragging on social media about a clever script is one thing, but pushing a vibe coded app...]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Closures Work in JavaScript: A Handbook for Developers]]></title>
-        <id>6925c63dff3af82fd3477d27</id>
-        <link href="https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/"/>
-        <updated>2025-11-25T15:07:41.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning JavaScript, you've probably heard the term "closure" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
         </author>
     </entry>
     <entry>
@@ -335,28 +335,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         <summary type="html"><![CDATA[Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Leverage Component Variants In Penpot]]></title>
-        <id>https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/</id>
-        <link href="https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/"/>
-        <updated>2025-11-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
-        <id>https://css-tricks.com/?p=389842</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
-        <updated>2025-11-03T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
-That shocked me. I may have even been a little offended, being a math nerd and …
-The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
