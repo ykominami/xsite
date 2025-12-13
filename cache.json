@@ -7,163 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=390516",
-          "author": "Preethi",
-          "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
-          "publishedOn": "2025-12-10T15:04:08.000Z",
-          "wordCount": 2308,
-          "title": "Creating Scroll-Based Animations in Full view()",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
-            "length": "6975029",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/scroll-animations-range-not-set.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390785",
-          "author": "Ryan Trimble",
-          "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.\nWe’ve …\nCSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-wrapped-2025/",
-          "publishedOn": "2025-12-09T15:52:20.000Z",
-          "wordCount": 1137,
-          "title": "CSS Wrapped 2025",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/chrome-wrapped-2025-scaled.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390777",
-          "author": "Geoff Graham",
-          "description": "The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.\nFit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fit-width-text-in-1-line-of-css/",
-          "publishedOn": "2025-12-09T15:00:56.000Z",
-          "wordCount": 1170,
-          "title": "Fit width text in 1 line of CSS",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/12/text-grow.mov",
-            "length": "19250189",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390475",
-          "author": "Kevine Nzapdi",
-          "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.\nThat Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
-          "publishedOn": "2025-12-08T14:45:43.000Z",
-          "wordCount": 3099,
-          "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390691",
-          "author": "Geoff Graham",
-          "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/html-web-components-proposal-from-1998/",
-          "publishedOn": "2025-12-05T18:16:48.000Z",
-          "wordCount": 1134,
-          "title": "HTML Web Components Proposal From 1998",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/wev-components-logo.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390477",
-          "author": "Andy Clarke",
-          "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-the-measure/",
-          "publishedOn": "2025-12-04T14:04:52.000Z",
-          "wordCount": 2289,
-          "title": "Getting Creative With “The Measure”",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390205",
-          "author": "Lee Meyer",
-          "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
-          "publishedOn": "2025-12-02T16:47:14.000Z",
-          "wordCount": 4161,
-          "title": "Scrollytelling on Steroids With Scroll-State Queries",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390613",
-          "author": "Geoff Graham",
-          "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
-          "publishedOn": "2025-12-01T17:25:28.000Z",
-          "wordCount": 1148,
-          "title": "Prevent a page from scrolling while a dialog is open",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389944",
-          "author": "Daniel Schwarz",
-          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
-          "publishedOn": "2025-11-24T14:22:30.000Z",
-          "wordCount": 2820,
-          "title": "On Inheriting and Sharing Property Values",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390539",
-          "author": "Geoff Graham",
-          "description": "Sketch probably didn't \"have\" to redesign its UI to line up with macOS Tahoe, but a big part of its appeal is the fact that it feels like it totally belongs to the Mac.\nSketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sketch-a-guided-tour-of-copenhagen/",
-          "publishedOn": "2025-11-21T18:53:05.000Z",
-          "wordCount": 1443,
-          "title": "Sketch: A guided tour of Copenhagen",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390115",
-          "author": "Sunkanmi Fafowora",
-          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-we-even-have-closed/",
-          "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 1834,
-          "title": "Should We Even Have :closed?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390236",
-          "author": "Juan Diego Rodríguez",
-          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-          "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 3638,
-          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390408",
-          "author": "Ryan Trimble",
-          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
-          "publishedOn": "2025-11-14T15:32:50.000Z",
-          "wordCount": 1219,
-          "title": "Quiet UI Came and Went, Quiet as a Mouse",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390178",
-          "author": "Daniel Schwarz",
-          "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/",
-          "publishedOn": "2025-11-13T15:00:20.000Z",
-          "wordCount": 2578,
-          "title": "The Range Syntax Has Come to Container Style Queries and if()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -189,7 +32,7 @@
           "description": "CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.",
           "link": "https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/",
           "publishedOn": "2025-12-09T10:00:00.000Z",
-          "wordCount": 4597,
+          "wordCount": 4603,
           "title": "State, Logic, And Native Power: CSS Wrapped 2025",
           "enclosure": {
             "url": "http://files.smashing.media/articles/state-logic-native-power-css-wrapped-2025/state-logic-native-power-css-wrapped-2025.jpg",
@@ -204,7 +47,7 @@
           "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
           "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
           "publishedOn": "2025-12-08T08:00:00.000Z",
-          "wordCount": 4451,
+          "wordCount": 4443,
           "title": "How UX Professionals Can Lead AI Strategy",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
@@ -219,7 +62,7 @@
           "description": "Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.",
           "link": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "publishedOn": "2025-12-05T15:00:00.000Z",
-          "wordCount": 6876,
+          "wordCount": 6872,
           "title": "Beyond The Black Box: Practical XAI For UX Practitioners",
           "enclosure": {
             "url": "http://files.smashing.media/articles/beyond-black-box-practical-xai-ux-practitioners/beyond-black-box-practical-xai-ux-practitioners.jpg",
@@ -234,7 +77,7 @@
           "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
           "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
           "publishedOn": "2025-12-02T10:00:00.000Z",
-          "wordCount": 6733,
+          "wordCount": 6742,
           "title": "Masonry: Things You Won’t Need A Library For Anymore",
           "enclosure": {
             "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
@@ -249,7 +92,7 @@
           "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
           "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "publishedOn": "2025-11-30T09:00:00.000Z",
-          "wordCount": 4975,
+          "wordCount": 4971,
           "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
@@ -264,7 +107,7 @@
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
           "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "publishedOn": "2025-11-27T10:00:00.000Z",
-          "wordCount": 4733,
+          "wordCount": 4725,
           "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
           "enclosure": {
             "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
@@ -309,7 +152,7 @@
           "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
           "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
           "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7593,
+          "wordCount": null,
           "title": "Keyframes Tokens: Standardizing Animation Across Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
@@ -342,21 +185,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-          "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
-          "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
-          "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-          "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6513,
-          "title": "Older Tech In The Browser Stack",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
         }
       ]
     },
@@ -365,6 +193,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "693c859b176ed5964e28b921",
+          "author": "Sumit Saha",
+          "description": "In this handbook, you’re going to dive into something really exciting: Git and GitHub. To start, let’s clear one thing up: Git and GitHub are not the same thing. In short, Git is the tool that runs on your own computer and keeps track of changes in y...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/",
+          "publishedOn": "2025-12-12T21:14:03.000Z",
+          "wordCount": 14580,
+          "title": "Learn How to Use Git and GitHub – A Beginner-Friendly Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765495440352/0eadf330-7a89-4328-aed1-3c851d279a5d.png"
+        },
+        {
+          "id": "693c5d28a2bfa1537f407a65",
+          "author": "Tapas Adhikary",
+          "description": "Have you ever clicked a Like icon on a social media app and noticed the count jumps instantly? The colour of the icon changes at the same time, even before the server finishes the action. Now imagine you hit the same Like button, but it takes its swe...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-optimistic-ui-pattern-with-the-useoptimistic-hook-in-react/",
+          "publishedOn": "2025-12-12T18:21:28.000Z",
+          "wordCount": 3033,
+          "title": "How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765561440350/c3546e6c-8b23-476a-86d4-b63fd2cb9f6c.png"
+        },
+        {
+          "id": "693c2e0a16d9b095b8e7825d",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Jason Lengstorf. He's a college dropout who taught himself programming while building websites for his emo band. 22 years later he's worked as a developer at IBM, Netlify, run his own dev consultancy, and he now runs Co...",
+          "link": "https://www.freecodecamp.org/news/the-ai-is-going-to-replace-devs-hype-is-over-22-year-developer-veteran-jason-lengstorf-podcast-201/",
+          "publishedOn": "2025-12-12T15:00:26.000Z",
+          "wordCount": 1353,
+          "title": "The \"AI is going to replace devs\" hype is over – 22-year developer veteran Jason Lengstorf [Podcast #201]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765503442357/425ab16a-040b-4a56-8dd9-32910ae8752f.jpeg"
+        },
         {
           "id": "693b0c06b189322615083d9f",
           "author": "Beau Carnes",
@@ -434,36 +292,6 @@
           "wordCount": 1058,
           "title": "Build AI Agents with Langbase",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765379245144/d2dd6d43-155d-4336-a277-db7b8dbae70a.jpeg"
-        },
-        {
-          "id": "69398520ef68a953062588d1",
-          "author": "Amina Lawal",
-          "description": "You've built your first Generative AI feature. Now what? When deploying AI, the challenge is no longer if the model can answer, but how fast it can answer for a user halfway across the globe. Low latency is not a luxury, it's a requirement for good u...",
-          "link": "https://www.freecodecamp.org/news/how-to-reduce-latency-in-your-generative-ai-apps-with-gemini-and-cloud-run/",
-          "publishedOn": "2025-12-10T14:35:12.000Z",
-          "wordCount": 3743,
-          "title": "How to Reduce Latency in Your Generative AI Apps with Gemini and Cloud Run",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765370930321/e4256d2f-cab3-4ae3-9486-c6651e363366.png"
-        },
-        {
-          "id": "693775071df2bd7125d8e5f3",
-          "author": "Wisamul Haque",
-          "description": "Generative AI applications are everywhere today, from chatbots to code assistants to knowledge tools. With so many frameworks and models available, getting started seems pretty easy. But taking an LLM prototype and turning it into a reliable, scalabl...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-production-grade-generative-ai-applications/",
-          "publishedOn": "2025-12-09T01:01:59.000Z",
-          "wordCount": 7627,
-          "title": "How to Build Production-Grade Generative AI Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765300505071/ef86852d-cb97-4dae-ae92-2acb146c58dd.png"
-        },
-        {
-          "id": "69377429f6e4912378332463",
-          "author": "Ijeoma Igboagu",
-          "description": "Security is a vital part of every system and infrastructure. The word \"security\" comes from the Latin securitas, which is composed of se- (meaning “without”) and cura (meaning “care” or “worry”). Originally, it meant \"without worry.\" Over time, it ha...",
-          "link": "https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/",
-          "publishedOn": "2025-12-09T00:58:17.000Z",
-          "wordCount": 3280,
-          "title": "Learn Cloud Security Fundamentals in AWS – A Guide for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764958826138/12b261c3-9a38-4b0b-b67a-48ce54452d5f.png"
         }
       ]
     }
