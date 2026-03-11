@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T00:19:06.439Z</id>
+    <id>urn:2026-03-11T00:18:27.193Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T00:19:06.439Z</updated>
+    <updated>2026-03-11T00:18:27.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Real-Time Update Systems with MQTT and Express.js]]></title>
+        <id>69b04145abc0d950017e4629</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-real-time-update-systems-with-mosquitto-and-expressjs/"/>
+        <updated>2026-03-10T16:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Real-time updates are everywhere – like live sports scores, stock tickers, chat applications, and IoT dashboards. If you want to build systems that push data to users the moment it changes, you need t]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Dynamic Forms In React And Next.js]]></title>
+        <id>https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/</id>
+        <link href="https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/"/>
+        <updated>2026-03-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sunil Sandhu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of z-index]]></title>
+        <id>https://css-tricks.com/?p=392843</id>
+        <link href="https://css-tricks.com/the-value-of-z-index/"/>
+        <updated>2026-03-09T14:20:01.000Z</updated>
+        <summary type="html"><![CDATA[How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.
+The Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Persuasive Design: Ten Years Later]]></title>
         <id>https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/</id>
@@ -116,13 +147,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build MCP Servers for Your Internal Data]]></title>
-        <id>69a849e9e55311e40f03f00e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mcp-servers-for-your-internal-data/"/>
-        <updated>2026-03-04T15:04:09.000Z</updated>
-        <summary type="html"><![CDATA[The Model Context Protocol (MCP) is changing how AI applications connect to external tools and data. While some tutorials stop at "connect to GitHub" or "read a file," the real power of MCP is unlocki]]></summary>
+        <title type="html"><![CDATA[The Different Ways to Select <html> in CSS]]></title>
+        <id>https://css-tricks.com/?p=392257</id>
+        <link href="https://css-tricks.com/the-different-ways-to-select-html-in-css/"/>
+        <updated>2026-03-05T14:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?
+The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Mayur Vekariya</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -133,6 +165,17 @@
         <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popover API or Dialog API: Which to Choose?]]></title>
+        <id>https://css-tricks.com/?p=388435</id>
+        <link href="https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"/>
+        <updated>2026-03-02T15:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.
+Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +199,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
+        <id>https://css-tricks.com/?p=392661</id>
+        <link href="https://css-tricks.com/whats-important-6/"/>
+        <updated>2026-02-27T16:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!
+What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet Another Way to Center an (Absolute) Element]]></title>
+        <id>https://css-tricks.com/?p=392540</id>
+        <link href="https://css-tricks.com/yet-another-way-to-center-an-absolute-element/"/>
+        <updated>2026-02-27T14:40:42.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!
+Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Say Cheese! Meet SmashingConf Amsterdam 🇳🇱]]></title>
         <id>https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/</id>
         <link href="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/"/>
@@ -163,6 +228,39 @@
         <summary type="html"><![CDATA[Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Exploit … in CSS?!]]></title>
+        <id>https://css-tricks.com/?p=392606</id>
+        <link href="https://css-tricks.com/an-exploit-in-css/"/>
+        <updated>2026-02-25T21:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a "CSS exploit" that "allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page."
+An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to Bookmarklets]]></title>
+        <id>https://css-tricks.com/?p=392196</id>
+        <link href="https://css-tricks.com/a-complete-guide-to-bookmarklets/"/>
+        <updated>2026-02-25T14:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.
+A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loading Smarter: SVG vs. Raster Loaders in Modern Web Design]]></title>
+        <id>https://css-tricks.com/?p=391982</id>
+        <link href="https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/"/>
+        <updated>2026-02-23T14:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.
+Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +274,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Potentially Coming to a Browser :near() You]]></title>
+        <id>https://css-tricks.com/?p=392208</id>
+        <link href="https://css-tricks.com/potentially-coming-to-a-browser-near-you/"/>
+        <updated>2026-02-20T15:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. 
+Potentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distinguishing “Components” and “Utilities” in Tailwind]]></title>
+        <id>https://css-tricks.com/?p=390460</id>
+        <link href="https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/"/>
+        <updated>2026-02-18T16:21:41.000Z</updated>
+        <summary type="html"><![CDATA[The distinction between "components" and "utilities" seems clear at first glance, but gets a little blurred when working with them in Tailwind.
+Distinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing A Streak System: The UX And Psychology Of Streaks]]></title>
         <id>https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/</id>
         <link href="https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/"/>
@@ -186,6 +306,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Spiral Scrollytelling in CSS With sibling-index()]]></title>
+        <id>https://css-tricks.com/?p=391909</id>
+        <link href="https://css-tricks.com/spiral-scrollytelling-in-css-with-sibling-index/"/>
+        <updated>2026-02-17T15:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Lee accepts a challenge: arranging text in a spiral that animates as a vortex on scroll... all in CSS.
+Spiral Scrollytelling in CSS With sibling-index() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interop 2026]]></title>
+        <id>https://css-tricks.com/?p=392321</id>
+        <link href="https://css-tricks.com/interop-2026/"/>
+        <updated>2026-02-17T14:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Interop 2026 is officially a thing and there's plenty of new (and even old) CSS features that we can look forward to being cross-browser compatible and consistent!
+Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More]]></title>
+        <id>https://css-tricks.com/?p=392302</id>
+        <link href="https://css-tricks.com/whats-important-5/"/>
+        <updated>2026-02-13T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.
+What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building Digital Trust: An Empathy-Centred UX Framework For Mental Health Apps]]></title>
         <id>https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/</id>
         <link href="https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/"/>
@@ -193,6 +346,28 @@
         <summary type="html"><![CDATA[Designing for mental health means designing for vulnerability. Empathy-Centred UX becomes not a “nice to have” but a fundamental design requirement. Here’s a practical framework for building trust-first mental health products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kat Homan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=391879</id>
+        <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
+        <updated>2026-02-12T14:57:36.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.
+Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Approximating contrast-color() With Other CSS Features]]></title>
+        <id>https://css-tricks.com/?p=391853</id>
+        <link href="https://css-tricks.com/approximating-contrast-color-with-other-css-features/"/>
+        <updated>2026-02-11T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[The new contrast-color() function is not fully supported yet. But can we still implement it in a cross-browser friendly way using other new CSS features?
+Approximating contrast-color() With Other CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevin Hamer</name>
         </author>
     </entry>
     <entry>
