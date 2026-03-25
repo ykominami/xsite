@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T00:20:00.814Z</id>
+    <id>urn:2026-03-25T00:23:25.381Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T00:20:00.814Z</updated>
+    <updated>2026-03-25T00:23:25.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Testing Font Scaling For Accessibility With Figma Variables]]></title>
+        <id>https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/</id>
+        <link href="https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"/>
+        <updated>2026-03-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Complete Flutter CI/CD Pipeline with Codemagic: From PR Quality Gates to Automated Store Releases]]></title>
+        <id>69c1dcba30a9b81e3ac436d8</id>
+        <link href="https://www.freecodecamp.org/news/build-a-complete-flutter-ci-cd-pipeline-with-codemagic/"/>
+        <updated>2026-03-24T00:37:14.000Z</updated>
+        <summary type="html"><![CDATA[If you've spent any time shipping Flutter apps manually, you already know the drill. Someone on the team finishes a feature, builds the APK locally, signs it (hopefully with the right keystore), uploa]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Letting AI Agents Guess Your Requirements]]></title>
+        <id>69c1dc5930a9b81e3ac400fc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-guess-your-requirements/"/>
+        <updated>2026-03-24T00:35:37.000Z</updated>
+        <summary type="html"><![CDATA[I spent 64% of my weekly Claude budget before Wednesday building a tool designed to reduce Claude usage. That's the kind of irony that deserves its own specification. The tool is spec-writer: a Claude]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Command Pattern in Python]]></title>
         <id>69c1abb330a9b81e3aa82e36</id>
@@ -104,26 +134,6 @@ Experimenting With Scroll-Driven corner-shape Animations originally published on
         <summary type="html"><![CDATA[JWT auth feels clean until a stolen token still looks valid to your server. That's the real problem: a bearer token proves possession of a token, but it doesn't prove possession of a trusted device. I]]></summary>
         <author>
             <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Testing with Playwright]]></title>
-        <id>69bc3c86b238fd45a32512ba</id>
-        <link href="https://www.freecodecamp.org/news/software-testing-with-playwright/"/>
-        <updated>2026-03-19T18:12:22.000Z</updated>
-        <summary type="html"><![CDATA[Testing is the unsung hero of software development because shipping features is only half the battle. We just published a comprehensive course on the freeCodeCamp.org YouTube channel that will teach y]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Form UX Audits: Errors, Hints, and Keyboard Flows]]></title>
-        <id>69bc38cfb238fd45a3231433</id>
-        <link href="https://www.freecodecamp.org/news/automate-form-ux-audits-handbook/"/>
-        <updated>2026-03-19T17:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Forms are often the gatekeepers to conversions on a site or application. Abandoned carts, partially signed-up users, and users who stop engaging with your app are often thanks to friction with forms.]]></summary>
-        <author>
-            <name>Oleh Romanyuk</name>
         </author>
     </entry>
     <entry>
@@ -366,16 +376,6 @@ A Complete Guide to Bookmarklets originally published on CSS-Tricks, which is pa
 Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Mariana Beldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Designer’s Guide To Eco-Friendly Interfaces]]></title>
-        <id>https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/</id>
-        <link href="https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/"/>
-        <updated>2026-02-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every high-resolution hero image, autoplay video, and complex JavaScript animation carries a cost. Sustainable UX challenges the era of “unlimited pixels” and reframes performance as responsibility. In 2026, truly sophisticated design is defined not by how much it adds, but by how thoughtfully it reduces its footprint.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
