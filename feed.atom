@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T00:25:11.057Z</id>
+    <id>urn:2026-04-11T00:25:12.936Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T00:25:11.057Z</updated>
+    <updated>2026-04-11T00:25:12.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript]]></title>
+        <id>69d965cac8e5007ddbff6584</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/"/>
+        <updated>2026-04-10T21:04:10.000Z</updated>
+        <summary type="html"><![CDATA[When you work with GitHub Pull Requests, you're basically asking someone else to review your code and merge it into the main project. In small projects, this is manageable. In larger open-source proje]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]]]></title>
+        <id>69d91ddfc8e5007ddbc0e7ca</id>
+        <link href="https://www.freecodecamp.org/news/build-a-positioning-based-crude-oil-strategy-in-python/"/>
+        <updated>2026-04-10T15:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Commitment of Traders (COT) data gets referenced a lot in commodity trading, especially when people talk about crowded positioning, speculative sentiment, or reversal risk. But most of that discussion]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Improve UX In Legacy Systems]]></title>
+        <id>https://smashingmagazine.com/2026/04/legacy-systems/</id>
+        <link href="https://smashingmagazine.com/2026/04/legacy-systems/"/>
+        <updated>2026-04-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to learn programming and CS in the AI hype era – interview with dev and prof Mark Mahoney [Podcast #215]]]></title>
+        <id>69d8ca2e2f108e0f5f709547</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-programming-and-cs-in-the-ai-hype-era-interview-with-dev-and-prof-mark-mahoney-podcast-215/"/>
+        <updated>2026-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Mark Mahoney. He worked as a dev before becoming a computer science professor. He's taught computer science for 23 years at Carthage College, a 180-year-old US universit]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CUDA Programming for NVIDIA H100s]]></title>
         <id>69d82bc1fa7251682e0ee64c</id>
@@ -33,17 +73,6 @@
         <summary type="html"><![CDATA[Have you ever wondered how platforms like Etsy, Uber, or Teachable handle payments for thousands of sellers? The answer is a multi-vendor marketplace: an application where merchants can sign up, list]]></summary>
         <author>
             <name>Michael Okolo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selecting a Date Range in CSS]]></title>
-        <id>https://css-tricks.com/?p=393088</id>
-        <link href="https://css-tricks.com/selecting-a-date-range-in-css/"/>
-        <updated>2026-04-09T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.
-Selecting a Date Range in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -87,47 +116,6 @@ Selecting a Date Range in CSS originally published on CSS-Tricks, which is part 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swarm Intelligence Meets Bluetooth: How Your Devices Self-Organize and Communicate]]></title>
-        <id>69d545075da14bc70e7d5faf</id>
-        <link href="https://www.freecodecamp.org/news/how-bluetooth-devices-self-organize-and-communicate/"/>
-        <updated>2026-04-07T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever watched a flock of starlings at sunset? Thousands of birds, wheeling and swooping in perfect unison. There's no leader, no choreographer, no bird with a clipboard shouting directions. Ju]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master AI Drone Programming]]></title>
-        <id>69d53e825da14bc70e792579</id>
-        <link href="https://www.freecodecamp.org/news/master-ai-drone-programming/"/>
-        <updated>2026-04-07T17:27:30.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a comprehensive course on the freeCodeCamp YouTube channel focused on AI drone programming using Python. Created by Murtaza, this tutorial utilizes the Pyimverse simulator, a high-fidel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Mixture of Experts Architecture Works in AI Models]]></title>
-        <id>69d53c4d5da14bc70e77ff78</id>
-        <link href="https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/"/>
-        <updated>2026-04-07T17:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence (AI) has seen remarkable advancements over the years, with AI models growing in size and complexity. Among the innovative approaches gaining traction today is the Mixture of Ex]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternatives to the !important Keyword]]></title>
-        <id>https://css-tricks.com/?p=392696</id>
-        <link href="https://css-tricks.com/alternatives-to-the-important-keyword/"/>
-        <updated>2026-04-07T13:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.
-Alternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Identifying Necessary Transparency Moments In Agentic AI (Part 1)]]></title>
         <id>https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/</id>
         <link href="https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/"/>
@@ -135,50 +123,6 @@ Alternatives to the !important Keyword originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at New CSS Multi-Column Layout Wrapping Features]]></title>
-        <id>https://css-tricks.com/?p=392361</id>
-        <link href="https://css-tricks.com/css-multi-column-layout-wrapping-features/"/>
-        <updated>2026-04-06T13:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.
-Looking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Abhishek Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Complex CSS Shapes Using shape()]]></title>
-        <id>https://css-tricks.com/?p=392986</id>
-        <link href="https://css-tricks.com/complex-css-shapes-with-shape-function/"/>
-        <updated>2026-04-02T13:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Creating rectangles, circles, and rounded rectangles is the basic of CSS. Creating more complex CSS shapes such as triangles, hexagons, stars, hearts, etc. is more challenging but still a simple task if we rely on modern features.
-Making Complex CSS Shapes Using shape() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-End Fools: Top 10 April Fools’ UI Pranks of All Time]]></title>
-        <id>https://css-tricks.com/?p=392794</id>
-        <link href="https://css-tricks.com/front-end-april-fools-top-10/"/>
-        <updated>2026-04-01T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[These are the historical pranks I consider the top 10 most noteworthy, rather than the “best.” You’ll see that some of them crossed the line and/or backfired.
-Front-End Fools: Top 10 April Fools’ UI Pranks of All Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniffing Out the CSS Olfactive API]]></title>
-        <id>https://css-tricks.com/?p=393070</id>
-        <link href="https://css-tricks.com/css-olfactive-api/"/>
-        <updated>2026-04-01T13:54:47.000Z</updated>
-        <summary type="html"><![CDATA[A deep sniff of the new CSS Olfactive API, a set of proposed features for immersive user experiences using smell.
-Sniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
     <entry>
@@ -192,17 +136,6 @@ Sniffing Out the CSS Olfactive API originally published on CSS-Tricks, which is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More]]></title>
-        <id>https://css-tricks.com/?p=393306</id>
-        <link href="https://css-tricks.com/whats-important-8/"/>
-        <updated>2026-03-31T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Short n’ sweet but ever so neat, this issue covers light/dark favicons, @mixin, anchor-interpolated morphing, object-view-box, new web features, and more.
-What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/</id>
         <link href="https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/"/>
@@ -210,28 +143,6 @@ What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More o
         <summary type="html"><![CDATA[With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Form Automation Tips for Happier User and Clients]]></title>
-        <id>https://css-tricks.com/?p=391993</id>
-        <link href="https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/"/>
-        <updated>2026-03-30T14:12:14.000Z</updated>
-        <summary type="html"><![CDATA[That gap between "the form works" and "the business works" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control
-Form Automation Tips for Happier User and Clients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Iqra Naaem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative UI Notes]]></title>
-        <id>https://css-tricks.com/?p=391438</id>
-        <link href="https://css-tricks.com/generative-ui-notes/"/>
-        <updated>2026-03-26T14:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.
-Generative UI Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -255,17 +166,6 @@ Generative UI Notes originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experimenting With Scroll-Driven corner-shape Animations]]></title>
-        <id>https://css-tricks.com/?p=392503</id>
-        <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
-        <updated>2026-03-23T13:51:15.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
-Experimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
         <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
         <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
@@ -273,17 +173,6 @@ Experimenting With Scroll-Driven corner-shape Animations originally published on
         <summary type="html"><![CDATA[How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript for Everyone: Destructuring]]></title>
-        <id>https://css-tricks.com/?p=392714</id>
-        <link href="https://css-tricks.com/javascript-for-everyone-destructuring/"/>
-        <updated>2026-03-19T13:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. 
-JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
         </author>
     </entry>
     <entry>
@@ -297,28 +186,6 @@ JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=393021</id>
-        <link href="https://css-tricks.com/whats-important-7/"/>
-        <updated>2026-03-16T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
-What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Reasons That Make Tailwind Great for Building Layouts]]></title>
-        <id>https://css-tricks.com/?p=392180</id>
-        <link href="https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/"/>
-        <updated>2026-03-16T14:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.
-4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moving From Moment.js To The JS Temporal API]]></title>
         <id>https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/</id>
         <link href="https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/"/>
@@ -326,27 +193,6 @@ What’s !important #7: random(), Folded Corners, Anchored Container Queries, an
         <summary type="html"><![CDATA[The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joe Attardi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI]]></title>
-        <id>https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/</id>
-        <link href="https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/"/>
-        <updated>2026-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abusing Customizable Selects]]></title>
-        <id>https://css-tricks.com/?p=392463</id>
-        <link href="https://css-tricks.com/abusing-customizable-selects/"/>
-        <updated>2026-03-11T13:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.
-Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Patrick Brosset</name>
         </author>
     </entry>
 </feed>
