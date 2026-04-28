@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=393324",
+          "author": "Lee Meyer",
+          "description": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\nLet’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
+          "publishedOn": "2026-04-27T13:55:42.000Z",
+          "wordCount": 6240,
+          "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/10/nth-letter.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=392970",
           "author": "John Rhea",
           "description": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -170,16 +180,6 @@
           "wordCount": 3713,
           "title": "What’s !important #8: Light/Dark Favicons, @mixin, object-view-box, and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wh8.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391993",
-          "author": "Iqra Naaem",
-          "description": "That gap between \"the form works\" and \"the business works\" is something we don't really tend to discuss much as front-enders. We focus a great deal on user experience, validation methods, and accessibility, yet we overlook what the data does once it leaves our control\nForm Automation Tips for Happier User and Clients originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/form-automation-tips-for-happier-user-and-clients/",
-          "publishedOn": "2026-03-30T14:12:14.000Z",
-          "wordCount": 4895,
-          "title": "Form Automation Tips for Happier User and Clients",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/auto-forms-featured-1.webp"
         }
       ]
     },
@@ -189,12 +189,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+          "author": "hello@smashingmagazine.com (Casey Hudetz and Eric Olive)",
+          "description": "AI tools are eliminating the need to “bug” colleagues for help, but the informal interactions they replace are the very scaffolding that builds team trust, belonging, and innovation. Casey Hudetz and Eric Olive explore the research and potential impacts behind that risk and offer practical strategies for maintaining human connection while leveraging AI’s strengths.",
+          "link": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+          "publishedOn": "2026-04-27T10:00:00.000Z",
+          "wordCount": 4596,
+          "title": "The “Bug-Free” Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bug-free-workforce/bug-free-workforce-ai-disrupting-teams.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
           "description": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, what’s lost, and why designers need to remain the guardians of the user experience.",
           "link": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
           "publishedOn": "2026-04-22T10:00:00.000Z",
-          "wordCount": 4147,
+          "wordCount": 4144,
           "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg",
@@ -209,7 +224,7 @@
           "description": "Poorly handled session timeouts are more than a technical inconvenience. They can become serious accessibility barriers that interrupt essential online tasks, especially for people with disabilities. Here is how to implement thoughtful session management that improves usability, reduces frustration, and helps create a more accessible and respectful web.",
           "link": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
           "publishedOn": "2026-04-20T13:00:00.000Z",
-          "wordCount": 4698,
+          "wordCount": 4696,
           "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/session-timeouts-accessibility-barrier-authentication-design/session-timeouts-accessibility-barrier-authentication-design.jpg",
@@ -239,7 +254,7 @@
           "description": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful approach. Victor Yocco explores how to map decision points and reveal the right moments to build trust through clarity, not noise.",
           "link": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
           "publishedOn": "2026-04-07T10:00:00.000Z",
-          "wordCount": 6601,
+          "wordCount": 6594,
           "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg",
@@ -269,7 +284,7 @@
           "description": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you on all those adventures that April may bring — and maybe spark some new ideas, too — well, this post has got you covered.",
           "link": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
           "publishedOn": "2026-03-31T11:00:00.000Z",
-          "wordCount": 4331,
+          "wordCount": 4329,
           "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png",
@@ -285,6 +300,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69ef7bbf330a1ad7f7f2d579",
+          "author": "Tolani Akintayo",
+          "description": "If you've been storing AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as GitHub Secrets to deploy to AWS, you're not alone. It's the most common approach and it's also one of the biggest security risks i",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-openid-connect-oidc-in-github-actions-for-aws/",
+          "publishedOn": "2026-04-27T15:07:43.000Z",
+          "wordCount": 3671,
+          "title": "How to Set Up OpenID Connect (OIDC) in GitHub Actions for AWS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/83b71e24-b63b-42a4-ac1c-d59e226da6c3.png"
+        },
+        {
+          "id": "69ef7279330a1ad7f7ec9a85",
+          "author": "Bhavin Sheth",
+          "description": "Working with PDFs is part of everyday development. Sometimes you don’t need the entire document. You just need a few pages — maybe a specific section, a report summary, or selected invoice pages. Most",
+          "link": "https://www.freecodecamp.org/news/split-pdf-files-using-javascript/",
+          "publishedOn": "2026-04-27T14:28:09.000Z",
+          "wordCount": 2163,
+          "title": "How to Split PDF Files in the Browser Using JavaScript (Step-by-Step)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ff8ed4f5-a0f1-44cd-8703-a6dcd95e6b0f.png"
+        },
         {
           "id": "69ebd996b463d4844c5084e4",
           "author": "Wisamul Haque",
@@ -364,26 +399,6 @@
           "wordCount": 4257,
           "title": "From Symptoms to Root Cause: How to Use the 5 Whys Technique",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b5dbd964-9a03-448d-92a5-92e3b4a47fef.png"
-        },
-        {
-          "id": "69e94caed5f8830e7dae1569",
-          "author": "Rudrendu Paul",
-          "description": "Your team shipped an LLM-based summaries feature to wave 1 workspaces at week 20 and now the post-launch doc is due. You need a causal effect number, a specific estimate you can defend to a statistici",
-          "link": "https://www.freecodecamp.org/news/why-ab-testing-breaks-in-ai-rollouts-and-how-to-fix-it/",
-          "publishedOn": "2026-04-22T22:33:18.000Z",
-          "wordCount": 4700,
-          "title": "Product Experimentation for AI Rollouts: Why A/B Testing Breaks and How Difference-in-Differences in Python Fixes It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ed63a287-c756-4dfd-a270-3c5f5ee0c1d0.png"
-        },
-        {
-          "id": "69e93606d5f8830e7d9fbad6",
-          "author": "Rasheedat Atinuke Jamiu",
-          "description": "Every time you spin up GPU infrastructure, you do the same thing: install CUDA drivers, DCGM, apply OS‑level GPU tuning, and fight dependency issues. Same old ritual every single time, wasting expensi",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/",
-          "publishedOn": "2026-04-22T20:30:00.000Z",
-          "wordCount": 4832,
-          "title": "How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fd393878-fe7c-458a-addf-7cd22d8280ac.png"
         }
       ]
     }
