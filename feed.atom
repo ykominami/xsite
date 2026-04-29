@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T00:34:57.266Z</id>
+    <id>urn:2026-04-29T00:35:48.426Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T00:34:57.266Z</updated>
+    <updated>2026-04-29T00:35:48.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How AI Changed the Economics of Writing Clean Code]]></title>
+        <id>69f0bce210a70b3335bf635a</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-changed-the-economics-of-writing-clean-code/"/>
+        <updated>2026-04-28T13:57:54.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wanted to add an interface to a codebase and gotten pushback, you already know the argument: "That's twice the code for the same thing." And honestly? It was a fair point. You'd write t]]></summary>
+        <author>
+            <name>Aaron Yong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply STRIDE Threat Modeling and SonarQube Analysis for Secure Software Development]]></title>
+        <id>69f0bbbf10a70b3335be7131</id>
+        <link href="https://www.freecodecamp.org/news/apply-stride-threat-modeling-and-sonarqube-analysis-for-secure-software-development/"/>
+        <updated>2026-04-28T13:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Secure software requires both design-time and code-time protection. STRIDE threat modeling helps identify risks early in system design, while SonarQube enforces secure coding practices through static]]></summary>
+        <author>
+            <name>Gopinath Karunanithi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up OpenID Connect (OIDC) in GitHub Actions for AWS]]></title>
         <id>69ef7bbf330a1ad7f7f2d579</id>
@@ -104,26 +124,6 @@ Let’s Use the Nonexistent ::nth-letter Selector Now originally handwritten and
         <summary type="html"><![CDATA[Most engineering teams don't set out to manage infrastructure. They start with a product idea, a customer need, or a business problem. Infrastructure enters the picture as a means to an end. Servers n]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Metrics to Meaning: How PaaS Helps Developers Understand Production]]></title>
-        <id>69ea4e46904b91543899894d</id>
-        <link href="https://www.freecodecamp.org/news/from-metrics-to-meaning-how-paas-helps-developers-understand-production/"/>
-        <updated>2026-04-23T16:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Modern production systems generate more data than most developers can realistically process. Every request emits logs. Every service exports metrics. Every dependency introduces another layer of signa]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Symptoms to Root Cause: How to Use the 5 Whys Technique]]></title>
-        <id>69ea4d69904b915438990f19</id>
-        <link href="https://www.freecodecamp.org/news/from-symptoms-to-root-cause-how-to-use-the-5-whys-technique/"/>
-        <updated>2026-04-23T16:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Most teams don't struggle because they can't fix problems. They struggle because they fix the wrong thing. An API fails in production. You restart the service, errors go away, and it feels resolved. U]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
     <entry>
