@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-01T00:46:34.499Z</id>
+    <id>urn:2026-06-02T00:47:47.690Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T00:46:34.499Z</updated>
+    <updated>2026-06-02T00:47:47.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Bluetooth Applications with Zephyr OS: A Handbook for Devs]]></title>
+        <id>6a1de78e328352c4a380157a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-bluetooth-applications-with-zephyr-os-a-handbook-for-devs/"/>
+        <updated>2026-06-01T20:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Your phone just connected to wireless earbuds, your smartwatch synced health data to an app, and a sensor somewhere in your building reported its temperature to a gateway. All of those interactions ha]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Support Agent That Knows When NOT to Answer Tickets]]></title>
+        <id>6a1db0ffcc268013976aca31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-support-agent-that-knows-when-not-to-answer-tickets/"/>
+        <updated>2026-06-01T16:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Most AI support agent tutorials show you how to wire up Retrieval Augmented Generation (RAG) and call it a day. Convert the docs into numeric vectors, pull the closest few passages to the user's quest]]></summary>
+        <author>
+            <name>Tech With RJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Self‑Host an S3‑Compatible Object Store with MinIO on Your Staging Server (and Save Hundreds of Dollars a Month)]]></title>
+        <id>6a1d99eb2f5663bb4c520a8f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-self-host-an-s3-compatible-object-store-with-minio-on-your-staging-server/"/>
+        <updated>2026-06-01T14:40:43.000Z</updated>
+        <summary type="html"><![CDATA[This article is a complete copy‑paste guide to running MinIO behind Traefik with HTTPS, custom domains, and pre-signed upload/download URLs — using only Docker Compose. Your production will keep using]]></summary>
+        <author>
+            <name>Md Tarikul Islam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Flutter to Backend: How to Build and Ship Production REST APIs with Dart and Shelf]]></title>
+        <id>6a1d92fa080b80f11f574194</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-ship-production-rest-apis-with-dart-and-shelf/"/>
+        <updated>2026-06-01T14:11:06.000Z</updated>
+        <summary type="html"><![CDATA[As a Flutter engineer, you already know Dart. You understand async/await, you work with models and repositories, you think in clean architecture, and you have shipped real applications. The gap betwee]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro Markdown Component Utility for Any Framework]]></title>
+        <id>https://css-tricks.com/?p=392775</id>
+        <link href="https://css-tricks.com/astro-markdown-component-utility-any-framework/"/>
+        <updated>2026-06-01T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous article, I spoke about the why and how to use a Markdown component in Astro.
+Here, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …
+Astro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[June Is For Exploring (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/</id>
@@ -76,36 +128,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Wearable IoT Enables Real-Time Fall Detection and Alerts]]></title>
-        <id>6a19af25b55c6a731d1db097</id>
-        <link href="https://www.freecodecamp.org/news/how-wearable-iot-enables-real-time-fall-detection-and-alerts/"/>
-        <updated>2026-05-29T15:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Wearable IoT technology has become an important part of today’s elder care, as it can help detect falls and alert caregivers or family members immediately after an incident. This technology combines s]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Deep Learning Model Isn't Learning: Diagnosing Data Problems in Medical Imaging]]></title>
-        <id>6a19aed9b55c6a731d1d7c06</id>
-        <link href="https://www.freecodecamp.org/news/why-your-deep-learning-model-isn-t-learning-data-problems-in-medical-imaging/"/>
-        <updated>2026-05-29T15:20:57.000Z</updated>
-        <summary type="html"><![CDATA[I built a clean, well-structured deep learning pipeline using MONAI (Medical Open Network for AI) on a public abdominal ultrasound dataset. The pipeline included: proper subject-grouped train/validat]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Professional Web Scrapers That Actually Work]]></title>
-        <id>6a19ae75b55c6a731d1d3963</id>
-        <link href="https://www.freecodecamp.org/news/build-professional-web-scrapers-that-actually-work/"/>
-        <updated>2026-05-29T15:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping has evolved. If you’ve ever tried to pull data from a site, only to be hit with a CAPTCHA, an IP ban, or a "403 Forbidden" error, you know that modern websites are built to block automate]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More]]></title>
         <id>https://css-tricks.com/?p=395357</id>
         <link href="https://css-tricks.com/whats-important-12/"/>
@@ -114,16 +136,6 @@
 What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Developer's Guide to WebMCP: Shipping a 0% Adoption Standard]]></title>
-        <id>6a18c1667825875483411965</id>
-        <link href="https://www.freecodecamp.org/news/a-developers-guide-to-webmcp/"/>
-        <updated>2026-05-28T22:27:50.000Z</updated>
-        <summary type="html"><![CDATA[I scanned 111,076 of the top 200,000 websites on the internet looking for a specific HTTP header. I found exactly zero. Not one domain has shipped WebMCP in production. Not a single Fortune 500 site.]]></summary>
-        <author>
-            <name>Chudi Nnorukam</name>
         </author>
     </entry>
     <entry>
@@ -327,17 +339,6 @@ rotate() originally handwritten and published with love on CSS-Tricks. You shoul
 Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS corner-shape For Folded Corners]]></title>
-        <id>https://css-tricks.com/?p=393431</id>
-        <link href="https://css-tricks.com/using-css-corner-shape-for-folded-corners/"/>
-        <updated>2026-05-08T13:54:10.000Z</updated>
-        <summary type="html"><![CDATA[I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.
-Using CSS corner-shape For Folded Corners originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
