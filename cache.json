@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=393544",
+          "author": "Sunkanmi Fafowora",
+          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+          "publishedOn": "2026-06-02T12:59:21.000Z",
+          "wordCount": 4202,
+          "title": "::search-text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=392775",
           "author": "Zell Liew",
           "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
           "publishedOn": "2026-06-01T13:25:00.000Z",
-          "wordCount": 3063,
+          "wordCount": 3077,
           "title": "Astro Markdown Component Utility for Any Framework",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
         },
@@ -150,16 +160,6 @@
           "wordCount": 4131,
           "title": "rotate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393604",
-          "author": "Mat Marquis",
-          "description": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-          "publishedOn": "2026-05-12T13:59:35.000Z",
-          "wordCount": 5464,
-          "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/js-shadow.png"
         }
       ]
     },
@@ -174,7 +174,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5519,
+          "wordCount": 5510,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -189,7 +189,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5668,
+          "wordCount": 5660,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -234,7 +234,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4900,
+          "wordCount": 4904,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -264,7 +264,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6273,
+          "wordCount": 6268,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -279,7 +279,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8647,
+          "wordCount": 8650,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -294,7 +294,7 @@
           "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
           "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
           "publishedOn": "2026-05-05T08:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 3952,
           "title": "Rethinking The Experience Of System Tools",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
@@ -310,6 +310,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a1f046fcf96043972a575f0",
+          "author": "Ayobami Adejumo",
+          "description": "You raised your Series A. Engineering hired fast. Features shipped faster. And somewhere between month six and month twelve, someone forwarded you an AWS Cost Explorer screenshot with a line that only",
+          "link": "https://www.freecodecamp.org/news/the-aws-finops-guide-for-series-a-startups/",
+          "publishedOn": "2026-06-02T16:27:27.000Z",
+          "wordCount": 5101,
+          "title": "The AWS FinOps Guide for Series A Startups: The 8 Cost Patterns That Appear After Product-Market Fit",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e4bbaeaf-810e-4ebb-9c81-d2183cac6df6.png"
+        },
+        {
+          "id": "6a1f040ecf96043972a543a7",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Serverpod is one of the most performant backend frameworks built on Dart. It's a fully opinionated backend framework that comes with its own ORM, its own code generation system, migration tooling, aut",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-grade-rest-apis-with-dart-and-serverpod/",
+          "publishedOn": "2026-06-02T16:25:50.000Z",
+          "wordCount": 4524,
+          "title": "From Flutter to Backend: How to Build Production-Grade REST APIs with Dart and Serverpod",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/910a29c7-b380-4432-bc3c-d2c6930c3ac9.png"
+        },
+        {
+          "id": "6a1ec65f9aead44682107ffe",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy intelligent AI agents that bridge the gap between Large Language Models (LLMs) and real-worl",
+          "link": "https://www.freecodecamp.org/news/build-your-own-ai-agent/",
+          "publishedOn": "2026-06-02T12:02:39.000Z",
+          "wordCount": 1068,
+          "title": "Build Your Own AI Agent",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/28dae36b-be5a-427b-b7af-b30eb7b4f82e.jpg"
+        },
         {
           "id": "6a1de78e328352c4a380157a",
           "author": "Nikheel Vishwas Savant",
@@ -379,36 +409,6 @@
           "wordCount": 2749,
           "title": "How Step Counters Work in Wearables and Why Different Devices Give Different Results",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7a4f79f7-d490-4711-9245-6545c14b5244.png"
-        },
-        {
-          "id": "6a19f51f7cae2251376e62cb",
-          "author": "Sumit Saha",
-          "description": "HTML has always supported streaming. The server doesn't need to build an entire page in memory before sending it to the browser. It can send the initial HTML first, then send more chunks as each chunk",
-          "link": "https://www.freecodecamp.org/news/how-declarative-partial-updates-work-in-html/",
-          "publishedOn": "2026-05-29T20:20:47.000Z",
-          "wordCount": 6153,
-          "title": "How Declarative Partial Updates Work in HTML",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d63aaead-37ef-4218-a3db-1f507d638317.png"
-        },
-        {
-          "id": "6a19ccc19e433f18f384364b",
-          "author": "Manish Shivanandhan",
-          "description": "Every company says it wants speed. Roadmaps talk about velocity. Leadership meetings talk about reducing cycle time. Quarterly goals talk about faster execution and quicker releases. Every business wa",
-          "link": "https://www.freecodecamp.org/news/the-tradeoff-that-slows-production-teams-down-flexibility-vs-actually-shipping/",
-          "publishedOn": "2026-05-29T17:28:33.000Z",
-          "wordCount": 2427,
-          "title": "The Tradeoff That Slows Production Teams Down: Flexibility vs Actually Shipping",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/495a017a-0f6f-4e3b-8d55-6c3854917c51.png"
-        },
-        {
-          "id": "6a19c8fd9e433f18f3823c7c",
-          "author": "Rishi Raj Jain",
-          "description": "If you’ve built a RAG (Retrieval-Augmented Generation) system in the past year, you’ve probably hit the wall where your LLM returns confidently wrong answers, cites information that doesn’t exist, or",
-          "link": "https://www.freecodecamp.org/news/how-contextual-embeddings-and-hybrid-search-fix-retrieval-failures/",
-          "publishedOn": "2026-05-29T17:12:29.000Z",
-          "wordCount": 3534,
-          "title": "How Contextual Embeddings and Hybrid Search Fix Retrieval Failures",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fffeb399-42d0-441b-8aef-9f12d4c134e7.png"
         }
       ]
     }

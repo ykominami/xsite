@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-02T00:47:47.690Z</id>
+    <id>urn:2026-06-03T00:52:42.850Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T00:47:47.690Z</updated>
+    <updated>2026-06-03T00:52:42.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The AWS FinOps Guide for Series A Startups: The 8 Cost Patterns That Appear After Product-Market Fit]]></title>
+        <id>6a1f046fcf96043972a575f0</id>
+        <link href="https://www.freecodecamp.org/news/the-aws-finops-guide-for-series-a-startups/"/>
+        <updated>2026-06-02T16:27:27.000Z</updated>
+        <summary type="html"><![CDATA[You raised your Series A. Engineering hired fast. Features shipped faster. And somewhere between month six and month twelve, someone forwarded you an AWS Cost Explorer screenshot with a line that only]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Flutter to Backend: How to Build Production-Grade REST APIs with Dart and Serverpod]]></title>
+        <id>6a1f040ecf96043972a543a7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-production-grade-rest-apis-with-dart-and-serverpod/"/>
+        <updated>2026-06-02T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Serverpod is one of the most performant backend frameworks built on Dart. It's a fully opinionated backend framework that comes with its own ORM, its own code generation system, migration tooling, aut]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[::search-text]]></title>
+        <id>https://css-tricks.com/?page_id=393544</id>
+        <link href="https://css-tricks.com/almanac/pseudo-selectors/s/search-text/"/>
+        <updated>2026-06-02T12:59:21.000Z</updated>
+        <summary type="html"><![CDATA[The CSS ::search-text pseudo-element selects the matching text from your browser's "find in page" feature. 
+::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own AI Agent]]></title>
+        <id>6a1ec65f9aead44682107ffe</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-ai-agent/"/>
+        <updated>2026-06-02T12:02:39.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy intelligent AI agents that bridge the gap between Large Language Models (LLMs) and real-worl]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Bluetooth Applications with Zephyr OS: A Handbook for Devs]]></title>
         <id>6a1de78e328352c4a380157a</id>
@@ -95,36 +136,6 @@ Astro Markdown Component Utility for Any Framework originally handwritten and pu
         <summary type="html"><![CDATA[It’s been three years since I started using my wearables to count my steps. Three years of trying to hit the daily 10K target, closing rings, and going to sleep knowing that I accomplished something p]]></summary>
         <author>
             <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Declarative Partial Updates Work in HTML]]></title>
-        <id>6a19f51f7cae2251376e62cb</id>
-        <link href="https://www.freecodecamp.org/news/how-declarative-partial-updates-work-in-html/"/>
-        <updated>2026-05-29T20:20:47.000Z</updated>
-        <summary type="html"><![CDATA[HTML has always supported streaming. The server doesn't need to build an entire page in memory before sending it to the browser. It can send the initial HTML first, then send more chunks as each chunk]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tradeoff That Slows Production Teams Down: Flexibility vs Actually Shipping]]></title>
-        <id>6a19ccc19e433f18f384364b</id>
-        <link href="https://www.freecodecamp.org/news/the-tradeoff-that-slows-production-teams-down-flexibility-vs-actually-shipping/"/>
-        <updated>2026-05-29T17:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Every company says it wants speed. Roadmaps talk about velocity. Leadership meetings talk about reducing cycle time. Quarterly goals talk about faster execution and quicker releases. Every business wa]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Contextual Embeddings and Hybrid Search Fix Retrieval Failures]]></title>
-        <id>6a19c8fd9e433f18f3823c7c</id>
-        <link href="https://www.freecodecamp.org/news/how-contextual-embeddings-and-hybrid-search-fix-retrieval-failures/"/>
-        <updated>2026-05-29T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve built a RAG (Retrieval-Augmented Generation) system in the past year, you’ve probably hit the wall where your LLM returns confidently wrong answers, cites information that doesn’t exist, or]]></summary>
-        <author>
-            <name>Rishi Raj Jain</name>
         </author>
     </entry>
     <entry>
@@ -328,17 +339,6 @@ rotate() originally handwritten and published with love on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soon We Can Finally Banish JavaScript to the ShadowRealm]]></title>
-        <id>https://css-tricks.com/?p=393604</id>
-        <link href="https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"/>
-        <updated>2026-05-12T13:59:35.000Z</updated>
-        <summary type="html"><![CDATA[The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.
-Soon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
         </author>
     </entry>
     <entry>
