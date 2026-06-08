@@ -7,168 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=393178",
-          "author": "Antoine Villepreux",
-          "description": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\nAnother Stab at the Perfect CSS Pie Chart… Sans JavaScript! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-          "publishedOn": "2026-06-04T13:14:49.000Z",
-          "wordCount": 5036,
-          "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/03/screenreader.mp4",
-            "length": "644313",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/pie-chart.webp"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=243521",
-          "author": "Geoff Graham",
-          "description": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in the spec. We’re changing …\noffset-path originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-          "publishedOn": "2026-06-03T15:02:38.000Z",
-          "wordCount": 4295,
-          "title": "offset-path",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/07/funky-path.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394739",
-          "author": "Declan Chidlow",
-          "description": "The CSS @custom-media at-rule allows creating aliases for media queries.\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
-          "publishedOn": "2026-06-03T13:03:21.000Z",
-          "wordCount": 4177,
-          "title": "@custom-media",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394732",
-          "author": "Declan Chidlow",
-          "description": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n@function originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/rules/f/function/",
-          "publishedOn": "2026-06-03T13:02:39.000Z",
-          "wordCount": 4787,
-          "title": "@function",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393544",
-          "author": "Sunkanmi Fafowora",
-          "description": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
-          "publishedOn": "2026-06-02T12:59:21.000Z",
-          "wordCount": 4202,
-          "title": "::search-text",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392775",
-          "author": "Zell Liew",
-          "description": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, …\nAstro Markdown Component Utility for Any Framework originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
-          "publishedOn": "2026-06-01T13:25:00.000Z",
-          "wordCount": 3077,
-          "title": "Astro Markdown Component Utility for Any Framework",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395357",
-          "author": "Daniel Schwarz",
-          "description": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-12/",
-          "publishedOn": "2026-05-29T13:25:38.000Z",
-          "wordCount": 3479,
-          "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-2.31.26-PM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393536",
-          "author": "Preethi",
-          "description": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\nRevealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
-          "publishedOn": "2026-05-27T12:37:33.000Z",
-          "wordCount": 3508,
-          "title": "Revealing Text With CSS letter-spacing",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/revealing-text.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395048",
-          "author": "Geoff Graham",
-          "description": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\nTechnical Writing in the AI Age originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
-          "publishedOn": "2026-05-26T13:49:28.000Z",
-          "wordCount": 5948,
-          "title": "Technical Writing in the AI Age",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393441",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\nCross-Document View Transitions: Scaling Across Hundreds of Elements originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
-          "publishedOn": "2026-05-25T13:46:54.000Z",
-          "wordCount": 6436,
-          "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/dots-loader.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394429",
-          "author": "Temani Afif",
-          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-          "publishedOn": "2026-05-22T13:44:40.000Z",
-          "wordCount": 5484,
-          "title": "The State of CSS Centering in 2026",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393076",
-          "author": "Sunkanmi Fafowora",
-          "description": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\nStack Overflow: When We Stop Asking originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
-          "publishedOn": "2026-05-20T13:51:34.000Z",
-          "wordCount": 4779,
-          "title": "Stack Overflow: When We Stop Asking",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/newspaper-stack-scaled-1.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393399",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-          "publishedOn": "2026-05-18T13:47:19.000Z",
-          "wordCount": 6680,
-          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394879",
-          "author": "Daniel Schwarz",
-          "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-11/",
-          "publishedOn": "2026-05-15T13:16:34.000Z",
-          "wordCount": 3588,
-          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393498",
-          "author": "Preethi",
-          "description": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\nComputing and Displaying Discounted Prices in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
-          "publishedOn": "2026-05-14T14:05:01.000Z",
-          "wordCount": 3959,
-          "title": "Computing and Displaying Discounted Prices in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -194,7 +32,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5530,
+          "wordCount": 5524,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -209,7 +47,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5669,
+          "wordCount": 5662,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -254,7 +92,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4906,
+          "wordCount": 4894,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -269,7 +107,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4913,
+          "wordCount": 4911,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -284,7 +122,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6268,
+          "wordCount": 6270,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -300,6 +138,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a24b9ff67572e709df5342b",
+          "author": "Bhavin Sheth",
+          "description": "PDF files contain more information than what appears on the page. Behind every PDF document is metadata that stores information such as the document title, author, subject, keywords, creator applicati",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-metadata-editor-using-javascript/",
+          "publishedOn": "2026-06-07T00:23:27.000Z",
+          "wordCount": 2261,
+          "title": "How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dbc75a41-47b8-411d-bc6c-708daf027333.png"
+        },
+        {
+          "id": "6a24b9c567572e709df513c8",
+          "author": "Nikhil Adithyan",
+          "description": "Choosing a stock API looks simple until the project becomes real. At first, you only need a few prices. You send a request, get JSON back, load it into pandas, and move on. But the moment that API sta",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-the-best-stock-market-api-for-fintech-projects-and-ai-agents/",
+          "publishedOn": "2026-06-07T00:22:29.000Z",
+          "wordCount": 4136,
+          "title": "How to Choose the Best Stock Market API for FinTech Projects and AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e1f20d3c-eaf8-49e9-be53-4cc99eb971ec.png"
+        },
         {
           "id": "6a21b44e09761aac249579f9",
           "author": "Aiyedogbon Abraham",
@@ -379,26 +237,6 @@
           "wordCount": 3256,
           "title": "How to Run an LLM Locally on Your Mobile Phone with QVAC and Expo",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a5fb9baf-a10d-4e53-9c66-3980919a35b8.png"
-        },
-        {
-          "id": "6a20610c78a43e3153ae86b2",
-          "author": "Ayodele Aransiola",
-          "description": "According to the Stack overflow technology survey in 2025, JavaScript is one of the most widely used programming languages in the world. We use it to build frontend applications, backend services, pay",
-          "link": "https://www.freecodecamp.org/news/how-to-understand-the-safe-integer-limit-in-javascript/",
-          "publishedOn": "2026-06-03T17:14:52.000Z",
-          "wordCount": 1977,
-          "title": "How to Understand the Safe Integer Limit in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9dde6b7a-ff16-4ab1-bdef-c8c7be8d82e9.png"
-        },
-        {
-          "id": "6a20609578a43e3153ae5422",
-          "author": "Chisom Uma",
-          "description": "If you've been looking to deploy your Spring Boot app to the cloud but feel a little overwhelmed by all the moving pieces, don't worry, you're not alone. Kubernetes can seem intimidating at first, but",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-spring-boot-app-with-mysql-on-amazon-eks/",
-          "publishedOn": "2026-06-03T17:12:53.000Z",
-          "wordCount": 5047,
-          "title": "How to Deploy a Spring Boot App with MySQL on Amazon EKS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5a7cd6a7-7850-4e3c-9a45-b577c2f91598.png"
         }
       ]
     }
