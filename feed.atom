@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-13T00:48:07.171Z</id>
+    <id>urn:2026-06-14T00:46:59.424Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T00:48:07.171Z</updated>
+    <updated>2026-06-14T00:46:59.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastra vs LangChain: Building an AI Agent Pipeline and Analyzing the Data]]></title>
+        <id>6a2d04106a8db5c6ef6facf4</id>
+        <link href="https://www.freecodecamp.org/news/mastra-vs-langchain-building-an-ai-agent-pipeline-and-analyzing-the-data/"/>
+        <updated>2026-06-13T07:17:36.000Z</updated>
+        <summary type="html"><![CDATA[A week ago, I saw this tweet: I had just shipped SupportMesh, a multi-tenant AI support platform built on Mastra, so I had opinions from production. I liked the .dowhile() loop, the typed step schem]]></summary>
+        <author>
+            <name>Shola Jegede</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Large-Scale Platforms Handle Millions of Daily Transactions]]></title>
+        <id>6a2cfda7306003b984294a7b</id>
+        <link href="https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/"/>
+        <updated>2026-06-13T06:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Every day, millions of people order food, stream videos, send messages, book rides, make payments, and shop online. Most of these actions take only a few seconds from the user's perspective. A user cl]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Saga Pattern in Node.js: How to Roll Back Distributed Transactions Across Microservices]]></title>
+        <id>6a2cfc9713c6ff659c6c31d1</id>
+        <link href="https://www.freecodecamp.org/news/the-saga-pattern-in-node-js-roll-back-distributed-transactions-across-microservices/"/>
+        <updated>2026-06-13T06:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Building reliable workflows across multiple microservices is challenging. In a monolith, a database transaction can ensure that multiple operations either succeed or fail together. But once data is sp]]></summary>
+        <author>
+            <name>Abigail Rennemeyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Crop Tool Using JavaScript]]></title>
+        <id>6a2cfab7f3a6ae5b0409749b</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-crop-tool-javascript/"/>
+        <updated>2026-06-13T06:37:43.000Z</updated>
+        <summary type="html"><![CDATA[PDF files often contain unwanted margins, blank spaces, scanner borders, page headers, page footers, or unnecessary content around the main document area. Cropping allows users to remove these unwante]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geopolitical Risk Isn't One Thing. I Built a Python Framework to Prove It]]></title>
+        <id>6a2cfaa312f3716e29ed15f7</id>
+        <link href="https://www.freecodecamp.org/news/geopolitical-risk-isn-t-one-thing-i-built-a-python-framework-to-prove-it/"/>
+        <updated>2026-06-13T06:37:23.000Z</updated>
+        <summary type="html"><![CDATA[On April 3, 2025, the US announced sweeping tariffs on Chinese imports. SPY dropped 4.8% that day. The next day, it dropped another 6%. Financial news ran the usual headline: markets rattled by geopol]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
         <id>https://css-tricks.com/?p=395594</id>
@@ -109,36 +159,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a PostgreSQL-Backed Job Queue in Go]]></title>
-        <id>6a28a0135ea1e6904efb11dc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-postgresql-backed-job-queue-in-go/"/>
-        <updated>2026-06-09T23:21:55.000Z</updated>
-        <summary type="html"><![CDATA[When you build a web application, not every task should happen inside a user's request. Some work is slow. Some work can fail. Some work should happen later. Sending emails, resizing images, processin]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Tools Every STEM Student Should Know About]]></title>
-        <id>6a27af485df8cf4edcb24d9b</id>
-        <link href="https://www.freecodecamp.org/news/open-source-tools-every-stem-student-should-know-about/"/>
-        <updated>2026-06-09T06:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Technology has changed the way students learn science, mathematics, engineering, and computer science. A decade ago, most STEM students depended on textbooks, calculators, and expensive licensed softw]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database Version Control with Liquibase and Spring Boot]]></title>
-        <id>6a277a781aef44b8099e978b</id>
-        <link href="https://www.freecodecamp.org/news/database-version-control-with-liquibase-and-spring-boot/"/>
-        <updated>2026-06-09T02:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Picture this familiar scenario: you're working on a new feature that requires a new database column. You open your local database client, write an ALTER TABLE statement, and execute it. Your code work]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions]]></title>
         <id>https://css-tricks.com/?p=393503</id>
         <link href="https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/"/>
@@ -147,26 +167,6 @@ Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten 
 Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Enterprise Knowledge Graphs for Scalable Digital Product Platforms]]></title>
-        <id>6a26427ed198e572e0517866</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-enterprise-knowledge-graphs-for-scalable-digital-product-platforms/"/>
-        <updated>2026-06-08T04:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Enterprises are building more and more digital products that depend on real time intelligence. This means that being able to connect, contextualize, and reason over data has become a core capability.]]></summary>
-        <author>
-            <name>Kamal Kishore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide]]></title>
-        <id>6a24b9ff67572e709df5342b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-metadata-editor-using-javascript/"/>
-        <updated>2026-06-07T00:23:27.000Z</updated>
-        <summary type="html"><![CDATA[PDF files contain more information than what appears on the page. Behind every PDF document is metadata that stores information such as the document title, author, subject, keywords, creator applicati]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -350,16 +350,6 @@ The State of CSS Centering in 2026 originally handwritten and published with lov
         <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Data-Backed Truths Of User Experience ROI]]></title>
-        <id>https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/</id>
-        <link href="https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/"/>
-        <updated>2026-05-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>

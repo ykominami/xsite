@@ -194,7 +194,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4809,
+          "wordCount": 4922,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -209,7 +209,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5751,
+          "wordCount": 5753,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -239,7 +239,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5513,
+          "wordCount": 5529,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5663,
+          "wordCount": 5665,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -299,7 +299,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4898,
+          "wordCount": 4906,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -307,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
-          "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-          "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4910,
-          "title": "Ten Data-Backed Truths Of User Experience ROI",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg"
         }
       ]
     },
@@ -330,6 +315,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a2d04106a8db5c6ef6facf4",
+          "author": "Shola Jegede",
+          "description": "A week ago, I saw this tweet: I had just shipped SupportMesh, a multi-tenant AI support platform built on Mastra, so I had opinions from production. I liked the .dowhile() loop, the typed step schem",
+          "link": "https://www.freecodecamp.org/news/mastra-vs-langchain-building-an-ai-agent-pipeline-and-analyzing-the-data/",
+          "publishedOn": "2026-06-13T07:17:36.000Z",
+          "wordCount": 6736,
+          "title": "Mastra vs LangChain: Building an AI Agent Pipeline and Analyzing the Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0e1e81b3-6e39-4532-a12b-e99f600e372f.png"
+        },
+        {
+          "id": "6a2cfda7306003b984294a7b",
+          "author": "Manish Shivanandhan",
+          "description": "Every day, millions of people order food, stream videos, send messages, book rides, make payments, and shop online. Most of these actions take only a few seconds from the user's perspective. A user cl",
+          "link": "https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/",
+          "publishedOn": "2026-06-13T06:50:15.000Z",
+          "wordCount": 2487,
+          "title": "How Large-Scale Platforms Handle Millions of Daily Transactions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/67e3b365-0795-4055-9a59-61e32090de3e.png"
+        },
+        {
+          "id": "6a2cfc9713c6ff659c6c31d1",
+          "author": "Abigail Rennemeyer",
+          "description": "Building reliable workflows across multiple microservices is challenging. In a monolith, a database transaction can ensure that multiple operations either succeed or fail together. But once data is sp",
+          "link": "https://www.freecodecamp.org/news/the-saga-pattern-in-node-js-roll-back-distributed-transactions-across-microservices/",
+          "publishedOn": "2026-06-13T06:45:43.000Z",
+          "wordCount": 4748,
+          "title": "The Saga Pattern in Node.js: How to Roll Back Distributed Transactions Across Microservices",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b0e126ec-8b90-470a-b5c0-55e5e1673731.png"
+        },
+        {
+          "id": "6a2cfab7f3a6ae5b0409749b",
+          "author": "Bhavin Sheth",
+          "description": "PDF files often contain unwanted margins, blank spaces, scanner borders, page headers, page footers, or unnecessary content around the main document area. Cropping allows users to remove these unwante",
+          "link": "https://www.freecodecamp.org/news/build-pdf-crop-tool-javascript/",
+          "publishedOn": "2026-06-13T06:37:43.000Z",
+          "wordCount": 2932,
+          "title": "How to Build a Browser-Based PDF Crop Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4849599a-a0bc-4cb7-9d14-86bb990d000d.png"
+        },
+        {
+          "id": "6a2cfaa312f3716e29ed15f7",
+          "author": "Nikhil Adithyan",
+          "description": "On April 3, 2025, the US announced sweeping tariffs on Chinese imports. SPY dropped 4.8% that day. The next day, it dropped another 6%. Financial news ran the usual headline: markets rattled by geopol",
+          "link": "https://www.freecodecamp.org/news/geopolitical-risk-isn-t-one-thing-i-built-a-python-framework-to-prove-it/",
+          "publishedOn": "2026-06-13T06:37:23.000Z",
+          "wordCount": 5608,
+          "title": "Geopolitical Risk Isn't One Thing. I Built a Python Framework to Prove It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58157af6-2b00-4d0c-a5a0-c8e08892c568.png"
+        },
         {
           "id": "6a2bba6e86b91d1d78662a12",
           "author": "Bansidhar Kadiya",
@@ -379,56 +414,6 @@
           "wordCount": 1110,
           "title": "Web Scraping for Beginners 2026",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d37db125-5538-429b-bc55-3f99005a83cd.jpg"
-        },
-        {
-          "id": "6a28a0135ea1e6904efb11dc",
-          "author": "timothy ogbemudia",
-          "description": "When you build a web application, not every task should happen inside a user's request. Some work is slow. Some work can fail. Some work should happen later. Sending emails, resizing images, processin",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-postgresql-backed-job-queue-in-go/",
-          "publishedOn": "2026-06-09T23:21:55.000Z",
-          "wordCount": 3278,
-          "title": "How to Build a PostgreSQL-Backed Job Queue in Go",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f16f87ae-8900-40e9-ba3b-64bf50cc1fe1.png"
-        },
-        {
-          "id": "6a27af485df8cf4edcb24d9b",
-          "author": "Manish Shivanandhan",
-          "description": "Technology has changed the way students learn science, mathematics, engineering, and computer science. A decade ago, most STEM students depended on textbooks, calculators, and expensive licensed softw",
-          "link": "https://www.freecodecamp.org/news/open-source-tools-every-stem-student-should-know-about/",
-          "publishedOn": "2026-06-09T06:14:32.000Z",
-          "wordCount": 2236,
-          "title": "Open Source Tools Every STEM Student Should Know About",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0909758a-68d8-4064-9216-73838a1d9f88.png"
-        },
-        {
-          "id": "6a277a781aef44b8099e978b",
-          "author": "Ashutosh Krishna",
-          "description": "Picture this familiar scenario: you're working on a new feature that requires a new database column. You open your local database client, write an ALTER TABLE statement, and execute it. Your code work",
-          "link": "https://www.freecodecamp.org/news/database-version-control-with-liquibase-and-spring-boot/",
-          "publishedOn": "2026-06-09T02:29:12.000Z",
-          "wordCount": 6657,
-          "title": "Database Version Control with Liquibase and Spring Boot",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dbadec79-8248-4ef4-aa9c-126250db7a64.png"
-        },
-        {
-          "id": "6a26427ed198e572e0517866",
-          "author": "Kamal Kishore",
-          "description": "Enterprises are building more and more digital products that depend on real time intelligence. This means that being able to connect, contextualize, and reason over data has become a core capability.",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-enterprise-knowledge-graphs-for-scalable-digital-product-platforms/",
-          "publishedOn": "2026-06-08T04:18:06.000Z",
-          "wordCount": 3437,
-          "title": "How to Optimize Enterprise Knowledge Graphs for Scalable Digital Product Platforms",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/95434417-9316-481d-b6db-5e9d01f0c971.png"
-        },
-        {
-          "id": "6a24b9ff67572e709df5342b",
-          "author": "Bhavin Sheth",
-          "description": "PDF files contain more information than what appears on the page. Behind every PDF document is metadata that stores information such as the document title, author, subject, keywords, creator applicati",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-metadata-editor-using-javascript/",
-          "publishedOn": "2026-06-07T00:23:27.000Z",
-          "wordCount": 2261,
-          "title": "How to Build a Browser-Based PDF Metadata Editor Using JavaScript – A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dbc75a41-47b8-411d-bc6c-708daf027333.png"
         }
       ]
     }
