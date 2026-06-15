@@ -194,7 +194,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4922,
+          "wordCount": 4801,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",
@@ -209,7 +209,7 @@
           "description": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
           "link": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
           "publishedOn": "2026-06-10T10:00:00.000Z",
-          "wordCount": 5753,
+          "wordCount": 5765,
           "title": "The Benefits Of Cognitive Inclusion In UX Research",
           "enclosure": {
             "url": "http://files.smashing.media/articles/benefits-cognitive-inclusion-ux-research/benefits-cognitive-inclusion-ux-research.jpg",
@@ -239,7 +239,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
           "publishedOn": "2026-05-31T08:00:00.000Z",
-          "wordCount": 5529,
+          "wordCount": 5507,
           "title": "June Is For Exploring (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
@@ -254,7 +254,7 @@
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5665,
+          "wordCount": 5658,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -299,7 +299,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4906,
+          "wordCount": 4897,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -315,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a2e0f54136fd4eb2c9cc925",
+          "author": "Manish Shivanandhan",
+          "description": "For years, developers have debated which technology stack was best for building websites. Some preferred React. Others chose Vue, Angular, Svelte, or server-side frameworks such as Laravel and Django.",
+          "link": "https://www.freecodecamp.org/news/building-a-website-what-matters-more-than-your-tech-stack/",
+          "publishedOn": "2026-06-14T02:17:56.000Z",
+          "wordCount": 2819,
+          "title": "Building a Website in 2026: What Matters More Than Your Tech Stack",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/10d14873-8414-410e-8325-17e7df039608.png"
+        },
+        {
+          "id": "6a2e0cb22e4a72670f854140",
+          "author": "Djibril-M🍀",
+          "description": "When I was putting the final touches on QuizRope, an educational mobile app I built that uses LLMs for real-time tutoring and homework assistance, I knew the next logical step was voice. Reading text",
+          "link": "https://www.freecodecamp.org/news/how-to-run-private-text-to-speech-on-your-own-hardware-using-qvac/",
+          "publishedOn": "2026-06-14T02:06:42.000Z",
+          "wordCount": 4005,
+          "title": "How to Run Private Text-to-Speech on Your Own Hardware Using QVAC",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ac11484-05eb-4e59-9d35-f2bad4d1d730.png"
+        },
         {
           "id": "6a2d04106a8db5c6ef6facf4",
           "author": "Shola Jegede",
@@ -337,11 +357,11 @@
         },
         {
           "id": "6a2cfc9713c6ff659c6c31d1",
-          "author": "Abigail Rennemeyer",
+          "author": "Md Tarikul Islam",
           "description": "Building reliable workflows across multiple microservices is challenging. In a monolith, a database transaction can ensure that multiple operations either succeed or fail together. But once data is sp",
           "link": "https://www.freecodecamp.org/news/the-saga-pattern-in-node-js-roll-back-distributed-transactions-across-microservices/",
           "publishedOn": "2026-06-13T06:45:43.000Z",
-          "wordCount": 4748,
+          "wordCount": 4817,
           "title": "The Saga Pattern in Node.js: How to Roll Back Distributed Transactions Across Microservices",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b0e126ec-8b90-470a-b5c0-55e5e1673731.png"
         },
@@ -394,26 +414,6 @@
           "wordCount": 5395,
           "title": "How to Scale Laravel Applications for High-Traffic Production Systems",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8882176c-0420-4fc9-8d72-129640aac231.png"
-        },
-        {
-          "id": "6a2ace357fbd41b5facfabdf",
-          "author": "Estefania Cassingena Navone",
-          "description": "Technology is rapidly reshaping the world. Understanding how to use free learning resources and contribute to open source projects can be very helpful to start your career in this field. We just publi",
-          "link": "https://www.freecodecamp.org/news/how-to-start-your-career-in-tech-with-freecodecamp-full-talk-in-spanish/",
-          "publishedOn": "2026-06-11T15:03:17.000Z",
-          "wordCount": 1402,
-          "title": "How to Start your Career in Tech with freeCodeCamp - Full Talk in Spanish",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6354793a48f6ebd7a37ed09c/5bf8045b-8fe5-4efe-96a3-db8648914615.png"
-        },
-        {
-          "id": "6a28c9110fd9e5ca15ede211",
-          "author": "Beau Carnes",
-          "description": "If you have ever wanted to collect product data, monitor competitors, track SEO rankings, or build AI tools that pull information from the internet, you have likely run into the common frustrations of",
-          "link": "https://www.freecodecamp.org/news/web-scraping-for-beginners-2026/",
-          "publishedOn": "2026-06-10T02:16:49.000Z",
-          "wordCount": 1110,
-          "title": "Web Scraping for Beginners 2026",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d37db125-5538-429b-bc55-3f99005a83cd.jpg"
         }
       ]
     }
