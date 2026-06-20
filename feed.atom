@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-19T00:53:28.432Z</id>
+    <id>urn:2026-06-20T00:44:27.923Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T00:53:28.432Z</updated>
+    <updated>2026-06-20T00:44:27.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Hidden PHI Problem in Medical Images: Building a Synthetic Dataset for AI De-Identification]]></title>
+        <id>6a357b2a9d624935c947cccf</id>
+        <link href="https://www.freecodecamp.org/news/build-a-synthetic-dataset-for-ai-de-identification/"/>
+        <updated>2026-06-19T17:23:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how my team built a synthetic PHI generation pipeline to create privacy-safe training and validation data for medical imaging AI. The Problem Imagine you’re building an A]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure Headless vs. Hybrid Headless CMS: Choosing the Right Architecture for Enterprise Content Management]]></title>
+        <id>6a35795fac5ab8c96cba139b</id>
+        <link href="https://www.freecodecamp.org/news/pure-headless-vs-hybrid-headless-cms-for-enterprise-content-management/"/>
+        <updated>2026-06-19T17:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise organisations are under constant pressure to deliver content across websites, mobile applications, customer portals, digital kiosks, smart devices, and emerging digital channels. Customers]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered, Local-First Chrome Extension That Turns Your Browsing History into an Intent Map]]></title>
+        <id>6a357903529dee82e5b4624b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/"/>
+        <updated>2026-06-19T17:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Your browser remembers every page you've ever opened, but it has no idea why you opened any of them. You might spend three days comparing laptops across a dozen tabs, get distracted, come back a week]]></summary>
+        <author>
+            <name>Shola Jegede</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
+        <id>https://css-tricks.com/?p=394364</id>
+        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
+        <updated>2026-06-19T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
+A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Offline AI Image Generator in Node.js with QVAC and Socket.io]]></title>
         <id>6a3417433a2cf3cf64bb2225</id>
@@ -76,16 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use DartExceptor: A Lighter Way to Handle Errors in Dart 3]]></title>
-        <id>6a32f2e011341f4f7a8c6b83</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-dartexceptor-a-lighter-way-to-handle-errors-in-dart-3/"/>
-        <updated>2026-06-17T19:17:52.000Z</updated>
-        <summary type="html"><![CDATA[If you've worked with Flutter for any meaningful length of time, you've likely written this: try {   final user = await repo.getUser();   print(user.name); } catch (e) {   print('Something went wrong:]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
         <id>https://css-tricks.com/?p=395567</id>
         <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
@@ -115,26 +146,6 @@ Prop For That originally handwritten and published with love on CSS-Tricks. You 
         <summary type="html"><![CDATA[In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2026 FinOps Roadmap: From Cost-Blind Engineer to Cloud Financial Manager]]></title>
-        <id>6a30894af07f26c8d93079b8</id>
-        <link href="https://www.freecodecamp.org/news/the-2026-finops-roadmap-from-cost-blind-engineer-to-cloud-financial-manager/"/>
-        <updated>2026-06-15T23:22:50.000Z</updated>
-        <summary type="html"><![CDATA[My first AWS bill was $23,000. I had been working at the company for three weeks. Nobody told me. The bill just grew quietly in the background while I was proud of the feature I shipped. A Lambda func]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails]]></title>
-        <id>6a30885987482776da85bfd7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/"/>
-        <updated>2026-06-15T23:18:49.000Z</updated>
-        <summary type="html"><![CDATA[In July 2025, a Claude Code recursion loop burned between 16,000 USD and 50,000 USD in five hours. There was no crash or error, just agents doing exactly what they were told, indefinitely, because nob]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
         </author>
     </entry>
     <entry>
@@ -322,17 +333,6 @@ What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revealing Text With CSS letter-spacing]]></title>
-        <id>https://css-tricks.com/?p=393536</id>
-        <link href="https://css-tricks.com/revealing-text-with-css-letter-spacing/"/>
-        <updated>2026-05-27T12:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.
-Revealing Text With CSS letter-spacing originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)]]></title>
         <id>https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/</id>
         <link href="https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/"/>
@@ -350,16 +350,6 @@ Revealing Text With CSS letter-spacing originally handwritten and published with
         <summary type="html"><![CDATA[What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`]]></title>
-        <id>https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/</id>
-        <link href="https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/"/>
-        <updated>2026-05-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
         </author>
     </entry>
 </feed>
