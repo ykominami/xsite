@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-20T00:44:27.923Z</id>
+    <id>urn:2026-06-21T00:48:14.400Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T00:44:27.923Z</updated>
+    <updated>2026-06-21T00:48:14.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors the Right Way in Flutter: A Practical Guide to Sealed Classes, Records, and Result Types]]></title>
+        <id>6a36e90fd5185a258a6a5508</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-the-right-way-in-flutter-a-practical-guide-to-sealed-classes-records-and-result-types/"/>
+        <updated>2026-06-20T19:25:03.000Z</updated>
+        <summary type="html"><![CDATA[I used to think I was handling errors well in my Flutter apps. I had try/catch blocks everywhere. I was catching exceptions, logging them, and showing error messages to users. It felt solid. Then I st]]></summary>
+        <author>
+            <name>Gidudu Nicholas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Hidden PHI Problem in Medical Images: Building a Synthetic Dataset for AI De-Identification]]></title>
         <id>6a357b2a9d624935c947cccf</id>
@@ -104,16 +114,6 @@ A First Look at Scroll-Triggered Animations originally handwritten and published
         <summary type="html"><![CDATA[Lately, there's been more focus on creating specialized Small Language Models (SLMs) for high-throughput, real-time applications. But we seem to be at an impasse: we excel at fine-tuning these models,]]></summary>
         <author>
             <name>Tejas Ashok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule Jobs in PostgreSQL with pg_cron]]></title>
-        <id>6a32f343a137d9657aba1b9e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-schedule-jobs-in-postgresql-with-pg-cron/"/>
-        <updated>2026-06-17T19:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Every backend system eventually needs something to run on a schedule. Old sessions need deleting, summary tables need rebuilding, materialized views need refreshing, and maintenance tasks need to happ]]></summary>
-        <author>
-            <name>iyiola</name>
         </author>
     </entry>
     <entry>
