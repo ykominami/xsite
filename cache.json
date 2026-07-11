@@ -7,199 +7,32 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=395508",
-          "author": "Temani Afif",
-          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 3847,
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395894",
-          "author": "Daniel Schwarz",
-          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-14/",
-          "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 2623,
-          "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
-            "length": "35551592",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395223",
-          "author": "Daniel Schwarz",
-          "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-states-and-javascript-events/",
-          "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 3775,
-          "title": "The Shifting Line Between CSS States and JavaScript Events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394786",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-          "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 3271,
-          "title": "translateZ()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393249",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-          "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 3146,
-          "title": "translateY()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393255",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-          "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 3360,
-          "title": "translateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393233",
-          "author": "Gabriel Shoyombo",
-          "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translate/",
-          "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 3232,
-          "title": "translate()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394890",
-          "author": "Silvestar Bistrović",
-          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-          "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 3684,
-          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
-            "length": "38364603",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394364",
-          "author": "Daniel Schwarz",
-          "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-          "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 3723,
-          "title": "A First Look at Scroll-Triggered Animations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
-            "length": "515618",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395567",
-          "author": "Mat Marquis",
-          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-          "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 4700,
-          "title": "The Siren Song of ariaNotify()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395776",
-          "author": "Geoff Graham",
-          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/prop-for-that/",
-          "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 1881,
-          "title": "Prop For That",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395752",
-          "author": "Daniel Schwarz",
-          "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-13/",
-          "publishedOn": "2026-06-15T13:15:33.000Z",
-          "wordCount": 2506,
-          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395594",
-          "author": "Sunkanmi Fafowora",
-          "description": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\nWhy Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-          "publishedOn": "2026-06-12T15:09:00.000Z",
-          "wordCount": 3025,
-          "title": "Why Isn’t My 3D View Transition Working?",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/video_1.mp4",
-            "length": "2984445",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/cover.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395744",
-          "author": "Geoff Graham",
-          "description": "One of those nuances to keep in your back pocket when writing for screen readers.\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-          "publishedOn": "2026-06-12T15:08:38.000Z",
-          "wordCount": 1790,
-          "title": "There’s no need to include ‘navigation’ in your navigation labels",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/stairwaynav.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393676",
-          "author": "Mariana Beldi",
-          "description": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.\nCreating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-          "publishedOn": "2026-06-10T13:02:10.000Z",
-          "wordCount": 4151,
-          "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/nerd2-f.mp4",
-            "length": "8810169",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/psychedlic-event.webp"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+          "author": "hello@smashingmagazine.com (Anastasia Sycheva)",
+          "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
+          "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+          "publishedOn": "2026-07-10T13:00:00.000Z",
+          "wordCount": 5403,
+          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "author": "hello@smashingmagazine.com (Kat Homan)",
           "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
           "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
           "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6767,
+          "wordCount": 6768,
           "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
@@ -244,7 +77,7 @@
           "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
           "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
           "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7060,
+          "wordCount": 7067,
           "title": "Matching AI Modality To User Intent: Designing The Right Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
@@ -274,7 +107,7 @@
           "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
           "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4826,
+          "wordCount": 4822,
           "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
@@ -304,7 +137,7 @@
           "description": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
           "link": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
           "publishedOn": "2026-06-12T08:00:00.000Z",
-          "wordCount": 4807,
+          "wordCount": 4810,
           "title": "The Impact Of Humanoid Robots On Humanity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-humanoid-robots-humanity/impact-humanoid-robots-humanity.jpg",

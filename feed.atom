@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-10T00:36:14.906Z</id>
+    <id>urn:2026-07-11T00:29:11.216Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T00:36:14.906Z</updated>
+    <updated>2026-07-11T00:29:11.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction]]></title>
+        <id>https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/</id>
+        <link href="https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/"/>
+        <updated>2026-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anastasia Sycheva)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)]]></title>
         <id>6a4fd5184215fa285003b017</id>
@@ -116,17 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-07T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
         <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
         <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
@@ -157,17 +156,6 @@ Get Ready For the Powerful CSS border-shape Property! originally handwritten and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field sizing, and More]]></title>
-        <id>https://css-tricks.com/?p=395894</id>
-        <link href="https://css-tricks.com/whats-important-14/"/>
-        <updated>2026-06-30T13:54:14.000Z</updated>
-        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
-What’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
         <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
         <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
@@ -188,107 +176,6 @@ What’s !important #14: Gap Decorations, random(), <select> field sizing, and M
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
-        <id>https://css-tricks.com/?p=395223</id>
-        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
-        <updated>2026-06-29T13:03:32.000Z</updated>
-        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
-The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateZ()]]></title>
-        <id>https://css-tricks.com/?page_id=394786</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
-        <updated>2026-06-25T13:18:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
-translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateY()]]></title>
-        <id>https://css-tricks.com/?page_id=393249</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
-        <updated>2026-06-25T13:17:56.000Z</updated>
-        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
-translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translateX()]]></title>
-        <id>https://css-tricks.com/?page_id=393255</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
-        <updated>2026-06-25T13:16:01.000Z</updated>
-        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
-translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[translate()]]></title>
-        <id>https://css-tricks.com/?page_id=393233</id>
-        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
-        <updated>2026-06-25T13:15:05.000Z</updated>
-        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
-translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Gabriel Shoyombo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
-        <id>https://css-tricks.com/?p=394890</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
-        <updated>2026-06-22T12:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
-CodePen Embed Fallback
-Note: This …
-Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
-        <id>https://css-tricks.com/?p=394364</id>
-        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
-        <updated>2026-06-19T13:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
-A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
-        <id>https://css-tricks.com/?p=395567</id>
-        <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
-        <updated>2026-06-17T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
-The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prop For That]]></title>
-        <id>https://css-tricks.com/?p=395776</id>
-        <link href="https://css-tricks.com/prop-for-that/"/>
-        <updated>2026-06-16T18:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
-Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing With Uncertainty: How AI Supercharges Probabilistic Thinking]]></title>
         <id>https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/</id>
         <link href="https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"/>
@@ -299,39 +186,6 @@ Prop For That originally handwritten and published with love on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #13: @function, alpha(), CSS Wordle, and More]]></title>
-        <id>https://css-tricks.com/?p=395752</id>
-        <link href="https://css-tricks.com/whats-important-13/"/>
-        <updated>2026-06-15T13:15:33.000Z</updated>
-        <summary type="html"><![CDATA[CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.
-What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Isn’t My 3D View Transition Working?]]></title>
-        <id>https://css-tricks.com/?p=395594</id>
-        <link href="https://css-tricks.com/why-isnt-my-3d-view-transition-working/"/>
-        <updated>2026-06-12T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.
-Why Isn’t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s no need to include ‘navigation’ in your navigation labels]]></title>
-        <id>https://css-tricks.com/?p=395744</id>
-        <link href="https://css-tricks.com/navigation-in-your-navigation-labels/"/>
-        <updated>2026-06-12T15:08:38.000Z</updated>
-        <summary type="html"><![CDATA[One of those nuances to keep in your back pocket when writing for screen readers.
-There’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Impact Of Humanoid Robots On Humanity]]></title>
         <id>https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/</id>
         <link href="https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/"/>
@@ -339,17 +193,6 @@ There’s no need to include ‘navigation’ in your navigation labels original
         <summary type="html"><![CDATA[We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Memorable Web Experiences: A Modern CSS Toolkit]]></title>
-        <id>https://css-tricks.com/?p=393676</id>
-        <link href="https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/"/>
-        <updated>2026-06-10T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembered.
-Creating Memorable Web Experiences: A Modern CSS Toolkit originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mariana Beldi</name>
         </author>
     </entry>
 </feed>
