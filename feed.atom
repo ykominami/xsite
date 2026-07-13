@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-12T00:32:33.549Z</id>
+    <id>urn:2026-07-13T00:32:14.864Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T00:32:33.549Z</updated>
+    <updated>2026-07-13T00:32:14.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -126,6 +126,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-07T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas]]></title>
         <id>https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/</id>
         <link href="https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/"/>
@@ -156,6 +167,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field sizing, and More]]></title>
+        <id>https://css-tricks.com/?p=395894</id>
+        <link href="https://css-tricks.com/whats-important-14/"/>
+        <updated>2026-06-30T13:54:14.000Z</updated>
+        <summary type="html"><![CDATA[I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!
+What’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Accessibility Is An Operational Capability, Not A Feature]]></title>
         <id>https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/</id>
         <link href="https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/"/>
@@ -176,6 +198,107 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Shifting Line Between CSS States and JavaScript Events]]></title>
+        <id>https://css-tricks.com/?p=395223</id>
+        <link href="https://css-tricks.com/css-states-and-javascript-events/"/>
+        <updated>2026-06-29T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS "listens" for and how they are alternatives to what Javascript typically listens for.
+The Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateZ()]]></title>
+        <id>https://css-tricks.com/?page_id=394786</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatez/"/>
+        <updated>2026-06-25T13:18:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateZ() function moves an element closer to or farther from the user. 
+translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateY()]]></title>
+        <id>https://css-tricks.com/?page_id=393249</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatey/"/>
+        <updated>2026-06-25T13:17:56.000Z</updated>
+        <summary type="html"><![CDATA[The translateY() function shifts an element vertically by the specified amount. 
+translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translateX()]]></title>
+        <id>https://css-tricks.com/?page_id=393255</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translatex/"/>
+        <updated>2026-06-25T13:16:01.000Z</updated>
+        <summary type="html"><![CDATA[The translateX() function shifts an element horizontally by the specified amount. 
+translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[translate()]]></title>
+        <id>https://css-tricks.com/?page_id=393233</id>
+        <link href="https://css-tricks.com/almanac/functions/t/translate/"/>
+        <updated>2026-06-25T13:15:05.000Z</updated>
+        <summary type="html"><![CDATA[The CSS translate() function shifts an element from its default position on a 2-dimensional plane
+translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Scroll-Driven Animations for Opposing Scroll Directions]]></title>
+        <id>https://css-tricks.com/?p=394890</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/"/>
+        <updated>2026-06-22T12:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.
+CodePen Embed Fallback
+Note: This …
+Using Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A First Look at Scroll-Triggered Animations]]></title>
+        <id>https://css-tricks.com/?p=394364</id>
+        <link href="https://css-tricks.com/css-scroll-triggered-animations-first-look/"/>
+        <updated>2026-06-19T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Let's poke at the differences between scroll-driven and scroll-triggered animations.
+A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Siren Song of ariaNotify()]]></title>
+        <id>https://css-tricks.com/?p=395567</id>
+        <link href="https://css-tricks.com/the-siren-song-of-arianotify/"/>
+        <updated>2026-06-17T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.
+The Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prop For That]]></title>
+        <id>https://css-tricks.com/?p=395776</id>
+        <link href="https://css-tricks.com/prop-for-that/"/>
+        <updated>2026-06-16T18:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.
+Prop For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing With Uncertainty: How AI Supercharges Probabilistic Thinking]]></title>
         <id>https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/</id>
         <link href="https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/"/>
@@ -183,6 +306,17 @@
         <summary type="html"><![CDATA[In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #13: @function, alpha(), CSS Wordle, and More]]></title>
+        <id>https://css-tricks.com/?p=395752</id>
+        <link href="https://css-tricks.com/whats-important-13/"/>
+        <updated>2026-06-15T13:15:33.000Z</updated>
+        <summary type="html"><![CDATA[CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.
+What’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
