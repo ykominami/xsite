@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-06T00:26:31.196Z</id>
+    <id>urn:2026-08-07T01:12:49.569Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T00:26:31.196Z</updated>
+    <updated>2026-08-07T01:12:49.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
+        <id>https://css-tricks.com/?p=396471</id>
+        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
+        <updated>2026-08-06T15:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
+2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP]]></title>
+        <id>6a7450ad88b91c86871fa9de</id>
+        <link href="https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/"/>
+        <updated>2026-08-06T09:15:25.000Z</updated>
+        <summary type="html"><![CDATA[Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bluetooth Low Energy in Flutter: A Handbook for Devs]]></title>
         <id>6a7371ed8a363785f313b058</id>
@@ -93,16 +114,6 @@
         <summary type="html"><![CDATA[Most SaaS landing pages share the same core sections: a hero, social proof, features, pricing, FAQ, and a footer. And most developers end up building these from scratch on every project. That's repeti]]></summary>
         <author>
             <name>Ash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens During a Production Deployment? A Behind-the-Scenes Guide]]></title>
-        <id>6a70dada6358084ff948ee0f</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/"/>
-        <updated>2026-08-03T18:15:54.000Z</updated>
-        <summary type="html"><![CDATA[You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
