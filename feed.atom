@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T00:16:28.499Z</id>
+    <id>urn:2026-08-11T00:15:38.911Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T00:16:28.499Z</updated>
+    <updated>2026-08-11T00:15:38.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
+        <id>6a7a38d57c96966272403ab6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/"/>
+        <updated>2026-08-10T20:47:17.000Z</updated>
+        <summary type="html"><![CDATA[In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d]]></summary>
+        <author>
+            <name>George Field</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]]]></title>
+        <id>6a7a37b45687127b2dce7c6e</id>
+        <link href="https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/"/>
+        <updated>2026-08-10T20:42:28.000Z</updated>
+        <summary type="html"><![CDATA[The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animating CSS border-image]]></title>
+        <id>https://css-tricks.com/?p=394978</id>
+        <link href="https://css-tricks.com/animating-css-border-image/"/>
+        <updated>2026-08-10T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
+Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
+        <id>https://css-tricks.com/?p=396506</id>
+        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
+        <updated>2026-08-10T15:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
+SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age]]></title>
+        <id>6a79dcd1e93f9db759fd99d6</id>
+        <link href="https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/"/>
+        <updated>2026-08-10T14:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr]]></summary>
+        <author>
+            <name>Jesutoni Aderibigbe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Dynamic Features to a Static Site Without a Server]]></title>
+        <id>6a79dc91e7c11cc73062288e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/"/>
+        <updated>2026-08-10T14:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
         <id>6a76024b50cf2dad7c8ef8c3</id>
@@ -13,6 +75,17 @@
         <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
         <author>
             <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=394753</id>
+        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
+        <updated>2026-08-07T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
+Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -76,43 +149,47 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Customize an LLM for AI Agents using SFT and QLoRA]]></title>
-        <id>6a74b2c7f2558fa0d17e1ac4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-customize-an-llm-for-ai-agents-using-sft-and-qlora/"/>
-        <updated>2026-08-06T16:13:59.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to fine-tune a large language model for use in AI agents using supervised fine-tuning with QLoRA. This lets us customize a pre-trained model so it behaves the way w]]></summary>
+        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
+        <id>https://css-tricks.com/?p=396471</id>
+        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
+        <updated>2026-08-06T15:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
+2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Darsh Shah</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures]]></title>
-        <id>6a74b21fcf90c22a668963b6</id>
-        <link href="https://www.freecodecamp.org/news/the-visitor-design-pattern-and-its-clean-operations-across-complex-object-structures/"/>
-        <updated>2026-08-06T16:11:11.000Z</updated>
-        <summary type="html"><![CDATA[There's a problem that shows up in almost every growing software system, and most developers don't even realize they're hitting it until the damage is already done. You have a set of objects: differen]]></summary>
+        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
+        <id>https://css-tricks.com/?p=396204</id>
+        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
+        <updated>2026-08-03T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
+Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Oluwaseyi Fatunmole</name>
+            <name>Sam Davis Omekarajr</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP]]></title>
-        <id>6a7450ad88b91c86871fa9de</id>
-        <link href="https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/"/>
-        <updated>2026-08-06T09:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev]]></summary>
+        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
+        <id>https://css-tricks.com/?p=395508</id>
+        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
+        <updated>2026-07-31T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
+Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Lakshmi Mahabaleshwara</name>
+            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bluetooth Low Energy in Flutter: A Handbook for Devs]]></title>
-        <id>6a7371ed8a363785f313b058</id>
-        <link href="https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/"/>
-        <updated>2026-08-05T17:25:01.000Z</updated>
-        <summary type="html"><![CDATA[Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c]]></summary>
+        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
+        <id>https://css-tricks.com/?p=396295</id>
+        <link href="https://css-tricks.com/whats-important-16/"/>
+        <updated>2026-07-31T14:06:21.000Z</updated>
+        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
+What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Nikheel Vishwas Savant</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +233,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[writing-mode]]></title>
+        <id>http://css-tricks.com/?page_id=244261</id>
+        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
+        <updated>2026-07-21T09:39:10.000Z</updated>
+        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
+.element {
+  writing-mode: vertical-rl;
+}
+This is most useful in languages such as Chinese, Japanese or …
+writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -166,6 +258,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[pointer-events]]></title>
+        <id>http://css-tricks.com/?page_id=18170</id>
+        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
+        <updated>2026-07-15T19:57:51.000Z</updated>
+        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
+pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
         <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
@@ -173,6 +276,17 @@
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
+        <id>https://css-tricks.com/?p=396027</id>
+        <link href="https://css-tricks.com/whats-important-15/"/>
+        <updated>2026-07-14T14:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
+What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
