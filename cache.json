@@ -17,7 +17,7 @@
           "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
           "publishedOn": "2026-08-12T13:43:56.000Z",
-          "wordCount": 11022,
+          "wordCount": 11050,
           "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
         },
@@ -115,21 +115,6 @@
           "wordCount": 6087,
           "title": "pointer-events",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396027",
-          "author": "Daniel Schwarz",
-          "description": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-15/",
-          "publishedOn": "2026-07-14T14:36:18.000Z",
-          "wordCount": 3414,
-          "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/3.mp4",
-            "length": "163854",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi15.jpg"
         }
       ]
     },
@@ -138,6 +123,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
+          "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": 3968,
+          "title": "New EU Guidelines For AI Labelling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
           "author": "hello@smashingmagazine.com (Alexey Kopytin)",
@@ -159,7 +159,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6397,
+          "wordCount": 6283,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -174,7 +174,7 @@
           "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
           "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4645,
+          "wordCount": 4644,
           "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
@@ -189,7 +189,7 @@
           "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
           "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
           "publishedOn": "2026-07-29T13:00:00.000Z",
-          "wordCount": 5039,
+          "wordCount": 5023,
           "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
@@ -219,7 +219,7 @@
           "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
           "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
           "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8079,
+          "wordCount": 8080,
           "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
@@ -234,7 +234,7 @@
           "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
           "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
           "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5078,
+          "wordCount": 5075,
           "title": "When It Makes Sense To “Block” The Main Thread",
           "enclosure": {
             "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
@@ -242,21 +242,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-          "publishedOn": "2026-07-15T10:00:00.000Z",
-          "wordCount": 3959,
-          "title": "No, People Don’t Want More AI In Their Life",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
         }
       ]
     },
@@ -265,6 +250,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a7e08ac157d6ad1bb83d9cf",
+          "author": "Vaibhav Gupta",
+          "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
+          "publishedOn": "2026-08-13T18:10:52.000Z",
+          "wordCount": 3687,
+          "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c86a7b7f-9199-499c-8f61-7a1fda09f519.png"
+        },
+        {
+          "id": "6a7e02796c61d1c629897f7c",
+          "author": "Alex Oliinyk",
+          "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
+          "link": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
+          "publishedOn": "2026-08-13T17:44:25.000Z",
+          "wordCount": 3233,
+          "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dfca07f2-cf19-46c5-9c46-dad380bd0ed4.png"
+        },
+        {
+          "id": "6a7e0113e19ef21c9188a0c1",
+          "author": "Chidozie Managwu",
+          "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
+          "publishedOn": "2026-08-13T17:38:27.000Z",
+          "wordCount": 3946,
+          "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1e6049b1-5342-44de-9daf-bcaa33a0d6c0.png"
+        },
+        {
+          "id": "6a7dcba2609882fca24e3ec0",
+          "author": "Beau Carnes",
+          "description": "Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical",
+          "link": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
+          "publishedOn": "2026-08-13T13:50:26.000Z",
+          "wordCount": 1121,
+          "title": "Python for Mechanical Engineering",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c20a4cbb-d99c-4852-9929-a919155f56ef.jpg"
+        },
+        {
+          "id": "6a7dca901374f2c259ac23d8",
+          "author": "Beau Carnes",
+          "description": "When learning C, it's easy to get stuck building text-based terminal applications that simply ask for user input and print a result back out. While those are great for learning the basics of the langu",
+          "link": "https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/",
+          "publishedOn": "2026-08-13T13:45:52.000Z",
+          "wordCount": 1122,
+          "title": "Master Low-Level Graphics in C: Build a Software Renderer from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/657547fd-3df1-4347-9804-37e7e119a46f.jpg"
+        },
+        {
+          "id": "6a7d0b557863edaa10c98875",
+          "author": "Bhavin Sheth",
+          "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
+          "link": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
+          "publishedOn": "2026-08-13T00:09:57.000Z",
+          "wordCount": 3601,
+          "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e841f91-5161-4559-816d-091e6dc39bcb.png"
+        },
         {
           "id": "6a7ce718716450a8062b0352",
           "author": "Mohammed Fahd Abrah",
@@ -293,7 +338,7 @@
           "publishedOn": "2026-08-12T15:43:14.000Z",
           "wordCount": 3826,
           "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8d667b-d197-43cc-aa36-1ef0ab51c7c0.png"
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1fef698-f2b8-4fa3-a3e0-0cb0fc7e88a6.png"
         },
         {
           "id": "6a7b522a304c202420dfd496",
@@ -304,66 +349,6 @@
           "wordCount": 8027,
           "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2d445aeb-4ed9-40c4-9c91-c6e701a1325a.png"
-        },
-        {
-          "id": "6a7b52064ac8f18a2a936e46",
-          "author": "Atuoha Anthony",
-          "description": "Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/",
-          "publishedOn": "2026-08-11T16:47:02.000Z",
-          "wordCount": 8122,
-          "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/597b4887-5912-4a71-a0c2-ecbf8bdcfb4c.png"
-        },
-        {
-          "id": "6a7a662d92a5f4f663b525f9",
-          "author": "Rudrendu Paul",
-          "description": "Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com",
-          "link": "https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/",
-          "publishedOn": "2026-08-11T00:00:45.000Z",
-          "wordCount": 5329,
-          "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/37d63c81-8744-46ba-8dcd-da9371817913.png"
-        },
-        {
-          "id": "6a7a38d57c96966272403ab6",
-          "author": "George Field",
-          "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
-          "link": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
-          "publishedOn": "2026-08-10T20:47:17.000Z",
-          "wordCount": 7731,
-          "title": "How to Get Your Side Project Seen and Gain Paying Users",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/60fc8a1d-6fda-411c-a010-2f2b95e2918b.png"
-        },
-        {
-          "id": "6a7a37b45687127b2dce7c6e",
-          "author": "Ayobami Adejumo",
-          "description": "The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app",
-          "link": "https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/",
-          "publishedOn": "2026-08-10T20:42:28.000Z",
-          "wordCount": 14200,
-          "title": "AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ef79ce3-1581-47f8-b419-5fb8e7afe7d3.png"
-        },
-        {
-          "id": "6a79dcd1e93f9db759fd99d6",
-          "author": "Jesutoni Aderibigbe",
-          "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
-          "link": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
-          "publishedOn": "2026-08-10T14:14:41.000Z",
-          "wordCount": 4601,
-          "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/682cb489-c8fd-4530-9226-357edb4e8c19.png"
-        },
-        {
-          "id": "6a79dc91e7c11cc73062288e",
-          "author": "Manish Shivanandhan",
-          "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
-          "link": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
-          "publishedOn": "2026-08-10T14:13:37.000Z",
-          "wordCount": 2194,
-          "title": "How to Add Dynamic Features to a Static Site Without a Server",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9796f3aa-8b5c-4bcf-804b-57725cc2c08f.png"
         }
       ]
     }
