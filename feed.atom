@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T00:21:24.082Z</id>
+    <id>urn:2026-08-15T00:10:44.801Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T00:21:24.082Z</updated>
+    <updated>2026-08-15T00:10:44.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python]]></title>
+        <id>6a7f44fc58366ecdaf016624</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/"/>
+        <updated>2026-08-14T16:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]]]></title>
+        <id>6a7f43902933540b66072ea4</id>
+        <link href="https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/"/>
+        <updated>2026-08-14T16:34:24.000Z</updated>
+        <summary type="html"><![CDATA[A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Wearable Needs Weeks of Data Before It Becomes Useful]]></title>
+        <id>6a7f3cb20046634bbe645e53</id>
+        <link href="https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/"/>
+        <updated>2026-08-14T16:05:06.000Z</updated>
+        <summary type="html"><![CDATA[I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript]]></title>
+        <id>6a7f3af6a3acdf7f3110d046</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/"/>
+        <updated>2026-08-14T15:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
+        <id>https://css-tricks.com/?p=396557</id>
+        <link href="https://css-tricks.com/whats-important-17/"/>
+        <updated>2026-08-14T14:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
+What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite]]></title>
+        <id>6a7e4a380ee61c58fa48acb3</id>
+        <link href="https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/"/>
+        <updated>2026-08-13T22:50:32.000Z</updated>
+        <summary type="html"><![CDATA[I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Grade Agents with Pydantic AI]]></title>
+        <id>6a7e49f74e7ef3bb34dc60ba</id>
+        <link href="https://www.freecodecamp.org/news/building-agents-with-pydantic-ai/"/>
+        <updated>2026-08-13T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building AI agents with raw LLM SDKs works fine for prototypes until you need structured outputs, testable code, and production reliability. The gap shows up in a predictable way. Your notebook code w]]></summary>
+        <author>
+            <name>Jay Mehta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI]]></title>
         <id>6a7e08ac157d6ad1bb83d9cf</id>
@@ -46,16 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master Low-Level Graphics in C: Build a Software Renderer from Scratch]]></title>
-        <id>6a7dca901374f2c259ac23d8</id>
-        <link href="https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/"/>
-        <updated>2026-08-13T13:45:52.000Z</updated>
-        <summary type="html"><![CDATA[When learning C, it's easy to get stuck building text-based terminal applications that simply ask for user input and print a result back out. While those are great for learning the basics of the langu]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
         <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
         <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
@@ -63,46 +124,6 @@
         <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript]]></title>
-        <id>6a7d0b557863edaa10c98875</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/"/>
-        <updated>2026-08-13T00:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution]]></title>
-        <id>6a7ce718716450a8062b0352</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/"/>
-        <updated>2026-08-12T21:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent with Per-User OAuth Access [Full Handbook]]]></title>
-        <id>6a7c95758a35a7792fd567c3</id>
-        <link href="https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/"/>
-        <updated>2026-08-12T15:47:01.000Z</updated>
-        <summary type="html"><![CDATA[When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl]]></summary>
-        <author>
-            <name>Saif Ali Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Filter Studio with JavaScript]]></title>
-        <id>6a7c94929716b929062beeb1</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/"/>
-        <updated>2026-08-12T15:43:14.000Z</updated>
-        <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -114,16 +135,6 @@
 Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
-        <id>6a7b522a304c202420dfd496</id>
-        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
-        <updated>2026-08-11T16:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
@@ -286,17 +297,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
         </author>
     </entry>
 </feed>
