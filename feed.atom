@@ -1,19 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-01T00:27:44.820Z</id>
+    <id>urn:2026-09-02T00:23:57.880Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T00:27:44.821Z</updated>
+    <updated>2026-09-02T00:23:57.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
-        <id>https://css-tricks.com/?p=396630</id>
-        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
-        <updated>2026-08-31T15:12:19.000Z</updated>
-        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
-Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[How to Protect Your Privacy While Browsing the Web]]></title>
+        <id>6a96f3e0541d63c1fd799f01</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/"/>
+        <updated>2026-09-01T15:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t]]></summary>
         <author>
-            <name>Lee Meyer</name>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide]]></title>
+        <id>6a96f33812e0a826683b9f0f</id>
+        <link href="https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/"/>
+        <updated>2026-09-01T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,]]></summary>
+        <author>
+            <name>Vamsi Vaddavalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI File Analysis Agent with Python]]></title>
+        <id>6a96f2cfeb26827ea17d08f5</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-analysis-agent/"/>
+        <updated>2026-09-01T15:44:15.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design]]></title>
+        <id>6a96f19b6bef806c586df810</id>
+        <link href="https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/"/>
+        <updated>2026-09-01T15:39:07.000Z</updated>
+        <summary type="html"><![CDATA[In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Excel Formulas and Functions]]></title>
+        <id>6a96e93c39073a9c1afb3a8d</id>
+        <link href="https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/"/>
+        <updated>2026-09-01T15:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems]]></title>
+        <id>6a95f9a98577dd0ab849ab46</id>
+        <link href="https://www.freecodecamp.org/news/bloom-filters-explained/"/>
+        <updated>2026-08-31T22:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Firestore Structures Data and How to Perform CRUD Operations With It]]></title>
+        <id>6a95f8e758184cca726442fe</id>
+        <link href="https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/"/>
+        <updated>2026-08-31T21:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Dev Should Know About Tracking Product Data]]></title>
+        <id>6a95f5263ba1cbee5d13a5bd</id>
+        <link href="https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/"/>
+        <updated>2026-08-31T21:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what]]></summary>
+        <author>
+            <name>Obum</name>
         </author>
     </entry>
     <entry>
@@ -37,27 +106,6 @@ Let’s Use the Emergent CSS random() Function in all the Browsers originally ha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
-        <id>https://css-tricks.com/?p=396738</id>
-        <link href="https://css-tricks.com/whats-important-18/"/>
-        <updated>2026-08-31T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
-What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build API Documentation From Scratch [A Roadmap for Technical Writers]]]></title>
-        <id>6a9587c15c82cb888f556170</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/"/>
-        <updated>2026-08-31T13:55:13.000Z</updated>
-        <summary type="html"><![CDATA[As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e]]></summary>
-        <author>
-            <name>Gloria Tejuosho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
         <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
@@ -65,98 +113,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
-        <id>6a91aa2c85465e213741c4de</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/"/>
-        <updated>2026-08-28T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
-        <author>
-            <name>jabo Landry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
-        <id>6a90aca9476c6bda8e12cfef</id>
-        <link href="https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/"/>
-        <updated>2026-08-27T21:31:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab]]></summary>
-        <author>
-            <name>Botao Deng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.]]></title>
-        <id>6a9088cbfe512a7250d45587</id>
-        <link href="https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/"/>
-        <updated>2026-08-27T18:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c]]></summary>
-        <author>
-            <name>Javeed Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Reliable Structured Data Out of an LLM]]></title>
-        <id>6a908843ac9ce68300a83a4c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/"/>
-        <updated>2026-08-27T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained]]></title>
-        <id>6a9058fc56e6415ec14cba57</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/"/>
-        <updated>2026-08-27T15:34:20.000Z</updated>
-        <summary type="html"><![CDATA[The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
-        <id>https://css-tricks.com/?p=395259</id>
-        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
-        <updated>2026-08-27T14:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
-Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark]]></title>
-        <id>6a9042325a2ad19bd8e4a514</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/"/>
-        <updated>2026-08-27T13:57:06.000Z</updated>
-        <summary type="html"><![CDATA[As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building AI Slop: Build High-End Web Apps with AI]]></title>
-        <id>6a90413617d143757c5d8455</id>
-        <link href="https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/"/>
-        <updated>2026-08-27T13:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
         </author>
     </entry>
     <entry>
@@ -170,17 +126,6 @@ animation-trigger originally handwritten and published with love on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
-        <id>https://css-tricks.com/?p=396665</id>
-        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
-        <updated>2026-08-25T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
-MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
         <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
         <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
@@ -188,28 +133,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
         <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pierre Burgy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
-        <id>https://css-tricks.com/?p=395401</id>
-        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
-        <updated>2026-08-24T13:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
-WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Fränk Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
-        <id>https://css-tricks.com/?p=396644</id>
-        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
-        <updated>2026-08-21T15:13:03.000Z</updated>
-        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
-Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -223,50 +146,6 @@ Resolved: CSS Class Prefix Selector originally handwritten and published with lo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
-        <id>https://css-tricks.com/?p=396428</id>
-        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
-        <updated>2026-08-19T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
-CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
-        <id>https://css-tricks.com/?p=396623</id>
-        <link href="https://css-tricks.com/wordpress-student-plan/"/>
-        <updated>2026-08-19T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
-WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
-        <id>https://css-tricks.com/?p=396545</id>
-        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
-        <updated>2026-08-17T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
-Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
-        <id>https://css-tricks.com/?p=396557</id>
-        <link href="https://css-tricks.com/whats-important-17/"/>
-        <updated>2026-08-14T14:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
-What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
         <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
         <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
@@ -277,17 +156,6 @@ What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
-        <id>https://css-tricks.com/?p=396255</id>
-        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
-        <updated>2026-08-12T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
-Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
         <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
         <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
@@ -295,39 +163,6 @@ Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong
         <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
