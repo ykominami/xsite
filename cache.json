@@ -7,6 +7,163 @@
       "articles": []
     },
     {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=396630",
+          "author": "Lee Meyer",
+          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-random-function-polyfill/",
+          "publishedOn": "2026-08-31T15:12:19.000Z",
+          "wordCount": 6435,
+          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396738",
+          "author": "Daniel Schwarz",
+          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-18/",
+          "publishedOn": "2026-08-31T14:08:55.000Z",
+          "wordCount": 3657,
+          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395259",
+          "author": "Daniel Schwarz",
+          "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+          "publishedOn": "2026-08-27T14:41:06.000Z",
+          "wordCount": 4083,
+          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=394713",
+          "author": "Saleh Mubashar",
+          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+          "publishedOn": "2026-08-26T15:38:41.000Z",
+          "wordCount": 4439,
+          "title": "animation-trigger",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396665",
+          "author": "Geoff Graham",
+          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+          "publishedOn": "2026-08-25T14:10:34.000Z",
+          "wordCount": 3365,
+          "title": "MicroLighter: Syntax Highlighter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395401",
+          "author": "Fränk Klein",
+          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-php-block-registration/",
+          "publishedOn": "2026-08-24T13:54:02.000Z",
+          "wordCount": 6784,
+          "title": "WordPress PHP-Only Block Registration",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396644",
+          "author": "Geoff Graham",
+          "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+          "publishedOn": "2026-08-21T15:13:03.000Z",
+          "wordCount": 3508,
+          "title": "Resolved: CSS Class Prefix Selector",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396428",
+          "author": "Geoff Graham",
+          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+          "publishedOn": "2026-08-19T14:44:41.000Z",
+          "wordCount": 3695,
+          "title": "CSS Navigation Matching, Early Days",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396623",
+          "author": "Geoff Graham",
+          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-student-plan/",
+          "publishedOn": "2026-08-19T08:50:00.000Z",
+          "wordCount": 3250,
+          "title": "WordPress.com Student Plan",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396545",
+          "author": "Geoff Graham",
+          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+          "publishedOn": "2026-08-17T14:15:50.000Z",
+          "wordCount": 3807,
+          "title": "Dark mode toggles: two states are enough",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396557",
+          "author": "Daniel Schwarz",
+          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-17/",
+          "publishedOn": "2026-08-14T14:01:51.000Z",
+          "wordCount": 3699,
+          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396255",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+          "publishedOn": "2026-08-12T13:43:56.000Z",
+          "wordCount": 11616,
+          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394978",
+          "author": "Preethi",
+          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/animating-css-border-image/",
+          "publishedOn": "2026-08-10T15:58:47.000Z",
+          "wordCount": 3989,
+          "title": "Animating CSS border-image",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396506",
+          "author": "Geoff Graham",
+          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+          "publishedOn": "2026-08-10T15:57:39.000Z",
+          "wordCount": 2853,
+          "title": "SmashingConf Freiburg 2026, September 7-10",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=394753",
+          "author": "Geoff Graham",
+          "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+          "publishedOn": "2026-08-07T14:06:43.000Z",
+          "wordCount": 5628,
+          "title": "Using and Styling the Dialog Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        }
+      ]
+    },
+    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -17,7 +174,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4758,
+          "wordCount": 4747,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -32,7 +189,7 @@
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
           "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5909,
+          "wordCount": 5914,
           "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
@@ -62,7 +219,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5714,
+          "wordCount": 5717,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         },
@@ -102,7 +259,7 @@
           "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
           "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
           "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6290,
+          "wordCount": 6295,
           "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
@@ -118,6 +275,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a9754cacade799374a0231b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t",
+          "link": "https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/",
+          "publishedOn": "2026-09-01T22:42:18.000Z",
+          "wordCount": 6045,
+          "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9dac98f7-f9bf-4597-bbd9-95e220cce9ec.png"
+        },
+        {
+          "id": "6a97368f8a7f1f043a223d7c",
+          "author": "Chinedu Otutu",
+          "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
+          "link": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
+          "publishedOn": "2026-09-01T20:33:19.000Z",
+          "wordCount": 2636,
+          "title": "Why You Should Never Send Emails Inside Your API Requests",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8da5a9af-d7e5-4d0e-94cc-a11d24923023.png"
+        },
         {
           "id": "6a96f3e0541d63c1fd799f01",
           "author": "Manish Shivanandhan",
@@ -197,26 +374,6 @@
           "wordCount": 4131,
           "title": "What Every Dev Should Know About Tracking Product Data",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
-        },
-        {
-          "id": "6a958dafb6e371335a86ea8c",
-          "author": "Sarvesh Talele",
-          "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
-          "link": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
-          "publishedOn": "2026-08-31T14:20:31.000Z",
-          "wordCount": 13179,
-          "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eeed67e6-32c9-45df-a2f4-9894f2e49f00.png"
-        },
-        {
-          "id": "6a958d8401db3f18f07d0b54",
-          "author": "Hugo Teijiz",
-          "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
-          "link": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
-          "publishedOn": "2026-08-31T14:19:48.000Z",
-          "wordCount": 4680,
-          "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50ec1fe6-8e1f-4c42-a8ad-fd52ea0d089d.png"
         }
       ]
     }
