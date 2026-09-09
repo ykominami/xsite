@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T00:23:02.954Z</id>
+    <id>urn:2026-09-09T00:23:11.470Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T00:23:02.954Z</updated>
+    <updated>2026-09-09T00:23:11.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript]]></title>
+        <id>6a9f3d3144b92ecc2d3aca7a</id>
+        <link href="https://www.freecodecamp.org/news/gamepad-api-javascript-guide/"/>
+        <updated>2026-09-07T22:39:45.000Z</updated>
+        <summary type="html"><![CDATA[The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f]]></summary>
+        <author>
+            <name>taimoor bamazai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀]]></title>
+        <id>6a9f3c3bbf19ac7f324e6191</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/"/>
+        <updated>2026-09-07T22:35:39.000Z</updated>
+        <summary type="html"><![CDATA[A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t]]></summary>
+        <author>
+            <name>Johnson Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a System Call Actually Works in Linux]]></title>
+        <id>6a9f35bc726beec2fbecea20</id>
+        <link href="https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/"/>
+        <updated>2026-09-07T22:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include  #include  #include  int main(void) {     struct timespe]]></summary>
+        <author>
+            <name>Chris Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Refactor a Legacy Application Before Migrating It]]></title>
+        <id>6a9f3503813f6309fdfcd6e3</id>
+        <link href="https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/"/>
+        <updated>2026-09-07T22:04:51.000Z</updated>
+        <summary type="html"><![CDATA[The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Design Patterns Handbook: Learn Popular Design Patterns with C# Code Examples]]></title>
         <id>6a9eec68a0d0c091f35da7b8</id>
@@ -63,46 +103,6 @@
         <summary type="html"><![CDATA[When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin]]></summary>
         <author>
             <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini]]></title>
-        <id>6a9aee151eb1bdc38db233af</id>
-        <link href="https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/"/>
-        <updated>2026-09-04T16:13:09.000Z</updated>
-        <summary type="html"><![CDATA[A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Observability with OpenTelemetry]]></title>
-        <id>6a9a0db7c7c0575bd6526dd2</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-observability-with-opentelemetry/"/>
-        <updated>2026-09-04T00:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Agentic coding tools like Claude Code, OpenAI Codex, Google Antigravity, and Cursor have become ubiquitous for everyday software development. As agentic systems mature, much of the work developers hav]]></summary>
-        <author>
-            <name>Puneet Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Systems That Know When They Don't Know: A Practical Guide]]></title>
-        <id>6a99b7e04f56be68c2dd5b74</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/"/>
-        <updated>2026-09-03T18:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an]]></summary>
-        <author>
-            <name>Chidiebere Njoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Chips Are Made]]></title>
-        <id>6a9995f0970203e770d14c8d</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-chips-are-made/"/>
-        <updated>2026-09-03T15:44:48.000Z</updated>
-        <summary type="html"><![CDATA[We just published a comprehensive, first-principles course on the semiconductor supply chain on the freeCodeCamp.org YouTube channel. Taught by hardware specialist Kian Kyars, this deep dive explains]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
