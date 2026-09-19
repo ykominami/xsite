@@ -7,93 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=396630",
-          "author": "Lee Meyer",
-          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-random-function-polyfill/",
-          "publishedOn": "2026-08-31T15:12:19.000Z",
-          "wordCount": 6435,
-          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396738",
-          "author": "Daniel Schwarz",
-          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-18/",
-          "publishedOn": "2026-08-31T14:08:55.000Z",
-          "wordCount": 3657,
-          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395259",
-          "author": "Daniel Schwarz",
-          "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-          "publishedOn": "2026-08-27T14:41:06.000Z",
-          "wordCount": 4083,
-          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394713",
-          "author": "Saleh Mubashar",
-          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-          "publishedOn": "2026-08-26T15:38:41.000Z",
-          "wordCount": 4439,
-          "title": "animation-trigger",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396665",
-          "author": "Geoff Graham",
-          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-          "publishedOn": "2026-08-25T14:10:34.000Z",
-          "wordCount": 3365,
-          "title": "MicroLighter: Syntax Highlighter",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395401",
-          "author": "Fränk Klein",
-          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-php-block-registration/",
-          "publishedOn": "2026-08-24T13:54:02.000Z",
-          "wordCount": 6838,
-          "title": "WordPress PHP-Only Block Registration",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396644",
-          "author": "Geoff Graham",
-          "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-          "publishedOn": "2026-08-21T15:13:03.000Z",
-          "wordCount": 3508,
-          "title": "Resolved: CSS Class Prefix Selector",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396428",
-          "author": "Geoff Graham",
-          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-          "publishedOn": "2026-08-19T14:44:41.000Z",
-          "wordCount": 3695,
-          "title": "CSS Navigation Matching, Early Days",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -104,7 +17,7 @@
           "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
           "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5021,
+          "wordCount": 5029,
           "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
             "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
@@ -119,7 +32,7 @@
           "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
           "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5450,
+          "wordCount": 5451,
           "title": "Building A UX ROI Case That Survives The Boardroom",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
@@ -134,7 +47,7 @@
           "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
           "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4569,
+          "wordCount": 4573,
           "title": "The Death Of The Button: Why The Best Interface Is No Interface",
           "enclosure": {
             "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
@@ -149,7 +62,7 @@
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
           "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4750,
+          "wordCount": 4755,
           "title": "The Many Faces Of September (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
@@ -194,7 +107,7 @@
           "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
           "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
           "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5717,
+          "wordCount": 5713,
           "title": "Timing Charts: A Blueprint For SMIL Animations",
           "imageUrl": "https:null"
         }
@@ -205,6 +118,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aad60c103851fe98f2df4a2",
+          "author": "ILYAS RUFAI",
+          "description": "Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to",
+          "link": "https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/",
+          "publishedOn": "2026-09-18T16:03:13.000Z",
+          "wordCount": 2629,
+          "title": "How to Prevent Poisoned GitHub Actions Dependencies",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c5ac930c-aa14-434e-a712-48102cc88e44.png"
+        },
+        {
+          "id": "6aad5cf52b32e1bee69c90a8",
+          "author": "Bansidhar Kadiya",
+          "description": "High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/",
+          "publishedOn": "2026-09-18T15:47:01.000Z",
+          "wordCount": 2446,
+          "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0d7a939-276b-4eb9-a380-6f376997dbe6.png"
+        },
+        {
+          "id": "6aac7747d406d7c207351312",
+          "author": "Hugo Teijiz",
+          "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
+          "link": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
+          "publishedOn": "2026-09-17T23:27:03.000Z",
+          "wordCount": 5310,
+          "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/086653d6-268e-4d13-8f7d-b42c92847361.png"
+        },
         {
           "id": "6aac2aabd02a5d838577063a",
           "author": "Beau Carnes",
@@ -274,36 +217,6 @@
           "wordCount": 3211,
           "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea32b5b4-ae6c-4b75-87bb-696fbc15b047.png"
-        },
-        {
-          "id": "6aa873c5c1f02b411d54db2f",
-          "author": "Umair Mirza",
-          "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
-          "link": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
-          "publishedOn": "2026-09-14T22:23:01.000Z",
-          "wordCount": 2692,
-          "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1443bfb4-581b-457b-afc3-7a85dd5fb3be.png"
-        },
-        {
-          "id": "6aa8200e59dfce663a0e73bd",
-          "author": "Hugo Teijiz",
-          "description": "The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the",
-          "link": "https://www.freecodecamp.org/news/differential-testing-legacy-migration/",
-          "publishedOn": "2026-09-14T16:25:50.000Z",
-          "wordCount": 5317,
-          "title": "How to Use Differential Testing During a Legacy Migration",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6717bbb6-16b9-4fc1-8bfe-7381a3024f73.png"
-        },
-        {
-          "id": "6aa80baffb20ceef80e8afa4",
-          "author": "Abisoye Alli-Balogun",
-          "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
-          "publishedOn": "2026-09-14T14:58:55.000Z",
-          "wordCount": 3704,
-          "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c454c134-d09d-4d92-b0ba-99cbf685fe67.png"
         }
       ]
     }
