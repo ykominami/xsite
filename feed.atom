@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-19T00:22:22.209Z</id>
+    <id>urn:2026-09-20T00:25:20.058Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T00:22:22.209Z</updated>
+    <updated>2026-09-20T00:25:20.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
+        <id>6aaec6a4bd97d368f64a3819</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
+        <updated>2026-09-19T17:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has]]></summary>
+        <author>
+            <name>RONI DAS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
+        <id>6aaec60b559dfa1d9e4f1ddc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
+        <updated>2026-09-19T17:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native]]></title>
+        <id>6aaec3412b999a8f7cf63f8f</id>
+        <link href="https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/"/>
+        <updated>2026-09-19T17:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
+        <author>
+            <name>Farouq Seriki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
+        <id>6aadae08b3c208add9878388</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/"/>
+        <updated>2026-09-18T21:32:56.000Z</updated>
+        <summary type="html"><![CDATA[A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Coding Assistants Can Help You Debug Without Writing the Code for You]]></title>
+        <id>6aadadc0f205881df958e884</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/"/>
+        <updated>2026-09-18T21:31:44.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth]]></summary>
+        <author>
+            <name>GAYATHRI BOLINENI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Prevent Poisoned GitHub Actions Dependencies]]></title>
         <id>6aad60c103851fe98f2df4a2</id>
@@ -66,56 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
-        <id>6aa9b46181fb07630380c2e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/"/>
-        <updated>2026-09-15T21:10:57.000Z</updated>
-        <summary type="html"><![CDATA[A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi]]></summary>
-        <author>
-            <name>Chris Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 7 Essential Parts of Your Online Presence]]></title>
-        <id>6aa9b393e892e731e337e0e3</id>
-        <link href="https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/"/>
-        <updated>2026-09-15T21:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team]]></title>
-        <id>6aa9b28d96b8eb1b8b1475f0</id>
-        <link href="https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/"/>
-        <updated>2026-09-15T21:03:09.000Z</updated>
-        <summary type="html"><![CDATA[A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down "just f]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in macOS 27 for Developers?]]></title>
-        <id>6aa9b21e85e19ac0f866ed24</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/"/>
-        <updated>2026-09-15T21:01:18.000Z</updated>
-        <summary type="html"><![CDATA[macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff]]></title>
-        <id>6aa96af3f2afbe5bd755abd1</id>
-        <link href="https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/"/>
-        <updated>2026-09-15T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows]]></summary>
-        <author>
-            <name>Karan Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
         <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
         <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
@@ -136,6 +136,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
+        <id>https://css-tricks.com/?p=396630</id>
+        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
+        <updated>2026-08-31T15:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
+Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
+        <id>https://css-tricks.com/?p=396738</id>
+        <link href="https://css-tricks.com/whats-important-18/"/>
+        <updated>2026-08-31T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
+What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
         <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
@@ -143,6 +165,28 @@
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
+        <id>https://css-tricks.com/?p=395259</id>
+        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
+        <updated>2026-08-27T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
+Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[animation-trigger]]></title>
+        <id>https://css-tricks.com/?page_id=394713</id>
+        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
+        <updated>2026-08-26T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
+animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +200,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
+        <id>https://css-tricks.com/?p=396665</id>
+        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
+        <updated>2026-08-25T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
+MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
         <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
         <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
@@ -166,13 +221,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
-        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
-        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
-        <updated>2026-08-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
+        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
+        <id>https://css-tricks.com/?p=395401</id>
+        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
+        <updated>2026-08-24T13:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
+WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Johan Grobler)</name>
+            <name>Fränk Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
+        <id>https://css-tricks.com/?p=396644</id>
+        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
+        <updated>2026-08-21T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
+Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
