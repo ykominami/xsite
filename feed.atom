@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-19T00:13:59.409Z</id>
+    <id>urn:2026-11-20T00:12:39.711Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T00:13:59.409Z</updated>
+    <updated>2026-11-20T00:12:39.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites in Python with Olostep]]></title>
+        <id>6aff37e26fa61df077387de3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/"/>
+        <updated>2026-11-19T17:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Password Protector Using JavaScript]]></title>
+        <id>6aff2ffbede28e00513a0715</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/"/>
+        <updated>2026-11-19T17:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scroll-state()]]></title>
+        <id>https://css-tricks.com/?page_id=397984</id>
+        <link href="https://css-tricks.com/almanac/functions/s/scroll-state/"/>
+        <updated>2026-11-19T14:57:54.000Z</updated>
+        <summary type="html"><![CDATA[The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.
+scroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Data Structures and Algorithms in Python with Visualizations]]></title>
         <id>6afdc8c04e123f818c6a048e</id>
@@ -171,16 +202,6 @@ CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Happens When You Upload a Large File & Generate a Temporary Download Link]]></title>
-        <id>6af31a20042fa071f004461c</id>
-        <link href="https://www.freecodecamp.org/news/how-file-transfer-services-work/"/>
-        <updated>2026-11-10T13:20:32.000Z</updated>
-        <summary type="html"><![CDATA[Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
         <id>https://css-tricks.com/?p=397812</id>
         <link href="https://css-tricks.com/css-tricks-version-20/"/>
@@ -189,16 +210,6 @@ CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? 
 CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a PDF Storyboard Generator Using JavaScript]]></title>
-        <id>6aee2d6e123f77519047915d</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/"/>
-        <updated>2026-11-06T19:41:34.000Z</updated>
-        <summary type="html"><![CDATA[PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
